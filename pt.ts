@@ -2391,7 +2391,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>Disable all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desativar todos os itens selecionados.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
@@ -2411,7 +2411,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
         <source>Open the folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir a pasta no explorador de ficheiros.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"/>
@@ -2421,17 +2421,17 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Download resources from online mod platforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixar os recursos das plataformas de mod online.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="174"/>
         <source>Try to check or update all selected resources (all resources if none are selected).</source>
-        <translation type="unfinished"></translation>
+        <translation>Tente verificar ou atualizar todos os recursos selecionados (todos se nenhum estiver selecionado).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Reset Update Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Redefinir Metadados de Atualização</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
@@ -2441,12 +2441,12 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="198"/>
         <source>Export List</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar Lista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
         <source>Export resource&apos;s metadata to text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar os metadados do recurso para texto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="209"/>
@@ -2456,17 +2456,17 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
         <source>Change a resource&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar a versão de um recurso.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>View Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver página inicial</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
         <source>View the homepages of all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veja as páginas iniciais de todos os itens selecionados.</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -2496,7 +2496,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Desativar item selecionado</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2874,17 +2874,17 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma versão válida encontrada para este recurso. Provavelmente não está disponível para a versão atual do jogo/carregador de mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="149"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma versão válida encontrada para este recurso. Provavelmente não está disponível para a versão atual do jogo.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="158"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="unfinished"></translation>
+        <translation>O recurso tem uma nova atualização disponível, mas não pode ser baixada usando CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="174"/>
@@ -2898,7 +2898,7 @@ Por favor tenta de novo.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparando mods para CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -3436,7 +3436,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
@@ -3635,7 +3635,7 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished">Nenhuma versão do Java está atualmente disponível para o seu Sistema Operativo.</translation>
+        <translation>Nenhuma versão do Java está atualmente disponível para o seu Sistema Operacional.</translation>
     </message>
 </context>
 <context>
@@ -3648,7 +3648,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="107"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
