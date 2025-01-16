@@ -9141,7 +9141,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished">Мод был отключён, поскольку он уже может быть установлен.</translation>
+        <translation>Мод был отключён, так как он, возможно, уже установлен.</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
