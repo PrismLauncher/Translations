@@ -1036,7 +1036,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>Wybierz modyfikacje do zainstalowania</translation>
+        <translation>Wybierz Mody do zainstalowania</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -2457,7 +2457,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Download resources from online mod platforms.</source>
-        <translation>Pobierz zasoby z internetowych portali z modyfikacjami.</translation>
+        <translation>Pobierz zasoby z online platform z modami.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="174"/>
@@ -2467,7 +2467,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Reset Update Metadata</source>
-        <translation>Zresetuj metadane aktualizacji</translation>
+        <translation>Zresetuj Metadane Aktualizacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
@@ -2482,7 +2482,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
         <source>Export resource&apos;s metadata to text.</source>
-        <translation>Wyeksportuj metadane źródła do pliku tekstowego.</translation>
+        <translation>Wyeksportuj metadane zasobu do pliku tekstowego.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="209"/>
@@ -3537,7 +3537,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
         <source>Search...</source>
-        <translation>Wyszukaj</translation>
+        <translation>Szukaj...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
@@ -5256,7 +5256,7 @@ Czy chcesz zagrać w demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <source>Account expired and re-login attempt failed</source>
-        <translation>Dane logowania wygasły, a próba ponownego zalogowania nie powiodła się</translation>
+        <translation>Dane logowania wygasły i próba ponownego zalogowania nie powiodła się</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="343"/>
@@ -5649,7 +5649,7 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="173"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished">Jeśli aktywna, zablokowane zasoby zostaną przeniesione zamiast kopiowania.</translation>
+        <translation>Jeśli włączone, będzie przenosić blokowane zasoby zamiast je kopiować.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="176"/>
@@ -6342,7 +6342,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation>Aby zagrać w Minecrafta, musisz być zalogowany(a) na co najmniej jedno konto Microsoft. Czy chcesz się zalogować?</translation>
+        <translation>Aby zagrać w Minecrafta, musisz być zalogowany(a) na co najmniej jedno konto Microsoft. Czy chcesz się teraz zalogować?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
@@ -8184,7 +8184,7 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="61"/>
         <source>On newer versions the game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>Nowsze wersje gry wspierają wyłącznie konkretne rozdzielczości. Aby symulować maksymalizację obecna wersja gry dopasuje się do maksymalnego rozmiaru wyświetlacza.</translation>
+        <translation>Nowsze wersje gry wspierają wyłącznie konkretne rozdzielczości. Aby symulować maksymalizację, obecna wersja gry dopasuje się do maksymalnego rozmiaru wyświetlacza.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="64"/>
@@ -8472,7 +8472,7 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
         <source>Open source only</source>
-        <translation>Wyłącznie open source</translation>
+        <translation>Wyłącznie open-source</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="201"/>
@@ -11233,12 +11233,12 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik komponentu %1 nie istnieje. To nie powinno się wydarzyć.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można było odczytać %1:%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
@@ -11758,7 +11758,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
         <source>%1 is missing requirement %2 %3</source>
-        <translation>%1 nie posiada wymagania %2 %3</translation>
+        <translation>%1 nie posiada wymaganych %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
@@ -12421,7 +12421,7 @@ Uwaga: Ten zasób jest twardo dowiązany skądś indziej. Edytowanie go także z
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="125"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="224"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
-        <translation>Aktualizacje paczek zasobów są niedostępne kiedy metadane są wyłączone.</translation>
+        <translation>Aktualizacje paczek zasobów są niedostępne kiedy metadane są wyłączone!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="130"/>
