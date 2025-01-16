@@ -5713,93 +5713,93 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="344"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Lancer</translation>
+        <translation>&amp;Lancer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="293"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter une instanc&amp;e...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation>D&amp;ossiers</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="268"/>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barre de Statut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="320"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Param&amp;ètres...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Instances</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="556"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir les dossiers de l&apos;instance dans un navigateur de fichiers.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="565"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancer &amp;Source</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="577"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mods centraux</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
         <source>&amp;Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="592"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir le dossier de skins dans un navigateur de fichiers.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="601"/>
         <source>Instance Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Icônes d&apos;Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="604"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir le fichier d&apos;icônes d&apos;Instance dans un exploreur de fichiers.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Logs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir le dossier de logs dans un explorateur de fichiers.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="693"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Supprimer le cache de métadata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="696"/>
         <source>Clear cached metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les métadata cachées</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="762"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Thèmes Widget</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="765"/>
