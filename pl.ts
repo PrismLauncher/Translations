@@ -1036,7 +1036,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>Wybierz Modyfikacje Do Zainstalowania</translation>
+        <translation>Wybierz modyfikacje do zainstalowania</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -5649,12 +5649,12 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="173"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jeśli aktywna, zablokowane zasoby zostaną przeniesione zamiast kopiowania.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="176"/>
         <source>Move blocked resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Przenieś zablokowane zasoby</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="188"/>
@@ -9125,7 +9125,7 @@ Proszę zaktualizować %1!</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod został dezaktowywowany, ponieważ może już być zainstalowany.</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
@@ -11243,7 +11243,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można przeanalizować %1 jako json: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
@@ -11253,7 +11253,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można przeanalizować %1: zły format pliku</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
