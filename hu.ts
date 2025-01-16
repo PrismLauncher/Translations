@@ -8991,7 +8991,7 @@ Kérjük, frissítse a következőt: %1!</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished">A mod le lett tiltva, mivel lehet, hogy már telepítve van.</translation>
+        <translation>A mod le lett tiltva, mivel lehet, hogy már telepítve van.</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
