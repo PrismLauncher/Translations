@@ -8985,7 +8985,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished">이미 설치되어 있으므로 모드가 비활성화되었습니다.</translation>
+        <translation>이미 설치되어 있으므로 모드가 비활성화되었습니다.</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
