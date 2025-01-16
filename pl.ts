@@ -6833,7 +6833,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="693"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation>&amp;Usuń Metadane Pamięci Podręcznej</translation>
+        <translation>&amp;Usuń metadane pamięci podręcznej</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="696"/>
