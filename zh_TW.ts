@@ -11073,7 +11073,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="105"/>
         <source>Confirm Truncation</source>
-        <translation type="unfinished"></translation>
+        <translation>確認截斷</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="106"/>
@@ -11083,7 +11083,12 @@ The launcher can keep the first %3 and last %4 lines, trimming the middle.
 If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
 
 Proceed with truncation?</source>
-        <translation type="unfinished"></translation>
+        <translation>記錄檔有 %1 行，超出 mclo.gs 的 %2 行限制。
+啟動器可以保留前 %3 行和後 %4 行，修剪中間部分。
+
+如果你選擇「否」，mclo.gs 將只保留前 %2 行，可能會切斷有用的資訊，例如結尾的錯誤。
+
+是否繼續截斷？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="135"/>
