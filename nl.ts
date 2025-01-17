@@ -67,7 +67,6 @@
         <translation>&amp;Modrinth API</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Let op: je hoeft dit alleen in te vullen om bij privégegevens te kunnen. Lees de &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentatie&lt;/a&gt; (Engels) voor meer informatie.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -132,6 +131,11 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
         <translation>Typ hier zelf een URL voor meta.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -5721,20 +5725,20 @@ Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</transl
         <translation>Historische launcher bibliotheek is niet gevonden. Controleer uw installatie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="138"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="139"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
         <translation>De wrapper-opdracht &quot;%1&quot; kon niet worden gevonden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
         <translation>Kon Minecraft niet starten!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="173"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="186"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="174"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="187"/>
         <source>Game crashed.</source>
         <translation>Spel is gecrashed.</translation>
     </message>
@@ -9971,13 +9975,12 @@ Foutmelding: %3</translation>
 <context>
     <name>PostLaunchCommand</name>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="55"/>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="61"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="51"/>
         <source>Running Post-Launch command: %1</source>
         <translation>Uitvoeren van post-lanceringsopdracht: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="68"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="64"/>
         <source>Post-Launch command failed with code %1.
 
 </source>
@@ -9986,7 +9989,7 @@ Foutmelding: %3</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="84"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="80"/>
         <source>Post-Launch command ran successfully.
 
 </source>
@@ -9998,13 +10001,12 @@ Foutmelding: %3</translation>
 <context>
     <name>PreLaunchCommand</name>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="55"/>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="61"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="51"/>
         <source>Running Pre-Launch command: %1</source>
         <translation>Uitvoeren van pre-lanceringsopdracht: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="68"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="63"/>
         <source>Pre-Launch command failed with code %1.
 
 </source>
@@ -10013,7 +10015,7 @@ Foutmelding: %3</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="84"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="79"/>
         <source>Pre-Launch command ran successfully.
 
 </source>

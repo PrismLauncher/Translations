@@ -59,7 +59,6 @@
         <translation>API ng &amp;Modrinth</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Tandaan: Kakailanganin mo lang &apos;to para mag-access ng pribadong data. Basahin ang &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;dokumentasyon&lt;/a&gt; para sa higit pang impormasyon.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -124,6 +123,11 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
         <translation>Ilagay rito ang URL para sa custom metadata.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -5195,20 +5199,20 @@ Inirerekomenda ang pagbibigay ng %1 ng access dito gamit ng Flatseal.</translati
         <translation>Hindi makita ang Legacy launcher library. Paki-check ng iyong installation.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="138"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="139"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
         <translation>Hindi mahanap ang wrapper command na &quot;%1&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
         <translation>Hindi ma-start ang Minecraft!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="173"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="186"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="174"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="187"/>
         <source>Game crashed.</source>
         <translation>Nag-crash ang laro.</translation>
     </message>
@@ -8544,13 +8548,12 @@ Mensahe ng Error: %3</translation>
 <context>
     <name>PostLaunchCommand</name>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="55"/>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="61"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="51"/>
         <source>Running Post-Launch command: %1</source>
         <translation>I-ginagawa ang Post-Launch command na: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="68"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="64"/>
         <source>Post-Launch command failed with code %1.
 
 </source>
@@ -8559,7 +8562,7 @@ Mensahe ng Error: %3</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="84"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="80"/>
         <source>Post-Launch command ran successfully.
 
 </source>
@@ -8571,13 +8574,12 @@ Mensahe ng Error: %3</translation>
 <context>
     <name>PreLaunchCommand</name>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="55"/>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="61"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="51"/>
         <source>Running Pre-Launch command: %1</source>
         <translation>I-ginagawa ang Pre-Launch command na: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="68"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="63"/>
         <source>Pre-Launch command failed with code %1.
 
 </source>
@@ -8586,7 +8588,7 @@ Mensahe ng Error: %3</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="84"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="79"/>
         <source>Pre-Launch command ran successfully.
 
 </source>

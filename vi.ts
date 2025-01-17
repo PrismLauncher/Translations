@@ -63,7 +63,6 @@
         <translation>&amp;Modrinth API</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lưu ý: Bạn chỉ cần đặt cái này để truy cập dữ liệu riêng tư. Hãy đọc &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;tài liệu này&lt;/a&gt; để có thêm thông tin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -128,6 +127,11 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
         <translation>Điền một URL tùy chỉnh cho máy chủ metadata ở đây.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -5664,20 +5668,20 @@ Bạn nên cấp %1 quyền cho nó qua Flatseal.</translation>
         <translation>Không tìm thấy thư viện từ phiên bản cũ. Vui lòng kiểm tra lại.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="138"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="139"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
         <translation>Câu lệnh wrapper &quot;%1&quot; không thể tìm thấy.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
         <translation>Không thể khởi chạy Minecraft!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="173"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="186"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="174"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="187"/>
         <source>Game crashed.</source>
         <translation>Game đã bị hỏng.</translation>
     </message>
@@ -9647,13 +9651,12 @@ Tin nhắn báo lỗi: %3</translation>
 <context>
     <name>PostLaunchCommand</name>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="55"/>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="61"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="51"/>
         <source>Running Post-Launch command: %1</source>
         <translation>Đang chạy lệnh sau khi thoát: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="68"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="64"/>
         <source>Post-Launch command failed with code %1.
 
 </source>
@@ -9662,7 +9665,7 @@ Tin nhắn báo lỗi: %3</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="84"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="80"/>
         <source>Post-Launch command ran successfully.
 
 </source>
@@ -9674,13 +9677,12 @@ Tin nhắn báo lỗi: %3</translation>
 <context>
     <name>PreLaunchCommand</name>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="55"/>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="61"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="51"/>
         <source>Running Pre-Launch command: %1</source>
         <translation>Đang chạy lệnh khởi động: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="68"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="63"/>
         <source>Pre-Launch command failed with code %1.
 
 </source>
@@ -9689,7 +9691,7 @@ Tin nhắn báo lỗi: %3</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="84"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="79"/>
         <source>Pre-Launch command ran successfully.
 
 </source>

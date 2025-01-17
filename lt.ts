@@ -59,7 +59,6 @@
         <translation>Modrinth API</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pastaba: jūs turite nustatyti tai, tik norint pasiekti privačius duomenis. Perskaitykite &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;dokumentaciją&lt;/a&gt; dėl papildomos informacijos.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -124,6 +123,11 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
         <translation>Įveskite pasirinktą URL meta duomenims.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -5339,20 +5343,20 @@ Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="138"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="139"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
         <translation type="unfinished">Nepavyko rasti įvyniojimo komandos „%1“.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
         <translation type="unfinished">Nepavyko paleisti Minecraft!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="173"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="186"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="174"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="187"/>
         <source>Game crashed.</source>
         <translation type="unfinished">Žaidimas nulūžo.</translation>
     </message>
@@ -8799,20 +8803,19 @@ Error message: %3</source>
 <context>
     <name>PostLaunchCommand</name>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="55"/>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="61"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="51"/>
         <source>Running Post-Launch command: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="68"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="64"/>
         <source>Post-Launch command failed with code %1.
 
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="84"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="80"/>
         <source>Post-Launch command ran successfully.
 
 </source>
@@ -8822,20 +8825,19 @@ Error message: %3</source>
 <context>
     <name>PreLaunchCommand</name>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="55"/>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="61"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="51"/>
         <source>Running Pre-Launch command: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="68"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="63"/>
         <source>Pre-Launch command failed with code %1.
 
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="84"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="79"/>
         <source>Pre-Launch command ran successfully.
 
 </source>

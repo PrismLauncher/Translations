@@ -59,7 +59,6 @@
         <translation>API &amp;Modrinth</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nodyn: rwyt ti dim ond angen gosod hwn er mwyn mynegi data preifat. Darllena&apos;r &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;dogfennaeth&lt;/a&gt; am fwy o wybodaeth.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -124,6 +123,11 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
         <translation>Rhowch URL personol ar gyfer meta yma.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -5069,20 +5073,20 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="138"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="139"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="173"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="186"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="174"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="187"/>
         <source>Game crashed.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8382,20 +8386,19 @@ Error message: %3</source>
 <context>
     <name>PostLaunchCommand</name>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="55"/>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="61"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="51"/>
         <source>Running Post-Launch command: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="68"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="64"/>
         <source>Post-Launch command failed with code %1.
 
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="84"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="80"/>
         <source>Post-Launch command ran successfully.
 
 </source>
@@ -8405,20 +8408,19 @@ Error message: %3</source>
 <context>
     <name>PreLaunchCommand</name>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="55"/>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="61"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="51"/>
         <source>Running Pre-Launch command: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="68"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="63"/>
         <source>Pre-Launch command failed with code %1.
 
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="84"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="79"/>
         <source>Pre-Launch command ran successfully.
 
 </source>
