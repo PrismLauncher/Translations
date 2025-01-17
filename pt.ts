@@ -1870,27 +1870,22 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
 <context>
     <name>EditAccountDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="14"/>
         <source>Login</source>
         <translation>Login</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="33"/>
         <source>Email</source>
         <translation>E-mail</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="43"/>
         <source>Password</source>
         <translation>Palavra-passe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/EditAccountDialog.cpp" line="32"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/EditAccountDialog.cpp" line="33"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -10534,12 +10529,12 @@ Escolhe o teu nome com cuidado:</translation>
         <translation>%1 (em uso)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="68"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="92"/>
         <source>Confirm Upload</source>
         <translation>Confirmar Carregamento</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="69"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="93"/>
         <source>You are about to upload &quot;%1&quot; to %2.
 You should double-check for personal information.
 
@@ -10550,17 +10545,32 @@ Deves verificar se expões informação pessoal.
 Tens a certeza de que queres prosseguir?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="85"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="105"/>
+        <source>Confirm Truncation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="106"/>
+        <source>The log has %1 lines, exceeding mclo.gs&apos; limit of %2.
+The launcher can keep the first %3 and last %4 lines, trimming the middle.
+
+If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
+
+Proceed with truncation?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="135"/>
         <source>Upload failed</source>
         <translation>Falha no envio</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="91"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
         <source>Upload finished</source>
         <translation>Envio finalizado</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="92"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="142"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>O &lt;a href=&quot;%1&quot;&gt;link para o registo enviado &lt;/a&gt; foi copiado.</translation>
     </message>
