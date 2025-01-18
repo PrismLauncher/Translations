@@ -7928,7 +7928,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modifikacija buvo išjunkta, nes gali būti, kad jau buvo instaliuotą.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
