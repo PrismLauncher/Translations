@@ -139,7 +139,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;참고: 비공개 데이터에 접근하기 위하여서만 이것을 설정하여야 합니다. 자세한 내용은 &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;문서&lt;/a&gt;를 참고하십시오.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -10964,7 +10964,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="105"/>
         <source>Confirm Truncation</source>
-        <translation type="unfinished"></translation>
+        <translation>잘라내기 확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="106"/>
@@ -10974,7 +10974,12 @@ The launcher can keep the first %3 and last %4 lines, trimming the middle.
 If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
 
 Proceed with truncation?</source>
-        <translation type="unfinished"></translation>
+        <translation>로그에 %1줄이 있어 mclo.gs의 제한인 %2줄을 초과하였습니다.
+런처에서 처음 %3줄과 마지막 %4줄을 유지하여, 중간을 잘라낼 수 있습니다.
+
+[아니요]를 선택하면 mclo.gs는 처음 %2줄만 유지하여, 로그의 끝에 있는 충돌과 같은 유용할 수 있는 정보를 잘라냅니다.
+
+잘라내기를 진행하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="135"/>
