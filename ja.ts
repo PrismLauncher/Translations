@@ -9728,7 +9728,7 @@ Reason: %1.</source>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
         <translation>アップデーターが60秒間終了しませんでした。
-理由: %1。</translation>
+理由：%1。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
