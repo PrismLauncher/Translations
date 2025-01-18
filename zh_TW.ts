@@ -6186,7 +6186,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>將整個紀錄複製到剪貼簿</translation>
+        <translation>將整個記錄檔複製到剪貼簿</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
@@ -6391,7 +6391,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
         <source>Failed to retrieve device authorization</source>
-        <translation>無法取得裝置驗證資訊</translation>
+        <translation>擷取裝置授權失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
@@ -7452,12 +7452,12 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1313"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation>%1 已成功新增至您的 PATH。您可以透過執行「%2」來啟動。</translation>
+        <translation>%1 已成功加到您的 PATH 環境變數。現在您可以使用「%2」來啟動它。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1316"/>
         <source>Failed to add %1 to PATH</source>
-        <translation>無法將 %1 新增至 PATH</translation>
+        <translation>無法將 %1 加到 PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1317"/>
@@ -10208,7 +10208,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation>由於驅逐（eviction）導致未命中像素圖快取發生過快，在該高速快取大小達到其限制時，將快取大小調整為</translation>
+        <translation>由於快取淘汰導致圖素快取（pixmap cache）未命中過於頻繁，正在將快取大小增加至</translation>
     </message>
 </context>
 <context>
@@ -15436,7 +15436,7 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="56"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="58"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>復原 Xbox 個人檔案失敗：%1</translation>
+        <translation>無法擷取 Xbox 個人檔案：%1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
