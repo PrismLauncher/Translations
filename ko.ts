@@ -13465,7 +13465,7 @@ Are you sure?</source>
         <translation>하위 작업 상태...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="69"/>
         <source>Status Details</source>
         <translation>상태 세부 정보</translation>
     </message>

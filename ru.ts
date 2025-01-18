@@ -13683,7 +13683,7 @@ Are you sure?</source>
         <translation>Статус подзадачи…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="69"/>
         <source>Status Details</source>
         <translation>Подробности статуса</translation>
     </message>

@@ -13626,7 +13626,7 @@ Tem certeza?</translation>
         <translation>Status de SubTarefa...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="69"/>
         <source>Status Details</source>
         <translation>Detalhes de Status</translation>
     </message>

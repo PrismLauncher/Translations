@@ -13590,7 +13590,7 @@ Are you sure?</source>
         <translation>Estado de la subtarea...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="69"/>
         <source>Status Details</source>
         <translation>Detalles del estado</translation>
     </message>

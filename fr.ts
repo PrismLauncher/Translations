@@ -13586,7 +13586,7 @@ Are you sure?</source>
         <translation>État de la tâche secondaire...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="69"/>
         <source>Status Details</source>
         <translation>Détails de l&apos;état</translation>
     </message>

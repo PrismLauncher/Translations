@@ -13569,7 +13569,7 @@ Jste si jisti?</translation>
         <translation>Stav dílčí úlohy...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="69"/>
         <source>Status Details</source>
         <translation>Podrobnosti o stavu</translation>
     </message>

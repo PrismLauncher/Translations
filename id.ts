@@ -12885,7 +12885,7 @@ Apakah Anda yakin?</translation>
         <translation>Status Sub Task...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="69"/>
         <source>Status Details</source>
         <translation>Detail-detail Status</translation>
     </message>

@@ -12604,7 +12604,7 @@ Are you sure?</source>
         <translation>Starea Sarcinii Secundare...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="69"/>
         <source>Status Details</source>
         <translation>Detaliile Stării</translation>
     </message>
