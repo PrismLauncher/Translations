@@ -51,12 +51,12 @@
             "untranslated" : 1256
         },
         "cs" : {
-            "file" : "04d9e2040a714bd19f9d663cef84cb19eca01c7f.class",
-            "sha1" : "04d9e2040a714bd19f9d663cef84cb19eca01c7f",
-            "size" : 323589,
-            "translated" : 2256,
+            "file" : "a04800b17a0ccf9f68cc367965718264de19034c.class",
+            "sha1" : "a04800b17a0ccf9f68cc367965718264de19034c",
+            "size" : 325290,
+            "translated" : 2259,
             "fuzzy" : 0,
-            "untranslated" : 3
+            "untranslated" : 0
         },
         "cy" : {
             "file" : "d67b9b10b91fa7889ac259a04399f1c0412db86f.class",
@@ -323,12 +323,12 @@
             "untranslated" : 3
         },
         "ja" : {
-            "file" : "235d3d3892bf9af99117dac9bd35110863f4cfb6.class",
-            "sha1" : "235d3d3892bf9af99117dac9bd35110863f4cfb6",
-            "size" : 260076,
-            "translated" : 2256,
+            "file" : "36f1847a960c646ca4ce87945f5e1ff6488f4b25.class",
+            "sha1" : "36f1847a960c646ca4ce87945f5e1ff6488f4b25",
+            "size" : 260997,
+            "translated" : 2259,
             "fuzzy" : 0,
-            "untranslated" : 3
+            "untranslated" : 0
         },
         "ja_KANJI" : {
             "file" : "315dd5fa8e6054ec923fe02311314ec225e5fa4a.class",
@@ -379,12 +379,12 @@
             "untranslated" : 1975
         },
         "lt" : {
-            "file" : "641efb7fc6413cdbff473812994758b402b7fb27.class",
-            "sha1" : "641efb7fc6413cdbff473812994758b402b7fb27",
-            "size" : 125923,
+            "file" : "89fccb837c2ba60042831d3222f77a3087896a5a.class",
+            "sha1" : "89fccb837c2ba60042831d3222f77a3087896a5a",
+            "size" : 126151,
             "translated" : 684,
-            "fuzzy" : 256,
-            "untranslated" : 1319
+            "fuzzy" : 257,
+            "untranslated" : 1318
         },
         "lv" : {
             "file" : "08125baa419b5209acf65ffbb36aed3fb4a48c6f.class",
