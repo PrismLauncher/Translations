@@ -110,7 +110,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="359"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>在這裡輸入自訂使用者代理。將以啟動器版本替換特殊字串 $LAUNCHER_VER。</translation>
+        <translation>在這裡輸入自訂使用者代理。將以啟動器版本取代特殊字串 $LAUNCHER_VER。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -876,7 +876,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>您的 /tmp 目錄目前掛載了「noexec」旗標。
 某些版本的 Minecraft 可能無法啟動。
 
-你可以透過重新掛載 /tmp 並啟用「exec」旗標，或是將 java.io.tmpdir JVM 參數設定為一個可寫入且「exec」旗標已啟用的檔案系統目錄（例如：/home/user/.local/tmp）來解決這個問題。
+您可以透過重新掛載 /tmp 並啟用「exec」旗標，或是將 java.io.tmpdir JVM 參數設定為一個可寫入且「exec」旗標已啟用的檔案系統目錄（例如：/home/user/.local/tmp）來解決這個問題。
 </translation>
     </message>
     <message>
@@ -3084,7 +3084,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="414"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;您好！&lt;/h1&gt;&lt;h4&gt;您的 Pack ID 似乎為空。這是因為舊版本啟動器中存在錯誤。&lt;br/&gt;不幸的是，如果沒有此資訊，我們將無法執行正確的 API 請求。&lt;br/&gt;&lt;br/&gt;因此，為了使此功能正常運作，您需要從內置下載器重新下載模組包。&lt;br/&gt;&lt;br/&gt;別擔心，它會要求您更新此實例，所以您不會丟失此實例！&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;您好！&lt;/h1&gt;&lt;h4&gt;您的 Pack ID 似乎為空。這是因為舊版本啟動器中存在錯誤。&lt;br/&gt;不幸的是，如果沒有此資訊，我們將無法執行正確的 API 請求。&lt;br/&gt;&lt;br/&gt;因此，為了使此功能正常運作，您需要從內建下載器重新下載模組包。&lt;br/&gt;&lt;br/&gt;別擔心，它會要求您更新此實例，所以您不會遺失此實例！&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="476"/>
@@ -5527,7 +5527,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>Check downloads folder recursively</source>
-        <translation>遞歸檢查下載資料夾</translation>
+        <translation>遞迴檢查下載資料夾</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="291"/>
@@ -5658,7 +5658,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="513"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation>使用選單列替換工具列 (&amp;R)</translation>
+        <translation>使用選單列取代工具列 (&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="537"/>
@@ -6186,7 +6186,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>將整個記錄複製到剪貼簿</translation>
+        <translation>將整個紀錄複製到剪貼簿</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
@@ -6975,7 +6975,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation>將選擇的實例匯出成支持的格式。</translation>
+        <translation>將選擇的實例匯出成支援的格式。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="475"/>
@@ -7452,7 +7452,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1313"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation>%1 已成功新增至您的 PATH。您可以通過執行「%2」來啟動。</translation>
+        <translation>%1 已成功新增至您的 PATH。您可以透過執行「%2」來啟動。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1316"/>
@@ -7545,7 +7545,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1513"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>啟動器位於其提取的資料夾中，因此無法建立快捷方式。</translation>
+        <translation>啟動器位於其提取的資料夾中，因此無法建立捷徑。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1578"/>
@@ -9961,7 +9961,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="64"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>將整個記錄複製到剪貼簿</translation>
+        <translation>將整個紀錄複製到剪貼簿</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
@@ -10208,7 +10208,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation>由於驅逐（eviction）導致未命中像素圖緩存發生過快，在該高速快取大小達到其限制時，將快取大小調整為</translation>
+        <translation>由於驅逐（eviction）導致未命中像素圖快取發生過快，在該高速快取大小達到其限制時，將快取大小調整為</translation>
     </message>
 </context>
 <context>
@@ -11086,7 +11086,7 @@ Proceed with truncation?</source>
         <translation>記錄檔有 %1 行，超出 mclo.gs 的 %2 行限制。
 啟動器可以保留前 %3 行和後 %4 行，修剪中間部分。
 
-如果你選擇「否」，mclo.gs 將只保留前 %2 行，可能會切斷有用的資訊，例如結尾的錯誤。
+如果您選擇「否」，mclo.gs 將只保留前 %2 行，可能會切斷有用的資訊，例如結尾的錯誤。
 
 是否繼續截斷？</translation>
     </message>
@@ -14730,7 +14730,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="315"/>
         <source>Minecraft.jar replacement</source>
-        <translation>替換 Minecraft.jar</translation>
+        <translation>取代 Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="340"/>
@@ -15436,7 +15436,7 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="56"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="58"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>恢復 Xbox 個人檔案失敗：%1</translation>
+        <translation>復原 Xbox 個人檔案失敗：%1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
