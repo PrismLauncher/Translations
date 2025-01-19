@@ -127,7 +127,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примітка: вам потрібно налаштувати це лише для доступу до приватних даних. Прочитайте &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;документацію&lt;/a&gt; для отримання додаткової інформації.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -10905,7 +10905,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="105"/>
         <source>Confirm Truncation</source>
-        <translation type="unfinished"></translation>
+        <translation>Підтвердіть усічення</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="106"/>
@@ -10915,7 +10915,12 @@ The launcher can keep the first %3 and last %4 lines, trimming the middle.
 If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
 
 Proceed with truncation?</source>
-        <translation type="unfinished"></translation>
+        <translation>У журналі %1 рядків, що перевищує ліміт mclo.gs %2.
+Запуск може зберегти перші %3 і останні %4 рядки, обрізавши середину.
+
+Якщо ви виберете &quot;Ні&quot;, mclo.gs збереже лише перші %2 рядки, відсікаючи потенційно корисну інформацію, таку як збої в кінці.
+
+Продовжити з усіченням?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="135"/>
