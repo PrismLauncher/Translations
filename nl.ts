@@ -3797,7 +3797,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="150"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Poging tot bepalen van instantie type</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="187"/>
