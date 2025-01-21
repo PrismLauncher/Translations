@@ -2754,13 +2754,13 @@ Por favor volvao a intentar.</translation>
         <translation>Resolvendo identificadores do mod...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="104"/>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="128"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="148"/>
         <source>Invalid data returned from the API.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="233"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="257"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation type="unfinished">Analizando resposta da API de CurseForge para &apos;%1&apos;...</translation>
     </message>
