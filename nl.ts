@@ -1140,17 +1140,17 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="121"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">Fout opgetreden tijdens de authenticatie.</translation>
+        <translation>Fout opgetreden tijdens de authenticatie.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="128"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Authenticatie mislukt. De sessie is verlopen.</translation>
+        <translation>Authenticatie mislukt. De sessie is verlopen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="135"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">Authenticatie mislukt. Het account bestaat niet meer.</translation>
+        <translation>Authenticatie mislukt. Het account bestaat niet meer.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
@@ -1160,7 +1160,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Onbekende account taak status: %1</translation>
+        <translation>Onbekende accounttaakstatus: %1</translation>
     </message>
 </context>
 <context>
@@ -1221,7 +1221,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulier</translation>
+        <translation>Formulier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
@@ -1282,7 +1282,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
@@ -1636,7 +1636,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
         <source>Help</source>
-        <translation type="unfinished">Help</translation>
+        <translation>Help</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
@@ -1646,7 +1646,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1870,7 +1870,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1994,7 +1994,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="148"/>
@@ -2150,7 +2150,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="108"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="134"/>
@@ -2303,7 +2303,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="166"/>
         <source>File</source>
-        <translation type="unfinished">Bestand</translation>
+        <translation>Bestand</translation>
     </message>
 </context>
 <context>
@@ -2482,7 +2482,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporteer metadata van de mod naar text</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="132"/>
@@ -2815,7 +2815,7 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="233"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">API antwoord voor &apos;%1&apos; van CurseForge analyseren...</translation>
+        <translation>API-antwoord voor &apos;%1&apos; van CurseForge analyseren...</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -2828,7 +2828,7 @@ Probeer het opnieuw.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation type="unfinished">Mods voorbereiden voor CurseForge...</translation>
+        <translation>Bronnen voorbereiden voor CurseForge...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -2863,12 +2863,12 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="174"/>
         <source>Not installed</source>
-        <translation type="unfinished">Niet geïnstalleerd</translation>
+        <translation>Niet geïnstalleerd</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="176"/>
         <source>Unknown</source>
-        <translation type="unfinished">Onbekend</translation>
+        <translation>Onbekend</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
@@ -3181,7 +3181,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation type="unfinished">Filteropties</translation>
+        <translation>Filteropties</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -3471,7 +3471,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="88"/>
@@ -3608,7 +3608,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -4245,7 +4245,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="680"/>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="unfinished">Stel een server in om bij start aan deel te nemen</translation>
+        <translation>Stel een server in om bij start aan deel te nemen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="692"/>
@@ -4478,7 +4478,7 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Refresh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="214"/>
@@ -4509,7 +4509,7 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="289"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="320"/>
         <source>Install Java</source>
-        <translation type="unfinished">Installeer Java</translation>
+        <translation>Installeer Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"/>
@@ -4525,7 +4525,7 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="332"/>
         <source>Abort</source>
-        <translation type="unfinished">Afbreken</translation>
+        <translation>Afbreken</translation>
     </message>
 </context>
 <context>
@@ -4740,14 +4740,14 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="163"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished">Bevestig Selectie</translation>
+        <translation>Bevestig Selectie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="164"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">Je hebt een 32-bits versie van Java.
+        <translation>Je hebt een 32-bits versie van Java geselecteerd.
 Deze versie ondersteunt niet meer dan 2048MiB RAM.
 Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</translation>
     </message>
@@ -4774,13 +4774,14 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="266"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevestig Verwijdering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="267"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Je staat op het punt om de Java-installatie genaamd &quot;%1&quot; te verwijderen.
+Weet je het zeker?</translation>
     </message>
 </context>
 <context>
@@ -4807,12 +4808,12 @@ U kunt later de Java-versie wijzigen in de instellingen.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation type="unfinished">Download Java</translation>
+        <translation>Download Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>32-bit Java gededecteerd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="233"/>
@@ -4822,7 +4823,12 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt een 32-bit installatie van Java geselecteerd, maar meer dan 2048MiB toegewezen als maximum RAM-geheugen.
+%1 zal niet in staat zijn om Minecraft te starten.
+Wil je doorgaan?
+
+Je kan de Java-versie later in de instellingen wijzigen.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="244"/>
@@ -4832,7 +4838,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt geen Java-versie geselecteerd, of een versie die niet werkt.
+%1 zal niet in staat zijn om Minecraft te starten.
+Wil je doorgaan zonder een functionele Java-versie?
+
+Je kan de Java-versie later in de instellingen wijzigen.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="353"/>
@@ -4877,17 +4888,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="503"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">Download automatisch Mojang Java</translation>
+        <translation>Download automatisch Mojang Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="505"/>
         <source>Autodetect Java version</source>
-        <translation type="unfinished">Java-versie automatisch dedecteren</translation>
+        <translation>Java-versie automatisch dedecteren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="506"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java automatisch dedecteren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="515"/>
@@ -4907,7 +4918,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je overschrijdt de maximale geheugentoewijzing die wordt ondersteund door 32-bit Java-installaties.</translation>
     </message>
 </context>
 <context>
@@ -4921,7 +4932,7 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer hoeveel RAM-geheugen je aan de instanties wil toewijzen en of Prism Launcher automatisch of handmatig Java moet beheren.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -5106,17 +5117,17 @@ Wilt u de demo spelen?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Het account is verlopen en moet opnieuw worden geverifieerd. Wil je dit account opnieuw verifiëren?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <source>Account expired and re-login attempt failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Account is verlopen en opnieuw inloggen is mislukt</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="343"/>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>Het account is verlopen en moet opnieuw worden geverifieerd</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="354"/>
@@ -5414,7 +5425,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="84"/>
         <source>Update interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Update-interval</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="91"/>
@@ -5424,7 +5435,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
         <source>h</source>
-        <translation type="unfinished">h</translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="141"/>
