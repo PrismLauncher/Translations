@@ -127,7 +127,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Catatan: Anda hanya perlu mengatur ini untuk mengakses data pribadi. Baca &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentasi&lt;/a&gt; untuk informasi lebih lanjut.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -10460,7 +10460,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="105"/>
         <source>Confirm Truncation</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmasi Pemotongan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="106"/>
@@ -10470,7 +10470,12 @@ The launcher can keep the first %3 and last %4 lines, trimming the middle.
 If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
 
 Proceed with truncation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Log memiliki %1 baris, melebihi batas mclo.gs yaitu %2. 
+Peluncur dapat menyimpan %3 baris pertama dan %4 baris terakhir, memotong bagian tengahnya. 
+
+Jika Anda memilih &apos;Tidak&apos;, mclo.gs hanya akan menyimpan %2 baris pertama, memotong informasi yang mungkin berguna seperti crash dibagian akhir. 
+
+Lanjutkan dengan pemotongan?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="135"/>
