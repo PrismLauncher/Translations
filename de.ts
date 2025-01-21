@@ -147,7 +147,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Notiz: Parameter wird nur für den Zugriff auf private Informationen gebraucht. Mehr Informationen dazu in der &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;Dokumentation&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -11140,7 +11140,7 @@ Bist Du Dir sicher?</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="105"/>
         <source>Confirm Truncation</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkürzung bestätigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="106"/>
@@ -11150,7 +11150,12 @@ The launcher can keep the first %3 and last %4 lines, trimming the middle.
 If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
 
 Proceed with truncation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Log hat %1 Zeilen und überschreitet das Limit von %2 für mclo.gs.
+Das Programm kann die ersten %3 und letzten %4 Zeilen speichern und die Zeilen dazwischen verwerfen.
+
+Wählen Sie &apos;Nein&apos;, wird mclo.gs die ersten %2 Zeilen speichern. Dabei können wichtige Informationen (wie Abstürze) am Ende verloren gehen.
+
+Wollen Sie mit der Verkürzung fortfahren?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="135"/>
