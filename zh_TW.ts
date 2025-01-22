@@ -1411,7 +1411,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <source>Confirm</source>
-        <translation>確認</translation>
+        <translation>確定</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
@@ -6246,7 +6246,7 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="96"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation>處理程序以代碼 %1 結束。</translation>
+        <translation>處理程序已結束，代碼：%1。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="101"/>
@@ -11765,7 +11765,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="71"/>
         <source>Review and confirm</source>
-        <translation>審查並確認</translation>
+        <translation>檢查並確認</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="72"/>
