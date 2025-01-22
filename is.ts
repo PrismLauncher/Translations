@@ -1529,12 +1529,12 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Í Lagi</translation>
     </message>
 </context>
 <context>
@@ -1740,11 +1740,11 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Í Lagi</translation>
     </message>
 </context>
 <context>
@@ -3876,7 +3876,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ræsiforrita</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
@@ -4609,7 +4609,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="424"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ræsiforrita</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="418"/>
@@ -5065,7 +5065,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="60"/>
         <source>Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Ræsiforrit</translation>
     </message>
 </context>
 <context>
@@ -5695,12 +5695,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="347"/>
         <source>Launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ræsiforrita valið tilvik.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="35"/>
         <source>Main Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Aðaltólastika</translation>
     </message>
     <message>
         <source>Add Instance</source>
@@ -5816,12 +5816,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="406"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Breyta...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mappa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="463"/>
@@ -5851,12 +5851,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="356"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Drepa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="344"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ræsiforrita</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="293"/>
@@ -5917,7 +5917,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="565"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Ræsiforrit &amp;Rótaskrá</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="577"/>
@@ -6043,7 +6043,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Breyta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
@@ -6058,7 +6058,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="359"/>
         <source>Kill the running instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreptu hlaupandi tilvikið.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
@@ -6068,7 +6068,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="475"/>
         <source>Prism Launcher (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
@@ -6149,7 +6149,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="383"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Breyta Hóp...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="389"/>
