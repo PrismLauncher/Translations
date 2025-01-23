@@ -2739,7 +2739,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="114"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="130"/>
         <source>Minecraft %1</source>
-        <translation>ไมน์คราฟต์ %1</translation>
+        <translation>มายคราฟ %1</translation>
     </message>
 </context>
 <context>
