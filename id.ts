@@ -4363,7 +4363,7 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Mengekstrak Java (Perkembangan tidak ditunjukkan untuk arsip tar)</translation>
+        <translation>Mengekstrak Java (Perkembangan tidak ditampilkan untuk arsip tar)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
@@ -7776,7 +7776,7 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="133"/>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>Tunjukkan waktu main instansi-instansi (&amp;P)</translation>
+        <translation>Tampilkan waktu main instansi-instansi (&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="140"/>
@@ -7986,7 +7986,7 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="142"/>
         <source>Show all versions</source>
-        <translation>Tunjukkan semua versi</translation>
+        <translation>Tampilkan semua versi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="158"/>
