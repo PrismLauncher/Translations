@@ -135,7 +135,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: questo ti servirà solo per leggere dati privati. Leggi la &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentazione&lt;/a&gt; per più informazioni&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -10982,7 +10982,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="105"/>
         <source>Confirm Truncation</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferma Troncamento</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="106"/>
@@ -10992,7 +10992,12 @@ The launcher can keep the first %3 and last %4 lines, trimming the middle.
 If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
 
 Proceed with truncation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Il log ha %1 linee, eccedendo il limite di mclo.gs di %2 linee.
+Il launcher può mantenere le prime %3 e ultime %4 linee, rimuovendo quelle centrali.
+
+Se scegli &apos;No&apos;, mclo.gs manterrà soltanto le prime %2 linee, tagliando informazioni potenzialnente utili come crash alla fine.
+
+Procedere con il troncamento?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="135"/>
