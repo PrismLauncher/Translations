@@ -6231,9 +6231,21 @@ Are you sure?</oldsource>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>L&apos;instance suivante pourrait référer des fichiers dans cette instance :
+
+%1
+
+La supprimer pourrait briser l&apos;autre instance, 
+
+Voulez-vous procéder ?</numerusform>
+            <numerusform>Les instances suivantes pourraient référer des fichiers dans cette instance :
+
+%1
+
+La supprimer pourrait briser les autres instances, 
+
+Voulez-vous procéder ?</numerusform>
         </translation>
     </message>
     <message>
@@ -6249,29 +6261,29 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1625"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1631"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un raccourci pour instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1501"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de trouver bureau ?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1513"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le launcher est dans le dossier dans lequel il à été extrait, donc il ne peut pas créer de raccourcis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1537"/>
         <source>Create instance Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer une Application pour l&apos;instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1537"/>
         <source>Failed to create icon for Application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la création d&apos;une icône pour l&apos;Application.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1578"/>
