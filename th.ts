@@ -3844,7 +3844,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="284"/>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>เริ่มเกมไมน์คราฟต์แบบขยายสุด</translation>
+        <translation>เริ่มเกมมายคราฟแบบขยายสุด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="291"/>
@@ -7064,7 +7064,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1086"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">ไมน์คราฟต์ %1</translation>
+        <translation type="unfinished">มายคราฟ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
