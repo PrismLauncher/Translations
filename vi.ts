@@ -1615,7 +1615,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation>Hệ thống tập tin và/hay hệ điều hành của bạn không hỗ trợ reflinks</translation>
+        <translation>Hệ thống tập tin và/hoặc hệ điều hành của bạn không hỗ trợ reflinks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
@@ -14590,7 +14590,7 @@ Bạn có chắc không?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="415"/>
         <source>Rename World</source>
-        <translation>Đổi tên Thế giới</translation>
+        <translation>Thay đổi tên thế giới</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
