@@ -5774,27 +5774,27 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[測試/錯誤] 喔喔喔喔喔喔！一個可怕的錯誤！</translation>
+        <translation>[測試/錯誤] 喔喔喔喔喔喔！一個嚇人的錯誤！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="363"/>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation>[測試/錯誤] 一個可怕的錯誤！</translation>
+        <translation>[測試/錯誤] 一個嚇人的錯誤！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="366"/>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation>[測試/警告] 一個不那麼可怕的警告。</translation>
+        <translation>[測試/警告] 一個沒那麼嚇人的警告。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="367"/>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[測試/除錯] 一個秘密的除錯訊息…</translation>
+        <translation>[測試/除錯] 一則秘密的除錯訊息…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="368"/>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation>[測試/嚴重錯誤] 一個可怕的嚴重錯誤！</translation>
+        <translation>[測試/致命] 一個可怕的致命錯誤！</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -5803,7 +5803,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="365"/>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[測試/資訊] 無害的訊息…</translation>
+        <translation>[測試/資訊] 一則無害的訊息…</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
