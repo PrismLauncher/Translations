@@ -13933,29 +13933,29 @@ Do you want to continue?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="226"/>
         <source>Open World Datapacks Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه دنیا دیتاپک ها را باز کنید</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="280"/>
         <source>Open World in MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>باز کردن دنیا در MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="300"/>
         <source>No MCEdit found or set up!</source>
-        <translation>هیچ تنظیمی برای MCEdit یا خود MCEdit یافت نشد!</translation>
+        <translation>هیچ تنظیمی برای MCEdit یافت نشد!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="301"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation>شما امکانات MCEdit را ندارید یا جا‌به‌جا شده.
-شما می توانید این امکانات را در تنظیمات عمومی مشخص کنید.</translation>
+        <translation>شما MCEdit را درست تنظیم نکردید یا جا‌به‌جا شده است.
+شما می توانید آنرا در تنظیمات عمومی تنظیم کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="307"/>
         <source>MCEdit failed to start!</source>
-        <translation>شکست در اجرای MCEdit!</translation>
+        <translation>MCEdit نتوانست باز شود!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="308"/>
@@ -13967,12 +13967,12 @@ It may be necessary to reinstall it.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="359"/>
         <source>Select a Minecraft world zip</source>
-        <translation>یک دنیای ماینکرافت زیپ شده را انتخاب کنید</translation>
+        <translation>یک دنیای ماینکرافت فشرده شده را انتخاب کنید</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="359"/>
         <source>Minecraft World Zip File</source>
-        <translation type="unfinished"></translation>
+        <translation>فایل فشرده دنیا ماینکرفت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
@@ -13989,7 +13989,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>تایید حذف شدن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
@@ -14013,7 +14013,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="415"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>تغییرنام دنیا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
