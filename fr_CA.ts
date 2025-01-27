@@ -5818,7 +5818,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="786"/>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Packs Chat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="789"/>
@@ -5839,12 +5839,12 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="654"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Espace Matrix</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="642"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Guilde Discord</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="666"/>
@@ -5904,7 +5904,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
         <source>Modrinth (mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="493"/>
@@ -5990,7 +5990,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="255"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Retour arrière</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="454"/>
@@ -6016,103 +6016,103 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="409"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changer les paramètres de l&apos;instance, les mods et les versions.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="436"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer l&apos;instance sélectionnée.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="386"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changer le groupe de l&apos;instance sélectionnée.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="705"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer à &amp;PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="276"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrer les Barres d&apos;outils</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="621"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Thèmes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="424"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir le dossier racine de l&apos;instance sélectionnée dans l&apos;explorateur de fichiers.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="448"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cop&amp;ie...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="451"/>
         <source>Copy the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier l&apos;instance sélectionnée.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="502"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1578"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un Raccourci</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="505"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cela crée un raccourci sur votre bureau pour lancer l&apos;instance sélectionnée.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="356"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="430"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1707"/>
         <source>No instance selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune instance sélectionnée</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="357"/>
         <source>Total playtime: 0s</source>
-        <translation type="unfinished"></translation>
+        <translation>Temps joué total :0s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="535"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Créer une instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="549"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Supprimer le groupe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="514"/>
         <source>No accounts added!</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun compte ajouté !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="669"/>
         <source>Ctrl+%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="526"/>
         <source>No Default Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun Compte par Défaut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="529"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="834"/>
@@ -6120,60 +6120,60 @@ Raison :
         <location filename="src/launcher/ui/MainWindow.cpp" line="961"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
         <source>Error</source>
-        <translation type="unfinished">Erreur</translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="838"/>
         <source>Warnings</source>
-        <translation type="unfinished">Avertissements</translation>
+        <translation>Avertissements</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="842"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tâche annulée</translation>
+        <translation>Tâche annulée</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="842"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">La tâche à été avortée par l&apos;utilisateur.</translation>
+        <translation>La tâche à été stoppée par l&apos;utilisateur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="846"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="973"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1007"/>
         <source>Abort</source>
-        <translation type="unfinished">Abandonner</translation>
+        <translation>Abandonner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="962"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le modpack, mod, ou ressource %1 est bloqué pour les third-parties ! S&apos;il vous plaît le télécharger manuellement.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger le modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1138"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du groupe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1138"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1160"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le nom d&apos;un nouveau groupe.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1150"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer le groupe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1276"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Instance non modifiable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
