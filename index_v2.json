@@ -546,6 +546,14 @@
             "fuzzy" : 92,
             "untranslated" : 74
         },
+        "ta" : {
+            "file" : "8894fb630f796e33fabb799d7e08eaef76cfc8b9.class",
+            "sha1" : "8894fb630f796e33fabb799d7e08eaef76cfc8b9",
+            "size" : 30,
+            "translated" : 0,
+            "fuzzy" : 0,
+            "untranslated" : 2259
+        },
         "th" : {
             "file" : "ea2ea9261b1fe765e5c8262948b762dbb58106cc.class",
             "sha1" : "ea2ea9261b1fe765e5c8262948b762dbb58106cc",
