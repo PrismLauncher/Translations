@@ -11304,7 +11304,7 @@ Please let us know why and how this happened.</source>
         <location filename="src/launcher/MMCTime.cpp" line="34"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation>%1 分 %2 秒</translation>
+        <translation>%1 分鐘 %2 秒</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
