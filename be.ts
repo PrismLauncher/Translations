@@ -61,7 +61,7 @@
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Заўвага: вам патрэбна змяняць гэта толькі каб атрымаць доступ да прыватных даных. Прачытайце &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;дакументацыю&lt;/a&gt; каб даведацца больш.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Заўвага: вам патрэбна змяняць гэта, толькі каб атрымаць доступ да прыватных дадзеных. Прачытайце &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;дакументацыю&lt;/a&gt; ,каб даведацца больш.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
@@ -77,7 +77,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Ідэнтыфікатар кліента Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
@@ -806,11 +806,11 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">Паспяховае абнаўленне
+        <translation>Паспяховае абнаўленне
 
 Цяпер вы выкарыстоўваеце %1.
 Праверце журнал абнаўленняў Prism Launcher:
-%1.
+%2.
 для падрабязнасцей.</translation>
     </message>
     <message>
@@ -1114,12 +1114,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="128"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Не атрымалася прайсці аўтэнтыфікацыю. Сесія пратэрмінавана.</translation>
+        <translation>Не атрымалася прайсці аўтэнтыфікацыю. Сесія пратэрмінавана.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="135"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">Не атрымалася прайсці аўтэнтыфікацыю. Уліковы запіс больш не існуе.</translation>
+        <translation>Не атрымалася прайсці аўтэнтыфікацыю. Уліковы запіс больш не існуе.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
