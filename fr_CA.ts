@@ -6188,22 +6188,22 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1313"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 à été ajouté avec succès à vos PATH. Vous pouvez maintenant le démarrer en exécutant `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1316"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;ajout de %1 à PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1317"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur est survenue lors de l&apos;essai de l&apos;ajout de %1 à PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1361"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer la Suppression</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1362"/>
@@ -6215,12 +6215,15 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Vous allez supprimer &quot;%1&quot;.
+Ça pourrait être permanent et supprimer complètement l&apos;instance.
+
+Êtes-vous sûr ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1374"/>
         <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Ici sont les instances liées</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1375"/>
@@ -6288,32 +6291,32 @@ Voulez-vous procéder ?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1578"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrées du Bureau</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1623"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Raccourci créé pour cette instance sur votre bureau !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1625"/>
         <source>Created a shortcut to this instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Raccourci créé pour cette instance !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1631"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la création du raccourci de l&apos;instance !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1546"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Le Launcher exécute une AppImage mal configurée ? (La variable d&apos;environnement $APPIMAGE est manquante)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="553"/>
         <source>&amp;Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Renommer le groupe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1150"/>
@@ -6691,23 +6694,23 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Hauteur de la &amp;fenêtre :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="83"/>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Largeur de la &amp;fenêtre :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="154"/>
         <source>Show time spent playing in hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Montrer le temps joué en heures</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="207"/>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustements</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="213"/>
@@ -6718,12 +6721,12 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="219"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Émuler les utilisations de l&apos;ancien service en ligne qui ne sont plus maintenant opérés.&lt;/p&gt;&lt;p&gt;Les réparations actuelles incluent : le support du skin et du mode en ligne.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;.</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Émuler les utilisations des anciens services en ligne qui sont maintenant non-opérés.&lt;/p&gt;&lt;p&gt;Les corrections actuelles incluent : le support du skin et du mode en ligne.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="222"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished">Activer les réparations en ligne (expérimental)</translation>
+        <translation>Activer les corrections en ligne (expérimental)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="232"/>
@@ -6734,12 +6737,12 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="238"/>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser l&apos;installation système de &amp;GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="245"/>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished">&amp;GLFW chemin de librairie</translation>
+        <translation>Chemin de librairie &amp;GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="255"/>
