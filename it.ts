@@ -2823,7 +2823,7 @@ Per favore, prova di nuovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Nota: Se le tue istanze FTB non si trovano nella posizione predefinita, selezionale usando il pulsante accanto a Ricerca.</translation>
+        <translation>Nota: Se le tue istanze FTB non sono nel percorso predefinito, selezionale usando il pulsante accanto alla ricerca.</translation>
     </message>
 </context>
 <context>
