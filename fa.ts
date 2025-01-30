@@ -591,7 +591,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>مدیریت پوسته ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
@@ -769,7 +769,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>همه نسخه ها</translation>
     </message>
 </context>
 <context>
@@ -793,7 +793,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>این نصب یک نسخه قفل شده در این آدرس دارد: %1
+
+زمان: %2
+
+ارتقا از نسخه %3 به نسخه %4
+
+مسیر نصب: %5
+
+مسیر اطلاعات: %6
+
+به نظر میرسد این یک شکست در آپدیت باشد. لطفا مطمئن شوید نسخه شما به درستی کار میکند و بعد ادامه دهید.
+
+خروجی های لانچر در مسیر زیر هستند: 
+%7
+لطفا برای اطلاعات بیشتر خروجی های لانچر را بررسی کنید.
+
+برای حذف این قفل و ادامه دادن دکمه &quot;نادیده گرفتن&quot; را بزنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="964"/>
@@ -1143,17 +1159,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>شما یک نسخه 32 بیتی از جاوا نصب کرده اید</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخه جاوای مناسبی پیدا نشد. پس از نسخه پیش فرض استفاده میشود.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>سیستم شما (%1-%2) با نصب خودکار جاوا سازگار نیست. پس از مسیر پیش فرض استفاده میکنیم.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
@@ -4026,12 +4042,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="573"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation>MongoHud را روشن کنید</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="580"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;به جای کارت گرافیک اصلی از کارت گرافیک دیگری استفاده کنید.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="583"/>
@@ -4067,7 +4083,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="651"/>
         <source>Override global game time settings</source>
-        <translation type="unfinished"></translation>
+        <translation>تنظیمات زمان سراسری بازی را بازنویسی کنید</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
@@ -4832,12 +4848,12 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="209"/>
         <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>ادامه اجرای بازی؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="210"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>بازی بعد از %1 اجرا باز نشد، آیا میخواهید ادامه دهید؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="160"/>
@@ -4852,7 +4868,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="155"/>
         <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>نام بازیکن خود را برای حالت آزمایشی انتخاب کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="259"/>
@@ -4862,7 +4878,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="137"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>آیا میخواهید در حالت آزمایشی بازی کنید؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="139"/>
@@ -4870,12 +4886,15 @@ Please select one of the following or browse for a java executable.</oldsource>
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>این حساب بازی ماینکرفت را ندارد.
+شما باید قبل از بازی کردن آن را خریداری کنید.
+
+آیا میخواهید نسخه آزمایشی را بازی کنید؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="142"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>بازی کردن نسخه آزمایشی</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="143"/>
@@ -4885,7 +4904,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="274"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>اجرای بازی متوقف شد - حساب شما دارای بازی ماینکرفت نیست.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="289"/>
@@ -4904,12 +4923,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="301"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>اطلاعات در لانچر تغییر کرده است. لطفا حساب را حذف و سپس ان را دوباره اضافه کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="302"/>
         <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
+        <translation>اطلاعات کاربری تغییر کرد</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="309"/>
@@ -5044,7 +5063,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="62"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>مشکلی در دریافت کد دسترسی ماینکرفت به وجود آمد: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="69"/>
@@ -5169,7 +5188,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>ماد ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="271"/>
@@ -5335,7 +5354,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="504"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>ابزار ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="510"/>
@@ -5429,7 +5448,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="132"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>آیا از ادامه دادن مطمئن هستید؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="146"/>
@@ -5505,7 +5524,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="75"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>کتابخانه لانچر پیدا نشد. لطفا نصب خود را بررسی کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="87"/>
@@ -6344,17 +6363,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="64"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>نوار ابزار اخبار</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>اخبار بیشتر...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>بلاگ توسعه را بخوانید برای اطلاعات بیشتر درمورد %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="406"/>
@@ -6394,33 +6413,33 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="356"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;کشتن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="344"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;اجرا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="293"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>اضافه کردن کپی...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="320"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>تنظیمات...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="284"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>کپی خذف شده قبلی را بازگردان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="693"/>
@@ -6440,7 +6459,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="654"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;فضای ماتریکس</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="268"/>
@@ -6500,17 +6519,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="642"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;انجمن دیسکورد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="666"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished"></translation>
+        <translation>ساب ردیت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="678"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;درباره %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="762"/>
@@ -6556,17 +6575,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;بروزرسانی...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="257"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;میو</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="335"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;مدیریت حساب ها...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="276"/>
@@ -6581,22 +6600,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;فایل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ویرایش</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;نما</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="211"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;کمک</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="359"/>
@@ -6626,12 +6645,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="538"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>بستن &amp;پنجره</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="541"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>بستن پنجره فعلی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="568"/>
@@ -6657,12 +6676,12 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="750"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;کمک</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="753"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>بازکردن ویکی %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="397"/>
@@ -6682,7 +6701,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="362"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="412"/>
@@ -6692,7 +6711,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="383"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;تغییر گروه...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="389"/>
@@ -6854,7 +6873,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="357"/>
         <source>Total playtime: 0s</source>
-        <translation type="unfinished"></translation>
+        <translation>مدت زمان بازی: 0 ثانیه</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -6903,17 +6922,17 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="780"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>درحال بارگزاری اخبار...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="790"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>خبری موجود نیست.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="838"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>هشدار ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="842"/>
@@ -6930,7 +6949,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/MainWindow.cpp" line="973"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1007"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>دست بردار</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="962"/>
@@ -6945,18 +6964,18 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1138"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>نام گروه</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1138"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1160"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>نام گروه جدیدی وارد کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1150"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف گروه</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1276"/>
