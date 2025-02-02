@@ -19,20 +19,20 @@
             "untranslated" : 2208
         },
         "be" : {
-            "file" : "a9553f8c8c7a6c89e637f5cce7e55d36a6e91697.class",
-            "sha1" : "a9553f8c8c7a6c89e637f5cce7e55d36a6e91697",
-            "size" : 153394,
-            "translated" : 1033,
+            "file" : "aa76971c7e94f0d273e56ce6f65250a2a13474b7.class",
+            "sha1" : "aa76971c7e94f0d273e56ce6f65250a2a13474b7",
+            "size" : 153871,
+            "translated" : 1037,
             "fuzzy" : 124,
-            "untranslated" : 1104
+            "untranslated" : 1100
         },
         "bg" : {
-            "file" : "432636484c03a6882ba35c0f7e5a7bc7017590a3.class",
-            "sha1" : "432636484c03a6882ba35c0f7e5a7bc7017590a3",
-            "size" : 129409,
+            "file" : "b66cc4c669a6bf07b5ba2f841a457fc385c30fcb.class",
+            "sha1" : "b66cc4c669a6bf07b5ba2f841a457fc385c30fcb",
+            "size" : 129999,
             "translated" : 718,
-            "fuzzy" : 261,
-            "untranslated" : 1282
+            "fuzzy" : 266,
+            "untranslated" : 1277
         },
         "ca" : {
             "file" : "6af330b3d6d3c10d6168da1d32634f37252a3450.class",
@@ -75,12 +75,12 @@
             "untranslated" : 1131
         },
         "de" : {
-            "file" : "21c6186d88458f8918c210fe250aa6fbf5c00d30.class",
-            "sha1" : "21c6186d88458f8918c210fe250aa6fbf5c00d30",
-            "size" : 347909,
-            "translated" : 2259,
+            "file" : "58b8078a0361cc38c8228e8674b9437b5ff94365.class",
+            "sha1" : "58b8078a0361cc38c8228e8674b9437b5ff94365",
+            "size" : 347988,
+            "translated" : 2260,
             "fuzzy" : 0,
-            "untranslated" : 2
+            "untranslated" : 1
         },
         "de_CH" : {
             "file" : "2e24557a2cd91d8bea3b4b288d725ed39c911849.class",
@@ -211,9 +211,9 @@
             "untranslated" : 791
         },
         "fr" : {
-            "file" : "fcdac0e0cba3166f81901151b06611a723103369.class",
-            "sha1" : "fcdac0e0cba3166f81901151b06611a723103369",
-            "size" : 358677,
+            "file" : "58173a673b3cb27c5028506ec7fa002595aed697.class",
+            "sha1" : "58173a673b3cb27c5028506ec7fa002595aed697",
+            "size" : 358683,
             "translated" : 2259,
             "fuzzy" : 0,
             "untranslated" : 2
