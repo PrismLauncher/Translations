@@ -19,12 +19,12 @@
             "untranslated" : 2208
         },
         "be" : {
-            "file" : "aa76971c7e94f0d273e56ce6f65250a2a13474b7.class",
-            "sha1" : "aa76971c7e94f0d273e56ce6f65250a2a13474b7",
-            "size" : 153871,
-            "translated" : 1037,
+            "file" : "7e8a748877fe7169f64d936d5a5ef8ee6615f999.class",
+            "sha1" : "7e8a748877fe7169f64d936d5a5ef8ee6615f999",
+            "size" : 154407,
+            "translated" : 1042,
             "fuzzy" : 124,
-            "untranslated" : 1100
+            "untranslated" : 1095
         },
         "bg" : {
             "file" : "b66cc4c669a6bf07b5ba2f841a457fc385c30fcb.class",
@@ -75,12 +75,12 @@
             "untranslated" : 1131
         },
         "de" : {
-            "file" : "58b8078a0361cc38c8228e8674b9437b5ff94365.class",
-            "sha1" : "58b8078a0361cc38c8228e8674b9437b5ff94365",
-            "size" : 347988,
-            "translated" : 2260,
+            "file" : "59600edc7dca2af5b1d8378d955bd6c930d3aa29.class",
+            "sha1" : "59600edc7dca2af5b1d8378d955bd6c930d3aa29",
+            "size" : 348461,
+            "translated" : 2261,
             "fuzzy" : 0,
-            "untranslated" : 1
+            "untranslated" : 0
         },
         "de_CH" : {
             "file" : "2e24557a2cd91d8bea3b4b288d725ed39c911849.class",
@@ -475,12 +475,12 @@
             "untranslated" : 5
         },
         "pt_PT" : {
-            "file" : "6aa3fdc84703786e823513e88e9c128e096d2c59.class",
-            "sha1" : "6aa3fdc84703786e823513e88e9c128e096d2c59",
-            "size" : 321641,
-            "translated" : 2075,
-            "fuzzy" : 108,
-            "untranslated" : 78
+            "file" : "a0fce730b5843d0fb2a3c8a4779a529af18696f5.class",
+            "sha1" : "a0fce730b5843d0fb2a3c8a4779a529af18696f5",
+            "size" : 330943,
+            "translated" : 2119,
+            "fuzzy" : 107,
+            "untranslated" : 35
         },
         "pt_BR" : {
             "file" : "72ba89400dcf224793e7bb291293dd7ebc4576f4.class",
