@@ -4254,12 +4254,12 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="289"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="320"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Инсталиране на Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не беше възможно да се определи типът на изтегляне на Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="316"/>
@@ -7743,7 +7743,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Потвърдете зависимостите</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
@@ -7763,7 +7763,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Промяна на версия</translation>
     </message>
     <message>
         <source>Change mod version</source>
@@ -12631,7 +12631,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="115"/>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Промяна на версия</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="118"/>
