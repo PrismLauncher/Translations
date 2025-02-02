@@ -730,7 +730,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Усе версіі</translation>
     </message>
 </context>
 <context>
@@ -1206,12 +1206,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Уключыць аўтазагрузку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Выключыць аўтазагрузку</translation>
     </message>
 </context>
 <context>
