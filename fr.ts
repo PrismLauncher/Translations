@@ -13389,7 +13389,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="264"/>
         <source>Failed to upload skin!</source>
-        <translation>Le chargement du skin a échoué!</translation>
+        <translation>Le chargement du skin a échoué&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="275"/>
@@ -13404,7 +13404,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="279"/>
         <source>Failed to delete current skin!</source>
-        <translation>Le skin actuel n’a pas pu être supprimé!</translation>
+        <translation>Le skin actuel n’a pas pu être supprimé&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="288"/>
@@ -13456,7 +13456,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="369"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
-        <translation>Impossible de télécharger le skin: &apos;%1&apos;.</translation>
+        <translation>Impossible de télécharger le skin&#xa0;: &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="415"/>
