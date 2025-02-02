@@ -1822,7 +1822,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="91"/>
         <source>Checking if resources have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Праверка наяўнасці метададзеных у рэсурсаў...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="168"/>
