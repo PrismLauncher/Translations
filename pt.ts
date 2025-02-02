@@ -3628,7 +3628,7 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished">Não foi possível descarregar a lista de versões do Java!</translation>
+        <translation>Não foi possível transferir a lista de versões do Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
@@ -4388,44 +4388,44 @@ Por favor, tenha certeza que o valor máximo de Memória é menor.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Baixando o Java</translation>
+        <translation>A transferir o Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">Extraindo o Java</translation>
+        <translation>A extrair o Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Extraindo o Java (O progresso não conta arquivos tar)</translation>
+        <translation>A extrair o Java (O progresso não conta com ficheiros tar)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">Impossivel abrir o arquivo tar fornecido.</translation>
+        <translation>Impossível abrir o ficheiro tar fornecido.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">Não foi possível extrair o arquivo tar fornecido.</translation>
+        <translation>Não foi possível extrair o ficheiro tar fornecido.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">Impossível abrir o arquivo zip fornecido.</translation>
+        <translation>Impossível abrir o ficheiro zip fornecido.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">Nenhum arquivo foi encontrado no arquivo zip fornecido.</translation>
+        <translation>Nenhum ficheiro foi encontrado no ficheiro zip fornecido.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">Não foi possível determinar o tipo do arquivo!</translation>
+        <translation>Não foi possível determinar o tipo do ficheiro!</translation>
     </message>
 </context>
 <context>
@@ -4488,7 +4488,7 @@ Por favor, tenha certeza que o valor máximo de Memória é menor.</translation>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Baixando o Java</translation>
+        <translation>A transferir o Java</translation>
     </message>
 </context>
 <context>
@@ -4496,22 +4496,22 @@ Por favor, tenha certeza que o valor máximo de Memória é menor.</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished">Verificando o caminho do binário Java</translation>
+        <translation>A verificar o caminho binário do Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished">Procurando caminho do binário Java</translation>
+        <translation>A procurar caminho binário do Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished">Falha ao encontrar o caminho do binário Java</translation>
+        <translation>Falha ao encontrar o caminho do binário Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished">Coletando pastas para criar links simbólicos</translation>
+        <translation>A recolher pastas para criar links simbólicos</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
@@ -8502,7 +8502,7 @@ Are you sure you want to do this?</source>
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
         <translation>Atualizar mods enquanto o jogo está a rodar pode causar a duplicação do mod e crashar o jogo.
-Os ficheiros antigos não podem ser apagodos porque estão em uso.
+Os ficheiros antigos não podem ser apagados porque estão em uso.
 Tens a certeza que queres fazer isso?</translation>
     </message>
     <message>
@@ -11061,7 +11061,7 @@ NOTA: Tem a certeza de que fazes um backup dos dados importantes da tua instânc
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="36"/>
         <source>shader pack</source>
-        <translation>pacote de sombras</translation>
+        <translation>pacote de shaders</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
@@ -11508,7 +11508,7 @@ Por favor atualiza %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="162"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>pacotes de sombras</translation>
+        <translation>pacotes de shaders</translation>
     </message>
 </context>
 <context>
@@ -11517,13 +11517,13 @@ Por favor atualiza %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="35"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation>pacotes de sombras</translation>
+        <translation>pacotes de shaders</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="37"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation>pacote de sombra</translation>
+        <translation>pacote de shaders</translation>
     </message>
 </context>
 <context>
@@ -11850,7 +11850,9 @@ Aviso: Este recurso tem um link forte em outro lado. Editá-lo também irá edit
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizar pacotes de recursos enquanto o jogo está a rodar pode causar a duplicação do pacote e crashar o jogo.
+Os ficheiros antigos não podem ser apagados porque estão em uso.
+Tens a certeza que queres fazer isso?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="151"/>
@@ -11912,7 +11914,7 @@ Tens a certeza?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="46"/>
         <source>Confirm resources to update</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar recursos para atualizar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="57"/>
@@ -11922,7 +11924,7 @@ Tens a certeza?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="58"/>
         <source>Only resources with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Só recursos com um visto serão atualizados!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="76"/>
@@ -12629,7 +12631,9 @@ Tens a certeza que queres prosseguir?</translation>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizar pacotes de shaders enquanto o jogo está a rodar pode causar a duplicação do pacote e crashar o jogo.
+Os ficheiros antigos não podem ser apagados porque estão em uso.
+Tens a certeza que queres fazer isso?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="148"/>
@@ -12649,7 +12653,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="157"/>
         <source>All selected shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os pacotes de shaders estão atualizados! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="160"/>
@@ -12665,7 +12669,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="202"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estás prestes a remover os metadados de %1 pacotes de shaders.
+Tens a certeza?</translation>
     </message>
 </context>
 <context>
@@ -13396,22 +13401,22 @@ Aviso: Este recurso está ligado por ligação rígida a partir de outro local. 
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
         <source>Download texture packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Transferir pacotes de texturas de plataformas de mods online</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="59"/>
         <source>Try to check or update all selected texture packs (all texture packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tenta verificar ou atualizar os pacotes de texturas selecionados (todos, se nenhum estiver selecionado)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="73"/>
         <source>Change a texture pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mudar a versão de um pacote de texturas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="77"/>
         <source>View the homepages of all selected texture packs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver a página inicial dos pacotes de texturas selecionados.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="97"/>
@@ -13455,7 +13460,7 @@ Aviso: Este recurso está ligado por ligação rígida a partir de outro local. 
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="131"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="230"/>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>As atualizações dos pacotes de texturas estão indisponíveis quando os metadados estão desativados!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="136"/>
@@ -13482,12 +13487,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="164"/>
         <source>All texture packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os pacotes de texturas estão atualizados! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="166"/>
         <source>All selected texture packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os pacotes de texturas estão atualizados! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="169"/>
@@ -13497,13 +13502,14 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="210"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar a Remoção</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="211"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estás prestes a remover os metadados de %1 pacotes de texturas.
+Tens a certeza?</translation>
     </message>
 </context>
 <context>
