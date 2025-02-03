@@ -2556,8 +2556,8 @@ Tens a certeza?</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="273"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Remover este recurso enquanto o jogo está aberto pode fazer com que ele crashe
-Tens a certeza que queres fazer isso?</translation>
+        <translation>Remover esse recurso enquanto o jogo está aberto aberto pode fazer com que ele crashe
+Você tem certeza que quer fazer isso?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="293"/>
