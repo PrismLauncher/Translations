@@ -2888,12 +2888,12 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="174"/>
         <source>Not installed</source>
-        <translation type="unfinished">Não instalado</translation>
+        <translation>Não instalado</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="176"/>
         <source>Unknown</source>
-        <translation type="unfinished">Desconhecido</translation>
+        <translation>Desconhecido</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
@@ -4954,7 +4954,7 @@ Por favor seleciona um destes ou procura por um executável do Java.</translatio
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation>Os argumentos específicados do Java são inválidos. Por favor resolve isto primeiro.</translation>
+        <translation>Os argumentos específicados do Java são inválidos. Por favor resolva isto primeiro.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="92"/>
