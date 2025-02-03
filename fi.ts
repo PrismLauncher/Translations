@@ -331,7 +331,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation>Tekijät</translation>
+        <translation>Kiitettävää</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
