@@ -475,11 +475,11 @@
             "untranslated" : 5
         },
         "pt_PT" : {
-            "file" : "befda595476212d2f16c1ef51aef0b2a037082cf.class",
-            "sha1" : "befda595476212d2f16c1ef51aef0b2a037082cf",
-            "size" : 338379,
-            "translated" : 2159,
-            "fuzzy" : 92,
+            "file" : "f0905a3c8a619b2cf51c76832d48034972451c68.class",
+            "sha1" : "f0905a3c8a619b2cf51c76832d48034972451c68",
+            "size" : 338393,
+            "translated" : 2161,
+            "fuzzy" : 90,
             "untranslated" : 10
         },
         "pt_BR" : {
