@@ -6042,8 +6042,8 @@ Es wird empfohlen, den Zugriff auf %1 über Flatseal zu gewähren.</translation>
         <translation>Minecraft konnte nicht gestartet werden!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="174"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="175"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="188"/>
         <source>Game crashed.</source>
         <translation>Das Spiel ist abgestürzt.</translation>
     </message>

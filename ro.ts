@@ -5794,8 +5794,8 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
         <translation>Nu s-a putut lansa Minecraft!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="174"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="175"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="188"/>
         <source>Game crashed.</source>
         <translation>Jocul a dat &quot;crash&quot;.</translation>
     </message>

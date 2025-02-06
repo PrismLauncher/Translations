@@ -5962,8 +5962,8 @@ Concedere l&apos;accesso a %1 con Flatseal è raccomandato.</translation>
         <translation>Impossibile avviare Minecraft!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="174"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="175"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="188"/>
         <source>Game crashed.</source>
         <translation>Gioco chiuso inaspettatamente.</translation>
     </message>

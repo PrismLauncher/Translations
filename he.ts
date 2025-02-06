@@ -5609,8 +5609,8 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation>לא ניתן להפעיל את minecraft!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="174"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="175"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="188"/>
         <source>Game crashed.</source>
         <translation>המשחק קרס.</translation>
     </message>

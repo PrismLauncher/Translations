@@ -5496,8 +5496,8 @@ Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
         <translation type="unfinished">Nepavyko paleisti Minecraft!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="174"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="175"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="188"/>
         <source>Game crashed.</source>
         <translation type="unfinished">Žaidimas nulūžo.</translation>
     </message>
