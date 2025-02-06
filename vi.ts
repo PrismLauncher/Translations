@@ -780,12 +780,12 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="800"/>
+        <location filename="src/launcher/Application.cpp" line="798"/>
         <source>Settings</source>
         <translation>Cài đặt</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="947"/>
+        <location filename="src/launcher/Application.cpp" line="943"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -812,12 +812,12 @@ Kiểm tra tệp log cho việc câpx nhật Prism Launcher ở:
 Để xóa bỏ khóa này và tiếp tục hãy chọn nút &quot;Kệ&quot; ở dưới.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="964"/>
+        <location filename="src/launcher/Application.cpp" line="960"/>
         <source>Update In Progress</source>
         <translation>Đang cập nhật</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="988"/>
+        <location filename="src/launcher/Application.cpp" line="984"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -832,12 +832,12 @@ Kiểm tra tệp log để cập nhật Prism Launcher ở:
 để hiểu thêm về lượt thử cập nhật cuối.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="996"/>
+        <location filename="src/launcher/Application.cpp" line="992"/>
         <source>Update Failed</source>
         <translation>Cập nhật thất bại</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1020"/>
+        <location filename="src/launcher/Application.cpp" line="1016"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -858,12 +858,12 @@ Kiểm tra tệp log để cập nhật Prism Launcher ở:
 để biết thêm.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1028"/>
+        <location filename="src/launcher/Application.cpp" line="1024"/>
         <source>Update Succeeded</source>
         <translation>Cập nhật thành công</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1060"/>
+        <location filename="src/launcher/Application.cpp" line="1056"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -884,32 +884,32 @@ Một số phiên bản Minecraft có thể không khởi động.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1066"/>
+        <location filename="src/launcher/Application.cpp" line="1062"/>
         <source>Incompatible system configuration</source>
         <translation>Cấu hình hệ thống của bạn không tương thích</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1426"/>
+        <location filename="src/launcher/Application.cpp" line="1422"/>
         <source>Aborted</source>
         <translation>Bị gián đoạn</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1828"/>
+        <location filename="src/launcher/Application.cpp" line="1824"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Dữ liệu cũ từ %1 đã được tìm thấy, nhưng bạn đã có dữ liệu cho %2. Thật buồn khi bạn sẽ phải di chuyển dữ liệu của mình đi. Bạn có muốn được nhắc nhở về việc di chuyển dữ liệu đang chờ xử lý khi bạn bắt đầu % 2 ở lần kế tiếp không?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1832"/>
+        <location filename="src/launcher/Application.cpp" line="1828"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Hình như bạn đã dùng %1 trước đây. Bạn có muốn di chuyển dữ liệu của bạn sang vị trí mới ở %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1838"/>
+        <location filename="src/launcher/Application.cpp" line="1834"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Hình như bạn đã dùng %1 trên %2 trước đây. Bạn có muốn di chuyển dữ liệu sang vị trí mới ở %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1881"/>
+        <location filename="src/launcher/Application.cpp" line="1877"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Di chuyển không thành công! Lí do: %1</translation>
     </message>
@@ -1730,7 +1730,6 @@ Một số phiên bản Minecraft có thể không khởi động.
 <context>
     <name>CustomCommandsPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="52"/>
         <source>Custom Commands</source>
         <translation>Các câu lệnh tùy biến</translation>
     </message>
@@ -1990,7 +1989,6 @@ Một số phiên bản Minecraft có thể không khởi động.
 <context>
     <name>EnvironmentVariablesPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/EnvironmentVariablesPage.cpp" line="44"/>
         <source>Environment Variables</source>
         <translation>Biến môi trường</translation>
     </message>
@@ -4213,38 +4211,31 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation>Địa chỉ máy chủ:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="59"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
         <source>Settings</source>
         <translation>Cài đặt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="377"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="384"/>
         <source>Path to %1 library file</source>
         <translation>Đường dẫn đến tập tin thư viện %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="400"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>Chế độ trò chơi Feral Interactive&apos;s không thể tìm thấy trong hệ thống của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="405"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>MangoHud không tìm thấy trong hệ thống của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="456"/>
         <source>Select a Java version</source>
         <translation>Chọn phiên bản Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="470"/>
         <source>Confirm Selection</source>
         <translation>Xác nhận mục chọn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="471"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
@@ -4253,12 +4244,10 @@ Bản cài đặt này sẽ không hỗ trợ nhiều hơn 2GB RAM.
 Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="482"/>
         <source>Find Java executable</source>
         <translation>Tìm tệp thực thi Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="589"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>Dung lượng bộ nhớ tối đa bạn đặc hiện đang nhỏ hơn giá trị tối thiểu</translation>
     </message>
@@ -4267,12 +4256,10 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
         <translation type="vanished">Không có tài khoản mặc định</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="583"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Dung lượng bộ nhớ tối đa mà bạn đặt vượt quá dung lượng bộ nhớ hệ thống của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="586"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Dung lượng phân bố tối đa của bộ nhớ sắp bằng dung lượng bộ nhớ hệ thống.</translation>
     </message>
@@ -4535,100 +4522,86 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
 <context>
     <name>JavaPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="45"/>
         <source>Memory</source>
         <translation>Bộ nhớ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="103"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>Dung lượng bộ nhớ tối đa mà Minecraft được phép sử dụng.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
         <translation>&amp;Bộ nhớ cấp phát tối thiểu:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
         <translation>&amp;Bộ nhớ cấp phát tối đa:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
         <source>&amp;PermGen:</source>
         <translation>&amp;TạoQuyềnHạn:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>Dung lượng bộ nhớ mà Minecraft cần khởi động với.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="125"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>Dung lượng bộ nhớ có sẵn để lưu trữ các lớp Java đã tải.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="160"/>
         <source>Java Runtime</source>
         <translation>Java Runtime</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="218"/>
         <source>JVM arguments:</source>
         <translation>Đường dẫn của JVM:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="257"/>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
         <translation>Tự động lựa chọn phiên bản Java tương tích với phiên bản Minecraft hiện tại, dựa trên phiên bản chính cần thiết.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="260"/>
         <source>Autodetect Java version</source>
         <translation>Tự động phát hiện phiên bản Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="275"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
         <translation>&amp;Đường dẫn Java:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="306"/>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
         <translation>Tự động tải về và lựa chọn phiên bản Java được đề xuất bởi Mojang.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="309"/>
         <source>Auto-download Mojang Java</source>
         <translation>Tự động tải xuống Mojang Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="333"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="68"/>
         <source>Management</source>
         <translation>Quản lí</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="339"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="74"/>
         <source>Downloaded Java Versions</source>
         <translation>Phiên bản Java đã tải xuống</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="357"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="92"/>
         <source>Download</source>
         <translation>Tải xuống</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="364"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="99"/>
         <source>Remove</source>
         <translation>Loại bỏ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="384"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="119"/>
         <source>Refresh</source>
         <translation>Làm mới</translation>
     </message>
@@ -4638,45 +4611,38 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
         <translation type="obsolete">Giá trị JVM:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="190"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
         <translation>&amp;Tự động phát hiện...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="203"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
         <translation>&amp;Kiểm tra</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="294"/>
         <source>Browse</source>
         <translation>Chọn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="228"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
         <translation>Nếu được kích hoạt, launcher sẽ không hỏi bạn chọn phiên bản Java nếu như không có phiên bản nào được tìm thấy.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="231"/>
         <source>Skip Java &amp;Wizard</source>
         <translation>Bỏ qua Java &amp;Trình thuật sĩ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="172"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
         <translation>Nếu bật, Prism Launcher sẽ không kiểm tra nếu phiên bản này tương thích với phiên bản Java đã chọn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
         <translation>&amp;Bỏ qua kiểm tra phiên bản Java thích hợp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.h" line="59"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
@@ -4693,17 +4659,14 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
         <translation>Không thể tải danh sách Java được quản lý!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
         <source>Select a Java version</source>
         <translation>Chọn phiên bản Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="163"/>
         <source>Confirm Selection</source>
         <translation>Xác nhận mục chọn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="164"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
@@ -4712,32 +4675,28 @@ Bản cài đặt này sẽ không hỗ trợ nhiều hơn 2GB RAM.
 Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="175"/>
         <source>Find Java executable</source>
         <translation>Tìm tệp thực thi Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="234"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Bộ nhớ tối đa mà bạn đặt vượt quá dung lượng bộ nhớ hệ thống của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="237"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Dung lượng phân bố tối đa của bộ nhớ sắp bằng dung lượng bộ nhớ hệ thống.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="240"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>Dung lượng bộ nhớ tối đa bạn đặt hiện đang nhỏ hơn giá trị tối thiểu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="266"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>Confirm Deletion</source>
         <translation>Xác nhận xóa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="267"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="113"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
         <translation>Bạn sắp xóa cài đặt Java tên &quot;%1&quot;.
@@ -4747,7 +4706,6 @@ Bạn có chắc không?</translation>
 <context>
     <name>JavaSettingsWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="243"/>
         <source>No Java version selected</source>
         <translation>Không có phiên bản Java nào được lựa chọn</translation>
     </message>
@@ -4766,17 +4724,15 @@ Bạn có thể thay đổi phiên bản Java ở phần cài đặt ở lần s
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="58"/>
         <source>Download Java</source>
         <translation>Tải xuống Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
         <translation>Đã phát hiện Java 32-bit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="233"/>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
 %1 will not be able to start Minecraft.
 Do you wish to proceed?
@@ -4791,7 +4747,6 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="244"/>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
 %1 will not be able to start Minecraft.
 Do you wish to proceed without a functional version of Java?
@@ -4806,77 +4761,161 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="353"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="223"/>
         <source>Find Java executable</source>
         <translation>Tìm tệp thực thi Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="495"/>
         <source>Memory</source>
         <translation>Bộ nhớ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="496"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>Dung lượng bộ nhớ tối đa mà Minecraft được phép sử dụng.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="497"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="136"/>
         <source>Minimum memory allocation:</source>
         <translation>Bộ nhớ cấp phát tối thiểu:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="498"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
+        <source>Java Insta&amp;llation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
+        <source>Auto-&amp;detect Java version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="65"/>
+        <source>Auto-detect...</source>
+        <translation type="unfinished">Tự động phát hiện...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="72"/>
+        <source>Test</source>
+        <translation type="unfinished">Kiểm tra</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="81"/>
+        <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="84"/>
+        <source>Auto-download &amp;Mojang Java</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="91"/>
+        <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="94"/>
+        <source>Skip Java setup prompt on startup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="101"/>
+        <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
+        <translation type="unfinished">Nếu bật, Prism Launcher sẽ không kiểm tra nếu phiên bản này tương thích với phiên bản Java đã chọn.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="104"/>
+        <source>Skip Java compatibility checks</source>
+        <translation type="unfinished">Bỏ qua việc kiểm tra khả năng tương thích của Java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="117"/>
+        <source>Memor&amp;y</source>
+        <translation type="unfinished">Bộ nhớ</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="129"/>
+        <source>PermGen (Java 7 and earlier):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="165"/>
         <source>Maximum memory allocation:</source>
         <translation>Bộ nhớ cấp phát tối đa:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="499"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="207"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>Dung lượng bộ nhớ mà Minecraft khởi động với.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="500"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="235"/>
+        <source>Java Argumen&amp;ts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>Dung lượng bộ nhớ có sẵn để lưu trữ các lớp Java đã tải.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="501"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="47"/>
         <source>Browse</source>
         <translation>Chọn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="503"/>
         <source>Auto-download Mojang Java</source>
         <translation>Tự đông tải xuống Mojang Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="505"/>
         <source>Autodetect Java version</source>
         <translation>Tự động phát hiện phiên bản Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="506"/>
         <source>Autodetect Java</source>
         <translation>Tự động phát hiện Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="515"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="263"/>
+        <source>Select a Java version</source>
+        <translation type="unfinished">Chọn phiên bản Java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="272"/>
+        <source>Confirm Selection</source>
+        <translation type="unfinished">Xác nhận mục chọn</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="273"/>
+        <source>You selected a 32-bit version of Java.
+This installation does not support more than 2048MiB of RAM.
+Please make sure that the maximum memory value is lower.</source>
+        <translation type="unfinished">Bạn chọn phiên bản 32 bit của Java.
+Bản cài đặt này sẽ không hỗ trợ nhiều hơn 2GB RAM.
+Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="291"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Bộ nhớ tối đa mà bạn đặt vượt quá dung lượng bộ nhớ hệ thống của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="518"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="294"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Bộ nhớ tối đa được phân bổ bằng dung lượng bộ nhớ hệ thống.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="521"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="297"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>Dung lượng bộ nhớ tối đa bạn đặt hiện đang nhỏ hơn giá trị tối thiểu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
         <translation>Bạn đang vượt quá mức phân bổ được hỗ trợ bởi Java 32-bit.</translation>
     </message>
@@ -4901,6 +4940,129 @@ Please select one of the following or browse for a Java executable.</source>
 Please select one of the following or browse for a java executable.</oldsource>
         <translation type="vanished">Bạn không có một phiên bản Java để hoạt động hoặc nó đã biến mất.
 Hãy chọn một trong những tuỳ chọn sau để tìm tệp Java.</translation>
+    </message>
+</context>
+<context>
+    <name>JavaWizardWidget</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
+        <source>Download Java</source>
+        <translation type="unfinished">Tải xuống Java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
+        <source>32-bit Java detected</source>
+        <translation type="unfinished">Đã phát hiện Java 32-bit</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
+        <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
+%1 will not be able to start Minecraft.
+Do you wish to proceed?
+
+You can change the Java version in the settings later.
+</source>
+        <translation type="unfinished">Bạn đã chọn phiên bản cài đặt 32-bit của Java, nhưng phân bổ hơn 2GB làm bộ nhớ tối đa.
+%1 sẽ không thể khởi chạy Minecraft
+Bạn có muốn tiếp tục không?
+
+Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
+</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
+        <source>No Java version selected</source>
+        <translation type="unfinished">Không có phiên bản Java nào được lựa chọn</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
+        <source>You either didn&apos;t select a Java version or selected one that does not work.
+%1 will not be able to start Minecraft.
+Do you wish to proceed without a functional version of Java?
+
+You can change the Java version in the settings later.
+</source>
+        <translation type="unfinished">Bạn đã không chọn phiên bản Java hoặc chọn cái mà không hoạt dộng.
+%1 sẽ không thể khởi chạy Minecraft.
+Bạn có muốn tiếp tục mà không có phiên bản Java nào hoạt động?
+
+Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
+</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="353"/>
+        <source>Find Java executable</source>
+        <translation type="unfinished">Tìm tệp thực thi Java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
+        <source>Memory</source>
+        <translation type="unfinished">Bộ nhớ</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
+        <source>The maximum amount of memory Minecraft is allowed to use.</source>
+        <translation type="unfinished">Dung lượng bộ nhớ tối đa mà Minecraft được phép sử dụng.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
+        <source>Minimum memory allocation:</source>
+        <translation type="unfinished">Bộ nhớ cấp phát tối thiểu:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
+        <source>Maximum memory allocation:</source>
+        <translation type="unfinished">Bộ nhớ cấp phát tối đa:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
+        <source>The amount of memory Minecraft is started with.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
+        <source>The amount of memory available to store loaded Java classes.</source>
+        <translation type="unfinished">Dung lượng bộ nhớ có sẵn để lưu trữ các lớp Java đã tải.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
+        <source>Browse</source>
+        <translation type="unfinished">Chọn</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
+        <source>Auto-download Mojang Java</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
+        <source>Auto-detect Java version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
+        <source>Autodetect Java</source>
+        <translation type="unfinished">Tự động phát hiện Java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
+        <source>Your maximum memory allocation exceeds your system memory capacity.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
+        <source>Your maximum memory allocation approaches your system memory capacity.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="521"/>
+        <source>Your maximum memory allocation is smaller than the minimum value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
+        <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
+        <translation type="unfinished">Bạn đang vượt quá mức phân bổ được hỗ trợ bởi Java 32-bit.</translation>
     </message>
 </context>
 <context>
@@ -5493,47 +5655,43 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
         <translation>Console</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="543"/>
         <source>Console Settings</source>
         <translation>Cài Đặt Console</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
         <translation>Hiện bảng console khi trò chơi đang chạy (&amp;R)?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="556"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
         <translation>Tự động đóng bảng console khi thoát trò chơi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="563"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
         <translation>Mở console khi game gặp phải sự cố (&amp;C)?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="573"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="543"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
         <translation>&amp;Giới hạn lịch sử</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="579"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>&amp;Dừng ghi log khi tệp log bị đầy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="592"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="562"/>
         <source> lines</source>
         <translation> dòng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="620"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="590"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
         <translation>&amp;Kiểu chữ console</translation>
@@ -5599,27 +5757,27 @@ Bạn nên cấp %1 quyền cho nó qua Flatseal.</translation>
         <translation>Thư mục skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="355"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
         <translation>[Test/ERROR] OOoooOOOoooo! Một lỗi đáng sợ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="363"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="357"/>
         <source>[Test/ERROR] A spooky error!</source>
         <translation>[Test/ERROR] Một lỗi đáng sợ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="360"/>
         <source>[Test/WARN] A not so spooky warning.</source>
         <translation>[Test/WARN] Một cảnh báo không đáng sợ mấy.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="367"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
         <source>[Test/DEBUG] A secret debugging message...</source>
         <translation>[Test/DEBUG] Một thông báo gỡ lỗi bí mật...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="368"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="362"/>
         <source>[Test/FATAL] A terrifying fatal error!</source>
         <translation>[Test/FATAL] Một lỗi nghiêm trọng khủng khiếp!</translation>
     </message>
@@ -5628,7 +5786,7 @@ Bạn nên cấp %1 quyền cho nó qua Flatseal.</translation>
         <translation type="vanished">[Cái gì đó/LỖI] Một lỗi ma quái!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="365"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="359"/>
         <source>[Test/INFO] A harmless message...</source>
         <translation>[Test/INFO] Một tin nhắn vô hại...</translation>
     </message>
@@ -7844,29 +8002,23 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
         <translation>&amp;Đóng trình khởi chạy sau khi cửa sổ trò chơi đã dừng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="58"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="59"/>
         <source>Minecraft</source>
         <translation>Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="139"/>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="146"/>
         <source>Path to %1 library file</source>
         <translation>Đường dẫn đến thư viện %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="142"/>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="149"/>
         <source>Auto detected path: %1</source>
         <translation>Tự động phát hiện đường dẫn: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="163"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>Không thể tìm thấy Feral Interactive&apos;s GameMode trong hệ thống của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="168"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>Không tìm thấy MangoHud trong hệ thống của bạn.</translation>
     </message>
@@ -7925,6 +8077,280 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
         <translation type="obsolete">Thu thập hồ sơ Minecraft Java thành công.</translation>
+    </message>
+</context>
+<context>
+    <name>MinecraftSettingsWidget</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="29"/>
+        <source>Open &amp;Global Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
+        <source>The settings here are overrides for global settings.</source>
+        <translation type="unfinished">Những thiết lập này sẽ ghi đè các cài đặt chung.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
+        <source>General</source>
+        <translation type="unfinished">Tổng quát</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="76"/>
+        <source>Game &amp;Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
+        <source>Start Minecraft maximized</source>
+        <translation type="unfinished">Tối đa cửa sổ Minecraft khi khởi chạy</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
+        <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="98"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="107"/>
+        <source>Window height:</source>
+        <translation type="unfinished">Chiều cao cửa sổ:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="114"/>
+        <source>Window width:</source>
+        <translation type="unfinished">Chiều rộng cửa sổ:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="158"/>
+        <source>Game &amp;Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="170"/>
+        <source>Show time spent &amp;playing instances</source>
+        <translation type="unfinished">Hiển thị thời gian đã chơi của các phiên bản</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="177"/>
+        <source>&amp;Record time spent playing instances</source>
+        <translation type="unfinished">&amp;Ghi lại thời gian đã chơi của các bản cài đặt</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="184"/>
+        <source>Show the &amp;total time played across instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="191"/>
+        <source>Always show durations in &amp;hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="204"/>
+        <source>&amp;Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="216"/>
+        <source>Show console while the game is running</source>
+        <translation type="unfinished">Hiện bảng điều khiển khi trò chơi đang chạy</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="223"/>
+        <source>Automatically close console when the game quits</source>
+        <translation type="unfinished">Tự động đóng bảng điều khiển khi thoát trò chơi</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="230"/>
+        <source>Show console when the game crashes</source>
+        <translation type="unfinished">Hiển bảng điều khiển khi trò chơi gặp sự cố</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="240"/>
+        <source>&amp;Miscellaneous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="252"/>
+        <source>Close the launcher after game window opens</source>
+        <translation type="unfinished">Đóng Prism Launcher sau khi mở cửa sổ trò chơi</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="259"/>
+        <source>Quit the launcher after game window closes</source>
+        <translation type="unfinished">Thoát Prism Launcher sau khi đóng cửa sổ trò chơi</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="287"/>
+        <source>Java</source>
+        <translation type="unfinished">Java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="311"/>
+        <source>Tweaks</source>
+        <translation type="unfinished">Chỉnh sửa</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="335"/>
+        <source>&amp;Legacy Tweaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="347"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="350"/>
+        <source>Enable online fixes (experimental)</source>
+        <translation type="unfinished">Bật sửa lỗi online (thử nghiệm)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="363"/>
+        <source>&amp;Native Libraries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
+        <source>Use system installation of OpenAL</source>
+        <translation type="unfinished">Sử dụng hệ thống cài đặt của OpenAL</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="382"/>
+        <source>&amp;GLFW library path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="392"/>
+        <source>Use system installation of GLFW</source>
+        <translation type="unfinished">Sử dụng hệ thống cài đặt của GLFW</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="406"/>
+        <source>&amp;OpenAL library path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="429"/>
+        <source>&amp;Performance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="441"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="444"/>
+        <source>Enable Feral GameMode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="451"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="454"/>
+        <source>Enable MangoHud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="461"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sử dụng GPU rời thay vì GPU chính.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="464"/>
+        <source>Use discrete GPU</source>
+        <translation type="unfinished">Sử dụng GPU rời</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="471"/>
+        <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
+        <translation type="unfinished">Sử dụng Zink, một trình điều khiển Mesa OpenGL triển khai OpenGL trên Vulkan. Hiệu năng có thể tùy theo tình huống. Chú ý: Nếu không tìm thấy trình điều khiển phù hợp, kết xuất phần mềm sẽ được sử dụng.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="474"/>
+        <source>Use Zink</source>
+        <translation type="unfinished">Sử dụng Zink</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="502"/>
+        <source>Launch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="523"/>
+        <source>Override default &amp;account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
+        <source>Account:</source>
+        <translation type="unfinished">Tài khoản:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="558"/>
+        <source>Set a &amp;target to join on launch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="570"/>
+        <source>Server address:</source>
+        <translation type="unfinished">Địa chỉ máy chủ:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="580"/>
+        <source>Singleplayer world</source>
+        <translation type="unfinished">Thế giới đơn</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="611"/>
+        <source>Custom Commands</source>
+        <translation type="unfinished">Các câu lệnh tùy biến</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="621"/>
+        <source>Environment Variables</source>
+        <translation type="unfinished">Biến môi trường</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="65"/>
+        <source>Show time &amp;playing this instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="66"/>
+        <source>&amp;Record time playing this instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="71"/>
+        <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="113"/>
+        <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="118"/>
+        <source>MangoHud could not be found on your system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="189"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="196"/>
+        <source>Path to %1 library file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10539,30 +10965,30 @@ Xác nhận cắt bớt?</translation>
         <translation>&lt;a href=&quot;%1&quot;&gt;Đường liên kết đến nhật kí được tải lên&lt;/a&gt; đã được đặt trong khay nhớ tạm của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="377"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="377"/>
         <source>The specified file either doesn&apos;t exist or is not a proper executable.</source>
         <translation>Tệp được chỉ định không tồn tại hoặc không phải là tệp thực thi thích hợp.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="381"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="381"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
         <translation>Tệp binary của Java được chỉ định không bắt đầu đúng cách.&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="391"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="391"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
         <translation>Tệp binary của Java được chỉ định trả về kết quả không mong muốn:&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="401"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
         <translation>Thử nghiệm Java thành công!&lt;br /&gt;Nền tảng được báo cáo: %1&lt;br /&gt;Phiên bản Java được báo cáo: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
         <source>Java test success</source>
         <translation>Thử nghiệm Java thành công</translation>
     </message>
@@ -10570,7 +10996,7 @@ Xác nhận cắt bớt?</translation>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
         <source>Java test failure</source>
         <translation>Thử nghiệm Java thất bại</translation>
     </message>

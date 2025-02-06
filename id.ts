@@ -776,12 +776,12 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="800"/>
+        <location filename="src/launcher/Application.cpp" line="798"/>
         <source>Settings</source>
         <translation>Pengaturan</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="947"/>
+        <location filename="src/launcher/Application.cpp" line="943"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -808,12 +808,12 @@ Untuk detail mengenai pembaruan terakhir.
 Untuk menghapus lock ini dan melanjutkan pilih &quot;Abaikan&quot; di bawah.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="964"/>
+        <location filename="src/launcher/Application.cpp" line="960"/>
         <source>Update In Progress</source>
         <translation>Pembaruan Sedang Berlangsung</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="988"/>
+        <location filename="src/launcher/Application.cpp" line="984"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -828,12 +828,12 @@ Periksa log pembaru Prism Launcher di:
 untuk detail mengenai pembaruan terakhir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="996"/>
+        <location filename="src/launcher/Application.cpp" line="992"/>
         <source>Update Failed</source>
         <translation>Pembaruan Gagal</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1020"/>
+        <location filename="src/launcher/Application.cpp" line="1016"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -854,12 +854,12 @@ Periksa log pembaru Prism Launcher di:
 untuk detail.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1028"/>
+        <location filename="src/launcher/Application.cpp" line="1024"/>
         <source>Update Succeeded</source>
         <translation>Pembaruan Berhasil</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1060"/>
+        <location filename="src/launcher/Application.cpp" line="1056"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -880,32 +880,32 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1066"/>
+        <location filename="src/launcher/Application.cpp" line="1062"/>
         <source>Incompatible system configuration</source>
         <translation>Konfigurasi sistem tidak kompatibel</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1426"/>
+        <location filename="src/launcher/Application.cpp" line="1422"/>
         <source>Aborted</source>
         <translation>Dibatalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1828"/>
+        <location filename="src/launcher/Application.cpp" line="1824"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Data lama dari %1 telah ditemukan, tetapi Anda memiliki data yang sudah ada untuk %2. Sayangnya Anda harus memigrasikan secara manual. Apakah Anda ingin diingatkan tentang ini saat Anda membuka ulang %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1832"/>
+        <location filename="src/launcher/Application.cpp" line="1828"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Sepertinya Anda sudah menggunakan %1 sebelumnya. Apakah Anda ingin memigrasikan data anda ke lokasi baru %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1838"/>
+        <location filename="src/launcher/Application.cpp" line="1834"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Sepertinya Anda sudah menggunakan %1 dengan %2 sebelumnya. Apakah anda ingin memigrasikan data ke lokasi baru %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1881"/>
+        <location filename="src/launcher/Application.cpp" line="1877"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrasi gagal! Alasan: %1</translation>
     </message>
@@ -1722,7 +1722,6 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
 <context>
     <name>CustomCommandsPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="52"/>
         <source>Custom Commands</source>
         <translation>Perintah Kustom</translation>
     </message>
@@ -1982,7 +1981,6 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
 <context>
     <name>EnvironmentVariablesPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/EnvironmentVariablesPage.cpp" line="44"/>
         <source>Environment Variables</source>
         <translation>Variabel-variabel Env</translation>
     </message>
@@ -4180,38 +4178,31 @@ Coba ulang lagi.</translation>
         <translation>Alamat server:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="59"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
         <source>Settings</source>
         <translation>Pengaturan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="377"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="384"/>
         <source>Path to %1 library file</source>
         <translation>Path ke berkas library %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="400"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>Feral Interactive&apos;s GameMode tidak dapat ditemukan dalam sistem Anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="405"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>MangoHud tidak dapat ditemukan dalam sistem Anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="456"/>
         <source>Select a Java version</source>
         <translation>Pilih versi Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="470"/>
         <source>Confirm Selection</source>
         <translation>Konfirmasi Pilihan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="471"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
@@ -4220,22 +4211,18 @@ Instalasi ini tidak mendukung lebih dari 2048MiB RAM.
 Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="482"/>
         <source>Find Java executable</source>
         <translation>Cari file Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="583"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Alokasi maksimum memori (RAM) Anda melebihi kapasitas memori sistem Anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="586"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Alokasi maksimal memori (RAM) Anda mendekati kapasitas memori sistem Anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="589"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>Alokasi memori (RAM) maksimum Anda lebih kecil dari nilai minimum</translation>
     </message>
@@ -4494,100 +4481,86 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
 <context>
     <name>JavaPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="45"/>
         <source>Memory</source>
         <translation>Memori</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="103"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>Jumlah maksimum memori (RAM) yang dapat digunakan oleh Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
         <translation>Alokasi memori (RAM) &amp;minimum:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
         <translation>Alokasi memori (RAM) maksimum (&amp;X):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
         <source>&amp;PermGen:</source>
         <translation>&amp;PermGen:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>Jumlah memori (RAM) yang digunakan untuk memulai Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="125"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>Jumlah memori (RAM) yang tersedia untuk menyimpan kelas-kelas Java yang dimuat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="160"/>
         <source>Java Runtime</source>
         <translation>Runtime Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="218"/>
         <source>JVM arguments:</source>
         <translation>Argumen-argumen JVM:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="257"/>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
         <translation>Memilih versi Java yang didukung instansi Minecraft saat ini secara otomatis, berdasarkan versi mayoritas yang dibutuhkan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="260"/>
         <source>Autodetect Java version</source>
         <translation>Deteksi otomatis versi Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="275"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
         <translation>Path &amp;Java:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="306"/>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
         <translation>Mengunduh dan memilih versi Java yang disarankan Mojang secara otomatis.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="309"/>
         <source>Auto-download Mojang Java</source>
         <translation>Unduh Java Mojang secara otomatis</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="333"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="68"/>
         <source>Management</source>
         <translation>Pengelolaan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="339"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="74"/>
         <source>Downloaded Java Versions</source>
         <translation>Versi-versi Java terunduh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="357"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="92"/>
         <source>Download</source>
         <translation>Unduh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="364"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="99"/>
         <source>Remove</source>
         <translation>Hapus</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="384"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="119"/>
         <source>Refresh</source>
         <translation>Segarkan</translation>
     </message>
@@ -4597,45 +4570,38 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
         <translation type="obsolete">Argumen JVM:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="190"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
         <translation>Deteksi otom&amp;atis...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="203"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
         <translation>Uji coba (&amp;T)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="294"/>
         <source>Browse</source>
         <translation>Telusuri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="228"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
         <translation>Jika dinyalakan, peluncur tidak akan meminta Anda memilih versi Java bila tidak ditemukan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="231"/>
         <source>Skip Java &amp;Wizard</source>
         <translation>Lewati &amp;Wizzard Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="172"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
         <translation>Jika aktif, launcher tidak akan memeriksa kecocokan sebuah instansi dengan versi Java terpilih.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
         <translation>Lewati pemerik&amp;saan kompatibilitas Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.h" line="59"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
@@ -4652,17 +4618,14 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
         <translation>Tidak dapat memuat daftar Java terkelola!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
         <source>Select a Java version</source>
         <translation>Pilih versi Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="163"/>
         <source>Confirm Selection</source>
         <translation>Konfirmasi Pilihan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="164"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
@@ -4671,32 +4634,28 @@ Instalasi ini tidak mendukung lebih dari 2048MiB RAM.
 Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="175"/>
         <source>Find Java executable</source>
         <translation>Cari file Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="234"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Alokasi maksimum memori (RAM) Anda melebihi kapasitas memori sistem Anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="237"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Alokasi maksimal memori (RAM) Anda mendekati kapasitas memori sistem Anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="240"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>Alokasi memori (RAM) maksimum Anda lebih kecil dari nilai minimum</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="266"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>Confirm Deletion</source>
         <translation>Konfirmasi Penghapusan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="267"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="113"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
         <translation>Anda akan menghapus  instalasi Java yang dinamakan &quot;%1&quot;.
@@ -4706,7 +4665,6 @@ Apakah Anda yakin?</translation>
 <context>
     <name>JavaSettingsWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="243"/>
         <source>No Java version selected</source>
         <translation>Tidak ada versi Java yang terpilih</translation>
     </message>
@@ -4725,7 +4683,7 @@ Anda dapat mengubah versi Java di pengaturan nanti.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="58"/>
         <source>Download Java</source>
         <translation>Unduh Java</translation>
     </message>
@@ -4742,12 +4700,10 @@ Apakah Anda ingin mengaktifkan pengunduhan Java otomatis?
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
         <translation>Java 32-bit dideteksi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="233"/>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
 %1 will not be able to start Minecraft.
 Do you wish to proceed?
@@ -4762,7 +4718,6 @@ Anda dapat mengubah versi Java di pengaturan nanti.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="244"/>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
 %1 will not be able to start Minecraft.
 Do you wish to proceed without a functional version of Java?
@@ -4777,77 +4732,161 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="353"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="223"/>
         <source>Find Java executable</source>
         <translation>Cari berkas Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="495"/>
         <source>Memory</source>
         <translation>Memori</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="496"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>Jumlah maksimum memori (RAM) yang dapat digunakan oleh Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="497"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="136"/>
         <source>Minimum memory allocation:</source>
         <translation>Alokasi memori (RAM) minimum:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="498"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
+        <source>Java Insta&amp;llation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
+        <source>Auto-&amp;detect Java version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="65"/>
+        <source>Auto-detect...</source>
+        <translation type="unfinished">Deteksi otomatis...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="72"/>
+        <source>Test</source>
+        <translation type="unfinished">Uji coba</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="81"/>
+        <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="84"/>
+        <source>Auto-download &amp;Mojang Java</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="91"/>
+        <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="94"/>
+        <source>Skip Java setup prompt on startup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="101"/>
+        <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
+        <translation type="unfinished">Jika aktif, launcher tidak akan memeriksa kecocokan sebuah instansi dengan versi Java terpilih.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="104"/>
+        <source>Skip Java compatibility checks</source>
+        <translation type="unfinished">Lewati pemeriksaan kompatibilitas Java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="117"/>
+        <source>Memor&amp;y</source>
+        <translation type="unfinished">Memori (&amp;Y)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="129"/>
+        <source>PermGen (Java 7 and earlier):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="165"/>
         <source>Maximum memory allocation:</source>
         <translation>Alokasi memori (RAM) maksimum:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="499"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="207"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>Jumlah memori (RAM) yang digunakan untuk memulai Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="500"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="235"/>
+        <source>Java Argumen&amp;ts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>Jumlah memori (RAM) yang tersedia untuk menyimpan kelas-kelas Java yang dimuat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="501"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="47"/>
         <source>Browse</source>
         <translation>Telusuri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="503"/>
         <source>Auto-download Mojang Java</source>
         <translation>Unduh Java Mojang secara otomatis</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="505"/>
         <source>Autodetect Java version</source>
         <translation>Deteksi otomatis versi Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="506"/>
         <source>Autodetect Java</source>
         <translation>Deteksi Java secara otomatis</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="515"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="263"/>
+        <source>Select a Java version</source>
+        <translation type="unfinished">Pilih versi Java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="272"/>
+        <source>Confirm Selection</source>
+        <translation type="unfinished">Konfirmasi Pilihan</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="273"/>
+        <source>You selected a 32-bit version of Java.
+This installation does not support more than 2048MiB of RAM.
+Please make sure that the maximum memory value is lower.</source>
+        <translation type="unfinished">Anda telah memilih versi 32-bit Java.
+Instalasi ini tidak mendukung lebih dari 2048MiB RAM.
+Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="291"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Alokasi maksimum memori (RAM) Anda melebihi kapasitas memori sistem Anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="518"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="294"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Alokasi maksimal memori (RAM) Anda mendekati kapasitas memori sistem Anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="521"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="297"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>Alokasi memori (RAM) maksimum Anda lebih kecil dari nilai minimum</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
         <translation>Anda sedang melebihi alokasi maksimum yang didukung instalasi 32-bit Java.</translation>
     </message>
@@ -4872,6 +4911,129 @@ Please select one of the following or browse for a Java executable.</source>
 Please select one of the following or browse for a java executable.</oldsource>
         <translation type="vanished">Anda tidak memiliki setelan Java yang bekerja atau setelan Java telah menghilang.
 Mohon pilih salah satu di bawah atau telusuri eksekutabel Java.</translation>
+    </message>
+</context>
+<context>
+    <name>JavaWizardWidget</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
+        <source>Download Java</source>
+        <translation type="unfinished">Unduh Java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
+        <source>32-bit Java detected</source>
+        <translation type="unfinished">Java 32-bit dideteksi</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
+        <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
+%1 will not be able to start Minecraft.
+Do you wish to proceed?
+
+You can change the Java version in the settings later.
+</source>
+        <translation type="unfinished">Anda telah memilih sebuah instalasi 32-bit Java, tetapi memori teralokasi lebih dari 2048MiB sebagai memori maksimum.
+%1 tidak akan dapat memulai Minecraft.
+Apakah Anda yakin melanjutkan?
+
+Anda dapat mengubah versi Java di pengaturan nanti.
+</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
+        <source>No Java version selected</source>
+        <translation type="unfinished">Tidak ada versi Java yang terpilih</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
+        <source>You either didn&apos;t select a Java version or selected one that does not work.
+%1 will not be able to start Minecraft.
+Do you wish to proceed without a functional version of Java?
+
+You can change the Java version in the settings later.
+</source>
+        <translation type="unfinished">Antara Anda tidak memilih sebuah versi Java atau Anda memilih versi yang tidak dapat bekerja.
+%1 tidak akan bisa memulai Minecraft.
+Apakah Anda yakin melanjutkan tanpa versi Java yang fungsional?
+
+Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
+</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="353"/>
+        <source>Find Java executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
+        <source>Memory</source>
+        <translation type="unfinished">Memori</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
+        <source>The maximum amount of memory Minecraft is allowed to use.</source>
+        <translation type="unfinished">Jumlah maksimum memori (RAM) yang dapat digunakan oleh Minecraft.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
+        <source>Minimum memory allocation:</source>
+        <translation type="unfinished">Alokasi memori (RAM) minimum:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
+        <source>Maximum memory allocation:</source>
+        <translation type="unfinished">Alokasi memori (RAM) maksimum:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
+        <source>The amount of memory Minecraft is started with.</source>
+        <translation type="unfinished">Jumlah memori (RAM) yang digunakan untuk memulai Minecraft.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
+        <source>The amount of memory available to store loaded Java classes.</source>
+        <translation type="unfinished">Jumlah memori (RAM) yang tersedia untuk menyimpan kelas-kelas Java yang dimuat.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
+        <source>Browse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
+        <source>Auto-download Mojang Java</source>
+        <translation type="unfinished">Unduh Java Mojang secara otomatis</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
+        <source>Auto-detect Java version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
+        <source>Autodetect Java</source>
+        <translation type="unfinished">Deteksi Java secara otomatis</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
+        <source>Your maximum memory allocation exceeds your system memory capacity.</source>
+        <translation type="unfinished">Alokasi maksimum memori (RAM) Anda melebihi kapasitas memori sistem Anda.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
+        <source>Your maximum memory allocation approaches your system memory capacity.</source>
+        <translation type="unfinished">Alokasi maksimal memori (RAM) Anda mendekati kapasitas memori sistem Anda.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="521"/>
+        <source>Your maximum memory allocation is smaller than the minimum value</source>
+        <translation type="unfinished">Alokasi memori (RAM) maksimum Anda lebih kecil dari nilai minimum</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
+        <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
+        <translation type="unfinished">Anda sedang melebihi alokasi maksimum yang didukung instalasi 32-bit Java.</translation>
     </message>
 </context>
 <context>
@@ -5452,47 +5614,43 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
         <translation>Konsol</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="543"/>
         <source>Console Settings</source>
         <translation>Pengaturan Konsol</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
         <translation>Tampilkan konsol ketika pe&amp;rmainan sedang berjalan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="556"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
         <translation>Tutup konsol sec&amp;ara otomatis ketika keluar permainan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="563"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
         <translation>Tampilkan konsol ketika game berhenti (&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="573"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="543"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
         <translation>Batas riwayat (&amp;H)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="579"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>Berhenti membuat log &amp;saat log melewati batas</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="592"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="562"/>
         <source> lines</source>
         <translation> baris</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="620"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="590"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
         <translation>&amp;Font konsol</translation>
@@ -5558,27 +5716,27 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
         <translation>Folder Skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="355"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
         <translation>[Test/ERROR] OOoooOOOoooo! Kesalahan yang seram!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="363"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="357"/>
         <source>[Test/ERROR] A spooky error!</source>
         <translation>[Test/ERROR] Kesalahan yang seram!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="360"/>
         <source>[Test/WARN] A not so spooky warning.</source>
         <translation>[Test/WARN] Peringatan yang tidak terlalu seram.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="367"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
         <source>[Test/DEBUG] A secret debugging message...</source>
         <translation>[Test/DEBUG] Pesan debugging rahasia...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="368"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="362"/>
         <source>[Test/FATAL] A terrifying fatal error!</source>
         <translation>[Test/FATAL] Kesalahan fatal yang menakutkan!</translation>
     </message>
@@ -5587,7 +5745,7 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
         <translation type="vanished">[Sesuatu/ERROR] Error yang sangat menakutkan!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="365"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="359"/>
         <source>[Test/INFO] A harmless message...</source>
         <translation>[Test/INFO] Pesan yang tidak berbahaya...</translation>
     </message>
@@ -7831,29 +7989,23 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
         <translation>Keluar dari launcher setelah jendela permainan tertutup (&amp;Q)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="58"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="59"/>
         <source>Minecraft</source>
         <translation>Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="139"/>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="146"/>
         <source>Path to %1 library file</source>
         <translation>Path ke berkas library %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="142"/>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="149"/>
         <source>Auto detected path: %1</source>
         <translation>Path terdeteksi secara otomatis: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="163"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>Feral Interactive&apos;s GameMode tidak dapat ditemukan dalam sistem Anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="168"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>MangoHud tidak dapat ditemukan dalam sistem Anda.</translation>
     </message>
@@ -7912,6 +8064,280 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
         <translation type="vanished">Akuisisi profil Minecraft Java sukses.</translation>
+    </message>
+</context>
+<context>
+    <name>MinecraftSettingsWidget</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="29"/>
+        <source>Open &amp;Global Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
+        <source>The settings here are overrides for global settings.</source>
+        <translation type="unfinished">Pengaturan di sini adalah timpaan untuk pengaturan global.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
+        <source>General</source>
+        <translation type="unfinished">Umum</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="76"/>
+        <source>Game &amp;Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
+        <source>Start Minecraft maximized</source>
+        <translation type="unfinished">Mulai Minecraft dengan layar penuh</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
+        <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="98"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="107"/>
+        <source>Window height:</source>
+        <translation type="unfinished">Ketinggian Jendela:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="114"/>
+        <source>Window width:</source>
+        <translation type="unfinished">Lebar jendela:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="158"/>
+        <source>Game &amp;Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="170"/>
+        <source>Show time spent &amp;playing instances</source>
+        <translation type="unfinished">Tampilkan waktu main instansi-instansi (&amp;P)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="177"/>
+        <source>&amp;Record time spent playing instances</source>
+        <translation type="unfinished">&amp;Rekam waktu memainkan instansi-instansi</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="184"/>
+        <source>Show the &amp;total time played across instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="191"/>
+        <source>Always show durations in &amp;hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="204"/>
+        <source>&amp;Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="216"/>
+        <source>Show console while the game is running</source>
+        <translation type="unfinished">Tampilkan konsol ketika game berjalan</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="223"/>
+        <source>Automatically close console when the game quits</source>
+        <translation type="unfinished">Otomatis tutup konsol ketika keluar dari permainan</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="230"/>
+        <source>Show console when the game crashes</source>
+        <translation type="unfinished">Tampilkan konsol ketika game gagal</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="240"/>
+        <source>&amp;Miscellaneous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="252"/>
+        <source>Close the launcher after game window opens</source>
+        <translation type="unfinished">Tutup laucher setelah jendela permainan terbuka</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="259"/>
+        <source>Quit the launcher after game window closes</source>
+        <translation type="unfinished">Keluar dari launcher setelah jendela permainan tertutup</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="287"/>
+        <source>Java</source>
+        <translation type="unfinished">Java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="311"/>
+        <source>Tweaks</source>
+        <translation type="unfinished">Penyesuaian</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="335"/>
+        <source>&amp;Legacy Tweaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="347"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="350"/>
+        <source>Enable online fixes (experimental)</source>
+        <translation type="unfinished">Aktifkan perbaikan daring (eksperimental)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="363"/>
+        <source>&amp;Native Libraries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
+        <source>Use system installation of OpenAL</source>
+        <translation type="unfinished">Gunakan instalasi sistem OpenAL</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="382"/>
+        <source>&amp;GLFW library path</source>
+        <translation type="unfinished">Path library &amp;GLFW</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="392"/>
+        <source>Use system installation of GLFW</source>
+        <translation type="unfinished">Gunakan instalasi sistem dari GLFW</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="406"/>
+        <source>&amp;OpenAL library path</source>
+        <translation type="unfinished">Path library &amp;OpenAL</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="429"/>
+        <source>&amp;Performance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="441"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktifkan Feral Interactive&apos;s GameMode, untuk secara potensial meningkatkan kinerja permainan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="444"/>
+        <source>Enable Feral GameMode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="451"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="454"/>
+        <source>Enable MangoHud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="461"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gunakan GPU terpisah ketimbang GPU utama.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="464"/>
+        <source>Use discrete GPU</source>
+        <translation type="unfinished">Gunakan GPU terpisah</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="471"/>
+        <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
+        <translation type="unfinished">Gunakan Zink, sebuah driver Mesa OpenGL yang mengimplementasikan OpenGL bersama Vulkan. Performa mungkin bervariasi tergantung situasi. Catatan: Jika tidak ada driver Vulkan yang ditemukan, software rendering akan digunakan.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="474"/>
+        <source>Use Zink</source>
+        <translation type="unfinished">Gunakan Zink</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="502"/>
+        <source>Launch</source>
+        <translation type="unfinished">Jalankan</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="523"/>
+        <source>Override default &amp;account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
+        <source>Account:</source>
+        <translation type="unfinished">Akun:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="558"/>
+        <source>Set a &amp;target to join on launch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="570"/>
+        <source>Server address:</source>
+        <translation type="unfinished">Alamat server:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="580"/>
+        <source>Singleplayer world</source>
+        <translation type="unfinished">Dunia pemain tunggal</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="611"/>
+        <source>Custom Commands</source>
+        <translation type="unfinished">Perintah Kustom</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="621"/>
+        <source>Environment Variables</source>
+        <translation type="unfinished">Variabel-variabel Env</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="65"/>
+        <source>Show time &amp;playing this instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="66"/>
+        <source>&amp;Record time playing this instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="71"/>
+        <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="113"/>
+        <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
+        <translation type="unfinished">Feral Interactive&apos;s GameMode tidak dapat ditemukan dalam sistem Anda.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="118"/>
+        <source>MangoHud could not be found on your system.</source>
+        <translation type="unfinished">MangoHud tidak dapat ditemukan dalam sistem Anda.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="189"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="196"/>
+        <source>Path to %1 library file</source>
+        <translation type="unfinished">Path ke berkas library %1</translation>
     </message>
 </context>
 <context>
@@ -10504,30 +10930,30 @@ Lanjutkan dengan pemotongan?</translation>
         <translation>&lt;a href=&quot;%1&quot;&gt;Link untuk mengunggah catatan riwayat&lt;/a&gt;telah disalin ke papan klip anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="377"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="377"/>
         <source>The specified file either doesn&apos;t exist or is not a proper executable.</source>
         <translation>File yang ditentukan tidak ada atau tidak dapat dijalankan dengan benar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="381"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="381"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
         <translation>Biner java yang berikut tidak berjalan dengan benar.&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="391"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="391"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
         <translation>Biner java yang ditentukan mengembalikan hasil yang tidak terduga: &lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="401"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
         <translation>Pengetesan Java sukses&lt;br /&gt;Platform dilaporkan: %1&lt;br /&gt;Versi java dilaporkan: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
         <source>Java test success</source>
         <translation>Tes Java sukses</translation>
     </message>
@@ -10535,7 +10961,7 @@ Lanjutkan dengan pemotongan?</translation>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
         <source>Java test failure</source>
         <translation>Test java gagal</translation>
     </message>

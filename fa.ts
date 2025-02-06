@@ -775,12 +775,12 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="800"/>
+        <location filename="src/launcher/Application.cpp" line="798"/>
         <source>Settings</source>
         <translation>تنظیمات</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="947"/>
+        <location filename="src/launcher/Application.cpp" line="943"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -812,12 +812,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 برای حذف این قفل و ادامه دادن دکمه &quot;نادیده گرفتن&quot; را بزنید.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="964"/>
+        <location filename="src/launcher/Application.cpp" line="960"/>
         <source>Update In Progress</source>
         <translation>بروزرسانی درحال انجام</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="988"/>
+        <location filename="src/launcher/Application.cpp" line="984"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -831,12 +831,12 @@ for details on the last update attempt.</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="996"/>
+        <location filename="src/launcher/Application.cpp" line="992"/>
         <source>Update Failed</source>
         <translation>بروزرسانی ناموفق</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1020"/>
+        <location filename="src/launcher/Application.cpp" line="1016"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -857,12 +857,12 @@ for details.</oldsource>
 مشاهده کنید.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1028"/>
+        <location filename="src/launcher/Application.cpp" line="1024"/>
         <source>Update Succeeded</source>
         <translation>بروزرسانی موفق آمیز بود</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1060"/>
+        <location filename="src/launcher/Application.cpp" line="1056"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -879,32 +879,32 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1066"/>
+        <location filename="src/launcher/Application.cpp" line="1062"/>
         <source>Incompatible system configuration</source>
         <translation>کانفیگ سیستمی ناسازگار</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1426"/>
+        <location filename="src/launcher/Application.cpp" line="1422"/>
         <source>Aborted</source>
         <translation>لغو شده</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1828"/>
+        <location filename="src/launcher/Application.cpp" line="1824"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>داده های قدیمی از % 1 پیدا شد، اما از قبل داده های موجود برای % 2 دارید. متأسفانه باید خودتان انتقال داده را انجام دهید. آیا می خواهید دفعه بعد که % 2 را شروع می کنید، انتقال داده های معلق به شما یادآوری شود؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1832"/>
+        <location filename="src/launcher/Application.cpp" line="1828"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>به نظر می رسد قبلاً از %1 استفاده کرده اید. آیا می خواهید داده های خود را به مکان جدید %2 انتقال دهید؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1838"/>
+        <location filename="src/launcher/Application.cpp" line="1834"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>به نظر می رسد قبلاً از %1 در %2 استفاده کرده اید. آیا می خواهید داده های خود را به مکان جدید %3 انتقال دهید؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1881"/>
+        <location filename="src/launcher/Application.cpp" line="1877"/>
         <source>Migration failed! Reason: %1</source>
         <translation>مهاجرت ناموفق بود! دلیل: %1</translation>
     </message>
@@ -1680,7 +1680,6 @@ Some versions of Minecraft may not launch.
 <context>
     <name>CustomCommandsPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="52"/>
         <source>Custom Commands</source>
         <translation>دستور های سفارشی</translation>
     </message>
@@ -1940,7 +1939,6 @@ Some versions of Minecraft may not launch.
 <context>
     <name>EnvironmentVariablesPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/EnvironmentVariablesPage.cpp" line="44"/>
         <source>Environment Variables</source>
         <translation>متغیرهای محیطی</translation>
     </message>
@@ -4107,60 +4105,49 @@ Please try again.</source>
         <translation>آدرس سرور:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="59"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
         <source>Settings</source>
         <translation>تنظیمات</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="377"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="384"/>
         <source>Path to %1 library file</source>
         <translation>مسیر فایل کتابخانه %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="400"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="405"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>MangoHud در سیستم شما یافت نشد.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="456"/>
         <source>Select a Java version</source>
         <translation>انتخاب یک نسخه جاوا</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="470"/>
         <source>Confirm Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="471"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="482"/>
         <source>Find Java executable</source>
         <translation>پیدا کردن اجرایی جاوا</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="583"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>حداکثر حافظه اختصاص داده شده شما از ظرفیت حافظه سیستمتان خارج است.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="586"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="589"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>حداکثر حافظه اختصاص داده شده شما از حداقل مقدار مورد نیاز کمتر است</translation>
     </message>
@@ -4419,100 +4406,86 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>JavaPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="45"/>
         <source>Memory</source>
         <translation>حافظه</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="103"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>حداکثر مقدار حافظه‌ای که ماینکرافت مجاز است که استفاده کند.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
         <translation>&amp;حداقل مقدار حافظه اختصاص‌داده شده:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
         <translation>حداکثر مقدار حافظه اختصاص‌داده شده:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
         <source>&amp;PermGen:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>مقدار حافظه ای که ماینکرافت با آن باز می شود.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="125"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>مقدار حافظه ای که برای ذخیره سازی کلاس های بارگذاری شده جاوا در دسترس می باشد.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="160"/>
         <source>Java Runtime</source>
         <translation>Java رانتایم</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="218"/>
         <source>JVM arguments:</source>
         <translation>آرگومان های JVM:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="257"/>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="260"/>
         <source>Autodetect Java version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="275"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
         <translation>&amp;مسیر جاوا:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="306"/>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="309"/>
         <source>Auto-download Mojang Java</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="333"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="68"/>
         <source>Management</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="339"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="74"/>
         <source>Downloaded Java Versions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="357"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="92"/>
         <source>Download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="364"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="99"/>
         <source>Remove</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="384"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="119"/>
         <source>Refresh</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4522,45 +4495,38 @@ Please make sure that the maximum memory value is lower.</source>
         <translation type="obsolete">آرگومان های JVM:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="190"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
         <translation>&amp;تشخیص خودکار...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="203"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
         <translation>&amp;تست</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="294"/>
         <source>Browse</source>
         <translation type="unfinished">مسیر</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="228"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="231"/>
         <source>Skip Java &amp;Wizard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="172"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
         <translation type="unfinished">اگر فعال باشد، لانچر چک نخواهد کرد که نمونه با نسخه جاوای انتخاب شده سازگار است.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.h" line="59"/>
         <source>Java</source>
         <translation>جاوا</translation>
     </message>
@@ -4577,49 +4543,42 @@ Please make sure that the maximum memory value is lower.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
         <source>Select a Java version</source>
         <translation>انتخاب یک نسخه جاوا</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="163"/>
         <source>Confirm Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="164"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="175"/>
         <source>Find Java executable</source>
         <translation>یافتن اجرا کننده جاوا</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="234"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation type="unfinished">حداکثر حافظه اختصاص داده شده شما از ظرفیت حافظه سیستمتان خارج است.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="237"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="240"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation type="unfinished">حداکثر حافظه اختصاص داده شده شما از حداقل مقدار مورد نیاز کمتر است</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="266"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>Confirm Deletion</source>
         <translation type="unfinished">تایید حذف شدن</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="267"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="113"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
         <translation type="unfinished"></translation>
@@ -4628,7 +4587,6 @@ Are you sure?</source>
 <context>
     <name>JavaSettingsWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="243"/>
         <source>No Java version selected</source>
         <translation>هیچ نسخه‌ای از جاوا انتخاب نشد</translation>
     </message>
@@ -4647,17 +4605,15 @@ You can change the Java version in the settings later.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="58"/>
         <source>Download Java</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="233"/>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
 %1 will not be able to start Minecraft.
 Do you wish to proceed?
@@ -4667,7 +4623,6 @@ You can change the Java version in the settings later.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="244"/>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
 %1 will not be able to start Minecraft.
 Do you wish to proceed without a functional version of Java?
@@ -4677,77 +4632,159 @@ You can change the Java version in the settings later.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="353"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="223"/>
         <source>Find Java executable</source>
         <translation>یافتن اجرا کننده جاوا</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="495"/>
         <source>Memory</source>
         <translation>حافظه</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="496"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>حداکثر مقدار حافظه‌ای که ماینکرافت مجاز است استفاده کند.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="497"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="136"/>
         <source>Minimum memory allocation:</source>
         <translation>حداقل مقدار حافظه اختصاص‌داده شده:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="498"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished">فرم</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
+        <source>Java Insta&amp;llation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
+        <source>Auto-&amp;detect Java version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="65"/>
+        <source>Auto-detect...</source>
+        <translation type="unfinished">تشخیص خودکار...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="72"/>
+        <source>Test</source>
+        <translation type="unfinished">تست</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="81"/>
+        <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="84"/>
+        <source>Auto-download &amp;Mojang Java</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="91"/>
+        <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="94"/>
+        <source>Skip Java setup prompt on startup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="101"/>
+        <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
+        <translation type="unfinished">اگر فعال باشد، لانچر چک نخواهد کرد که نمونه با نسخه جاوای انتخاب شده سازگار است.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="104"/>
+        <source>Skip Java compatibility checks</source>
+        <translation type="unfinished">از چک‌های سازگاری جاوا بگذر</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="117"/>
+        <source>Memor&amp;y</source>
+        <translation type="unfinished">حافظه(&amp;y)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="129"/>
+        <source>PermGen (Java 7 and earlier):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="165"/>
         <source>Maximum memory allocation:</source>
         <translation>حداکثر مقدار حافظه اختصاص‌داده شده:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="499"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="207"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>مقدار حافظه ای که ماینکرافت با آن باز می شود.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="500"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="235"/>
+        <source>Java Argumen&amp;ts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>مقدار حافظه ای که برای ذخیره سازی کلاس های بارگذاری شده جاوا در دسترس می باشد.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="501"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="47"/>
         <source>Browse</source>
         <translation>مسیر</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="503"/>
         <source>Auto-download Mojang Java</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="505"/>
         <source>Autodetect Java version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="506"/>
         <source>Autodetect Java</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="515"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="263"/>
+        <source>Select a Java version</source>
+        <translation type="unfinished">انتخاب یک نسخه جاوا</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="272"/>
+        <source>Confirm Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="273"/>
+        <source>You selected a 32-bit version of Java.
+This installation does not support more than 2048MiB of RAM.
+Please make sure that the maximum memory value is lower.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="291"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation type="unfinished">حداکثر حافظه اختصاص داده شده شما از ظرفیت حافظه سیستمتان خارج است.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="518"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="294"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="521"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="297"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation type="unfinished">حداکثر حافظه اختصاص داده شده شما از حداقل مقدار مورد نیاز کمتر است</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4772,6 +4809,119 @@ Please select one of the following or browse for a Java executable.</source>
 Please select one of the following or browse for a java executable.</oldsource>
         <translation type="vanished">شما هنوز تنظیمی از جاوا که کار کند را ندارید یا اینکه گمشده است.
 لطفا یکی از این موارد را انتخاب کنید یا فایل اجرایی جاوا را انتخاب کنید.</translation>
+    </message>
+</context>
+<context>
+    <name>JavaWizardWidget</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
+        <source>Download Java</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
+        <source>32-bit Java detected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
+        <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
+%1 will not be able to start Minecraft.
+Do you wish to proceed?
+
+You can change the Java version in the settings later.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
+        <source>No Java version selected</source>
+        <translation type="unfinished">هیچ نسخه‌ای از جاوا انتخاب نشد</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
+        <source>You either didn&apos;t select a Java version or selected one that does not work.
+%1 will not be able to start Minecraft.
+Do you wish to proceed without a functional version of Java?
+
+You can change the Java version in the settings later.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="353"/>
+        <source>Find Java executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
+        <source>Memory</source>
+        <translation type="unfinished">حافظه</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
+        <source>The maximum amount of memory Minecraft is allowed to use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
+        <source>Minimum memory allocation:</source>
+        <translation type="unfinished">حداقل مقدار حافظه اختصاص‌داده شده:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
+        <source>Maximum memory allocation:</source>
+        <translation type="unfinished">حداکثر مقدار حافظه اختصاص‌داده شده:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
+        <source>The amount of memory Minecraft is started with.</source>
+        <translation type="unfinished">مقدار حافظه ای که ماینکرافت با آن باز می شود.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
+        <source>The amount of memory available to store loaded Java classes.</source>
+        <translation type="unfinished">مقدار حافظه ای که برای ذخیره سازی کلاس های بارگذاری شده جاوا در دسترس می باشد.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
+        <source>Browse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
+        <source>Auto-download Mojang Java</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
+        <source>Auto-detect Java version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
+        <source>Autodetect Java</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
+        <source>Your maximum memory allocation exceeds your system memory capacity.</source>
+        <translation type="unfinished">حداکثر حافظه اختصاص داده شده شما از ظرفیت حافظه سیستمتان خارج است.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
+        <source>Your maximum memory allocation approaches your system memory capacity.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="521"/>
+        <source>Your maximum memory allocation is smaller than the minimum value</source>
+        <translation type="unfinished">حداکثر حافظه اختصاص داده شده شما از حداقل مقدار مورد نیاز کمتر است</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
+        <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5373,47 +5523,43 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>کنسول</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="543"/>
         <source>Console Settings</source>
         <translation>تنظیمات کنسول</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
         <translation type="unfinished">در حالی که بازی در حال &amp;اجرا است، کنسول نمایش داده شود؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="556"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
         <translation type="unfinished">هنگام پایان بازی، کنسول به طور &amp;خودکار بسته شود؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="563"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
         <translation type="unfinished">وقتی بازی &amp;خراب می شود کنسول نشان داده شود؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="573"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="543"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
         <translation>محدودیت &amp;تاریخچه</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="579"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>&amp;توقف لاگ کردن هنگامی که لاگ سرریز می‌شود</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="592"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="562"/>
         <source> lines</source>
         <translation> خط</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="620"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="590"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
         <translation>&amp;فونت کنسول</translation>
@@ -5476,27 +5622,27 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="355"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="363"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="357"/>
         <source>[Test/ERROR] A spooky error!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="360"/>
         <source>[Test/WARN] A not so spooky warning.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="367"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
         <source>[Test/DEBUG] A secret debugging message...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="368"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="362"/>
         <source>[Test/FATAL] A terrifying fatal error!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5505,7 +5651,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation type="vanished">[Something/ERROR] یه خطای ترسناک!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="365"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="359"/>
         <source>[Test/INFO] A harmless message...</source>
         <translation>[Test/INFO] یه پیام بی آزار...</translation>
     </message>
@@ -7631,29 +7777,23 @@ This can be updated only using a file in %1 format
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="58"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="59"/>
         <source>Minecraft</source>
         <translation>ماینکرافت</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="139"/>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="146"/>
         <source>Path to %1 library file</source>
         <translation type="unfinished">مسیر فایل کتابخانه %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="142"/>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="149"/>
         <source>Auto detected path: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="163"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="168"/>
         <source>MangoHud could not be found on your system.</source>
         <translation type="unfinished">MangoHud در سیستم شما یافت نشد.</translation>
     </message>
@@ -7685,6 +7825,280 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MinecraftSettingsWidget</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="29"/>
+        <source>Open &amp;Global Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
+        <source>The settings here are overrides for global settings.</source>
+        <translation type="unfinished">تنظیمات اینجا رونویسی می شو برای تنظیمات کلی.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="76"/>
+        <source>Game &amp;Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
+        <source>Start Minecraft maximized</source>
+        <translation type="unfinished">شروع ماینکرافت به صورت پنجره بزرگ؟</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
+        <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="98"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="107"/>
+        <source>Window height:</source>
+        <translation type="unfinished">عرض پنجره:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="114"/>
+        <source>Window width:</source>
+        <translation type="unfinished">طول پنجره:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="158"/>
+        <source>Game &amp;Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="170"/>
+        <source>Show time spent &amp;playing instances</source>
+        <translation type="unfinished">نمایش زمان صرف شده برای نمایه های &amp;بازی شده</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="177"/>
+        <source>&amp;Record time spent playing instances</source>
+        <translation type="unfinished">&amp;ضبط کردن زمان بازی در هر نمایه</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="184"/>
+        <source>Show the &amp;total time played across instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="191"/>
+        <source>Always show durations in &amp;hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="204"/>
+        <source>&amp;Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="216"/>
+        <source>Show console while the game is running</source>
+        <translation type="unfinished">نمایش کنسول درحین اینکه بازی در حال اجراست؟</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="223"/>
+        <source>Automatically close console when the game quits</source>
+        <translation type="unfinished">خودکار کنسول با بسته شدن بازی بسته شود؟</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="230"/>
+        <source>Show console when the game crashes</source>
+        <translation type="unfinished">نشان دادن کنسول زمانی که بازی خراب می شود؟</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="240"/>
+        <source>&amp;Miscellaneous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="252"/>
+        <source>Close the launcher after game window opens</source>
+        <translation type="unfinished">لانچر را پس از باز شدن پنجره بازی ببندید</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="259"/>
+        <source>Quit the launcher after game window closes</source>
+        <translation type="unfinished">پس از بسته شدن پنجره بازی لانچر را ببند</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="287"/>
+        <source>Java</source>
+        <translation type="unfinished">جاوا</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="311"/>
+        <source>Tweaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="335"/>
+        <source>&amp;Legacy Tweaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="347"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="350"/>
+        <source>Enable online fixes (experimental)</source>
+        <translation type="unfinished">فعال کردن راه‌حل‌های آنلاین (آزمایشی)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="363"/>
+        <source>&amp;Native Libraries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
+        <source>Use system installation of OpenAL</source>
+        <translation type="unfinished">استفاده از نصب سیستم OpenAL</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="382"/>
+        <source>&amp;GLFW library path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="392"/>
+        <source>Use system installation of GLFW</source>
+        <translation type="unfinished">استفاده از نصب سیستم GLFW</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="406"/>
+        <source>&amp;OpenAL library path</source>
+        <translation type="unfinished">&amp;مسیر کتابخانه OpenAL</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="429"/>
+        <source>&amp;Performance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="441"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="444"/>
+        <source>Enable Feral GameMode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="451"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="454"/>
+        <source>Enable MangoHud</source>
+        <translation type="unfinished">MongoHud را روشن کنید</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="461"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;به جای کارت گرافیک اصلی از کارت گرافیک دیگری استفاده کنید.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="464"/>
+        <source>Use discrete GPU</source>
+        <translation type="unfinished">استفاده از کارت گرافیک مجزا</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="471"/>
+        <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="474"/>
+        <source>Use Zink</source>
+        <translation type="unfinished">استفاده از Zink</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="502"/>
+        <source>Launch</source>
+        <translation type="unfinished">اجرا</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="523"/>
+        <source>Override default &amp;account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
+        <source>Account:</source>
+        <translation type="unfinished">حساب:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="558"/>
+        <source>Set a &amp;target to join on launch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="570"/>
+        <source>Server address:</source>
+        <translation type="unfinished">آدرس سرور:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="580"/>
+        <source>Singleplayer world</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="611"/>
+        <source>Custom Commands</source>
+        <translation type="unfinished">دستور های سفارشی</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="621"/>
+        <source>Environment Variables</source>
+        <translation type="unfinished">متغیرهای محیطی</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="65"/>
+        <source>Show time &amp;playing this instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="66"/>
+        <source>&amp;Record time playing this instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="71"/>
+        <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="113"/>
+        <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="118"/>
+        <source>MangoHud could not be found on your system.</source>
+        <translation type="unfinished">MangoHud در سیستم شما یافت نشد.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="189"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="196"/>
+        <source>Path to %1 library file</source>
+        <translation type="unfinished">مسیر فایل کتابخانه %1</translation>
     </message>
 </context>
 <context>
@@ -10101,30 +10515,30 @@ Proceed with truncation?</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;لینک آپلود شده لاگ&lt;/a&gt; در کلیپ بورد شما کپی شد.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="377"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="377"/>
         <source>The specified file either doesn&apos;t exist or is not a proper executable.</source>
         <translation>فایل مشخص شده اصلا وجود ندارد یا اینکه فایل اجرایی مناسبی نیست.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="381"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="381"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
         <translation>binary جاوای مشخص شده درست شروع به کار نکرد.&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="391"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="391"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
         <translation>binary جاوای مشخص شده با نتایج غیر‌قابل پیشبینی بازگشت:&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="401"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
         <translation>تست جاوا موفقیت آمیز بود!&lt;br /&gt;پلتفرم گزارش شده: %1&lt;br /&gt;نسخه جاوای گزارش شده: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
         <source>Java test success</source>
         <translation>تست جاوا موفق بود</translation>
     </message>
@@ -10132,7 +10546,7 @@ Proceed with truncation?</source>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
         <source>Java test failure</source>
         <translation>تست جاوا ناموفق بود</translation>
     </message>
