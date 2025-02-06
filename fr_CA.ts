@@ -127,7 +127,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: vous devez uniquement entrer ceci pour accéder à l&apos;information privée. Lire la &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; pour plus d&apos;information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -759,7 +759,7 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished">Votre /tmp directory est présentement monté avec la bannière &apos;noexec&apos; activée.
+        <translation type="unfinished">Votre dossier /tmp est présentement monté avec la bannière &apos;noexec&apos; activée.
 Quelques versions de Minecraft pourraient ne pas démarrer.
 
 Vous pouvez résoudre ce problème en remontant /tmp comme étant &apos;exec&apos; ou régler le java.io.tmpdir JVM argument comme un répertoire inscriptible dans un fichier système ou la bannière &apos;exec&apos; est réglée (e.g., /home/user/.local/tmp)
@@ -1153,7 +1153,7 @@ Certaines versions de Minecraft pourraient ne pas se lancer.
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Profileur abandonné</translation>
+        <translation type="unfinished">Profileur annulé</translation>
     </message>
 </context>
 <context>
