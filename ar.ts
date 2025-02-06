@@ -23,7 +23,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>ملاحظة: ستريد على الارجح تغيير او ازالة الرابط الأساسي بعد تغيير نوع خدمة الطبع.</translation>
+        <translation>ملاحظة: ستريد على الارجح تغيير او ازالة الرابط الأساسي بعد تغيير نوع خدمة اللصق.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -61,7 +61,7 @@
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ملاحظة: ما عليك سوى تعيين هذا للوصول إلى البيانات الخاصة. اقرأ&lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;التعليمات&lt;/a&gt; لمزيد من المعلومات.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ملاحظة: تحتاج لتعيين هذا فقط للوصول إلى البيانات الخاصة. اقرأ&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;التعليمات هنا&lt;/a&gt; للمزيد من المعلومات.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
@@ -87,7 +87,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation>ادخل رمز التعريف المميز (GUID) الخاص بخدمة Technic هنا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -127,7 +127,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ملاحظة: تحتاج لتعيين هذا فقط للوصول إلى البيانات الخاصة. اقرأ &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;التعليمات&lt;/a&gt; لمعلومات اخرى.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -193,7 +193,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="386"/>
         <source>No loader version set for modpack!</source>
-        <translation>لا يوجد مشغل موضوع لل modpack!</translation>
+        <translation>لم يتم اختيار تحديث المشغل من اجل ال modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="516"/>
@@ -758,7 +758,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>كل الإصدارات</translation>
     </message>
 </context>
 <context>
@@ -834,12 +834,12 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">نجح التحديث
+        <translation>نجح التحديث
 
-أنت الآن تقوم بتشغيل %1 .
-تحقق من سجل تحديث بريسوم لانشر على:
+أنت الآن تشغل %1 .
+تحقق من سجل تحديث بريزم لانشر في:
 %1
-للتفاصيل.</translation>
+للمزيد من التفاصيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1024"/>
@@ -853,7 +853,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>ملف &quot;/tmp&quot; الخاص بك مركب حاليا مع العلم &apos;noexec&apos; مفعل
+بعض النسخ من ماينكرافت قد لا تعمل
+
+لتصليحها يمكنك اعادة تركيب /tmp في وضع &apos;exec&apos; او تغير اعدادات JVM الخاصة بـjava.io.tmpdir الى ملف اخر بإمكانك الكتابة فيه ومع وضعية &apos;exec&apos; معفلة (مثال: /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -1132,12 +1136,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>النظام قد وجد إصدار 32-bit لJava على جهازك</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يستطع النظام الوجود على إصدار Java متناسق، سيستخدم النظام الخيار الافتراضي.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
