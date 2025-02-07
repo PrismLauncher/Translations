@@ -4178,7 +4178,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="474"/>
         <source>Use system installation of OpenAL</source>
-        <translation>Használja az OpenAL rendszertelepítését</translation>
+        <translation>Használja az OpenAL rendszer telepítését</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -8161,7 +8161,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="255"/>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>Használja az &amp;OpenAL rendszertelepítését</translation>
+        <translation>Használja az &amp;OpenAL rendszer telepítését</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="262"/>
@@ -8503,7 +8503,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
         <source>Use system installation of OpenAL</source>
-        <translation>Használja az OpenAL rendszertelepítését</translation>
+        <translation>Használja az OpenAL rendszer telepítését</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="382"/>
