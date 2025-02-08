@@ -4131,7 +4131,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="291"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
-        <translation>基础游戏仅支持分辨率。为了模拟最大化行为，当前的实现方式将近似于最大显示尺寸。</translation>
+        <translation>基础游戏仅支持分辨率。为了模拟最大化行为，当前的实现方式将近似于最大显示尺寸..</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="294"/>
@@ -4204,7 +4204,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="481"/>
         <source>&amp;GLFW library path</source>
-        <translation>GLFW 图形库框架路径(&amp;G)</translation>
+        <translation>GLFW 图形库框架路径 (&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="491"/>
@@ -4252,7 +4252,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="505"/>
         <source>&amp;OpenAL library path</source>
-        <translation>OpenAL 程序库路径(&amp;O)</translation>
+        <translation>OpenAL 程序库路径 (&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="539"/>
@@ -4365,7 +4365,7 @@ Proceed with caution!</source>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>确定选择</translation>
+        <translation>确认选择</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
@@ -4710,7 +4710,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>自动下载 Mojang Java</translation>
+        <translation>自动从 Mojang 下载 Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="68"/>
@@ -4796,7 +4796,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>确定选择</translation>
+        <translation>确认选择</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
@@ -4926,67 +4926,67 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>格式</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
         <source>Java Insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>Java 安装 (&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
         <source>Auto-&amp;detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>自动检测 Java 版本 (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="65"/>
         <source>Auto-detect...</source>
-        <translation type="unfinished">自动检测…</translation>
+        <translation>自动检测…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="72"/>
         <source>Test</source>
-        <translation type="unfinished">测试</translation>
+        <translation>测试</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="81"/>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>自动下载并选择 Mojang 推荐的 Java 版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="84"/>
         <source>Auto-download &amp;Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>自动下载 Mojang Java (&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="91"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>启用时，启动器在启动时如果找不到 Java 版本，它将不会提示你选择一个版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="94"/>
         <source>Skip Java setup prompt on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>启动时跳过 Java 配置提示</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="101"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">启用时，启动器将不会检查选中的 Java 是否与实例兼容。</translation>
+        <translation>启用时，启动器将不会检查选中的 Java 是否与实例兼容。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="104"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished">跳过 Java 兼容性检查</translation>
+        <translation>跳过 Java 兼容性检查</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="117"/>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">内存(&amp;Y)</translation>
+        <translation>内存 (&amp;Y)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="129"/>
         <source>PermGen (Java 7 and earlier):</source>
-        <translation type="unfinished"></translation>
+        <translation>PermGen（Java 7 及更早版本）：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="165"/>
@@ -5001,7 +5001,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="235"/>
         <source>Java Argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>Java 参数 (&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
@@ -5028,19 +5028,19 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="263"/>
         <source>Select a Java version</source>
-        <translation type="unfinished">选择 Java 版本</translation>
+        <translation>选择 Java 版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="272"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished">确定选择</translation>
+        <translation>确认选择</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="273"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">你选择了 32 位版本的 Java。
+        <translation>你选择了 32 位版本的 Java。
 此安装版本不支持分配大于 2048 MiB 的内存。
 请确认最大内存大小不超过 2048 MiB。</translation>
     </message>
@@ -5091,12 +5091,12 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation type="unfinished">下载 Java</translation>
+        <translation>下载 Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished">检测到 32 位 Java</translation>
+        <translation>检测到 32 位 Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
@@ -5106,7 +5106,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">您选择了 32 位的 Java 安装版本，但分配了超过 2048MiB 的最大内存。
+        <translation>您选择了 32 位的 Java 安装版本，但分配了超过 2048MiB 的最大内存。
 %1 将无法启动 Minecraft。
 你是否仍要继续？
 
@@ -5116,7 +5116,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
         <source>No Java version selected</source>
-        <translation type="unfinished">未选择 Java 版本</translation>
+        <translation>未选择 Java 版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
@@ -5126,7 +5126,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">你未选择 Java 版本，或选择的 Java 版本无法使用。
+        <translation>你未选择 Java 版本，或选择的 Java 版本无法使用。
 %1 将无法启动 Minecraft。
 你确定要在没有可以正常运行的 Java 版本的情况下继续吗？
 
@@ -5136,77 +5136,77 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="353"/>
         <source>Find Java executable</source>
-        <translation type="unfinished">寻找 Java 可执行文件</translation>
+        <translation>寻找 Java 可执行文件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>Memory</source>
-        <translation type="unfinished">内存</translation>
+        <translation>内存</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft 允许使用的最大内存大小。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">最小内存分配：</translation>
+        <translation>最小内存分配：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">最大内存分配：</translation>
+        <translation>最大内存分配：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">Minecraft 启动时分配的内存总量。</translation>
+        <translation>Minecraft 启动时分配的内存总量。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>可用于存储已加载的 Java 类的内存总量。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
         <source>Browse</source>
-        <translation type="unfinished">浏览</translation>
+        <translation>浏览</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>自动从 Mojang 下载 Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
         <source>Auto-detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>自动检测 Java 版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished">自动检测 Java</translation>
+        <translation>自动检测 Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">分配的最大内存超过系统内存容量。</translation>
+        <translation>分配的最大内存超过系统内存容量。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished">分配的最大内存接近系统内存容量。</translation>
+        <translation>分配的最大内存接近系统内存容量。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="521"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">你的最大内存分配小于允许的最小值</translation>
+        <translation>你的最大内存分配小于允许的最小值</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished">已超过 32 位 Java 支持的最大内存分配大小。</translation>
+        <translation>已超过 32 位 Java 支持的最大内存分配大小。</translation>
     </message>
 </context>
 <context>
@@ -6872,33 +6872,33 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="406"/>
         <source>&amp;Edit...</source>
-        <translation>编辑(&amp;E)...</translation>
+        <translation>编辑 (&amp;E)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
         <source>&amp;Folder</source>
-        <translation>实例文件夹(&amp;F)</translation>
+        <translation>实例文件夹 (&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="463"/>
         <source>E&amp;xport...</source>
-        <translation>导出(&amp;X)...</translation>
+        <translation>导出 (&amp;X)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="433"/>
         <source>Dele&amp;te</source>
-        <translation>删除(&amp;T)</translation>
+        <translation>删除 (&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="448"/>
         <source>Cop&amp;y...</source>
-        <translation>复制(&amp;Y)...</translation>
+        <translation>复制 (&amp;Y)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="502"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1586"/>
         <source>Create Shortcut</source>
-        <translation>创建快捷方式(&amp;S)</translation>
+        <translation>创建快捷方式 (&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="505"/>
@@ -6918,33 +6918,33 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="356"/>
         <source>&amp;Kill</source>
-        <translation>结束进程(&amp;K)</translation>
+        <translation>结束进程 (&amp;K)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="344"/>
         <source>&amp;Launch</source>
-        <translation>启动(&amp;L)</translation>
+        <translation>启动 (&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="293"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>添加实例(&amp;E)...</translation>
+        <translation>添加实例 (&amp;E)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
         <source>F&amp;olders</source>
-        <translation>文件夹(&amp;O)</translation>
+        <translation>文件夹 (&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="320"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>设置(&amp;N)...</translation>
+        <translation>设置 (&amp;N)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="284"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation>撤销上一个实例的删除操作(&amp;U)</translation>
+        <translation>撤销上一个实例的删除操作 (&amp;U)</translation>
     </message>
     <message>
         <source>View &amp;Instance Folder</source>
@@ -6957,7 +6957,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="693"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation>清除元数据缓存(&amp;C)</translation>
+        <translation>清除元数据缓存 (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="696"/>
@@ -6980,12 +6980,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="654"/>
         <source>&amp;Matrix Space</source>
-        <translation>Matrix 聊天室(&amp;M)</translation>
+        <translation>Matrix 聊天室 (&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="642"/>
         <source>&amp;Discord Guild</source>
-        <translation>Discord 公会(&amp;D)</translation>
+        <translation>Discord 公会 (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="268"/>
@@ -6995,7 +6995,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
         <source>&amp;Instances</source>
-        <translation>实例(&amp;I)</translation>
+        <translation>实例 (&amp;I)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="556"/>
@@ -7005,17 +7005,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="565"/>
         <source>Launcher &amp;Root</source>
-        <translation>启动器根目录(&amp;R)</translation>
+        <translation>启动器根目录 (&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="577"/>
         <source>&amp;Central Mods</source>
-        <translation>公共 Mod(&amp;C)</translation>
+        <translation>公共 Mod (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
         <source>&amp;Skins</source>
-        <translation>皮肤(&amp;S)</translation>
+        <translation>皮肤 (&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="592"/>
@@ -7045,17 +7045,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="666"/>
         <source>Sub&amp;reddit</source>
-        <translation>Reddit 子论坛(&amp;R)</translation>
+        <translation>Reddit 子论坛 (&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="678"/>
         <source>&amp;About %1</source>
-        <translation>关于 %1(&amp;A)</translation>
+        <translation>关于 %1 (&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="762"/>
         <source>&amp;Widget Themes</source>
-        <translation>控件主题(&amp;W)</translation>
+        <translation>控件主题 (&amp;W)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="765"/>
@@ -7065,7 +7065,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="774"/>
         <source>I&amp;con Theme</source>
-        <translation>图标主题(&amp;C)</translation>
+        <translation>图标主题 (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="777"/>
@@ -7096,17 +7096,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
         <source>&amp;Update...</source>
-        <translation>更新(&amp;U)...</translation>
+        <translation>更新 (&amp;U)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="257"/>
         <source>&amp;Meow</source>
-        <translation>喵(&amp;M)</translation>
+        <translation>喵 (&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="335"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>账户管理(&amp;M)...</translation>
+        <translation>账户管理 (&amp;M)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="276"/>
@@ -7121,17 +7121,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
         <source>&amp;File</source>
-        <translation>文件(&amp;F)</translation>
+        <translation>文件 (&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation>编辑(&amp;E)</translation>
+        <translation>编辑 (&amp;E)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation>查看(&amp;V)</translation>
+        <translation>查看 (&amp;V)</translation>
     </message>
     <message>
         <source>&amp;Profiles</source>
@@ -7140,7 +7140,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="211"/>
         <source>&amp;Help</source>
-        <translation>帮助(&amp;H)</translation>
+        <translation>帮助 (&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
@@ -7169,7 +7169,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="538"/>
         <source>Close &amp;Window</source>
-        <translation>关闭窗口(&amp;W)</translation>
+        <translation>关闭窗口 (&amp;W)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="541"/>
@@ -7208,7 +7208,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="630"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation>报告程序漏洞或建议新功能(&amp;B)</translation>
+        <translation>报告程序漏洞或建议新功能 (&amp;B)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="657"/>
@@ -7224,7 +7224,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="750"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 帮助(&amp;H)</translation>
+        <translation>%1 帮助 (&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="753"/>
@@ -7295,7 +7295,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="383"/>
         <source>&amp;Change Group...</source>
-        <translation>改变分组(&amp;C)...</translation>
+        <translation>改变分组 (&amp;C)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="389"/>
@@ -7482,13 +7482,13 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="535"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation>创建实例(&amp;C)</translation>
+        <translation>创建实例 (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="549"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation>删除分组(&amp;D)</translation>
+        <translation>删除分组 (&amp;D)</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
@@ -7757,13 +7757,14 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1031"/>
         <source>No instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>没有实例！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1032"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有可以添加资源的实例。
+请先创建新实例，然后再尝试安装该资源。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1158"/>
@@ -8234,7 +8235,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="245"/>
         <source>&amp;GLFW library path</source>
-        <translation>GLFW 图形库框架路径(&amp;G)</translation>
+        <translation>GLFW 图形库框架路径 (&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="255"/>
@@ -8245,7 +8246,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="262"/>
         <source>&amp;OpenAL library path</source>
-        <translation>OpenAL 程序库路径(&amp;O)</translation>
+        <translation>OpenAL 程序库路径 (&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="289"/>
@@ -8316,19 +8317,19 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="133"/>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>显示单实例的游玩时长(&amp;P)</translation>
+        <translation>显示单实例的游玩时长 (&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="140"/>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>显示游玩所有实例的总时长(&amp;A)</translation>
+        <translation>显示游玩所有实例的总时长 (&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="147"/>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>记录单实例的游玩时长(&amp;R)</translation>
+        <translation>记录单实例的游玩时长 (&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="154"/>
@@ -8350,7 +8351,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="173"/>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>游戏启动后关闭启动器(&amp;C)</translation>
+        <translation>游戏启动后关闭启动器 (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="180"/>
@@ -8362,7 +8363,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="183"/>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>游戏窗口关闭后退出启动器(&amp;Q)</translation>
+        <translation>游戏窗口关闭后退出启动器 (&amp;Q)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="59"/>
@@ -8455,273 +8456,273 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="29"/>
         <source>Open &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>打开全局设置 (&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">此处的设置将会覆盖全局设置。</translation>
+        <translation>此处的设置将会覆盖全局设置。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
         <source>General</source>
-        <translation type="unfinished">常规</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="76"/>
         <source>Game &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>游戏窗口 (&amp;W)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished">在启动时将 Minecraft 窗口最大化</translation>
+        <translation>在启动时将 Minecraft 窗口最大化</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>基础游戏仅支持分辨率。为了模拟最大化行为，当前的实现方式将近似于最大显示尺寸。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="98"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：所有的 Minecraft 版本可能不完全支持最大化选项。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="107"/>
         <source>Window height:</source>
-        <translation type="unfinished">窗口高度：</translation>
+        <translation>窗口高度：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="114"/>
         <source>Window width:</source>
-        <translation type="unfinished">窗口宽度：</translation>
+        <translation>窗口宽度：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="158"/>
         <source>Game &amp;Time</source>
-        <translation type="unfinished"></translation>
+        <translation>游戏时长 (&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="170"/>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished">显示单实例的游玩时长(&amp;P)</translation>
+        <translation>显示单实例的游玩时长 (&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="177"/>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished">记录单实例的游玩时长(&amp;R)</translation>
+        <translation>记录单实例的游玩时长 (&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="184"/>
         <source>Show the &amp;total time played across instances</source>
-        <translation type="unfinished"></translation>
+        <translation>显示游玩所有实例的总时长 (&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="191"/>
         <source>Always show durations in &amp;hours</source>
-        <translation type="unfinished"></translation>
+        <translation>总是以小时为单位显示时长 (&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="204"/>
         <source>&amp;Console</source>
-        <translation type="unfinished"></translation>
+        <translation>控制台 (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="216"/>
         <source>Show console while the game is running</source>
-        <translation type="unfinished">运行游戏时显示控制台</translation>
+        <translation>运行游戏时显示控制台</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="223"/>
         <source>Automatically close console when the game quits</source>
-        <translation type="unfinished">退出游戏时自动关闭控制台</translation>
+        <translation>退出游戏时自动关闭控制台</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="230"/>
         <source>Show console when the game crashes</source>
-        <translation type="unfinished">游戏崩溃时显示控制台</translation>
+        <translation>游戏崩溃时显示控制台</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="240"/>
         <source>&amp;Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>杂项 (&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="252"/>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished">在游戏窗口出现后关闭启动器</translation>
+        <translation>在游戏窗口出现后关闭启动器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="259"/>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished">在游戏窗口关闭后退出启动器</translation>
+        <translation>在游戏窗口关闭后退出启动器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="287"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="311"/>
         <source>Tweaks</source>
-        <translation type="unfinished">微调</translation>
+        <translation>微调</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="335"/>
         <source>&amp;Legacy Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>旧版设置 (&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="347"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;模拟官方不再维护的旧在线服务&lt;/p&gt;&lt;p&gt;目前包含皮肤与在线模式支持。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;模拟官方不再维护的旧在线服务&lt;/p&gt;&lt;p&gt;目前包含皮肤与在线模式支持。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="350"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished">模拟旧版在线服务（实验性）</translation>
+        <translation>模拟旧版在线服务（实验性）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="363"/>
         <source>&amp;Native Libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>本地库 (&amp;N)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">使用系统 OpenAL</translation>
+        <translation>使用系统 OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="382"/>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished">GLFW 图形库框架路径(&amp;G)</translation>
+        <translation>GLFW 图形库框架路径 (&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="392"/>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">使用系统 GLFW</translation>
+        <translation>使用系统 GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="406"/>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished">OpenAL 程序库路径(&amp;O)</translation>
+        <translation>OpenAL 程序库路径 (&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="429"/>
         <source>&amp;Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>性能 (&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="441"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 Feral Interactive&apos;s GameMode，可能会提高游戏性能&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="444"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">启用 Feral Interactive&apos;s GameMode</translation>
+        <translation>启用 Feral Interactive&apos;s GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="451"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 MangoHud 的高级性能覆盖&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 MangoHud 的高级性能覆盖&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="454"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">启用 MangoHud</translation>
+        <translation>启用 MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="461"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用独显替代核显（适用于双显卡用户）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用独显替代核显（适用于双显卡用户）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="464"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">使用独显</translation>
+        <translation>使用独显</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="471"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished">使用 Zink（用来基于 Vulkan 上实现 OpenGL 的 Mesa OpenGL 驱动程序），性能可能因情况而异。注：如果没有找到合适的 Vulkan 驱动程序，将使用软件渲染。</translation>
+        <translation>使用 Zink（用来基于 Vulkan 上实现 OpenGL 的 Mesa OpenGL 驱动程序），性能可能因情况而异。注：如果没有找到合适的 Vulkan 驱动程序，将使用软件渲染。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="474"/>
         <source>Use Zink</source>
-        <translation type="unfinished">使用 Zink</translation>
+        <translation>使用 Zink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="502"/>
         <source>Launch</source>
-        <translation type="unfinished">运行</translation>
+        <translation>运行</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="523"/>
         <source>Override default &amp;account</source>
-        <translation type="unfinished"></translation>
+        <translation>覆盖默认账户 (&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Account:</source>
-        <translation type="unfinished">账户：</translation>
+        <translation>账户：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="558"/>
         <source>Set a &amp;target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>启动游戏后直接加入服务器 (&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="570"/>
         <source>Server address:</source>
-        <translation type="unfinished">服务器地址：</translation>
+        <translation>服务器地址：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="580"/>
         <source>Singleplayer world</source>
-        <translation type="unfinished">单人游戏世界</translation>
+        <translation>单人游戏世界</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="611"/>
         <source>Custom Commands</source>
-        <translation type="unfinished">自定义命令</translation>
+        <translation>自定义命令</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="621"/>
         <source>Environment Variables</source>
-        <translation type="unfinished">环境变量</translation>
+        <translation>环境变量</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="65"/>
         <source>Show time &amp;playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>显示此实例的游玩时间 (&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="66"/>
         <source>&amp;Record time playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>记录此实例的游玩时间 (&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="71"/>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：该 Minecraft 版本不完全支持最大化选项。&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="113"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">无法在你的系统上找到 Feral Interactive&apos;s GameMode。</translation>
+        <translation>无法在你的系统上找到 Feral Interactive&apos;s GameMode。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="118"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">无法在你的系统上找到 MangoHud。</translation>
+        <translation>无法在你的系统上找到 MangoHud。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="189"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="196"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">&amp;1 程序库路径</translation>
+        <translation>&amp;1 程序库路径</translation>
     </message>
 </context>
 <context>
