@@ -5149,47 +5149,47 @@ Verzi Javy můžete později změnit v nastavení.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Množství paměti dostupné k ukládání uložených tříd Javy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Procházet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">Automaticky stáhnout Mojang Java</translation>
+        <translation>Automaticky stáhnout Mojang Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
         <source>Auto-detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaticky zjistit verzi Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished">Automaticky zjistit Javu</translation>
+        <translation>Automaticky zjistit Javu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">Vaše maximální přidělení paměti přesahuje kapacitu systémové paměti.</translation>
+        <translation>Vaše maximální přidělení paměti přesahuje kapacitu systémové paměti.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished">Vaše maximální přidělení paměti se blíží kapacitě systémové paměti.</translation>
+        <translation>Vaše maximální přidělení paměti se blíží ke kapacitě systémové paměti.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="521"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">Vaše maximální přidělení paměti je menší než minimální hodnota</translation>
+        <translation>Vaše maximální přidělení paměti je menší, než minimální hodnota</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished">Překračujete maximální přidělení podporované 32-bitovými instalacemi Javy.</translation>
+        <translation>Překračujete maximální přidělení podporované 32-bitovými instalacemi Javy.</translation>
     </message>
 </context>
 <context>
@@ -7741,7 +7741,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1031"/>
         <source>No instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádná instance!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1032"/>
