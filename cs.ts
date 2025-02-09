@@ -7747,7 +7747,8 @@ Jste si jisti?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1032"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Není dostupná žádná instance, ke které by se dala modifikace přidat.
+Před opětovným pokusem o instalaci této modifikace prosím vytvořte novou instanci.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1158"/>
@@ -8435,273 +8436,273 @@ Lze jej aktualizovat pouze pomocí souboru ve formátu %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="29"/>
         <source>Open &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít &amp;globální nastavení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Tato nastavení přepíší globální nastavení.</translation>
+        <translation>Tato nastavení přepíší globální nastavení.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
         <source>General</source>
-        <translation type="unfinished">Obecné</translation>
+        <translation>Obecné</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="76"/>
         <source>Game &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Herní &amp;okno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished">Spustit Minecraft maximalizovaný</translation>
+        <translation>Spustit Minecraft maximalizovaný</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Základní hra podporuje pouze rozlišení. Pro simulaci maximalizace současná implementace odhadne maximální velikost displeje.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="98"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Varování&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Možnost maximalizace nemusí být plně podporovaná u všech verzí hry.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="107"/>
         <source>Window height:</source>
-        <translation type="unfinished">Výška okna:</translation>
+        <translation>Výška okna:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="114"/>
         <source>Window width:</source>
-        <translation type="unfinished">Šířka okna:</translation>
+        <translation>Šířka okna:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="158"/>
         <source>Game &amp;Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Herní &amp;čas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="170"/>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished">Zobrazit čas strávený hraním instancí</translation>
+        <translation>Zobrazit čas strávený &amp;hraním instancí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="177"/>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished">Zaznamenávat čas strávený hraním instancí</translation>
+        <translation>&amp;Zaznamenávat čas strávený hraním instancí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="184"/>
         <source>Show the &amp;total time played across instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit &amp;celkový herní čas napříč instancemi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="191"/>
         <source>Always show durations in &amp;hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Vždy zobrazit trvání v &amp;hodinách</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="204"/>
         <source>&amp;Console</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Konzole</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="216"/>
         <source>Show console while the game is running</source>
-        <translation type="unfinished">Zobrazit konzoli, zatímco hra běží</translation>
+        <translation>Zobrazit konzoli, zatímco hra běží</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="223"/>
         <source>Automatically close console when the game quits</source>
-        <translation type="unfinished">Automaticky zavřít konzoli po ukončení hry</translation>
+        <translation>Automaticky zavřít konzoli po ukončení hry</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="230"/>
         <source>Show console when the game crashes</source>
-        <translation type="unfinished">Zobrazit konzoli, když hra spadne</translation>
+        <translation>Zobrazit konzoli, když hra spadne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="240"/>
         <source>&amp;Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Různé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="252"/>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished">Zavřít launcher po otevření okna hry</translation>
+        <translation>Zavřít launcher po otevření okna hry</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="259"/>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished">Zavřít launcher po zavření okna hry</translation>
+        <translation>Zavřít launcher po zavření okna hry</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="287"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="311"/>
         <source>Tweaks</source>
-        <translation type="unfinished">Vylepšení</translation>
+        <translation>Vylepšení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="335"/>
         <source>&amp;Legacy Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zastaralá vylepšení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="347"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuluje použití starších online služeb, které již nejsou funkční.&lt;/p&gt;&lt;p&gt;Aktuální opravy obsahují: podporu skinů a režimu online.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuluje použití starších online služeb, které již nejsou funkční.&lt;/p&gt;&lt;p&gt;Aktuální opravy obsahují: podporu skinů a režimu online.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="350"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit online opravy (experimentální)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="363"/>
         <source>&amp;Native Libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nativní knihovny</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Použít systémovou instalaci OpenAL</translation>
+        <translation>Použít systémovou instalaci OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="382"/>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished">Cesta knihovny &amp;GLFW</translation>
+        <translation>Cesta knihovny &amp;GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="392"/>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Použít systémovou instalaci GLFW</translation>
+        <translation>Použít systémovou instalaci GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="406"/>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished">Cesta knihovny &amp;OpenAL</translation>
+        <translation>Cesta knihovny &amp;OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="429"/>
         <source>&amp;Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Výkon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="441"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povolit GameMode od Feral Interactive pro potenciální zlepšení herního výkonu.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povolit GameMode od Feral Interactive pro potenciální zlepšení herního výkonu.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="444"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Povolit Feral GameMode</translation>
+        <translation>Povolit Feral GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="451"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povolit pokročilé výkonnostní překrytí MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povolit pokročilé překrytí MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="454"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Povolit MangoHud</translation>
+        <translation>Povolit MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="461"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Použít diskrétní GPU místo primárního.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Použít diskrétní GPU místo primárního.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="464"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Použít diskrétní GPU</translation>
+        <translation>Použít diskrétní GPU</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="471"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished">Použít Zink, ovladač Mesa OpenGL, který implementuje OpenGL na Vulkan. Výkon se může měnit v závislosti na situaci. Poznámka: pokud nebude nalezen žádný vhodný ovladač Vulkan, bude použito softwarové vykreslování.</translation>
+        <translation>Použít Zink, ovladač Mesa OpenGL, který implementuje OpenGL na Vulkan. Výkon se může měnit v závislosti na situaci. Poznámka: pokud nebude nalezen žádný vhodný ovladač Vulkan, bude použito softwarové vykreslování.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="474"/>
         <source>Use Zink</source>
-        <translation type="unfinished">Použít Zink</translation>
+        <translation>Použít Zink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="502"/>
         <source>Launch</source>
-        <translation type="unfinished">Spustit</translation>
+        <translation>Spustit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="523"/>
         <source>Override default &amp;account</source>
-        <translation type="unfinished"></translation>
+        <translation>Přepsat výchozí &amp;účet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Account:</source>
-        <translation type="unfinished">Účet:</translation>
+        <translation>Účet:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="558"/>
         <source>Set a &amp;target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavit &amp;cíl k připojení po spuštění</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="570"/>
         <source>Server address:</source>
-        <translation type="unfinished">Adresa serveru:</translation>
+        <translation>Adresa serveru:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="580"/>
         <source>Singleplayer world</source>
-        <translation type="unfinished">Svět jednoho hráče</translation>
+        <translation>Svět jednoho hráče</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="611"/>
         <source>Custom Commands</source>
-        <translation type="unfinished">Vlastní příkazy</translation>
+        <translation>Vlastní příkazy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="621"/>
         <source>Environment Variables</source>
-        <translation type="unfinished">Proměnné prostředí</translation>
+        <translation>Proměnné prostředí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="65"/>
         <source>Show time &amp;playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit čas &amp;strávený hraním této instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="66"/>
         <source>&amp;Record time playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zaznamenávat čas strávený hraním této instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="71"/>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Varování&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Možnost maximalizace není u této verze hry plně podporována.&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="113"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">Ve vašem systému nebyla nalezena aplikace Feral Interactive GameMode.</translation>
+        <translation>Ve vašem systému nebyla nalezen program Feral Interactive GameMode.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="118"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">Ve vašem systému nebyla nalezena aplikace MangoHud.</translation>
+        <translation>Ve vašem systému nebyla nalezen program MangoHud.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="189"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="196"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">Cesta k souboru knihovny %1</translation>
+        <translation>Cesta k souboru knihovny %1</translation>
     </message>
 </context>
 <context>
