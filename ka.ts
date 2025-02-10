@@ -711,7 +711,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>თქვენი /tmp დირექტორიაში ამჟამად &apos;noexec&apos; ნიშნულია გააქტიურებული.
+ზოგიერთი Minecraft-ის ვერსია შეიძლება ვერ ჩაირთოს.
+
+ამ ხარვეზის გამოსწორება შეგიძლიათ /tmp-ის &apos;exec-ად&apos; გადაწერით ან java.io.tmpdir JVM-ის არგუმენტის ხელმისაწვდომ დირექტორიაში ჩაწერით, სადაც &apos;exec&apos; ნიშნულია დაყენებული (მაგ., /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1062"/>
