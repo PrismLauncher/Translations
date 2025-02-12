@@ -1113,12 +1113,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="128"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">فشلت المصادقة. انهت صلاحية الجلسة.</translation>
+        <translation>فشلت المصادقة. إنتهت صلاحية الجلسة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="135"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">فشلت المصادقة. الحساب لم يعد موجودا.</translation>
+        <translation>فشلت المصادقة. الحساب لم يعد موجوداً.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
@@ -1128,7 +1128,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">حساب مجهول حالة المهمة: 1%</translation>
+        <translation>حالة مهمة الحساب المجهول: 1%</translation>
     </message>
 </context>
 <context>
@@ -1151,37 +1151,37 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلومات المطلوبة قديمة أو غير موجودة لتحديد إصدار نسخة Java التي يجب إستعمالها. سيتم إستعمال طريق Java الإفتراضي.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>وجد Java متناسق: 1%.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يوجد أي نسخة متناسقة مع Java. سيتم إستعمال النسخة الإفتراضية.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتمكن تحديد نوع تحميل Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم العثور على أي نسخة من Java في جهازك: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا توجد نسخة متناسقة من Java. سيتم إستعمال النسخة الإفتراضية.</translation>
     </message>
 </context>
 <context>
@@ -1189,28 +1189,28 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>شكل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;تنبيه خاصية جديدة!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>لقد أضفنا خاصية تحميل النسخة الصحيحة لJava لكل نسخة من Minecraft (هذه الخاصية يمكن تغييرها في إعدادات Java). هل تريد تفعيل أم تعطيل هذه الخاصية؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>تفعيل التحميل التلقائي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>إبطال التحميل التلقائي</translation>
     </message>
 </context>
 <context>
@@ -1241,7 +1241,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
@@ -1383,7 +1383,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="124"/>
         <source>One or more subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل واحد أو أكثر من المهمات الثانوية</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="227"/>
@@ -1522,7 +1522,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
         <source>Use symbolic links</source>
-        <translation type="unfinished">استخدام الروابط الرمزية</translation>
+        <translation>إستخدم الروابط الرمزية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
@@ -1537,7 +1537,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
         <source>Clone instead of copying</source>
-        <translation type="unfinished">استنسخ بدلا من النسخ</translation>
+        <translation>إستنسخ بدلا من النسخ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
@@ -1597,7 +1597,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
@@ -1651,7 +1651,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;اوامر قبل التشغيل هي يتم وتنفيذها قبل تشغيل البرنامج وأوامر بعد الإغلاق تعمل بعد الإغلاق&lt;/p&gt;&lt;p&gt;كلاهما ستعمل في مجلد عمل المشغل مع متغيرات بيئة إضافية:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - إسم الحالة&lt;/li&gt;&lt;li&gt;$INST_ID - ID الخاص بالحالة (هو إسم المجلد)&lt;/li&gt;&lt;li&gt;$INST_DIR -المسار المطلق للحالة&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - المسار الحتمي لماين كرافت&lt;/li&gt;&lt;li&gt;$INST_JAVA -جافا باينيري المستخدمة ل launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - تعليمات سطر الأوامر المستخدمة للتشغيل (تحذير: لن يعمل بشكل صحيح إذا كان الأمر تحتوي على مسافات)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;يسمح أمر Wrapper بالتشغيل باستخدام برنامج غلاف إضافي (مثل &quot;optirun&quot; على Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;أوامر قبل التشغيل يتم تنفيذها قبل تشغيل البرنامج و أوامر بعد الإغلاق تعمل بعد الإغلاق&lt;/p&gt;&lt;p&gt;كلاهما ستعمل في مجلد عمل المشغل مع متغيرات بيئة إضافية:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - إسم الحالة&lt;/li&gt;&lt;li&gt;$INST_ID - ID الخاص بالحالة (هو إسم المجلد)&lt;/li&gt;&lt;li&gt;$INST_DIR -المسار المطلق للحالة&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - المسار الحتمي لماين كرافت&lt;/li&gt;&lt;li&gt;$INST_JAVA -جافا باينيري المستخدمة ل launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - تعليمات سطر الأوامر المستخدمة للتشغيل (تحذير: لن يعمل بشكل صحيح إذا كان الأمر تحتوي على مسافات)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;يسمح أمر Wrapper بالتشغيل باستخدام برنامج غلاف إضافي (مثل &quot;optirun&quot; على Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1756,7 +1756,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">لا يوجد إصدار متوفر حاليا ل&quot;ماين كرافت&quot; 1%</translation>
+        <translation>لا يوجد إصدارات متاحة لMinecraft %1</translation>
     </message>
 </context>
 <context>
@@ -1821,7 +1821,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1832,12 +1832,12 @@ Some versions of Minecraft may not launch.
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="unfinished">ستتعطل إذا المودات إحتوت &quot;ميتا داتا&quot;</translation>
+        <translation>التحقق إذا كان لدى التعديلات (المودات) المعلومات المطلوبة...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="91"/>
         <source>Checking if resources have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>التحقق إذا الموارد لديها المعلومات المطلوبة...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="168"/>
