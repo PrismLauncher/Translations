@@ -11398,7 +11398,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="92"/>
         <source>Confirm Upload</source>
-        <translation>確定上傳</translation>
+        <translation>確認上傳</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="93"/>
