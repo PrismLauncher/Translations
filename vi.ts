@@ -4725,12 +4725,12 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
         <source>Java Insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>Cài đặt Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
         <source>Auto-&amp;detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Tự động phát hiện phiên bản Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="65"/>
@@ -4745,22 +4745,22 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="81"/>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tự động tải xuống và chọn bản dựng Java được Mojang đề xuất.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="84"/>
         <source>Auto-download &amp;Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Tự động tải xuống Java của Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="91"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nếu được bật, trình khởi chạy sẽ không nhắc bạn chọn phiên bản Java nếu không tìm thấy phiên bản đó khi khởi động.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="94"/>
         <source>Skip Java setup prompt on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Bỏ qua lời nhắc thiết lập Java khi khởi động</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="101"/>
@@ -4780,7 +4780,7 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="129"/>
         <source>PermGen (Java 7 and earlier):</source>
-        <translation type="unfinished"></translation>
+        <translation>PermGen(phiên bản Java 7 và trước)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="165"/>
@@ -4795,7 +4795,7 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="235"/>
         <source>Java Argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>Đối số Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
@@ -4955,7 +4955,7 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dung lượng bộ nhớ Minecraft được bắt đầu từ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
@@ -8192,7 +8192,7 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="523"/>
         <source>Override default &amp;account</source>
-        <translation type="unfinished"></translation>
+        <translation>Ghi đè mặc định &amp;tài khoản</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
@@ -8227,12 +8227,12 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="65"/>
         <source>Show time &amp;playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiển thị thời gian &amp;phát bản này</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="66"/>
         <source>&amp;Record time playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ghi lại thời gian chơi bản này</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="71"/>
@@ -8242,18 +8242,18 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="113"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không tìm thấy GameMode của Feral Interactive trên hệ thống của bạn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="118"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không tìm thấy MangoHud trên hệ thống của bạn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="189"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="196"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished"></translation>
+        <translation>Đường dẫn đến tệp thư viện %1</translation>
     </message>
 </context>
 <context>
