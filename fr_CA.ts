@@ -1322,7 +1322,7 @@ Certaines versions de Minecraft pourraient ne pas se lancer.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="227"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exécution de(s) tâche(s)%1 (%2 sur %3 sont faits)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="230"/>
@@ -2842,7 +2842,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Options de filtrage</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -2866,7 +2866,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trier par dernière mise à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="85"/>
@@ -2884,7 +2884,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="87"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trier par téléchargements totaux</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="226"/>
@@ -2900,27 +2900,27 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="310"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> par </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="315"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Liens externes :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="319"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Problèmes : &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="321"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="323"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Code source : &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -3287,12 +3287,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="27"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Nom :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="40"/>
         <source>&amp;Group:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Groupe :</translation>
     </message>
 </context>
 <context>
@@ -5393,7 +5393,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
         <source>Clear the log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Effacer le journal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="116"/>
@@ -9826,7 +9826,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">inconnu</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
@@ -9842,7 +9842,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trier par dernière mise à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
@@ -9873,17 +9873,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trier par pertinence</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trier par suivis</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trier par le plus récent</translation>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="77"/>
@@ -10137,42 +10137,42 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="207"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> par </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="212"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;b&gt;Ce projet à été archivé. Il ne recevra plus aucune mise à jour à moins que l&apos;auteur décide de désarchiver le projet.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="217"/>
         <source>Donate information: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Information Donnée : </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="230"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Liens externes :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="234"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Problèmes : &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="236"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="238"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Code source : &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="240"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="261"/>
@@ -10625,7 +10625,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Options de filtrage</translation>
     </message>
 </context>
 <context>
@@ -10884,7 +10884,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="66"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Supprimer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="71"/>
@@ -11825,7 +11825,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="231"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> par </translation>
     </message>
 </context>
 <context>
@@ -12297,7 +12297,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Recharger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="115"/>
@@ -12837,7 +12837,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="118"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Supprimer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="123"/>
