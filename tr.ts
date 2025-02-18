@@ -4873,12 +4873,12 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="91"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Etkinleştirilirse; başlatıcı, başlangıçta bulunmazsa bir Java sürümü seçmenizi istemeyecek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="94"/>
         <source>Skip Java setup prompt on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlangıçta Java kurulumu istemini atla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="101"/>
@@ -4898,7 +4898,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="129"/>
         <source>PermGen (Java 7 and earlier):</source>
-        <translation type="unfinished"></translation>
+        <translation>PermGen (Java 7 ve daha eski):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="165"/>
@@ -7657,7 +7657,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1031"/>
         <source>No instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunucu profili yok!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1032"/>
