@@ -127,7 +127,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bemærk: Du behøver kun at indstille dette for at tilgå private data. Læs &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentationen&lt;/a&gt; for flere oplysninger.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -873,7 +873,10 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Mappen /tmp er monteret med &apos;noexec&apos;-flaget aktiveret, hvilket kan forhindre visse Minecraft-versioner i at starte.
+
+Du kan muligvis løse dette ved at genmontere /tmp som &apos;exec&apos; eller angive JVM-argumentet java.io.tmpdir til en skrivbar mappe i et filsystem med &apos;exec&apos;-flaget (f.eks. /home/user/.local/tmp).
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -1191,7 +1194,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished">Din metainformation er forældet eller indeholder ikke nødvendig information til at fastsætte hvilken version af Java, som skal bruges. Bruger standard Java-sti.</translation>
+        <translation>Dine metaoplysninger er forældede eller mangler de nødvendige oplysninger til at bestemme Java-installationen. Bruger standardstien.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
@@ -1234,7 +1237,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Ny funktion-advarsel!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Ny funktion-alarm!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
@@ -1290,7 +1293,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
@@ -1869,7 +1872,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1992,7 +1995,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="148"/>
@@ -2104,7 +2107,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="108"/>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="134"/>
@@ -2168,7 +2171,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation type="unfinished">Uformateret tekst</translation>
+        <translation>Ren tekst</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
@@ -2282,7 +2285,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished">Deaktivér valgt objekt</translation>
+        <translation>Deaktivér valgt element</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
@@ -2327,7 +2330,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation type="unfinished">Aktivér alle valgte objekter.</translation>
+        <translation>Aktivér alle valgte elementer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
@@ -2342,7 +2345,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>Remove all selected items.</source>
-        <translation type="unfinished">Fjern alle valgte objekter.</translation>
+        <translation>Fjern alle valgte elementer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
@@ -2367,7 +2370,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
         <source>Open the folder in the system file manager.</source>
-        <translation type="unfinished">Åben mappen i systemets filhåndterer.</translation>
+        <translation>Åbn mappen i systemets filhåndtering.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"/>
@@ -2387,7 +2390,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Reset Update Metadata</source>
-        <translation type="unfinished">Nulstil opdateringsmetadata</translation>
+        <translation>Nulstil opdateringsmetadata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
