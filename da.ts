@@ -2458,8 +2458,9 @@ Nogle versioner af Minecraft starter muligvis ikke.
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">Du er i færd med at fjerne %1 objekt.
-Dette kan være permanent, og de vil blive fjernet fra mappen.
+        <translation>Du er ved at fjerne %1 element.
+
+Dette kan være permanent, og de forsvinder fra mappen.
 
 Er du sikker?</translation>
     </message>
