@@ -4886,7 +4886,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="81"/>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
-        <translation type="unfinished">Télécharge et sélectionne automatiquement la construction Java recommandée par Mojang.</translation>
+        <translation>Télécharge et sélectionne automatiquement la version de Java recommandée par Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="84"/>
@@ -4950,7 +4950,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Téléchargement automatique de Mojang Java</translation>
+        <translation>Télécharger automatiquement Mojang Java</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
@@ -8363,7 +8363,7 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Les paramètres ici outrepassent les paramètres globaux.</translation>
+        <translation>Les paramètres ici outrepassent les paramètres globaux.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
@@ -8473,12 +8473,12 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="335"/>
         <source>&amp;Legacy Tweaks</source>
-        <translation type="unfinished">&amp;Anciens ajustements</translation>
+        <translation>&amp;Anciens ajustements</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="347"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Émule les usages d&apos;anciens services en ligne qui ne fonctionnent plus.&lt;/p&gt;&lt;p&gt;Les correctifs actuels incluent&#xa0;: skin et support du mode en ligne&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Émule l&apos;usage d&apos;anciens services en ligne qui ne fonctionnent plus.&lt;/p&gt;&lt;p&gt;Les correctifs actuels incluent&#xa0;: skin et support du mode en ligne&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="350"/>
@@ -8523,12 +8523,12 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="444"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Activer GameMode de Feral</translation>
+        <translation>Activer GameMode de Feral</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="451"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Activez l&apos;affichage en superposition de performances avancées utilisant MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Activez l&apos;affichage en superposition de performances avancées utilisant MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="454"/>
