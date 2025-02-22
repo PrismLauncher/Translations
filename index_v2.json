@@ -211,11 +211,11 @@
             "untranslated" : 817
         },
         "fr" : {
-            "file" : "1ceae1b82b9d7a1a7cd59dd5a6859698c81b9e36.class",
-            "sha1" : "1ceae1b82b9d7a1a7cd59dd5a6859698c81b9e36",
-            "size" : 374982,
-            "translated" : 2342,
-            "fuzzy" : 6,
+            "file" : "ba3000e73009df20ec48138f860f3ca1395f49ff.class",
+            "sha1" : "ba3000e73009df20ec48138f860f3ca1395f49ff",
+            "size" : 374968,
+            "translated" : 2348,
+            "fuzzy" : 0,
             "untranslated" : 0
         },
         "fr_CA" : {
