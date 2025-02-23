@@ -1666,7 +1666,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="58"/>
         <source>Filter</source>
-        <translation type="unfinished">المرشّح</translation>
+        <translation>الفلتر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
@@ -1853,13 +1853,13 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="249"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="338"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تحليل الرد من وسيط &quot;مودرينث&quot; لأجل &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="405"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="472"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تحليل الرد من وسيط &quot;كورسفورج&quot; لأجل &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -1867,12 +1867,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
         <source>Determining game ownership.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد ملكية اللعبة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
         <source>Got entitlements</source>
-        <translation type="unfinished"></translation>
+        <translation>حصلت على استحقاقات</translation>
     </message>
 </context>
 <context>
@@ -1880,12 +1880,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">شكل</translation>
+        <translation>صيغة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
         <source>&amp;Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;متغيرات بيئية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
@@ -1905,19 +1905,19 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="82"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">إ&amp;زالة</translation>
+        <translation>&amp;إزالة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;تصفية</translation>
     </message>
 </context>
 <context>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>متغيرات بيئية</translation>
     </message>
 </context>
 <context>
@@ -1959,7 +1959,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="148"/>
         <source>Unable to export instance</source>
-        <translation>لا يمكن تصدير النموذج</translation>
+        <translation>غير قادر على تصدير النموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="160"/>
@@ -1995,33 +1995,33 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="20"/>
         <source>&amp;Description</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;الوصف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
         <source>&amp;Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; الملخص</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation type="unfinished">الاسم</translation>
+        <translation>&amp;الاسم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>&amp;Version</source>
-        <translation type="unfinished"></translation>
+        <translation>%الإصدار</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="89"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;الخيارات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="95"/>
         <source>&amp;Files</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;الملفات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="121"/>
