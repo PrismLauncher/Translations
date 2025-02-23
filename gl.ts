@@ -11391,7 +11391,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Intentar buscar actualizacións ou actualizar todos os paquetes de recursos seleccionados (todos os paquetes de recursos se ningún está seleccionado)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
