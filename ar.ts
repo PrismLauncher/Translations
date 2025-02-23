@@ -2716,7 +2716,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="257"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تحليل الرد من وسيط &quot;كورسفورج&quot; لأجل &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -2925,7 +2925,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">حزمة &quot;كورسفو‬رج&quot;</translation>
     </message>
 </context>
 <context>
@@ -2982,7 +2982,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="297"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تحليل الرد من وسيط &quot;كورسفورج&quot; لأجل &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="254"/>
@@ -3396,7 +3396,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">حزمة &quot;مودرينث&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
@@ -5626,12 +5626,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">أُلغيت المهمة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">المهمة قد أُلغيت عن طريق المستخدم.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
@@ -6022,7 +6022,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">أُلغيت المهمة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
@@ -6842,12 +6842,12 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="842"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">أُلغيت المهمة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="842"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">المهمة قد أُلغيت عن طريق المستخدم.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="846"/>
@@ -7183,12 +7183,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">أُلغيت المهمة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">المهمة قد أُلغيت عن طريق المستخدم.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="208"/>
@@ -7788,7 +7788,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="621"/>
         <source>Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">متغيرات بيئية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="65"/>
@@ -8342,7 +8342,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">زيارة صفحة المود</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
@@ -8709,7 +8709,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">حزمة &quot;مودرينث&quot;</translation>
     </message>
 </context>
 <context>
@@ -11777,7 +11777,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="445"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">المهمة قد أُلغيت عن طريق المستخدم.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>

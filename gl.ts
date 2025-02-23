@@ -6894,7 +6894,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="838"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Advertencias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="842"/>
@@ -7231,7 +7231,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="200"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Advertencias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
@@ -8276,14 +8276,14 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="240"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="312"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Descarga parada polo usuario.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="163"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="246"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="318"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Advertencias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="173"/>
@@ -8301,7 +8301,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Confirmar Actualización</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="197"/>
@@ -8342,7 +8342,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="221"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">«%1» está actualizado! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="70"/>
@@ -8353,7 +8353,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="99"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cambiar a versión dunha modificación.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="103"/>
@@ -8385,7 +8385,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verificar Dependencias</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
@@ -8405,7 +8405,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cambiar Versión</translation>
     </message>
     <message>
         <source>Change mod version</source>
@@ -8413,7 +8413,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visitar a páxina da modificación</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
@@ -8497,7 +8497,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Advertencias</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -8554,11 +8554,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Provedor: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Versión antiga: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
@@ -8566,15 +8566,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nova versión: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Novo Tipo de Versión: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Requirido por: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
@@ -10915,7 +10915,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="160"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Advertencias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="166"/>
@@ -11562,7 +11562,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="120"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="211"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Advertencias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="126"/>
@@ -11715,12 +11715,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Provedor: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="73"/>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Requirido por: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="75"/>
@@ -12114,7 +12114,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Descargar Paquetes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
@@ -12153,14 +12153,14 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="244"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Descarga parada polo usuario.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="98"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="177"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="250"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Advertencias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="108"/>
@@ -12178,7 +12178,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="127"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Confirmar Actualización</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="128"/>
@@ -12195,7 +12195,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="152"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">«%1» está actualizado! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="155"/>
@@ -12895,7 +12895,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Descargar Paquetes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
@@ -12939,14 +12939,14 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="180"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="253"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Descarga parada polo usuario.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="107"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="186"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="259"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Advertencias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="117"/>
@@ -12964,7 +12964,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="136"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Confirmar Actualización</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="137"/>
@@ -12981,7 +12981,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="161"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">«%1» está actualizado! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="164"/>
@@ -13471,7 +13471,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="115"/>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cambiar Versión</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="118"/>
