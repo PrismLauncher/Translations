@@ -1699,7 +1699,7 @@ Algunhas versións de Minecraft pode que non se executen.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Os comandos de pre-lanzamento execútanse antes da instancia, e os commandos de post-saída despois de que se cerrase.&lt;/p&gt;&lt;p&gt;Ambos serán executados na carpeta de traballo do lanzador con variables ambientales añadidas:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nome da instancia&lt;/li&gt;&lt;li&gt;$INST_ID - ID da instancia (o nome da carpeta)&lt;/li&gt;&lt;li&gt;$INST_DIR - Ruta absoluta da instancia&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Ruta absoluta de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Binario de java usado para o lanzamento&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Parámetros de línea de comando empregados para o lanzamento (advertencia: non funcionará correctamente se os argumentos conteñen espacios.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Un comando de envoltura (Wrapper Command) deixa lanzar empregando un programa de envoltura extra (como &apos;optirun&apos; en Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Os comandos de pre-lanzamento execútanse antes da instancia, e os commandos de post-saída despois de que se cerrase.&lt;/p&gt;&lt;p&gt;Ambos serán executados na carpeta de traballo do lanzador con variables ambientales engafidas:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nome da instancia&lt;/li&gt;&lt;li&gt;$INST_ID - ID da instancia (o nome da carpeta)&lt;/li&gt;&lt;li&gt;$INST_DIR - Ruta absoluta da instancia&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Ruta absoluta de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Binario de java empregado para o lanzamento&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Parámetros de línea de comando empregados para o lanzamento (advertencia: non funcionará correctamente se os argumentos conteñen espacios.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Un comando de envoltura (Wrapper Command) deixa lanzar empregando un programa de envoltura extra (como &apos;optirun&apos; en Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2298,15 +2298,15 @@ Algunhas versións de Minecraft pode que non se executen.
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Descargar un novo recurso</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visitar a páxina da modificación</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir á páxina principal de modificacións</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
@@ -2314,37 +2314,37 @@ Algunhas versións de Minecraft pode que non se executen.
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar lista de modificacións</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar metadatos das modificacións a texto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">Elimina&amp;r</translation>
+        <translation type="unfinished">&amp;Eliminar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished">&amp;Activar</translation>
+        <translation>&amp;Activar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished">&amp;Desactivar</translation>
+        <translation>&amp;Desactivar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Activar todos os elementos seleccionados.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
         <source>&amp;Add File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Engadir Ficheiro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -2354,37 +2354,37 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>Remove all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar todos os elementos seleccionados.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>Disable all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar todos os elementos seleccionados.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished">Ver &amp;configuración</translation>
+        <translation type="unfinished">Ver &amp;Configuracións</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished">Abrir o cartafol «config» no explorador de ficheiros do sistema.</translation>
+        <translation>Abrir o cartafol «config» no explorador de ficheiros do sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="149"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished">Ver carta&amp;fol</translation>
+        <translation>Ver &amp;Cartafol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
         <source>Open the folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir o cartafol no explorador de ficheiros do sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"/>
         <source>&amp;Download</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Descargar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -2404,12 +2404,12 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
         <source>Verify Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verificar Dependencias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="198"/>
         <source>Export List</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar Lista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
@@ -2419,17 +2419,17 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="209"/>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar Versión</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
         <source>Change a resource&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar a versión dun recurso.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>View Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ver a Páxina Principal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
@@ -2439,18 +2439,18 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar &amp;Actualizacións</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="132"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menú contextual</translation>
+        <translation>Menú contextual</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="216"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished">Seleccionar %1</translation>
+        <translation>Seleccionar %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="246"/>
@@ -2458,7 +2458,7 @@ Algunhas versións de Minecraft pode que non se executen.
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Estás a piques de eliminar %1 elementos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="251"/>
@@ -2514,7 +2514,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="124"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="169"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="59"/>
@@ -2526,13 +2526,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>External Editors (leave empty for system default)</source>
-        <translation>Editores externos (deixar baleiro para usar o predeterminado polo sistema)</translation>
+        <translation>Editores externos (deixar baleiro para empregar o predeterminado polo sistema)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished">Editor de texto:</translation>
+        <translation>&amp;Editor de texto:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
@@ -2623,7 +2623,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="208"/>
         <source>Invalid</source>
-        <translation>Incorrecto</translation>
+        <translation>Inválido</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="208"/>
@@ -11396,7 +11396,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar a versión dunha modificación.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="91"/>
@@ -11405,7 +11405,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="224"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="243"/>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="95"/>
@@ -11420,14 +11420,14 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="247"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarga parada polo usuario.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="101"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="180"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="253"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertencias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="111"/>
@@ -11440,12 +11440,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="125"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="224"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>As actuacións de paquetes de recursos non están dispoñibles cando os metadatos están desactivados!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="130"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar Actualización</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="131"/>
@@ -11462,12 +11462,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="155"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>«%1» está actualizado! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="158"/>
         <source>All resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os paquetes de recursos están actualizados! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="160"/>
@@ -11641,27 +11641,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="442"/>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Provedor: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="445"/>
         <source>Old version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versión antiga: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="448"/>
         <source>New version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nova versión: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="452"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo Tipo de Versión: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="458"/>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Requirido por: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="460"/>
