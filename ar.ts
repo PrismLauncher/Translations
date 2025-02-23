@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>خدمة &amp;Pastebin</translation>
+        <translation>&amp;خدمة Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
@@ -2026,7 +2026,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="121"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;وسم الملفات الغير مفعلة كإختيارية</translation>
     </message>
     <message>
         <source>Version</source>
@@ -2035,22 +2035,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
         <source>1.0.0</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="49"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير حزمة &quot;مودرينث&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="56"/>
         <source>Export CurseForge Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير حزمة &quot;كورسفورج&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="73"/>
         <source>&amp;Author</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;المؤلف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="107"/>
@@ -2071,12 +2071,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="135"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished"></translation>
+        <translation>حزمة &quot;مودرينث&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="142"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>حزمة &quot;كورسفو‬رج&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="159"/>
@@ -2086,12 +2086,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="161"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>أُلغيت المهمة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="161"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>المهمة قد أُلغيت عن طريق المستخدم.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="167"/>
@@ -2104,7 +2104,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير الحزمة الى قائمة المود</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
@@ -2114,27 +2114,27 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>وسم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>النص الصافي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
         <source>JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
         <source>CSV</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
@@ -2144,12 +2144,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>قالب</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="96"/>
         <source>Optional Info</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات اختيارية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="102"/>
@@ -2161,34 +2161,34 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="109"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>المؤلفين</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="116"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="144"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="123"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="151"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم الملف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="170"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>الصيغة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="180"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>النتيجة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="209"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا يعتمد على المعلومات الوصفية للمودات. للتأكد من أنها متاحة, قم بإجراء تحديث على العينة. تثبيت التحديثات غير ضروري.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="223"/>
@@ -2203,7 +2203,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>احفظ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="165"/>
@@ -2221,7 +2221,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="35"/>
         <source>Filter:</source>
-        <translation type="unfinished">المرشِّح:</translation>
+        <translation>الفلتر:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="74"/>
@@ -2234,31 +2234,31 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة العنصر المختار</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>تفعيل العنصر المحدد</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء تفعيل العنصر المحدد</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="unfinished"></translation>
+        <translation>تنزيل مصدر جديد</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
+        <translation>زيارة صفحة المود</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="unfinished"></translation>
+        <translation>الذهاب الى الصفحة الرئيسية للمودات</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
