@@ -13,7 +13,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Liitä Palvelu &amp; Tyyppi</translation>
+        <translation>Paste-palvelun &amp;tyyppi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
@@ -34,12 +34,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;Microsoftin todennus</translation>
+        <translation>&amp;Microsoft-autentikointi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Huom: sinun ei välttämättä tarvitse asettaa tätä, jos sisäänkirjautuminen Microsoftin todennuksella toimii.</translation>
+        <translation>Huom: sinun ei välttämättä tarvitse asettaa tätä, jos sisäänkirjautuminen Microsoft-autentikaatiolla toimii.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -51,7 +51,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Kirjoita mukautettu client ID Microsoft autentikointia varten tähän.</translation>
+        <translation>Kirjoita mukautettu client ID Microsoft-autentikointia varten tähän.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
@@ -61,12 +61,12 @@
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Huomaa: Sinun tarvitsee asettaa ainoastaan tämä päästäksesi käsiksi yksityisiin tietoihin. Lisätietoja &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentaatiossa&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Huom: Sinun tarvitsee asettaa tämä ainoastaan päästäksesi käsiksi yksityisiin tietoihin. Lisätietoja &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;dokumentaatiossa&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Syötä muokautettu API-tunnus Modrinth:iä varten tähän.</translation>
+        <translation>Syötä mukautettu API-tunnus Modrinth:iä varten tähän.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
@@ -82,7 +82,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Huomaa: Sinun tarvitsee asettaa ainoastaan tämä päästäksesi käsiksi yksityisiin tietoihin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Huom: Sinun tarvitsee asettaa tämä ainoastaan päästäksesi käsiksi yksityisiin tietoihin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
@@ -102,12 +102,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="359"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Syötä mukautettu käyttäjäagentti tähän. Erityinen merkkijono $LAUNCHER_VER korvataan sovelluksen versiolla.</translation>
+        <translation>Syötä mukautettu käyttäjäagentti tähän. Erikoismerkkijono $LAUNCHER_VER korvataan sovelluksen versiolla.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>Meta&amp;data Palvelin</translation>
+        <translation>Meta&amp;tietopalvelin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
@@ -127,12 +127,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Huomio: Tarvitset vain määrittää tämän jotta voit käyttää yksityisiä tietoja. Lue &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentaatio&lt;/a&gt; saadaksesi lisätietoja.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Huom: Sinun tarvitsee asettaa tämä ainoastaan päästäksesi käsiksi yksityisiin tietoihin. Lisätietoja &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentaatiossa&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge:n Ydin-API</translation>
+        <translation>&amp;CurseForge:n ydin-API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
@@ -143,7 +143,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Syötä mukautettu API-avain CurseForge:a varten tänne.</translation>
+        <translation>Syötä mukautettu API-avain CurseForge:a varten tähän.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
@@ -163,12 +163,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="342"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Paikallista metadatan indeksiä ei voitu ladata kohteelle %1</translation>
+        <translation>Paikallista metatiedon indeksiä ei voitu ladata kohteelle %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="152"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Paikallista metadatan indeksiä ei voitu ladata kohteelle &apos;%1&apos; v%2</translation>
+        <translation>Paikallista metatiedon indeksiä ei voitu ladata kohteelle &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="142"/>
@@ -218,7 +218,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="677"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>Epäonnistuttu avaamaan konfurigaatio paketti %1!</translation>
+        <translation>Paketin konfiguraatioiden %1 avaus epäonnistui!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="707"/>
@@ -253,7 +253,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="825"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Seuraavat tiedostot eivät ole ladattavissa kolmannen osapuolen käynnistimissä.&lt;br/&gt; Sinun täytyy asentaa tiedostot manuaalisesti ja lisätä ne instanssiin.</translation>
+        <translation>Seuraavat tiedostot eivät ole ladattavissa kolmannen osapuolen käynnistimissä.&lt;br/&gt;Sinun täytyy ladata tiedostot manuaalisesti ja lisätä ne pelipakettiin.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="881"/>
@@ -278,7 +278,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1014"/>
         <source>Failed to create libraries component</source>
-        <translation>Kirjastokomponentien luonti epäonnistui</translation>
+        <translation>Kirjastokomponenttien luonti epäonnistui</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1041"/>
@@ -514,7 +514,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Status</source>
-        <translation>Tilanne</translation>
+        <translation>Tila</translation>
     </message>
     <message>
         <source>Can Migrate?</source>
@@ -560,19 +560,19 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="105"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation>Poista</translation>
+        <translation>Pois&amp;ta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>Aseta oletukseksi</translation>
+        <translation>&amp;Aseta oletukseksi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>Ei oletusta</translation>
+        <translation>&amp;Ei oletusta</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
@@ -602,7 +602,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>Lisää Microsoft</translation>
+        <translation>&amp;Lisää Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
@@ -614,7 +614,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>Päivitä</translation>
+        <translation>&amp;Päivitä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
@@ -649,7 +649,7 @@ Jos olet uusi täällä, voit painaa &quot;Lisää Microsoft&quot; -nappia lisä
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="106"/>
         <source>Context menu</source>
-        <translation>Pikavalikko</translation>
+        <translation>Kontekstivalikko</translation>
     </message>
     <message>
         <source>Legacy</source>
@@ -802,7 +802,7 @@ Poistaaksesi tämän lukituksen ja jatkaaksesi, valitse alempaa &quot;Sivuuta&qu
     <message>
         <location filename="src/launcher/Application.cpp" line="960"/>
         <source>Update In Progress</source>
-        <translation>Päivitys Meneillään</translation>
+        <translation>Päivitys meneillään</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="984"/>
@@ -817,7 +817,7 @@ for details on the last update attempt.</source>
 Varmista, että olemassaoleva asennuskertasi on kunnossa, ennen kuin jatkat.
 Tutki Prism Launcher -päivityslokia sijainnissa: 
 %1
-saadaksesi tarkempia tietoja viimeisimmästä päivtysyrityksestä.</translation>
+saadaksesi tarkempia tietoja viimeisimmästä päivitysyrityksestä.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="992"/>
@@ -1015,7 +1015,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Varoitus: Tämä on viellä Keskeneräinen. Jos kohtaat ongelmia tuodun modipaketin kanssa, se voi olla virhe.</translation>
+        <translation>Varoitus: Tämä on vielä työn alla. Jos kohtaat ongelmia tuodun modipaketin kanssa, se voi olla bugi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
@@ -1054,7 +1054,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>Minecraft %1 versioita ei ole tällä hetkellä saatavilla</translation>
+        <translation>Yhtään versiota Minecraft-versiolle %1 ei ole tällä hetkellä saatavilla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
@@ -1140,22 +1140,22 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation>Javan automaattinen mekanismi tunnistaa 32-bittisin Java-asennuksen.</translation>
+        <translation>Javan automaattinen mekanismi tunnisti 32-bittisen Java-asennuksen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation>Ei yhteensopivaa Java-versiota löydetty. Käytetään normaalia.</translation>
+        <translation>Ei yhteensopivaa Java-versiota löydetty. Käytetään oletusta.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestelmäsi (%1-%2) ei ole yhteensopiva automaattisen Java-asennuksen kanssa. Käytetään oletus Java-polkua.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinun metatiedot ovat vanhentuneet tai niissä ei ole tarpeeksi tietoa, millä päätellä mitä Java-asennusta pitäisi käyttää. Käytetään oletus Java-polkua.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
@@ -1170,22 +1170,22 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei voitu päätellä Javan lataustyyppiä!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Asenna Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Java-versioita ei löytynyt käyttöjärjestelmällesi: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yhteensopivaa Java-versiota ei löytynyt. Käytetään oletusta.</translation>
     </message>
 </context>
 <context>
@@ -1193,12 +1193,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Muoto</translation>
+        <translation>Lomake</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Uusi ominaisuus!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
