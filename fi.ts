@@ -157,7 +157,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="120"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Ei pystytty käsittelemään paketin luetteloa:
+        <translation>Ei pystytty käsittelemään paketin manifest-tiedostoa:
 </translation>
     </message>
     <message>
@@ -1054,7 +1054,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>Yhtään versiota Minecraft-versiolle %1 ei ole tällä hetkellä saatavilla</translation>
+        <translation>Yhtäkään versiota Minecraft-versiolle %1 ei ole tällä hetkellä saatavilla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
@@ -1659,7 +1659,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käynnistystä edeltävä komento ajetaan ennen peliversion käynnistämistä ja sulkemista seuraava komento ajetaan peliversion sulkeuduttua.&lt;/p&gt;&lt;p&gt;Molemmat ajetaan PolyMC: n toimintokansiossa erityisillä ympäristömuuttujilla:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Peliversion nimi&lt;/li&gt;&lt;li&gt;$INST_ID - Peliversion tunniste (kansion nimi)&lt;/li&gt;&lt;li&gt;$INST_DIR - Peliversion kokonainen hakemistopolku&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftin kokonainen hakemistopolku&lt;/li&gt;&lt;li&gt;$INST_JAVA - Käynnistyksessä käytettävä Java-asennus&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Käynnistyksessä käytettävät komentoriviargumentit&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Paketoijakomento mahdollistaa käynnistämisen käyttäen erityistä paketoijaohjelmaa (kuten &apos;optirun&apos; Linuxilla)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käynnistystä edeltävä komento ajetaan ennen peliversion käynnistämistä ja sulkemista seuraava komento ajetaan peliversion sulkeuduttua.&lt;/p&gt;&lt;p&gt;Molemmat ajetaan Prism Launcher:in toimintokansiossa erityisillä ympäristömuuttujilla:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Peliversion nimi&lt;/li&gt;&lt;li&gt;$INST_ID - Peliversion tunniste (kansion nimi)&lt;/li&gt;&lt;li&gt;$INST_DIR - Peliversion kokonainen hakemistopolku&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftin kokonainen hakemistopolku&lt;/li&gt;&lt;li&gt;$INST_JAVA - Käynnistyksessä käytettävä Java-asennus&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Käynnistyksessä käytettävät komentoriviargumentit&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Paketoijakomento mahdollistaa käynnistämisen käyttäen erityistä paketoijaohjelmaa (kuten &apos;optirun&apos; Linuxilla)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1674,7 +1674,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="58"/>
         <source>Filter</source>
-        <translation type="unfinished">Suodata</translation>
+        <translation>Suodata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
@@ -1754,17 +1754,17 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="117"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft-versiota ei ole valittu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="123"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modilataajaa ei ole valittu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1 versioita ei ole tällä hetkellä saatavilla</translation>
+        <translation>Yhtäkään versiota Minecraft-versiolle %1 ei ole tällä hetkellä saatavilla</translation>
     </message>
 </context>
 <context>
@@ -1829,11 +1829,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Peruuta</translation>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1845,7 +1845,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="91"/>
         <source>Checking if resources have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarkistetaan, onko resursseilla metatietoja...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="168"/>
@@ -1861,13 +1861,13 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="249"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="338"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Jäsennetään Modrinth:in API-vastausta &apos;%1&apos;:lle...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="405"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="472"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Jäsennetään CurseForge:n API-vastausta &apos;%1&apos;:lle...</translation>
     </message>
 </context>
 <context>
@@ -1880,7 +1880,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
         <source>Got entitlements</source>
-        <translation type="unfinished"></translation>
+        <translation>Saatiin oikeutuksia</translation>
     </message>
 </context>
 <context>
@@ -1888,7 +1888,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation>Muoto</translation>
+        <translation>Lomake</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
@@ -1951,12 +1951,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="90"/>
         <source>Cancel</source>
-        <translation type="unfinished">Peruuta</translation>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="148"/>
@@ -2034,7 +2034,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="121"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Merkkaa pois-käytöstä otetut tiedostot valinnaisiksi</translation>
     </message>
     <message>
         <source>Version</source>
@@ -2063,28 +2063,28 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="107"/>
         <source>Cancel</source>
-        <translation type="unfinished">Peruuta</translation>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="108"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="134"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="141"/>
         <source>Export %1</source>
-        <translation type="unfinished">Vie %1</translation>
+        <translation>Vie %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="135"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modrinth-paketti</translation>
+        <translation>Modrinth-paketti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="142"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge-paketti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="159"/>
@@ -2246,11 +2246,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista valittu kohde käytöstä</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirry modin kotisivulle</translation>
     </message>
     <message>
         <source>Export modlist</source>
@@ -2258,7 +2258,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="unfinished"></translation>
+        <translation>Vie modin metatiedot tekstiin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
@@ -2272,7 +2272,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished">&amp;Käytä</translation>
+        <translation>&amp;Ota käyttöön</translation>
     </message>
     <message>
         <source>Enable selected item</source>
@@ -2287,37 +2287,37 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation type="unfinished">Poista valittu kohde käytöstä</translation>
+        <translation>Ota käyttöön kaikki valitut kohteet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
         <source>&amp;Add File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lisää tiedosto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>Add a locally downloaded file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää paikallisesti ladattu tiedosto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>Remove all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista kaikki valitut kohteet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>Disable all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista kaikki valitut kohteet käytöstä.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished">Näytä &amp;asetukset</translation>
+        <translation>Näytä &amp;konfiguraatiot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished">Avaa &apos;config&apos;-asetuskansio järjestelmän tiedostoselaimessa.</translation>
+        <translation>Avaa &apos;config&apos;-kansio järjestelmän tiedostoselaimessa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="149"/>
@@ -2327,7 +2327,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
         <source>Open the folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa kansio järjestelmän tiedostoselaimessa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"/>
@@ -2337,52 +2337,52 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Download resources from online mod platforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lataa resursseja verkossa olevilta modialustoilta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="174"/>
         <source>Try to check or update all selected resources (all resources if none are selected).</source>
-        <translation type="unfinished"></translation>
+        <translation>Yritä tarkistaa tai päivittää kaikki valitut resurssit (kaikki resurssit jos mitään ei ole valittu).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Reset Update Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Palauta päivityksen metatiedot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
         <source>Verify Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Vahvista riippuvuudet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="198"/>
         <source>Export List</source>
-        <translation type="unfinished"></translation>
+        <translation>Vie lista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
         <source>Export resource&apos;s metadata to text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vie resurssin metatiedot tekstiin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="209"/>
         <source>Change Version</source>
-        <translation type="unfinished">Vaihda versioita</translation>
+        <translation>Vaihda versiota</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
         <source>Change a resource&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaihda resurssin versiota.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>View Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä kotisivu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
         <source>View the homepages of all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä kaikkien valittujen kohteiden kotisivut.</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -2391,7 +2391,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
         <source>Check for &amp;Updates</source>
-        <translation>Tarkista &amp;Päivitykset</translation>
+        <translation>Tarkista &amp;päivitykset</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
@@ -2400,18 +2400,18 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished">Käy modin sivulla</translation>
+        <translation>Käy modin sivulla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="132"/>
         <source>Context menu</source>
-        <translation>Pikavalikko</translation>
+        <translation>Kontekstivalikko</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="216"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished">Valitse %1</translation>
+        <translation>Valitse %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="246"/>
@@ -2419,7 +2419,10 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Olet poistamassa %1 kohdetta.
+Tämä voi olla lopullinen ja ne poistuvat kansiosta.
+
+Oletko varma?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="251"/>
@@ -2427,7 +2430,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Olet poistamassa kansiota &quot;%1&quot;.
+Tämä voi olla lopullinen ja se poistuu yläkansiosta.
+
+Oletko varma?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
@@ -2443,18 +2449,20 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="273"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jos poistat tämän resurssin pelin ollessa käynnissä, se voi kaataa pelin.
+Oletko varma että haluat tehdä näin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="293"/>
         <source>Confirm disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Vahvista poistaminen käytöstä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="294"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jos poistat tämän resurssin käytöstä pelin ollessa käynnissä, se voi kaataa pelin.
+Oletko varma että haluat tehdä näin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="359"/>
@@ -2651,12 +2659,12 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="145"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Järjestä nimen mukaan</translation>
+        <translation>Järjestä nimen mukaan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="146"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Järjestä peliversion mukaan</translation>
+        <translation>Järjestä peliversion mukaan</translation>
     </message>
 </context>
 <context>
@@ -2664,12 +2672,12 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="44"/>
         <source>FTB App Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuo FTB App:ista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hae ja suodata...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -2679,12 +2687,12 @@ Yritä uudelleen.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse FTBApp instanssien hakemisto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huom: Jos sinun FTB instanssit eivät ole oletussijainnissa, valitse se käyttämällä hakupalkin vieressä olevaa painiketta.</translation>
     </message>
 </context>
 <context>
@@ -2693,7 +2701,7 @@ Yritä uudelleen.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="114"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="130"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2725,7 +2733,7 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="257"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Jäsennetään CurseForge:n API-vastausta &apos;%1&apos;:lle...</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -2738,7 +2746,7 @@ Yritä uudelleen.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation type="unfinished">Valmistellaan modeja CurseForge:a varten...</translation>
+        <translation>Valmistellaan modeja CurseForge:a varten...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -2748,50 +2756,50 @@ Yritä uudelleen.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Odotetaan CurseForge:n API-vastausta &apos;%1&apos;:lle...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Jäsennetään CurseForge:n API-vastausta &apos;%1&apos;:lle...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tätä resurssia varten ei löytynyt kelpaavaa versiota. Se ei luultavasti ole saatavilla nykyiselle peliversiolle / modilataajalle.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="149"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tätä resurssia varten ei löytynyt kelpaavaa versiota. Se ei luultavasti ole saatavilla nykyiselle peliversiolle.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="158"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurssilla on uusi päivitys saatavilla, mutta se ei ole ladattavissa CurseForge:sta.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="174"/>
         <source>Not installed</source>
-        <translation type="unfinished">Ei asennettu</translation>
+        <translation>Ei asennettu</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="176"/>
         <source>Unknown</source>
-        <translation type="unfinished">Tuntematon</translation>
+        <translation>Tuntematon</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Valmistellaan modeja CurseForge:lle...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Tälle modille ei löytynyt kelvollista versiota. Se ei luultavasti ole käytettävissä nykyisessä peliversiossa / modinlataajassa.</translation>
+        <translation>Tälle modille ei löytynyt kelvollista versiota. Se ei luultavasti ole saatavilla nykyiselle peliversiolle / modilataajalle.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>Modiin on saatavilla uusi päivitys, mutta se ei ole ladattavissa CurseForgesta.</translation>
+        <translation>Modiin on saatavilla uusi päivitys, mutta se ei ole ladattavissa CurseForge:sta.</translation>
     </message>
 </context>
 <context>
@@ -2801,7 +2809,7 @@ Yritä uudelleen.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="330"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Ei pystytty käsittelemään paketin luetteloa:
+        <translation>Ei pystytty käsittelemään paketin manifest-tiedostoa:
 </translation>
     </message>
     <message>
@@ -2826,17 +2834,17 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Paikallista metadatan indeksiä ei voitu ladata kohteelle %1</translation>
+        <translation>Paikallista metatiedon indeksiä ei voitu ladata kohteelle %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="301"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Versiota %1 lataajalle ei löytynyt</translation>
+        <translation>Versiota ei löytynyt %1 modilataajalle</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="306"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Lataajan versiota ei ole asetettu modipaketille!</translation>
+        <translation>Modilataajan versiota ei ole asetettu modipaketille!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="342"/>
@@ -2848,17 +2856,17 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="347"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">Määritelty ohituskansio (%1) puuttuu. Ehkä modipakettia käytettiin jo aiemmin?</translation>
+        <translation>Määritelty ohituskansio (%1) puuttuu. Ehkä modipakettia käytettiin jo aiemmin?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="376"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished">Tuntematon modilataaja luettelossa: %1</translation>
+        <translation>Tuntematon modilataaja manifest-tiedostossa: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="390"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished">Salaperäiset pistejäljet poistettu Minecraft-versiosta pakettia tuodessa.</translation>
+        <translation>Salaperäiset pistejäljet poistettu Minecraft-versiosta pakettia tuodessa.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -2868,19 +2876,19 @@ Yritä uudelleen.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="444"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">Ei voitu selvittää moditunnisteita:
+        <translation>Ei voitu selvittää moditunnisteita:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="498"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Estettyjä modeja löydetty</translation>
+        <translation>Estettyjä modeja löydetty</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="499"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Seuraavat tiedostot eivät ole ladattavissa kolmannen osapuolen käynnistimissä.&lt;br/&gt; Sinun täytyy asentaa tiedostot manuaalisesti ja lisätä ne instanssiin.</translation>
+        <translation>Seuraavat tiedostot eivät ole ladattavissa kolmannen osapuolen käynnistimissä.&lt;br/&gt; Sinun täytyy ladata tiedostot manuaalisesti ja lisätä ne pelipakettiin.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="521"/>
@@ -3209,22 +3217,22 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="91"/>
         <source>Survival</source>
-        <translation>Selviytyminen</translation>
+        <translation>Selviytymistila</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="93"/>
         <source>Creative</source>
-        <translation>Luova</translation>
+        <translation>Luovuustila</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="95"/>
         <source>Adventure</source>
-        <translation>Seikkailu</translation>
+        <translation>Seikkailutila</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="97"/>
         <source>Spectator</source>
-        <translation>Katsoja</translation>
+        <translation>Katsojatila</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="102"/>
@@ -3242,7 +3250,7 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"/>
         <source>Started process: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistettiin prosessi: %1</translation>
     </message>
 </context>
 <context>
@@ -3250,13 +3258,13 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="58"/>
         <source>Get dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Hanki riippuvuudet</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="196"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Tapahtui verkkovirhe. Ei voitu ladata projektin riippuvuuksia:%1</translation>
     </message>
 </context>
 <context>
@@ -3321,7 +3329,7 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Etsi...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
@@ -3336,12 +3344,12 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
         <source>Cancel</source>
-        <translation type="unfinished">Peruuta</translation>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="88"/>
@@ -3370,29 +3378,29 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>Seuraavat tiedostotyypit ovat implementoitu (paikallisille tiedostoille ja URL-osoitteille):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- CurseForge-modipaketit (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modrinth-modipaketit (ZIP ja mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- Prism Launcherista, PolyMC:stä tai MultiMC:stä viedyt pelipaketit (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Technic-modipaketit (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -3403,7 +3411,7 @@ Yritä uudelleen.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="56"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Tuonti</translation>
+        <translation>Tuo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="140"/>
@@ -3415,12 +3423,12 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modipaketti %1 on estetty kolmansille osapuolille! Lataa se manuaalisesti.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä url ei ole kelvollinen modipaketti!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
@@ -3430,7 +3438,7 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"/>
         <source>Supported files</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuetut tiedostot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
@@ -3453,17 +3461,17 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse pelipaketti johon tuodaan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse pelipaketti mihin haluat tuoda tämän resurssipaketin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse pelipaketti mihin haluat tuoda &quot;%1&quot;:n.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
@@ -3473,12 +3481,12 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>Cancel</source>
-        <translation type="unfinished">Peruuta</translation>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -3498,7 +3506,7 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="140"/>
         <source>Report issues to: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ilmoita virheistä osoitteessa: </translation>
     </message>
 </context>
 <context>
@@ -3507,20 +3515,20 @@ Yritä uudelleen.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Java-versioita ei saatavilla metassa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ei voitu ladata Java-versiolistoja!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Yhtäkään Java-versiota ei ole tällä hetkellä saatavilla käyttöjärjestelmällesi.</translation>
     </message>
 </context>
 <context>
@@ -3533,12 +3541,12 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="107"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
         <source>Cancel</source>
-        <translation type="unfinished">Peruuta</translation>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
@@ -3576,7 +3584,7 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="44"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1 versioita ei ole tällä hetkellä saatavilla</translation>
+        <translation>Yhtäkään versiota Minecraft-versiolle %1 ei ole tällä hetkellä saatavilla</translation>
     </message>
 </context>
 <context>
@@ -3597,7 +3605,7 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="41"/>
         <source>Copying instance %1</source>
-        <translation>Kopioidaan peliversiota %1</translation>
+        <translation>Kopioidaan pelipakettia %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="146"/>
@@ -3607,7 +3615,7 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="188"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>Peliversiokansion kopiointi keskeytetty.</translation>
+        <translation>Pelipakettikansion kopiointi keskeytetty.</translation>
     </message>
 </context>
 <context>
@@ -3620,22 +3628,23 @@ Yritä uudelleen.</translation>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="29"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe luodessa uutta pelipakettia:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="31"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe luodessa uutta pelipakettia.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="44"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Poistetaan vanhoja ristiriitaisia tiedostoja...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="60"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanhojen ristiriitaisten tiedostojen poisto epäonnistui.</translation>
     </message>
 </context>
 <context>
@@ -3655,7 +3664,7 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="150"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Yritetään määritellä pelipaketin tyyppi</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="187"/>
@@ -3794,7 +3803,7 @@ Yritä uudelleen.</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jos käytössä, käynnistin ei tarkista, että onko pelipaketti yhteensopiva valitun Java-version kanssa.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
@@ -3826,15 +3835,15 @@ Yritä uudelleen.</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Selaa</translation>
+        <translation>Selaa</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Lataa Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
@@ -3855,7 +3864,7 @@ Yritä uudelleen.</translation>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="unfinished">Käynnistä Minecraft suurennettuna?</translation>
+        <translation>Käynnistä Minecraft suurennettuna</translation>
     </message>
     <message>
         <source>Window height:</source>
@@ -3867,30 +3876,30 @@ Yritä uudelleen.</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation>Konsoliasetukset</translation>
+        <translation>&amp;Konsoliasetukset</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished">Näytä konsoli pelin aikana?</translation>
+        <translation>Näytä konsoli pelin aikana</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Sulje konsoli automaattisesti, kun peli suljetaan?</translation>
+        <translation>Sulje konsoli automaattisesti, kun peli suljetaan</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="unfinished">Näytä konsoli pelin kaatuessa?</translation>
+        <translation>Näytä konsoli pelin kaatuessa</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Sulje käynnistin, kun peli käynnistetään</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Lopeta käynnistin, kun peli suljetaan</translation>
     </message>
     <message>
         <source>Custom commands</source>
@@ -3898,7 +3907,7 @@ Yritä uudelleen.</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Ympäristömuuttujat</translation>
     </message>
     <message>
         <source>Workarounds</source>
@@ -3910,7 +3919,7 @@ Yritä uudelleen.</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;GLFW-kirjaston polku</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
@@ -3922,11 +3931,11 @@ Yritä uudelleen.</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation type="unfinished"></translation>
+        <translation>Yksinpelimaailma</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohita oletuskäyttäjä</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -3938,7 +3947,7 @@ Yritä uudelleen.</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OpenAL-kirjaston polku</translation>
     </message>
     <message>
         <source>Performance</source>
@@ -3946,27 +3955,27 @@ Yritä uudelleen.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä Feral Interactive:n GameMode:a, joka voi mahdollisesti parantaa pelin suorituskykyä.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä Feral GameMode:a</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä MangoHud:in edistynyttä suorituskyvyn peittokuvaa&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä MangoHud:in edistynyttä suorituskyvyn peittokuvaa&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Käynnistä MangoHud</translation>
+        <translation>Käytä MangoHud:ia</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä erillistä näytönohjainta ensisijaisen ohjaimen sijasta.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä erillistä näytönohjainta ensisijaisen näytönohjaimen sijasta.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Käytä erillistä näytönohjainta</translation>
+        <translation>Käytä erillistä näytönohjainta</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
@@ -7534,7 +7543,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;GLFW-kirjaston polku</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
@@ -7543,7 +7552,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OpenAL-kirjaston polku</translation>
     </message>
     <message>
         <source>Performance</source>
@@ -7551,11 +7560,11 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä Feral Interactive:n GameMode:a, joka voi mahdollisesti parantaa pelin suorituskykyä.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä Feral GameMode:a</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -7563,11 +7572,11 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Käynnistä MangoHud</translation>
+        <translation>Käytä MangoHud:ia</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä erillistä näytönohjainta ensisijaisen ohjaimen sijasta.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä erillistä näytönohjainta ensisijaisen näytönohjaimen sijasta.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
@@ -7851,7 +7860,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="382"/>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;GLFW-kirjaston polku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="392"/>
@@ -7861,7 +7870,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="406"/>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OpenAL-kirjaston polku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="429"/>
@@ -7871,32 +7880,32 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="441"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä Feral Interactive:n GameMode:a, joka voi mahdollisesti parantaa pelin suorituskykyä.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="444"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä Feral GameMode:a</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="451"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä MangoHud:in edistynyttä suorituskyvyn peittokuvaa&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä MangoHud:in edistynyttä suorituskyvyn peittokuvaa&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="454"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Käynnistä MangoHud</translation>
+        <translation>Käytä MangoHud:ia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="461"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä erillistä näytönohjainta ensisijaisen ohjaimen sijasta.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä erillistä näytönohjainta ensisijaisen näytönohjaimen sijasta.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="464"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Käytä erillistä näytönohjainta</translation>
+        <translation>Käytä erillistä näytönohjainta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="471"/>
@@ -7936,7 +7945,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="580"/>
         <source>Singleplayer world</source>
-        <translation type="unfinished"></translation>
+        <translation>Yksinpelimaailma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="611"/>
