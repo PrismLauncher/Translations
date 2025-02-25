@@ -12128,7 +12128,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="132"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation>開啟新的彈出式視窗，以檢閱您選擇的 %1 並確認您的選擇。快捷鍵：Ctrl+Enter</translation>
+        <translation>開啟新的彈出式視窗，以檢閱您選擇的%1並確認您的選擇。快捷鍵：Ctrl+Enter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="144"/>
