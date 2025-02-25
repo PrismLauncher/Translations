@@ -4498,13 +4498,14 @@ Vahvista että enimmäismuistivaraus on alempi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Varmista Poisto</translation>
+        <translation>Varmista Poisto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="113"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Olet poistamassa Java-asennusta &quot;%1&quot;.
+Oletko varma?</translation>
     </message>
 </context>
 <context>
@@ -4530,11 +4531,11 @@ Voit myöhemmin vaihtaa Java-version asetuksista.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="58"/>
         <source>Download Java</source>
-        <translation type="unfinished">Lataa Java</translation>
+        <translation>Lataa Java</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>32-bittinen Java havaittu</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -4543,7 +4544,12 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Valitsit 32-bittisen Java-asennuksen, mutta varasit enemmän kuin 2048MiB muistia.
+%1 ei pysty käynnistämään Minecraft:ia.
+Haluatko jatkaa?
+
+Voit muuttaa Java-version myöhemmin asetuksista.
+</translation>
     </message>
     <message>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
@@ -4552,7 +4558,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Joko et valinnut Java-versiota tai valitsit version joka ei toimi.
+%1 ei pysty käynnistämään Minecraft:ia.
+Haluatko jatkaa ilman toimivaa Javaa?
+
+Voit muuttaa Java-version myöhemmin asetuksista.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="228"/>
@@ -4576,47 +4587,47 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Muoto</translation>
+        <translation>Lomake</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
         <source>Java Insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Java-asennus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
         <source>Auto-&amp;detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Tunnista Java-versio automaattisesti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="65"/>
         <source>Auto-detect...</source>
-        <translation type="unfinished">Tunnista automaattisesti...</translation>
+        <translation>Tunnista automaattisesti...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="72"/>
         <source>Test</source>
-        <translation type="unfinished">Testi</translation>
+        <translation>Testi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="81"/>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaattisesti lataa ja valitsee Mojang:in suositteleman Java-ohjelman.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="84"/>
         <source>Auto-download &amp;Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Lataa &amp;Mojang Java automaattisesti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="91"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jos käytössä, käynnistin ei pyydä valitsemaan Java-versiota, jos sitä ei löydy käynnistyksen yhteydessä.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="94"/>
         <source>Skip Java setup prompt on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohita Javan asennuskehote käynnistyksessä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="101"/>
@@ -4626,12 +4637,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="104"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished">Ohita Java-yhteensopivuustarkistukset</translation>
+        <translation>Ohita Java-yhteensopivuustarkistukset</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="117"/>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">&amp;Muisti</translation>
+        <translation>&amp;Muisti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="129"/>
@@ -4746,7 +4757,7 @@ Valitse seuraavista tai etsi Java-ohjelma.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>32-bittinen Java havaittu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
@@ -4756,7 +4767,12 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Valitsit 32-bittisen Java-asennuksen, mutta varasit enemmän kuin 2048MiB muistia.
+%1 ei pysty käynnistämään Minecraft:ia.
+Haluatko jatkaa?
+
+Voit muuttaa Java-version myöhemmin asetuksista.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
@@ -4771,7 +4787,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Joko et valinnut Java-versiota tai valitsit version joka ei toimi.
+%1 ei pysty käynnistämään Minecraft:ia.
+Haluatko jatkaa ilman toimivaa Javaa?
+
+Voit muuttaa Java-version myöhemmin asetuksista.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="353"/>
