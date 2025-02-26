@@ -2133,7 +2133,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="161"/>
         <source>Task aborted</source>
-        <translation>Opgave Afbrudt</translation>
+        <translation>Opgave afbrudt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="161"/>
@@ -3723,7 +3723,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="101"/>
         <source>Modpack download</source>
-        <translation>Modpack-download</translation>
+        <translation>Modpack download</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="150"/>
@@ -3932,11 +3932,11 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>Window height:</source>
-        <translation>Vinduehøjde:</translation>
+        <translation>Vindue højde:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation>Vinduebredde:</translation>
+        <translation>Vindue bredde:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
@@ -3959,7 +3959,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation>Luk launcheren, efter spilvinduet åbnes</translation>
+        <translation>Luk launcheren, efter spil vinduet åbnes</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
@@ -6138,12 +6138,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation type="unfinished"></translation>
+        <translation>For at spille Minecraft, skal du have mindst en Microsoft konto logget ind. Vil du logge ind nu?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj Microsoft konto</translation>
     </message>
 </context>
 <context>
@@ -6151,27 +6151,27 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="470"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappe eksisterer ikke</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="473"/>
         <source>Could not create file</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen kunne ikke oprettes</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="481"/>
         <source>Could not create:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke oprette:</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="502"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke læse og komprimere %1</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="508"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Der opstod en zip fejl</translation>
     </message>
 </context>
 <context>
@@ -6179,12 +6179,12 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="540"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">Kan ikke åbne den leveret zip fil.</translation>
+        <translation>Kan ikke åbne den leveret zip fil.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="558"/>
         <source>Failed to enumerate files in archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke opregne filer i arkivet</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="561"/>
@@ -6238,7 +6238,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Opgave Afbrudt</translation>
+        <translation>Opgave afbrudt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
@@ -6256,19 +6256,19 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
         <source>Add Microsoft Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj Microsoft Konto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="218"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Vent venligst...</translation>
+        <translation>Vent venligst...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="231"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
@@ -6538,7 +6538,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="356"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished">&amp;Kill</translation>
+        <translation>&amp;Kill</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="344"/>
@@ -6689,7 +6689,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
@@ -6826,7 +6826,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="362"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="412"/>
@@ -6877,7 +6877,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1369"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Bekræft Sletning</translation>
+        <translation>Bekræft Sletning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1370"/>
@@ -7012,13 +7012,13 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/MainWindow.cpp" line="535"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished">Opret instans</translation>
+        <translation>&amp;Opret instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="549"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished">Slet gruppe %1</translation>
+        <translation>&amp;Slet gruppe</translation>
     </message>
     <message>
         <source>Launch Demo</source>
@@ -7070,12 +7070,12 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="842"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Opgave Afbrudt</translation>
+        <translation>Opgave afbrudt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="842"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Opgaven er blevet afbrudt af brugeren.</translation>
+        <translation>Opgaven er blevet afbrudt af brugeren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="846"/>
@@ -7100,7 +7100,7 @@ Tilføj din Mojang- eller Minecraft-konto.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
         <source>Modpack download</source>
-        <translation type="unfinished">Modpack-download</translation>
+        <translation>Modpack download</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1031"/>
@@ -7415,12 +7415,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Opgave Afbrudt</translation>
+        <translation>Opgave afbrudt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Opgaven er blevet afbrudt af brugeren.</translation>
+        <translation>Opgaven er blevet afbrudt af brugeren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="208"/>
@@ -7525,7 +7525,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="305"/>
         <source>Profilers</source>
-        <translation type="unfinished">Profileringsværktøjer</translation>
+        <translation>Profiler</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
@@ -7559,7 +7559,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
@@ -7598,12 +7598,12 @@ This can be updated only using a file in %1 format
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation type="unfinished">Start Minecraft maksimeret?</translation>
+        <translation>Start Minecraft &amp;maksimeret</translation>
     </message>
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation>Vinduehøjde:</translation>
+        <translation>Vindue &amp;højde:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
@@ -7620,16 +7620,16 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="unfinished">Legacy indstillinger</translation>
+        <translation>Legacy indstillinger</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulerer brug af gamle onlinetjenester, som ikke længere fungerer.&lt;/p&gt;&lt;p&gt;Aktuelle rettelser inkluderer: skin og online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulerer brug af gamle onlinetjenester, som ikke længere fungerer.&lt;/p&gt;&lt;p&gt;Aktuelle rettelser inkluderer: skin og online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished">Aktiver online rettelser (eksperimentel)</translation>
+        <translation>Aktiver online rettelser (eksperimentel)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
@@ -7642,7 +7642,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished">&amp;GLFW bibliotek sti</translation>
+        <translation>&amp;GLFW bibliotek sti</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
@@ -7651,7 +7651,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished">&amp;OpenAL bibliotek sti</translation>
+        <translation>&amp;OpenAL bibliotek sti</translation>
     </message>
     <message>
         <source>Performance</source>
@@ -7687,7 +7687,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="unfinished">Brug Zink</translation>
+        <translation>Brug Zink</translation>
     </message>
     <message>
         <source>Game time</source>
@@ -7743,7 +7743,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">Sti til %1 bibliotek fil</translation>
+        <translation>Sti til %1 bibliotek fil</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
@@ -7824,7 +7824,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Disse indstillinger overskriver globale indstillinger.</translation>
+        <translation>Disse indstillinger overskriver globale indstillinger.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
@@ -7854,12 +7854,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="107"/>
         <source>Window height:</source>
-        <translation type="unfinished">Vinduehøjde:</translation>
+        <translation>Vindue højde:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="114"/>
         <source>Window width:</source>
-        <translation type="unfinished">Vinduebredde:</translation>
+        <translation>Vindue bredde:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="158"/>
@@ -7894,17 +7894,17 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="216"/>
         <source>Show console while the game is running</source>
-        <translation type="unfinished">Vis konsol mens spillet kører</translation>
+        <translation>Vis konsol mens spillet kører</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="223"/>
         <source>Automatically close console when the game quits</source>
-        <translation type="unfinished">Luk automatisk konsollen når spillet lukkes</translation>
+        <translation>Luk automatisk konsollen når spillet lukkes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="230"/>
         <source>Show console when the game crashes</source>
-        <translation type="unfinished">Vis konsollen når spillet crasher</translation>
+        <translation>Vis konsollen når spillet crasher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="240"/>
@@ -7914,7 +7914,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="252"/>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished">Luk launcheren, efter spilvinduet åbnes</translation>
+        <translation>Luk launcheren, efter spil vinduet åbnes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="259"/>
@@ -7924,7 +7924,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="287"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="311"/>
@@ -7939,12 +7939,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="347"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulerer brug af gamle onlinetjenester, som ikke længere fungerer.&lt;/p&gt;&lt;p&gt;Aktuelle rettelser inkluderer: skin og online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulerer brug af gamle onlinetjenester, som ikke længere fungerer.&lt;/p&gt;&lt;p&gt;Aktuelle rettelser inkluderer: skin og online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="350"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished">Aktiver online rettelser (eksperimentel)</translation>
+        <translation>Aktiver online rettelser (eksperimentel)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="363"/>
@@ -7959,7 +7959,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="382"/>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished">&amp;GLFW bibliotek sti</translation>
+        <translation>&amp;GLFW bibliotek sti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="392"/>
@@ -7969,7 +7969,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="406"/>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished">&amp;OpenAL bibliotek sti</translation>
+        <translation>&amp;OpenAL bibliotek sti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="429"/>
@@ -8014,7 +8014,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="474"/>
         <source>Use Zink</source>
-        <translation type="unfinished">Brug Zink</translation>
+        <translation>Brug Zink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="502"/>
@@ -8085,7 +8085,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="189"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="196"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">Sti til %1 bibliotek fil</translation>
+        <translation>Sti til %1 bibliotek fil</translation>
     </message>
 </context>
 <context>
@@ -9599,7 +9599,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="196"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Bekræft Sletning</translation>
+        <translation>Bekræft Sletning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="197"/>
@@ -10343,7 +10343,7 @@ Vælg dit navn med omhu:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Vent venligst...</translation>
+        <translation>Vent venligst...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
@@ -12161,7 +12161,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="520"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Bekræft Sletning</translation>
+        <translation>Bekræft Sletning</translation>
     </message>
 </context>
 <context>
@@ -12710,7 +12710,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="336"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Bekræft Sletning</translation>
+        <translation>Bekræft Sletning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="337"/>
@@ -12859,7 +12859,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="49"/>
         <source>Modpack download</source>
-        <translation>Modpack-download</translation>
+        <translation>Modpack download</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="64"/>
@@ -14259,7 +14259,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Bekræft Sletning</translation>
+        <translation>Bekræft Sletning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
