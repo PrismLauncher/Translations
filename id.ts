@@ -4691,22 +4691,22 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
         <source>Java Insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalasi Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
         <source>Auto-&amp;detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Deteksi-Otomatis versi Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="65"/>
         <source>Auto-detect...</source>
-        <translation type="unfinished">Deteksi otomatis...</translation>
+        <translation type="unfinished">Deteksi otomatis versi Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="72"/>
@@ -4716,27 +4716,27 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="81"/>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otomatis mengunduh dan memilih built Java yang direkomendasikan oleh Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="84"/>
         <source>Auto-download &amp;Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otomatis-mengunduh &amp;Java Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="91"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jika diaktifkan, launcher tidak akan mengalihkanmu untuk memilih versi Java jika salah satunya tidak ditemukan saat memulai.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="94"/>
         <source>Skip Java setup prompt on startup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lewati menu pengaturan Java saat memulai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="101"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">Jika aktif, launcher tidak akan memeriksa kecocokan sebuah instansi dengan versi Java terpilih.</translation>
+        <translation>Jika aktif, launcher tidak akan memeriksa kecocokan sebuah instansi dengan versi Java terpilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="104"/>
@@ -4751,7 +4751,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="129"/>
         <source>PermGen (Java 7 and earlier):</source>
-        <translation type="unfinished"></translation>
+        <translation>PermGen (Java 7 dan sebelumnya):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="165"/>
@@ -4766,7 +4766,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="235"/>
         <source>Java Argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Argument Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
