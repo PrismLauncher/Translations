@@ -2449,8 +2449,8 @@ Oletko varma?</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="273"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Jos poistat tämän resurssin pelin ollessa käynnissä, se voi kaataa pelin.
-Oletko varma että haluat tehdä näin?</translation>
+        <translation>Jos poistat tämän resurssin pelin ollessa käynnissä, peli saattaa kaatua.
+Oletko varma, että haluat tehdä näin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="293"/>
@@ -8093,102 +8093,102 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished">Muoto</translation>
+        <translation>Lomake</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategoriat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Modilataajat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="130"/>
         <source>Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="142"/>
         <source>Show all versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä kaikki versiot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="158"/>
         <source>Environments</source>
-        <translation type="unfinished"></translation>
+        <translation>Ympäristöt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="170"/>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Asiakasohjelma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Palvelinohjelma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Hide installed items</source>
-        <translation type="unfinished"></translation>
+        <translation>Piilota asennetut kohteet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
         <source>Open source only</source>
-        <translation type="unfinished"></translation>
+        <translation>Vain avoimen lähdekoodin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="201"/>
         <source>Release type</source>
-        <translation type="unfinished"></translation>
+        <translation>Julkaisutyyppi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="207"/>
         <source>Release</source>
-        <translation type="unfinished"></translation>
+        <translation>Julkaisu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="214"/>
         <source>Beta</source>
-        <translation type="unfinished"></translation>
+        <translation>Beeta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="221"/>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation>Alfa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
         <source>Unknown</source>
-        <translation type="unfinished">Tuntematon</translation>
+        <translation>Tuntematon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
-        <translation type="unfinished">Kaikki versiot</translation>
+        <translation>Kaikki versiot</translation>
     </message>
 </context>
 <context>
@@ -8222,7 +8222,7 @@ Kanoninen polku: %1</translation>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.</translation>
+Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
@@ -8256,32 +8256,32 @@ Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen va
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Last Modified</source>
-        <translation>Viimeeksi muokattu</translation>
+        <translation>Muokattu viimeksi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Size</source>
-        <translation type="unfinished">Koko</translation>
+        <translation>Koko</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Puoli</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Modilataajat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Release Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Julkaisutyyppi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Minecraft Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft-versiot</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="183"/>
@@ -8306,36 +8306,36 @@ Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen va
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="191"/>
         <source>The source provider of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modin lähdetarjoaja.</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation>Mistä modi oli ladattu.</translation>
+        <translation>Mistä modi ladattiin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="193"/>
         <source>On what environment the mod is running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Missä ympäristössä modi toimii.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="195"/>
         <source>The mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modilataaja.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="197"/>
         <source>The supported minecraft versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuetut Minecraft-versiot.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
         <source>The release type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Julkaisutyyppi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="201"/>
         <source>The size of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modin koko.</translation>
     </message>
 </context>
 <context>
@@ -8400,7 +8400,7 @@ Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen va
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="71"/>
         <source>Download mods from online mod platforms</source>
-        <translation>Lataa modeja verkon modi-alustalta</translation>
+        <translation>Lataa modeja verkkomoditarjoajilta</translation>
     </message>
     <message>
         <source>Context menu</source>
@@ -8434,35 +8434,35 @@ Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen va
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="105"/>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Vie modin metatiedot tekstiksi.</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="unfinished">Vahvista riippuvuudet</translation>
+        <translation>Vahvista riippuvuudet</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yritä päivittää ja tarkista, puuttuuko valituilta modeilta riippuvuuksia (tarkistaa kaikki modit, jos yhtään ei ole valittu)</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Palauta päivityksen metatiedot</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista modin metatiedot</translation>
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirry modin kotisivulle</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">Vaihda versioita</translation>
+        <translation>Vaihda versiota</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaihda modin versiota</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
@@ -8474,7 +8474,7 @@ Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen va
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirry valittujen modien sivuille</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="126"/>
@@ -8485,7 +8485,8 @@ Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen va
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jos poistat modeja kun peli on käynnissä, peli saattaa kaatua.
+Oletko varma, että haluat tehdä näin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
@@ -8504,7 +8505,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="187"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="291"/>
         <source>Please install a mod loader first!</source>
-        <translation>Lataa ensimmäiseksi modloader!</translation>
+        <translation>Asenna modilataaja ensin!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
@@ -8539,7 +8540,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="191"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="295"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Modipäivitykset eivät ole saatavilla, kun metatiedot ovat poistettu käytöstä!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
@@ -8554,7 +8555,9 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Modien päivittäminen kun peli on käynnissä saattaa aiheuttaa modien monistamista ja pelin kaatumisia.
+Vanhoja tiedostoja ei ehkä saada poistettua, kun ne ovat käytössä.
+Oletko varma, että haluat tehdä näin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
@@ -8574,13 +8577,14 @@ Are you sure you want to do this?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="270"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Vahvista poistaminen</translation>
+        <translation>Vahvista poistaminen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="271"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Olet poistamassa metatietoja %1:lle modille.
+Oletko varma?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="221"/>
@@ -8591,17 +8595,17 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="70"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="151"/>
         <source>Download Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Lataa modeja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="99"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaihda modin versiota.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="103"/>
         <source>View the homepages of all selected mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä kaikkien valittujen modien kotisivut.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="224"/>
@@ -9663,7 +9667,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation>Muoto</translation>
+        <translation>Lomake</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
@@ -11431,8 +11435,8 @@ Kanoninen polku: %1</translation>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="508"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.</translation>
+        <translation>
+Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
@@ -11447,7 +11451,7 @@ Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen va
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Last Modified</source>
-        <translation>Viimeeksi muokattu</translation>
+        <translation>Muokattu viimeksi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
@@ -11524,7 +11528,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
-        <translation>Viimeeksi muokattu</translation>
+        <translation>Muokattu viimeksi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
@@ -11561,8 +11565,8 @@ Kanoninen polku: %1</translation>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="120"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.</translation>
+        <translation>
+Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="171"/>
@@ -12848,7 +12852,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="20"/>
         <source>Form</source>
-        <translation>Muoto</translation>
+        <translation>Lomake</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
@@ -13108,7 +13112,7 @@ inheritsFrom puuttuu</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Last Modified</source>
-        <translation>Viimeeksi muokattu</translation>
+        <translation>Muokattu viimeksi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
@@ -13133,8 +13137,8 @@ Kanoninen polku: %1</translation>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="94"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.</translation>
+        <translation>
+Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
@@ -13185,7 +13189,7 @@ Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen va
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="77"/>
         <source>View the homepages of all selected texture packs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä kaikkien valittujen tekstuuripakettien kotisivut.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="97"/>
@@ -13757,7 +13761,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="115"/>
         <source>Change Version</source>
-        <translation>Vaihda versioita</translation>
+        <translation>Vaihda versiota</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="118"/>
