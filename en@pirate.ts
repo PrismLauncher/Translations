@@ -2009,7 +2009,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
         <source>Import from zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Add from yer zip</translation>
     </message>
 </context>
 <context>
@@ -2124,7 +2124,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="203"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to open ye locked chest</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="231"/>
