@@ -649,7 +649,7 @@ Hvis du er ny her, kan du vælge &quot;Tilføj Microsoft&quot;-knappen for at ti
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="106"/>
         <source>Context menu</source>
-        <translation>Kontekstmenu</translation>
+        <translation>Kontekst menu</translation>
     </message>
     <message>
         <source>Add account</source>
@@ -778,7 +778,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation>Alle versioner</translation>
+        <translation>Alle Versioner</translation>
     </message>
 </context>
 <context>
@@ -1065,7 +1065,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Søg og filtrer ...</translation>
+        <translation>Søg og filtrer...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -1649,7 +1649,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation>Ok</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1705,7 +1705,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation>Egne kommandoer</translation>
+        <translation>Brugerdefinerede Kommandoer</translation>
     </message>
 </context>
 <context>
@@ -1964,7 +1964,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation>Miljøvariabler</translation>
+        <translation>Miljø Variabler</translation>
     </message>
 </context>
 <context>
@@ -2118,7 +2118,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="135"/>
         <source>Modrinth pack</source>
-        <translation>Modrinth-pakke</translation>
+        <translation>Modrinth pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="142"/>
@@ -2240,7 +2240,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="223"/>
         <source>Copy</source>
-        <translation>Kopiér</translation>
+        <translation>Kopier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="68"/>
@@ -2289,7 +2289,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Besøg moddens side</translation>
+        <translation>Besøg mod&apos;s side</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2395,7 +2395,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
         <source>Verify Dependencies</source>
-        <translation>Bekræft afhængigheder</translation>
+        <translation>Bekræft Afhængigheder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="198"/>
@@ -2410,7 +2410,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="209"/>
         <source>Change Version</source>
-        <translation>Skift version</translation>
+        <translation>Skift Version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
@@ -2444,7 +2444,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="132"/>
         <source>Context menu</source>
-        <translation>Kontekstmenu</translation>
+        <translation>Kontekst menu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="216"/>
@@ -2576,7 +2576,7 @@ Er du sikker på at du fortsætte?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="151"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="184"/>
         <source>OK</source>
-        <translation>Ok</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="122"/>
@@ -2717,7 +2717,7 @@ Prøv venligst igen.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
-        <translation>Søg og filtrér ...</translation>
+        <translation>Søg og filtrer...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -2806,7 +2806,7 @@ Prøv venligst igen.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Ingen gyldig version fundet for denne ressource. Den er nok utilgængelig for den nuværende spil version / modloader.</translation>
+        <translation>Ingen gyldig version fundet for denne ressource. Det er sandsynligvis ikke tilgængeligt for den aktuelle spil version / mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="149"/>
@@ -3007,7 +3007,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
         <source>Choose update file</source>
-        <translation>Vælg opdateringsfil</translation>
+        <translation>Vælg opdaterings fil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
@@ -3123,13 +3123,13 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation>Filtreringsindstillinger</translation>
+        <translation>Filter indstillinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Søg og filtrer ...</translation>
+        <translation>Søg og filtrer...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -3418,7 +3418,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="88"/>
         <source>Open Folder</source>
-        <translation>Åbn mappe</translation>
+        <translation>Åbn Mappe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="119"/>
@@ -3963,15 +3963,15 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation>Afslut launcheren efter spilvinduet lukker</translation>
+        <translation>Afslut launcheren efter spil vinduet lukker</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation>Egne kommandoer</translation>
+        <translation>Brugerdefinerede Kommandoer</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation>Miljøvariabler</translation>
+        <translation>Miljø Variabler</translation>
     </message>
     <message>
         <source>Workarounds</source>
@@ -3987,15 +3987,15 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation>Brug systeminstallation af GLFW</translation>
+        <translation>Brug system installation af GLFW</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation>Brug systeminstallation af OpenAL</translation>
+        <translation>Brug system installation af OpenAL</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation>Singleplayer version</translation>
+        <translation>Singleplayer verden</translation>
     </message>
     <message>
         <source>Override default account</source>
@@ -4019,7 +4019,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver Feral Interactives GameMode for at muligvis forbedre spilydelsen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver Feral Interactive&apos;s GameMode, for at muligvis forbedre spil ydelsen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
@@ -4027,7 +4027,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver MangoHuds avancerede ydelsesoverlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver MangoHuds avancerede ydelses overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
@@ -4081,7 +4081,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>Server address:</source>
-        <translation>Serveradresse:</translation>
+        <translation>Server adresse:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4094,7 +4094,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Feral Interactives GameMode kunne ikke findes på dit system.</translation>
+        <translation>Feral Interactive&apos;s GameMode kunne ikke findes på dit system.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
@@ -5792,7 +5792,7 @@ Det anbefales at give %1 adgang til det via Flatseal.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation>Søg og filtrér ...</translation>
+        <translation>Søg og filtrer...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -6189,28 +6189,28 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="561"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation type="unfinished"></translation>
+        <translation>At udpakke tomme arkiver virker underligt...</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="565"/>
         <source>Failed to seek to first file in zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke søge til den første fil i zip</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="605"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Udpakningen af %1 blev annulleret, fordi den faktisk var uden for mål stien %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="611"/>
         <source>Failed to extract file %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke udpakke fil %1 til %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="625"/>
         <location filename="src/launcher/MMCZip.cpp" line="636"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke rette tilladelser for %1</translation>
     </message>
 </context>
 <context>
@@ -6218,22 +6218,22 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="55"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation type="unfinished"></translation>
+        <translation>Log på med Microsoft konto (enheds kode).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhed godkendelse mislykkedes: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
         <source>Failed to retrieve device authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhed godkendelse kunne ikke hentes</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
         <source>Device authorization failed: required fields missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhed godkendelse mislykkedes: obligatoriske felter mangler</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
@@ -6243,12 +6243,12 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
         <source>Device Access failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhed adgang mislykkedes: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
         <source>Got</source>
-        <translation type="unfinished"></translation>
+        <translation>Fik</translation>
     </message>
 </context>
 <context>
@@ -6273,27 +6273,27 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
         <source>Sign in with Microsoft</source>
-        <translation type="unfinished"></translation>
+        <translation>Log ind med Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="166"/>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>Eller</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="347"/>
         <source>CODE</source>
-        <translation type="unfinished"></translation>
+        <translation>KODE</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="360"/>
         <source>Copy code to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopier koden til udklipsholderen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="398"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Info</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="72"/>
@@ -6303,12 +6303,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="151"/>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn %1 eller scan QR og indtast ovenstående kode.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="153"/>
         <source>Open %1 and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn %1 og indtast ovenstående kode.</translation>
     </message>
 </context>
 <context>
@@ -6316,32 +6316,32 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
         <source>Failed to refresh token.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke opdatere token.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
         <source>Logging in with Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Log ind med Microsoft konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft bruger godkendelse mislykkedes - klient identifikation er ændret.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="165"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft bruger godkendelse mislykkedes - opdaterings token er tom.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
         <source>Got </source>
-        <translation type="unfinished"></translation>
+        <translation>Fik </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="131"/>
         <source>Microsoft user authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft bruger godkendelse mislykkedes.</translation>
     </message>
 </context>
 <context>
@@ -6399,7 +6399,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="206"/>
         <source>&amp;Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Konti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="717"/>
@@ -6427,7 +6427,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="633"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn fejl sporingen for at rapportere en fejl med %1.</translation>
     </message>
     <message>
         <source>Discord guild</source>
@@ -6442,7 +6442,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="669"/>
         <source>Open %1 subreddit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åben %1 subreddit.</translation>
     </message>
     <message>
         <source>About %1</source>
@@ -6451,7 +6451,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="681"/>
         <source>View information about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se oplysninger om %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="729"/>
@@ -6461,7 +6461,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="732"/>
         <source>Get help with %1 or Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Få hjælp til %1 eller Minecraft.</translation>
     </message>
     <message>
         <source>Update</source>
@@ -6488,42 +6488,42 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="64"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyheds værktøjslinjen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Flere nyheder...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn udviklings bloggen for at læse flere nyheder om %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="406"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rediger...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mappe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="463"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Eksporter...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="433"/>
         <source>Dele&amp;te</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Slet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="448"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kopi...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -6548,143 +6548,143 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="293"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj Instanc&amp;e...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mapper</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="320"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Indstillinger...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="284"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fortryd sletning af sidste Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="693"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ryd Metadata Cache</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="696"/>
         <source>Clear cached metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Ryd cachelagrede metadata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="705"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer til &amp;PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="654"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Matrix Space</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="268"/>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Status Linje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Instances</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="556"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn mappen instances i en fil browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="565"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher &amp;Root</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="577"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Centrale Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
         <source>&amp;Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="592"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn skins mappen i en fil browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="601"/>
         <source>Instance Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Instance Ikoner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="604"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn mappen instance icons i en fil browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Logs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn log mappen i en fil browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="642"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Discord Server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="666"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub&amp;reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="678"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Om %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="762"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Widget Temaer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="765"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn mappen med widget temaer i en fil browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="774"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ikon Tema</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="777"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn ikon tema mappen i en fil browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="786"/>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Kat Pakker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="789"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn mappen cat packs i en fil browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
@@ -6695,7 +6695,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Åbn Java mappen i en fil browser. Kun tilgængelig, hvis den indbyggede Java downloader bruges.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
@@ -6705,108 +6705,108 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="257"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Meow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="335"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Administrer Kontoer...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="276"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Lås værktøjslinjer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="621"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Temaer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rediger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;View</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="211"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hjælp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="359"/>
         <source>Kill the running instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kill den kørende instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksporter den valgte instance til understøttede formater.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="475"/>
         <source>Prism Launcher (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
         <source>Modrinth (mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="493"/>
         <source>CurseForge (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="538"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Luk &amp;Vindue</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="541"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>Luk det aktuelle vindue</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="568"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn launcherens root mappe i en fil browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="630"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapporter en fejl eller foreslå en funktion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="657"/>
         <source>Open %1 Matrix space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åben %1 Matrix space.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="708"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer et %1 symlink til /usr/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="750"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Hjælp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="753"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn %1 wiki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="397"/>
@@ -6831,38 +6831,38 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="412"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="383"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skift Gruppe...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="389"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="255"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilbage Tasten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="454"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="502"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1586"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Opret Genvej</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="505"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opretter en genvej på dit skrivebord for at starte den valgte instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="741"/>
@@ -6889,7 +6889,10 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Du er ved at slette &quot;%1&quot;.
+Dette kan være permanent og vil helt slette instance.
+
+Er du sikker?</translation>
     </message>
     <message>
         <source>Launch the selected instance in offline mode.</source>
@@ -7002,7 +7005,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="357"/>
         <source>Total playtime: 0s</source>
-        <translation type="unfinished"></translation>
+        <translation>Samlet spilletid: 0s</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -7040,7 +7043,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="669"/>
         <source>Ctrl+%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="526"/>
@@ -7050,22 +7053,22 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="529"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="780"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Indlæser nyheder...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="790"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen nyheder tilgængelige.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="838"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Advarsler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="842"/>
@@ -7095,7 +7098,7 @@ Tilføj din Mojang- eller Minecraft-konto.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="962"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpakken, mod, eller resource %1 er blokeret for tredje parter! Hent det venligst manuelt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
@@ -7105,64 +7108,65 @@ Tilføj din Mojang- eller Minecraft-konto.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1031"/>
         <source>No instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen instance!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1032"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen instance tilgængelig at tilføje resource til.
+Opret en ny instance før du forsøger at installere denne resource igen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1146"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppe navn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1146"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1168"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indtast et nyt gruppe navn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1158"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet gruppe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Instance kan ikke redigeres</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne instance kan ikke redigeres. Det kan være ødelagt, ugyldigt eller for gammelt. Tjek logfiler for detaljer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1320"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Føjet %1 til PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1321"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 blev føjet til din PATH. Du kan nu starte den ved at køre `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1324"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke tilføje %1 til PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1325"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Der opstod en fejl under forsøg på at tilføje %1 til PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1382"/>
         <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Der er linkede instances</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1383"/>
@@ -7173,9 +7177,21 @@ Please create a new instance before attempting to install this resource again.</
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Følgende instance kan referere til filer i denne instance:
+
+%1
+
+Sletning kan ødelægge den anden instance, 
+
+Ønsker du at fortsætte?</numerusform>
+            <numerusform>Følgende instances kan referere til filer i denne instance:
+
+%1
+
+Sletning kan ødelægge de andre instances, 
+
+Ønsker du at fortsætte?</numerusform>
         </translation>
     </message>
     <message>
@@ -7191,84 +7207,84 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1633"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1639"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Opret instance genvej</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke finde skrivebordet?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1521"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>launcheren er i den mappe den blev udtrukket fra, og den kan derfor ikke oprette genveje.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1534"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
         <source>Create instance Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Opret instance Applikation</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1534"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
         <source>Failed to create icon for Application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke oprette ikon for Applikation.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1586"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrivebord Indgange</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1631"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Oprettet en genvej til denne instance på dit skrivebord!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1633"/>
         <source>Created a shortcut to this instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Oprettet en genvej til denne instance!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1639"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke oprette instance genvej!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1554"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher kører som forkert konfigureret AppImage? ($APPIMAGE miljøvariabel mangler)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="553"/>
         <source>&amp;Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Omdøb gruppe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1158"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er du sikker på at du vil slette gruppen &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1168"/>
         <source>Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Omdøb gruppe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
         <source>Cannot rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppen kan ikke omdøbes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
         <source>Cannot set empty name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan ikke angive tomt navn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
         <source>Group already exists. :/</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppen eksisterer allerede. :/</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1569"/>
@@ -7276,22 +7292,22 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1609"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1620"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke oprette ikon til genvej.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1625"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke understøttet på din platform!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1721"/>
         <source>Rename Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Omdøb Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1733"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation type="unfinished"></translation>
+        <translation>Din instance mappe indeholder &apos;!&apos; og dette er kendt for at forårsage Java problemer!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1734"/>
@@ -7301,22 +7317,22 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1742"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dette er et problem: &lt;br/&gt; - launcheren vil sandsynligvis blive slettet uden varsel af operativsystemet &lt;br/&gt; - luk launcheren nu og udpak den til en rigtig placering, ikke en midlertidig mappe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1748"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation type="unfinished"></translation>
+        <translation>Din instance mappe indeholder &apos;Rar$&apos; - det betyder, at du ikke har udpakket launcher arkivet!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1754"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Din instance mappe er i en midlertidig mappe: &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1768"/>
         <source>Total playtime: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Samlet spilletid: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="834"/>
@@ -7329,7 +7345,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="645"/>
         <source>Open %1 Discord guild.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn %1 Discord server.</translation>
     </message>
     <message>
         <source>Couldn&apos;t create folder for update downloads:
@@ -7343,64 +7359,66 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakke oplysninger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakke navn:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuværende version:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Udbyder oplysninger:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdater til version:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
         <source>Fetching versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Henter versioner...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update from file</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdater fra fil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Ændringslog</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="186"/>
         <source>No changelog available for this version!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen ændringslog tilgængelig for denne version!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="201"/>
         <source>Reload page</source>
-        <translation type="unfinished"></translation>
+        <translation>Genindlæs siden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="146"/>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Dette er en lokal modpack.
+Dette kan kun opdateres med en fil i %1 format
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="153"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Websted: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pakke ID: %3    |    Version ID: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="196"/>
@@ -7410,7 +7428,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="200"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Advarsler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
@@ -7430,22 +7448,22 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="216"/>
         <source>Update pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdater pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
         <source>Failed to search for available versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke søge efter tilgængelige versioner.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="230"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke anmode om ændringslog data for denne modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="232"/>
         <source>Cannot update!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan ikke opdatere!</translation>
     </message>
 </context>
 <context>
@@ -7460,7 +7478,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="121"/>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Indlæser lokal fil</translation>
     </message>
 </context>
 <context>
@@ -7647,7 +7665,7 @@ This can be updated only using a file in %1 format
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>Brug systeminstallation af OpenAL</translation>
+        <translation>Brug system installation af &amp;OpenAL</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
@@ -7659,7 +7677,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver Feral Interactives GameMode for at muligvis forbedre spilydelsen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver Feral Interactive&apos;s GameMode, for at muligvis forbedre spil ydelsen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
@@ -7667,7 +7685,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver MangoHuds avancerede ydelsesoverlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver MangoHuds avancerede ydelses overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
@@ -7751,7 +7769,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Feral Interactives GameMode kunne ikke findes på dit system.</translation>
+        <translation>Feral Interactive&apos;s GameMode kunne ikke findes på dit system.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
@@ -7919,7 +7937,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="259"/>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished">Afslut launcheren efter spilvinduet lukker</translation>
+        <translation>Afslut launcheren efter spil vinduet lukker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="287"/>
@@ -7954,7 +7972,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Brug systeminstallation af OpenAL</translation>
+        <translation>Brug system installation af OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="382"/>
@@ -7964,7 +7982,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="392"/>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Brug systeminstallation af GLFW</translation>
+        <translation>Brug system installation af GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="406"/>
@@ -7979,37 +7997,37 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="441"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver Feral Interactives GameMode for at muligvis forbedre spilydelsen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver Feral Interactive&apos;s GameMode, for at muligvis forbedre spil ydelsen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="444"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Aktiver Feral GameMode</translation>
+        <translation>Aktiver Feral GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="451"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver MangoHuds avancerede ydelsesoverlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver MangoHuds avancerede ydelses overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="454"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Aktiver MangoHud</translation>
+        <translation>Aktiver MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="461"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Brug den diskrete GPU i stedet for den primære GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Brug den diskrete GPU i stedet for den primære GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="464"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Brug diskret GPU</translation>
+        <translation>Brug diskret GPU</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="471"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished">Brug Zink, en Mesa OpenGL driver der implementerer OpenGL ovenpå Vulkan. Ydeevnen kan variere afhængigt af situationen. Bemærk: Hvis der ikke findes en passende Vulkan driver, vil software render blive brugt.</translation>
+        <translation>Brug Zink, en Mesa OpenGL driver der implementerer OpenGL ovenpå Vulkan. Ydeevnen kan variere afhængigt af situationen. Bemærk: Hvis der ikke findes en passende Vulkan driver, vil software render blive brugt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="474"/>
@@ -8019,7 +8037,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="502"/>
         <source>Launch</source>
-        <translation type="unfinished">Start</translation>
+        <translation>Start</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="523"/>
@@ -8029,7 +8047,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Account:</source>
-        <translation type="unfinished">Konto:</translation>
+        <translation>Konto:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="558"/>
@@ -8039,22 +8057,22 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="570"/>
         <source>Server address:</source>
-        <translation type="unfinished">Serveradresse:</translation>
+        <translation>Server adresse:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="580"/>
         <source>Singleplayer world</source>
-        <translation type="unfinished">Singleplayer version</translation>
+        <translation>Singleplayer verden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="611"/>
         <source>Custom Commands</source>
-        <translation type="unfinished">Egne kommandoer</translation>
+        <translation>Brugerdefinerede Kommandoer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="621"/>
         <source>Environment Variables</source>
-        <translation type="unfinished">Miljøvariabler</translation>
+        <translation>Miljø Variabler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="65"/>
@@ -8074,12 +8092,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="113"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">Feral Interactives GameMode kunne ikke findes på dit system.</translation>
+        <translation>Feral Interactive&apos;s GameMode kunne ikke findes på dit system.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="118"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">MangoHud kunne ikke findes på dit system.</translation>
+        <translation>MangoHud kunne ikke findes på dit system.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="189"/>
@@ -8151,7 +8169,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
@@ -8161,12 +8179,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="130"/>
@@ -8226,12 +8244,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
         <source>Unknown</source>
-        <translation type="unfinished">Ukendt</translation>
+        <translation>Ukendt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
-        <translation type="unfinished">Alle versioner</translation>
+        <translation>Alle Versioner</translation>
     </message>
 </context>
 <context>
@@ -8249,7 +8267,7 @@ This can be updated only using a file in %1 format
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished">Ukendt</translation>
+        <translation>Ukendt</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
@@ -8443,7 +8461,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="unfinished">Verificer afhængigheder</translation>
+        <translation>Bekræft Afhængigheder</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
@@ -8463,7 +8481,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">Ændr version</translation>
+        <translation>Skift Version</translation>
     </message>
     <message>
         <source>Change mod version</source>
@@ -8471,7 +8489,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished">Besøg moddens side</translation>
+        <translation>Besøg mod&apos;s side</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
@@ -8519,7 +8537,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="126"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished">Bekræft Sletning</translation>
+        <translation>Bekræft Sletning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
@@ -8609,12 +8627,12 @@ Are you sure you want to do this?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Update checker</source>
-        <translation>Opdateringskontrol</translation>
+        <translation>Opdaterings kontrol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="270"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Bekræft Fjernelse</translation>
+        <translation>Bekræft Fjernelse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="271"/>
@@ -8936,22 +8954,22 @@ Opdater venligst %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="143"/>
         <source>Not installed</source>
-        <translation type="unfinished">Ikke installeret</translation>
+        <translation>Ikke installeret</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="145"/>
         <source>Unknown</source>
-        <translation type="unfinished">Ukendt</translation>
+        <translation>Ukendt</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Ingen gyldig version fundet for denne ressource. Den er nok utilgængelig for den nuværende spilversion / modloader.</translation>
+        <translation>Ingen gyldig version fundet for denne ressource. Det er sandsynligvis ikke tilgængeligt for den aktuelle spil version / mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Ingen gyldig version fundet for denne ressource. Den er nok utilgængelig for den nuværende spilversion.</translation>
+        <translation>Ingen gyldig version fundet for denne ressource. Den er nok utilgængelig for den nuværende spilversion.</translation>
     </message>
     <message>
         <source>Preparing mods for Modrinth...</source>
@@ -9076,7 +9094,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="305"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished">%1 (Nuværende)</translation>
+        <translation>%1 (Nuværende)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
@@ -9086,12 +9104,12 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
         <source>Choose update file</source>
-        <translation type="unfinished">Vælg opdateringsfil</translation>
+        <translation>Vælg opdaterings fil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modrinth pakke</translation>
+        <translation>Modrinth pakke</translation>
     </message>
 </context>
 <context>
@@ -9110,22 +9128,22 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="57"/>
         <source>Searching for files...</source>
-        <translation type="unfinished">Søger efter filer...</translation>
+        <translation>Søger efter filer...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="79"/>
         <source>Could not search for files</source>
-        <translation type="unfinished">Kunne ikke søge efter filer</translation>
+        <translation>Kunne ikke søge efter filer</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="95"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished">Finder fil-hashes...</translation>
+        <translation>Finder fil hashes...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="156"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">Finder versioner for hashes...</translation>
+        <translation>Finder versioner for hashes...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="191"/>
@@ -9135,7 +9153,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="200"/>
         <source>Adding files...</source>
-        <translation type="unfinished">Tilføjer filer...</translation>
+        <translation>Tilføjer filer...</translation>
     </message>
 </context>
 <context>
@@ -9147,13 +9165,13 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished">Filtreringsindstillinger</translation>
+        <translation>Filter indstillinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Søg og filtrer ...</translation>
+        <translation>Søg og filtrer...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -9185,7 +9203,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="201"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
         <source>Error</source>
-        <translation type="unfinished">Fejl</translation>
+        <translation>Fejl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="296"/>
@@ -9280,7 +9298,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukendt</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="153"/>
@@ -9333,7 +9351,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9362,7 +9380,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="112"/>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="118"/>
@@ -9372,7 +9390,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="124"/>
         <source>Help</source>
-        <translation type="unfinished">Hjælp</translation>
+        <translation>Hjælp</translation>
     </message>
 </context>
 <context>
@@ -9484,7 +9502,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="13"/>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9517,7 +9535,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="48"/>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9670,12 +9688,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="42"/>
         <source>Close</source>
-        <translation type="unfinished">Luk</translation>
+        <translation>Luk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="43"/>
         <source>Help</source>
-        <translation type="unfinished">Hjælp</translation>
+        <translation>Hjælp</translation>
     </message>
 </context>
 <context>
@@ -9800,7 +9818,7 @@ Fejlmeddelelse: %3</translation>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="94"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Søger efter opdateringer...</translation>
+        <translation>Søger efter opdateringer...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
@@ -10278,7 +10296,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="76"/>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -10305,7 +10323,7 @@ Vælg dit navn med omhu:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="75"/>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
@@ -10894,12 +10912,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="38"/>
         <source>Update existing instance</source>
-        <translation type="unfinished">Opdatér eksisterende instans</translation>
+        <translation>Opdater eksisterende instance</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="39"/>
         <source>Create new instance</source>
-        <translation type="unfinished">Opret ny instans</translation>
+        <translation>Opret ny instance</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -10982,7 +11000,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukendt</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
@@ -11113,7 +11131,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="95"/>
         <source>Unknown</source>
-        <translation type="unfinished">Ukendt</translation>
+        <translation>Ukendt</translation>
     </message>
 </context>
 <context>
@@ -11294,7 +11312,7 @@ Opdatér venligst %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="207"/>
         <source> by </source>
-        <translation type="unfinished"> af </translation>
+        <translation> af </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="212"/>
@@ -11370,7 +11388,7 @@ Opdatér venligst %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="470"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished">Ctrl+Return</translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="476"/>
@@ -11744,12 +11762,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="163"/>
         <source>Update checker</source>
-        <translation type="unfinished">Opdateringskontrol</translation>
+        <translation>Opdaterings kontrol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="204"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Bekræft Fjernelse</translation>
+        <translation>Bekræft Fjernelse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="205"/>
@@ -11780,7 +11798,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished">Filtreringsindstillinger</translation>
+        <translation>Filter indstillinger</translation>
     </message>
 </context>
 <context>
@@ -11818,7 +11836,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="94"/>
         <source>Checking for updates</source>
-        <translation type="unfinished">Søger efter opdateringer</translation>
+        <translation>Søger efter opdateringer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="115"/>
@@ -11827,7 +11845,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="360"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="415"/>
         <source>Error</source>
-        <translation type="unfinished">Fejl</translation>
+        <translation>Fejl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="120"/>
@@ -11845,7 +11863,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="127"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Søger efter opdateringer...</translation>
+        <translation>Søger efter opdateringer...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
@@ -11866,7 +11884,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
         <source>Failed to check for updates</source>
-        <translation type="unfinished">Kunne ikke søge efter opdateringer</translation>
+        <translation>Kunne ikke søge efter opdateringer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="184"/>
@@ -11881,7 +11899,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="237"/>
         <source>Not installed</source>
-        <translation type="unfinished">Ikke installeret</translation>
+        <translation>Ikke installeret</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="273"/>
@@ -11968,7 +11986,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="25"/>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="44"/>
@@ -12079,7 +12097,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="310"/>
         <source>Context menu</source>
-        <translation>Kontekstmenu</translation>
+        <translation>Kontekst menu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="371"/>
@@ -12130,7 +12148,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="445"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Opgaven er blevet afbrudt af brugeren.</translation>
+        <translation>Opgaven er blevet afbrudt af brugeren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
@@ -12169,12 +12187,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="13"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuller</translation>
+        <translation>Annuller</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="14"/>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12182,7 +12200,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
@@ -12210,7 +12228,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
@@ -12227,12 +12245,12 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuller</translation>
+        <translation>Annuller</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="61"/>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12270,7 +12288,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="72"/>
         <source>&amp;Name</source>
-        <translation type="unfinished">Navn</translation>
+        <translation>&amp;Navn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="85"/>
@@ -12335,12 +12353,12 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="572"/>
         <source>Context menu</source>
-        <translation>Kontekstmenu</translation>
+        <translation>Kontekst menu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="703"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Bekræft Fjernelse</translation>
+        <translation>Bekræft Fjernelse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="704"/>
@@ -12421,14 +12439,14 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="244"/>
         <source>Aborted</source>
-        <translation type="unfinished">Afbrudt</translation>
+        <translation>Afbrudt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="92"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="244"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Overførsel afbrudt af bruger.</translation>
+        <translation>Overførsel afbrudt af bruger.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="98"/>
@@ -12485,12 +12503,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="160"/>
         <source>Update checker</source>
-        <translation type="unfinished">Opdateringskontrol</translation>
+        <translation>Opdaterings kontrol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Bekræft Fjernelse</translation>
+        <translation>Bekræft Fjernelse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="202"/>
@@ -12580,7 +12598,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="113"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Åbn mappe</translation>
+        <translation>Åbn Mappe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="120"/>
@@ -12605,7 +12623,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">&amp;Slet Skin</translation>
+        <translation>&amp;Slet Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
@@ -12635,12 +12653,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="97"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuller</translation>
+        <translation>Annuller</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="98"/>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="144"/>
@@ -12685,17 +12703,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="279"/>
         <source>Skin Delete</source>
-        <translation type="unfinished">Slet Skin</translation>
+        <translation>Skin Slet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="279"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Kunne ikke slette nuværende skin!</translation>
+        <translation>Kunne ikke slette nuværende skin!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="288"/>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekstmenu</translation>
+        <translation>Kontekst menu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="328"/>
@@ -12817,7 +12835,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished">Formular</translation>
+        <translation>Formular</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
@@ -12842,7 +12860,7 @@ Are you sure?</source>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished">Opdatering af instans mislykkedes, fordi: %1
+        <translation>Opdatering af Instance mislykkedes fordi: %1
 
 </translation>
     </message>
@@ -12987,7 +13005,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Søg og filtrer ...</translation>
+        <translation>Søg og filtrer...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -12997,7 +13015,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="213"/>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="265"/>
         <source>Error</source>
-        <translation type="unfinished">Fejl</translation>
+        <translation>Fejl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="231"/>
@@ -13020,7 +13038,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Name</source>
-        <translation type="unfinished">Navn</translation>
+        <translation>Navn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
@@ -13126,14 +13144,14 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="180"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="253"/>
         <source>Aborted</source>
-        <translation type="unfinished">Afbrudt</translation>
+        <translation>Afbrudt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="101"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="180"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="253"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Overførsel afbrudt af bruger.</translation>
+        <translation>Overførsel afbrudt af bruger.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="107"/>
@@ -13190,12 +13208,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="169"/>
         <source>Update checker</source>
-        <translation type="unfinished">Opdateringskontrol</translation>
+        <translation>Opdaterings kontrol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="210"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Bekræft Fjernelse</translation>
+        <translation>Bekræft Fjernelse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="211"/>
@@ -13217,7 +13235,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="37"/>
         <source>&amp;Icons</source>
-        <translation type="unfinished">&amp;Ikoner</translation>
+        <translation>&amp;Ikoner</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
@@ -13583,7 +13601,7 @@ Skift venligst til én af følgende Java-versioner for denne instans:</translati
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="115"/>
         <source>Change Version</source>
-        <translation type="unfinished">Ændr version</translation>
+        <translation>Skift Version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="118"/>
@@ -13633,7 +13651,7 @@ Skift venligst til én af følgende Java-versioner for denne instans:</translati
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
         <source>Install Loader</source>
-        <translation type="unfinished">Installer Loader</translation>
+        <translation>Installer Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
@@ -13693,7 +13711,7 @@ Skift venligst til én af følgende Java-versioner for denne instans:</translati
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="192"/>
         <source>Context menu</source>
-        <translation>Kontekstmenu</translation>
+        <translation>Kontekst menu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="208"/>
@@ -13734,7 +13752,7 @@ Skift venligst til én af følgende Java-versioner for denne instans:</translati
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="283"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Bekræft Fjernelse</translation>
+        <translation>Bekræft Fjernelse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="284"/>
@@ -13820,8 +13838,8 @@ Are you sure?</source>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished">Kan ikke hente Minecraft eller opdatere instanser, med mindre du har tilføjet mindst én konto.
-Tilføj din Mojang- eller Minecraft-konto.</translation>
+        <translation>Kan ikke hente Minecraft eller opdatere instances, med mindre du har tilføjet mindst en konto.
+Tilføj venligst en Microsoft konto.</translation>
     </message>
     <message>
         <source>Couldn&apos;t load or download the Forge version lists!</source>
@@ -13965,7 +13983,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="194"/>
         <source>Recommended</source>
-        <translation type="unfinished">Anbefalet</translation>
+        <translation>Anbefalet</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="198"/>
@@ -13978,12 +13996,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>Ok</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuller</translation>
+        <translation>Annuller</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
@@ -14006,7 +14024,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
         <source>Search</source>
-        <translation type="unfinished">Søg</translation>
+        <translation>Søg</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
@@ -14131,7 +14149,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="113"/>
         <source>Copy</source>
-        <translation type="unfinished">Kopiér</translation>
+        <translation>Kopier</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -14140,7 +14158,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="118"/>
         <source>Delete</source>
-        <translation type="unfinished">Slet</translation>
+        <translation>Slet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="123"/>
@@ -14190,7 +14208,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="145"/>
         <source>Context menu</source>
-        <translation>Kontekstmenu</translation>
+        <translation>Kontekst menu</translation>
     </message>
     <message>
         <source>This will remove the selected world permenantly.
