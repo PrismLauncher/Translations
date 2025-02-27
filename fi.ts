@@ -5998,7 +5998,7 @@ Syy:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="103"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation>Prosessi kaatui sulkukoodilla %1.</translation>
+        <translation>Prosessi kaatui poistumiskoodilla %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="108"/>
@@ -9552,7 +9552,8 @@ Oletko varma?</translation>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Oletko varma että haluat poistaa kaikki nämä tiedostot?
+%1</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -9618,12 +9619,12 @@ Oletko varma?</translation>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="42"/>
         <source>Close</source>
-        <translation type="unfinished">Sulje</translation>
+        <translation>Sulje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="43"/>
         <source>Help</source>
-        <translation type="unfinished">Ohje</translation>
+        <translation>Ohje</translation>
     </message>
 </context>
 <context>
@@ -9638,35 +9639,36 @@ Oletko varma?</translation>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
         <source>Uploading to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lähetetään osoitteeseen %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="157"/>
         <source>Network error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkkovirhe: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe: %1 antoi ei-odotetun tilakoodin %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="180"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="202"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="226"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe: %1 antoi vääristyneen vastauksen sisällön</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="196"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe: %1 palautti virheen: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="219"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe: %1 palautti virhekoodin: %2
+Virheviesti: %3</translation>
     </message>
 </context>
 <context>
@@ -9679,17 +9681,17 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oletus Paste-palvelu on vaihtunut mclo.gs -palveluun, päätä mitä tehdään sinun asetuksiesi kanssa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
         <source>Use new default service</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä uutta oletusta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
         <source>Keep previous settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Pidä vanhat asetukset</translation>
     </message>
 </context>
 <context>
@@ -9697,12 +9699,12 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="124"/>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation type="unfinished"></translation>
+        <translation>pixmap-välimuistin väistöt häätöihin verrattuna tapahtuivat liian nopeasti, ei tehdä mitään, sillä välimuistin koko on rajoilla</translation>
     </message>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation type="unfinished"></translation>
+        <translation>pixmap-välimuistin väistöt häätöihin verrattuna tapahtuivat liian nopeasti, nostetaan välimuistin kokoa. Uusi koko:</translation>
     </message>
 </context>
 <context>
@@ -9762,68 +9764,72 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="94"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Tarkistetaan päivityksiä...</translation>
+        <translation>Tarkistetaan päivityksiä...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="144"/>
         <source>Update Check Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitystarkistus epäonnistui</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="124"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei voitu käynnistää 5 sekunnin sisällä
+Syy: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivittäjä ei sammunut 60 sekunnissa
+Syy: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
         <source>No Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei päivitystä saatavilla</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
         <source>You are running the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinulla on käytössä uusin versio.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
         <source>Update Check Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe päivitystarkistuksessa</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="182"/>
         <source>There was an error running the update check.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapahtui virhe päivitystarkistuksessa.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="209"/>
         <source>Unknown Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuntematon päivitysvirhe</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="210"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivittäjä sammui tuntemattomalla ehdolla.
+Poistumiskoodi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
         <source>StdOut: %1
 StdErr: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardituloste (stdout): %1
+Standardivirhe (stderr): %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
         <source>There are no new updates available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uusia päivityksiä ei ole saatavilla.</translation>
     </message>
 </context>
 <context>
@@ -9831,7 +9837,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä mukautettua polkua ohjelman juurta varten (aseta &apos;.&apos; saadaksesi nykyisen hakemiston).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
@@ -9841,7 +9847,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="226"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä tätä versiota asennetun käynnistimen versiona. (annettu koska standarditulostetta (stdout) ei voida varmasti kaapata Windows:illa)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="227"/>
@@ -9856,12 +9862,12 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
         <source>Update from the specified repo.</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitä annetusta tietovarastosta.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
         <source>github repo url</source>
-        <translation type="unfinished"></translation>
+        <translation>osoite github tietovarastoon</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="231"/>
