@@ -11093,7 +11093,7 @@ HUOM: Vahvista, että olet luonut varmuuskopion tärkeistä pelipakettitiedoista
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
         <source>No version list in metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Metatietoindeksissä ei ole versiolistaa %1:lle</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
