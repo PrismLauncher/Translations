@@ -1303,7 +1303,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="59"/>
         <source>Add Download Folder</source>
-        <translation>Tilføj download-mappe</translation>
+        <translation>Tilføj Download Mappe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="140"/>
@@ -1450,7 +1450,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="234"/>
         <source>Executing 1 task:</source>
-        <translation>Eksekverer 1 opgave:</translation>
+        <translation>Udfører 1 opgave:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="236"/>
@@ -1548,7 +1548,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
         <source>Don&apos;t link saves</source>
-        <translation>Link ikke saves</translation>
+        <translation>Undlad at forbinde spil filer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
@@ -1579,7 +1579,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation>Filer klonet med reflinks tager ikke ekstra plads op indtil de er ændret</translation>
+        <translation>Filer klonet med reflinks tager ikke ekstra plads op indtil de er ændret.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
@@ -1798,7 +1798,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="123"/>
         <source>No mod loader is selected.</source>
-        <translation>Ingen modifikationsloader er valgt</translation>
+        <translation>Ingen modifikations loader er valgt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
@@ -1816,7 +1816,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="45"/>
         <source>Failed to scan source path.</source>
-        <translation>Det mislykkedes at scanne kildestien</translation>
+        <translation>Det mislykkedes at scanne kilde stien.</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="58"/>
@@ -2458,9 +2458,8 @@ Nogle versioner af Minecraft starter muligvis ikke.
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>Du er ved at fjerne %1 element.
-
-Dette kan være permanent, og de forsvinder fra mappen.
+        <translation>Du er ved at fjerne %1 genstande.
+Dette kan være permanent og de forsvinder fra mappen.
 
 Er du sikker?</translation>
     </message>
@@ -2768,7 +2767,7 @@ Prøv venligst igen.</translation>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="128"/>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="148"/>
         <source>Invalid data returned from the API.</source>
-        <translation>Ugyldig data returneret fra API&apos;en</translation>
+        <translation>Ugyldig data returneret fra API.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="257"/>
@@ -7492,7 +7491,7 @@ Dette kan kun opdateres med en fil i %1 format
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Indlæs meta for %1:%2</translation>
     </message>
 </context>
 <context>
@@ -7501,7 +7500,7 @@ Dette kan kun opdateres med en fil i %1 format
         <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Indlæs meta for %1</translation>
     </message>
 </context>
 <context>
@@ -7523,22 +7522,22 @@ Dette kan kun opdateres med en fil i %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="294"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Start &amp;Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="295"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="296"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Start &amp;Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="297"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="305"/>
@@ -7548,7 +7547,7 @@ Dette kan kun opdateres med en fil i %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
         <source>&amp;No Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ingen Profiler</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1005"/>
@@ -7582,7 +7581,7 @@ Dette kan kun opdateres med en fil i %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
         <source>, last played on %1 for %2</source>
-        <translation type="unfinished"></translation>
+        <translation>, sidst spillet %1 for %2</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -7591,7 +7590,7 @@ Dette kan kun opdateres med en fil i %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1099"/>
         <source>, total played for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>, i alt spillet %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1104"/>
@@ -7630,11 +7629,11 @@ Dette kan kun opdateres med en fil i %1 format
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis spille tid i timer</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Justeringer</translation>
     </message>
     <message>
         <source>Legacy settings</source>
@@ -7651,7 +7650,7 @@ Dette kan kun opdateres med en fil i %1 format
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Native biblioteks løsninger</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
@@ -7701,7 +7700,7 @@ Dette kan kun opdateres med en fil i %1 format
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Brug Zink, en Mesa OpenGL driver der implementerer OpenGL ovenpå Vulkan. Ydeevnen kan variere afhængigt af situationen. Bemærk: Hvis der ikke findes en passende Vulkan driver, vil software gengivelse blive brugt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
@@ -7709,26 +7708,26 @@ Dette kan kun opdateres med en fil i %1 format
     </message>
     <message>
         <source>Game time</source>
-        <translation type="unfinished"></translation>
+        <translation>Spilletid</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>General</translation>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Vis tid brugt på at &amp;spille instances</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Vis tid brugt på at spille på tværs af &amp;alle instances</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Optag tid brugt på at spille instances</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -7737,22 +7736,22 @@ Dette kan kun opdateres med en fil i %1 format
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Launcheren åbnes automatisk når spillet går ned eller afsluttes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Luk launcheren, når spil vinduet åbnes</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Launcheren afsluttes automatisk når spillet afsluttes eller går ned.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Luk launcheren efter spil vinduet lukkes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="55"/>
@@ -7765,7 +7764,7 @@ Dette kan kun opdateres med en fil i %1 format
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk fundet sti: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
@@ -7837,7 +7836,7 @@ Dette kan kun opdateres med en fil i %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="29"/>
         <source>Open &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn &amp;Globale Indstillinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
@@ -7847,12 +7846,12 @@ Dette kan kun opdateres med en fil i %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>General</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="76"/>
         <source>Game &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Spil &amp;Vindue</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -7862,12 +7861,12 @@ Dette kan kun opdateres med en fil i %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Grund spillet understøtter kun opløsning. For at simulere den maksimerede adfærd tilnærmer den nuværende implementering den maksimale skærmstørrelse.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="98"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Advarsel&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Den maksimerede indstilling understøttes muligvis ikke fuldt ud på alle Minecraft versioner.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="107"/>
@@ -7882,32 +7881,32 @@ Dette kan kun opdateres med en fil i %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="158"/>
         <source>Game &amp;Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Spil &amp;Tid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="170"/>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis tid brugt på at &amp;spille instances</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="177"/>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Optag tid brugt på at spille instances</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="184"/>
         <source>Show the &amp;total time played across instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis &amp;samlet tid spillet på tværs af instances</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="191"/>
         <source>Always show durations in &amp;hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis altid varighed i &amp;timer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="204"/>
         <source>&amp;Console</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Konsol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="216"/>
@@ -7927,7 +7926,7 @@ Dette kan kun opdateres med en fil i %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="240"/>
         <source>&amp;Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Diverse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="252"/>
@@ -7947,12 +7946,12 @@ Dette kan kun opdateres med en fil i %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="311"/>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Justeringer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="335"/>
         <source>&amp;Legacy Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Legacy Justeringer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="347"/>
@@ -7967,7 +7966,7 @@ Dette kan kun opdateres med en fil i %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="363"/>
         <source>&amp;Native Libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Native Biblioteker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
@@ -7992,7 +7991,7 @@ Dette kan kun opdateres med en fil i %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="429"/>
         <source>&amp;Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ydeevne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="441"/>
@@ -8042,7 +8041,7 @@ Dette kan kun opdateres med en fil i %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="523"/>
         <source>Override default &amp;account</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilsidesæt standard &amp;konto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
@@ -8052,7 +8051,7 @@ Dette kan kun opdateres med en fil i %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="558"/>
         <source>Set a &amp;target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Indstil et &amp;mål for at deltage ved start</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="570"/>
@@ -8077,17 +8076,17 @@ Dette kan kun opdateres med en fil i %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="65"/>
         <source>Show time &amp;playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis tid &amp;spillet denne instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="66"/>
         <source>&amp;Record time playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Optag tid spillet af denne instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="71"/>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Advarsel&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Den maksimerede indstilling er ikke fuldt understøttet på denne Minecraft version.&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="113"/>
@@ -8159,12 +8158,12 @@ Dette kan kun opdateres med en fil i %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Loaders</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
@@ -8189,57 +8188,57 @@ Dette kan kun opdateres med en fil i %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="130"/>
         <source>Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versioner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="142"/>
         <source>Show all versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis alle versioner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="158"/>
         <source>Environments</source>
-        <translation type="unfinished"></translation>
+        <translation>Miljøer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="170"/>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Klient</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Hide installed items</source>
-        <translation type="unfinished"></translation>
+        <translation>Skjul installerede elementer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
         <source>Open source only</source>
-        <translation type="unfinished"></translation>
+        <translation>Kun open source</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="201"/>
         <source>Release type</source>
-        <translation type="unfinished"></translation>
+        <translation>Udgivelses type</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="207"/>
         <source>Release</source>
-        <translation type="unfinished"></translation>
+        <translation>Udgivelse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="214"/>
         <source>Beta</source>
-        <translation type="unfinished"></translation>
+        <translation>Beta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="221"/>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation>Alfa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
@@ -8271,20 +8270,23 @@ Dette kan kun opdateres med en fil i %1 format
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvor mod&apos;et blev downloadet fra.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="124"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Advarsel: Denne resource er symbolsk forbundet fra andre steder. Redigering vil også ændre originalen.
+Kanonisk sti: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også ændre originalen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
@@ -8303,47 +8305,47 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Udbyder</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiver</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Billede</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidst Ændret</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Størrelse</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Side</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Loaders</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Release Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Udgivelses type</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Minecraft Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Versioner</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="183"/>
@@ -8368,32 +8370,32 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="191"/>
         <source>The source provider of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kilde udbyderen af denne mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="193"/>
         <source>On what environment the mod is running.</source>
-        <translation type="unfinished"></translation>
+        <translation>På hvilket miljø mod&apos;en kører.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="195"/>
         <source>The mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod loaderen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="197"/>
         <source>The supported minecraft versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>De understøttede minecraft versioner.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
         <source>The release type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Udgivelses typen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="201"/>
         <source>The size of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Størrelsen på mod.</translation>
     </message>
 </context>
 <context>
@@ -8457,7 +8459,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Add file</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj fil</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
@@ -8584,7 +8586,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="246"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="318"/>
         <source>Warnings</source>
-        <translation type="unfinished">Advarsler</translation>
+        <translation>Advarsler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="173"/>
@@ -8785,7 +8787,7 @@ Opdater venligst %1!</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Advarsler</translation>
+        <translation>Advarsler</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -10765,7 +10767,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="81"/>
         <source>h</source>
-        <translation type="unfinished">h</translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="86"/>
@@ -11203,7 +11205,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="160"/>
         <source>Warnings</source>
-        <translation type="unfinished">Advarsler</translation>
+        <translation>Advarsler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="166"/>
@@ -11482,13 +11484,16 @@ Opdatér venligst %1!</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Advarsel: Denne resource er symbolsk forbundet fra andre steder. Redigering vil også ændre originalen.
+Kanonisk sti: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="508"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også ændre originalen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
@@ -11498,22 +11503,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiver</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidst Ændret</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Størrelse</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Udbyder</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="540"/>
@@ -11565,27 +11570,27 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiver</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Billede</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidst Ændret</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Størrelse</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Udbyder</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="79"/>
@@ -11604,13 +11609,16 @@ Are you sure you want to do this?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Advarsel: Denne resource er symbolsk forbundet fra andre steder. Redigering vil også ændre originalen.
+Kanonisk sti: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="120"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også ændre originalen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="162"/>
@@ -11712,7 +11720,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="180"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="253"/>
         <source>Warnings</source>
-        <translation type="unfinished">Advarsler</translation>
+        <translation>Advarsler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="111"/>
@@ -11851,7 +11859,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="120"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="211"/>
         <source>Warnings</source>
-        <translation type="unfinished">Advarsler</translation>
+        <translation>Advarsler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="126"/>
@@ -12453,7 +12461,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="177"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="250"/>
         <source>Warnings</source>
-        <translation type="unfinished">Advarsler</translation>
+        <translation>Advarsler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="108"/>
@@ -13028,12 +13036,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiver</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Billede</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
@@ -13043,30 +13051,33 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidst Ændret</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Størrelse</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Udbyder</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="87"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Advarsel: Denne resource er symbolsk forbundet fra andre steder. Redigering vil også ændre originalen.
+Kanonisk sti: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="94"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også ændre originalen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
@@ -13158,7 +13169,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="186"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="259"/>
         <source>Warnings</source>
-        <translation type="unfinished">Advarsler</translation>
+        <translation>Advarsler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="117"/>
@@ -14090,13 +14101,13 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Størrelse</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="274"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished">Info</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
