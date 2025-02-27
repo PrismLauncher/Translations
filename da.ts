@@ -1303,7 +1303,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="59"/>
         <source>Add Download Folder</source>
-        <translation>Tilføj Download Folder</translation>
+        <translation>Tilføj Download Mappe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="140"/>
@@ -1463,7 +1463,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation>Kopier instans</translation>
+        <translation>Kopier Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
@@ -1488,7 +1488,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation>Instanse Kopierings Indstillinger</translation>
+        <translation>Instance Kopierings Indstillinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
@@ -1498,12 +1498,12 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation>Kopiér spilindstillingerne som FOV, maks. framerate osv.</translation>
+        <translation>Kopier spil-indstillingerne som FOV, maks framerate, osv.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
-        <translation>Kopier spilindstillinger</translation>
+        <translation>Kopier spil indstillinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
@@ -3668,17 +3668,17 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="41"/>
         <source>Copying instance %1</source>
-        <translation>Kopierer instans %1</translation>
+        <translation>Kopierer instance %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="146"/>
         <source>Instance folder copy failed.</source>
-        <translation>Kopiering af instansmappe mislykkedes.</translation>
+        <translation>Kopiering af Instance mappe mislykkedes.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="188"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>Kopiering af instansmappe afbrudt.</translation>
+        <translation>Kopiering af Instance mappe afbrudt.</translation>
     </message>
 </context>
 <context>
@@ -6522,7 +6522,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="448"/>
         <source>Cop&amp;y...</source>
-        <translation>&amp;Kopi...</translation>
+        <translation>&amp;Kopier...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -9852,56 +9852,60 @@ Fejlmeddelelse: %3</translation>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="124"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke starte efter 5 sekunder
+Årsag: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Updater kunne ikke lukke 60 sekunder
+Årsag: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
         <source>No Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen Opdatering Tilgængelig</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
         <source>You are running the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kører den seneste version.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
         <source>Update Check Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl ved Opdaterings Kontrol</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="182"/>
         <source>There was an error running the update check.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der opstod en fejl under kørsel af opdaterings check.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="209"/>
         <source>Unknown Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukendt Opdaterings Fejl</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="210"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering afsluttede med en ukendt tilstand.
+Exit Kode: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
         <source>StdOut: %1
 StdErr: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>StdOut: %1
+StdErr: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
         <source>There are no new updates available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der er ingen nye opdateringer tilgængelige.</translation>
     </message>
 </context>
 <context>
@@ -9909,103 +9913,103 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation type="unfinished"></translation>
+        <translation>Brug en brugerdefineret sti som program root (brug &apos;.&apos; for den aktuelle mappe).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>mappe</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="226"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation type="unfinished"></translation>
+        <translation>Brug denne version som den installerede launcher version. (leveret fordi stdout ikke kan fanges pålideligt på windows)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="227"/>
         <source>installed launcher version</source>
-        <translation type="unfinished"></translation>
+        <translation>installeret launcher version</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="228"/>
         <source>version name</source>
-        <translation type="unfinished"></translation>
+        <translation>version navn</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
         <source>Update from the specified repo.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering fra den angivne repo.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
         <source>github repo url</source>
-        <translation type="unfinished"></translation>
+        <translation>github repo url</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="231"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
-        <translation type="unfinished"></translation>
+        <translation>Tjek kun om en opdatering er nødvendig. Afslut status 100 hvis sand, 0 hvis falsk (eller ikke 0 hvis der var en fejl).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="232"/>
         <source>Allow updating to pre-release releases</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillad opdatering til pre-release udgivelser</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="233"/>
         <source>Force an update, even if one is not needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gennemtving en opdatering, selvom en ikke er nødvendig.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="234"/>
         <source>List available releases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste over tilgængelige udgivelser.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="235"/>
         <source>Log debug to console.</source>
-        <translation type="unfinished"></translation>
+        <translation>Log debug til konsol.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="236"/>
         <source>Select the version to install with a GUI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg den version der skal installeres med en GUI.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="237"/>
         <source>Allow the updater to downgrade to previous versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillad opdatering at nedgradere til tidligere versioner.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
         <source>MacOS Not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>MacOS Understøttes Ikke</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
         <source>The updater does not support installations on MacOS</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering understøtter ikke installationer på MacOS</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="255"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="268"/>
         <source>Unsupported Installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke Understøttet Installation</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="256"/>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Updater kører som forkert konfigureret AppImage? ($APPIMAGE miljø variabel mangler)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="268"/>
         <source>The updater can not find the main executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering kan ikke finde den primære eksekverbar.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="381"/>
         <source>The launcher data folder is not writable!</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher data mappen kan ikke skrives til!</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="382"/>
@@ -10015,119 +10019,126 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering kunne ikke oprette en log fil - data mappen kan ikke skrives til.
+
+Sørg for at du har skrive tilladelser til data mappen.
+(%1)
+
+Opdatering kan ikke fortsætte før du løser dette problem.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
         <source>Updating flatpack not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering af flatpack understøttes ikke</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Handlinger uden at kontrollere om en opdatering er tilgængelig understøttes ikke når du kører flatpak versionen af Prism Launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="647"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1100"/>
         <source>Reading manifest from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Læser manifest fra %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="659"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifest er tomt, hvilket giver det bedste bud på mappe indholdet i %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="665"/>
         <source>Installing the following to %1 :
  %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Installerer følgende til %1:
+ %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="669"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="676"/>
         <source>Installing from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Installerer fra %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="681"/>
         <source>Installing %1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Installerer %1 fra %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="685"/>
         <source>Failed copy %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Mislykket kopiering af %1 til %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="700"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1176"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen findes ikke, ignorerer: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="713"/>
         <source>There were errors installing the update.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der opstod fejl under installation af opdateringen.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="717"/>
         <source>Update succeed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering lykkes.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="878"/>
         <source>No Valid Release Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen Gyldig Udgivelses Assets</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Github udgivelsen %1 har ingen gyldige aktiver til denne platform: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
         <source>%1 portable: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 transportabel: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1053"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>ja</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1053"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>nej</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="889"/>
         <source>No version selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen version valgt.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="889"/>
         <source>No version was selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der blev ikke valgt nogen version.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="896"/>
         <source>Failed to Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke Downloade</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="896"/>
         <source>Failed to download the selected asset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke downloade det valgte aktiv.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="998"/>
         <source>Update already in progress
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering er allerede i gang
+</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1000"/>
@@ -10143,138 +10154,151 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne installation har en opdaterings låse fil til stede på: %1
+
+Tidsstempel: %2
+Opdaterer fra version %3 til %4
+Mål installations sti: %5
+Data Sti: %6
+Dette betyder sandsynligvis at et tidligere opdateringsforsøg mislykkedes. Sørg for at din installation fungerer før du fortsætter.
+Tjek Prism Launcher opdaterings log på: 
+%7
+for detaljer om sidste opdaterings forsøg.
+
+For at overskrive denne lås og fortsætte med denne opdatering alligevel, vælg &quot;Ignorer&quot; nedenfor.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1030"/>
         <source>Update Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering Afbrudt</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1030"/>
         <source>The update attempt was aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdaterings forsøget blev afbrudt</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1038"/>
         <source>Updating from %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdaterer fra %1 til %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1041"/>
         <source>Updating portable install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdaterer bærbar installation ved %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1044"/>
         <source>Running installer file at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kører installations fil på %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1053"/>
         <source>Process start result: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultat af proces start: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1060"/>
         <source>Backing up install</source>
-        <translation type="unfinished"></translation>
+        <translation>Sikkerhedskopierer installation</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1081"/>
         <source>Starting new updater at &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Starter ny opdatering ved &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1083"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke starte &apos;%1&apos; %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1133"/>
         <source>Backing up:
   %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sikkerhedskopiering:
+  %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1144"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1151"/>
         <source>Backing up install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sikkerhedskopierer installationen ved %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1156"/>
         <source>Backing up and then removing %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sikkerhedskopierer og fjerner derefter %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1160"/>
         <source>Failed to backup %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke sikkerhedskopiere %1 til %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1163"/>
         <source>Failed to remove %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke fjerne %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1198"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Udpakkede følgende til &quot;%1&quot;:
+  %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1200"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1202"/>
         <source>Failed to extract %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke udpakke %1 til %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1209"/>
         <source>Running: `%1 %2`</source>
-        <translation type="unfinished"></translation>
+        <translation>Kører: `%1 %2`</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke starte under ordnet proces &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
         <source>Failed extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Mislykket udpakke af arkiv</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1222"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Underordnet proces &quot;%1 %2&quot; mislykkedes.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1224"/>
         <source>Failed to extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke udpakke arkivet</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1229"/>
         <source>Unknown archive format for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukendt arkiv format for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1248"/>
         <source>Failed to Check Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke Kontrollere Version</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke starte den underordnede proces for at læse version.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1248"/>
         <source>Child launcher process failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Underordnet start process mislykkedes.</translation>
     </message>
 </context>
 <context>
@@ -10282,22 +10306,22 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="14"/>
         <source>Select an Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg en Konto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"/>
         <source>Select a profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg en profil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
         <source>Use as default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bruges som standard?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
         <source>Use as default for this instance only?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kun bruge som standard for denne instance?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="40"/>
@@ -10308,7 +10332,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="49"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (i brug)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="75"/>
@@ -10326,7 +10350,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="14"/>
         <source>Choose Minecraft name</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg Minecraft navn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="26"/>
@@ -10350,32 +10374,32 @@ Vælg dit navn med omhu:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
-        <translation type="unfinished"></translation>
+        <translation>Navnet er for kort - skal være mellem 3 og 16 tegn langt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="183"/>
         <source>Minecraft profile with name %1 already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft profilen med navnet %1 findes allerede.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="185"/>
         <source>The name %1 is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Navnet %1 er ikke tilladt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="187"/>
         <source>Unhandled profile name status: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubehandlet profil navn status: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"/>
         <source>Failed to check name availability.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke kontrollere tilgængelighed af navn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="264"/>
         <source>The server returned the following error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveren returnerede følgende fejl:</translation>
     </message>
 </context>
 <context>
@@ -10388,17 +10412,17 @@ Vælg dit navn med omhu:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>Global Opgave Status...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="59"/>
         <source>Global Status Details...</source>
-        <translation type="unfinished"></translation>
+        <translation>Globale Status Detaljer...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="136"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Spring Over</translation>
     </message>
 </context>
 <context>
@@ -10406,7 +10430,7 @@ Vælg dit navn med omhu:</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="42"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dette gælder kun for launcheren. Minecraft accepterer ikke proxy indstillinger.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
@@ -10421,7 +10445,7 @@ Vælg dit navn med omhu:</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
         <source>&amp;Default</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Standard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
@@ -10432,46 +10456,46 @@ Vælg dit navn med omhu:</translation>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;SOCKS5</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Adresse og Port</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentificering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Brugernavn:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="158"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Adgangskode:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bemærk: Proxy brugernavn og adgangskode er gemt i almindelig tekst inde i launcherens konfigurations fil!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="57"/>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy</translation>
     </message>
 </context>
 <context>
@@ -10479,57 +10503,57 @@ Vælg dit navn med omhu:</translation>
     <message>
         <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="47"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Mørk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="70"/>
         <source>Windows Vista</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Vista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="72"/>
         <source>Windows 9x</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="74"/>
         <source>Windows 11</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 11</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="76"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>System</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
         <source>Widget style trying to look like your win32 theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget stil der prøver at ligne dit win32 tema</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
         <source>Windows 9x inspired widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 9x inspireret widget stil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="89"/>
         <source>WinUI 3 inspired Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>WinUI 3 inspireret Qt widget stil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="91"/>
         <source>The default Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard Qt widget stil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="93"/>
         <source>Your current system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit nuværende system tema</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>Lys</translation>
     </message>
     <message>
         <source>&lt;p&gt;Following commits were added since last update:&lt;/p&gt;</source>
@@ -10542,7 +10566,7 @@ Vælg dit navn med omhu:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Hjemmeside</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="75"/>
@@ -10550,23 +10574,23 @@ Vælg dit navn med omhu:</translation>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 Udviklere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="102"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation type="unfinished"></translation>
+        <translation>Med tak til</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="135"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (i brug)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="92"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekræft Upload</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="93"/>
@@ -10574,12 +10598,15 @@ Vælg dit navn med omhu:</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er ved at uploade &quot;%1&quot; til %2.
+Du bør dobbelt-tjekke for personlige oplysninger.
+
+Er du sikker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="105"/>
         <source>Confirm Truncation</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekræft Truncation</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="106"/>
@@ -10589,50 +10616,55 @@ The launcher can keep the first %3 and last %4 lines, trimming the middle.
 If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
 
 Proceed with truncation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Loggen har %1 linjer, der overskrider mclo.gs&apos; grænse på %2.
+launcheren kan beholde de første %3 og sidste %4 linjer og trimme midten.
+
+Hvis du vælger &apos;Nej&apos;, vil mclo.gs kun beholde de første %2 linjer, hvilket afskærer potentielt nyttig information som nedbrud i slutningen.
+
+Fortsæt med truncation?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="135"/>
         <source>Upload failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Upload mislykkedes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
         <source>Upload finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Upload afsluttet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="142"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;Linket til den uploadede log&lt;/a&gt; er blevet placeret i din udklipsholder.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="377"/>
         <source>The specified file either doesn&apos;t exist or is not a proper executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den angivne fil eksisterer enten ikke eller er ikke en korrekt eksekverbar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="381"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Det angivne Java binary program startede ikke korrekt.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="391"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Den angivne Java binary returnerede uventede resultater:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Java testen lykkedes!&lt;br /&gt;Platform rapporteret: %1&lt;br /&gt;Java version rapporteret: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
         <source>Java test success</source>
-        <translation type="unfinished"></translation>
+        <translation>Java test success</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
@@ -10640,42 +10672,42 @@ Proceed with truncation?</source>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
         <source>Java test failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Java test fejl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="62"/>
         <source>Minecraft Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Server</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Patchen er ikke indlæst endnu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;minimumLauncherVersion&apos; værdien for denne version (%1) er højere end understøttet af %3 (%2). Det virker måske ikke ordentligt!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="299"/>
         <source>Library %1 name is broken and cannot be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliotek %1 navn er ødelagt og kan ikke behandles.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponent filen %1 eksisterer ikke. Dette bør aldrig ske.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke åbne %1 til læsning: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke parse %1 som json: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
@@ -10685,17 +10717,17 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke parse %1: forkert fil format</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponentens &apos;uid&apos; indeholder ulovlige tegn! Dette kan forårsage sikkerhedsproblemer.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="191"/>
         <source>Version file has both &apos;+libraries&apos; and &apos;libraries&apos;. This is no longer supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versions filen har både &apos;+biblioteker&apos; og &apos;biblioteker&apos;. Dette understøttes ikke længere.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="236"/>
@@ -10705,57 +10737,57 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="269"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Versions filen indeholder ikke understøttet element &apos;tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="272"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Versions filen indeholder ikke understøttet element &apos;-libraries&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="275"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Versions filen indeholder ikke understøttet element &apos;-tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="278"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Versions filen indeholder ikke understøttet element &apos;-minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="281"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Versions filen indeholder ikke understøttet element &apos;+minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="311"/>
         <source>Assets for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiver for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="79"/>
         <source>Invalid order file version, expected %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugyldig ordre fil version, forventet %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="116"/>
         <source>Unable to open the version file %1: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan ikke åbne versions filen %1: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="134"/>
         <source>Unable to process the version file %1: %2 at line %3 column %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan ikke behandle versions filen %1: %2 på linje %3 kolonne %4.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="360"/>
         <source>No profile (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen profil (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="370"/>
         <source>&lt;Offline&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Offline&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -10765,24 +10797,24 @@ Proceed with truncation?</source>
         <location filename="src/launcher/MMCTime.cpp" line="34"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1min %2s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1h %2min</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="39"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1d %2h %3min</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="76"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>dage</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="81"/>
@@ -10792,7 +10824,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="86"/>
         <source>m</source>
-        <translation type="unfinished"></translation>
+        <translation>m</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="91"/>
@@ -10802,7 +10834,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="96"/>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>ms</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="46"/>
@@ -11069,17 +11101,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished">Sorter efter Relevans</translation>
+        <translation>Sorter efter Relevans</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished">Sorter efter Følger</translation>
+        <translation>Sorter efter Følger</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished">Sorter efter Nyeste</translation>
+        <translation>Sorter efter Nyeste</translation>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="77"/>
@@ -11235,7 +11267,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="167"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Kontrollerer for afhængigheder...</translation>
+        <translation>Kontrollerer for afhængigheder...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="394"/>
@@ -11339,12 +11371,12 @@ Opdatér venligst %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="212"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Dette projekt er blevet arkiveret. Det vil ikke modtage yderligere opdateringer medmindre ejeren beslutter at fjerne arkiveringen af projektet.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Dette projekt er blevet arkiveret. Det vil ikke modtage yderligere opdateringer medmindre ejeren beslutter at fjerne arkiveringen af projektet.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="217"/>
         <source>Donate information: </source>
-        <translation type="unfinished">Doner oplysninger: </translation>
+        <translation>Doner oplysninger: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="230"/>
@@ -11369,7 +11401,7 @@ Opdatér venligst %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="240"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="261"/>
@@ -11709,7 +11741,7 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished">Skift en mod&apos;s version.</translation>
+        <translation>Skift en mod&apos;s version.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="91"/>
@@ -11758,7 +11790,7 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="130"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Bekræft Opdatering</translation>
+        <translation>Bekræft Opdatering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="131"/>
@@ -11775,7 +11807,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="155"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; er opdateret! :)</translation>
+        <translation>&apos;%1&apos; er opdateret! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="158"/>
@@ -11849,12 +11881,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="76"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished">Mod navn: %1&lt;br&gt;Fil navn: %2&lt;br&gt;Årsag: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Mod navn: %1&lt;br&gt;Fil navn: %2&lt;br&gt;Årsag: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="79"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished">Metadata generering mislykkedes</translation>
+        <translation>Metadata generering mislykkedes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="80"/>
@@ -11896,18 +11928,18 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished">Mod navn: %1</translation>
+        <translation>Mod navn: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="175"/>
         <source>Reason: %1</source>
-        <translation type="unfinished">Årsag: %1</translation>
+        <translation>Årsag: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="178"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished">Mulig løsning: Hent den seneste version manuelt:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Mulig løsning: Hent den seneste version manuelt:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
@@ -11922,7 +11954,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="217"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Kontrollerer for afhængigheder...</translation>
+        <translation>Kontrollerer for afhængigheder...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="237"/>
@@ -11932,7 +11964,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="273"/>
         <source>Looking for metadata</source>
-        <translation type="unfinished">Leder efter metadata</translation>
+        <translation>Leder efter metadata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="316"/>
@@ -11942,53 +11974,53 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="372"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished">Genererer metadata...</translation>
+        <translation>Genererer metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="425"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished">Kunne ikke finde en gyldig version på den valgte mod udbydere</translation>
+        <translation>Kunne ikke finde en gyldig version på den valgte mod udbydere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="436"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">Mod blev deaktiveret da det muligvis allerede er installeret.</translation>
+        <translation>Mod blev deaktiveret da det muligvis allerede er installeret.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="442"/>
         <source>Provider: %1</source>
-        <translation type="unfinished">Udbyder: %1</translation>
+        <translation>Udbyder: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="445"/>
         <source>Old version: %1</source>
-        <translation type="unfinished">Gammel version: %1</translation>
+        <translation>Gammel version: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="448"/>
         <source>New version: %1</source>
-        <translation type="unfinished">Ny version: %1</translation>
+        <translation>Ny version: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="452"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished">Ny Version Type: %1</translation>
+        <translation>Ny Version Type: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="458"/>
         <source>Required by: %1</source>
-        <translation type="unfinished">Påkrævet af: %1</translation>
+        <translation>Påkrævet af: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="460"/>
         <source>Required by:</source>
-        <translation type="unfinished">Påkrævet af:</translation>
+        <translation>Påkrævet af:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="474"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished">Ændringslog af den seneste version</translation>
+        <translation>Ændringslog af den seneste version</translation>
     </message>
 </context>
 <context>
@@ -12020,7 +12052,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="44"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">Mod blev deaktiveret da det muligvis allerede er installeret.</translation>
+        <translation>Mod blev deaktiveret da det muligvis allerede er installeret.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"/>
@@ -12040,17 +12072,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
         <source>Provider: %1</source>
-        <translation type="unfinished">Udbyder: %1</translation>
+        <translation>Udbyder: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="73"/>
         <source>Required by: %1</source>
-        <translation type="unfinished">Påkrævet af: %1</translation>
+        <translation>Påkrævet af: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="75"/>
         <source>Required by:</source>
-        <translation type="unfinished">Påkrævet af:</translation>
+        <translation>Påkrævet af:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="90"/>
@@ -12499,7 +12531,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="127"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Bekræft Opdatering</translation>
+        <translation>Bekræft Opdatering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="128"/>
@@ -12516,7 +12548,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="152"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; er opdateret! :)</translation>
+        <translation>&apos;%1&apos; er opdateret! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="155"/>
@@ -13207,7 +13239,7 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="136"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Bekræft Opdatering</translation>
+        <translation>Bekræft Opdatering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="137"/>
@@ -13224,7 +13256,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="161"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; er opdateret! :)</translation>
+        <translation>&apos;%1&apos; er opdateret! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="164"/>
@@ -13623,7 +13655,7 @@ Skift venligst til én af følgende Java-versioner for denne instans:</translati
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"/>
         <source>Reload</source>
-        <translation type="unfinished">Genindlæs</translation>
+        <translation>Genindlæs</translation>
     </message>
     <message>
         <source>Download All</source>
