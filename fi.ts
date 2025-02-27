@@ -857,7 +857,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>/tmp hakemistosi on liitetty &apos;noexec&apos; liitosasetuksella.
+Jotkut Minecraft-versiot ei välttämättä käynnisty.
+
+Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; liitosasetuksella tai asettamalla java.io.tmpdir JVM-argumentin kirjoitettavaan hakemistoon tiedostojärjestelmässä, jossa &apos;exec&apos; liitosasetus on asetettu (esim. /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1062"/>
@@ -872,17 +876,17 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/Application.cpp" line="1824"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanhoja tietoja %1:stä löydettiin, mutta sinulla on jo olemassa olevia tietoja %2:ille. Valitettavasti sinun on siirrettävä ne itse. Haluatko että sinua muistutetaan odottavasta tiedonsiirrosta seuraavan kerran, kun käynnistät %2:in?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1828"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation>Olet käyttänyt %1 aikaisemmin. Haluatko siirtää datasi uuteen sijaintiin %2?</translation>
+        <translation>Näyttää siltä, että olet käyttänyt %1:tä aikaisemmin. Haluatko tuoda tiedot uuteen %2:in sijaintiin?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1834"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>Näyttää siltä, että olet käyttänyt %1:tä aikaisemmin päivämäärällä %2. Haluatko tuoda tiedot uuteen %3:in sijaintiin?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1877"/>
@@ -969,12 +973,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation>Valitse Suositellut</translation>
+        <translation>Valitse suositellut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation>Käytä jakokoodia</translation>
+        <translation>Käytä jakamiskoodia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
@@ -1059,12 +1063,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished">Yhtään versiota ei ole saatavilla</translation>
+        <translation>Yhtäkään versiota ei ole tällä hetkellä saatavilla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished">Ei voitu ladata versioluetteloja!</translation>
+        <translation>Ei voitu ladata versioluetteloja!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
@@ -1097,42 +1101,42 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="101"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">Todennus onnistui.</translation>
+        <translation>Todennus onnistui.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="107"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Yhteydenotto todennuspalvelimeen epäonnistui.</translation>
+        <translation>Yhteydenotto todennuspalvelimeen epäonnistui.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="114"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">Asiakastunnus on muuttunut. Uusi istunto on luotava.</translation>
+        <translation>Asiakastunnus on muuttunut. Uusi istunto on luotava.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="121"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">Varmennuksen aikana tapahtui virhe.</translation>
+        <translation>Todennuksen aikana tapahtui virhe.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="128"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Varmennus epäonnistui. Istunto on vanhentunut.</translation>
+        <translation>Todentaminen epäonnistui. Istunto on vanhentunut.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="135"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">Todennus epäonnistui. Tiliä ei ole enää olemassa.</translation>
+        <translation>Todentaminen epäonnistui. Tiliä ei ole enää olemassa.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Tuntematon tilitehtävän tila: %1</translation>
+        <translation>Tuntematon tilitehtävän tila: %1</translation>
     </message>
 </context>
 <context>
@@ -1140,7 +1144,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation>Javan automaattinen mekanismi tunnisti 32-bittisen Java-asennuksen.</translation>
+        <translation>Automaattinen Java mekanismi tunnisti 32-bittisen Java-asennuksen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
@@ -1259,7 +1263,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
         <source>Open Missing</source>
-        <translation>Avaa Puuttuvat</translation>
+        <translation>Avaa puuttuvat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="59"/>
@@ -2337,7 +2341,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Download resources from online mod platforms.</source>
-        <translation>Lataa resursseja verkossa olevilta modialustoilta.</translation>
+        <translation>Lataa resursseja verkossa olevilta moditarjoajilta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="174"/>
@@ -8400,7 +8404,7 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="71"/>
         <source>Download mods from online mod platforms</source>
-        <translation>Lataa modeja verkkomoditarjoajilta</translation>
+        <translation>Lataa modeja verkossa olevilta moditarjoajilta</translation>
     </message>
     <message>
         <source>Context menu</source>
@@ -8555,7 +8559,7 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation>Modien päivittäminen kun peli on käynnissä saattaa aiheuttaa modien monistamista ja pelin kaatumisia.
+        <translation>Modien päivittäminen kun peli on käynnissä saattaa aiheuttaa moditiedostojen monistumista ja pelin kaatumisia.
 Vanhoja tiedostoja ei ehkä saada poistettua, kun ne ovat käytössä.
 Oletko varma, että haluat tehdä näin?</translation>
     </message>
@@ -8701,7 +8705,7 @@ Oletko varma?</translation>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation>Mahdollinen ratkaisu: Uusimman version haku manuaalisesti:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Mahdollinen ratkaisu: Uusimman version lataaminen manuaalisesti:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
@@ -8741,7 +8745,7 @@ Oletko varma?</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Ei voitu tarkistaa tai hankkia seuraavia modeja päivityksiä varten:&lt;br&gt;Haluatko jatkaa ilman kyseisiä modeja?</translation>
+        <translation>Ei voitu tarkistaa tai ladata seuraavia modeja päivityksiä varten:&lt;br&gt;Haluatko jatkaa ilman kyseisiä modeja?</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
@@ -11462,13 +11466,14 @@ Päivitä %1!</translation>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="45"/>
         <source>Resource download</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurssien lataus</translation>
     </message>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="46"/>
         <source>Downloading resource:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladataan resurssia:
+%1</translation>
     </message>
 </context>
 <context>
@@ -11478,7 +11483,7 @@ Päivitä %1!</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Varoitus: Tämä resurssi on symbolisesti linkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.
 Kanoninen polku: %1</translation>
     </message>
@@ -11507,56 +11512,57 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Size</source>
-        <translation type="unfinished">Koko</translation>
+        <translation>Koko</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Provider</source>
-        <translation type="unfinished">Tarjoaja</translation>
+        <translation>Tarjoaja</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="540"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>Vahvista päälle/pois kytkeminen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="541"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jos otat käyttöön/poistat käytöstä tämän resurssin pelin ollessa käynnissä, se voi kaataa pelin.
+Oletko varma että haluat tehdä näin?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="573"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Onko resurssi käytössä?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="575"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Resurssin nimi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Päivämäärä ja aika, jolloin tätä resurssia viimeksi muokattiin (tai se lisättiin).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The source provider of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurssin lähdetarjoaja.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="581"/>
         <source>The size of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurssin koko.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="626"/>
         <source>Show / Hide Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä / Piilota sarakkeet</translation>
     </message>
 </context>
 <context>
@@ -11584,31 +11590,31 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Size</source>
-        <translation type="unfinished">Koko</translation>
+        <translation>Koko</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Provider</source>
-        <translation type="unfinished">Tarjoaja</translation>
+        <translation>Tarjoaja</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="79"/>
         <source>Unrecognized</source>
-        <translation>Tunnistematon</translation>
+        <translation>Tunnistamaton</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="108"/>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Resurssipaketin versiotunnus (pack format), sekä Minecraft-versio jolle se on suunniteltu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Varoitus: Tämä resurssi on symbolisesti linkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.
 Kanoninen polku: %1</translation>
     </message>
@@ -11622,12 +11628,12 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="171"/>
         <source>The source provider of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurssipaketin lähdetarjoaja.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="173"/>
         <source>The size of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurssipaketin koko.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
@@ -11637,7 +11643,7 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Pack Format</source>
-        <translation>Paketin muoto</translation>
+        <translation>Paketin versiotunnus</translation>
     </message>
     <message>
         <source>Last changed</source>
@@ -11655,11 +11661,11 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="169"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation>Päivämäärä ja aika, jolloin tätä Resurssipakettia viimeksi muokattiin (tai se lisättiin).</translation>
+        <translation>Päivämäärä ja aika, jolloin tätä resurssipakettia viimeksi muokattiin (tai se lisättiin).</translation>
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Onko resurssipaketti käytössä? (Koskee vain ZIP-tiedostoja)</translation>
     </message>
 </context>
 <context>
@@ -11675,27 +11681,27 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Lataa resurssipaketteja verkossa olevilta tarjoajilta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Lataa paketteja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download resource packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Lataa resurssipaketteja verkossa olevilta moditarjoajilta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yritä tarkistaa tai päivittää kaikki valitut resurssipaketit (kaikki resurssipaketit jos mitään ei ole valittu)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished">Vaihda modin versiota.</translation>
+        <translation>Vaihda modin versiota.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="91"/>
@@ -11719,7 +11725,7 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="247"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Lataus pysäytetty käyttäjän toimesta.</translation>
+        <translation>Lataus pysäytetty käyttäjän toimesta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="101"/>
@@ -11739,55 +11745,58 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="125"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="224"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurssipakettipäivitykset eivät ole saatavilla, kun metatiedot ovat poistettu käytöstä!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="130"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Vahvista päivitys</translation>
+        <translation>Vahvista päivitys</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="131"/>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurssipakettien päivittäminen kun peli on käynnissä saattaa aiheuttaa pakettitiedostojen monistumista ja pelin kaatumisia.
+Vanhoja tiedostoja ei ehkä saada poistettua, kun ne ovat käytössä.
+Oletko varma, että haluat tehdä näin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="151"/>
         <source>The resource pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurssipakettipäivittäjä keskeytettiin!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="155"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&quot;%1&quot; on ajantasalla! :)</translation>
+        <translation>&quot;%1&quot; on ajantasalla! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="158"/>
         <source>All resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaikki resurssipaketit ovat ajantasalla! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="160"/>
         <source>All selected resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaikki valitut resurssipaketit ovat ajantasalla! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="163"/>
         <source>Update checker</source>
-        <translation type="unfinished">Päivitysten tarkistaja</translation>
+        <translation>Päivitysten tarkistaja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="204"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Vahvista poistaminen</translation>
+        <translation>Vahvista poistaminen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="205"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Olet poistamassa metatietoja %1:lle resurssipaketille.
+Oletko varma?</translation>
     </message>
 </context>
 <context>
@@ -11799,7 +11808,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="69"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Valittu versio:</translation>
+        <translation>Valittu versio:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
@@ -11812,37 +11821,37 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="46"/>
         <source>Confirm resources to update</source>
-        <translation type="unfinished"></translation>
+        <translation>Vahvista mitkä resurssit päivitetään</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="57"/>
         <source>You&apos;re about to update the following resources:</source>
-        <translation type="unfinished"></translation>
+        <translation>Olet päivittämässä seuraavia resursseja:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="58"/>
         <source>Only resources with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Vain merkityt resurssit päivitetään!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="76"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished">Modin nimi: %1&lt;br&gt;Tiedostonimi: %2&lt;br&gt;Syy: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Modin nimi: %1&lt;br&gt;Tiedostonimi: %2&lt;br&gt;Syy: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="79"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished">Metatietojen luonti epäonnistui</translation>
+        <translation>Metatietojen luonti epäonnistui</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="80"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei voitu luoda metatietoja seuraaville resursseille:&lt;br&gt;Haluatko jatkaa ilman näitä resursseja?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="94"/>
         <source>Checking for updates</source>
-        <translation type="unfinished">Tarkistetaan päivityksiä</translation>
+        <translation>Tarkistetaan päivityksiä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="115"/>
@@ -11851,51 +11860,51 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="360"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="415"/>
         <source>Error</source>
-        <translation type="unfinished">Virhe</translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="120"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="211"/>
         <source>Warnings</source>
-        <translation type="unfinished">Varoitukset</translation>
+        <translation>Varoitukset</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="126"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="216"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="371"/>
         <source>Abort</source>
-        <translation type="unfinished">Keskeytä</translation>
+        <translation>Keskeytä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="127"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Tarkistetaan päivityksiä...</translation>
+        <translation>Tarkistetaan päivityksiä...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished">Modin nimi: %1</translation>
+        <translation>Modin nimi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="175"/>
         <source>Reason: %1</source>
-        <translation type="unfinished">Syy: %1</translation>
+        <translation>Syy: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="178"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished">Mahdollinen ratkaisu: Uusimman version haku manuaalisesti:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Mahdollinen ratkaisu: Uusimman version lataaminen manuaalisesti:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
         <source>Failed to check for updates</source>
-        <translation type="unfinished">Päivitysten tarkistaminen epäonnistui</translation>
+        <translation>Päivitysten tarkistaminen epäonnistui</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="184"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei voitu tarkistaa tai ladata seuraavia resursseja päivityksiä varten:&lt;br&gt;Haluatko jatkaa ilman kyseisiä resursseja?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="217"/>
@@ -11905,53 +11914,53 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="237"/>
         <source>Not installed</source>
-        <translation type="unfinished">Ei asennettu</translation>
+        <translation>Ei asennettu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="273"/>
         <source>Looking for metadata</source>
-        <translation type="unfinished">Etsitään metatietoja</translation>
+        <translation>Etsitään metatietoja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="316"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurssilla &apos;%1&apos; ei ole vielä metatietoja. Meidän on luotava ne, jotta voimme seurata asiaankuuluvaa tietoa resurssin päivittämisestä. Tehdäksesi tämän, valitse tarjoaja jota voimme käyttää tarkistaaksemme tämän resurssin päivitykset.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="372"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished">Luodaan metatietoja...</translation>
+        <translation>Luodaan metatietoja...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="425"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished">Ei voitu löytää voimassaolevaa versiota valitusta/valituista modien tarjoajasta/tarjoajista</translation>
+        <translation>Ei voitu löytää sopivaa versiota valituilta moditarjoajilta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="436"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">Modi poistettiin käytöstä, sillä se saattaa olla jo asennettu.</translation>
+        <translation>Modi poistettiin käytöstä, sillä se saattaa olla jo asennettu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="442"/>
         <source>Provider: %1</source>
-        <translation type="unfinished">Tarjoaja: %1</translation>
+        <translation>Tarjoaja: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="445"/>
         <source>Old version: %1</source>
-        <translation type="unfinished">Vanha versio: %1</translation>
+        <translation>Vanha versio: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="448"/>
         <source>New version: %1</source>
-        <translation type="unfinished">Uusi versio: %1</translation>
+        <translation>Uusi versio: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="452"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished">Uuden version tyyppi: %1</translation>
+        <translation>Uuden version tyyppi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="458"/>
@@ -11979,18 +11988,18 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="24"/>
         <source>Cancel</source>
-        <translation type="unfinished">Peruuta</translation>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="25"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="44"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">Modi poistettiin käytöstä, sillä se saattaa olla jo asennettu.</translation>
+        <translation>Modi poistettiin käytöstä, sillä se saattaa olla jo asennettu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"/>
@@ -12000,12 +12009,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="55"/>
         <source>This download will be placed in: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lataus asetetaan polkuun: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="62"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä tiedosto ladataan kansioon, joka sijaitsee eri paikassa kuin oletus, mahdollisesti siksi koska lataaja vaatii sitä.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
@@ -12025,27 +12034,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="90"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Version tyyppi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="115"/>
         <source>Confirm %1 selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Vahvista valinta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="117"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Olet lataamassa seuraavat %1:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Vain merkityt %1 ladataan!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Päälle/pois riippuvuudet</translation>
     </message>
 </context>
 <context>
@@ -12079,13 +12088,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
         <source>Copy Image</source>
-        <translation>Kopioi Kuva</translation>
+        <translation>Kopioi kuva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
         <source>Copy File(s)</source>
-        <translation>Kopioi Tiedosto(t)</translation>
+        <translation>Kopioi tiedosto(t)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
@@ -12095,7 +12104,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="310"/>
         <source>Context menu</source>
-        <translation>Pikavalikko</translation>
+        <translation>Kontekstivalikko</translation>
     </message>
     <message>
         <source>You are about to upload %1 screenshots.
@@ -12371,7 +12380,7 @@ Tällä hetkellä asennettu versio: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="572"/>
         <source>Context menu</source>
-        <translation>Pikavalikko</translation>
+        <translation>Kontekstivalikko</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="703"/>
@@ -12428,17 +12437,17 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Lataa shader-paketteja verkossa olevilta tarjoajilta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Lataa paketteja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
         <source>Download shader packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Lataa shader-paketteja verkossa olevilta moditarjoajilta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
@@ -12492,7 +12501,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="122"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="221"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Shader-pakettipäivitykset eivät ole saatavilla, kun metatiedot ovat poistettu käytöstä!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="127"/>
@@ -12504,7 +12513,9 @@ Are you sure?</source>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Shader-pakettien päivittäminen kun peli on käynnissä saattaa aiheuttaa pakettitiedostojen monistumista ja pelin kaatumisia.
+Vanhoja tiedostoja ei ehkä saada poistettua, kun ne ovat käytössä.
+Oletko varma, että haluat tehdä näin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="148"/>
@@ -12540,7 +12551,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="202"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Olet poistamassa metatietoja %1:lle shader-paketille.
+Oletko varma?</translation>
     </message>
 </context>
 <context>
@@ -12731,7 +12743,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="288"/>
         <source>Context menu</source>
-        <translation type="unfinished">Pikavalikko</translation>
+        <translation>Kontekstivalikko</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="328"/>
@@ -13222,17 +13234,17 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Lataa tekstuuripaketteja verkossa olevilta tarjoajilta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Lataa paketteja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
         <source>Download texture packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Lataa tekstuuripaketteja verkossa olevilta moditarjoajilta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="59"/>
@@ -13291,7 +13303,7 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="131"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="230"/>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstuuripakettipäivitykset eivät ole saatavilla, kun metatiedot ovat poistettu käytöstä!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="136"/>
@@ -13303,7 +13315,9 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstuuripakettien päivittäminen kun peli on käynnissä saattaa aiheuttaa pakettitiedostojen monistumista ja pelin kaatumisia.
+Vanhoja tiedostoja ei ehkä saada poistettua, kun ne ovat käytössä.
+Oletko varma, että haluat tehdä näin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="157"/>
@@ -13339,7 +13353,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="211"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Olet poistamassa metatietoja %1:lle tekstuuripaketille.
+Oletko varma?</translation>
     </message>
 </context>
 <context>
@@ -13929,7 +13944,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="192"/>
         <source>Context menu</source>
-        <translation>Pikavalikko</translation>
+        <translation>Kontekstivalikko</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="208"/>
@@ -14465,7 +14480,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="145"/>
         <source>Context menu</source>
-        <translation>Pikavalikko</translation>
+        <translation>Kontekstivalikko</translation>
     </message>
     <message>
         <source>Are you sure?</source>
