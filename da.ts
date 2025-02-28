@@ -12191,7 +12191,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="417"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="460"/>
         <source>Upload finished</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upload afsluttet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="392"/>
