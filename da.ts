@@ -11034,7 +11034,7 @@ BEMÆRK: Sørg for, at du har lavet en sikkerhedskopi af dine vigtige instance d
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="34"/>
         <source>texture pack</source>
-        <translation>texture pakke</translation>
+        <translation>texture pack</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
@@ -11044,7 +11044,7 @@ BEMÆRK: Sørg for, at du har lavet en sikkerhedskopi af dine vigtige instance d
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="36"/>
         <source>shader pack</source>
-        <translation>shader pakke</translation>
+        <translation>shader pack</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
@@ -11352,7 +11352,7 @@ Opdatér venligst %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="37"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ressource pakke</translation>
     </message>
 </context>
 <context>
@@ -11361,13 +11361,13 @@ Opdatér venligst %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="107"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Søg efter %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="108"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="263"/>
         <source>Select %1 for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg %1 til download</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="207"/>
@@ -11412,38 +11412,38 @@ Opdatér venligst %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="261"/>
         <source>No version available for the selected pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen version tilgængelig for den valgte pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="265"/>
         <source>Deselect %1 for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Fravælg %1 til download</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="292"/>
         <source> [installed]</source>
         <comment>Mod version select</comment>
-        <translation type="unfinished"></translation>
+        <translation> [installeret]</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="299"/>
         <source>No valid version found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen gyldig version fundet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="300"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan ikke vælge ugyldig version :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="316"/>
         <source>Loading versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Indlæser versioner...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="469"/>
         <source>Reinstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Geninstaller</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="470"/>
@@ -11458,19 +11458,19 @@ Opdatér venligst %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="495"/>
         <source>The resource was not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ressourcen blev ikke fundet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ressourcer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="49"/>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ressource</translation>
     </message>
 </context>
 <context>
@@ -11479,7 +11479,7 @@ Opdatér venligst %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="162"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>shader packs</translation>
     </message>
 </context>
 <context>
@@ -11488,13 +11488,13 @@ Opdatér venligst %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="35"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>shader packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="37"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>shader pack</translation>
     </message>
 </context>
 <context>
@@ -11503,7 +11503,7 @@ Opdatér venligst %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="145"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>texture packs</translation>
     </message>
 </context>
 <context>
@@ -11512,13 +11512,13 @@ Opdatér venligst %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="37"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>texture packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="39"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>texture pack</translation>
     </message>
 </context>
 <context>
@@ -11526,13 +11526,14 @@ Opdatér venligst %1!</translation>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="45"/>
         <source>Resource download</source>
-        <translation type="unfinished"></translation>
+        <translation>Hent ressourcer</translation>
     </message>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="46"/>
         <source>Downloading resource:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Downloader resource:
+%1</translation>
     </message>
 </context>
 <context>
@@ -11581,46 +11582,47 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="540"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekræft skift</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="541"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvis du aktiverer/deaktiverer denne resource mens spillet kører kan det crashe dit spil.
+Er du sikker på at du vil gøre dette?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="573"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Er resource aktiveret?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="575"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Navnet på resource.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Datoen og klokkeslættet hvor denne resource sidst blev ændret (eller tilføjet).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The source provider of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kilde leverandøren af resource.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="581"/>
         <source>The size of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Størrelsen af resource.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="626"/>
         <source>Show / Hide Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis / Skjul Kolonner</translation>
     </message>
 </context>
 <context>
@@ -11653,14 +11655,14 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="79"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke genkendt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="108"/>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>resource pakke format ID, samt Minecraft versionerne det er designet til.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
@@ -11681,17 +11683,17 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="162"/>
         <source>Is the resource pack enabled?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er resource pakken aktiveret?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="171"/>
         <source>The source provider of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kilde udbyderen af resource pakken.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="173"/>
         <source>The size of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Størrelsen på resource pakken.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
@@ -11701,7 +11703,7 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Pack Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakke Format</translation>
     </message>
     <message>
         <source>Last changed</source>
@@ -11710,16 +11712,16 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
         <source>The name of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Navnet på resource pakken.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="169"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoen og tidspunktet hvor denne resource pakke sidst blev ændret (eller tilføjet).</translation>
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Er resource pakken aktiveret? (Gælder kun for ZIPs)</translation>
     </message>
 </context>
 <context>
@@ -11727,22 +11729,22 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="50"/>
         <source>Resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Ressource pakker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Download Pakker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download resource packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Download resource pakker fra online mod platforme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prøv at kontrollere eller opdatere alle valgte resource pakker (alle resource pakker hvis ingen er valgt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
@@ -11791,7 +11793,7 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="125"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="224"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Resource pakke er ikke tilgængelige når metadata er deaktiveret!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="130"/>
@@ -11803,12 +11805,14 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering af resource pakker mens spillet kører kan forårsage pakke duplikering og spil nedbrud.
+De gamle filer kan muligvis ikke slettes da de er i brug.
+Er du sikker på at du vil gøre dette?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="151"/>
         <source>The resource pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Resource pakke opdateringen blev afbrudt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="155"/>
@@ -11818,12 +11822,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="158"/>
         <source>All resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle resource pakker er opdaterede! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="160"/>
         <source>All selected resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle udvalgte resource pakker er opdaterede! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="163"/>
@@ -11839,15 +11843,16 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="205"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er ved at fjerne metadata for %1 resource pakker.
+Er du sikker?</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Download pakker</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Download resource pakker fra online platforme</translation>
     </message>
 </context>
 <context>
@@ -11872,17 +11877,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="46"/>
         <source>Confirm resources to update</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekræft resources for at opdatere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="57"/>
         <source>You&apos;re about to update the following resources:</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er ved at opdatere følgende resources:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="58"/>
         <source>Only resources with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kun resources med et check vil blive opdateret!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="76"/>
@@ -11897,7 +11902,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="80"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke generere metadata for følgende resources:&lt;br&gt;Ønsker du at fortsætte uden disse resources?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="94"/>
@@ -11955,7 +11960,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="184"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke kontrollere eller hente følgende resources til opdateringer:&lt;br&gt;Ønsker du at fortsætte uden disse resources?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="217"/>
@@ -11975,7 +11980,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="316"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resource &apos;%1&apos; har endnu ingen metadata. Vi er nødt til at generere det for at spore relevante oplysninger om hvordan man opdaterer denne mod. For at gøre dette, skal du vælge en mod udbyder som vi kan bruge til at søge efter opdateringer til denne mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="372"/>
@@ -12042,7 +12047,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="14"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilbage</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="24"/>
@@ -12063,17 +12068,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"/>
         <source>Filename: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Filnavn: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="55"/>
         <source>This download will be placed in: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne download vil blive placeret i: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="62"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne fil vil blive downloadet til en anden mappe placering end standarden, muligvis på grund af dens loader der kræver det.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
@@ -12093,22 +12098,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="90"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Version Type: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="115"/>
         <source>Confirm %1 selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekræft %1 valg</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="117"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er ved at downloade følgende %1:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kun %1 med en check vil blive downloadet!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
@@ -12468,7 +12473,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="48"/>
         <source>Shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Shader packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -13171,7 +13176,7 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="50"/>
         <source>Texture packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Texture packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
