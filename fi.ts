@@ -2696,7 +2696,7 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Huom: Jos sinun FTB instanssit eivät ole oletussijainnissa, valitse se käyttämällä hakupalkin vieressä olevaa painiketta.</translation>
+        <translation>Huom: Jos sinun FTB-instanssit eivät ole oletussijainnissa, valitse ne käyttämällä hakupalkin vieressä olevaa painiketta.</translation>
     </message>
 </context>
 <context>
@@ -3058,7 +3058,7 @@ Yritä uudelleen.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Huom: CurseForge sallii tekijöiden estää pääsy kolmannen osapuolen työkaluilta kuten Prism Launcher:ilta. Joten sinulta saatetaan pyytää lataamaan joitain modeja manuaalisesti modipaketin asennuksen yhteydessä.</translation>
+        <translation>Huom: CurseForge sallii tekijöiden estää pääsyn kolmannen osapuolen työkaluilta kuten Prism Launcher:ilta. Sinä saatat joutua manuaalisesti lataamaan joitakin modeja modipaketin asennuksen yhteydessä.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -6989,7 +6989,7 @@ Oletko varma?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="526"/>
         <source>No Default Account</source>
-        <translation>Oletustiliä ei ole asetettu</translation>
+        <translation>Ei oletustiliä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="529"/>
