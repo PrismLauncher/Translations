@@ -3166,7 +3166,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="86"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation>Sorter efter forfattere</translation>
+        <translation>Sorter efter Forfattere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="87"/>
@@ -10631,7 +10631,7 @@ Fortsæt med truncation?</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
         <source>Upload finished</source>
-        <translation>Upload afsluttet</translation>
+        <translation>Upload færdig</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="142"/>
@@ -10844,41 +10844,44 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Du forsøgte manuelt at indstille en JVM hukommelses indstilling (ved at bruge &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; or &quot;-Xms&quot;).
+Der er dedikerede bokse til disse i indstillingerne (Java fanen, i Hukommelses gruppen øverst).
+Denne meddelelse vil blive vist, indtil du fjerner dem fra JVM argumenterne.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="51"/>
         <location filename="src/launcher/JavaCommon.cpp" line="60"/>
         <source>JVM arguments warning</source>
-        <translation type="unfinished"></translation>
+        <translation>JVM argument advarsel</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="56"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du forsøgte at sende det påkrævede Java version argument til JVM (using &quot;-version:xxx&quot;). Dette er ikke sikkert og vil ikke blive tilladt.
+Denne meddelelse vil blive vist indtil du fjerner denne fra JVM argumenterne.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="69"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Java test lykkedes!&lt;br /&gt;Platform rapporteret: %1&lt;br /&gt;Java version rapporteret: %2&lt;br /&gt;Java leverandør rapporteret: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="77"/>
         <source>&lt;br /&gt;Warnings:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br /&gt;Advarsler:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="87"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Den angivne Java binære fil virkede ikke med de argumenter du angav:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="95"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Den angivne Java binære fil virkede ikke.&lt;br /&gt;Du bør bruge funktionen til automatisk registrering eller indstille stien til Java eksekverbare filen.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="104"/>
@@ -10896,24 +10899,24 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/meta/JsonFormat.cpp" line="145"/>
         <location filename="src/launcher/meta/JsonFormat.cpp" line="157"/>
         <source>Unknown format version!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukendt format version!</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
-        <translation type="unfinished"></translation>
+        <translation>Tom sti</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
         <source>Invalid path to JVisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugyldig sti til JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Stien findes ikke</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="95"/>
@@ -10923,22 +10926,22 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="30"/>
         <source>Path is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Stien er tom</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="40"/>
         <source>Path does not seem to be a MCEdit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Stien ser ikke ud til at være en MCEdit sti</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="58"/>
         <source>No author(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen forfatter(e)</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
         <source>Change instance name</source>
-        <translation type="unfinished"></translation>
+        <translation>Skift instance navn</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="13"/>
@@ -10961,7 +10964,9 @@ Nyt navn: %2</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>En eller flere af dine instances er fra denne samme modpack%1. Vil du oprette en separat instance, eller opdatere den eksisterende?
+
+BEMÆRK: Sørg for, at du har lavet en sikkerhedskopi af dine vigtige instance data før opdatering, da verdener kan blive beskadiget, og en vis konfiguration kan gå tabt (på grund af pakke tilsidesættelser).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="38"/>
@@ -11004,52 +11009,52 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="296"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation type="unfinished"></translation>
+        <translation>Baggrund Kat (fra MultiMC)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11 (tegnet af Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11 (flad udgave, tegnet af Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="299"/>
         <source>Teawie (drawn by SympathyTea)</source>
-        <translation type="unfinished"></translation>
+        <translation>Teawie (tegnet af SympathyTea)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="33"/>
         <source>resource pack</source>
-        <translation type="unfinished"></translation>
+        <translation>ressource pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="34"/>
         <source>texture pack</source>
-        <translation type="unfinished"></translation>
+        <translation>texture pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
         <source>data pack</source>
-        <translation type="unfinished"></translation>
+        <translation>data pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="36"/>
         <source>shader pack</source>
-        <translation type="unfinished"></translation>
+        <translation>shader pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
         <source>world save</source>
-        <translation type="unfinished"></translation>
+        <translation>verden gem</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
         <source>mod</source>
-        <translation type="unfinished"></translation>
+        <translation>mod</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
@@ -11080,18 +11085,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
         <source>Sort by Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorter efter Forfattere</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorter efter Downloads</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
         <source>Sort by Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorter efter Kategori</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
@@ -11116,68 +11121,68 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="77"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation type="unfinished"></translation>
+        <translation>et batch MKLINK program til windows der skal bruges med prismlauncher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="167"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugrupperet</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="221"/>
         <source>An auto-updater for Prism Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>En automatisk opdatering til Prism Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="344"/>
         <location filename="src/launcher/MMCZip.cpp" line="355"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke rette tilladelser for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
         <source>item</source>
-        <translation type="unfinished"></translation>
+        <translation>item</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"/>
         <source>items</source>
-        <translation type="unfinished"></translation>
+        <translation>items</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
         <source>No compatible version of %1 found for %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen kompatibel version af %1 fundet for %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
         <source>No version list in metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen version liste i metadata indekset for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
         <source>%1 is missing requirement %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 mangler krav %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
         <source>%1, a dependency of this component, has reported issues</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, en afhængighed af denne komponent, har rapporteret problemer</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
         <source>%1, a dependency of this component, is not the required version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, en afhængighed af denne komponent, er ikke den påkrævede version %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, en afhængighed af denne komponent, er ikke den foreslåede version %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 og %2 er kendt for ikke at arbejde sammen. Det anbefales at fjerne en af dem.</translation>
     </message>
 </context>
 <context>
@@ -11198,7 +11203,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation>Skift %1 version</translation>
     </message>
 </context>
 <context>
@@ -11213,7 +11218,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="47"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>mod</translation>
     </message>
 </context>
 <context>
@@ -11231,23 +11236,24 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="97"/>
         <source>Confirmation Needed</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekræftelse Nødvendig</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="98"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har %1 valgte ressourcer.
+Er du sikker på at du vil lukke denne dialog?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="132"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbner en ny popup for at gennemgå din valgte %1 og bekræfte dit valg. Shortcut: Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="144"/>
         <source>Confirm %1 to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekræft %1 for at downloade</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="151"/>
@@ -11272,18 +11278,18 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="394"/>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation>Skift %1 version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
         <source>resources</source>
         <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ressourcer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="61"/>
         <source>Download %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Download %1</translation>
     </message>
 </context>
 <context>
@@ -11299,23 +11305,23 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="217"/>
         <source>A network error occurred. Could not load project versions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Der opstod en netværksfejl. Kunne ikke indlæse projekt versioner: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="240"/>
         <source>A network error occurred. Could not load project info: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Der opstod en netværks fejl. Kunne ikke indlæse projekt oplysninger: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="246"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Anmodningen blev afbrudt af en ukendt årsag</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="459"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der opstod en netværks fejl. Mods kunne ikke indlæses.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="464"/>
@@ -11331,7 +11337,7 @@ Opdatér venligst %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="126"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ressource pakker</translation>
     </message>
 </context>
 <context>
@@ -11340,7 +11346,7 @@ Opdatér venligst %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="35"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ressource pakker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="37"/>
@@ -12191,7 +12197,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="417"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="460"/>
         <source>Upload finished</source>
-        <translation type="unfinished">Upload afsluttet</translation>
+        <translation>Upload færdig</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="392"/>
@@ -13883,7 +13889,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation>Skift %1 version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
