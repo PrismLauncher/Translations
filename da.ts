@@ -12118,7 +12118,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Skift Afhængigheder</translation>
     </message>
 </context>
 <context>
@@ -12146,24 +12146,24 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
         <source>View Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Se Mappe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopier Billede</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
         <source>Copy File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopier fil(er)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
         <source>Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Skærmbilleder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="310"/>
@@ -12176,7 +12176,10 @@ Er du sikker?</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er ved at uploade %1 skærmbilleder til %2.
+Du bør dobbelttjekke for personlige oplysninger.
+
+Er du sikker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="376"/>
@@ -12184,19 +12187,22 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er ved at uploade det valgte skærmbillede til %1.
+Du bør dobbelttjekke for personlige oplysninger.
+
+Er du sikker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="401"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="442"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="453"/>
         <source>Failed to upload screenshots!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke uploade skærmbilleder!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="453"/>
         <source>Unknown error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukendt fejl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="417"/>
@@ -12213,7 +12219,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="445"/>
         <source>Screenshots upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Upload af skærmbilleder blev afbrudt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
@@ -12224,12 +12230,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;linket til det uploadede skærmbillede&lt;/a&gt; er blevet placeret i din udklipsholder.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="461"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;linket til det uploadede album&lt;/a&gt; er blevet placeret i din udklipsholder.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="509"/>
@@ -12237,7 +12243,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er ved at slette %1 skærmbilleder.
+Dette kan være permanent og de vil blive slettet fra mappen.
+
+Er du sikker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="514"/>
@@ -12245,7 +12254,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er ved at slette det valgte skærmbillede.
+Dette kan være permanent og det vil blive slettet fra mappen.
+
+Er du sikker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="520"/>
@@ -12276,12 +12288,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Udgivet Dato</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="123"/>
         <source>Select a version to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg en version der skal installeres.</translation>
     </message>
 </context>
 <context>
@@ -12289,12 +12301,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg Release for at installere</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg venligst den udgivelse du ønsker at opdatere til.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
@@ -12304,14 +12316,16 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Udgivet Dato</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="48"/>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg en version der skal installeres.
+
+Aktuelt installeret version: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
@@ -12333,7 +12347,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="53"/>
         <source>Executing task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Udfører opgave %1 ud af %2</translation>
     </message>
 </context>
 <context>
@@ -12346,12 +12360,12 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="297"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="299"/>
         <source>Latency</source>
-        <translation type="unfinished"></translation>
+        <translation>Forsinkelse</translation>
     </message>
 </context>
 <context>
@@ -12364,12 +12378,12 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="85"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="98"/>
         <source>Reso&amp;urces</source>
-        <translation type="unfinished"></translation>
+        <translation>Reso&amp;urces</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"/>
@@ -12404,22 +12418,22 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="165"/>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Flyt Op</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Flyt Ned</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Deltag</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Servere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="572"/>
@@ -12437,7 +12451,10 @@ Currently installed version: %1</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er ved at fjerne &quot;%1&quot;.
+Dette er permanent og serveren vil være væk fra din liste for altid (LANG TID).
+
+Er du sikker?</translation>
     </message>
 </context>
 <context>
@@ -12445,17 +12462,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
         <source>&amp;Next &gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Næste &gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
         <source>&lt; &amp;Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; &amp;Tilbage</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <source>&amp;Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Færdig</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
@@ -12465,7 +12482,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Hurtig Opsætning</translation>
     </message>
 </context>
 <context>
@@ -12478,22 +12495,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Download Pakker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
         <source>Download shader packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Download shader pakker fra online mod platforme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prøv at kontrollere eller opdatere alle valgte shader pakker (alle shader pakker hvis ingen er valgt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
         <source>Change a shader pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skift en shader pakkes version.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="88"/>
@@ -12537,7 +12554,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="122"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="221"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Shader pakke opdateringer er ikke tilgængelige når metadata er deaktiveret!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="127"/>
@@ -12549,12 +12566,14 @@ Are you sure?</source>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering af shader pakker mens spillet kører kan medføre duplikering og spil nedbrud.
+De gamle filer kan muligvis ikke slettes da de er i brug.
+Er du sikker på at du vil gøre dette?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="148"/>
         <source>The shader pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Shader pakke updater blev afbrudt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="152"/>
@@ -12564,12 +12583,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="155"/>
         <source>All shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle shader pakker er opdaterede! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="157"/>
         <source>All selected shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle udvalgte shader pakker er opdaterede! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="160"/>
@@ -12585,15 +12604,16 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="202"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er ved at fjerne metadata for %1 shader pakker.
+Er du sikker?</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Download shaders</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Download shaders fra online platforme</translation>
     </message>
 </context>
 <context>
@@ -12601,7 +12621,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinDelete.cpp" line="49"/>
         <source>Deleting skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Sletning af skin</translation>
     </message>
 </context>
 <context>
@@ -12609,32 +12629,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="269"/>
         <source>Path is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sti er tom.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="272"/>
         <source>File doesn&apos;t exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen findes ikke.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="274"/>
         <source>Not a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke en fil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="276"/>
         <source>File is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen kan ikke læses.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="278"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skin billeder skal være 64x64 eller 64x32 pixel PNG filer.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="282"/>
         <source>Unable to copy file</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan ikke kopiere filen</translation>
     </message>
 </context>
 <context>
@@ -12644,27 +12664,27 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="250"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="264"/>
         <source>Skin Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Skin Upload</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="43"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="49"/>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Classic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <source>Slim</source>
-        <translation type="unfinished"></translation>
+        <translation>Slim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="69"/>
         <source>Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Cape</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="113"/>
@@ -12674,7 +12694,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="120"/>
         <source>Reset Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Nulstil Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="134"/>
