@@ -4913,7 +4913,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="235"/>
         <source>Java Argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>Java Argüman&amp;ları</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
@@ -7663,7 +7663,8 @@ Emin misiniz?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1032"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaynağı eklemek için kullanılabilir örnek yok.
+Lütfen bu kaynağı tekrar yüklemeye çalışmadan önce yeni bir örnek oluşturun.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1158"/>
