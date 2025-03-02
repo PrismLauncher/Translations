@@ -127,7 +127,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Priminimas: Jums tereikia nustatyti šį pasirinkimą, kad galėtumėte prieiti privačius duomenis. Perskaitykite &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentacija&lt;/a&gt; dėl daugiau informacijos.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -3313,7 +3313,7 @@ Bandykite dar kartą.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
         <source>Cancel</source>
-        <translation type="unfinished">Atšaukti</translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"/>
@@ -3699,7 +3699,7 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>Java įdiegimas</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
@@ -3719,7 +3719,7 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished">Praleisti Java derėjimo patikras</translation>
+        <translation>Praleisti Java derėjimo patikras</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
@@ -3735,15 +3735,15 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
+        <translation>Laikinos atminties kiekis su kuriuo Minecraft įjungiamas.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Galimas laikinos atminties kiekis laikyti užkrautoms Java klasėms.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Didžiausias skiriamas laikinos atminties kiekis:</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -3751,19 +3751,19 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Parsisiųsti Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastaba: nuo Java 8 ir vėlesnių versijų, Permgen nustatomas automatiškai</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>Java argumentai</translation>
     </message>
     <message>
         <source>Game windows</source>
@@ -3776,7 +3776,7 @@ Bandykite dar kartą.</translation>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Įjungti Minecraft pilname lange</translation>
     </message>
     <message>
         <source>Window height:</source>
@@ -3798,20 +3798,20 @@ Bandykite dar kartą.</translation>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Automatiškai uždaryti komandinę eilutę, kai žaidimas išjungiamas</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>Rodyti konsolę, kai žaidimas užstringa</translation>
+        <translation>Rodyti komandinę eilutę, kai žaidimas užstringa</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Uždaryti paleidėją, kai atsidaro žaidimo langas</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Uždaryti paleidėją, kai uždaromas žaidimo langas</translation>
     </message>
     <message>
         <source>Custom commands</source>
@@ -3819,11 +3819,11 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Programos kintamieji</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Apėjimo būdai</translation>
     </message>
     <message>
         <source>Native libraries</source>
