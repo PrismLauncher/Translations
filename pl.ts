@@ -11258,12 +11258,13 @@ Wybierz ostrożnie swoją nazwę:</translation>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="269"/>
         <source>Network Error: %1
 HTTP Status: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd Sieci: %1
+Status HTTP: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="281"/>
         <source>The server responded with the following error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serwer odpowiedział następującym błędem:</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
