@@ -12846,7 +12846,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="368"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation>Skin billeder skal være 64x64 eller 64x32 pixel PNG filer.</translation>
+        <translation>Skin-billeder skal være 64x64 eller 64x32 pixel PNG-filer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="369"/>
@@ -13787,32 +13787,32 @@ Skift venligst til én af følgende Java-versioner for denne instans:</translati
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
         <source>Open .minecraft</source>
-        <translation>Åben .minecraft</translation>
+        <translation>Åbn .minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="227"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation>Åbn instance&apos;s .minecraft mappe.</translation>
+        <translation>Åbn instansens .minecraft-mappe.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
         <source>Open libraries</source>
-        <translation>Åben biblioteker</translation>
+        <translation>Åbn biblioteker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation>Åbn instance&apos;s lokale biblioteks mappe.</translation>
+        <translation>Åbn instansens lokale biblioteksmappe.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
         <source>Import Components</source>
-        <translation>Importer Komponenter</translation>
+        <translation>Importér komponenter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="243"/>
         <source>Import existing component JSON files.</source>
-        <translation>Importer eksisterende komponent JSON filer.</translation>
+        <translation>Importér eksisterende komponent JSON-filer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="192"/>
@@ -13867,7 +13867,7 @@ This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
         <translation>Du er ved at fjerne &quot;%1&quot;.
-Dette er permanent og vil helt fjerne den brugerdefinerede komponent.
+Dette er permanent og vil fjerne den brugerdefinerede komponent helt.
 
 Er du sikker?</translation>
     </message>
@@ -13879,22 +13879,22 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
         <source>Select jar mods</source>
-        <translation>Vælg jar mods</translation>
+        <translation>Vælg jar-mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
         <source>Minecraft.jar mods</source>
-        <translation>Minecraft.jar mods</translation>
+        <translation>Minecraft.jar-mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="315"/>
         <source>Minecraft.jar replacement</source>
-        <translation>Minecraft.jar udskiftning</translation>
+        <translation>Minecraft.jar-udskiftning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="340"/>
         <source>Java agents</source>
-        <translation>Java agents</translation>
+        <translation>Java-agenter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="315"/>
@@ -13924,7 +13924,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="340"/>
         <source>Select agents</source>
-        <translation>Vælg agents</translation>
+        <translation>Vælg agenter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
@@ -13934,7 +13934,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
         <source>No intermediary mappings versions are currently available.</source>
-        <translation>Ingen mellemliggende mappings versioner er i øjeblikket tilgængelige.</translation>
+        <translation>Ingen mellemliggende mappingsversioner er tilgængelige.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="400"/>
@@ -13969,7 +13969,7 @@ Tilføj venligst en Microsoft konto.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="510"/>
         <source>Error updating instance</source>
-        <translation>Fejl under opdatering af instance</translation>
+        <translation>Fejl under opdatering af instans</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="570"/>
