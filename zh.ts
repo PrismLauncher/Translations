@@ -11193,17 +11193,17 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="269"/>
         <source>Network Error: %1
 HTTP Status: %2</source>
-        <translation>网络错误: %1
-HTTP状态码: %2</translation>
+        <translation>网络错误：%1
+HTTP 状态码：%2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="281"/>
         <source>The server responded with the following error:</source>
-        <translation>服务器返回了以下错误:</translation>
+        <translation>服务器响应了以下错误：</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation>服务器返回以下错误：</translation>
+        <translation>服务器返回了以下错误：</translation>
     </message>
 </context>
 <context>
