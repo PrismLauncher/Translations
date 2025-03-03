@@ -11207,7 +11207,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="281"/>
         <source>The server responded with the following error:</source>
-        <translation type="unfinished"></translation>
+        <translation>El servidor respondió con el siguiente error:</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
