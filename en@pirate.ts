@@ -2129,7 +2129,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="231"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not fix permissions fer %1</translation>
     </message>
 </context>
 <context>
