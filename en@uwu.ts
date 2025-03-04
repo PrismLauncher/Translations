@@ -3812,7 +3812,7 @@ Weason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="386"/>
         <source>&amp;Edit...</source>
-        <translation>&amp;Edit...</translation>
+        <translation>&amp;E-Edit...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="401"/>
@@ -4100,7 +4100,7 @@ Weason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation>&amp;Edit</translation>
+        <translation>&amp;E-Edit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="447"/>
@@ -5756,7 +5756,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
         <source>&amp;Copy</source>
-        <translation>&amp;Copy</translation>
+        <translation>&amp;Cowopy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="74"/>
@@ -7290,7 +7290,7 @@ Awe u sure??</translation>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
         <source>Copy Image</source>
-        <translation>Copy Image</translation>
+        <translation>Cowopy I-Image</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
@@ -8098,7 +8098,7 @@ Pwease switch to onye o-of the fowwowing Java vewsions fow this instance:</trans
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="161"/>
         <source>Edit</source>
-        <translation>Edit</translation>
+        <translation>E-Edit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="164"/>
@@ -8664,7 +8664,7 @@ Awe u sure??</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="107"/>
         <source>Copy</source>
-        <translation>Copy</translation>
+        <translation>Cowopy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="112"/>
