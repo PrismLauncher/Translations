@@ -11181,12 +11181,13 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="269"/>
         <source>Network Error: %1
 HTTP Status: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>網路錯誤：%1
+HTTP 狀態碼：%2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="281"/>
         <source>The server responded with the following error:</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器回應了以下錯誤：</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
