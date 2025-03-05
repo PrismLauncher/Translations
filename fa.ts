@@ -2699,7 +2699,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="44"/>
         <source>FTB App Import</source>
-        <translation type="unfinished"></translation>
+        <translation>وارد کردن برنامه FTB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
@@ -3590,7 +3590,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="150"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>نصب بارگذار</translation>
     </message>
 </context>
 <context>
@@ -3648,7 +3648,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="31"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>خطا در هنگام ساخت نمونه جدید.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="44"/>
