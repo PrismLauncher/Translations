@@ -868,7 +868,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">دایرکتوری tmp/ شما در حال حاضر با پرچم &quot;noexec&quot; نصب شده است.
+برخی از نسخه های Minecraft ممکن است راه اندازی نشوند.
+
+شما میتوانید این مشکل را با نصب مجدد tmp/ به عنوان &quot;exec&quot; یا قرار دادن پارامتر java.io.tmpdir JVM برای یک دایرکتوری قابل ویرایش در یک سیستم فایل که در آن پرچم &quot;exec&quot; تنظیم شده است، حل کنید. (به طور مثال، home/user/.local/tmp/)
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -8835,7 +8839,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="266"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
-        <translation type="unfinished"></translation>
+        <translation>فایل &apos;%1&apos; لینک دانلود ندارد. ساختار پک نامعتبر است.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="296"/>
