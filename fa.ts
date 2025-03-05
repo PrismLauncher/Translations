@@ -3662,7 +3662,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="60"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>شکست در حذف فایل‌های ناسازگار قبلی.</translation>
     </message>
 </context>
 <context>
