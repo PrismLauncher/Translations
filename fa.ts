@@ -3653,7 +3653,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="44"/>
         <source>Removing old conflicting files...</source>
-        <translation>درحال حذف کردن فایل‌های ناسازگار...</translation>
+        <translation>درحال حذف کردن فایل‌های ناسازگار قبلی...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="60"/>
