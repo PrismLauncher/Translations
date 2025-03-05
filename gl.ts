@@ -2290,19 +2290,19 @@ Algunhas versións de Minecraft pode que non se executen.
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="unfinished">Activar elemento seleccionado</translation>
+        <translation>Habilitar elemento seleccionado</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished">Desactivar elemento seleccionado</translation>
+        <translation>Deshabilitar elemento seleccionado</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="unfinished">Descargar un novo recurso</translation>
+        <translation>Descargar un novo recurso</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished">Visitar a páxina da modificación</translation>
+        <translation>Visitar a páxina da modificación</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2323,7 +2323,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Eliminar</translation>
+        <translation>&amp;Eliminar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -2404,7 +2404,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
         <source>Verify Dependencies</source>
-        <translation type="unfinished">Verificar Dependencias</translation>
+        <translation>Verificar dependencias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="198"/>
@@ -2429,7 +2429,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>View Homepage</source>
-        <translation type="unfinished">Ver a Páxina Principal</translation>
+        <translation>Ver a páxina principal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
@@ -2458,7 +2458,9 @@ Algunhas versións de Minecraft pode que non se executen.
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">Estás a piques de eliminar %1 elementos.</translation>
+        <translation>Estás a piques de eliminar %1 elementos.
+Isto será permanente e retiraranse do cartafol.
+Estás seguro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="251"/>
@@ -2695,12 +2697,12 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="145"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por nome</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="146"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Amañar por versión do xogo</translation>
+        <translation>Ordenar por versión do xogo</translation>
     </message>
 </context>
 <context>
@@ -2713,13 +2715,13 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Buscar e filtrar...</translation>
+        <translation>Buscar e filtrar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar o directorio para as instancias de FTBApp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
@@ -2733,7 +2735,7 @@ Por favor volvao a intentar.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="114"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="130"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2741,12 +2743,12 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiando ficheiros...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiando configuracións...</translation>
     </message>
 </context>
 <context>
@@ -2760,7 +2762,7 @@ Por favor volvao a intentar.</translation>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="128"/>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="148"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Devolvéronse datos inválidos dende a API.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="257"/>
@@ -2778,18 +2780,18 @@ Por favor volvao a intentar.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Preparando recursos para CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Conseguindo a resposta da API de CurseForge para &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Analizando a resposta da API de CurseForge para &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
