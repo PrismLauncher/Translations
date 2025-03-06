@@ -4273,7 +4273,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="289"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="320"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">نصب جاوا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"/>
@@ -4540,7 +4540,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="58"/>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">دانلود جاوا</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
@@ -4749,7 +4749,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">دانلود جاوا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
@@ -7572,7 +7572,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مسیر کتابخانه ‫‪&amp;GLFW</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
@@ -7862,7 +7862,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="382"/>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مسیر کتابخانه ‫‪&amp;GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="392"/>
@@ -7947,7 +7947,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="580"/>
         <source>Singleplayer world</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">جهان تک نفره</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="611"/>
@@ -8670,7 +8670,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">نصب نشده</translation>
     </message>
     <message>
         <source>New version: %1</source>
@@ -8761,7 +8761,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="143"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">نصب نشده</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="145"/>
@@ -8771,12 +8771,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">هیچ نسخه معتبری برای این منبع پیدا نشد. احتمالا برای نسخه فعلی بازی یا ماد لودر در دسترس نیست.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">هیچ نسخه معتبری برای این منبع پیدا نشد. احتمالا برای نسخه فعلی بازی یا ماد لودر در دسترس نیست.</translation>
     </message>
     <message>
         <source>Preparing mods for Modrinth...</source>
@@ -11743,7 +11743,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="237"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">نصب نشده</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="273"/>
@@ -13666,7 +13666,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">نصب بارگذار</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
@@ -14046,7 +14046,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تأیید</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
