@@ -11188,12 +11188,13 @@ Réfléchissez et choisissez votre nom d&apos;utilisateur&#xa0;:</translation>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="269"/>
         <source>Network Error: %1
 HTTP Status: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur réseau&#xa0;: %1
+Status HTTP&#xa0;: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="281"/>
         <source>The server responded with the following error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Le serveur a répondu avec l&apos;erreur suivante&#xa0;:</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
