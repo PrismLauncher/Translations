@@ -5161,7 +5161,7 @@ Verzi Javy můžete později změnit v nastavení.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
         <source>Select the language to use in %1</source>
-        <translation>Vyberte jezyk pro použití v %1</translation>
+        <translation>Vyberte jazyk pro použití v %1</translation>
     </message>
 </context>
 <context>
