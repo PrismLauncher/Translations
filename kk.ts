@@ -34,12 +34,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished">&amp;Microsoft Сәйкестендіруі</translation>
+        <translation>&amp;Microsoft Анықтануы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Ескертпе: Microsoft Authentication арқылы жүйеге кіру әлдеқашан жұмыс істеп тұрса, мұны орнатудың қажеті жоқ шығар.</translation>
+        <translation>Ескертпе: Microsoft Authentication арқылы жүйеге кіру әлдеқашан жұмыс істеп тұрса, мұны орнатудың қажеті жоқ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
