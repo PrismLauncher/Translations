@@ -7834,7 +7834,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="204"/>
         <source>&amp;Console</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Console</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="216"/>
@@ -7854,7 +7854,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="240"/>
         <source>&amp;Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Miscellaneous</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="252"/>
@@ -7879,7 +7879,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="335"/>
         <source>&amp;Legacy Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Legacy Tweaks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="347"/>
@@ -7894,7 +7894,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="363"/>
         <source>&amp;Native Libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Native Libraries</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
@@ -7919,7 +7919,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="429"/>
         <source>&amp;Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Performance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="441"/>
@@ -7969,7 +7969,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="523"/>
         <source>Override default &amp;account</source>
-        <translation type="unfinished"></translation>
+        <translation>Override default &amp;account</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
@@ -7979,7 +7979,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="558"/>
         <source>Set a &amp;target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Set a &amp;target to join on launch</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="570"/>
@@ -8004,17 +8004,17 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="65"/>
         <source>Show time &amp;playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Show time &amp;playing this instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="66"/>
         <source>&amp;Record time playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Record time playing this instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="71"/>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="113"/>
@@ -10417,12 +10417,13 @@ Choose your name carefully:</translation>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="269"/>
         <source>Network Error: %1
 HTTP Status: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Network Error: %1
+HTTP Status: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="281"/>
         <source>The server responded with the following error:</source>
-        <translation type="unfinished"></translation>
+        <translation>The server responded with the following error:</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
@@ -10703,17 +10704,17 @@ Please let us know why and how this happened.</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Components file %1 doesn&apos;t exist. This should never happen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t open %1 for reading: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t parse %1 as json: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
@@ -10723,7 +10724,7 @@ Please let us know why and how this happened.</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t parse %1 : bad file format</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="377"/>
@@ -10825,7 +10826,7 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="105"/>
         <source>Confirm Truncation</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirm Truncation</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="106"/>
@@ -10835,7 +10836,12 @@ The launcher can keep the first %3 and last %4 lines, trimming the middle.
 If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
 
 Proceed with truncation?</source>
-        <translation type="unfinished"></translation>
+        <translation>The log has %1 lines, exceeding mclo.gs&apos; limit of %2.
+The launcher can keep the first %3 and last %4 lines, trimming the middle.
+
+If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
+
+Proceed with truncation?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="135"/>
