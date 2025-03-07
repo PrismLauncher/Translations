@@ -13364,7 +13364,7 @@ Emin misin?</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation>Gölgelendiricileri indir</translation>
+        <translation>Shader indir</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
