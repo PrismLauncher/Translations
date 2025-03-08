@@ -5274,7 +5274,7 @@ Você pode mudar a versão do Java nas configurações posteriormente.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>Essa conta não é possui Minecraft.
+        <translation>Essa conta não possui Minecraft.
 Você precisa comprar o jogo antes de poder jogá-lo.
 
 Você gostaria de jogar o demo?</translation>
