@@ -61,7 +61,7 @@
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: Só precisas de configurar isto para acessar a dados privados. Lê &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentação&lt;/a&gt; para obteres mais informações.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: só precisas de definir isto para acederes a dados privados. Lê a &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentação&lt;/a&gt; para mais informações.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
@@ -82,7 +82,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: você só precisa definir isso para acessar dados privados.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: só precisas de definir isto para acederes a dados privados.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
@@ -865,10 +865,10 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation>Seu diretório /tmp está atualmente montado com o sinalizador &apos;noexec&apos; habilitado.
+        <translation>O teu diretório /tmp está atualmente montado com a flag &apos;noexec&apos; activada.
 Algumas versões do Minecraft podem não iniciar.
 
-Você pode resolver esse problema remontando /tmp como &apos;exec&apos; ou definindo o argumento java.io.tmpdir JVM para um diretório gravável em um sistema de arquivos onde o sinalizador &apos;exec&apos; está definido (por exemplo, /home/user/.local/tmp)
+Podes resolver este problema remontando /tmp como &apos;exec&apos; ou definindo o argumento JVM java.io.tmpdir para um diretório gravável num sistema de ficheiros onde a flag &apos;exec&apos; está definida (por exemplo, /home/user/.local/tmp)
 </translation>
     </message>
     <message>
@@ -2378,7 +2378,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>Add a locally downloaded file.</source>
-        <translation>Adicionar um arquivo baixado localmente.</translation>
+        <translation>Adicionar um ficheiro transferido localmente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -2418,7 +2418,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Download resources from online mod platforms.</source>
-        <translation>Baixar os recursos das plataformas de mod online.</translation>
+        <translation>Transferir recursos de plataformas de mods online.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="174"/>
@@ -2554,8 +2554,8 @@ Tens a certeza?</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="273"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Remover esse recurso enquanto o jogo está aberto aberto pode fazer com que ele crashe
-Você tem certeza que quer fazer isso?</translation>
+        <translation>Se removeres este recurso enquanto o jogo está a correr, o jogo pode crashar.
+Tens a certeza de que queres fazer isto?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="293"/>
@@ -2566,8 +2566,8 @@ Você tem certeza que quer fazer isso?</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="294"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Se você remover este recurso enquanto o jogo estiver em execução, pode causar a interrupção do jogo.
-Você tem certeza de que deseja fazer isso?</translation>
+        <translation>Se desativares este recurso enquanto o jogo está a correr, o jogo pode crashar.
+Tens a certeza de que queres fazer isto?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="359"/>
@@ -2881,7 +2881,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="158"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation>O recurso tem uma nova atualização disponível, mas não pode ser baixada usando CurseForge.</translation>
+        <translation>O recurso tem uma nova atualização disponível, mas não pode ser transferido através do CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="174"/>
@@ -3943,7 +3943,7 @@ Por favor tenta de novo.</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Baixar o Java</translation>
+        <translation>Transferir o Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
@@ -4363,7 +4363,7 @@ Por favor, tenha certeza que o valor máximo de Memória é menor.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="214"/>
         <source>Download</source>
-        <translation>Baixar</translation>
+        <translation>Transferir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="215"/>
@@ -4507,11 +4507,11 @@ Por favor, tenha certeza que o valor máximo de Memória é menor.</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation>Baixa e seleciona automaticamente a versão Java recomendada pela Mojang.</translation>
+        <translation>Transfere e seleciona automaticamente a versão do Java recomendada pela Mojang.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Auto-Baixar Java da Mojang</translation>
+        <translation>Transferir automaticamente o Java da Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="68"/>
@@ -4521,12 +4521,12 @@ Por favor, tenha certeza que o valor máximo de Memória é menor.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="74"/>
         <source>Downloaded Java Versions</source>
-        <translation>Versões baixadas do Java</translation>
+        <translation>Versões do Java transferidas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="92"/>
         <source>Download</source>
-        <translation>Baixar</translation>
+        <translation>Transferir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="99"/>
@@ -4589,7 +4589,7 @@ Por favor, tenha certeza que o valor máximo de Memória é menor.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished">Não foi possível baixar a lista do Java Gerenciado!</translation>
+        <translation>Não foi possível carregar a lista Java gerida!</translation>
     </message>
     <message>
         <source>Select a Java version</source>
@@ -4632,8 +4632,8 @@ Por favor, tenha certeza que o valor máximo de Memória é menor.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="113"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation>Você está prestes a remover a instalação do Java chamada &quot;%1&quot;.
-Tem certeza?</translation>
+        <translation>Estás prestes a remover a instalação Java com o nome “%1”.
+Tens a certeza?</translation>
     </message>
 </context>
 <context>
@@ -4659,7 +4659,7 @@ Podes alterar mais tarde a versão do Java nas definições.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="58"/>
         <source>Download Java</source>
-        <translation>Baixar o Java</translation>
+        <translation>Transferir o Java</translation>
     </message>
     <message>
         <source>Automatic Java Download</source>
@@ -4698,11 +4698,11 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Você pode ter selecionado algo que não é uma versão do Java ou uma que não funciona.
-%1 não vai poder arrancar o Minecraft.
-Deseja proceder sem uma versão funcional do Java?
+        <translation>Ou não seleccionaste uma versão do Java ou seleccionaste uma que não funciona.
+%1 não conseguirá iniciar o Minecraft.
+Queres continuar sem uma versão funcional do Java?
 
-Podes trocar a versão do Java futuramente no Gerenciamento
+Podes alterar a versão do Java nas definições mais tarde.
 </translation>
     </message>
     <message>
@@ -4727,12 +4727,12 @@ Podes trocar a versão do Java futuramente no Gerenciamento
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
         <source>Java Insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalação do Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
@@ -4816,7 +4816,7 @@ Podes trocar a versão do Java futuramente no Gerenciamento
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Auto-baixar o Java da Mojang</translation>
+        <translation>Transferir automaticamente o Java da Mojang</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
@@ -4890,7 +4890,7 @@ Por favor seleciona um destes ou procura por um executável do Java.</translatio
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation type="unfinished">Baixar o Java</translation>
+        <translation>Transferir o Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
@@ -4925,11 +4925,11 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Você pode ter selecionado algo que não é uma versão do Java ou uma que não funciona.
-%1 não vai poder arrancar o Minecraft.
-Deseja proceder sem uma versão funcional do Java?
+        <translation>Ou não seleccionaste uma versão do Java ou seleccionaste uma que não funciona.
+%1 não conseguirá iniciar o Minecraft.
+Queres continuar sem uma versão funcional do Java?
 
-Podes trocar a versão do Java futuramente no Gerenciamento
+Podes alterar a versão do Java nas definições mais tarde.
 </translation>
     </message>
     <message>
@@ -8889,8 +8889,8 @@ Tem certeza?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Se você remover as modificações enquanto está com o jogo aberto, ele poderá crashar.
-Tem certeza que quer fazer isto?</translation>
+        <translation>Se removeres mods enquanto o jogo está a correr, o jogo pode crashar.
+Tens a certeza de que queres fazer isto?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="224"/>
@@ -10130,7 +10130,7 @@ Razão: %1.</translation>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
         <source>You are running the latest version.</source>
-        <translation>Você está executando a versão mais recente.</translation>
+        <translation>Estás a utilizar a versão mais recente.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
@@ -10385,7 +10385,7 @@ O atualizador não pode continuar até que este problema seja resolvido.</transl
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="896"/>
         <source>Failed to Download</source>
-        <translation>Falha ao Baixar</translation>
+        <translation>Falha na transferência</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="896"/>
@@ -10906,12 +10906,12 @@ The launcher can keep the first %3 and last %4 lines, trimming the middle.
 If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
 
 Proceed with truncation?</source>
-        <translation>O log tem %1 linhas, ultrapassando o limite de %2 do mclo.gs.
+        <translation>O registo tem %1 linhas, excedendo o limite de %2 do mclo.gs.
 O launcher pode manter as primeiras %3 e as últimas %4 linhas, cortando o meio.
 
-Se você escolher &apos;Não&apos;, o mclo.gs manterá apenas as primeiras %2 linhas, cortando informações potencialmente úteis, como falhas no final.
+Se escolheres “Não”, o mclo.gs apenas manterá as primeiras %2 linhas, cortando informação potencialmente útil como crashs no fim.
 
-Deseja continuar com o corte?</translation>
+Prosseguir com o truncamento?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="135"/>
@@ -11604,8 +11604,8 @@ NOTA: Tem a certeza de que fazes um backup dos dados importantes da tua instânc
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="97"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation>Você selecionou %1 recursos.
-Tem certeza de que deseja fechar este diálogo?</translation>
+        <translation>Tens %1 recursos selecionados.
+De certeza que queres fechar esta caixa de diálogo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="131"/>
@@ -11615,7 +11615,7 @@ Tem certeza de que deseja fechar este diálogo?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="143"/>
         <source>Confirm %1 to download</source>
-        <translation>Confirma %1 para baixar</translation>
+        <translation>Confirma %1 para transferir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
@@ -11651,7 +11651,7 @@ Tem certeza de que deseja fechar este diálogo?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="61"/>
         <source>Download %1</source>
-        <translation>Baixando %1</translation>
+        <translation>Transferir %1</translation>
     </message>
 </context>
 <context>
@@ -11958,8 +11958,8 @@ Aviso: Este recurso tem um link forte com outro lugar. Editá-lo também irá al
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="537"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Se você habilitar/desabilitar este recurso enquanto o jogo estiver em execução, ele poderá travar seu jogo.
-Tem certeza de que deseja fazer isso?</translation>
+        <translation>Se ativares/desativares este recurso enquanto o jogo está a correr, o jogo pode crashar.
+Tens a certeza de que queres fazer isto?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="569"/>
@@ -13219,8 +13219,8 @@ Tens a certeza?</translation>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="342"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
-        <translation>Você está prestes a apagar &quot;%1&quot;.
-Tem certeza?</translation>
+        <translation>Estás prestes a apagar “%1”.
+Tens a certeza?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="359"/>
@@ -13245,7 +13245,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="374"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
-        <translation>Não foi possível baixar a skin: &apos;%1&apos;.</translation>
+        <translation>Não foi possível transferir a skin: &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="420"/>
@@ -13265,7 +13265,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="449"/>
         <source>failed to download skin</source>
-        <translation>falha ao baixar skin</translation>
+        <translation>não foi possível transferir a skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="459"/>
@@ -13990,7 +13990,7 @@ Tens a certeza?</translation>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="43"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
-        <translation>A versão %1 já está disponível - você tem %2 . Gostaria de baixá-la agora?</translation>
+        <translation>A versão %1 já está disponível - estás na %2 . Gostavas de a transferir agora?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
@@ -14605,8 +14605,8 @@ Tens a certeza de que queres prosseguir?</translation>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation>Impossível baixar o Minecraft ou atualizar instâncias a menos que tenhas pelo menos uma conta adicionada.
-Por favor adiciona a sua conta da Microsoft.</translation>
+        <translation>Não é possível transferir o Minecraft ou atualizar instâncias se não tiveres pelo menos uma conta adicionada.
+Adiciona uma conta Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="570"/>
