@@ -2867,12 +2867,12 @@ Please try again.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="128"/>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="148"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="150"/>
         <source>Invalid data returned from the API.</source>
         <translation>Invalid data returned from the API.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="257"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="259"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Parsing API response from CurseForge for &apos;%1&apos;…</translation>
     </message>

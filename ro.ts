@@ -2794,12 +2794,12 @@ Vă rugăm să încercați din nou.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="128"/>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="148"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="150"/>
         <source>Invalid data returned from the API.</source>
         <translation>API-ul a returnat date invalide.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="257"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="259"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation type="unfinished">Analizăm răspunsul API de la CurseForge pentru &apos;%1&apos;...</translation>
     </message>
