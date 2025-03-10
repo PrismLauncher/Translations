@@ -6246,7 +6246,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="502"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1586"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Búa til flýtileið</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="505"/>
