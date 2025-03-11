@@ -5369,7 +5369,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="472"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation>이로 인해 인스턴스가 손상될 수 있으므로 마인크래프트가 어떤 이유로 응답하지 않는 경우에만 사용하여야 함</translation>
+        <translation>이로 인해 인스턴스가 손상될 수 있습니다. 마인크래프트가 어떤 이유로 응답하지 않는 경우에만 사용하여야 합니다.</translation>
     </message>
 </context>
 <context>
