@@ -5558,7 +5558,7 @@ Luvan myöntäminen %1:lle Flatseal:illa on suositeltua.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="362"/>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation>[Test/FATAL] Järkyttävä virhe!</translation>
+        <translation>[Test/FATAL] Kauhistuttava vakava virhe!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -10328,12 +10328,13 @@ Valitse käyttäjänimi huolellisesti:</translation>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="269"/>
         <source>Network Error: %1
 HTTP Status: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkkovirhe: %1
+HTTP-tilakoodi: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="281"/>
         <source>The server responded with the following error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Palvelin vastasi seuraavalla virheilmoituksella:</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
