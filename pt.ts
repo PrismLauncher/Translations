@@ -8332,7 +8332,7 @@ Ele somente poderá ser atualizado usando um arquivo no formato %1
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="189"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="196"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished"></translation>
+        <translation>Caminho para %1 biblioteca</translation>
     </message>
 </context>
 <context>
@@ -8726,7 +8726,7 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="105"/>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
-        <translation type="unfinished">Redefinir metadados de atualização</translation>
+        <translation>Exportar metadados do mod para texto.</translation>
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
@@ -10666,12 +10666,13 @@ Escolhe o teu nome com cuidado:</translation>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="269"/>
         <source>Network Error: %1
 HTTP Status: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro de Internet: %1
+Estado HTTP: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="281"/>
         <source>The server responded with the following error:</source>
-        <translation type="unfinished"></translation>
+        <translation>O servidor respondeu com o seguinte erro:</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
@@ -11985,7 +11986,7 @@ Tens a certeza de que queres fazer isto?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="575"/>
         <source>The source provider of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>O provedor fonte do recurso.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
@@ -12061,7 +12062,7 @@ Aviso: Este recurso tem um link forte em outro lado. Editá-lo também irá edit
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="171"/>
         <source>The source provider of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>O provedor fonte deste pacote de recursos.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="173"/>
@@ -12197,7 +12198,7 @@ Tens a certeza que queres fazer isso?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="151"/>
         <source>The resource pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>O atualizador de pacotes de recurso foi abortado!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="155"/>
@@ -12217,7 +12218,7 @@ Tens a certeza que queres fazer isso?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="163"/>
         <source>Update checker</source>
-        <translation type="unfinished">Verificar Atualizações</translation>
+        <translation>Verificador de atualizações</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="204"/>
@@ -12337,7 +12338,7 @@ Tens a certeza?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="184"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível verificar ou pegar os seguintes recursos para atualizar:&lt;br&gt;Deseja prosseguir sem esses recursos?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="217"/>
@@ -12978,7 +12979,7 @@ Tens a certeza que queres fazer isso?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="148"/>
         <source>The shader pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>O atualizador de shader packs foi abortado!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="152"/>
