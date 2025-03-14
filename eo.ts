@@ -77,7 +77,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Teknika Klienta ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
@@ -865,12 +865,16 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Via /tmp dosierujo estas nuntempe muntita kun la &apos;noexec&apos; flago ebligita.
+Iuj versioj de Minecraft eble ne lanĉiĝos.
+
+Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agordante la java.io.tmpdir JVM argumenton al skribebla dosierujo en dosiersistemo kie la &apos;exec&apos; flago estas agordita (ekz. /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1063"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Nekongrua sistemkonfiguracio</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1437"/>
@@ -1083,7 +1087,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Atendante...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="96"/>
@@ -1136,47 +1140,47 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>La aŭtomata Java-mekanismo detektis 32-bitan instalon de Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neniu kongrua Java-versio estis trovita. Uzante la defaŭltan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Via sistemo (%1-%2) ne estas kongrua kun aŭtomata Java-instalo. Uzante la defaŭltan Java-vojon.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Viaj metadatenoj estas malaktualaj aŭ ne enhavas la necesajn informojn por determini kiu Java-instalo devus esti uzata. Uzante la defaŭltan Java-vojon.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kongrua Java trovita ĉe: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neniu kongrua Java-versio estis trovita (la binara dosiero ne ekzistas). Uzante la defaŭltan unu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne eblis determini la tipon de Java-elsendado!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Instali Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Neniuj versioj de Java estis trovitaj por via operaciumo: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
@@ -3700,7 +3704,7 @@ Bonvolu reprovi.</translation>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished">Montri la konzolon dum la ludo?</translation>
+        <translation>Montri konsolon dum la ludo funkcias</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
@@ -5162,7 +5166,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="unfinished">Montri la konzolon dum la ludo?</translation>
+        <translation type="unfinished">Montru konzolon dum la ludo &amp;funkcias</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
