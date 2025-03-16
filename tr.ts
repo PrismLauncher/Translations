@@ -4873,7 +4873,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="91"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation>Etkinleştirilirse; başlatıcı, başlangıçta bulunmazsa bir Java sürümü seçmenizi istemeyecek</translation>
+        <translation type="unfinished">Eğer etkinleştirilirse Prism Launcher, (başlangıçta bulunmadığı halde) bir Java sürümü seçmenizi istemeyecek.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="94"/>
@@ -4883,17 +4883,17 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="101"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">Eğer açılırsa, başlatıcı bir oturumun seçili Java sürümüyle uyumlu olup olmadığına bakmaz.</translation>
+        <translation>Eğer açılırsa, Prism Launcher bir oturumun seçili Java sürümüyle uyumlu olup olmadığına bakmaz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="104"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished">Java uyumluluk kontrolünü geç</translation>
+        <translation>Java uyumluluk kontrollerini geç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="117"/>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">Hafız&amp;a</translation>
+        <translation>Hafıza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="129"/>
@@ -4903,7 +4903,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="165"/>
         <source>Maximum memory allocation:</source>
-        <translation>En yüksek hafıza paylaşımı:</translation>
+        <translation>En yüksek hafıza ataması:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="207"/>
@@ -4913,17 +4913,17 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="235"/>
         <source>Java Argumen&amp;ts</source>
-        <translation>Java Argüman&amp;ları</translation>
+        <translation>Java Argümanları</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Yüklü Java class&apos;larını tutmaya müsait olan hafıza miktarı.</translation>
+        <translation>Yüklü Java class&apos;ları için ayrılan hafıza miktarı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="47"/>
         <source>Browse</source>
-        <translation>Göz At</translation>
+        <translation>Gözat</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
@@ -4940,31 +4940,31 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
         <source>Select a Java version</source>
-        <translation type="unfinished">Bir Java sürümü seç</translation>
+        <translation>Bir Java sürümü seç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished">Seçimi Onayla</translation>
+        <translation>Seçimi Onayla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="278"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">32-bitlik bir Java sürümü seçtiniz.
+        <translation>32-bitlik bir Java sürümü seçtiniz.
 Bu yükleme 2048MiB&apos;den daha fazla RAM&apos;ı desteklemez.
 Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="296"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Seçtiğiniz maksimum bellek sınırı, sisteminizin maksimum bellek kapasitesini aşıyor.</translation>
+        <translation>Seçtiğiniz maksimum bellek ataması, sisteminizin maksimum bellek kapasitesini aşıyor.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="299"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Seçtiğiniz maksimum bellek sınırı, sisteminizin maksimum bellek kapasitesine yaklaşıyor.</translation>
+        <translation>Seçtiğiniz maksimum bellek ataması, sisteminizin maksimum bellek kapasitesine yaklaşıyor.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
@@ -4973,7 +4973,7 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>32-bit Java yüklemeri tarafından desteklenin azami ayırma miktarını aşıyorsunuz.</translation>
+        <translation>32-bit Java yüklemeri tarafından desteklenen maksimum bellek atama miktarını aşıyorsunuz.</translation>
     </message>
 </context>
 <context>
@@ -5003,12 +5003,12 @@ Lütfen aşağıdakilerden birini seçin veya bir Java programı için göz atı
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation type="unfinished">Java İndir</translation>
+        <translation>Java İndir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished">32-bit Java algılandı</translation>
+        <translation>32-bit Java algılandı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
@@ -5018,7 +5018,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">32-bit Java yüklemesini seçtiniz, ama 2048MiB&apos;den daha fazla azami bellek ayırdınız.
+        <translation>32-bit Java yüklemesini seçtiniz, ama 2048MiB&apos;den daha fazla azami bellek ayırdınız.
 %1 Minecraft&apos;ı başlatamayacak.
 Devam etmek istiyor musunuz?
 
@@ -5028,7 +5028,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
         <source>No Java version selected</source>
-        <translation type="unfinished">Herhangi bir Java sürümü seçilmedi</translation>
+        <translation>Herhangi bir Java sürümü seçilmedi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
@@ -5038,7 +5038,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Ya bir Java sürümü seçmediniz ya da çalışmayan bir sürüm seçtiniz.
+        <translation>Ya bir Java sürümü seçmediniz ya da çalışmayan bir sürüm seçtiniz.
 %1 Minecraft&apos;ı başlatamayacak.
 İşlevsel bir Java sürümü olmadan devam etmek istiyor musunuz?
 
@@ -5053,22 +5053,22 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>Memory</source>
-        <translation type="unfinished">Hafıza</translation>
+        <translation>Hafıza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">Minecraft&apos;ın kullanabileceği en yüksek hafıza miktarı.</translation>
+        <translation>Minecraft&apos;ın kullanabileceği en yüksek hafıza miktarı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">En düşük hafıza paylaşımı:</translation>
+        <translation>En düşük hafıza paylaşımı:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">En yüksek hafıza paylaşımı:</translation>
+        <translation>En yüksek hafıza paylaşımı:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
@@ -5191,17 +5191,17 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="311"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher&apos;ın kullanıcı kimliği değişti. Lütfen &apos;%1&apos; ifadesini kaldırıp yeniden deneyin.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="321"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Artık &apos;%1&apos; sunucularda bulunmuyor. Entegre edilmiş olabilir, eğer öyleyse lütfen buna entegre edilmiş hesabınızı ekleyin.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="338"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; zaman aşımına uğradı ve yeniden doğrulanması gerek. Bu hesabı yeniden doğrulamak ister misiniz?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -8357,7 +8357,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="98"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Uyarı&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Tam Ekran özelliği tüm Minecraft versiyonları için desteklenmiyor olabilir.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="107"/>
