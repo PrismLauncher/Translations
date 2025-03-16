@@ -5189,16 +5189,31 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
         <translation>Başlatmak için hiçbir profil seçilmedi.</translation>
     </message>
     <message>
+        <location filename="src/launcher/LaunchController.cpp" line="311"/>
+        <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="321"/>
+        <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="338"/>
+        <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
         <translation type="vanished">Hesabınızla şu an giriş yapılmamış. Lütfen giriş yapmak için parolanızı tekrar girin.&lt;br /&gt; &lt;br /&gt;Bu parola değişikliğinden kaynaklı olabilir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="209"/>
+        <location filename="src/launcher/LaunchController.cpp" line="208"/>
         <source>Continue launch?</source>
         <translation>Başlatmaya devam et?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="210"/>
+        <location filename="src/launcher/LaunchController.cpp" line="209"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Görünüşe göre %1 denemeden sonra başlatamadık. Denemeye devam etmek ister misiniz?</translation>
     </message>
@@ -5218,7 +5233,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
         <translation>Demo modu oyuncu ismi seç.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="259"/>
+        <location filename="src/launcher/LaunchController.cpp" line="277"/>
         <source>Received undetermined session status during login.</source>
         <translation>Giriş sırasında belirsiz oturum durumu görüldü.</translation>
     </message>
@@ -5249,12 +5264,12 @@ Deneme sürümünü oynamak ister misiniz?</translation>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="274"/>
+        <location filename="src/launcher/LaunchController.cpp" line="244"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Başlatma iptal edildi - hesapta Minecraft mevcut değil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="289"/>
+        <location filename="src/launcher/LaunchController.cpp" line="299"/>
         <source>Play Offline</source>
         <translation>Çevrım Dışı Oyna</translation>
     </message>
@@ -5263,74 +5278,70 @@ Deneme sürümünü oynamak ister misiniz?</translation>
         <translation>Hesabın süresi geçmiş ve yeniden elle giriş yapılması gerekiyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="324"/>
+        <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <source>Account refresh failed</source>
         <translation>Hesap yenilemesi başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="301"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation>Başlatıcının istemci tanılaması değişti. Lütfen bu hesabı kaldırıp yeniden ekleyin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="302"/>
+        <location filename="src/launcher/LaunchController.cpp" line="314"/>
         <source>Client identification changed</source>
         <translation>İstemci tanılama değişti</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="309"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>Bu hesap artık sunucularda yok. Belki taşınmış olabilir. Böyle bir durumda lütfen taşımış olduğunuz hesabın bilgileriyle yeni hesap ekleyin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="311"/>
+        <location filename="src/launcher/LaunchController.cpp" line="324"/>
         <source>Account gone</source>
         <translation>Hesap yok</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="318"/>
+        <location filename="src/launcher/LaunchController.cpp" line="331"/>
         <source>Failed to launch.</source>
         <translation>Başlatılamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>Hesabın süresi doldu ve yeniden kimlik doğrulaması yapılması gerekiyor. Bu hesabın kimliğini yeniden doğrulamak istiyor musunuz?</translation>
+        <translation type="vanished">Hesabın süresi doldu ve yeniden kimlik doğrulaması yapılması gerekiyor. Bu hesabın kimliğini yeniden doğrulamak istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <source>Account expired and re-login attempt failed</source>
-        <translation>Hesabın süresi doldu ve yeniden giriş denemesi başarısız oldu</translation>
+        <translation type="vanished">Hesabın süresi doldu ve yeniden giriş denemesi başarısız oldu</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="343"/>
+        <location filename="src/launcher/LaunchController.cpp" line="362"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>Hesabın süresi doldu ve yeniden kimlik doğrulaması yapılması gerekiyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="354"/>
-        <location filename="src/launcher/LaunchController.cpp" line="411"/>
+        <location filename="src/launcher/LaunchController.cpp" line="372"/>
+        <location filename="src/launcher/LaunchController.cpp" line="429"/>
         <source>Error!</source>
         <translation>Hata!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="354"/>
-        <location filename="src/launcher/LaunchController.cpp" line="355"/>
+        <location filename="src/launcher/LaunchController.cpp" line="372"/>
+        <location filename="src/launcher/LaunchController.cpp" line="373"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Profil dosyası yüklenemedi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="361"/>
+        <location filename="src/launcher/LaunchController.cpp" line="379"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Bir başlatıcı örneklendirilemedi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="411"/>
+        <location filename="src/launcher/LaunchController.cpp" line="429"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>%1 profilleyici kontrolü başarısız: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="424"/>
+        <location filename="src/launcher/LaunchController.cpp" line="442"/>
         <source>&amp;Launch</source>
         <translation>&amp;Başlat</translation>
     </message>
@@ -5339,7 +5350,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
         <translation type="vanished">Profilleyici başlatılamadı: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="418"/>
+        <location filename="src/launcher/LaunchController.cpp" line="436"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5348,7 +5359,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="422"/>
+        <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>Waiting.</source>
         <translation>Bekleniyor.</translation>
     </message>
@@ -5357,27 +5368,27 @@ Deneme sürümünü oynamak ister misiniz?</translation>
         <translation type="vanished">Başlat</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="430"/>
+        <location filename="src/launcher/LaunchController.cpp" line="448"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Profilleyici başlatılamadı: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="431"/>
+        <location filename="src/launcher/LaunchController.cpp" line="449"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="458"/>
+        <location filename="src/launcher/LaunchController.cpp" line="476"/>
         <source>Abort</source>
         <translation>İptal Et</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="471"/>
+        <location filename="src/launcher/LaunchController.cpp" line="489"/>
         <source>Kill Minecraft?</source>
         <translation>Minecraft&apos;ı durdur?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="472"/>
+        <location filename="src/launcher/LaunchController.cpp" line="490"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Bu işlem, profilin bozulmasına neden olabilir ve sadece Minecraft herhangi bir sebepten dolayı donduğunda kullanılmalıdır</translation>
     </message>
@@ -11425,7 +11436,7 @@ Kesme ile devam edilsin mi?</translation>
         <translation>Java testi başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="62"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="64"/>
         <source>Minecraft Server</source>
         <translation>Minecraft Sunucusu</translation>
     </message>
@@ -13223,17 +13234,21 @@ Currently installed version: %1</source>
 <context>
     <name>ServersModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="296"/>
         <source>Name</source>
         <translation>İsim</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="297"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="298"/>
         <source>Address</source>
         <translation>Adres</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="300"/>
+        <source>Online</source>
+        <translation type="unfinished">Çevrim içi</translation>
+    </message>
+    <message>
         <source>Latency</source>
         <translation>Gecikme</translation>
     </message>
@@ -13276,29 +13291,34 @@ Currently installed version: %1</source>
         <translation>Eylemler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="157"/>
         <source>Add</source>
         <translation>Ekle</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="160"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="162"/>
         <source>Remove</source>
         <translation>Kaldır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="167"/>
         <source>Move Up</source>
         <translation>Yukarı Çıkar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="172"/>
         <source>Move Down</source>
         <translation>Aşağı İndir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="177"/>
         <source>Join</source>
         <translation>Katıl</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="182"/>
+        <source>Refresh</source>
+        <translation type="unfinished">Yenile</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
@@ -13306,17 +13326,17 @@ Currently installed version: %1</source>
         <translation>Sunucular</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="572"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="612"/>
         <source>Context menu</source>
         <translation>İçerik menüsü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="703"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="746"/>
         <source>Confirm Removal</source>
         <translation>Kaldırma İşlemini Onayla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="704"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="747"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 

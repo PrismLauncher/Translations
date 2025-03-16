@@ -5212,16 +5212,31 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
         <translation>Aucun compte sélectionné pour le lancement.</translation>
     </message>
     <message>
+        <location filename="src/launcher/LaunchController.cpp" line="311"/>
+        <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="321"/>
+        <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="338"/>
+        <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
         <translation type="vanished">Votre compte n&apos;est pas connecté. Veuillez entrer votre mot de passe pour vous connecter à nouveau. &lt;br /&gt; &lt;br /&gt; Cela peut être dû à un changement de mot de passe.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="209"/>
+        <location filename="src/launcher/LaunchController.cpp" line="208"/>
         <source>Continue launch?</source>
         <translation>Continuer le lancement&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="210"/>
+        <location filename="src/launcher/LaunchController.cpp" line="209"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Le lancement reste impossible après %1 essais. Voulez-vous réessayer&#xa0;?</translation>
     </message>
@@ -5241,7 +5256,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
         <translation>Choisissez votre nom de joueur en mode démo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="259"/>
+        <location filename="src/launcher/LaunchController.cpp" line="277"/>
         <source>Received undetermined session status during login.</source>
         <translation>Un statut indéterminé de la session a été reçu durant la connexion.</translation>
     </message>
@@ -5272,12 +5287,12 @@ Souhaitez-vous lancer la démo&#xa0;?</translation>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="274"/>
+        <location filename="src/launcher/LaunchController.cpp" line="244"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Lancement annulé - le compte ne possède pas de licence Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="289"/>
+        <location filename="src/launcher/LaunchController.cpp" line="299"/>
         <source>Play Offline</source>
         <translation>Jouer en hors ligne</translation>
     </message>
@@ -5286,74 +5301,70 @@ Souhaitez-vous lancer la démo&#xa0;?</translation>
         <translation>Le compte a expiré et doit être reconnecté manuellement.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="324"/>
+        <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <source>Account refresh failed</source>
         <translation>Rafraîchissement du compte échoué</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="301"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation>L’identification client du lanceur a changé. Veuillez supprimer ce compte et l’ajouter à nouveau.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="302"/>
+        <location filename="src/launcher/LaunchController.cpp" line="314"/>
         <source>Client identification changed</source>
         <translation>L&apos;identification du client changé</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="309"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>Le compte n&apos;existe plus sur les serveurs. Il est possible qu&apos;il ait été migré, auquel cas veuillez ajouter le nouveau compte vers lequel vous avez migré celui-ci.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="311"/>
+        <location filename="src/launcher/LaunchController.cpp" line="324"/>
         <source>Account gone</source>
         <translation>Compte disparu</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="318"/>
+        <location filename="src/launcher/LaunchController.cpp" line="331"/>
         <source>Failed to launch.</source>
         <translation>Échec du lancement.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>Le compte a expiré et nécessite d&apos;être réauthentifié. Voulez-vous reconnecter ce compte&#x202f;?</translation>
+        <translation type="vanished">Le compte a expiré et nécessite d&apos;être réauthentifié. Voulez-vous reconnecter ce compte&#x202f;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <source>Account expired and re-login attempt failed</source>
-        <translation>La connexion du compte à expiré et les essais de reconnexion on échoués</translation>
+        <translation type="vanished">La connexion du compte à expiré et les essais de reconnexion on échoués</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="343"/>
+        <location filename="src/launcher/LaunchController.cpp" line="362"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>Le compte a expiré et nécessite d&apos;être réauthentifié</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="354"/>
-        <location filename="src/launcher/LaunchController.cpp" line="411"/>
+        <location filename="src/launcher/LaunchController.cpp" line="372"/>
+        <location filename="src/launcher/LaunchController.cpp" line="429"/>
         <source>Error!</source>
         <translation>Erreur&#xa0;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="354"/>
-        <location filename="src/launcher/LaunchController.cpp" line="355"/>
+        <location filename="src/launcher/LaunchController.cpp" line="372"/>
+        <location filename="src/launcher/LaunchController.cpp" line="373"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Impossible de charger le profil de l&apos;instance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="361"/>
+        <location filename="src/launcher/LaunchController.cpp" line="379"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Impossible d&apos;instancier un lanceur.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="411"/>
+        <location filename="src/launcher/LaunchController.cpp" line="429"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Vérification du profiler pour %1 échoué : %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="424"/>
+        <location filename="src/launcher/LaunchController.cpp" line="442"/>
         <source>&amp;Launch</source>
         <translation>&amp;Lancer</translation>
     </message>
@@ -5362,7 +5373,7 @@ Souhaitez-vous lancer la démo&#xa0;?</translation>
         <translation type="vanished">Impossible de démarrer le profileur&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="418"/>
+        <location filename="src/launcher/LaunchController.cpp" line="436"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5371,7 +5382,7 @@ Souhaitez-vous lancer la démo&#xa0;?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="422"/>
+        <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>Waiting.</source>
         <translation>En attente.</translation>
     </message>
@@ -5380,27 +5391,27 @@ Souhaitez-vous lancer la démo&#xa0;?</translation>
         <translation type="vanished">Lancer</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="430"/>
+        <location filename="src/launcher/LaunchController.cpp" line="448"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Impossible de démarrer le profileur&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="431"/>
+        <location filename="src/launcher/LaunchController.cpp" line="449"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="458"/>
+        <location filename="src/launcher/LaunchController.cpp" line="476"/>
         <source>Abort</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="471"/>
+        <location filename="src/launcher/LaunchController.cpp" line="489"/>
         <source>Kill Minecraft?</source>
         <translation>Forcer la fermeture de Minecraft&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="472"/>
+        <location filename="src/launcher/LaunchController.cpp" line="490"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Cela peut provoquer la corruption de l&apos;instance et doit être utilisé uniquement si Minecraft ne répond pas pour une raison quelconque</translation>
     </message>
@@ -11501,7 +11512,7 @@ Procéder au découpage&#x202f;?</translation>
         <translation>Vérification de Java échouée</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="62"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="64"/>
         <source>Minecraft Server</source>
         <translation>Serveur Minecraft</translation>
     </message>
@@ -13299,17 +13310,21 @@ Version actuellement installée : %1</translation>
 <context>
     <name>ServersModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="296"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="297"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="298"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="300"/>
+        <source>Online</source>
+        <translation type="unfinished">En ligne</translation>
+    </message>
+    <message>
         <source>Latency</source>
         <translation>Latence</translation>
     </message>
@@ -13352,29 +13367,34 @@ Version actuellement installée : %1</translation>
         <translation>Actions</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="157"/>
         <source>Add</source>
         <translation>Ajouter</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="160"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="162"/>
         <source>Remove</source>
         <translation>Supprimer</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="167"/>
         <source>Move Up</source>
         <translation>Déplacer vers le haut</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="172"/>
         <source>Move Down</source>
         <translation>Déplacer vers le bas</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="177"/>
         <source>Join</source>
         <translation>Rejoindre</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="182"/>
+        <source>Refresh</source>
+        <translation type="unfinished">Actualiser</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
@@ -13382,17 +13402,17 @@ Version actuellement installée : %1</translation>
         <translation>Serveurs</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="572"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="612"/>
         <source>Context menu</source>
         <translation>Menu contextuel</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="703"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="746"/>
         <source>Confirm Removal</source>
         <translation>Confirmer la suppression</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="704"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="747"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 

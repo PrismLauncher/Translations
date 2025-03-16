@@ -4682,7 +4682,7 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
         <translation>Piliin mo ang demo mode na player name.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="259"/>
+        <location filename="src/launcher/LaunchController.cpp" line="277"/>
         <source>Received undetermined session status during login.</source>
         <translation>Naka-tanggap ng hindi masuring status ng session habang naglologin.</translation>
     </message>
@@ -4713,12 +4713,12 @@ Gusto mo ba laruin ang demo?</translation>
         <translation>I-cancel</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="274"/>
+        <location filename="src/launcher/LaunchController.cpp" line="244"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Ini-cancel ang launch - Hindi nagaari ang account na ito ng Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="289"/>
+        <location filename="src/launcher/LaunchController.cpp" line="299"/>
         <source>Play Offline</source>
         <translation>Maglaro Offline</translation>
     </message>
@@ -4727,69 +4727,58 @@ Gusto mo ba laruin ang demo?</translation>
         <translation>Nag expire na yung account at kailangan itong i-login ulit.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="324"/>
+        <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <source>Account refresh failed</source>
         <translation>Hindi magawa ang pag-refresh ng Account</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="309"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>Hindi na nakikita ang account na ito sa servers. Baka ito ay namigrate, kung saan kailangan mo i-add yung bagong account kung saan mo ni-migrate yung account na ito.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="311"/>
+        <location filename="src/launcher/LaunchController.cpp" line="324"/>
         <source>Account gone</source>
         <translation>Nawawalang account</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="318"/>
+        <location filename="src/launcher/LaunchController.cpp" line="331"/>
         <source>Failed to launch.</source>
         <translation>Hindi ma-launch.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="325"/>
-        <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/LaunchController.cpp" line="341"/>
-        <source>Account expired and re-login attempt failed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/LaunchController.cpp" line="343"/>
+        <location filename="src/launcher/LaunchController.cpp" line="362"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="354"/>
-        <location filename="src/launcher/LaunchController.cpp" line="411"/>
+        <location filename="src/launcher/LaunchController.cpp" line="372"/>
+        <location filename="src/launcher/LaunchController.cpp" line="429"/>
         <source>Error!</source>
         <translation>Error!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="354"/>
-        <location filename="src/launcher/LaunchController.cpp" line="355"/>
+        <location filename="src/launcher/LaunchController.cpp" line="372"/>
+        <location filename="src/launcher/LaunchController.cpp" line="373"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Hindi ma-load ang instance profile.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="361"/>
+        <location filename="src/launcher/LaunchController.cpp" line="379"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Hindi ma-instantiate ang launcher.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="411"/>
+        <location filename="src/launcher/LaunchController.cpp" line="429"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Nabigo ang check ng Profiler para sa %1: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="424"/>
+        <location filename="src/launcher/LaunchController.cpp" line="442"/>
         <source>&amp;Launch</source>
         <translation>&amp;Buksan</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="418"/>
+        <location filename="src/launcher/LaunchController.cpp" line="436"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -4798,7 +4787,17 @@ Gusto mo ba laruin ang demo?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="422"/>
+        <location filename="src/launcher/LaunchController.cpp" line="321"/>
+        <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="338"/>
+        <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>Waiting.</source>
         <translation>Naghihintay.</translation>
     </message>
@@ -4807,47 +4806,51 @@ Gusto mo ba laruin ang demo?</translation>
         <translation type="obsolete">Buksan</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="430"/>
+        <location filename="src/launcher/LaunchController.cpp" line="448"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Hindi ma-start ang profiler: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="431"/>
+        <location filename="src/launcher/LaunchController.cpp" line="449"/>
         <source>Error</source>
         <translation>Mali</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="458"/>
+        <location filename="src/launcher/LaunchController.cpp" line="476"/>
         <source>Abort</source>
         <translation>I-pigil</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="471"/>
+        <location filename="src/launcher/LaunchController.cpp" line="489"/>
         <source>Kill Minecraft?</source>
         <translation>Patayin ang Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="472"/>
+        <location filename="src/launcher/LaunchController.cpp" line="490"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Ito ay maaring mag-cause ng corruption sa instance at dapat gamitin lang kung nag-freeze ang Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="301"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation>Napaltan ang client identification ng launcher. Paki-tanggal ng account na ito at i-add ulit.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="209"/>
+        <location filename="src/launcher/LaunchController.cpp" line="208"/>
         <source>Continue launch?</source>
         <translation>I-continue ang launch?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="210"/>
+        <location filename="src/launcher/LaunchController.cpp" line="209"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Hindi natin ma-launch pagkatapos ng %1 na subok. Gusto mo ba subukan pa rin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="302"/>
+        <location filename="src/launcher/LaunchController.cpp" line="311"/>
+        <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="314"/>
         <source>Client identification changed</source>
         <translation>Napaltan ang Client Identification</translation>
     </message>
@@ -9767,7 +9770,7 @@ HTTP Status: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="62"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="64"/>
         <source>Minecraft Server</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11330,17 +11333,21 @@ Currently installed version: %1</source>
 <context>
     <name>ServersModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="296"/>
         <source>Name</source>
         <translation>Pangalan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="297"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="298"/>
         <source>Address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="300"/>
+        <source>Online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Latency</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11383,29 +11390,34 @@ Currently installed version: %1</source>
         <translation>Mga aksyon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="157"/>
         <source>Add</source>
         <translation>I-dagdag</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="160"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="162"/>
         <source>Remove</source>
         <translation>Tanggalin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="167"/>
         <source>Move Up</source>
         <translation>I-pataas</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="172"/>
         <source>Move Down</source>
         <translation>I-pababa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="177"/>
         <source>Join</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="182"/>
+        <source>Refresh</source>
+        <translation type="unfinished">I-refresh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
@@ -11413,17 +11425,17 @@ Currently installed version: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="572"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="612"/>
         <source>Context menu</source>
         <translation>Menu ng konteksto</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="703"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="746"/>
         <source>Confirm Removal</source>
         <translation>I-kumpirma ang pag-tanggal</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="704"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="747"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 

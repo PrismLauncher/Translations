@@ -5166,16 +5166,31 @@ Du kan ändra Java-versionen i inställningarna senare.
         <translation>Inget konto har valts för start.</translation>
     </message>
     <message>
+        <location filename="src/launcher/LaunchController.cpp" line="311"/>
+        <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="321"/>
+        <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="338"/>
+        <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
         <translation type="vanished">Ditt konto är inte inloggat just nu. Skriv in ditt lösenord för att logga in igen. &lt;br /&gt;&lt;br /&gt; Detta kan hända om du har nyss ändrat ditt lösenord.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="209"/>
+        <location filename="src/launcher/LaunchController.cpp" line="208"/>
         <source>Continue launch?</source>
         <translation>Fortsätt starta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="210"/>
+        <location filename="src/launcher/LaunchController.cpp" line="209"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Det verkar som att vi inte kunde starta efter %1 försök. Vill du fortsätta försöka?</translation>
     </message>
@@ -5195,7 +5210,7 @@ Du kan ändra Java-versionen i inställningarna senare.
         <translation>Välj spelarnamn för demoläget.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="259"/>
+        <location filename="src/launcher/LaunchController.cpp" line="277"/>
         <source>Received undetermined session status during login.</source>
         <translation>Mottog obestämd sessions-status under inloggning.</translation>
     </message>
@@ -5226,12 +5241,12 @@ Vill du spela i demoläget?</translation>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="274"/>
+        <location filename="src/launcher/LaunchController.cpp" line="244"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Start avbruten - kontot äger inte Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="289"/>
+        <location filename="src/launcher/LaunchController.cpp" line="299"/>
         <source>Play Offline</source>
         <translation>Spela offline</translation>
     </message>
@@ -5240,74 +5255,70 @@ Vill du spela i demoläget?</translation>
         <translation>Kontots inloggning har löpt ut och måste manuellt loggas in på igen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="324"/>
+        <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <source>Account refresh failed</source>
         <translation>Uppdatering av kontot misslyckades</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="301"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation>Launcherns klientidentifiering har ändrats. Vänligen ta bort detta konto och lägg till det igen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="302"/>
+        <location filename="src/launcher/LaunchController.cpp" line="314"/>
         <source>Client identification changed</source>
         <translation>Klientidentifiering har ändrats</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="309"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>Kontot finns inte längre på servrarna. Det kan ha migrerats. I så fall bör du lägga till kontot du migrerade detta till.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="311"/>
+        <location filename="src/launcher/LaunchController.cpp" line="324"/>
         <source>Account gone</source>
         <translation>Konto borta</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="318"/>
+        <location filename="src/launcher/LaunchController.cpp" line="331"/>
         <source>Failed to launch.</source>
         <translation>Kunde inte starta.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>Kontot har utgått och måste återautentiseras. Vill du återautentisera detta konto?</translation>
+        <translation type="vanished">Kontot har utgått och måste återautentiseras. Vill du återautentisera detta konto?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <source>Account expired and re-login attempt failed</source>
-        <translation>Konto utgått och återinloggningsförsök misslyckat</translation>
+        <translation type="vanished">Konto utgått och återinloggningsförsök misslyckat</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="343"/>
+        <location filename="src/launcher/LaunchController.cpp" line="362"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>Kontot har utgått och måste återautentiseras</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="354"/>
-        <location filename="src/launcher/LaunchController.cpp" line="411"/>
+        <location filename="src/launcher/LaunchController.cpp" line="372"/>
+        <location filename="src/launcher/LaunchController.cpp" line="429"/>
         <source>Error!</source>
         <translation>Fel!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="354"/>
-        <location filename="src/launcher/LaunchController.cpp" line="355"/>
+        <location filename="src/launcher/LaunchController.cpp" line="372"/>
+        <location filename="src/launcher/LaunchController.cpp" line="373"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Kunde inte läsa instansens profilinformation.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="361"/>
+        <location filename="src/launcher/LaunchController.cpp" line="379"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Kunde inte instansiera launchern.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="411"/>
+        <location filename="src/launcher/LaunchController.cpp" line="429"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Kontroll av prestationsverktyg för %1 misslyckades: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="424"/>
+        <location filename="src/launcher/LaunchController.cpp" line="442"/>
         <source>&amp;Launch</source>
         <translation>&amp;Starta</translation>
     </message>
@@ -5316,7 +5327,7 @@ Vill du spela i demoläget?</translation>
         <translation type="vanished">Kunde inte starta prestationsverktyget: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="418"/>
+        <location filename="src/launcher/LaunchController.cpp" line="436"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5325,7 +5336,7 @@ Vill du spela i demoläget?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="422"/>
+        <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>Waiting.</source>
         <translation>Väntar.</translation>
     </message>
@@ -5334,27 +5345,27 @@ Vill du spela i demoläget?</translation>
         <translation type="vanished">Starta</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="430"/>
+        <location filename="src/launcher/LaunchController.cpp" line="448"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Kunde inte starta prestationsverktyget: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="431"/>
+        <location filename="src/launcher/LaunchController.cpp" line="449"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="458"/>
+        <location filename="src/launcher/LaunchController.cpp" line="476"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="471"/>
+        <location filename="src/launcher/LaunchController.cpp" line="489"/>
         <source>Kill Minecraft?</source>
         <translation>Tvångsavsluta Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="472"/>
+        <location filename="src/launcher/LaunchController.cpp" line="490"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Detta kan orsaka att instansen blir oanvändbar och ska bara användas om Minecraft är fruset av någon anledning</translation>
     </message>
@@ -11282,7 +11293,7 @@ Proceed with truncation?</source>
         <translation>Javatest misslyckades</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="62"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="64"/>
         <source>Minecraft Server</source>
         <translation>Minecraftserver</translation>
     </message>
@@ -13077,17 +13088,21 @@ För närvarande installerad version: %1</translation>
 <context>
     <name>ServersModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="296"/>
         <source>Name</source>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="297"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="298"/>
         <source>Address</source>
         <translation>Adress</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="300"/>
+        <source>Online</source>
+        <translation type="unfinished">Ansluten</translation>
+    </message>
+    <message>
         <source>Latency</source>
         <translation>Fördröjning</translation>
     </message>
@@ -13130,29 +13145,34 @@ För närvarande installerad version: %1</translation>
         <translation>Åtgärder</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="157"/>
         <source>Add</source>
         <translation>Lägg till</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="160"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="162"/>
         <source>Remove</source>
         <translation>Ta bort</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="167"/>
         <source>Move Up</source>
         <translation>Flytta upp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="172"/>
         <source>Move Down</source>
         <translation>Flytta ner</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="177"/>
         <source>Join</source>
         <translation>Anslut</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="182"/>
+        <source>Refresh</source>
+        <translation type="unfinished">Uppdatera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
@@ -13160,17 +13180,17 @@ För närvarande installerad version: %1</translation>
         <translation>Servrar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="572"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="612"/>
         <source>Context menu</source>
         <translation>Kontextmeny</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="703"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="746"/>
         <source>Confirm Removal</source>
         <translation>Bekräfta borttagning</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="704"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="747"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
