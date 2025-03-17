@@ -348,7 +348,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
         <source>License</source>
-        <translation>Лицензия</translation>
+        <translation type="unfinished">Лицензия</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
