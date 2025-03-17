@@ -396,7 +396,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>未勾選</translation>
+        <translation>未檢查</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
