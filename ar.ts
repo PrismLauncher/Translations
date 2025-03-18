@@ -1093,7 +1093,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="101"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">نجحت مهمة المصادقة.</translation>
+        <translation>تمت المصادقة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="107"/>
