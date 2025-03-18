@@ -5080,17 +5080,17 @@ Podes alterar a versão do Java nas definições mais tarde.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="311"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A indentificação do launcher foi alterada. Por favor remova ‘%1’ e tente novamente</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="321"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">‘%1’ não existe mais nos servidores. Ela pode ter sido migrada, neste caso por favor adicione a nova conta para a qual você migrou a antiga</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="338"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>‘%1’ expirou e precisa ser reautenticada. Quer reautenticar esta conta?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
