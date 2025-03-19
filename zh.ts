@@ -13327,7 +13327,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="300"/>
         <source>Online</source>
-        <translation type="unfinished">在线</translation>
+        <translation>在线</translation>
     </message>
     <message>
         <source>Latency</source>
@@ -13399,7 +13399,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="182"/>
         <source>Refresh</source>
-        <translation type="unfinished">刷新</translation>
+        <translation>刷新</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
