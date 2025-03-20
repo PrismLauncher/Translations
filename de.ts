@@ -1164,62 +1164,62 @@ Manche Versionen von Minecraft starten vielleicht nicht.
 <context>
     <name>AuthFlow</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="50"/>
         <source>Finished all authentication steps</source>
         <translation>Alle Authentifizierungsschritte abgeschlossen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="56"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="55"/>
         <source>Initializing</source>
         <translation>Initialisierung</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"/>
         <source>Waiting...</source>
         <translation>Warte...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="96"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="95"/>
         <source>Working...</source>
         <translation>Vorgang läuft...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
         <source>Authentication task succeeded.</source>
         <translation>Authentifizierung erfolgreich.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="107"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
         <source>Failed to contact the authentication server.</source>
         <translation>Fehler bei der Verbindung zum Authentifizierungs-Server.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="114"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
         <source>Client ID has changed. New session needs to be created.</source>
         <translation>Die Client-ID wurde geändert. Eine neue Sitzung muss erstellt werden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="121"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
         <source>Encountered an error during authentication.</source>
         <translation>Es ist ein Fehler bei der Authentifizierung aufgetreten.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
         <source>Failed to authenticate. The session has expired.</source>
         <translation>Authentifizierung fehlgeschlagen. Die Sitzung ist abgelaufen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="135"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
         <source>Failed to authenticate. The account no longer exists.</source>
         <translation>Authentifizierung fehlgeschlagen. Das Konto existiert nicht mehr.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>Unknown account task state: %1</source>
         <translation>Unbekannter Konto-Aufgabenstatus: %1</translation>
     </message>
@@ -2869,18 +2869,18 @@ Bitte versuche es erneut.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="55"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="52"/>
         <source>Resolving mod IDs...</source>
         <translation>Löse Mod-IDs auf...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="128"/>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="150"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="147"/>
         <source>Invalid data returned from the API.</source>
         <translation>Die API hat ungültige Daten geliefert.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="259"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="256"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Verarbeite API-Antwort von CurseForge für &apos;%1&apos;…</translation>
     </message>
@@ -2892,7 +2892,7 @@ Bitte versuche es erneut.</translation>
 <context>
     <name>FlameCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
         <translation>Bereite Ressourcen für CurseForge vor...</translation>
@@ -2902,38 +2902,42 @@ Bitte versuche es erneut.</translation>
         <translation type="vanished">Deaktivierte Mods werden nicht aktualisiert, um duplizierte Mods zu vermeiden!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
         <translation>Rufe API-Antwort von CurseForge für &apos;%1&apos; ab...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="92"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Verarbeite API-Antwort von CurseForge für &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Keine valide Version für diese Ressource gefunden. Es ist wahrscheinlich nicht verfügbar für die momentane Spielversion / den momentanen Modloader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="149"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Keine valide Version für diese Ressource gefunden. Es ist wahrscheinlich nicht verfügbar für die momentane Spielversion.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="158"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
+        <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
         <translation>Die Ressource hat ein neues Update verfügbar, die allerdings nicht mit CurseForge runterladbar ist.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="174"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Not installed</source>
         <translation>Nicht installiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="176"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
         <source>Unknown</source>
         <translation>Unbekannt</translation>
     </message>
@@ -12023,44 +12027,44 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation>unbekannt</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="163"/>
         <source>Sort by Featured</source>
         <translation>Nach Vorgestellt sortiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
         <source>Sort by Popularity</source>
         <translation>Nach Beliebtheit sortiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>Nach zuletzt aktualisiert sortiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
         <source>Sort by Name</source>
         <translation>Nach Name sortiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
         <source>Sort by Author</source>
         <translation>Nach Autor sortiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation>Nach Downloads sortiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
         <source>Sort by Category</source>
         <translation>Nach Kategorie sortiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
         <source>Sort by Game Version</source>
         <translation>Nach Spielversion sortiert</translation>
     </message>

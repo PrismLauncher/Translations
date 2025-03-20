@@ -1131,62 +1131,62 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
 <context>
     <name>AuthFlow</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="50"/>
         <source>Finished all authentication steps</source>
         <translation>ขั้นตอนการยืนยันตัวตนทั้งหมดเสร็จสิ้น</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="56"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="55"/>
         <source>Initializing</source>
         <translation>กำลังเริ่มต้นระบบ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"/>
         <source>Waiting...</source>
         <translation>กำลังรอ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="96"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="95"/>
         <source>Working...</source>
         <translation>กำลังทำงาน...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
         <source>Authentication task succeeded.</source>
         <translation>การตรวจสอบสำเร็จ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="107"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
         <source>Failed to contact the authentication server.</source>
         <translation>ไม่สามารถติดต่อเซิร์ฟเวอร์ตรวจสอบได้</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="114"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
         <source>Client ID has changed. New session needs to be created.</source>
         <translation>มีการเปลี่ยนแปลงไคลเอนต์ไอดีเกิดขึ้น จึงต้องมีการสร้างเซสชันใหม่</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="121"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
         <source>Encountered an error during authentication.</source>
         <translation>พบข้อผิดพลาดระหว่างการตรวจสอบ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
         <source>Failed to authenticate. The session has expired.</source>
         <translation>การตรวจสอบผิดพลาด เซสชั่นหมดอายุ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="135"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
         <source>Failed to authenticate. The account no longer exists.</source>
         <translation>ไม่สามารถตรวจสอบ บัญชีนี้จะไม่มีอยู่อีกแล้ว</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>Unknown account task state: %1</source>
         <translation>ไม่ทราบสถานะการทำงานของบัญชี: %1</translation>
     </message>
@@ -2756,18 +2756,18 @@ Please try again.</source>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="55"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="52"/>
         <source>Resolving mod IDs...</source>
         <translation>กำลังแก้ไขรหัสม็อด...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="128"/>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="150"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="147"/>
         <source>Invalid data returned from the API.</source>
         <translation>ข้อมูลที่ส่งคืนจาก API ไม่ถูกต้อง</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="259"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="256"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>การวิเคราะห์การตอบสนอง API จาก CurseForge สำหรับ &apos;%1&apos;...</translation>
     </message>
@@ -2775,44 +2775,48 @@ Please try again.</source>
 <context>
     <name>FlameCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
         <translation type="unfinished">กำลังเตรียมม็อดสำหรับเคิร์สฟอร์จ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
         <translation>รับการตอบสนอง API จาก เคิร์สฟอร์จ สำหรับ &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="92"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>กำลังแยกวิเคราะห์การตอบสนอง API จาก เคิร์สฟอร์จ สำหรับ &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>ไม่พบเวอร์ชันที่ถูกต้องสำหรับทรัพยากรนี้ อาจไม่พร้อมใช้งานสำหรับเวอร์ชันเกม / ตัวโหลด mod ปัจจุบัน</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="149"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>ไม่พบเวอร์ชันที่ถูกต้องสำหรับทรัพยากรนี้ อาจไม่พร้อมใช้งานสำหรับเวอร์ชันเกมปัจจุบัน</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="158"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
+        <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
         <translation>ทรัพยากรมีการอัปเดตใหม่แล้ว แต่ไม่สามารถดาวน์โหลดโดยใช้ CurseForge ได้</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="174"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Not installed</source>
         <translation>ยังไม่ได้ติดตั้ง</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="176"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
         <source>Unknown</source>
         <translation>ไม่ทราบ</translation>
     </message>
@@ -10361,44 +10365,44 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>ไม่ทราบ</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="163"/>
         <source>Sort by Featured</source>
         <translation>เรียงตามรายการเด่น</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
         <source>Sort by Popularity</source>
         <translation>เรียงตามความนิยม</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>เรียงตามการอัพเดทล่าสุด</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
         <source>Sort by Name</source>
         <translation>เรียงตามลำดับตัวอักษร</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
         <source>Sort by Author</source>
         <translation>เรียงตามเจ้าของ</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation>เรียงตามจำนวนการดาวน์โหลด</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
         <source>Sort by Category</source>
         <translation>เรียงตามหมวดหมู่</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
         <source>Sort by Game Version</source>
         <translation>เรียงตามเวอร์ชันเกม</translation>
     </message>

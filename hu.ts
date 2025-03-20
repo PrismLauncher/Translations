@@ -1140,62 +1140,62 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
 <context>
     <name>AuthFlow</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="50"/>
         <source>Finished all authentication steps</source>
         <translation>Minden hitelesítési lépés befejezve</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="56"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="55"/>
         <source>Initializing</source>
         <translation>Inicializálás</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"/>
         <source>Waiting...</source>
         <translation>Várakozás...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="96"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="95"/>
         <source>Working...</source>
         <translation>Folyamatban...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
         <source>Authentication task succeeded.</source>
         <translation>Hitelesítési folyamat sikeres.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="107"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
         <source>Failed to contact the authentication server.</source>
         <translation>Nem sikerült kapcsolatot létesíteni a hitelesítési szerverrel.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="114"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
         <source>Client ID has changed. New session needs to be created.</source>
         <translation>Az ügyfél-azonosító megváltozott. Új munkamenet létrehozása szükséges.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="121"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
         <source>Encountered an error during authentication.</source>
         <translation>Hiba történt a hitelesítés során.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
         <source>Failed to authenticate. The session has expired.</source>
         <translation>Nem sikerült hitelesíteni. A munkamenet lejárt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="135"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
         <source>Failed to authenticate. The account no longer exists.</source>
         <translation>Nem sikerült hitelesíteni. A fiók már nem létezik.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>Unknown account task state: %1</source>
         <translation>Ismeretlen fiókfeladat állapot: %1</translation>
     </message>
@@ -2845,18 +2845,18 @@ Kérlek próbáld újra.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="55"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="52"/>
         <source>Resolving mod IDs...</source>
         <translation>Mod ID-k feloldása...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="128"/>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="150"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="147"/>
         <source>Invalid data returned from the API.</source>
         <translation>Érvénytelen adatok érkeztek vissza az API-tól.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="259"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="256"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
     </message>
@@ -2868,7 +2868,7 @@ Kérlek próbáld újra.</translation>
 <context>
     <name>FlameCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
         <translation>Modok előkészítése a CurseForge számára...</translation>
@@ -2878,38 +2878,42 @@ Kérlek próbáld újra.</translation>
         <translation type="vanished">A letiltott modok nem frissülnek, hogy elkerüljük a modduplikációs problémákat!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
         <translation>API-válasz lekérése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="92"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Nem található érvényes verzió ehhez az erőforráshoz. Valószínűleg nem érhető el a jelenlegi játékverzióhoz / mod betöltőhöz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="149"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Nem található érvényes verzió ehhez az erőforráshoz. Valószínűleg nem érhető el a jelenlegi játékverzióhoz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="158"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
+        <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
+        <translation type="unfinished">API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
         <translation>Az erőforráshoz elérhető egy új frissítés, de nem tölthető le a CurseForge segítségével.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="174"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Not installed</source>
         <translation>Nincs telepítve</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="176"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
         <source>Unknown</source>
         <translation>Ismeretlen</translation>
     </message>
@@ -11857,44 +11861,44 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation>ismeretlen</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="163"/>
         <source>Sort by Featured</source>
         <translation>Kiemeltek szerinti rendezés</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
         <source>Sort by Popularity</source>
         <translation>Népszerűség szerinti rendezés</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>Utolsó frissítés szerinti rendezés</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
         <source>Sort by Name</source>
         <translation>Név szerinti rendezés</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
         <source>Sort by Author</source>
         <translation>Alkotó szerinti rendezés</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation>Letöltések száma szerinti rendezés</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
         <source>Sort by Category</source>
         <translation>Kategória szerinti rendezés</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
         <source>Sort by Game Version</source>
         <translation>Játékverzió szerinti rendezés</translation>
     </message>

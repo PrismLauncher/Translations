@@ -884,62 +884,62 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
 <context>
     <name>AuthFlow</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="50"/>
         <source>Finished all authentication steps</source>
         <translation>அனைத்து அங்கீகார படிகளையும் முடித்தேன்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="56"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="55"/>
         <source>Initializing</source>
         <translation>துவக்குதல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"/>
         <source>Waiting...</source>
         <translation>காத்திருக்கிறது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="96"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="95"/>
         <source>Working...</source>
         <translation>வேலை ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
         <source>Authentication task succeeded.</source>
         <translation>அங்கீகார பணி செய் பெற்றது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="107"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
         <source>Failed to contact the authentication server.</source>
         <translation>அங்கீகார சேவையகத்தைத் தொடர்பு கொள்ளத் தவறிவிட்டது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="114"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
         <source>Client ID has changed. New session needs to be created.</source>
         <translation>கிளையன்ட் ஐடி மாறிவிட்டது. புதிய அமர்வு உருவாக்கப்பட வேண்டும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="121"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
         <source>Encountered an error during authentication.</source>
         <translation>அங்கீகாரத்தின் போது ஒரு பிழையை எதிர்கொண்டது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
         <source>Failed to authenticate. The session has expired.</source>
         <translation>அங்கீகரிக்கத் தவறிவிட்டது. அமர்வு காலாவதியானது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="135"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
         <source>Failed to authenticate. The account no longer exists.</source>
         <translation>அங்கீகரிக்கத் தவறிவிட்டது. கணக்கு இனி இல்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>Unknown account task state: %1</source>
         <translation>அறியப்படாத கணக்கு பணி நிலை: %1</translation>
     </message>
@@ -2464,18 +2464,18 @@ Please try again.</source>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="55"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="52"/>
         <source>Resolving mod IDs...</source>
         <translation>மோட் ஐடிகளைத் தீர்ப்பது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="128"/>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="150"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="147"/>
         <source>Invalid data returned from the API.</source>
         <translation>பநிஇ இலிருந்து திரும்பிய தவறான தரவு.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="259"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="256"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>&apos;%1&apos; க்கு Curseforge இலிருந்து பநிஇ பதிலை பாகுபடுத்துதல் ...</translation>
     </message>
@@ -2483,44 +2483,48 @@ Please try again.</source>
 <context>
     <name>FlameCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
         <translation>Curseforge க்கான வளங்களைத் தயாரித்தல் ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
         <translation>&apos;%1&apos; க்கு Curseforge இலிருந்து பநிஇ பதிலைப் பெறுதல் ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="92"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>&apos;%1&apos; க்கு Curseforge இலிருந்து பநிஇ பதிலை பாகுபடுத்துதல் ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>இந்த வளத்திற்கு சரியான பதிப்பு எதுவும் கிடைக்கவில்லை. தற்போதைய விளையாட்டு பதிப்பு / மோட் ஏற்றிக்கு இது கிடைக்கவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="149"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>இந்த வளத்திற்கு சரியான பதிப்பு எதுவும் கிடைக்கவில்லை. தற்போதைய விளையாட்டு பதிப்பிற்கு இது கிடைக்கவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="158"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
+        <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
+        <translation type="unfinished">&apos;%1&apos; க்கு Curseforge இலிருந்து பநிஇ பதிலை பாகுபடுத்துதல் ...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
         <translation>வளம் ஒரு புதிய புதுப்பிப்பைக் கொண்டுள்ளது, ஆனால் Curseforge ஐப் பயன்படுத்தி பதிவிறக்கம் செய்ய முடியாது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="174"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Not installed</source>
         <translation>நிறுவப்படவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="176"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
         <source>Unknown</source>
         <translation>தெரியவில்லை</translation>
     </message>
@@ -9792,44 +9796,44 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>தெரியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="163"/>
         <source>Sort by Featured</source>
         <translation>சிறப்பு மூலம் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
         <source>Sort by Popularity</source>
         <translation>பிரபலத்தால் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>கடைசியாக புதுப்பிக்கப்பட்டதன் மூலம் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
         <source>Sort by Name</source>
         <translation>பெயரால் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
         <source>Sort by Author</source>
         <translation>எழுத்தாளர் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation>பதிவிறக்கங்கள் மூலம் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
         <source>Sort by Category</source>
         <translation>வகை அடிப்படையில் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
         <source>Sort by Game Version</source>
         <translation>விளையாட்டு பதிப்பால் வரிசைப்படுத்துங்கள்</translation>
     </message>

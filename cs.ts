@@ -1135,62 +1135,62 @@ Některé verze Minecraftu se nemusí spustit.
 <context>
     <name>AuthFlow</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="50"/>
         <source>Finished all authentication steps</source>
         <translation>Všechny autentikační kroky byly dokončeny</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="56"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="55"/>
         <source>Initializing</source>
         <translation>Inicializuji</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"/>
         <source>Waiting...</source>
         <translation>Čekám...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="96"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="95"/>
         <source>Working...</source>
         <translation>Pracuji...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
         <source>Authentication task succeeded.</source>
         <translation>Ověření bylo úspěšné.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="107"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
         <source>Failed to contact the authentication server.</source>
         <translation>Nepodařilo se kontaktovat ověřovací server.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="114"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
         <source>Client ID has changed. New session needs to be created.</source>
         <translation>ID klienta se změnilo. Je třeba vytvořit novou relaci.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="121"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
         <source>Encountered an error during authentication.</source>
         <translation>Během ověřování došlo k chybě.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
         <source>Failed to authenticate. The session has expired.</source>
         <translation>Chyba při ověřování. Relace vypršela.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="135"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
         <source>Failed to authenticate. The account no longer exists.</source>
         <translation>Ověření se nezdařilo. Tento účet již neexistuje.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>Unknown account task state: %1</source>
         <translation>Neznámý stav úlohy účtu: %1</translation>
     </message>
@@ -2840,18 +2840,18 @@ Prosím zkus znovu.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="55"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="52"/>
         <source>Resolving mod IDs...</source>
         <translation>Řešení ID modů...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="128"/>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="150"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="147"/>
         <source>Invalid data returned from the API.</source>
         <translation>Rozhraní API vrátilo neplatná data.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="259"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="256"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Zpracovávání odpovědi API z CurseForge pro „%1“...</translation>
     </message>
@@ -2863,7 +2863,7 @@ Prosím zkus znovu.</translation>
 <context>
     <name>FlameCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
         <translation>Příprava zdrojů pro CurseForge...</translation>
@@ -2873,38 +2873,42 @@ Prosím zkus znovu.</translation>
         <translation type="vanished">Zakázané mody nebudou aktualizovány pro zabránění problémům s jejich duplikací!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
         <translation>Získávání odpovědi API z CurseForge pro &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="92"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Zpracovávání odpovědi API z CurseForge pro &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Nenalezena žádná platná verze tohoto zdroje. Nejspíš je pro aktuální verzi hry nebo mod loader nedostupný.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="149"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Nenalezena žádná platná verze tohoto zdroje. Nejspíš je pro aktuální verzi hry nedostupný.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="158"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
+        <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
         <translation>Zdroj má dostupnou novou aktualizaci, nelze jej ale stáhnout pomocí CurseForge.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="174"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Not installed</source>
         <translation>Nenainstalováno</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="176"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
         <source>Unknown</source>
         <translation>Neznámý</translation>
     </message>
@@ -11951,44 +11955,44 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <translation>neznámý</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="163"/>
         <source>Sort by Featured</source>
         <translation>Seřadit podle doporučených</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
         <source>Sort by Popularity</source>
         <translation>Seřadit podle popularity</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>Seřadit podle poslední aktualizace</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
         <source>Sort by Name</source>
         <translation>Seřadit podle názvu</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
         <source>Sort by Author</source>
         <translation>Seřadit podle autora</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation>Seřadit podle počtu stažení</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
         <source>Sort by Category</source>
         <translation>Seřadit podle kategorie</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
         <source>Sort by Game Version</source>
         <translation>Seřadit podle verze hry</translation>
     </message>
