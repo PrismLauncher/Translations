@@ -29,7 +29,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Tipo de servicio Paste</translation>
+        <translation>Servicio de Pegado y Tipo</translation>
     </message>
     <message>
         <source>Base URL</source>
