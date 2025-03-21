@@ -4890,7 +4890,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="81"/>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
-        <translation>Télécharge et sélectionne automatiquement la version de Java recommandée par Mojang.</translation>
+        <translation>Télécharge et sélectionne automatiquement la version Java recommandée par Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="84"/>
