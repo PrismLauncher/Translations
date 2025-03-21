@@ -2900,7 +2900,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">正在分析「%1」的 CurseForge API 回應…</translation>
+        <translation>正在分析「%1」的 CurseForge API 回應…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
@@ -5214,17 +5214,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="311"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>啟動器的用戶端識別碼已變更。請移除「%1」然後再試一次。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="321"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器上已不存在「%1」。它可能已被遷移，若已遷移，請新增您將這個帳號遷移至的新帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="338"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>「%1」已經過期，需要重新驗證。您想要重新驗證這個帳號嗎？</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -5238,7 +5238,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="209"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>在經過 %1 次嘗試後，我們似乎無法正常啟動。您還想要繼續嘗試嗎？</translation>
+        <translation>在 %1 次嘗試後，我們似乎仍然無法啟動。您還想要繼續嘗試嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="160"/>
@@ -5835,7 +5835,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="116"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>您真的確定要使用此路徑？選擇「否」會關閉此對話框且不會修改實例路徑。</translation>
+        <translation>您確定要使用這個路徑嗎？選擇「否」將關閉這個視窗，且不會變更您的實例路徑。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="125"/>
@@ -9691,7 +9691,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="153"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>我們找不到適用於舊版本的索引檔案。這可能會導致某些檔案重複。您想繼續嗎？</translation>
+        <translation>我們找不到適用於舊版本的索引檔案。這可能會導致部分檔案重複。您想繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="197"/>
@@ -13319,7 +13319,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="300"/>
         <source>Online</source>
-        <translation type="unfinished">線上</translation>
+        <translation>線上</translation>
     </message>
     <message>
         <source>Latency</source>
@@ -13391,7 +13391,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="182"/>
         <source>Refresh</source>
-        <translation type="unfinished">重新整理</translation>
+        <translation>重新整理</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
