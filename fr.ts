@@ -1294,12 +1294,12 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation>Activer téléchargement automatique</translation>
+        <translation>Activer le téléchargement automatique</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation>Désactiver téléchargement automatique</translation>
+        <translation>Désactiver le téléchargement automatique</translation>
     </message>
 </context>
 <context>
