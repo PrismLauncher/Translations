@@ -8235,42 +8235,42 @@ Detta kan endast uppdateras med en fil i formatet %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
         <source>Start Minecraft maximized</source>
-        <translation>Starta Minecraft i helskärmsläge</translation>
+        <translation>Starta Minecraft i maximerat läge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Basspelet stöder endast upplösning. För att simulera maximerat läge approximerar den nuvarande implementeringen den maximala skärmstorleken.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="98"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Varning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Maximeringsalternativet kanske inte stöds fullt ut i alla Minecraft-versioner.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="107"/>
         <source>Window height:</source>
-        <translation type="unfinished">Fönstrets höjd:</translation>
+        <translation>Fönstrets höjd:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="114"/>
         <source>Window width:</source>
-        <translation type="unfinished">Fönstrets bredd:</translation>
+        <translation>Fönstrets bredd:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="158"/>
         <source>Game &amp;Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Spel &amp;Tid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="170"/>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished">Visa &amp;spelad tid för instanser</translation>
+        <translation>Visa &amp;spelad tid för instanser</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="177"/>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished">&amp;Håll koll på spelad tid för instanser</translation>
+        <translation>&amp;Håll koll på spelad tid för instanser</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="184"/>
