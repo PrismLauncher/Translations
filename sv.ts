@@ -4933,8 +4933,8 @@ Du kan ändra Java-versionen i inställningarna senare.
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">Du valde en 32-bitarsversion av Java.
-Den här installationen stöder inte mer än 2048 MB RAM.
+        <translation>Du valde en 32-bitarsversion av Java.
+Den här installationen stödjer inte mer än 2048 MB RAM.
 Se till att det maximala minnesvärdet är lägre.</translation>
     </message>
     <message>
