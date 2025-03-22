@@ -2888,7 +2888,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Розбір відповіді API від CurseForge для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
@@ -5159,12 +5159,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="321"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; більше не існує на серверах. Можливо, його було перенесено, у такому разі, будь ласка, додайте новий обліковий запис, на який ви його перенесли.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="338"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; закінчився і потребує повторної автентифікації. Ви хочете повторно автентифікувати цей обліковий запис?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -13143,7 +13143,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="300"/>
         <source>Online</source>
-        <translation type="unfinished">Онлайн</translation>
+        <translation>Онлайн</translation>
     </message>
     <message>
         <source>Latency</source>
@@ -13215,7 +13215,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="182"/>
         <source>Refresh</source>
-        <translation type="unfinished">Оновити</translation>
+        <translation>Оновити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
