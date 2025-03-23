@@ -5764,7 +5764,7 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation>Stäng konsolen automatiskt när spelet avslutas</translation>
+        <translation>Stäng konsolen &amp;automatiskt när spelet avslutas</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
@@ -8275,32 +8275,32 @@ Detta kan endast uppdateras med en fil i formatet %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="184"/>
         <source>Show the &amp;total time played across instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa den &amp;totala speltiden över alla instanser</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="191"/>
         <source>Always show durations in &amp;hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa alltid varaktighet i &amp;timmar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="204"/>
         <source>&amp;Console</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Konsol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="216"/>
         <source>Show console while the game is running</source>
-        <translation type="unfinished">Visa konsolen medan spelet körs</translation>
+        <translation>Visa konsolen medan spelet körs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="223"/>
         <source>Automatically close console when the game quits</source>
-        <translation type="unfinished">Stäng konsolen automatiskt när spelet avslutas</translation>
+        <translation>Stäng konsolen automatiskt när spelet avslutas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="230"/>
         <source>Show console when the game crashes</source>
-        <translation type="unfinished">Visa konsolen när spelet kraschar</translation>
+        <translation>Visa konsolen när spelet kraschar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="240"/>
