@@ -2114,7 +2114,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="141"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="unfinished">Unable to open modpack locked chest.</translation>
+        <translation>Unable to open th&apos; locked modpack chest.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="186"/>
