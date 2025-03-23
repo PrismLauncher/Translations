@@ -2010,7 +2010,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
         <source>Import from zip</source>
-        <translation>Plunder a locked chest</translation>
+        <translation>Plunder from a locked chest</translation>
     </message>
 </context>
 <context>
@@ -2018,7 +2018,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation>Pick a ship fer ya plunder</translation>
+        <translation>Pick a ship fer yer plunder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
