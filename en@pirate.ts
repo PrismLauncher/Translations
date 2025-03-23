@@ -2904,7 +2904,7 @@ Do ye want to play the demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="432"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="460"/>
@@ -2919,7 +2919,7 @@ Do ye want to play the demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="477"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation type="unfinished"></translation>
+        <translation>This can cause ye instance to get corrupted and should only be used if ye ship is about to be taken.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="302"/>
