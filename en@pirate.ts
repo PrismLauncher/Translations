@@ -2779,7 +2779,7 @@ Select one of the following or browse for a Java executable, if ye dare.</transl
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="206"/>
         <source>Player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Captain&apos;s name</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="197"/>
@@ -2807,7 +2807,10 @@ Select one of the following or browse for a Java executable, if ye dare.</transl
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>This account ain&apos;t be in ownership o&apos; Minecraft.
+Ye need to purchase the game first to play it, unless ye be a scallywag.
+
+Do ye want to play the demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
@@ -2822,7 +2825,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="261"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Didn&apos;t set sail - account isn&apos;t a real pirate.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="277"/>
