@@ -1653,7 +1653,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="238"/>
         <source>No index file.</source>
-        <translation type="unfinished">Thar be no file fer indexin&apos;</translation>
+        <translation>Thar be no file fer indexin&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
