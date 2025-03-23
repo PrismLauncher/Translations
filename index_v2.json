@@ -115,9 +115,9 @@
             "untranslated" : 1030
         },
         "en@uwu" : {
-            "file" : "631d4caa7bb0985accc3c8203df34200c608b138.class",
-            "sha1" : "631d4caa7bb0985accc3c8203df34200c608b138",
-            "size" : 217185,
+            "file" : "590715adcbb9614f3b19ecb136a5c62318597c56.class",
+            "sha1" : "590715adcbb9614f3b19ecb136a5c62318597c56",
+            "size" : 217241,
             "translated" : 1538,
             "fuzzy" : 0,
             "untranslated" : 0
@@ -131,12 +131,12 @@
             "untranslated" : 0
         },
         "en_CA" : {
-            "file" : "736bbb0a53372f6c9903e8130d1a5f6c0e29615b.class",
-            "sha1" : "736bbb0a53372f6c9903e8130d1a5f6c0e29615b",
-            "size" : 333094,
-            "translated" : 2348,
-            "fuzzy" : 2,
-            "untranslated" : 4
+            "file" : "35bacb5ad44e8d3d540686916a5931657adfde30.class",
+            "sha1" : "35bacb5ad44e8d3d540686916a5931657adfde30",
+            "size" : 334209,
+            "translated" : 2354,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "en_GB" : {
             "file" : "c7ff19896b135f54ea5ff864ead8de6d9cbaeeb5.class",
