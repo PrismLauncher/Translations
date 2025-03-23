@@ -992,7 +992,8 @@ Please be updating of both your operating system and %1.</translation>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="710"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>Booty metadata update raid failed while plunderin&apos; from faraway crew.</translation>
+        <translation>Booty metadata update raid failed while plunderin&apos; from faraway crew:
+%1</translation>
     </message>
 </context>
 <context>
@@ -1375,7 +1376,7 @@ Please be updating of both your operating system and %1.</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>Try to check or update all selected resources (all resources if none are selected)</translation>
+        <translation>Attempt t&apos; check or upgrade all chosen booty (all th&apos; booty if none be selected)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="63"/>
@@ -1852,7 +1853,7 @@ Try again, if ye dare.</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="52"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">Blunder&apos;d buildin&apos; the stores for Minecraft binaries</translation>
+        <translation>Blunder&apos;d buildin&apos; the stores for Minecraft binaries.</translation>
     </message>
 </context>
 <context>
@@ -1860,12 +1861,12 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="82"/>
         <source>Key</source>
-        <translation type="unfinished">Key</translation>
+        <translation>Key</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="84"/>
         <source>Value</source>
-        <translation type="unfinished">Weight in gold</translation>
+        <translation>Weight in gold</translation>
     </message>
 </context>
 <context>
@@ -2022,12 +2023,12 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished">Pick a ship fit for yer bounty</translation>
+        <translation>Pick a ship fit for yer bounty.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished">Pick a ship fit fer %1</translation>
+        <translation>Pick a ship fit fer %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
@@ -2045,7 +2046,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="40"/>
         <source>&amp;Group:</source>
-        <translation type="unfinished">&amp;Crew:</translation>
+        <translation>&amp;Crew:</translation>
     </message>
 </context>
 <context>
@@ -2137,7 +2138,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="170"/>
         <source>%1 Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Instance</translation>
     </message>
 </context>
 <context>
@@ -2145,7 +2146,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="62"/>
         <source>Edit Instance (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Change Instance (%1)</translation>
     </message>
 </context>
 <context>
@@ -2163,12 +2164,12 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="55"/>
         <source>Java insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>Th&apos; attached Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="70"/>
         <source>Auto-detect...</source>
-        <translation type="unfinished"></translation>
+        <translation>Let th&apos; machine find it...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="77"/>
@@ -2178,57 +2179,57 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="84"/>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Test</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>If enabled, th&apos; launcher ain&apos;t goin&apos; t&apos; check if the instance be compatible with yer Java model.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Belay th&apos; compatible Java checks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
         <source>Memor&amp;y</source>
-        <translation type="unfinished"></translation>
+        <translation>Memor&amp;y</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="126"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bare thinkin&apos; given to th&apos; ship:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="169"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>The limit o&apos; thinkin&apos; Minecraft is permitted to use.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="147"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
+        <translation>The amount o&apos; thinkin&apos; Minecraft sailed with.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="191"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>The amount o&apos; thinkin&apos; space open fer loadin&apos; Java classes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="133"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Limit o&apos; thinkin&apos; given to th&apos; ship:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="140"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation type="unfinished"></translation>
+        <translation>Entry: Permgen is handled automatically by Java Model 8 and newer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="232"/>
         <source>Java argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>Java argumen&amp;ts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="251"/>
