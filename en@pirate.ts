@@ -801,7 +801,7 @@ Please be updating of both your operating system and %1.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Searrrrrch and filtarrr...</translation>
+        <translation>Scour and separate...</translation>
     </message>
 </context>
 <context>
@@ -1059,7 +1059,7 @@ Please be updating of both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="170"/>
         <source>Copy shader packs</source>
-        <translation>Copy Lookin&apos; glasses</translation>
+        <translation>Replicate lookin&apos; glasses</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="177"/>
@@ -1069,7 +1069,7 @@ Please be updating of both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="187"/>
         <source>Copy resource packs</source>
-        <translation>Copy lookin&apos; glasses</translation>
+        <translation>Replicate booty cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="194"/>
@@ -1777,7 +1777,7 @@ Try again, if ye dare.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Scour and filter...</translation>
+        <translation>Scour and separate...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
@@ -5328,7 +5328,7 @@ Kindly upgrade %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
         <source>Search and filter ...</source>
-        <translation>Scour and filter...</translation>
+        <translation>Scour and separate...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
@@ -6450,7 +6450,7 @@ ENTRY: Ensure ye made a stash of yer important ship data before upgradin&apos;, 
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
         <source>shader pack</source>
-        <translation>lenses cargo</translation>
+        <translation>looking glass</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
@@ -6665,59 +6665,59 @@ Kindly upgrade %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="212"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maps to unknown seas:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="216"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Complaints: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="218"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Encyclopedia: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="220"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ship blueprints: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="222"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tortuga: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="243"/>
         <source>Deselect %1 for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Un-pick %1 for plunderin&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="264"/>
         <source>No valid version found.</source>
-        <translation type="unfinished"></translation>
+        <translation>No valid model found.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="265"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Cannot pick invalid model :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="281"/>
         <source>Loading versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Loadin&apos; models...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="44"/>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>booty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="46"/>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>booty</translation>
     </message>
 </context>
 <context>
@@ -6726,7 +6726,7 @@ Kindly upgrade %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="162"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>looking glasses</translation>
     </message>
 </context>
 <context>
@@ -6735,13 +6735,13 @@ Kindly upgrade %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="37"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>looking glasses</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="39"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>looking glass</translation>
     </message>
 </context>
 <context>
@@ -6750,7 +6750,7 @@ Kindly upgrade %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="143"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>decor</translation>
     </message>
 </context>
 <context>
@@ -6759,13 +6759,13 @@ Kindly upgrade %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="37"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>decor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="39"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>decorum</translation>
     </message>
 </context>
 <context>
@@ -6773,13 +6773,14 @@ Kindly upgrade %1!</translation>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="40"/>
         <source>Resource download</source>
-        <translation type="unfinished"></translation>
+        <translation>Booty plunder</translation>
     </message>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="41"/>
         <source>Downloading resource:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Plunderin&apos; booty:
+%1</translation>
     </message>
 </context>
 <context>
@@ -6792,25 +6793,25 @@ Kindly upgrade %1!</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="453"/>
         <source>Last modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Last modified</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="461"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Is the booty sailin&apos;?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Th&apos; moniker of the booty.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="467"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>The date and time this booty was last changed (or brought on).</translation>
     </message>
 </context>
 <context>
@@ -6818,14 +6819,14 @@ Kindly upgrade %1!</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="66"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>Unrecognized</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="85"/>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="126"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>The booty cargo format ID, and th&apos; Minecraft models it be made for.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="109"/>
@@ -6835,7 +6836,7 @@ Kindly upgrade %1!</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="111"/>
         <source>Pack Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargo Format</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
@@ -6845,17 +6846,17 @@ Kindly upgrade %1!</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="121"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Do the booty cargo be enabled? (Only valid fer ZIP locked chests)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="123"/>
         <source>The name of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>The moniker of th&apos; booty cargo.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="128"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>The date and time this booty cargo was last changed (or brought on).</translation>
     </message>
 </context>
 <context>
@@ -6863,27 +6864,27 @@ Kindly upgrade %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="51"/>
         <source>Resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Booty cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Plunder cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
         <source>Download resource packs from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Pluder booty cargo from islands in the open oceans</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="79"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="83"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Abandoned</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="83"/>
@@ -6893,12 +6894,12 @@ Kindly upgrade %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="89"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Bad Omens</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Scuttle</translation>
     </message>
 </context>
 <context>
@@ -6906,7 +6907,7 @@ Kindly upgrade %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Scour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
@@ -6916,7 +6917,7 @@ Kindly upgrade %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Separatin&apos; choices</translation>
     </message>
 </context>
 <context>
@@ -6924,32 +6925,32 @@ Kindly upgrade %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="14"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
         <source>Filename: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Filename: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="47"/>
         <source>This download will be placed in: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>This plunder&apos;ll be stowed in: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="52"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="unfinished"></translation>
+        <translation>This file&apos;ll be plundered t&apos; a chest different from th&apos; standard, possibly due t&apos; its rigger requirin&apos; it.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="77"/>
         <source>Confirm %1 selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirm %1 choice</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="79"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer about t&apos; plunder the followin&apos; %1:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="80"/>
@@ -7220,27 +7221,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="49"/>
         <source>Shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Looking glasses</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Plunder looking glasses</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
         <source>Download shaders from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Plunder looking glasses from islands in the open ocean</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="73"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="77"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Abandoned</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="77"/>
@@ -7250,12 +7251,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="83"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Bad Omens</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="93"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Scuttle</translation>
     </message>
 </context>
 <context>
@@ -7496,7 +7497,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Scour and separate...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="81"/>
@@ -7514,27 +7515,27 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="51"/>
         <source>Texture packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Decor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="51"/>
         <source>Download packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Plunder cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download texture packs from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Plunder decor from islands in the open ocean</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="81"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="85"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Abandoned</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="85"/>
@@ -7544,12 +7545,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="91"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Bad Omens</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="101"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Scuttle</translation>
     </message>
 </context>
 <context>
@@ -7692,7 +7693,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="66"/>
         <source>Filter</source>
-        <translation>Filterrrr</translation>
+        <translation>Sifter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="76"/>
@@ -7818,7 +7819,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="53"/>
         <source>Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sift through:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="75"/>
