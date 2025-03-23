@@ -3206,7 +3206,7 @@ Granting %1 access to it via Flatseal is ye best course o&apos; action.</transla
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="326"/>
         <source>[Something/WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[Something/WARN] Yarr, these be risky waters.</translation>
     </message>
 </context>
 <context>
@@ -3913,7 +3913,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="439"/>
         <source>Launch &amp;Offline</source>
-        <translation>Set Sail in Shallow Waters</translation>
+        <translation>Set Sail in Lonely Waters</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="342"/>
