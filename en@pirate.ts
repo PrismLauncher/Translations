@@ -2884,7 +2884,9 @@ Do ye want to play the demo?</translation>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>The ship sailin&apos; be delayed &apos;til ye press the button. This be the right time to prep the profiler, as the profiler server be sailin&apos; now.
+
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="421"/>
@@ -2899,7 +2901,7 @@ Do ye want to play the demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="431"/>
         <source>Couldn&apos;t start the profiler: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t set sail the profiler: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="432"/>
@@ -2924,12 +2926,12 @@ Do ye want to play the demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="302"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>The launcher now sails with new colors. Please relieve this captain and return &apos;em with new colors.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="165"/>
         <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weigh Anchor?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="166"/>
@@ -2939,13 +2941,13 @@ Do ye want to play the demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="305"/>
         <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Colors changed</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>In order to sail Minecraft, ye must&apos;ve at least a Microsoft or Mojang captain logged. Mojang captains can only be fer lonely seas. Would ye like to open th&apos; captain roster and enlist a new cap&apos;n now?</translation>
     </message>
 </context>
 <context>
@@ -2954,7 +2956,8 @@ Do ye want to play the demo?</translation>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="234"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Stopped carin&apos; &apos;bout th&apos; log because the log surpassed %1 entries.
+Ye may hav&apos; t&apos; fix yer modifications because the ship still be loggin&apos; and likely wasting cargo space at kraken speed!</translation>
     </message>
 </context>
 <context>
@@ -2968,12 +2971,12 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="62"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="68"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to plunder Minecraft access doubloon: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="79"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to understand the Minecraft access doubloon response.</translation>
     </message>
 </context>
 <context>
@@ -2981,7 +2984,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="45"/>
         <source>Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Featur&apos;s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="51"/>
@@ -2992,27 +2995,27 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Automatically look fer upgrades</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="67"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Crates</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="83"/>
         <source>I&amp;nstances:</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;hips:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
         <source>&amp;Mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modifications:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Symbols:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
