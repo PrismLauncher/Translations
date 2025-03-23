@@ -147,7 +147,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="140"/>
         <source>Unsupported installation mode</source>
-        <translation>Ye olde&apos; install mode be not supported</translation>
+        <translation>Ye olde&apos; install mode be not honored</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="182"/>
@@ -502,7 +502,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>&amp;Renew</translation>
+        <translation>&amp;Check Again</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
@@ -525,7 +525,7 @@ If yer new here, you can click the &quot;Add&quot; button to add your Mojang or 
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation>Please enter yer Mojang captain&apos;s seaemail and secret phrase to enlist yer captain.</translation>
+        <translation>Kindly enter yer Mojang captain&apos;s seaemail and secret phrase to enlist yer captain.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -540,7 +540,7 @@ Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
         <translation>Microsoft accounts be usable only on macOS 10.13 or newer, with fully updated %1.
 
-Please be updating of both your operating system and %1.</translation>
+Kindly be updating of both your operating system and %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
@@ -566,7 +566,7 @@ Please be updating of both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
         <source>Error</source>
-        <translation>No booty found</translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
@@ -576,7 +576,7 @@ Please be updating of both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Declare yer desired pirate name to join the offline crew.</translation>
+        <translation>Kindly declare yer desired pirate name to join the offline crew.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -809,12 +809,12 @@ Please be updating of both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="61"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>No supported verrrrsions are currently available for this Ship %1</translation>
+        <translation>No model be present right now for Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>No versions are currently available</source>
-        <translation>No verrrsions are currently available for this here</translation>
+        <translation>No models be present right now</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="66"/>
@@ -863,7 +863,7 @@ Please be updating of both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="169"/>
         <source>Please download the missing mods.</source>
-        <translation>Please set out to find our missin&apos; sails.</translation>
+        <translation>Kindly set out to find our missin&apos; sails.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="148"/>
@@ -924,7 +924,7 @@ Please be updating of both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Java checker library couldn&apos;t be located. Please check ye installation.</translation>
+        <translation>Java checker library couldn&apos;t be located. Kindly check yer installation.</translation>
     </message>
 </context>
 <context>
@@ -1581,7 +1581,7 @@ Are ye sure?</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation>Failed to steal the following files:
+        <translation>Failed to plunder the followin&apos; files:
 %1
 
 Reason:%2
@@ -2759,7 +2759,7 @@ Select one of the following or browse for a Java executable, if ye dare.</transl
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation>Invalid Java arguments specified. Fix this before settin&apos; sail.</translation>
+        <translation>Invalid Java arguments specified. Kindly fix this before settin&apos; sail.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="95"/>
@@ -2845,7 +2845,7 @@ Do ye want to play the demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="314"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>The account be missin&apos; from the registries. It may have been migrated, in which case ye need to add the new account ye migrated this one to.</translation>
+        <translation>The account be missin&apos; from the registries. It may have been migrated, in which case kindly ye need to add the new account ye migrated this one to.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="317"/>
@@ -2926,7 +2926,7 @@ Do ye want to play the demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="302"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>The launcher now sails with new colors. Please relieve this captain and return &apos;em with new colors.</translation>
+        <translation>The launcher now sails with new colors. Kindly relieve this captain and return &apos;em with new colors.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="165"/>
@@ -3051,7 +3051,7 @@ Ye may hav&apos; t&apos; fix yer modifications because the ship still be loggin&
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="247"/>
         <source>Theme</source>
-        <translation>Dye</translation>
+        <translation>Dyes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
@@ -3217,7 +3217,7 @@ Granting %1 access to it via Flatseal is ye best course o&apos; action.</transla
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="102"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation>Launcher&apos;s archive be missin&apos;. Check yer plundered model.</translation>
+        <translation>Launcher&apos;s archive be missin&apos;. Kindly check yer plundered model.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="170"/>
@@ -3602,7 +3602,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="107"/>
         <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Please navigate to %1 in ye dinghy and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Kindly navigate to %1 in ye dinghy and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -4152,7 +4152,7 @@ Reason:
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation>The launcher cannot plunder Minecraft or swab the decks unless ye have at least one account added.
-Add ye Mojang or Minecraft account, if ye dare.</translation>
+Add yer Mojang or Minecraft account, if ye dare.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1161"/>
@@ -4277,7 +4277,7 @@ Are ye sure?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1576"/>
         <source>Not supported on your platform!</source>
-        <translation>Not supported on yer vessel!</translation>
+        <translation>Not honored on yer vessel!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1675"/>
@@ -4395,7 +4395,7 @@ Are ye sure?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="185"/>
         <source>Reload page</source>
-        <translation>Reload page</translation>
+        <translation>Check page again</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="87"/>
@@ -4784,7 +4784,7 @@ Are ye sure?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="72"/>
         <source>Major version match (unsupported)</source>
-        <translation>Major model match (unsupported)</translation>
+        <translation>Major model match (not honored)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="76"/>
@@ -5484,7 +5484,7 @@ Kindly upgrade %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="90"/>
         <source>Nilmods</source>
-        <translation type="unfinished">Nilmods</translation>
+        <translation>Nilmodifications</translation>
     </message>
 </context>
 <context>
@@ -6048,7 +6048,7 @@ Choose yer moniker wisely:</translation>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="217"/>
         <source>Version file has both &apos;+libraries&apos; and &apos;libraries&apos;. This is no longer supported.</source>
-        <translation>Model file be havin&apos; both &apos;+libraries&apos; and &apos;libraries&apos;. This ain&apos;t done anymore.</translation>
+        <translation>Model file be havin&apos; both &apos;+libraries&apos; and &apos;libraries&apos;. This ain&apos;t honored anymore.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="271"/>
@@ -6058,27 +6058,27 @@ Choose yer moniker wisely:</translation>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="304"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
-        <translation>Model file contains unsupport&apos;d thing &apos;tweakers&apos;</translation>
+        <translation>Model file contains unhonored thing &apos;tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="308"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
-        <translation>Model file contains unsupported thing &apos;-libraries&apos;</translation>
+        <translation>Model file contains unhonored thing &apos;-libraries&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="312"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
-        <translation>Model file contains unsupported thing &apos;-tweakers&apos;</translation>
+        <translation>Model file contains unhonored thing &apos;-tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="316"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
-        <translation>Model file contains unsupported thing &apos;-minecraftArguments&apos;</translation>
+        <translation>Model file contains unhonored thing &apos;-minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="320"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
-        <translation>Model file contains unsupported thing &apos;+minecraftArguments&apos;</translation>
+        <translation>Model file contains unhonored thing &apos;+minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="343"/>
@@ -7221,7 +7221,7 @@ Savvy?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;Renew</translation>
+        <translation>&amp;Check Again</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
@@ -7586,12 +7586,12 @@ inheritsFrom is missing</translation>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="105"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="112"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>The strange parrot be under th&apos; deck and ain&apos;t seen standardly. It only be seen when pressin&apos; the &quot;Strange Parrot&quot; button in th&apos; Handy-objectbar</translation>
+        <translation>The strange parrot be under th&apos; deck and ain&apos;t seen standardly. It only be seen when pressin&apos; the &quot;Strange Parrot&quot; button in th&apos; Handy-objectbar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
         <source>C&amp;at</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;trange Parrot</translation>
     </message>
 </context>
 <context>
@@ -7599,27 +7599,27 @@ inheritsFrom is missing</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>WizardPage</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="20"/>
         <source>Select the Theme you wish to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Pick the Dyes you wish to use</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hint: The strange parrot be under th&apos; deck and ain&apos;t seen standardly. It only be seen when pressin&apos; the &quot;Strange Parrot&quot; button in th&apos; Handy-objectbar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
         <source> Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation> Preview:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="331"/>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation type="unfinished"></translation>
+        <translation>The strange parrot appears under the deck and serves no function, it purely be a companion.</translation>
     </message>
 </context>
 <context>
@@ -7630,7 +7630,10 @@ inheritsFrom is missing</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="unfinished"></translation>
+        <translation>%1:
+%2 translated
+%3 fuzzy
+%4 total</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="478"/>
@@ -7640,7 +7643,7 @@ inheritsFrom is missing</translation>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="482"/>
         <source>Completeness</source>
-        <translation type="unfinished"></translation>
+        <translation>Completeness</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="492"/>
@@ -7650,7 +7653,7 @@ inheritsFrom is missing</translation>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="496"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation type="unfinished"></translation>
+        <translation>Completeness be the ratio o&apos; fully translated strings, automatically guessed ones not be counted.</translation>
     </message>
 </context>
 <context>
@@ -7665,7 +7668,9 @@ inheritsFrom is missing</translation>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ship upgrade failed because: %1
+
+</translation>
     </message>
 </context>
 <context>
@@ -7729,17 +7734,17 @@ inheritsFrom is missing</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="109"/>
         <source>Betas</source>
-        <translation type="unfinished"></translation>
+        <translation>Unreleased Sails</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="119"/>
         <source>Alphas</source>
-        <translation type="unfinished"></translation>
+        <translation>New Mates</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="129"/>
         <source>Experiments</source>
-        <translation type="unfinished"></translation>
+        <translation>Novelties</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="152"/>
@@ -7765,12 +7770,12 @@ inheritsFrom is missing</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="210"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="220"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="230"/>
@@ -7780,22 +7785,22 @@ inheritsFrom is missing</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
         <source>Vanilla</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanilla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="129"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No Minecraft model be selected.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="136"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No modification rigger be selected.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="172"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No model be present right now for Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7803,23 +7808,24 @@ inheritsFrom is missing</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="62"/>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation type="unfinished"></translation>
+        <translation>Java major model be incompatible. Things may break.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="67"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>This ship be not compatible with Java model %1.
+Kindly switch to one o&apos; th&apos; followin&apos; Java models for this ship:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
         <source>Java version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Java model %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Go to ship&apos;s Java settin&apos;s t&apos; change your Java model or disable the Java compatibility check if ye know what yer doin&apos;.</translation>
     </message>
 </context>
 <context>
@@ -7827,7 +7833,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="46"/>
         <source>No versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>No models available right now.</translation>
     </message>
 </context>
 <context>
@@ -7845,232 +7851,232 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="121"/>
         <source>Change version</source>
-        <translation type="unfinished"></translation>
+        <translation>Change model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="124"/>
         <source>Change version of the selected package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Change model of the picked package.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="129"/>
         <source>Move up</source>
-        <translation type="unfinished"></translation>
+        <translation>Move up</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="132"/>
         <source>Make the selected package apply sooner.</source>
-        <translation type="unfinished"></translation>
+        <translation>Have th&apos; picked package apply faster.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="137"/>
         <source>Move down</source>
-        <translation type="unfinished"></translation>
+        <translation>Move down</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="140"/>
         <source>Make the selected package apply later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Have th&apos; picked package apply slower.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="145"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="148"/>
         <source>Remove selected package from the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove selected package from th&apos; ship.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="153"/>
         <source>Customize</source>
-        <translation type="unfinished"></translation>
+        <translation>Customize</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="156"/>
         <source>Customize selected package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Customize picked package.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="161"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="164"/>
         <source>Edit selected package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit picked package.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="169"/>
         <source>Revert</source>
-        <translation type="unfinished"></translation>
+        <translation>Return to previous form</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="172"/>
         <source>Revert the selected package to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Return the picked package to standard.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="177"/>
         <source>Install Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Install Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="180"/>
         <source>Install the Minecraft Forge package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Install the Minecraft Forge package.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="185"/>
         <source>Install Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Install Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="188"/>
         <source>Install the Fabric Loader package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Install the Fabric Loader package.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
         <source>Install Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Install Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="196"/>
         <source>Install the Quilt Loader package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Install the Quilt Rigger package.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="201"/>
         <source>Install LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>Install LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="204"/>
         <source>Install the LiteLoader package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Install the LiteLoader package.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="209"/>
         <source>Install mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Install modifications</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="212"/>
         <source>Install normal mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Install plain modifications.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="217"/>
         <source>Add to Minecraft.jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Add to Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="220"/>
         <source>Add a mod into the Minecraft jar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stow a modification into th&apos; Minecraft jar file.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="225"/>
         <source>Replace Minecraft.jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Replace Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="230"/>
         <source>Add Agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Add Agents</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="233"/>
         <source>Add Java agents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Add Java agents.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="238"/>
         <source>Add Empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Add Blank</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="241"/>
         <source>Add an empty custom package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Add a blank custom package.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="246"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Check again</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="249"/>
         <source>Reload all packages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Check again all packages.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="254"/>
         <source>Download All</source>
-        <translation type="unfinished"></translation>
+        <translation>Plunder All</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="257"/>
         <source>Download the files needed to launch the instance now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plunder th&apos; files required t&apos; sail the ship now.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="262"/>
         <source>Open .minecraft</source>
-        <translation type="unfinished"></translation>
+        <translation>Open .minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="265"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open the ship&apos;s .minecraft chest.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="270"/>
         <source>Open libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Open archives</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="273"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open the ship&apos;s local archives chest.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="278"/>
         <source>Import Components</source>
-        <translation type="unfinished"></translation>
+        <translation>Import Parts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="281"/>
         <source>Import existing component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Import existing JSON part files.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="200"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Shipside list</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="218"/>
         <source>%1 possibly has issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 may have issues.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="221"/>
         <source>%1 has issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 has issues!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="235"/>
         <source>Error: </source>
-        <translation type="unfinished"></translation>
+        <translation>Fire on the poop deck: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="239"/>
         <source>Warning: </source>
-        <translation type="unfinished"></translation>
+        <translation>Bad omen: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
@@ -8080,12 +8086,12 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="491"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t load the ship manifest.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
@@ -8098,153 +8104,157 @@ Please switch to one of the following Java versions for this instance:</source>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer about to remove &quot;%1&quot;.
+This is permanent and will send the custom part to Davy Jones&apos; locker.
+
+Savvy?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="347"/>
         <source>Couldn&apos;t remove file</source>
-        <translation type="unfinished"></translation>
+        <translation>Can&apos;t scuttle file</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="364"/>
         <source>Select jar mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Select jar modifications</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="364"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft.jar modifications (*.zip *.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="374"/>
         <source>Select jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Pick jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="374"/>
         <source>Minecraft.jar replacement (*.jar)</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft.jar replacement (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
         <source>Select components</source>
-        <translation type="unfinished"></translation>
+        <translation>Select parts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
         <source>Components (*.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>Parts (*.json)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="389"/>
         <source>Failed to import components</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to import parts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="390"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation type="unfinished"></translation>
+        <translation>Some parts couldn&apos;t be imported. Check th&apos; logs for more detail</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
         <source>Select agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Pick agents</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
         <source>Java agents (*.jar)</source>
-        <translation type="unfinished"></translation>
+        <translation>Java agents (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="460"/>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation>Change %1 model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="463"/>
         <source>No intermediary mappings versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>No middle-man mappin&apos; models are available right now.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="464"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t load or plunder the middle-map mappin&apos;s model lists!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="492"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cannot plunder Minecraft or upgrade ships unless ye &apos;t least have a cap&apos;n added.
+Kindly add yer Mojang or Minecraft captain.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="518"/>
         <source>Select Forge version</source>
-        <translation type="unfinished"></translation>
+        <translation>Pick Forge model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="520"/>
         <source>No Forge versions are currently available for Minecraft </source>
-        <translation type="unfinished"></translation>
+        <translation>No Forge models be available right now for Minecraft </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="521"/>
         <source>Couldn&apos;t load or download the Forge version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t load or plunder the Forge model lists!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="547"/>
         <source>Select Fabric Loader version</source>
-        <translation type="unfinished"></translation>
+        <translation>Pick Fabric Rigger model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="548"/>
         <source>No Fabric Loader versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>No Fabric Rigger models are available right now.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
         <source>Couldn&apos;t load or download the Fabric Loader version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t load or plunder th&apos; Fabric Rigger model lists!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="574"/>
         <source>Select Quilt Loader version</source>
-        <translation type="unfinished"></translation>
+        <translation>Pick Quilt Rigger model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="575"/>
         <source>No Quilt Loader versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>No Quilt Rigger models are available right now.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="576"/>
         <source>Couldn&apos;t load or download the Quilt Loader version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t load or plunder th&apos; Quilt Rigger model lists!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="619"/>
         <source>Select LiteLoader version</source>
-        <translation type="unfinished"></translation>
+        <translation>Pick LiteLoader model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="621"/>
         <source>No LiteLoader versions are currently available for Minecraft </source>
-        <translation type="unfinished"></translation>
+        <translation>No LiteLoader models are available right now for Minecraft </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="622"/>
         <source>Couldn&apos;t load or download the LiteLoader version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t load or plunder the LiteLoader model lists!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="678"/>
         <source>Error updating instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Ship upgradin&apos; became a fire on the poopdeck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="746"/>
         <source>Confirm Reversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirm Remodelling</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="747"/>
@@ -8252,7 +8262,10 @@ Please add your Mojang or Minecraft account.</source>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer about t&apos; revert &quot;%1&quot;.
+This be permanent and&apos;ll wholly revert yer customizations.
+
+Savvy?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="63"/>
@@ -8280,62 +8293,62 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="117"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Clarr-sification</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="119"/>
         <source>Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>Architecture</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="121"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Trail</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="123"/>
         <source>Released</source>
-        <translation type="unfinished"></translation>
+        <translation>Released</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
         <source>The name of the version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Th&apos; moniker of the model.</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
         <source>Minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft model</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="135"/>
         <source>The version&apos;s branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Th&apos; model&apos;s schism</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
         <source>The version&apos;s type</source>
-        <translation type="unfinished"></translation>
+        <translation>Th&apos; model&apos;s clarr-sification</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
         <source>CPU Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU Architecture</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
         <source>Filesystem path to this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Filesystem trail to this model</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>Release date of this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Release date of this model</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="168"/>
         <source>%1 (installed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (installed)</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="199"/>
@@ -8346,7 +8359,7 @@ Are you sure?</source>
         <location filename="src/launcher/VersionProxyModel.cpp" line="206"/>
         <location filename="src/launcher/VersionProxyModel.cpp" line="211"/>
         <source>Latest</source>
-        <translation type="unfinished"></translation>
+        <translation>Latest</translation>
     </message>
 </context>
 <context>
@@ -8354,17 +8367,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="81"/>
         <source>Choose Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Pick Model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="82"/>
         <source>Reloads the version list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Check th&apos; model list again.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="83"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;Renew</translation>
+        <translation>&amp;Check Again</translation>
     </message>
 </context>
 <context>
@@ -8372,13 +8385,14 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
         <source>List update failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>List upgrade failed:
+%1</translation>
     </message>
 </context>
 <context>
@@ -8386,7 +8400,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="209"/>
         <source>Customize toolbar actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Customize Handy-objectbar actions</translation>
     </message>
 </context>
 <context>
@@ -8399,38 +8413,38 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
         <source>Game Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Gamin&apos; Mode</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
         <source>Last Played</source>
-        <translation type="unfinished"></translation>
+        <translation>Last Sailed</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="276"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Weight</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
         <source>The name of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>The moniker of th&apos; islands.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="287"/>
         <source>Game mode of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gamin&apos; Mode of the islands.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
         <source>Date and time the world was last played.</source>
-        <translation type="unfinished"></translation>
+        <translation>Date and time the islands were sailed to.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="291"/>
         <source>Size of the world on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Weight of the islands on disk.</translation>
     </message>
 </context>
 <context>
@@ -8453,22 +8467,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="107"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Replicate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="112"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Scuttle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
         <source>MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="122"/>
         <source>Copy Seed</source>
-        <translation type="unfinished"></translation>
+        <translation>Replicate Seed</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="127"/>
@@ -8493,80 +8507,83 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="145"/>
         <source>Datapacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Mechanical Cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="148"/>
         <source>Manage datapacks inside the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Manage mechanical cargo in th&apos; islands.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="67"/>
         <source>Worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Islands</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="143"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Shipside list</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="228"/>
         <source>Open World Datapacks Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Open Island Mechanical Cargo Chest</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="286"/>
         <source>Open World in MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>Open Islands in MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="312"/>
         <source>No MCEdit found or set up!</source>
-        <translation type="unfinished"></translation>
+        <translation>No MCEdit found or prepped!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="313"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ye don&apos;t have MCEdit prepped or it be misplaced.
+Ye can prep it in th&apos; global settin&apos;s.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="322"/>
         <source>MCEdit failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit failed to sail!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="323"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit failed to sail.
+May be required t&apos; rebuild it.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="372"/>
         <source>Select a Minecraft world zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Pick a Minecraft islands zip chest</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="373"/>
         <source>Minecraft World Zip File (*.zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Islands Zip Chest (*.zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="412"/>
         <source>Copy World</source>
-        <translation type="unfinished"></translation>
+        <translation>Replicate Islands</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Changin&apos; islands while Minecraft be sailin&apos; be risky.
+Savvy?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirm Scuttle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
@@ -8574,28 +8591,31 @@ Do you wish to proceed?</source>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer about to scuttle &quot;%1&quot;.
+The islands may be gone forever (A LONG TIME).
+
+Savvy?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="441"/>
         <source>World name</source>
-        <translation type="unfinished"></translation>
+        <translation>Islands&apos; moniker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
         <source>Enter a new name for the copy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter a new moniker for th&apos; replicated.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="434"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>Change Islands&apos; Moniker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="441"/>
         <source>Enter a new world name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter a new moniker for the islands.</translation>
     </message>
 </context>
 <context>
@@ -8603,7 +8623,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="23"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gettin&apos; permissions t&apos; use %1 services.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="69"/>
@@ -8614,7 +8634,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="75"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Unknown STS issue fer %1 services: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="82"/>
@@ -8629,46 +8649,50 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="100"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocean island has changed %1 sailor&apos;s permission hash in th&apos; reply. Somethin&apos; be amiss.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="107"/>
         <source>Got authorization to access %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Got permission t&apos; access %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="123"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Can&apos;t understand %1 permission issue reply as JSON: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="133"/>
         <source>XErr element is missing from %1 authorization error response.</source>
-        <translation type="unfinished"></translation>
+        <translation>XErr thing is missin&apos; from %1 permission issue reply.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="141"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>This Microsoft captain ain&apos;t have an XBox Live profile. Trade fer the ship on %1 first.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="150"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>XBox Live ain&apos;t available in yer waters. Ye&apos;ve been marooned.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="157"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>This Microsoft captain be too young &apos;n&apos; apparently orphaned.
+
+Please prep yer captain accordin&apos; to %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="165"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>XSTS authenticatin&apos; done w&apos;th unrecognized issue(s):
+
+%1</translation>
     </message>
 </context>
 <context>
@@ -8676,18 +8700,18 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="18"/>
         <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fetchin&apos; Xbox profile.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="63"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="69"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to retrieve th&apos; Xbox profile: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="77"/>
         <source>Got Xbox profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Got Xbox profile</translation>
     </message>
 </context>
 <context>
@@ -8695,23 +8719,23 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="16"/>
         <source>Logging in as an Xbox user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Loggin&apos; in as an Xbox sailor.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="65"/>
         <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>XBox sailor authenticatin&apos; failed: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
         <source>XBox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>XBox sailor authenticatin&apos; reply can&apos;t be understood.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="78"/>
         <source>Got Xbox user token</source>
-        <translation type="unfinished"></translation>
+        <translation>Got Xbox sailor doubloon</translation>
     </message>
 </context>
 <context>
@@ -8719,67 +8743,67 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="188"/>
         <source>Authentication server didn&apos;t send a client token.</source>
-        <translation type="unfinished"></translation>
+        <translation>Authenticatin&apos; islands didn&apos;t send a sailor doubloon.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="195"/>
         <source>Authentication server attempted to change the client token. This isn&apos;t supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Authenticatin&apos; islands attempted t&apos; change th&apos; sailor doubloon. This not be honored.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="204"/>
         <source>Authentication server didn&apos;t send an access token.</source>
-        <translation type="unfinished"></translation>
+        <translation>Authenticatin&apos; islands didn&apos;t send an access doubloon.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="215"/>
         <source>Authentication server didn&apos;t send a selected profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Authenticatin&apos; islands didn&apos;t send a picked profile.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="230"/>
         <source>Authentication server didn&apos;t send a UUID in selected profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Authenticatin&apos; islands didn&apos;t send a UUID in picked profile.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="248"/>
         <source>Authentication operation timed out.</source>
-        <translation type="unfinished"></translation>
+        <translation>Authenticatin&apos; plan &apos;er out of time.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="251"/>
         <source>Authentication operation cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Authenticatin&apos; plan cancelled.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There may be few reasons for &apos;t:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Ye use Windows and need t&apos; upgrade yer root certifications, kindly build any missin&apos; upgrades.&lt;/li&gt;&lt;li&gt;Some machine on yer locale be interferin&apos; with SSL communicatin&apos;. If that be the case ye have bigger monsters lurkin&apos; about, worries worse than Minecraft not sailin&apos;.&lt;/li&gt;&lt;li&gt;Mayhaps somethin&apos; else. Check ye log file for more infos.&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
         <source>The Mojang account no longer exists. It may have been migrated to a Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>The Mojang captain no longer exists. May&apos;ve been migrated to be a Microsoft captain.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="280"/>
         <source>Authentication operation failed due to a network error: %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Authenticatin&apos; plan failed due to a fire in the crow&apos;s nest: %1 (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="305"/>
         <source>Failed to parse authentication server response JSON response: %1 at offset %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to understand authenticatin&apos; islands&apos; reply JSON reply: %1 at %2 off.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="329"/>
         <source>An unknown error occurred when trying to communicate with the authentication server: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>An unknown fire burnt when tryin&apos; t&apos; communicate with th&apos; authenticatin&apos; islands: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="351"/>
         <source>An unknown Yggdrasil error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>An unknown Yggdrasil fire burnt.</translation>
     </message>
 </context>
 <context>
@@ -8787,7 +8811,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="18"/>
         <source>Logging in with Mojang account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Loggin&apos; in with Mojang captain.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="35"/>
@@ -8802,7 +8826,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="49"/>
         <source>Mojang user authentication ended with a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang sailor authenticatin&apos; ended with a fire in the crow&apos;s nest.</translation>
     </message>
 </context>
 </TS>
