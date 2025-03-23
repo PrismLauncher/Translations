@@ -555,7 +555,7 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="63"/>
         <source>Accounts</source>
-        <translation>Accounts</translation>
+        <translation>Accownts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
@@ -932,7 +932,7 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Java checkew wibwawy couwd nyot be found. Pwease check youw instawwation.</translation>
+        <translation>Jawa checkew wibwawy couwd nyot be found. Pwease check youw instawwation.</translation>
     </message>
 </context>
 <context>
@@ -1022,7 +1022,7 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation>Copy instwance</translation>
+        <translation>Cowopy instwance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
@@ -1057,12 +1057,12 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="156"/>
         <source>Copy game options</source>
-        <translation>Copy gwame optwions</translation>
+        <translation>Cowopy gwame optwions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="163"/>
         <source>Copy saves</source>
-        <translation>Copy swaves</translation>
+        <translation>Cowopy swaves</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="170"/>
@@ -1570,7 +1570,7 @@ Awe you suwe?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Copying FMW wibwawies into the instawnce...</translation>
+        <translation>Cowopying FMW wibwawies into the instawnce...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="103"/>
@@ -1580,7 +1580,7 @@ Awe you suwe?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="108"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Faiwed copying Fowge/FMW library: %1.</translation>
+        <translation>Faiwed cowopying Fowge/FMW library: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="121"/>
@@ -1729,12 +1729,12 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="510"/>
         <source>Copying Blocked Mods...</source>
-        <translation>Copying Bwocked Mods...</translation>
+        <translation>Cowopying Bwocked Mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="523"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>Copying Bwocked Mods (%1 o-out of %2 awe donye)</translation>
+        <translation>Cowopying Bwocked Mods (%1 o-out of %2 awe donye)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
@@ -2173,7 +2173,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="61"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>Instawnce fowdew copy has been abowted.</translation>
+        <translation>Instawnce fowdew cwopy has been abowted.</translation>
     </message>
 </context>
 <context>
@@ -2273,7 +2273,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="55"/>
         <source>Java insta&amp;llation</source>
-        <translation>Java insta&amp;wwation</translation>
+        <translation>Jawa insta&amp;wwation</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="70"/>
@@ -2288,17 +2288,17 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="84"/>
         <source>Test</source>
-        <translation>Test</translation>
+        <translation>T-Test</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>If enyabwed, the waunchew wiww nyot check if an instance is compatibwe with the sewected Java vewsion.</translation>
+        <translation>If enyabwed, the waunchew wiww nyot check if an instance is compatibwe with the sewected Jawa vewsion.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
         <source>Skip Java compatibility checks</source>
-        <translation>Skip Java compatibiwity chewcks</translation>
+        <translation>Skip Jawa compatibiwity chewcks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
@@ -2323,7 +2323,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="191"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>The amount of memowy avaiwabwe to stowe woaded Java cwasses.</translation>
+        <translation>The amount of memowy avaiwabwe to stowe woaded Jawa cwasses.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="133"/>
@@ -2333,12 +2333,12 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="140"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>Nyote: P-Pewmgen i-is s-set automaticawwy wutomaticawwy by J-Java 8 and w-watew</translation>
+        <translation>Nyote: P-Pewmgen i-is s-set automaticawwy wutomaticawwy by J-Jawa 8 and w-watew</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="232"/>
         <source>Java argumen&amp;ts</source>
-        <translation>Java awgumen&amp;ts</translation>
+        <translation>Jawa awgumen&amp;ts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="251"/>
@@ -2510,7 +2510,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="401"/>
         <source>Select a Java version</source>
-        <translation>Sewect a J-Java vewsion</translation>
+        <translation>Sewect a J-Jawa vewsion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="419"/>
@@ -3602,7 +3602,7 @@ Weason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
         <source>&amp;Copy</source>
-        <translation>&amp;C-Copy</translation>
+        <translation>&amp;C-Cwopy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -3710,7 +3710,7 @@ Weason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="56"/>
         <source>Open page and copy code</source>
-        <translation>Open page and c-copy code</translation>
+        <translation>Open page and c-cwopy code</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="107"/>
@@ -3807,7 +3807,7 @@ Weason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="194"/>
         <source>&amp;Accounts</source>
-        <translation>&amp;Accounts</translation>
+        <translation>&amp;Accownts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="386"/>
@@ -3963,7 +3963,7 @@ Weason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="315"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>&amp;Manyage Accounts...</translation>
+        <translation>&amp;Manyage Accownts...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
@@ -4080,7 +4080,7 @@ Weason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="424"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="796"/>
         <source>Accounts</source>
-        <translation>Accounts</translation>
+        <translation>Accownts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
@@ -4156,7 +4156,7 @@ Weason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="431"/>
         <source>Copy the selected instance.</source>
-        <translation>Copy the sewected instance.</translation>
+        <translation>Cwopy teh sewected instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
@@ -4223,7 +4223,7 @@ Weason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="486"/>
         <source>No accounts added!</source>
-        <translation>*giggles* Nyo accounts added!</translation>
+        <translation>*giggles* Nyo accownts added!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="721"/>
@@ -5751,7 +5751,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="64"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>cwopy da whowe log intwo da cwipboawd</translation>
+        <translation>Cwopy da whowe log intwo da cwipboawd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
@@ -7296,7 +7296,7 @@ Awe u sure??</translation>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
         <source>Copy File(s)</source>
-        <translation>Copy Fiwe(s)</translation>
+        <translation>Cowopy Fiwe(s)</translation>
     </message>
 </context>
 <context>
@@ -8679,7 +8679,7 @@ Awe u sure??</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="122"/>
         <source>Copy Seed</source>
-        <translation>Copy Seed</translation>
+        <translation>Cowopy Seed</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="127"/>
@@ -8778,7 +8778,7 @@ It may be nessessawwy two weinstaww it.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="412"/>
         <source>Copy World</source>
-        <translation>Copy Wowwd</translation>
+        <translation>Cowopy Wowwd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
@@ -8812,7 +8812,7 @@ Awe u sure??</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
         <source>Enter a new name for the copy.</source>
-        <translation>Entew a nyew nyame fow the copy.</translation>
+        <translation>Entew a nyew nyame fow the cowopy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="434"/>
