@@ -2889,7 +2889,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="92"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>CurseForge에서 &apos;%1&apos;에 대한 API 응답을 분석하는 중...</translation>
+        <translation>CurseForge에서 &apos;%1&apos;에 대한 API 응답을 파싱하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
@@ -2904,7 +2904,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">&apos;%1&apos;에 대한 CurseForge의 API 응답을 파싱하는 중...</translation>
+        <translation>&apos;%1&apos;에 대한 CurseForge의 API 응답을 파싱하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
@@ -5419,7 +5419,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="69"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation>마인크래프트 액세스 토큰 응답을 분석하지 못하였습니다.</translation>
+        <translation>마인크래프트 액세스 토큰 응답을 파싱하지 못하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -8249,7 +8249,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="65"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation>마인크래프트 Java 프로필의 응답을 분석할 수 없음</translation>
+        <translation>마인크래프트 Java 프로필의 응답을 파싱할 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
@@ -9728,7 +9728,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="191"/>
         <source>Failed to parse versions response: %1</source>
-        <translation>버전 응답 구문 분석 실패: %1</translation>
+        <translation>버전 응답 파싱 실패: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="200"/>
@@ -13731,7 +13731,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="461"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="475"/>
         <source>failed to parse get user UUID response</source>
-        <translation>사용자 UUID 가져오기 응답을 분석하지 못함</translation>
+        <translation>사용자 UUID 가져오기 응답을 파싱하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="470"/>
@@ -13741,7 +13741,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="484"/>
         <source>failed to parse get user profile response</source>
-        <translation>사용자 프로필 가져오기 응답을 분석하지 못함</translation>
+        <translation>사용자 프로필 가져오기 응답을 파싱하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="501"/>
@@ -15616,7 +15616,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="81"/>
         <source>Could not parse authorization response for access to %1 services.</source>
-        <translation>%1 서비스에 대한 액세스 권한 부여 응답을 분석할 수 없습니다.</translation>
+        <translation>%1 서비스에 대한 액세스 권한 부여 응답을 파싱할 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="87"/>
@@ -15631,7 +15631,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="104"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
-        <translation>JSON에 대한 %1 권한 부여 오류 반응을 분석할 수 없습니다: %2</translation>
+        <translation>%1 권한 부여 오류 응답을 JSON으로 파싱할 수 없습니다: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="112"/>
