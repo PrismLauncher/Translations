@@ -2234,92 +2234,92 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="251"/>
         <source>Game windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Ship&apos;s windows</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="260"/>
         <source>Game Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Ship Window</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="272"/>
         <source>Start Minecraft maximized?</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Minecraft at full sail?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="281"/>
         <source>Window height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Window height:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="288"/>
         <source>Window width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Window width:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="332"/>
         <source>Conso&amp;le Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Conso&amp;le Choices</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="344"/>
         <source>Show console while the game is running?</source>
-        <translation type="unfinished"></translation>
+        <translation>Display console while the ship be sailin&apos;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="351"/>
         <source>Automatically close console when the game quits?</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatically close console when th&apos; ship be anchoring?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="358"/>
         <source>Show console when the game crashes?</source>
-        <translation type="unfinished"></translation>
+        <translation>Show console when the ship sinks?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="380"/>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Close the launcher after the ship sails</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="387"/>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Quit the launcher after the ship anchors</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="411"/>
         <source>Custom commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Custom orders</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="421"/>
         <source>Workarounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternate methods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="430"/>
         <source>Native libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Local archives</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="442"/>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished"></translation>
+        <translation>Use system&apos;s model o&apos; GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="449"/>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished"></translation>
+        <translation>Use system&apos;s model o&apos; OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="614"/>
         <source>Override default account</source>
-        <translation type="unfinished"></translation>
+        <translation>Mutiny th&apos; default captain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="634"/>
         <source>Account:</source>
-        <translation type="unfinished"></translation>
+        <translation>Captain:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="368"/>
@@ -2331,57 +2331,57 @@ Try again, if ye dare.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="473"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="482"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Performance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="494"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s Gamin&apos;Mode, hopin&apos; t&apos; improve the winds fer the sails.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="497"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable Feral Gamin&apos;Mode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="504"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s bett&apos;r performance curtains.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="507"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="514"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the attached GPU instead o&apos; th&apos; main GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="517"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>Use attached GPU</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="550"/>
         <source>Override global game time settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Mutiny th&apos; time options for th&apos; whole ship</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="562"/>
         <source>Show time spent playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Show time spent sailin&apos; this ship</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="569"/>
         <source>Record time spent playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Write down time spent sailin&apos; this ship</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="579"/>
         <source>Set a server to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Set a sea to sail to on launch</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="599"/>
@@ -2391,37 +2391,37 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="372"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Feral Interactive&apos;s Gamin&apos;Mode be missin&apos; from yer system.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="377"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>MangoHud be missin&apos; from yer system.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="401"/>
         <source>Select a Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Pick a Java model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="419"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Locate Java executable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="471"/>
         <source>No default account</source>
-        <translation type="unfinished"></translation>
+        <translation>No default captain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="539"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer set limit&apos; o&apos; thinkin&apos; is too heavy for yer vessel.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="542"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer set limit&apos; o&apos; thinkin&apos; is nearin&apos; what yer verssel can carry.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="63"/>
@@ -2434,7 +2434,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="826"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed t&apos; commit ship, even after multiple attempts. Somethin&apos; be preventin&apos; it.</translation>
     </message>
 </context>
 <context>
@@ -2442,27 +2442,27 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="60"/>
         <source>Console window for </source>
-        <translation type="unfinished"></translation>
+        <translation>Console window for </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="84"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Help</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>Launch Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Launch to Lonely Seas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="101"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Launch Ye Short Game</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Close</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="159"/>
@@ -2484,7 +2484,7 @@ Try again, if ye dare.</translation>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="169"/>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="184"/>
         <source>Launch the instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Sail the ship</translation>
     </message>
 </context>
 <context>
@@ -2492,12 +2492,12 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="34"/>
         <source>Listening on port: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Perceivin&apos; port: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="41"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Profiler sent off the port bow</translation>
     </message>
 </context>
 <context>
@@ -2505,12 +2505,12 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="32"/>
         <source>JVisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>JVisualVM sailed</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="39"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Profiler sent off the port bow</translation>
     </message>
 </context>
 <context>
@@ -2518,7 +2518,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="165"/>
         <source>Detecting Java installations...</source>
-        <translation type="unfinished"></translation>
+        <translation>Scouring Java models...</translation>
     </message>
 </context>
 <context>
@@ -2526,108 +2526,108 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="45"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Amount o&apos; thinkin&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="103"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>The maximum amount o&apos; memory Minecraft is allowed to use.</translation>
+        <translation>The limit o&apos; thinkin&apos; Minecraft is permitted to use.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bare thinkin&apos; given to th&apos; ship:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Li&amp;mit o&apos; thinkin&apos; given to th&apos; ship:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>The amount o&apos; memory Minecraft is started with.</translation>
+        <translation>The amount o&apos; thinkin&apos; Minecraft sailed with.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="125"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>The amount o&apos; memory available to store loaded Java classes.</translation>
+        <translation>The amount o&apos; thinkin&apos; space open fer loadin&apos; Java classes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="160"/>
         <source>Java Runtime</source>
-        <translation type="unfinished"></translation>
+        <translation>Java Runtime</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="185"/>
         <source>JVM arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>JVM arguments:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="201"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Java path:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="172"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Let th&apos; machine find it...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="217"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Test</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="266"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="unfinished"></translation>
+        <translation>If enabled, th&apos; launcher ain&apos;t gonna ask ye to pick a Java model if there ain&apos;t one found.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="269"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Belay Java &amp;Wizard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>If enabled, th&apos; launcher ain&apos;t goin&apos; t&apos; check if the instance be compatible with yer Java model.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Belay th&apos; compatible Java checks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="136"/>
         <source>Select a Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Pick a Java model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="149"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Locate Java executable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="203"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer set limit&apos; o&apos; thinkin&apos; is too heavy for yer vessel.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="206"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer set limit&apos; o&apos; thinkin&apos; is nearin&apos; what yer verssel can carry.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
         <source>Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java</translation>
     </message>
 </context>
 <context>
@@ -2635,7 +2635,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="162"/>
         <source>No Java version selected</source>
-        <translation type="unfinished"></translation>
+        <translation>No Java model picked</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="163"/>
@@ -2645,62 +2645,62 @@ Do you wish to proceed without any Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Ye didn&apos;t select a Java version, or ye selected one that isn&apos;t seaworthy.
+        <translation>Ye didn&apos;t pick a Java model or ye picked one that isn&apos;t seaworthy.
 %1 will not be able to weigh anchor.
 Do ye wish to proceed without any Java?
 
-Ye can change the Java version in the settins&apos; later.
+Ye can change the Java model in the settins&apos; later.
 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Locate Java executable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="437"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Amount o&apos; thinkin&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="438"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>The maximum amount o&apos; memory Minecraft is allowed to use.</translation>
+        <translation>The limit o&apos; thinkin&apos; Minecraft is permitted to use.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="439"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bare thinkin&apos; given:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="440"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Limit o&apos; thinkin&apos; given:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="441"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>The amount o&apos; memory Minecraft sets sail with.</translation>
+        <translation>The amount o&apos; thinkin&apos; Minecraft sailed with.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="442"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>The amount o&apos; memory available to store loaded Java classes.</translation>
+        <translation>The amount o&apos; thinkin&apos; space open fer loadin&apos; Java classes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="443"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Peruse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="452"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Ye maximum memory allocation be too heavy for ye vessel.</translation>
+        <translation>Yer set limit&apos; o&apos; thinkin&apos; is too heavy for yer vessel.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="455"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Ye maximum memory allocation is nearin&apos; the limit o&apos; what ye vessel can carry.</translation>
+        <translation>Yer set limit&apos; o&apos; thinkin&apos; is nearin&apos; what yer verssel can carry.</translation>
     </message>
 </context>
 <context>
@@ -2708,7 +2708,7 @@ Ye can change the Java version in the settins&apos; later.
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="94"/>
         <source>Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="95"/>
@@ -2754,7 +2754,7 @@ Select one of the following or browse for a Java executable, if ye dare.</transl
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="70"/>
         <source>No instance specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>No ship picked!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
@@ -2764,7 +2764,7 @@ Select one of the following or browse for a Java executable, if ye dare.</transl
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="95"/>
         <source>No Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>No Captains</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="128"/>
@@ -2774,7 +2774,7 @@ Select one of the following or browse for a Java executable, if ye dare.</transl
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="152"/>
         <source>No account selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>No captain picked for launch.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="206"/>
@@ -2784,22 +2784,22 @@ Select one of the following or browse for a Java executable, if ye dare.</transl
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="197"/>
         <source>Choose your offline mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter yer lonely-sea captain name.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="199"/>
         <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter yer short game captain name.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="236"/>
         <source>Received undetermined session status during login.</source>
-        <translation type="unfinished"></translation>
+        <translation>Received unknown crew log status during boarding.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="247"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Play ye short game?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
@@ -2815,12 +2815,12 @@ Do ye want to play the demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Play Ye Short Game</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="261"/>
@@ -2835,12 +2835,12 @@ Do ye want to play the demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="290"/>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="unfinished"></translation>
+        <translation>The ol&apos; drunk cap&apos;n was sent to the brig and needs remindin&apos; who they were again.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="293"/>
         <source>Account refresh failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Captain recheck failed</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="314"/>
@@ -2850,7 +2850,7 @@ Do ye want to play the demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="317"/>
         <source>Account gone</source>
-        <translation type="unfinished"></translation>
+        <translation>Captain gone</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="327"/>
@@ -2867,17 +2867,17 @@ Do ye want to play the demo?</translation>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <location filename="src/launcher/LaunchController.cpp" line="338"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t load the ship manifest.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="345"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t set sail a launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="409"/>
         <source>Couldn&apos;t start profiler: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t set sail profiler: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="418"/>
@@ -2919,7 +2919,7 @@ Do ye want to play the demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="477"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation>This can cause ye instance to get corrupted and should only be used if ye ship is about to be taken.</translation>
+        <translation>This can cause ye ship to get cursed and should only be used if somehow yer sails be broken</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="302"/>
