@@ -2900,7 +2900,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
+        <translation>API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
@@ -4135,7 +4135,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation>Használja a GLFW rendszer telepítését</translation>
+        <translation>Használja a GLFW rendszertelepítését</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
@@ -4143,7 +4143,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation>Használja az OpenAL rendszer telepítését</translation>
+        <translation>Használja az OpenAL rendszertelepítését</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -8093,7 +8093,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>Használja a &amp;GLFW rendszer telepítését</translation>
+        <translation>Használja a &amp;GLFW rendszertelepítését</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
@@ -8102,7 +8102,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>Használja az &amp;OpenAL rendszer telepítését</translation>
+        <translation>Használja az &amp;OpenAL rendszertelepítését</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
@@ -8421,7 +8421,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
         <source>Use system installation of OpenAL</source>
-        <translation>Használja az OpenAL rendszer telepítését</translation>
+        <translation>Használja az OpenAL rendszertelepítését</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="382"/>
@@ -8431,7 +8431,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="392"/>
         <source>Use system installation of GLFW</source>
-        <translation>Használja a GLFW rendszer telepítését</translation>
+        <translation>Használja a GLFW rendszertelepítését</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="406"/>
