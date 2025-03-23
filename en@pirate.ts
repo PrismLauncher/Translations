@@ -479,18 +479,18 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation>&amp;Upload yer flag</translation>
+        <translation>&amp;Deliver Trousers</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation>&amp;Scuttle Flag</translation>
+        <translation>&amp;Scuttle Trousers</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>Delete the currently active skin and go back to the default one</source>
-        <translation>Be scuttlin&apos; yer flag and be returning to the ancient one</translation>
+        <translation>Be scuttlin&apos; yer trousers and be returnin&apos; to the standard one</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
@@ -502,7 +502,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>Renew</translation>
+        <translation>&amp;Renew</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
@@ -519,13 +519,13 @@ If yer new here, you can click the &quot;Add&quot; button to add your Mojang or 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
         <source>Context menu</source>
-        <translation>Shipside options chart</translation>
+        <translation>Shipside list</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation>Please enter yer Mojang ship email and password to build yer ship.</translation>
+        <translation>Please enter yer Mojang captain&apos;s seaemail and secret phrase to enlist yer captain.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -545,12 +545,12 @@ Please be updating of both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Skin Delete</source>
-        <translation>Scuttle Flag</translation>
+        <translation>Scuttle Trousers</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Failed to delete current skin!</source>
-        <translation>Failed to scuttle current flag!</translation>
+        <translation>Failed to scuttle current trousers!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="63"/>
@@ -1300,7 +1300,7 @@ Please be updating of both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="71"/>
         <source>Actions</source>
-        <translation>Thing to be done</translation>
+        <translation>Things to be done</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
@@ -1381,7 +1381,7 @@ Please be updating of both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="63"/>
         <source>Context menu</source>
-        <translation>To-sail list</translation>
+        <translation>Shipside list</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="146"/>
@@ -1414,7 +1414,7 @@ Are ye sure?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="191"/>
         <source>Confirm Removal</source>
-        <translation>Ye wish to remove</translation>
+        <translation>Aye, remove</translation>
     </message>
 </context>
 <context>
@@ -6955,7 +6955,7 @@ Kindly upgrade %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="80"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Only %1 with a check&apos;ll be plundered!</translation>
     </message>
 </context>
 <context>
@@ -6963,7 +6963,7 @@ Kindly upgrade %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="41"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Things to be done</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="61"/>
@@ -6973,64 +6973,68 @@ Kindly upgrade %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="66"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Scuttle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="71"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Rename</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
         <source>View Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Peruse Chest</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="323"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Shipside list</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="386"/>
         <source>You are about to upload %1 screenshots.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer about t&apos; deliver %1 screen images.
+
+Savvy?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="391"/>
         <source>You are about to upload the selected screenshot.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer about t&apos; deliver the picked screen image.
+
+Savvy?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="415"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="455"/>
         <source>Failed to upload screenshots!</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to deliver screen images!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="416"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="456"/>
         <source>Unknown error</source>
-        <translation type="unfinished"></translation>
+        <translation>Unknown fire</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="425"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="467"/>
         <source>Upload finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Delivery finished</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="426"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>The &lt;a href=&quot;%1&quot;&gt;ocean trail  to the delivered screen image&lt;/a&gt; has been recorded to your captain&apos;s parchment.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="468"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>The &lt;a href=&quot;%1&quot;&gt;ocean trail  to th&apos; uploaded image collection&lt;/a&gt; has been recorded to your captain&apos;s parchment.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="518"/>
@@ -7038,7 +7042,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer about to wreck %1 screen images.
+This may be permanent and they will be sent to Davey Jones&apos;s locker.
+
+Savvy?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="523"/>
@@ -7046,29 +7053,32 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer about to wreck the picked screen image.
+This may be permanent and it will be sent to Davey Jones&apos;s locker.
+
+Savvy?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="529"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirm Scuttle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="76"/>
         <source>Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Screen images</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Replicate Image</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
         <source>Copy File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Replicate File(s)</translation>
     </message>
 </context>
 <context>
@@ -7076,12 +7086,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="10"/>
         <source>One of the tasks failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrgh, a task failed!</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="21"/>
         <source>Executing task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Executin&apos; task %1 of %2</translation>
     </message>
 </context>
 <context>
@@ -7094,12 +7104,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="338"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Coordinates</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="340"/>
         <source>Latency</source>
-        <translation type="unfinished"></translation>
+        <translation>Delay</translation>
     </message>
 </context>
 <context>
@@ -7107,77 +7117,77 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="72"/>
         <source>&amp;Name</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Moniker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="85"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Coordinates</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="98"/>
         <source>Reso&amp;urces</source>
-        <translation type="unfinished"></translation>
+        <translation>Car&amp;go</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"/>
         <source>Ask to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Ask to plunder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="114"/>
         <source>Always download</source>
-        <translation type="unfinished"></translation>
+        <translation>Always plunder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="119"/>
         <source>Never download</source>
-        <translation type="unfinished"></translation>
+        <translation>Never plunder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="130"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Things to be done</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="155"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Stow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="160"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="165"/>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Move Up</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Move Down</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Join</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="69"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Islands in the Ocean</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="657"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Shipside list</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Aye, remove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="806"/>
@@ -7185,7 +7195,10 @@ Are you sure?</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer about to remove &quot;%1&quot;.
+This be permanent and the island will be forgotten from yer maps forever (A LONG TIME).
+
+Savvy?</translation>
     </message>
 </context>
 <context>
@@ -7193,27 +7206,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
         <source>&amp;Next &gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Next &gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
         <source>&lt; &amp;Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; &amp;Back</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <source>&amp;Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aye, done</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Renew</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Hasty Preparation</translation>
     </message>
 </context>
 <context>
@@ -7264,7 +7277,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/services/SkinDelete.cpp" line="55"/>
         <source>Deleting skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Scuttling trousers</translation>
     </message>
 </context>
 <context>
@@ -7272,7 +7285,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/services/SkinUpload.cpp" line="80"/>
         <source>Uploading skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Deliverin&apos; trousers</translation>
     </message>
 </context>
 <context>
@@ -7285,72 +7298,72 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="136"/>
         <source>Skin Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Trouser Delivery</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="20"/>
         <source>Skin File</source>
-        <translation type="unfinished"></translation>
+        <translation>Trousers File</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="26"/>
         <source>Leave empty to keep current skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Leave blank t&apos; keep current trousers</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="55"/>
         <source>Player Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Sailor Shape</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="61"/>
         <source>Steve Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Steve Shape</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="71"/>
         <source>Alex Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Alex Shape</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="81"/>
         <source>Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Tricorne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="83"/>
         <source>Using remote URLs for setting skins is not implemented yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usin&apos; foreign URLs fer puttin&apos; on trousers ain&apos;t added yet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="95"/>
         <source>You cannot use an invalid URL for uploading skins.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ye can&apos;t use an invalid URL for deliverin&apos; trousers.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="110"/>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished"></translation>
+        <translation>Trouser file&apos;s non-existent!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to deliver trousers!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="136"/>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Success</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="143"/>
         <source>Select Skin Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Pick Trousers Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="160"/>
         <source>No Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>No Tricorne</translation>
     </message>
 </context>
 <context>
@@ -7359,37 +7372,38 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="42"/>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Plunderin&apos; modpack:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="47"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation>Plunder the modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="61"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Looting modifications cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="69"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unable to open th&apos; locked modpack chest.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="97"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to open ye locked chest</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="124"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not fix permissions fer %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="141"/>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ship import has been abandoned.</translation>
     </message>
 </context>
 <context>
@@ -7398,13 +7412,13 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="71"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="73"/>
         <source>Resolving modpack files</source>
-        <translation type="unfinished"></translation>
+        <translation>Consolidatin&apos; modification cargo contents</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="86"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="110"/>
         <source>Downloading modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Plunderin&apos; modifications cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="102"/>
@@ -7416,22 +7430,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Looting modifications cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="186"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to open ye locked chest</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="213"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not fix permissions fer %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="230"/>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ship import has been abandoned.</translation>
     </message>
 </context>
 <context>
@@ -7439,51 +7453,53 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Unable to open &quot;bin/modpack.jar&quot; file!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="68"/>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Unable to open &quot;fmlversion.properties&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="82"/>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="137"/>
         <source>Unable to open &quot;version.json&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Unable to open &quot;version.json&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="91"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t find &quot;version.json&quot; in &quot;bin/modpack.jar&quot;, but Minecraft model is strange</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="105"/>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Unable to open &quot;forgeversion.properties&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid &quot;forgeversion.properties&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="146"/>
         <source>Unable to find a &quot;version.json&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Unable to find a &quot;version.json&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="159"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not understand &quot;version.json&quot;:
+inheritsFrom is missing</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="209"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Could not understand &quot;version.json&quot;:
+</translation>
     </message>
 </context>
 <context>
@@ -7502,12 +7518,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="81"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Scour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="221"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> by </translation>
     </message>
 </context>
 <context>
@@ -7563,14 +7579,14 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="58"/>
         <source>&amp;Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Colors</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="81"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="105"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="112"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>The strange parrot be under th&apos; deck and ain&apos;t seen standardly. It only be seen when pressin&apos; the &quot;Strange Parrot&quot; button in th&apos; Handy-objectbar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
@@ -7824,7 +7840,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="75"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Things to be done</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="121"/>
@@ -8074,7 +8090,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Aye, remove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="334"/>
@@ -8348,7 +8364,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="83"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Renew</translation>
     </message>
 </context>
 <context>
@@ -8422,17 +8438,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="65"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Things to be done</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="97"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Stow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="102"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Rename</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="107"/>
@@ -8462,7 +8478,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="132"/>
         <source>View Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Peruse Chest</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="137"/>
