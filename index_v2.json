@@ -107,11 +107,11 @@
             "untranslated" : 1402
         },
         "en@pirate" : {
-            "file" : "704e0940e97173f62e03cd865d13210df67113e1.class",
-            "sha1" : "704e0940e97173f62e03cd865d13210df67113e1",
-            "size" : 77624,
-            "translated" : 500,
-            "fuzzy" : 8,
+            "file" : "4263da2a7da6b95b3a19d9ef2b7caf75463ea243.class",
+            "sha1" : "4263da2a7da6b95b3a19d9ef2b7caf75463ea243",
+            "size" : 77626,
+            "translated" : 501,
+            "fuzzy" : 7,
             "untranslated" : 1030
         },
         "en@uwu" : {
