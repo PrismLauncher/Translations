@@ -2010,7 +2010,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
         <source>Import from zip</source>
-        <translation>Add from yer zip</translation>
+        <translation>Plunder a locked chest</translation>
     </message>
 </context>
 <context>
