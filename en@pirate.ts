@@ -1789,7 +1789,7 @@ Try again, if ye dare.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>Sort by Fame among Fellow Pirates</translation>
+        <translation>Sort by Fame among fellows</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="65"/>
