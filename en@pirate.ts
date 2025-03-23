@@ -2825,7 +2825,7 @@ Do ye want to play the demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="261"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Didn&apos;t set sail - account isn&apos;t a real pirate.</translation>
+        <translation>Didn&apos;t set sail - account ain&apos;t a real pirate.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="277"/>
