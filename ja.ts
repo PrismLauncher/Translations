@@ -2017,7 +2017,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="160"/>
         <source>Abort</source>
-        <translation>やめる</translation>
+        <translation>中断</translation>
     </message>
 </context>
 <context>
@@ -4501,7 +4501,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="74"/>
         <source>Downloaded Java Versions</source>
-        <translation>ダウンロードされたJavaバージョン</translation>
+        <translation>ダウンロード済みのJavaバージョン</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="92"/>
