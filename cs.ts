@@ -11900,22 +11900,22 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <translation type="vanished">Vlastní</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="296"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="294"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>Kočka na pozadí (z MultiMC)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="295"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11 (nakreslil Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="296"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11 (ploché, nakreslil Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="299"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie (nakreslil SympathyTea)</translation>
     </message>

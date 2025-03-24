@@ -9741,22 +9741,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>புதிய நிகழ்வை உருவாக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="296"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="294"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>பின்னணி பூனை (மல்டிம்சியிலிருந்து)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="295"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>ரோரி ஐடி 11 (அச்டகாவால் வரையப்பட்டது)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="296"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>ரோரி ஐடி 11 (தட்டையான பதிப்பு, அச்டகாவால் வரையப்பட்டது)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="299"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>TEAWIE (அனுதாபத்தால் வரையப்பட்டது)</translation>
     </message>

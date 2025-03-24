@@ -11796,22 +11796,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">사용자 정의</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="296"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="294"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>고양이 배경 화면(MultiMC에서 가져옴)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="295"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11(Ashtaka가 그림)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="296"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11(플랫 에디션, Ashtaka가 그림)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="299"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie(SympathyTea가 그림)</translation>
     </message>
