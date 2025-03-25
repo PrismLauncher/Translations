@@ -1140,7 +1140,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">شکست در احراز هویت. این نشست منقضی شده.</translation>
+        <translation>احراز هویت با مشکل رو به رو شد. این نشست منقضی شده است.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
