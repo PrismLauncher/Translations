@@ -2846,7 +2846,7 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>API antwoord van CurseForge analyseren voor &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
@@ -4790,7 +4790,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="91"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indien geactiveerd, zal de launcher je niet vragen om een Java-versie te kiezen als er geen wordt gevonden bij het opstarten.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="94"/>
@@ -4800,7 +4800,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="101"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indien geactiveerd, zal de launcher niet controleren of een instance compatibel is met de geselecteerde Java versie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="104"/>
