@@ -7,34 +7,34 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Pastebin Paslauga</translation>
+        <translation>„Pastebin“ &amp;paslauga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Įklijavimo Paslauga &amp;Tipas</translation>
+        <translation>Įklijavimo paslaugos &amp;tipas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>Pagrindo &amp;URL</translation>
+        <translation>Bazinis &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Pastaba: jūs tikriausiai norėsite pakeisti arba panaikinti Pagrindo URL pakeitę įklijavimo paslaugos tipą.</translation>
+        <translation>Pastaba: tikriausiai norėsite pakeisti arba ištrinti bazinį URL pakeitę įklijavimo paslaugos tipą.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation>API Raktai</translation>
+        <translation>API raktai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;Microsoft Autentifikacija</translation>
+        <translation>„&amp;Microsoft“ autentifikavimas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
