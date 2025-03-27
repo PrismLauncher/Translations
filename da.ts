@@ -2805,7 +2805,7 @@ Prøv venligst igen.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Fortolker API-svar fra CurseForge for &apos;%1&apos;...</translation>
+        <translation>Fortolker API-svar fra CurseForge for &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
@@ -11205,55 +11205,55 @@ BEMÆRK: Sørg for, at du har lavet en sikkerhedskopi af dine vigtige instance d
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="267"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Ikke markeret</translation>
+        <translation>Ikke checket</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="269"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="271"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Klar</translation>
+        <translation>Klar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="273"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Arbejder</translation>
+        <translation>Arbejder</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="275"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Fejlet</translation>
+        <translation>Fejlet</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="277"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Udløbet</translation>
+        <translation>Udløbet</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="279"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Deaktiveret</translation>
+        <translation>Deaktiveret</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="281"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Væk</translation>
+        <translation>Væk</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="283"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Ukendt</translation>
+        <translation>Ukendt</translation>
     </message>
 </context>
 <context>
