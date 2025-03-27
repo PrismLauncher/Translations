@@ -5010,8 +5010,8 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Non hai selezionato una versione di Java o ne hai selezionato una che non funziona.
-%1 non sarà in grado di avviare Minecraft.
+        <translation>Non hai selezionato una versione di Java o ne hai selezionato una che non funziona.
+%1 non puo avviare Minecraft.
 Sei sicuro di procedere senza una versione di Java funzionante?
 
 Puoi cambiare la versione di Java nelle impostazioni più tardi.
