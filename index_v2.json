@@ -75,11 +75,11 @@
             "untranslated" : 2176
         },
         "da" : {
-            "file" : "9c7560f9a9cde1d0a13bb58e932b3e7119e7b217.class",
-            "sha1" : "9c7560f9a9cde1d0a13bb58e932b3e7119e7b217",
-            "size" : 341870,
-            "translated" : 2353,
-            "fuzzy" : 10,
+            "file" : "90a2f2b5cc02901ea8ed788603a1e807975e6470.class",
+            "sha1" : "90a2f2b5cc02901ea8ed788603a1e807975e6470",
+            "size" : 341868,
+            "translated" : 2363,
+            "fuzzy" : 0,
             "untranslated" : 0
         },
         "de" : {
@@ -222,8 +222,8 @@
             "file" : "21a74af92ea3dae2096d27a904969da668c01fd1.class",
             "sha1" : "21a74af92ea3dae2096d27a904969da668c01fd1",
             "size" : 376594,
-            "translated" : 2354,
-            "fuzzy" : 9,
+            "translated" : 2363,
+            "fuzzy" : 0,
             "untranslated" : 0
         },
         "fr_CA" : {
@@ -374,8 +374,8 @@
             "file" : "e6fb021f317b9ac148aa55803f728bd748c8cc97.class",
             "sha1" : "e6fb021f317b9ac148aa55803f728bd748c8cc97",
             "size" : 271354,
-            "translated" : 2357,
-            "fuzzy" : 6,
+            "translated" : 2363,
+            "fuzzy" : 0,
             "untranslated" : 0
         },
         "lb" : {
