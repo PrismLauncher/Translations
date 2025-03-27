@@ -4885,7 +4885,7 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="235"/>
         <source>Java Argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Argomenti Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
@@ -4990,7 +4990,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Hai selezionato un&apos; installazione di Java a 32 bit, ma hai allocato più di 2048MiB come memoria massima.
+        <translation>Hai selezionato un&apos; installazione di Java a 32 bit, ma hai allocato più di 2048MiB come memoria massima.
 %1 non sarà in grado di avviare Minecraft.
 Vuoi continuare?
 
@@ -5055,17 +5055,17 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
         <source>Browse</source>
-        <translation type="unfinished">Sfoglia</translation>
+        <translation>Sfoglia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">Scarica automaticamente Java da Mojang</translation>
+        <translation>Scarica automaticamente Java da Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
         <source>Auto-detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto rileva versione Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
@@ -5075,7 +5075,7 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>la tua massima memoria allocata eccede la capacita di memoria del sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
