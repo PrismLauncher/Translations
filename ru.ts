@@ -12183,55 +12183,55 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="267"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Не проверен</translation>
+        <translation>Непроверенный</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="269"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Офлайн</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="271"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Готов</translation>
+        <translation>Готов</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="273"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Работает</translation>
+        <translation>Работает</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="275"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Ошибочные</translation>
+        <translation>Ошибочный</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="277"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Истёк</translation>
+        <translation>Истёкший</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="279"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Выключен</translation>
+        <translation>Отключённый</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="281"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Потерян</translation>
+        <translation>Ушедший</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="283"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестный</translation>
     </message>
 </context>
 <context>
