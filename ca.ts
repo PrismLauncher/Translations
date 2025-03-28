@@ -252,12 +252,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">S&apos;han trobat mods bloquejats</translation>
+        <translation>S&apos;han trobat mods bloquejats</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="825"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Els següents arxius són bloquejats a llançadors de tercers. &lt;br/&gt; Haureu de descarregar-los manualment i afegir-los a l&apos;instància</translation>
+        <translation>Els següents arxius són bloquejats a llançadors de tercers. &lt;br/&gt; Haureu de descarregar-los manualment i afegir-los a l&apos;instància.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="881"/>
@@ -634,7 +634,7 @@ Si ets nou aquí, pots fer clic al botó &quot;Afegir&quot; per afegir el vostre
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Benvingut!
-Si n&apos;ets un nou usuari, pots seleccionar el botó &quot;Afegeix Compte de Microsoft&quot; per a connectar el teu compte de Microsoft</translation>
+Si ets un nou usuari, pots seleccionar el botó &quot;Afegeix Compte de Microsoft&quot; per a connectar el teu compte de Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
