@@ -11312,47 +11312,47 @@ HTTP 狀態碼：%2</translation>
         <translation>深色</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="70"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="72"/>
         <source>Windows Vista</source>
         <translation>Windows Vista</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="72"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="74"/>
         <source>Windows 9x</source>
         <translation>Windows 9x</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="74"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="76"/>
         <source>Windows 11</source>
         <translation>Windows 11</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="76"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="78"/>
         <source>System</source>
         <translation>系統</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
         <source>Widget style trying to look like your win32 theme</source>
         <translation>小工具樣式嘗試模仿您的 win32 主題</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="89"/>
         <source>Windows 9x inspired widget style</source>
         <translation>Windows 9x 風格的小工具樣式</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="89"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="91"/>
         <source>WinUI 3 inspired Qt widget style</source>
         <translation>WinUI 3 風格的 Qt 小工具樣式</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="91"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="93"/>
         <source>The default Qt widget style</source>
         <translation>預設的 Qt 小工具樣式</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="93"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="95"/>
         <source>Your current system theme</source>
         <translation>您目前的系統主題</translation>
     </message>

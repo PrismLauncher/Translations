@@ -10455,47 +10455,47 @@ HTTP-tilakoodi: %2</translation>
         <translation>Tumma</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="70"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="72"/>
         <source>Windows Vista</source>
         <translation>Windows Vista</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="72"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="74"/>
         <source>Windows 9x</source>
         <translation>Windows 9x</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="74"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="76"/>
         <source>Windows 11</source>
         <translation>Windows 11</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="76"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="78"/>
         <source>System</source>
         <translation>Järjestelmä</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
         <source>Widget style trying to look like your win32 theme</source>
         <translation>Widgettityyli, joka yrittää näyttää win32 teemaltasi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="89"/>
         <source>Windows 9x inspired widget style</source>
         <translation>Windows 9x inspiroitu widgettityyli</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="89"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="91"/>
         <source>WinUI 3 inspired Qt widget style</source>
         <translation>WinUI 3 inspiroitu Qt widgettityyli</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="91"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="93"/>
         <source>The default Qt widget style</source>
         <translation>Qt:n oletuswidgettityyli</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="93"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="95"/>
         <source>Your current system theme</source>
         <translation>Järjestelmäsi nykyinen teema</translation>
     </message>

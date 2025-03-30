@@ -11203,47 +11203,47 @@ HTTP 상태: %2</translation>
         <translation>어둡게</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="70"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="72"/>
         <source>Windows Vista</source>
         <translation>Windows Vista</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="72"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="74"/>
         <source>Windows 9x</source>
         <translation>Windows 9x</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="74"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="76"/>
         <source>Windows 11</source>
         <translation>Windows 11</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="76"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="78"/>
         <source>System</source>
         <translation>시스템</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
         <source>Widget style trying to look like your win32 theme</source>
         <translation>Win32 테마처럼 보이려는 위젯 스타일</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="89"/>
         <source>Windows 9x inspired widget style</source>
         <translation>Windows 9x에서 영감을 얻은 위젯 스타일</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="89"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="91"/>
         <source>WinUI 3 inspired Qt widget style</source>
         <translation>WinUI 3에서 영감을 얻은 Qt 위젯 스타일</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="91"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="93"/>
         <source>The default Qt widget style</source>
         <translation>기본 Qt 위젯 스타일</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="93"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="95"/>
         <source>Your current system theme</source>
         <translation>현재 시스템 테마</translation>
     </message>
