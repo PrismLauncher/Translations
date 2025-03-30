@@ -12165,7 +12165,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="269"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="271"/>
@@ -12207,7 +12207,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="283"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nieznany</translation>
     </message>
 </context>
 <context>
