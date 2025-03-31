@@ -7863,12 +7863,12 @@ Please create a new instance before attempting to install this resource again.</
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
         <source>Changelog</source>
-        <translation>更新日誌</translation>
+        <translation>變更紀錄</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="186"/>
         <source>No changelog available for this version!</source>
-        <translation>這個版本沒有可用的更新日誌！</translation>
+        <translation>這個版本沒有可用的變更紀錄！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="201"/>
@@ -7927,7 +7927,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="230"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation>無法請求這個模組包的更新日誌資料。</translation>
+        <translation>無法請求這個模組包的變更紀錄資料。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="232"/>
@@ -9480,7 +9480,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation>最新版本的更新日誌</translation>
+        <translation>最新版本的變更紀錄</translation>
     </message>
 </context>
 <context>
@@ -9763,7 +9763,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
         <source>Fetching changelogs...</source>
-        <translation>正在取得更新日誌…</translation>
+        <translation>正在取得變更紀錄…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
@@ -12998,7 +12998,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="479"/>
         <source>Changelog of the latest version</source>
-        <translation>最新版本的更新日誌</translation>
+        <translation>最新版本的變更紀錄</translation>
     </message>
 </context>
 <context>
