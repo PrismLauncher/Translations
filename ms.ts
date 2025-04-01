@@ -2896,22 +2896,22 @@ Sila cuba lagi.</translation>
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="414"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="429"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Hai!&lt;/h1&gt;&lt;h4&gt;Nampaknya ID Pek anda adalah null. Ini adalah kerana pepijat dalam versi pelancar yang lebih lama.&lt;br/&gt;Malangnya, kami tidak boleh melakukan permintaan API yang betul tanpa maklumat ini.&lt;br/&gt;&lt;br/&gt;Jadi, untuk membolehkan ciri ini berfungsi, anda perlu memuat turun semula pek mod daripada pemuat turun terbina dalam.&lt;br/&gt;&lt;br/&gt;Jangan risau, ia akan meminta anda untuk mengemas kini pemasangan ini, jadi anda tidak akan kehilangan pemasangan ini!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="476"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="491"/>
         <source>%1 (Current)</source>
         <translation>%1 (Semasa)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="554"/>
         <source>Choose update file</source>
         <translation>Pilih fail kemas kini</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="554"/>
         <source>CurseForge pack</source>
         <translation>Pek CurseForge</translation>
     </message>
@@ -6910,6 +6910,26 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
         <source>Cannot update!</source>
         <translation>Tidak boleh mengemas kini!</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
+        <source>Update Successful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
+        <source>The instance updated to pack version %1 successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
+        <source>Update Failed</source>
+        <translation type="unfinished">Kemas Kini Gagal</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
+        <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
@@ -8280,22 +8300,22 @@ Sila kemas kini %1!</translation>
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="304"/>
         <source>%1 (Current)</source>
         <translation>%1 (Semasa)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="316"/>
         <source>Fetching changelogs...</source>
         <translation>Mendapatkan log perubahan...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="391"/>
         <source>Choose update file</source>
         <translation>Pilih fail kemas kini</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="391"/>
         <source>Modrinth pack</source>
         <translation>Pek Modrinth</translation>
     </message>

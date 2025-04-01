@@ -3063,22 +3063,22 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="414"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="429"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Hej!&lt;/h1&gt;&lt;h4&gt;Det verkar som att ditt paket-ID är null. Detta är på grund av en bugg i tidigare versioner av launchern.&lt;br/&gt;Tyvärr kan vi inte göra de rätta API-anropen utan denna information.&lt;br/&gt;&lt;br/&gt;För att få denna funktion att fungera så kommer du behöva på nytt ladda ner modpaketet från den inbyggda nedladdaren.&lt;br/&gt;&lt;br/&gt;Men oroa dig inte, den kommer fråga dig om att uppdatera denna instans istället, så du kommer inte förlora instansen!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="476"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="491"/>
         <source>%1 (Current)</source>
         <translation>%1 (Aktuell)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="554"/>
         <source>Choose update file</source>
         <translation>Välj uppdateringsfil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="554"/>
         <source>CurseForge pack</source>
         <translation>CurseForge paket</translation>
     </message>
@@ -7815,6 +7815,26 @@ Detta kan endast uppdateras med en fil i formatet %1
         <source>Cannot update!</source>
         <translation>Kan inte uppdatera!</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
+        <source>Update Successful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
+        <source>The instance updated to pack version %1 successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
+        <source>Update Failed</source>
+        <translation type="unfinished">Uppdateringen misslyckades</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
+        <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ManifestDownloadTask</name>
@@ -9574,22 +9594,22 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="304"/>
         <source>%1 (Current)</source>
         <translation>%1 (Aktuell)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="316"/>
         <source>Fetching changelogs...</source>
         <translation>Hämtar ändringsloggar...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="391"/>
         <source>Choose update file</source>
         <translation>Välj uppdateringsfil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="391"/>
         <source>Modrinth pack</source>
         <translation>Modrinth paket</translation>
     </message>

@@ -3063,22 +3063,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="414"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="429"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Хей!&lt;/h1&gt;&lt;h4&gt;Схоже, що твій ID пакету пустий. Це сталося через помилку в старших версіях запускача.&lt;br/&gt;Нажаль, ми не можемо зробити правильні запити до API без цієї інформації.&lt;br/&gt;&lt;br/&gt;Тож, щоб ця функція працювала правильно, треба перезавантажити збірку з вбудованого завантажувача.&lt;br/&gt;&lt;br/&gt;Але не хвилюйтеся, воно запитає вас оновити цю збірку, тому ви не втратите її!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="476"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="491"/>
         <source>%1 (Current)</source>
         <translation>%1 (Дійсна)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="554"/>
         <source>Choose update file</source>
         <translation>Виберіть файл оновлення</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="554"/>
         <source>CurseForge pack</source>
         <translation>Збірка CurseForge</translation>
     </message>
@@ -7840,6 +7840,26 @@ This can be updated only using a file in %1 format
         <source>Cannot update!</source>
         <translation>Неможливо оновити!</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
+        <source>Update Successful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
+        <source>The instance updated to pack version %1 successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
+        <source>Update Failed</source>
+        <translation type="unfinished">Не вдалося оновити</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
+        <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ManifestDownloadTask</name>
@@ -9607,22 +9627,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="304"/>
         <source>%1 (Current)</source>
         <translation>%1 (Дійсна)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="316"/>
         <source>Fetching changelogs...</source>
         <translation>Отримання списку змін...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="391"/>
         <source>Choose update file</source>
         <translation>Виберіть файл оновлення</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="391"/>
         <source>Modrinth pack</source>
         <translation>Збірка Modrinth</translation>
     </message>

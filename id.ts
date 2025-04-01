@@ -3023,22 +3023,22 @@ Coba ulang lagi.</translation>
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="414"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="429"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Halo!&lt;/h1&gt;&lt;h4&gt;Sepertinya ID Paket Anda null. Ini dikarenakan terdapat sebuah bug dalam versi-versi lebih lama peluncur.&lt;br/&gt;Sayang sekali, kami tidak dapat melakukan permintaan API yang seharusnya tanpa informasi ini.&lt;br/&gt;&lt;br/&gt;Jadi, agar fitur ini dapat bekerja, Anda harus mengunduh ulang modpack dari pengunduh terinstal. &lt;br/&gt;&lt;br/&gt;Jangan khawatir, Anda akan diminta untuk memperbarui instansi ini sebaliknya, agar Anda tidak akan kehilangan instansi ini!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="476"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="491"/>
         <source>%1 (Current)</source>
         <translation>%1 (Saat ini)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="554"/>
         <source>Choose update file</source>
         <translation>Pilih berkas pembaruan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="554"/>
         <source>CurseForge pack</source>
         <translation>Paket CurseForge</translation>
     </message>
@@ -7586,6 +7586,26 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
         <source>Cannot update!</source>
         <translation>Tidak dapat memperbarui!</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
+        <source>Update Successful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
+        <source>The instance updated to pack version %1 successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
+        <source>Update Failed</source>
+        <translation type="unfinished">Pembaruan Gagal</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
+        <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ManifestDownloadTask</name>
@@ -9223,22 +9243,22 @@ Mohon perbarui %1!</translation>
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="304"/>
         <source>%1 (Current)</source>
         <translation>%1 (Sekarang)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="316"/>
         <source>Fetching changelogs...</source>
         <translation>Mendapatkan daftar perubahan...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="391"/>
         <source>Choose update file</source>
         <translation>Pilih berkas pembaruan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="391"/>
         <source>Modrinth pack</source>
         <translation>Paket Modrinth</translation>
     </message>

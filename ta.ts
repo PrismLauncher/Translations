@@ -2641,22 +2641,22 @@ Please try again.</source>
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="414"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="429"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;H1&gt; ஏய்! &lt;/H1&gt; &lt;H4&gt; உங்கள் பேக் ஐடி பூச்யமாக இருப்பது போல் தெரிகிறது. இது துவக்கத்தின் பழைய பதிப்புகளில் ஒரு பிழை காரணமாகும். &lt;br/&gt; துரதிர்ச்டவசமாக, இந்த செய்தி இல்லாமல் சரியான பநிஇ கோரிக்கைகளை எங்களால் செய்ய முடியாது. &lt;br/&gt; &lt;br/&gt; எனவே, இந்த நற்பொருத்தம் வேலை செய்ய, உள்ளமைக்கப்பட்ட பதிவிறக்கத்திலிருந்து நீங்கள் மோட்பேக்கை மீண்டும் ஏற்ற வேண்டும். &lt;br/&gt; &lt;br/&gt; கவலைப்பட வேண்டாம் என்றாலும், அதற்கு பதிலாக இந்த நிகழ்வைப் புதுப்பிக்க இது கேட்கும், எனவே இந்த நிகழ்வை நீங்கள் இழக்க மாட்டீர்கள்! &lt; /H4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="476"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="491"/>
         <source>%1 (Current)</source>
         <translation>%1 (நடப்பு)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="554"/>
         <source>Choose update file</source>
         <translation>புதுப்பிப்பு கோப்பைத் தேர்வுசெய்க</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="554"/>
         <source>CurseForge pack</source>
         <translation>Curseforge Pack</translation>
     </message>
@@ -6535,6 +6535,26 @@ This can be updated only using a file in %1 format
         <source>Cannot update!</source>
         <translation>புதுப்பிக்க முடியாது!</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
+        <source>Update Successful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
+        <source>The instance updated to pack version %1 successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
+        <source>Update Failed</source>
+        <translation type="unfinished">புதுப்பிப்பு தோல்வியடைந்தது</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
+        <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
@@ -7890,22 +7910,22 @@ Please update %1!</source>
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="304"/>
         <source>%1 (Current)</source>
         <translation>%1 (நடப்பு)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="316"/>
         <source>Fetching changelogs...</source>
         <translation>சேஞ்ச்லாக்சைப் பெறுதல் ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="391"/>
         <source>Choose update file</source>
         <translation>புதுப்பிப்பு கோப்பைத் தேர்வுசெய்க</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="391"/>
         <source>Modrinth pack</source>
         <translation>மோட்ரிந்த் பேக்</translation>
     </message>
