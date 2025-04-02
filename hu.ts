@@ -7896,22 +7896,22 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
         <source>Update Successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Sikeres frissítés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
         <source>The instance updated to pack version %1 successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>A példány sikeresen frissült a(z) %1 csomagverzióra.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
         <source>Update Failed</source>
-        <translation type="unfinished">Sikertelen Frissítés</translation>
+        <translation>Sikertelen frissítés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>A példányt nem sikerült frissíteni a csomag %1 verziójára. További információkért kérjük, ellenőrizze a launcher naplóját.</translation>
     </message>
 </context>
 <context>
@@ -12075,22 +12075,22 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="97"/>
         <source>Cannot rename instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem lehet átnevezni a példányt</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"/>
         <source>New instance root (%1) already exists. &lt;br /&gt;Only the metadata will be renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az új példány gyökere (%1) már létezik. &lt;br /&gt;Csak a metaadatok lesznek átnevezve.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
         <source>&amp;Remember my choice</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Emlékezz a választásomra</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="73"/>
         <source>Rename instance folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Példány mappájának átnevezése</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="74"/>
@@ -12098,22 +12098,25 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Szeretné átnevezni a példány mappáját is?
+
+Régi név: %1
+Új név: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="92"/>
         <source>Renaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Átnevezés</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiba történt a következő átnevezési művelet végrehajtása során: &lt;br/&gt; - Régi példány gyökere: %1&lt;br/&gt; - Új példány gyökere: %2&lt;br/&gt; Csak a metaadatok vannak átnevezve.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
         <source>There are linked instances</source>
-        <translation type="unfinished">Vannak linkelt példányok</translation>
+        <translation>Vannak linkelt példányok</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="113"/>
