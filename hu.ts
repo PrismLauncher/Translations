@@ -12127,8 +12127,14 @@ Régi név: %1
 %2 it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>A következő példány(ok) hivatkozhat(nak) ebben a példányban lévő fájlokra:
+
+%1
+
+%2 tönkre teheti a (többi) példányt, 
+
+Szeretné folytatni?</numerusform>
         </translation>
     </message>
 </context>
