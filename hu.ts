@@ -5632,7 +5632,7 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="147"/>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Soha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="152"/>
@@ -5642,7 +5642,7 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="157"/>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Mindig</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -7600,7 +7600,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation>Nem találtad az asztalt?!</translation>
+        <translation>Az asztal nem található?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1527"/>
@@ -7680,7 +7680,7 @@ Kérjük, hozzon létre egy új példányt, mielőtt újra megpróbálná telep�
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>Törlés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
