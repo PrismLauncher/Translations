@@ -2313,71 +2313,71 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
         <source>Verify Dependencies</source>
-        <translation>Потвърдете зависимостите</translation>
+        <translation type="unfinished">Проверете зависимостите</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="198"/>
         <source>Export List</source>
-        <translation>Експортиране на спикъс</translation>
+        <translation>Експортен списък</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
         <source>Export resource&apos;s metadata to text.</source>
-        <translation>Експортирайте метаданните на ресурса в текстов файл.</translation>
+        <translation>Метаданните на експортния ресурс към текст.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="209"/>
         <source>Change Version</source>
-        <translation>Промяна на версия</translation>
+        <translation>Променете версията</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
         <source>Change a resource&apos;s version.</source>
-        <translation>Промяна на версия на ресурс.</translation>
+        <translation>Променете версията на ресурса.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>View Homepage</source>
-        <translation>Прегледайте началната страница</translation>
+        <translation>Преглед на началната страница</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
         <source>View the homepages of all selected items.</source>
-        <translation>Прегледайте началните страници на всички избрани елементи.</translation>
+        <translation>Вижте началните страници на всички избрани елементи.</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation>Изтегли нов ресурс</translation>
+        <translation>Изтеглете нов ресурс</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
         <source>Check for &amp;Updates</source>
-        <translation>Преглед за &amp;Актулизации</translation>
+        <translation>Проверете за и актуализации</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>Опитайте да проверите или актуализирате всички избрани ресурси (всички ресурси, ако няма избрани)</translation>
+        <translation>Опитайте се да проверите или актуализирате всички избрани ресурси (всички ресурси, ако не са избрани)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation>Експоритане на на лист с модове</translation>
+        <translation>Експортиране на списък с модове</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation>Изнесете метаданните на мода към текст</translation>
+        <translation>Експортирайте метаданните на промяна в текст</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Посети страницата на мода</translation>
+        <translation>Посетете страницата на мода</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Деактивирайте избрания елемент</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="unfinished">Отиди в началната страница на мода</translation>
+        <translation>Посетете главната страница на мода</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -2396,7 +2396,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="216"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation>Избери %1</translation>
+        <translation>Изберете %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="246"/>
@@ -2404,10 +2404,10 @@ Some versions of Minecraft may not launch.
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>Готови сте да премахнете %1 елемента.
-Това може да бъде постоянно и те ще изчезнат от папката.
+        <translation>Предстои ви да премахнете %1 елементи.
+Това може да е постоянно и те ще изчезнат от папката.
 
-Наистина ли сте сигурни?</translation>
+Сигурен ли си?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="251"/>
@@ -2415,15 +2415,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>Готови сте да премахнете папката &quot;%1&quot;.
-Това може да бъде постоянно и тя ще изчезне от родителската папка.
+        <translation>Предстои ви да премахнете папката &quot;%1&quot;.
+Това може да е постоянно и ще изчезне от родителската папка.
 
-Наистина ли сте сигурни?</translation>
+Сигурен ли си?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
         <source>Confirm Removal</source>
-        <translation>Потвърди за премахване</translation>
+        <translation>Потвърдете премахването</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="272"/>
@@ -2434,25 +2434,25 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="273"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Ако премахнете този ресурс по време на игра, играта ви може да се срине.
+        <translation>Ако премахнете този ресурс, докато играта работи, тя може да срине вашата игра.
 Сигурни ли сте, че искате да направите това?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="293"/>
         <source>Confirm disable</source>
-        <translation>Потвърдете деактивирането</translation>
+        <translation>Потвърдете изключване</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="294"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Ако премахнете този ресурс докато играта работи, играта ви може да се срине.
+        <translation>Ако деактивирате този ресурс, докато играта работи, тя може да срине вашата игра.
 Сигурни ли сте, че искате да направите това?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="359"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation> (%1 инсталирани, %2 избрани)</translation>
+        <translation> ( %1 инсталиран, %2 избрани)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="361"/>
