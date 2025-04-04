@@ -8445,7 +8445,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="223"/>
         <source>Automatically close console when the game quits</source>
-        <translation type="unfinished">Oyun kapanınca konsolu otomatik kapat</translation>
+        <translation>Oyun kapanınca konsolu otomatik kapat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="230"/>
@@ -8455,7 +8455,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="240"/>
         <source>&amp;Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Diğer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="252"/>
@@ -8465,7 +8465,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="259"/>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished">Oyun penceresi kapandıktan sonra başlatıcıdan çık</translation>
+        <translation>Oyun penceresi kapandıktan sonra başlatıcıdan çık</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="287"/>
@@ -8475,12 +8475,12 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="311"/>
         <source>Tweaks</source>
-        <translation type="unfinished">İnce Ayarlar</translation>
+        <translation>İnce Ayarlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="335"/>
         <source>&amp;Legacy Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Eski Sürüm Ayarları</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="347"/>
