@@ -8782,62 +8782,67 @@ This can be updated only using a file in %1 format
         <translation>Quilt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="130"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
+        <source>LiteLoader</source>
+        <translation type="unfinished">LiteLoader</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="137"/>
         <source>Versions</source>
         <translation>版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="142"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="149"/>
         <source>Show all versions</source>
         <translation>显示所有版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="158"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="165"/>
         <source>Environments</source>
         <translation>环境</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="170"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
         <source>Client</source>
         <translation>客户端</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="184"/>
         <source>Server</source>
         <translation>服务器</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
         <source>Hide installed items</source>
         <translation>隐藏已安装项目</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="201"/>
         <source>Open source only</source>
         <translation>仅开源</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="201"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="208"/>
         <source>Release type</source>
         <translation>发布类型</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="207"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="214"/>
         <source>Release</source>
         <translation>发布</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="214"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="221"/>
         <source>Beta</source>
         <translation>Beta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="221"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
         <source>Alpha</source>
         <translation>Alpha</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="235"/>
         <source>Unknown</source>
         <translation>未知</translation>
     </message>

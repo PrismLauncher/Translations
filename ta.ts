@@ -7223,62 +7223,67 @@ This can be updated only using a file in %1 format
         <translation>குயில்ட்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="130"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
+        <source>LiteLoader</source>
+        <translation type="unfinished">லிட்டிலோடர்</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="137"/>
         <source>Versions</source>
         <translation>பதிப்புகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="142"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="149"/>
         <source>Show all versions</source>
         <translation>எல்லா பதிப்புகளையும் காட்டு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="158"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="165"/>
         <source>Environments</source>
         <translation>சூழல்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="170"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
         <source>Client</source>
         <translation>கிளீன்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="184"/>
         <source>Server</source>
         <translation>சேவையகம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
         <source>Hide installed items</source>
         <translation>நிறுவப்பட்ட உருப்படிகளை மறைக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="201"/>
         <source>Open source only</source>
         <translation>திறந்த மூல மட்டுமே</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="201"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="208"/>
         <source>Release type</source>
         <translation>வெளியீட்டு வகை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="207"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="214"/>
         <source>Release</source>
         <translation>வெளியீடு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="214"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="221"/>
         <source>Beta</source>
         <translation>பீட்டா</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="221"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
         <source>Alpha</source>
         <translation>அகர</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="235"/>
         <source>Unknown</source>
         <translation>தெரியவில்லை</translation>
     </message>
