@@ -7,51 +7,51 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pastebin xodamatı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mətn Paylaşma xodamatı/növü</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>əsas url</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pavarği: Yapıştırma xodamatının növünü dəyişdikdən sonra siz Əsas URL-ni dəyişdirmək və ya silmək istəyə bilərsiniz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>API Kolidləri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Microsoft Şəxsiyyət Doğrulaması</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pavarği: Microsoft Şəxsiyyət Doğrulaması ilə daxil olmaq artıq işləyirsə, yəqin ki, bunu quraşdırmaq lazım deyil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="284"/>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Defolt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Authentication üçün xüsusi müştəri ID-sini buraya daxil edin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
