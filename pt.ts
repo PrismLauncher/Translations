@@ -2871,7 +2871,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Avaliando resposta da API do CurseForge para &apos;%1&apos;...</translation>
+        <translation>Avaliando resposta da API do CurseForge para &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
