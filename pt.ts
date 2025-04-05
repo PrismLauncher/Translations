@@ -4578,7 +4578,7 @@ Por favor, tenha certeza que o valor máximo de Memória é menor.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished">Nenhuma versão Java gerenciada está instalada</translation>
+        <translation>Nenhuma versão gerenciada do Java está instalada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
