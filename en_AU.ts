@@ -2830,7 +2830,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Parsing API response from CurseForge for &apos;%1&apos;...</translation>
+        <translation>Parsing API response from CurseForge for &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
@@ -5350,22 +5350,22 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="139"/>
         <source>Rename instance folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Rename instance folders</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="147"/>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Never</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="152"/>
         <source>Ask</source>
-        <translation type="unfinished"></translation>
+        <translation>Ask</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="157"/>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Always</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -7181,7 +7181,7 @@ Please create a new instance before attempting to install this resource again.</
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>Deleting</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
@@ -7405,22 +7405,22 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
         <source>Update Successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Update Successful</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
         <source>The instance updated to pack version %1 successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>The instance updated to pack version %1 successfully.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
         <source>Update Failed</source>
-        <translation type="unfinished">Update Failed</translation>
+        <translation>Update Failed</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>The instance failed to update to pack version %1. Please check launcher logs for more information.</translation>
     </message>
 </context>
 <context>
@@ -8189,7 +8189,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="137"/>
@@ -11342,76 +11342,76 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="267"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Unchecked</translation>
+        <translation>Unchecked</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="269"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="271"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Ready</translation>
+        <translation>Ready</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="273"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Working</translation>
+        <translation>Working</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="275"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Errored</translation>
+        <translation>Errored</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="277"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Expired</translation>
+        <translation>Expired</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="279"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Disabled</translation>
+        <translation>Disabled</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="281"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Gone</translation>
+        <translation>Gone</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="283"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Unknown</translation>
+        <translation>Unknown</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="97"/>
         <source>Cannot rename instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Cannot rename instance</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"/>
         <source>New instance root (%1) already exists. &lt;br /&gt;Only the metadata will be renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>New instance root (%1) already exists. &lt;br /&gt;Only the metadata will be renamed.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
         <source>&amp;Remember my choice</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Remember my choice</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="73"/>
         <source>Rename instance folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Rename instance folder</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="74"/>
@@ -11419,22 +11419,25 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Would you also like to rename the instance folder?
+
+Old name: %1
+New name: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="92"/>
         <source>Renaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Renaming</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
         <source>There are linked instances</source>
-        <translation type="unfinished">There are linked instances</translation>
+        <translation>There are linked instances</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="113"/>
@@ -11445,9 +11448,21 @@ New name: %2</source>
 %2 it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>The following instance might reference files in this instance:
+
+%1
+
+%2 it could break the other instance, 
+
+Do you wish to proceed?</numerusform>
+            <numerusform>The following instances might reference files in this instance:
+
+%1
+
+%2 it could break the other instances, 
+
+Do you wish to proceed?</numerusform>
         </translation>
     </message>
 </context>
