@@ -1219,7 +1219,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
         <source>Install Java</source>
-        <translation>Java לא מותקן</translation>
+        <translation>התקן Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
