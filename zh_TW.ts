@@ -7975,7 +7975,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>實例無法更新至套件版本 %1。請檢查啟動器日誌以取得更多資訊。</translation>
     </message>
 </context>
 <context>
