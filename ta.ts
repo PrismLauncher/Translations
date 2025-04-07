@@ -61,7 +61,7 @@
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; குறிப்பு: தனிப்பட்ட தரவை அணுக மட்டுமே இதை நீங்கள் அமைக்க வேண்டும். &lt;/P&gt; &lt;/body&gt; &lt;/html&gt; இல் &lt;/p&gt; &lt;/stml&gt; ஐ &lt;/p&gt; &lt;/html&gt; ஐ &lt;/p&gt; &lt;/html&gt; என்ற ஆவணங்களை &lt;a href = &quot;https://docs.</translation>
+        <translation type="vanished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; குறிப்பு: தனிப்பட்ட தரவை அணுக மட்டுமே இதை நீங்கள் அமைக்க வேண்டும். &lt;/P&gt; &lt;/body&gt; &lt;/html&gt; இல் &lt;/p&gt; &lt;/stml&gt; ஐ &lt;/p&gt; &lt;/html&gt; ஐ &lt;/p&gt; &lt;/html&gt; என்ற ஆவணங்களை &lt;a href = &quot;https://docs.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
@@ -1592,23 +1592,23 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>EditAccountDialog</name>
     <message>
         <source>Login</source>
-        <translation>புகுபதிவு</translation>
+        <translation type="vanished">புகுபதிவு</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation>மின்னஞ்சல்</translation>
+        <translation type="vanished">மின்னஞ்சல்</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>கடவுச்சொல்</translation>
+        <translation type="vanished">கடவுச்சொல்</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ரத்துசெய்</translation>
+        <translation type="vanished">ரத்துசெய்</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>சரி</translation>
+        <translation type="vanished">சரி</translation>
     </message>
 </context>
 <context>
@@ -9589,47 +9589,47 @@ Proceed with truncation?</source>
         <translation>பிரகாசமான</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="72"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="81"/>
         <source>Windows Vista</source>
         <translation>சாளரங்கள் விச்டா</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="74"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="83"/>
         <source>Windows 9x</source>
         <translation>சாளரங்கள் 9x</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="76"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
         <source>Windows 11</source>
         <translation>சாளரங்கள் 11</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="78"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
         <source>System</source>
         <translation>மண்டலம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="96"/>
         <source>Widget style trying to look like your win32 theme</source>
         <translation>விட்செட் பாணி உங்கள் வின் 32 கருப்பொருள் போல தோற்றமளிக்க முயற்சிக்கிறது</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="89"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="98"/>
         <source>Windows 9x inspired widget style</source>
         <translation>சாளரங்கள் 9 ஃச் ஈர்க்கப்பட்ட விட்செட் பாணி</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="91"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="100"/>
         <source>WinUI 3 inspired Qt widget style</source>
         <translation>Winui 3 ஈர்க்கப்பட்ட கியுடி விட்செட் பாணி</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="93"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="102"/>
         <source>The default Qt widget style</source>
         <translation>இயல்புநிலை கியுடி விட்செட் பாணி</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="95"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="104"/>
         <source>Your current system theme</source>
         <translation>உங்கள் தற்போதைய கணினி கருப்பொருள்</translation>
     </message>
@@ -9780,22 +9780,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>புதிய நிகழ்வை உருவாக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="294"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="296"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>பின்னணி பூனை (மல்டிம்சியிலிருந்து)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="295"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>ரோரி ஐடி 11 (அச்டகாவால் வரையப்பட்டது)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="296"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>ரோரி ஐடி 11 (தட்டையான பதிப்பு, அச்டகாவால் வரையப்பட்டது)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="299"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>TEAWIE (அனுதாபத்தால் வரையப்பட்டது)</translation>
     </message>
