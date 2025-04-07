@@ -12747,7 +12747,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
         <source>Datapacks</source>
-        <translation type="unfinished"></translation>
+        <translation>ডেটাপ্যাক সমূহ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
@@ -12820,7 +12820,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="194"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>মুছিয়া ফেলা নিশ্চিত করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="195"/>
@@ -12834,7 +12834,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="398"/>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
         <source>World name</source>
-        <translation type="unfinished"></translation>
+        <translation>দুনিয়ার নাম</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="398"/>
@@ -12903,12 +12903,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>এই Microsoft Account এর সাথে কোন XBox Live profile সংযুক্ত নেই, অনুগ্রহ করে %1 এইখান থেকে গেমটি কিনুন ।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>আপনার দেশ এ XBox Live অপ্রাপ্য। আপনাকে Block করা হয়েছে।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -12955,7 +12955,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="15"/>
         <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox প্রোফাইল আনা হচ্ছে।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="56"/>
@@ -12990,7 +12990,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>
         <source>Got Xbox user token</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox ব্যবহারকারী টোকেন পেয়েছেন</translation>
     </message>
 </context>
 </TS>
