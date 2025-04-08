@@ -1176,7 +1176,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neniu kongrua versio estis trovita. Uzos la defaŭltan.</translation>
     </message>
 </context>
 <context>
@@ -1195,17 +1195,17 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ni aldonis trajton por aŭtomate elŝuti la ĝustan version de Java por ĉiu versio de Minecraft (ĉi tio povas esti ŝanĝita en la agordoj de Java). Ĉu vi volas ebligi aŭ malŝalti ĉi tiun trajton?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Ebligi aŭtomate elŝuti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Malŝalti aŭtomate elŝuti</translation>
     </message>
 </context>
 <context>
@@ -1382,7 +1382,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="124"/>
         <source>One or more subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Unu aŭ pli subtaskoj malsukcesis</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="227"/>
@@ -1819,7 +1819,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
         <source>Checking if resources have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroli ĉu risursoj havas metadatumojn...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
@@ -2058,7 +2058,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="140"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge pako</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="157"/>
@@ -2155,7 +2155,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="123"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="151"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosiernomo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="170"/>
@@ -2185,7 +2185,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Konservi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="165"/>
@@ -2250,22 +2250,22 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
         <source>&amp;Add File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aldoni dosieron</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>Add a locally downloaded file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aldoni loke elŝutitan dosieron.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>Remove all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Forigi ĉiujn elektitajn erojn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>Disable all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Malŝalti ĉiujn elektitajn erojn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
@@ -2275,7 +2275,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished">Malfermu la dosierujon &apos;config&apos; en la sistema dosieradministranto.</translation>
+        <translation>Malfermi la dosierujon &apos;config&apos; en la sistema dosieradministranto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="149"/>
@@ -2285,7 +2285,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
         <source>Open the folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Malfermi la dosierujon en la sistema dosieradministranto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"/>
@@ -2295,52 +2295,52 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Download resources from online mod platforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elŝuti risursojn el interretaj modifikaĵo-platformoj.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="174"/>
         <source>Try to check or update all selected resources (all resources if none are selected).</source>
-        <translation type="unfinished"></translation>
+        <translation>Provi kontroli aŭ ĝisdatigi ĉiujn selektitajn risursojn (ĉiujn risursojn se nenio estas selektita).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Reset Update Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Restarigi la metadatumojn de la ĝisdatigo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
         <source>Verify Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroli dependecojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="198"/>
         <source>Export List</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksporti la liston</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
         <source>Export resource&apos;s metadata to text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksporti la metadatumojn de la risurso al teksto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="209"/>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ŝanĝi version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
         <source>Change a resource&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ŝanĝi la version de la risurso.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>View Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Vidi la hejmpaĝon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
         <source>View the homepages of all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vidi la hejmpaĝojn de ĉiuj selektitaj eroj.</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -2362,7 +2362,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Malŝalti selektitan eron</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2370,11 +2370,11 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksporti la liston de modifikaĵoj</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksporti la metadatumojn de la modifikaĵo al teksto</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -2425,24 +2425,26 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="272"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmi la forigon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="273"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se vi forigas ĉi tiun risurson dum la ludo funkcias, via ludo povas kraŝi.
+Ĉu vi certas, ke vi volas fari ĉi tion?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="293"/>
         <source>Confirm disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmi la malŝalton</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="294"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se vi malŝaltas ĉi tiun risurson dum la ludo funkcias, via ludo povas kraŝi.
+Ĉu vi certas, ke vi volas fari ĉi tion?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="359"/>
@@ -2667,12 +2669,12 @@ Bonvolu reprovi.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Selekti la dosierujon de petskriboj de FTBApp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Notu: Se viaj petskriboj de FTB ne estas en la defaŭlta loko, elektu ĝin uzante la butono apud serĉi.</translation>
     </message>
 </context>
 <context>
@@ -2741,12 +2743,12 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neniu valida versio estis trovita por ĉi tiu risurso. Ĝi verŝajne ne haveblas por la nuna ludversio / mod-kargilo.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neniu valida versio estis trovita por ĉi tiu risurso. Ĝi verŝajne haveblas por la nuna ludversio.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
@@ -2756,7 +2758,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Risurso havas novan ĝisdatigon disponeblan, sed ĝi ne estas elŝutebla per CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
@@ -2770,7 +2772,7 @@ Bonvolu reprovi.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparante modifikaĵoj por CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
