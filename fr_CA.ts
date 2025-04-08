@@ -9191,17 +9191,17 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="49"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (en utilisation)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="75"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="76"/>
         <source>OK</source>
-        <translation type="unfinished">O.K.</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9209,39 +9209,41 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="14"/>
         <source>Choose Minecraft name</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez le nom de Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="26"/>
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation type="unfinished"></translation>
+        <translation>Il vous reste juste une étape à faire avant d&apos;être capable de jouer à Minecraft sur ce compte.
+
+Choisissez votre nom attentivement :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="75"/>
         <source>OK</source>
-        <translation type="unfinished">O.K.</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le Nom est trop court - y doit être entre 3 et 16 caractères de long.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="183"/>
         <source>Minecraft profile with name %1 already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un profil Minecraft avec le nom %1 existe déjà.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="185"/>
         <source>The name %1 is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nom %1 n&apos;est pas permis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="187"/>
