@@ -9586,7 +9586,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="136"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (en utilisation)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="92"/>
