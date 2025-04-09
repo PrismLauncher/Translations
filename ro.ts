@@ -4531,7 +4531,7 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="92"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Descarcă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="99"/>
@@ -8110,7 +8110,7 @@ Acesta pate fi actualizat doar cu un fisier cu formatul %1.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="580"/>
         <source>Singleplayer world</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lume cu un jucător</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="611"/>
