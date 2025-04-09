@@ -248,7 +248,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">مودهای مسدود شده پیدا شد</translation>
+        <translation>مود های مسدود شده پیدا شد</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="825"/>
@@ -409,7 +409,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">آفلاین</translation>
+        <translation>آفلاین</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
@@ -629,7 +629,8 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation>اگر در اینجا تازه کار هستید، می‌توانید دکمه «Add Microsoft» را برای اضافه کردن اکانت مایکروسافت خود انتخاب کنید.</translation>
+        <translation>خوش آمدید
+اگر در اینجا تازه کار هستید، می‌توانید دکمه «Add Microsoft» را برای اضافه کردن حساب مایکروسافت خود انتخاب کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
@@ -787,15 +788,10 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
         <translation>این نصب یک نسخه قفل شده در این آدرس دارد: %1
 
 زمان: %2
-
 ارتقا از نسخه %3 به نسخه %4
-
 مسیر نصب: %5
-
 مسیر اطلاعات: %6
-
 به نظر میرسد این یک شکست در آپدیت باشد. لطفا مطمئن شوید نسخه شما به درستی کار میکند و بعد ادامه دهید.
-
 خروجی های لانچر در مسیر زیر هستند: 
 %7
 لطفا برای اطلاعات بیشتر خروجی های لانچر را بررسی کنید.
@@ -840,12 +836,12 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">بروزرسانی موفقیت آمیز بود
+        <translation>بروزرسانی موفقیت آمیز بود
 
 شما الان در حال اجرای %1 هستید.
 رویداد نگاشت بروزرسانی لانچر Prism را برای جزئیات در
-%1
-مشاهده کنید.</translation>
+%2
+برای جزییات بیشتر.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1027"/>
@@ -1141,7 +1137,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
@@ -1184,7 +1180,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">نتوانست نوع جاوا بارگیری شده را تعیین کند!</translation>
+        <translation type="unfinished">نمی توان نوع جاوا بارگیری شده را تعیین کند!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
@@ -1259,12 +1255,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
         <source>Cancel</source>
-        <translation type="unfinished">لغو</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>OK</source>
-        <translation type="unfinished">تأیید</translation>
+        <translation>تأیید</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
@@ -1434,7 +1430,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation>کپی نمایه</translation>
+        <translation>همانند سازی نمایه</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
@@ -1519,7 +1515,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
         <source>Don&apos;t link saves</source>
-        <translation>سیو ها را کپی نکن</translation>
+        <translation>ذخیره ها را کپی نکن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
@@ -1610,17 +1606,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
         <source>Help</source>
-        <translation type="unfinished">راهنما</translation>
+        <translation>راهنما</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
         <source>Cancel</source>
-        <translation type="unfinished">لغو</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished">تأیید</translation>
+        <translation>تأیید</translation>
     </message>
 </context>
 <context>
@@ -1982,7 +1978,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="160"/>
         <source>Abort</source>
-        <translation>سقط</translation>
+        <translation>دست بردار</translation>
     </message>
 </context>
 <context>
@@ -2383,12 +2379,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>View Homepage</source>
-        <translation>بازدید صفحه</translation>
+        <translation>بازدید صفحه مجازی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
         <source>View the homepages of all selected items.</source>
-        <translation>بازدید صفحه مجازی خانه تمام موارد انتخاب شده.</translation>
+        <translation>بازدید صفحه مجازی تمام موارد انتخاب شده.</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -2512,7 +2508,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="96"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="133"/>
         <source>Check</source>
-        <translation>چک کردن</translation>
+        <translation>بررسی کردن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
@@ -3457,7 +3453,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished">بسته مودرینس</translation>
+        <translation>بسته مودرینس</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
@@ -3474,7 +3470,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation type="unfinished">نمونه را برای وارد کردن به آن انتخاب کنید</translation>
+        <translation>نمایه را برای وارد کردن به آن انتخاب کنید</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
@@ -3494,12 +3490,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>Cancel</source>
-        <translation type="unfinished">لغو</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
-        <translation type="unfinished">تأیید</translation>
+        <translation>تأیید</translation>
     </message>
 </context>
 <context>
@@ -3549,7 +3545,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="101"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;تازه‌سازی</translation>
+        <translation>&amp;تازه‌سازی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="107"/>
@@ -3559,32 +3555,32 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
         <source>Cancel</source>
-        <translation type="unfinished">لغو</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
         <source>NeoForge</source>
-        <translation type="unfinished">نیو فورج</translation>
+        <translation>نیو فورج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
         <source>Forge</source>
-        <translation type="unfinished">فورج</translation>
+        <translation>فورج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
         <source>Fabric</source>
-        <translation type="unfinished">فابریک</translation>
+        <translation>فابریک</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
         <source>Quilt</source>
-        <translation type="unfinished">کوییلت</translation>
+        <translation>کوییلت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="144"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">لایت لودر</translation>
+        <translation>لایت لودر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="150"/>
@@ -3618,7 +3614,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="41"/>
         <source>Copying instance %1</source>
-        <translation>کپی کردن نمایه %1</translation>
+        <translation>همانند سازی نمایه %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="146"/>
@@ -3641,7 +3637,7 @@ Please try again.</source>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="29"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation>خطا در هنگام ساخت نمونه :
+        <translation>خطا در هنگام ساخت نمایه :
 %1</translation>
     </message>
     <message>
@@ -3677,7 +3673,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="150"/>
         <source>Attempting to determine instance type</source>
-        <translation>در حال تلاش برای مشخص کردن نوع نمونه</translation>
+        <translation>در حال تلاش برای مشخص کردن نوع نمایه</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="187"/>
@@ -4121,12 +4117,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;اجرا</translation>
+        <translation>&amp;اجرا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished">&amp;کشتن</translation>
+        <translation>&amp;سقط</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
@@ -4865,7 +4861,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>نمی بینید کیفیت زبان‌تان کم است؟&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;به ما در ترجمه کمک کنید!&lt;/a&gt;</translation>
+        <translation>زبان خویش را پیدا نمی کنید یا کیفیت آن کم است؟&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;به ما در ترجمه کمک کنید!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
@@ -4992,7 +4988,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="143"/>
         <source>Cancel</source>
-        <translation type="unfinished">لغو</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="244"/>
@@ -5066,7 +5062,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="442"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;اجرا</translation>
+        <translation>&amp;اجرا</translation>
     </message>
     <message>
         <source>Couldn&apos;t start profiler: %1</source>
@@ -5560,17 +5556,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="177"/>
         <source>Downloads Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه بارگیری ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="187"/>
         <source>Java Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه جاوا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="197"/>
         <source>Skins Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه اسکین ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="390"/>
@@ -6367,7 +6363,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="206"/>
         <source>&amp;Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>حساب های کاربری</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="717"/>
@@ -6980,7 +6976,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/MainWindow.cpp" line="553"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished">ساخت نمایه</translation>
+        <translation>ساخت نمایه</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="567"/>
