@@ -3848,7 +3848,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">مسیر</translation>
+        <translation>مسیر</translation>
     </message>
     <message>
         <source>Download Java</source>
@@ -3877,7 +3877,7 @@ Please try again.</source>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="unfinished">شروع ماینکرافت به صورت پنجره بزرگ؟</translation>
+        <translation>شروع ماینکرافت به صورت پنجره بزرگ</translation>
     </message>
     <message>
         <source>Window height:</source>
@@ -3894,17 +3894,17 @@ Please try again.</source>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished">نمایش کنسول درحین اینکه بازی در حال اجراست؟</translation>
+        <translation>نمایش کنسول در حین اینکه بازی در حال اجراست</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">خودکار کنسول با بسته شدن بازی بسته شود؟</translation>
+        <translation>بستن خودکار کنسول با بستن بازی</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="unfinished">نشان دادن کنسول زمانی که بازی خراب می شود؟</translation>
+        <translation>نشان دادن کنسول زمانی که بازی خراب می شود</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
