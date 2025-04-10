@@ -2251,51 +2251,61 @@ Some versions of Minecraft may not launch.
         <translation>Шаблон</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="96"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
+        <source>This text supports the following placeholders:
+{name}     - Mod name
+{mod_id}   - Mod ID
+{url}      - Mod URL
+{version}  - Mod version
+{authors}  - Mod authors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
         <source>Optional Info</source>
         <translation>Додаткова інформація</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="102"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="130"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="105"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="133"/>
         <source>Version</source>
         <translation>Версія</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="109"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="112"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="140"/>
         <source>Authors</source>
         <translation>Автори</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="116"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="119"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
         <source>URL</source>
         <translation>Посилання</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="123"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="151"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="126"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="154"/>
         <source>Filename</source>
         <translation>Назва файлу</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="170"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="173"/>
         <source>Format</source>
         <translation>Формат</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="180"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="183"/>
         <source>Result</source>
         <translation>Результат</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="209"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="212"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
         <translation>Це залежить від метаданих модів. Щоб переконатися що він доступний, запустіть оновлення збірки. Встановлювати оновлення не обов&apos;язково.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="223"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="226"/>
         <source>Copy</source>
         <translation>Копіювати</translation>
     </message>

@@ -2231,51 +2231,61 @@ Minecraft のバージョンによっては起動しない場合があります�
         <translation>テンプレート</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="96"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
+        <source>This text supports the following placeholders:
+{name}     - Mod name
+{mod_id}   - Mod ID
+{url}      - Mod URL
+{version}  - Mod version
+{authors}  - Mod authors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
         <source>Optional Info</source>
         <translation>追加情報</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="102"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="130"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="105"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="133"/>
         <source>Version</source>
         <translation>バージョン</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="109"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="112"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="140"/>
         <source>Authors</source>
         <translation>作者名</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="116"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="119"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
         <source>URL</source>
         <translation>URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="123"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="151"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="126"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="154"/>
         <source>Filename</source>
         <translation>ファイル名</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="170"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="173"/>
         <source>Format</source>
         <translation>フォーマット</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="180"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="183"/>
         <source>Result</source>
         <translation>結果</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="209"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="212"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
         <translation>これはModのメタデータから取得されます。確実に利用するためには、起動構成でアップデートを実行してメタデータを更新してください。アップデートのインストールは必要ありません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="223"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="226"/>
         <source>Copy</source>
         <translation>コピー</translation>
     </message>

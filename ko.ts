@@ -2267,51 +2267,61 @@ Some versions of Minecraft may not launch.
         <translation>템플릿</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="96"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
+        <source>This text supports the following placeholders:
+{name}     - Mod name
+{mod_id}   - Mod ID
+{url}      - Mod URL
+{version}  - Mod version
+{authors}  - Mod authors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
         <source>Optional Info</source>
         <translation>선택적 정보</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="102"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="130"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="105"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="133"/>
         <source>Version</source>
         <translation>버전</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="109"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="112"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="140"/>
         <source>Authors</source>
         <translation>제작자</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="116"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="119"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
         <source>URL</source>
         <translation>링크</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="123"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="151"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="126"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="154"/>
         <source>Filename</source>
         <translation>파일 이름</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="170"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="173"/>
         <source>Format</source>
         <translation>포맷</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="180"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="183"/>
         <source>Result</source>
         <translation>결과</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="209"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="212"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
         <translation>이 것은 모드의 메타데이터에 따라 다릅니다. 사용 가능한지 확인하려면 인스턴스에서 업데이트를 실행하십시오. 업데이트를 설치할 필요가 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="223"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="226"/>
         <source>Copy</source>
         <translation>복사</translation>
     </message>
