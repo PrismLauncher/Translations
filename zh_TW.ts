@@ -2270,7 +2270,12 @@ Some versions of Minecraft may not launch.
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation>這段文字支援下列預留位置：
+{name}     - 模組名稱
+{mod_id}   - 模組 ID
+{url}      - 模組網址
+{version}  - 模組版本
+{authors}  - 模組作者</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -13356,7 +13361,7 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>您即將刪除 %1 螢幕擷取畫面？
+        <translation>您即將刪除 %1 張螢幕擷取畫面。
 這可能是永久性的，且它們將從資料夾中消失。
 
 您確定嗎？</translation>
