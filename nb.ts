@@ -1136,7 +1136,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation>Autentisering mislyktes. Økten har utløpt.</translation>
+        <translation>Autentisering mislyktes. Økten har løpt ut.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
@@ -1159,12 +1159,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation>Den automatiske Java-mekanismen fant en 32-bits installasjon av Java.</translation>
+        <translation>Den automatiske Java-mekanismen fant en 32-bit Java-installasjon.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation>Fant ikke kompatible versjoner av Java . Bruker standarden.</translation>
+        <translation>Fant ingen kompatible versjoner av Java. Bruker standardversjonen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
@@ -1174,17 +1174,17 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation>Metadatainformasjonen din er utdatert eller inneholder ikke nødvendig informasjon til å fastsette hvilken Java versjon som bør brukes. Bruker standard Java-bane.</translation>
+        <translation>Metadatainformasjonen din er utdatert eller inneholder ikke nødvendig informasjon til å finne ut av hvilken Java versjon som bør brukes. Bruker standard Java-bane.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
         <source>Compatible Java found at: %1.</source>
-        <translation>Fant kompatibel Java i: %1.</translation>
+        <translation>Fant kompatibel Java ved: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation>Fant ingen kompatible Java versioner (binær fil eksisterer ikke). Bruker standarden.</translation>
+        <translation>Fant ingen kompatible Java-versioner (binærfilen eksisterer ikke). Bruker standardversjonen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
@@ -1217,23 +1217,23 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Ny funksjon har ankommet!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;En ny funksjon er tilgjengelig!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation>Vi har lagt til en funksjon for å automatisk laste ned den korrekte versjonen av Java for hver versjon av Minecraft (du kan endre dette i Java-innstillingene). Vil du skru på eller av denne funksjonen?</translation>
+        <translation>Vi har lagt til en funksjon for å automatisk laste ned den riktige versjonen av Java for hver versjon av Minecraft (du kan endre dette i Java-innstillingene). Vil du skru denne funksjonen på eller av?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation>Skru på Auto-Nedlasting</translation>
+        <translation>Skru på automatisk nedlasting</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation>Skru av Auto-Nedlasting</translation>
+        <translation>Skru av automatisk nedlasting</translation>
     </message>
 </context>
 <context>
@@ -1274,17 +1274,17 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
         <source>Open Missing</source>
-        <translation>Åpne Manglende</translation>
+        <translation>Åpne manglende</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="59"/>
         <source>Add Download Folder</source>
-        <translation>Legg til Download mappe</translation>
+        <translation>Legg til Nedlastingsmappe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="140"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Velg mappen hvor du lastet ned mods</translation>
+        <translation>Velg mappen hvor du har lastet ned mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
@@ -1299,7 +1299,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Din konfigurerte globale mod-mappe og standard nedlastingsmappe blir automatisk sjekket for de nedlastede modene, og de vil bli kopiert til instansen hvis de blir funnet..&lt;/p&gt;&lt;p&gt;Valgfritt kan du dra og slippe de nedlastede modene inn i denne dialogboksen, eller legge til en mappe å overvåke hvis du ikke lastet ned modene til en standardplassering.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Din konfigurerte globale modmappe og standard nedlastingsmappe blir automatisk sjekket for de nedlastede modene, og de vil bli kopiert til instansen hvis de blir funnet.&lt;/p&gt;&lt;p&gt;Du kan også dra og slippe de nedlastede modene inn over denne dialogboksen, eller legge til en mappe å sjekke hvis du ikke lastet ned modene til et av standardstedene.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1343,12 +1343,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation>Hopp over alt</translation>
+        <translation>Hopp over alle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <source>Confirm for all</source>
-        <translation>Bekreft alt</translation>
+        <translation>Bekreft alle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
@@ -1358,7 +1358,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>Bytt automatisk til en annen leverandør hvis den valgte feiler</translation>
+        <translation>Automatisk bytt til en annen leverandør hvis den valgte feiler</translation>
     </message>
 </context>
 <context>
@@ -1371,28 +1371,28 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation>Noen lastingsoppgaver for komponent-metadata mislyktes.</translation>
+        <translation>Noen lastingsoppgaver for komponentmetadata mislyktes.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>Motstridende krav oppdaget under kontroll av avhengighet!</translation>
+        <translation>Motstridende krav oppdaget under kontroll av nødvendige filer!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="467"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>Instansen har motstridende avhengigheter.</translation>
+        <translation>Instansen har motstridende filkrav.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="473"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>Instansen har uløste avhengigheter under lasting og kontroll for oppstart.</translation>
+        <translation>Instansen har uløste filkrav under lasting og kontroll for oppstart.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="776"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>Oppdateringsoppgave for komponent-metadata mislyktes under nedlasting fra server:
+        <translation>Oppdateringsoppgave for komponentmetadata mislyktes under nedlasting fra server:
 %1</translation>
     </message>
 </context>
