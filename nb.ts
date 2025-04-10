@@ -7,18 +7,18 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Pastebin tjeneste</translation>
+        <translation>&amp;Pastebin-tjeneste</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Innlimings-Tjeneste &amp;Type</translation>
+        <translation>Innlimingstjeneste-&amp;Type</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>Basis &amp;URL</translation>
+        <translation>Basis-&amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Obs: Du trenger mest sannsynlig ikke å legge til denne om innloggingen via Microsoft Authentication allerede fungerer.</translation>
+        <translation>Obs: Du trenger mest sannsynlig ikke å legge til denne hvis innloggingen via Microsoft allerede fungerer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -56,7 +56,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation>Modrinth API</translation>
+        <translation>Modrinth-API</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -77,7 +77,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation>Technic Klient-ID</translation>
+        <translation>Technic-klient-ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
@@ -87,7 +87,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Legg til en tilpassa GUID-Klient-ID for Technic her.</translation>
+        <translation>Legg til en egen GUID-klient-ID for Technic her.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -107,7 +107,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>Meta&amp;data-tjener</translation>
+        <translation>Meta&amp;data-server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
@@ -117,17 +117,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Du kan sette dette til en tredjeparts-metadatatjener for å bruke feilfiksede biblioteker eller andre hacks.</translation>
+        <translation>Du kan sette dette til en tredjeparts-metadataserver for å bruke andre biblioteker eller andre hacks.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Skriv inn en egendefinert meta-nettadresse her.</translation>
+        <translation>Skriv inn en egendefinert nettadresse for meta her.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Merk: du trenger bare sette dette for å få tilgang til private data. Les &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentasjonen&lt;/a&gt; for mer informasjon.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -137,7 +137,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Merk: Du trenger sannsynligvis ikke å angi dette om CurseForge allerede fungerer.</translation>
+        <translation>Merk: Du trenger sannsynligvis ikke å oppgi dette om CurseForge allerede fungerer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
@@ -148,7 +148,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
         <source>APIs</source>
-        <translation>APIer</translation>
+        <translation>API-er</translation>
     </message>
 </context>
 <context>
@@ -178,7 +178,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
         <source>Deleting existing files...</source>
-        <translation>Sletter eksisterende filer …</translation>
+        <translation>Sletter eksisterende filer...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
@@ -188,12 +188,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="373"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Kunne ikke finne versjon for %1 laster</translation>
+        <translation>Kunne ikke finne versjon for %1-laster</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="386"/>
         <source>No loader version set for modpack!</source>
-        <translation>Ingen laster versjon satt for modifikasjonspakken!</translation>
+        <translation>Ingen lasterversjon satt for modifikasjonspakken!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="516"/>
@@ -223,7 +223,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="707"/>
         <source>Selecting optional mods...</source>
-        <translation>Velger valgfrie modder …</translation>
+        <translation>Velger valgfrie modder...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="716"/>
@@ -253,7 +253,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="825"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>De følgene filene er ikke tilgjengelig til nedlastning i tredjeparts oppstartere.&lt;br/&gt;Du må manuelt laste dem ned og legge dem til instansen.</translation>
+        <translation>De følgene filene er ikke tilgjengelig til nedlastning i tredjeparts-oppstartere.&lt;br/&gt;Du må laste dem ned manuelt og legge dem til i instansen.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="881"/>
@@ -263,12 +263,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="921"/>
         <source>Failed to extract mods...</source>
-        <translation>Klarte ikke å pakke ut modder …</translation>
+        <translation>Klarte ikke å pakke ut modder...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="931"/>
         <source>Extracting mods...</source>
-        <translation>Pakker ut modder …</translation>
+        <translation>Pakker ut modder...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
@@ -301,7 +301,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Alternativ oppstarter som gjør håndtering av Minecraft enklere ved å tillate deg å ha flere instanser av Minecraft gående samtidig.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Alternativ oppstarter som gjør håndtering av Minecraft enklere ved å la deg å ha flere instanser av Minecraft gående samtidig.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -327,7 +327,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation>Kreditter</translation>
+        <translation>Medvirkende</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
@@ -388,7 +388,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation>MSA</translation>
+        <translation>Microsoft-konto</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
@@ -445,7 +445,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>Kontotype (MSA eller Frakoblet)</translation>
+        <translation>Kontotype (Microsoft-konto eller Frakoblet)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -509,12 +509,12 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Minecraft-brukernavn tilknyttet kontoen.</translation>
+        <translation>Minecraft-brukernavn forbundet med kontoen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
         <source>User name of the account.</source>
-        <translation>Brukernavn for kontoen.</translation>
+        <translation>Brukernavnet til kontoen.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -523,7 +523,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="363"/>
         <source>Current status of the account.</source>
-        <translation>Nåværende status for kontoen.</translation>
+        <translation>Nåværende status til kontoen.</translation>
     </message>
     <message>
         <source>Can this account migrate to a Microsoft account?</source>
@@ -573,18 +573,18 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation>&amp;Administrer skall</translation>
+        <translation>&amp;Administrer skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation>Administrer skall</translation>
+        <translation>Administrer skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>&amp;Legg til Microsoft</translation>
+        <translation>&amp;Legg til Microsoft-konto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
@@ -596,12 +596,12 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>&amp;Oppdater</translation>
+        <translation>&amp;Oppfrisk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
         <source>Refresh the account tokens</source>
-        <translation>Oppfrisk konto nøkler</translation>
+        <translation>Oppfrisk kontopolletter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="59"/>
@@ -621,12 +621,12 @@ Hvis du er ny her, kan du trykke «Legg til»-knappen for å legge til Mojang- e
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Velkommen!
-Hvis du er ny her, kan du velge &quot;Legg til Microsoft&quot; knappen for å koble til din Microsoft bruker.</translation>
+Hvis du er ny her, kan du trykke på «Legg til Microsoft-konto»-knappen for å koble til din Microsoft-bruker.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Ingen Microsoft-klient-ID for identitetsbekreftelse ble satt.</translation>
+        <translation>Ingen Microsoft-klient-ID ble satt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="106"/>
@@ -656,7 +656,7 @@ Hvis du er ny her, kan du velge &quot;Legg til Microsoft&quot; knappen for å ko
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Du må legge til en Microsoft-konto som har Minecraft før du kan legge til en Frakoblet-konto.&lt;br&gt;&lt;br&gt;Hvis du ikke har tilgang til kontoen din, kan du kontakte Microsoft for Brukerstøtte.</translation>
+        <translation>Du må legge til en Microsoft-konto som har Minecraft før du kan legge til en frakoblet-konto.&lt;br&gt;&lt;br&gt;Hvis du ikke har tilgang til kontoen din, kan du kontakte Microsoft for hjelp.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -683,7 +683,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Vennligst oppgi ønsket brukernavn for å opprette din Frakoblet-konto.</translation>
+        <translation>Vennligst oppgi brukernavnet du vil ha for å opprette din frakoblet-konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -772,18 +772,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>Denne installasjonen har en oppdaterings lås fil på: %1
+        <translation>Denne installasjonen har en oppdateringslåsfil ved: %1
 
 Tidsstempel: %2
-Oppdaterer fra versjonen %3 til %4
-Målinstallasjonsbane: %5
-Dataspor: %6
-Dette betyr sannsynligvis at et oppdateringsforsøk mislyktes. Kontroller at installasjonen er i orden før du fortsetter.
-Sjekk Prism Launcher-oppdateringsloggen på: 
+Oppdaterer fra versjon %3 til %4
+Målet for installasjonen: %5
+Datamålr: %6
+Dette betyr sannsynligvis at et forsøk på å oppdatere mislyktes. Kontroller at installasjonen er i orden før du fortsetter.
+Sjekk Prism Launcher-oppdateringsloggen ved: 
 %7
 for detaljer om det siste oppdateringsforsøket.
 
-For å slette denne låsen og fortsette velger du &quot;Ignorer&quot; nedenfor.</translation>
+For å slette denne låsfilen og fortsette, velg «Ignorer» nedenfor.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="963"/>
@@ -808,7 +808,7 @@ for detaljer om det siste oppdateringsforsøket.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="995"/>
         <source>Update Failed</source>
-        <translation>Oppdatering Mislyktest</translation>
+        <translation>Oppdatering mislyktest</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1019"/>
@@ -824,10 +824,10 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation>Oppdatering Vellykket
+        <translation>Oppdateringen var vellykket
 
 Du kjører nå %1 .
-Sjekk Prism-Launcher oppdateringsverktøy loggen på: 
+Sjekk Prism-Launchers oppdateringsverktøylogg ved: 
 %2
 for detaljer.</translation>
     </message>
@@ -843,10 +843,10 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation>/tmp directory -en din har &apos;noexec&apos;-flagget skrudd på.
+        <translation>/tmp-mappen din har «noexec»-flagget skrudd på.
 Det kan hende at noen versjoner av Minecraft ikke vil kjøre.
 
-For å fikse dette problemet, kan du legge til /tmp som &apos;exec&apos; igjen, eller sette java.io.tmpdir-JVM-argumentet til et skrivbart direktorat i et skrivesystem hvor &apos;exec&apos;-flagget er lagt til (t.d.,/home/user/.local/tmp)
+For å fikse dette problemet, kan du sette /tmp-mappen som «exec» igjen, eller sette java.io.tmpdir-JVM-argumentet til en mappe hvor «exec»-flagget er lagt til (for eksempel /home/user/.local/tmp)
 </translation>
     </message>
     <message>
@@ -860,7 +860,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/Application.cpp" line="1065"/>
         <source>Incompatible system configuration</source>
-        <translation>Inkompatibel System Konfigurasjon</translation>
+        <translation>Inkompatibel systemkonfigurasjon</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1439"/>
@@ -875,12 +875,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/Application.cpp" line="1845"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation>Det ser ut som om du har brukt %1 før. Ønsker du å flytte dataen over til den nye plasseringen %2?</translation>
+        <translation>Det ser ut som om du har brukt %1 før. Ønsker du å flytte dataene over til den nye plasseringen %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1851"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation>Det ser ut til at du brukte %1 på %2 tidligere. Vil du migrere dataene dine til den nye plasseringen til %3?</translation>
+        <translation>Det ser ut til at du brukte %1 på %2 tidligere. Vil du migrere dataene dine til den nye plasseringen %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1894"/>
@@ -1014,7 +1014,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation>Tøm Alt</translation>
+        <translation>Fjern alt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
