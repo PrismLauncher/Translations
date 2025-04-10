@@ -1050,7 +1050,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Advarsel: Dette er et pågående arbeid. Om du skulle møte på problemer med importert modpack, kan det være en bug.</translation>
+        <translation>Advarsel: Dette er fortsatt under utvikling. Hvis du møter på problemer med den importerte modpacken, kan det være et bug.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
@@ -1073,7 +1073,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>Ingen versjon er tilgjengelig for Minecraft %1 på dette tidspunkt</translation>
+        <translation>Ingen versjon er tilgjengelig for Minecraft %1 på dette tidspunktet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
@@ -1121,12 +1121,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
         <source>Failed to contact the authentication server.</source>
-        <translation>Kunne ikke kontakte autentiseringstjenesten.</translation>
+        <translation>Kunne ikke kontakte autentiseringsserveren.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation>Klient-ID har blitt forandret. Ny økt må startes.</translation>
+        <translation>Klient-ID-en har forandret seg. En ny økt må startes.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
