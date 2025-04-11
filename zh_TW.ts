@@ -7980,7 +7980,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
         <source>The instance updated to pack version %1 successfully.</source>
-        <translation>實例已成功更新至模組包版本 %1</translation>
+        <translation>實例已成功更新至模組包版本 %1。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
@@ -12247,8 +12247,10 @@ New name: %2</source>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>下列執行個體可能會參照這個實例中的檔案：
+            <numerusform>下列實例可能會參照這個實例中的檔案：
+
 %1
+
 %2 這樣可能會導致另一個實例損壞，
 
 您是否要繼續？</numerusform>
