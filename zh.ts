@@ -2285,7 +2285,12 @@ Some versions of Minecraft may not launch.
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation>该文本支持下列占位符：
+{name}      - Mod 名称
+{mod_id}     - Mod ID
+{url}       - Mod URL
+{version}   - Mod 版本
+{authors}  - Mod 作者</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
