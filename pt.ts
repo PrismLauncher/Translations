@@ -10237,108 +10237,108 @@ StdErr: %2 .</translation>
 <context>
     <name>PrismUpdaterApp</name>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="208"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
         <translation>Use um caminho customizado como raiz da aplicação (use &apos;.&apos; para usar o diretório atual).</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="208"/>
         <source>directory</source>
         <translation>diretório</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="226"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="210"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
         <translation>Use esta versão como a versão do inicializador instalada. (fornecido porque o stdout não pode ser capturado de forma confiável no Windows)</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="227"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="211"/>
         <source>installed launcher version</source>
         <translation>versão do launcher instalada</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="228"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="212"/>
         <source>version name</source>
         <translation>nome de versão</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="213"/>
         <source>Update from the specified repo.</source>
         <translation>Atualizar do repositório especificado.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="213"/>
         <source>github repo url</source>
         <translation>url do repositório do github</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="231"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="215"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
         <translation>Checar somente se uma atualização for necessária. Status de saída 100 se verdadeiro, 0 se falso (ou não 0 se houve um erro).</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="232"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="216"/>
         <source>Allow updating to pre-release releases</source>
         <translation>Permitir atualização para versões em pré-lançamento</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="233"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="217"/>
         <source>Force an update, even if one is not needed.</source>
         <translation>Forçar atualização, mesmo se não for necessária.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="234"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="218"/>
         <source>List available releases.</source>
         <translation>Listar versões disponíveis.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="235"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="219"/>
         <source>Log debug to console.</source>
         <translation>Loggar debug para o console.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="236"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="220"/>
         <source>Select the version to install with a GUI.</source>
         <translation>Selecione a versão para instalar com uma GUI.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="237"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="221"/>
         <source>Allow the updater to downgrade to previous versions.</source>
         <translation>Permitir que o atualizador volte a versões antigas.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="232"/>
         <source>MacOS Not Supported</source>
         <translation>MacOS não suportado</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="232"/>
         <source>The updater does not support installations on MacOS</source>
         <translation>O atualizador não suporta instalações em MacOS</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="255"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="268"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="239"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="252"/>
         <source>Unsupported Installation</source>
         <translation>Instalação não suportada</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="256"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="240"/>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>O atualizador está executando uma imagem do app mal configurada? (a variável de ambiente $APPIMAGE não existe)</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="268"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="252"/>
         <source>The updater can not find the main executable.</source>
         <translation>O atualizador não pôde encontrar o executável principal.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="381"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="365"/>
         <source>The launcher data folder is not writable!</source>
         <translation>A pasta &quot;data&quot; do launcher não pode ser modificada!</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="382"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="366"/>
         <source>The updater couldn&apos;t create a log file - the data folder is not writable.
 
 Make sure you have write permissions to the data folder.
@@ -10353,121 +10353,121 @@ Verifica se tens permissões de escrita para a pasta de dados.
 O atualizador não pode continuar até que este problema seja resolvido.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="574"/>
         <source>Updating flatpack not supported</source>
         <translation>Atualizar o flatpack não é suportado</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="574"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
         <translation>Qualquer ação que não seja verificar se existem atualizações não é suportada na versão flatpak do Prism Launcher.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="647"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1100"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="631"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1084"/>
         <source>Reading manifest from %1</source>
         <translation>A ler o manifest de %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="659"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="643"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
         <translation>O Manifest encontra-se vazio, a tentar adivinhar os conteúdos de %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="665"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="649"/>
         <source>Installing the following to %1 :
  %2</source>
         <translation>A instalar o seguinte para %1
 .%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="669"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="676"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="653"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="660"/>
         <source>Installing from %1</source>
         <translation>A instalar de %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="681"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="665"/>
         <source>Installing %1 from %2</source>
         <translation>A instalar %1 de %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="685"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="669"/>
         <source>Failed copy %1 to %2</source>
         <translation>Falha a copiar %1 para %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="700"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1176"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="684"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1160"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
         <translation>Ficheiro não existe, ignorando: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="713"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="697"/>
         <source>There were errors installing the update.</source>
         <translation>Ocorreram erros a instalar a atualização.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="717"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="701"/>
         <source>Update succeed.</source>
         <translation>Atualização com sucesso.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="878"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="862"/>
         <source>No Valid Release Assets</source>
         <translation>Não existem recursos publicados válidos</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="863"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
         <translation>Release do Github %1 não tem ativos válidos para essa plataforma: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="865"/>
         <source>%1 portable: %2</source>
         <translation>%1 portável: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1053"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="865"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1037"/>
         <source>yes</source>
         <translation>sim</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1053"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="865"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1037"/>
         <source>no</source>
         <translation>não</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="889"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="873"/>
         <source>No version selected.</source>
         <translation>Sem versão selecionada.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="889"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="873"/>
         <source>No version was selected.</source>
         <translation>Nenhuma versão foi selecionada.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="896"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="880"/>
         <source>Failed to Download</source>
         <translation>Falha na transferência</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="896"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="880"/>
         <source>Failed to download the selected asset.</source>
         <translation>Falha a transferir o recurso selecionado.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="998"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="982"/>
         <source>Update already in progress
 </source>
         <translation>Atualização já em progresso
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1000"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="984"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -10494,130 +10494,130 @@ para obteres detalhes na última tentativa de atualização.
 Para reescrever o ficheiro de bloqueio e prosseguir com esta atualização de qualquer maneira, seleciona &quot;Ignorar&quot; em baixo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1030"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1014"/>
         <source>Update Aborted</source>
         <translation>Atualização Cancelada</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1030"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1014"/>
         <source>The update attempt was aborted</source>
         <translation>Esta tentativa de atualização foi cancelada</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1038"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1022"/>
         <source>Updating from %1 to %2</source>
         <translation>Atualizando de %1 para %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1041"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1025"/>
         <source>Updating portable install at %1</source>
         <translation>Atualizando instalação portátil localizada em %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1044"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1028"/>
         <source>Running installer file at %1</source>
         <translation>Executando ficheiro de instalação em %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1053"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1037"/>
         <source>Process start result: %1</source>
         <translation>Resultado de início do processo: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1060"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1044"/>
         <source>Backing up install</source>
         <translation>Gravando instalação anterior</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1081"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1065"/>
         <source>Starting new updater at &apos;%1&apos;</source>
         <translation>Iniciando nova atualização em &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1083"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1067"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
         <translation>Erro ao executar &apos;%1&apos; %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1133"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1117"/>
         <source>Backing up:
   %1</source>
         <translation>Gravando dados anteriores:
   %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1144"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1151"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1128"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1135"/>
         <source>Backing up install at %1</source>
         <translation>Gravando instalação anterior em %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1156"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1140"/>
         <source>Backing up and then removing %1</source>
         <translation>Gravando versão anterior e depois removendo %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1160"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1144"/>
         <source>Failed to backup %1 to %2</source>
         <translation>Erro ao gravar %1 para %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1163"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1147"/>
         <source>Failed to remove %1</source>
         <translation>Erro ao remover %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1198"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1182"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
         <translation>Extração de o seguinte para &quot;%1&quot;:
   %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1200"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1202"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1184"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1186"/>
         <source>Failed to extract %1 to %2</source>
         <translation>Erro ao extrair %1 para %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1209"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1193"/>
         <source>Running: `%1 %2`</source>
         <translation>Executando: `%1 %2`</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1197"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
         <translation type="unfinished">Erro ao lançar processo-filho &quot;%1 %2&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1199"/>
         <source>Failed extract archive</source>
         <translation>Falha durante extração de arquivo</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1222"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1206"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
         <translation>Processo-filho &quot;%1 %2&quot; falhou.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1224"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1208"/>
         <source>Failed to extract archive</source>
         <translation>Falha a extrair arquivo</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1229"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Unknown archive format for %1</source>
         <translation>Formato de arquivo desconhecido em %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1248"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1228"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1232"/>
         <source>Failed to Check Version</source>
         <translation>Erro a verificar versão</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1228"/>
         <source>Failed to launch child process to read version.</source>
         <translation>Falha ao iniciar o processo filho para ler a versão.</translation>
     </message>
@@ -10626,7 +10626,7 @@ Para reescrever o ficheiro de bloqueio e prosseguir com esta atualização de qu
         <translation type="vanished">Falha ao iniciar o processo do iniciador filho para ler a versão.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1248"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1232"/>
         <source>Child launcher process failed.</source>
         <translation>O processo do iniciador filho falhou.</translation>
     </message>
@@ -11541,7 +11541,7 @@ NOTA: Tem a certeza de que fazes um backup dos dados importantes da tua instânc
         <translation>Organizar por Mais Recente</translation>
     </message>
     <message>
-        <location filename="src/launcher/filelink/FileLink.cpp" line="77"/>
+        <location filename="src/launcher/filelink/FileLink.cpp" line="61"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
         <translation>Um programa de Lote MKLINK para o Windows a ser usado com o prismlauncher</translation>
     </message>
@@ -11551,7 +11551,7 @@ NOTA: Tem a certeza de que fazes um backup dos dados importantes da tua instânc
         <translation>Desagrupado</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="221"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="205"/>
         <source>An auto-updater for Prism Launcher</source>
         <translation>Um Atualizador Automático para o Prism Launcher</translation>
     </message>

@@ -10650,108 +10650,108 @@ StdErr: %2</translation>
 <context>
     <name>PrismUpdaterApp</name>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="208"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
         <translation>Saját útvonal használata az applikáció gyökereként (a jelenlegi könyvtárhoz használjon &apos;.&apos;).</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="208"/>
         <source>directory</source>
         <translation>könytár</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="226"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="210"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
         <translation>Használja ezt a verziót a telepített launcher verzióként. (Biztosított, mivel stdout nem olvasható megbízhatóan Windows-on)</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="227"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="211"/>
         <source>installed launcher version</source>
         <translation>telepített launcher verzió</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="228"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="212"/>
         <source>version name</source>
         <translation>verzió név</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="213"/>
         <source>Update from the specified repo.</source>
         <translation>Frissítés megjelölt adattárból.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="213"/>
         <source>github repo url</source>
         <translation>github adattár url</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="231"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="215"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
         <translation>Csak akkori ellenőrzés, ha frissítés szükséges. Bezárási állapot 100 ha igaz, 0 ha hamis (vagy nem 0 ha hiba lépett fel).</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="232"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="216"/>
         <source>Allow updating to pre-release releases</source>
         <translation>Frissítés engedélyezése előzetes kiadású verzióra</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="233"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="217"/>
         <source>Force an update, even if one is not needed.</source>
         <translation>Frissítés kényszerítése akkor is, ha nem szükséges.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="234"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="218"/>
         <source>List available releases.</source>
         <translation>Elérhető kiadások listázása.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="235"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="219"/>
         <source>Log debug to console.</source>
         <translation>Hibakereső naplózása konzolba.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="236"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="220"/>
         <source>Select the version to install with a GUI.</source>
         <translation>Telepítendő verzió választása felhasználói felülettel.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="237"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="221"/>
         <source>Allow the updater to downgrade to previous versions.</source>
         <translation>A frissítő korábbi verzióra való lebutításnak engedélyezése.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="232"/>
         <source>MacOS Not Supported</source>
         <translation>MacOS Nem Támogatott</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="232"/>
         <source>The updater does not support installations on MacOS</source>
         <translation>A frissítő nem támogat installációt MacOS rendszeren</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="255"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="268"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="239"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="252"/>
         <source>Unsupported Installation</source>
         <translation>Nem támogatott installáció</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="256"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="240"/>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>A frissítő helytelenül konfigurált AppImage-ként fut? ($APPIMAGE környezeti változó hiányzik)</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="268"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="252"/>
         <source>The updater can not find the main executable.</source>
         <translation>A frissítő nem találja a fő alkalmazást (exe).</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="381"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="365"/>
         <source>The launcher data folder is not writable!</source>
         <translation>A launcher adat mappa nem írható!</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="382"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="366"/>
         <source>The updater couldn&apos;t create a log file - the data folder is not writable.
 
 Make sure you have write permissions to the data folder.
@@ -10766,12 +10766,12 @@ Bizonyosodjon meg, hogy vannak írási engedélyei az adat mappához.
 A frissítő nem tud tovább haladni, amíg Ön ezt a problémát ki nem küszöböli.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="574"/>
         <source>Updating flatpack not supported</source>
         <translation>Flatpack frissítése nem támogatott</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="574"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
         <translation>Frissítések keresésén más akció nem támogatott a Prism Launcher flatpak verzióján.</translation>
     </message>
@@ -10784,111 +10784,111 @@ A frissítő nem tud tovább haladni, amíg Ön ezt a problémát ki nem küszö
         <translation type="vanished">A nem hordozható linuxos telepítések frissítése nem támogatott. Kérjük, használja a rendszer csomagkezelőjét</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="647"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1100"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="631"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1084"/>
         <source>Reading manifest from %1</source>
         <translation>Manifesztum olvasása innen: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="659"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="643"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
         <translation>Manifest üres, a %1 könyvtár tartalmát a lehető legjobban kitalálva</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="665"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="649"/>
         <source>Installing the following to %1 :
  %2</source>
         <translation>A következők telepítése ide: %1 :
  %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="669"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="676"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="653"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="660"/>
         <source>Installing from %1</source>
         <translation>Telepítés innen: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="681"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="665"/>
         <source>Installing %1 from %2</source>
         <translation>%1 telepítése innen: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="685"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="669"/>
         <source>Failed copy %1 to %2</source>
         <translation>Sikertelen a(z) %1 másolása ide: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="700"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1176"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="684"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1160"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
         <translation>A fájl nem létezik, figyelmen kívül hagyva: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="713"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="697"/>
         <source>There were errors installing the update.</source>
         <translation>A frissítés telepítése során hibák léptek fel.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="717"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="701"/>
         <source>Update succeed.</source>
         <translation>A frissítés sikerül.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="878"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="862"/>
         <source>No Valid Release Assets</source>
         <translation>Nincs érvényes kiadási eszköz</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="863"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
         <translation>A Github kiadás %1 nem rendelkezik érvényes eszközökkel ezen a platformon: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="865"/>
         <source>%1 portable: %2</source>
         <translation>%1 hordozható: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1053"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="865"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1037"/>
         <source>yes</source>
         <translation>igen</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1053"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="865"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1037"/>
         <source>no</source>
         <translation>nem</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="889"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="873"/>
         <source>No version selected.</source>
         <translation>Nincs kiválasztva verzió.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="889"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="873"/>
         <source>No version was selected.</source>
         <translation>Nem lett kiválasztva verzió.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="896"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="880"/>
         <source>Failed to Download</source>
         <translation>Nem sikerült letölteni</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="896"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="880"/>
         <source>Failed to download the selected asset.</source>
         <translation>Nem sikerült letölteni a kiválasztott elemet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="998"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="982"/>
         <source>Update already in progress
 </source>
         <translation>A frissítés már folyamatban van
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1000"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="984"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -10915,130 +10915,130 @@ a legutóbbi frissítési kísérlet részleteiért.
 Ha szeretné felülírni ezt a zárolást, és mindenképpen folytatni szeretné a frissítést, válassza az alábbi &quot;Ignore&quot; (figyelmen kívül hagyás) lehetőséget.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1030"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1014"/>
         <source>Update Aborted</source>
         <translation>Frissítés megszakítva</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1030"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1014"/>
         <source>The update attempt was aborted</source>
         <translation>A frissítési kísérlet megszakadt</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1038"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1022"/>
         <source>Updating from %1 to %2</source>
         <translation>Frissítés erről: %1 erre: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1041"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1025"/>
         <source>Updating portable install at %1</source>
         <translation>A hordozható telepítés frissítése itt: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1044"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1028"/>
         <source>Running installer file at %1</source>
         <translation>A telepítőfájl futtatása itt: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1053"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1037"/>
         <source>Process start result: %1</source>
         <translation>Folyamatindítás eredménye: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1060"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1044"/>
         <source>Backing up install</source>
         <translation>Biztonsági mentés telepítés</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1081"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1065"/>
         <source>Starting new updater at &apos;%1&apos;</source>
         <translation>Új frissítő indítása itt: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1083"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1067"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
         <translation>Nem sikerült elindítani a következőt: &quot;%1&quot; %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1133"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1117"/>
         <source>Backing up:
   %1</source>
         <translation>Biztonsági mentés:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1144"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1151"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1128"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1135"/>
         <source>Backing up install at %1</source>
         <translation>A telepítés biztonsági mentése itt: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1156"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1140"/>
         <source>Backing up and then removing %1</source>
         <translation>Biztonsági mentés, majd %1 eltávolítása</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1160"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1144"/>
         <source>Failed to backup %1 to %2</source>
         <translation>Nem sikerült a %1 biztonsági mentése ide: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1163"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1147"/>
         <source>Failed to remove %1</source>
         <translation>Nem sikerült eltávolítani %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1198"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1182"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
         <translation>A következőket bontotta ki a(z) &quot;%1&quot; fájlba:
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1200"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1202"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1184"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1186"/>
         <source>Failed to extract %1 to %2</source>
         <translation>Nem sikerült kicsomagolni ezt: %1 ebbe: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1209"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1193"/>
         <source>Running: `%1 %2`</source>
         <translation>Fut: `%1 %2`</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1197"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
         <translation>Nem sikerült elindítani a launcher gyermekfolyamatot &quot;%1 %2&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1199"/>
         <source>Failed extract archive</source>
         <translation>Az archívum kibontása sikertelen</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1222"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1206"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
         <translation>A &quot;%1 %2&quot; gyermekfolyamat sikertelen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1224"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1208"/>
         <source>Failed to extract archive</source>
         <translation>Az archívum kibontása nem sikerült</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1229"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Unknown archive format for %1</source>
         <translation>Ismeretlen archívumformátum a következőhöz: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1248"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1228"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1232"/>
         <source>Failed to Check Version</source>
         <translation>Nem sikerült ellenőrizni a verziót</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1228"/>
         <source>Failed to launch child process to read version.</source>
         <translation>Nem sikerült elindítani a gyermekfolyamatot a verzió olvasásához.</translation>
     </message>
@@ -11047,7 +11047,7 @@ Ha szeretné felülírni ezt a zárolást, és mindenképpen folytatni szeretné
         <translation type="vanished">Nem sikerült elindítani az launcher gyermekindító folyamatát a verzió olvasásához.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1248"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1232"/>
         <source>Child launcher process failed.</source>
         <translation>A gyermekindító folyamat meghiúsult.</translation>
     </message>
@@ -11967,7 +11967,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation>Legújabbak szerinti rendezés</translation>
     </message>
     <message>
-        <location filename="src/launcher/filelink/FileLink.cpp" line="77"/>
+        <location filename="src/launcher/filelink/FileLink.cpp" line="61"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
         <translation>kötegelt MKLINK program a Prismlauncherrel használható windowshoz</translation>
     </message>
@@ -11977,7 +11977,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation>Nincs csoportosítva</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="221"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="205"/>
         <source>An auto-updater for Prism Launcher</source>
         <translation>Automatikus frissítő a Prism Launcherhez</translation>
     </message>
