@@ -147,11 +147,11 @@
             "untranslated" : 1
         },
         "en_CA" : {
-            "file" : "22cb87b51fc9146fe1748e9a5d0fbafecfddc7fe.class",
-            "sha1" : "22cb87b51fc9146fe1748e9a5d0fbafecfddc7fe",
-            "size" : 337142,
-            "translated" : 2363,
-            "fuzzy" : 13,
+            "file" : "f965305a98b6df953d1330f94fd50f624144a5e2.class",
+            "sha1" : "f965305a98b6df953d1330f94fd50f624144a5e2",
+            "size" : 337128,
+            "translated" : 2368,
+            "fuzzy" : 8,
             "untranslated" : 1
         },
         "en_GB" : {
