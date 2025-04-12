@@ -193,7 +193,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="386"/>
         <source>No loader version set for modpack!</source>
-        <translation>Не встановлено версію завантажувача для модпаку!</translation>
+        <translation>Не встановлено версію завантажувача для збірки модів!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="516"/>
@@ -273,7 +273,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
         <source>Installing modpack</source>
-        <translation>Встановлення мод-паку</translation>
+        <translation>Встановлення збірки модів</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1014"/>
@@ -1063,7 +1063,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Попередження: робота над цим ще триває. Якщо у вас виникли проблеми з імпортованим пакетом модів, це може бути помилка.</translation>
+        <translation>Попередження: робота над цим ще триває. Якщо у вас виникли проблеми з імпортованою збіркою модів, це може бути помилка.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
@@ -2982,7 +2982,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
         <source>No loader version set for modpack!</source>
-        <translation>Не встановлено версію завантажувача для модпаку!</translation>
+        <translation>Не встановлено версію завантажувача для збірки модів!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="347"/>
@@ -2994,7 +2994,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="352"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>Відсутня вказана тека перевизначень (%1). Можливо, мод-пак уже використовувався раніше?</translation>
+        <translation>Відсутня вказана тека перевизначень (%1). Можливо, збірка модів уже використовувалася раніше?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
@@ -6625,7 +6625,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="580"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>Відкрити теку основних модів в файловому менеджері.</translation>
+        <translation>Відкрити основну теку модів в файловому менеджері.</translation>
     </message>
     <message>
         <source>Dele&amp;te Instance</source>
@@ -9042,7 +9042,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Видалення модів, під час того як гра запущена, може призвести до її аварійного завершення
+        <translation>Видалення модів під час того як гра запущена може призвести до її аварійного завершення
 Ви впевнені, що хочете це зробити?</translation>
     </message>
     <message>
@@ -9062,7 +9062,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="187"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="291"/>
         <source>Please install a mod loader first!</source>
-        <translation>Будь ласка спершу встановіть завантажувач модів!</translation>
+        <translation>Будь ласка, спершу встановіть завантажувач модів!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
@@ -9097,7 +9097,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="191"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="295"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation>Оновлення модів не доступне, якщо вимкнуті метадані!</translation>
+        <translation>Оновлення модів недоступне, якщо вимкнено метадані!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
@@ -9112,8 +9112,8 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation>Оновлення модів під час того, як гра запущена, може спричинити дублікацію модів і аварійне завершення гри.
-Старі файли можуть не видалитись, оскільки вони у використанні.
+        <translation>Оновлення модів під час того як гра запущена може спричинити дублікацію модів і аварійне завершення гри.
+Старі файли можуть не видалитися, оскільки вони використовуються.
 Ви впевнені, що хочете це зробити?</translation>
     </message>
     <message>
@@ -9361,7 +9361,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Не вдалося перевірити або завантажити оновлення наступних модів:&lt;br&gt;Бажаєте продовжити без них?</translation>
+        <translation>Не вдалося перевірити або завантажити оновлення наступних модів:&lt;br&gt;Бажаєте продовжити без цих модів?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
