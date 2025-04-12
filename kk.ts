@@ -122,7 +122,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ескертпе: бұны жеке ақпаратты алу үшін ғана орнату керек. &lt;aТолық ақпаратты алу үшін href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;сілтемесіне өтіңіз.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ескертпе: бұны жеке ақпаратты алу үшін ғана орнату керек. Толық ақпаратты алу үшін&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;сілтемесі бойынша өтіңіз.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -626,7 +626,8 @@ for details on the last update attempt.</source>
         <translation>Жаңарту сәтсіз аяқталды
 
 Жалғастырмас бұрын орнатудың жұмыс істеп тұрғанына көз жеткізіңіз.
-Соңғы жаңарту әрекеті туралы толық ақпарат алу үшін Prism Launcher жаңарту журналын мына жерден қараңыз:
+Соңғы жаңарту әрекеті туралы толық ақпарат алу үшін
+Prism Launcher жаңарту журналын мына жерден қараңыз:
 %1.</translation>
     </message>
     <message>
@@ -1133,7 +1134,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation type="unfinished">Сіздің таңдаған провайдер сәтсіздікке ұшыраса, басқасын қолданып көріңіз</translation>
+        <translation>Сіз таңдаған провайдер сәтсіздікке ұшыраса, басқасын қолданып көріңіз</translation>
     </message>
 </context>
 <context>
