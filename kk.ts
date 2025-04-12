@@ -434,7 +434,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"/>
         <source>Account</source>
-        <translation>Есепкі жазба</translation>
+        <translation>Есептік жазба</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="347"/>
