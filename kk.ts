@@ -434,7 +434,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"/>
         <source>Account</source>
-        <translation>Аккаунт</translation>
+        <translation>Есепкі жазба</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="347"/>
@@ -449,7 +449,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Аккаунтпен байланысты Minecraft пайдаланушы аты</translation>
+        <translation>Есепкі жазбамен байланысты Minecraft пайдаланушы аты</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
@@ -1062,7 +1062,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:red&quot;&gt;&amp;#x2718;  Табылмады  &lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt;&amp;#x2718;  Табылмады &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="162"/>
@@ -2814,7 +2814,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="95"/>
         <source>Adventure</source>
-        <translation type="unfinished"></translation>
+        <translation>Саяхат</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="97"/>
@@ -2864,7 +2864,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="35"/>
         <source>Got skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Скин алынды</translation>
     </message>
 </context>
 <context>
@@ -3439,7 +3439,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="unfinished"></translation>
+        <translation>Zink қолдану</translation>
     </message>
     <message>
         <source>Legacy settings</source>
