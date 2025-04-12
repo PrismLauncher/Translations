@@ -449,7 +449,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Есепкі жазбамен байланысты Minecraft пайдаланушы аты</translation>
+        <translation>Есептік жазбамен байланысты Minecraft пайдаланушы аты.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
@@ -604,7 +604,8 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 Орнату жолы: %5
 Деректер жолы: %6
 Бұл жаңарту әрекеті сәтсіз аяқталғанын білдіруі мүмкін. Жалғастырмас бұрын орнатудың жұмыс істеп тұрғанына көз жеткізіңіз.
-Соңғы жаңарту әрекеті туралы толық ақпарат алу үшін Prism Launcher жаңарту журналын мына жерден қараңыз:
+Соңғы жаңарту әрекеті туралы толық ақпарат алу үшін
+Prism Launcher жаңарту журналын мына жерден қараңыз:
 %7.
 
 Құлыпты жойып, жалғастыру үшін төмендегі &quot;Елемеу&quot; тармағын таңдаңыз.</translation>
@@ -650,7 +651,8 @@ for details.</oldsource>
         <translation>Жаңарту сәтті аяқталды
 
 Сіз енді %1 қолданып жатырсыз.
-Қосымша мәлімет үшін Prism Launcher жаңарту журналын мына жерден қараңыз:
+Қосымша мәлімет үшін
+Prism Launcher жаңарту журналын мына жерден қараңыз:
 %2.</translation>
     </message>
     <message>
@@ -1027,7 +1029,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
         <source>Please download the missing mods.</source>
-        <translation>Өтініш, жоқ модтарды жүктеніз</translation>
+        <translation>Өтініш, жоқ модтарды жүктеніз.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
@@ -1062,7 +1064,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:red&quot;&gt;&amp;#x2718;  Табылмады &lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt;&amp;#x2718; Табылмады &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="162"/>
@@ -1072,7 +1074,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Сіз таңдаған ғаламдық модтар және жүктемелер бумалары әдепкі түрде модтар барына тексеріледі.&lt;/p&gt;&lt;p&gt;При желании вы можете перетащить скачанные моды в это диалоговое окно или добавить папку, чтобы посмотреть, не скачивали ли вы моды в папку по умолчанию.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Сіз таңдаған ғаламдық модтар мен жүктемелер бумалары автоматты түрде тексеріліп данаңызға көшіріледі .&lt;/p&gt;&lt;p&gt;Қаласаңыз, модтарды қолыңызбен алып осы ашық терезеге салуыңызға болады.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1106,7 +1108,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation type="unfinished">Модтар жеткізушісін таңдаңыз</translation>
+        <translation>Модтар жеткізушісін таңдаңыз</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
