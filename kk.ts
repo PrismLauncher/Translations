@@ -1152,23 +1152,24 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>Тәуелділік тексерісі барысында жанжалдасушы талаптар табылды!</translation>
+        <translation>Тәуелділіктер тексерісі барысында жанжалдасушы талаптар табылды!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="467"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation type="unfinished">Ойынды жүктеу жанжалдасушы тәуелділіктер бар</translation>
+        <translation>Данада жанжалдасушы тәуелділіктер бар.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="473"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Дананың жүктелуін/іске қосылуын тексеру кезінде шешілмеген тәуелділіктері бар.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="776"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Қашық серверден жүктеу барысында метадеректерді жаңарту сәтсіз аяқталды:
+%1</translation>
     </message>
 </context>
 <context>
@@ -1176,27 +1177,27 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="94"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Жүріп жатқан есептер тоқтатылмады.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="124"/>
         <source>One or more subtasks failed</source>
-        <translation>Бір немесе бірнеше салынған есептер сәтсіздікке ұшырады</translation>
+        <translation>Бір немесе бірнеше есептер сәтсіздікке ұшырады</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="227"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 есептер орындалуда (%3 ішінен %2 жасалынды)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="230"/>
         <source>Please wait...</source>
-        <translation>Өтініш, күте тұрыңыз...</translation>
+        <translation>Күте тұрыңыз...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="232"/>
         <source>Waiting for a task to start...</source>
-        <translation>Есептің орындалуының күтуі...</translation>
+        <translation>Есептің орындалуын күтіңіз...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="234"/>
