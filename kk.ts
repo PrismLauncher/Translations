@@ -1511,47 +1511,47 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="195"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="205"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="215"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="225"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="235"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Пайдаланушының</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="117"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Майнкрафт нұсқасы таңдалмады.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="123"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Модтар жүктеушісі таңдалмады.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Казіргі сәтте Minecraft %1 арналған нұсқалар жоқ</translation>
     </message>
 </context>
 <context>
@@ -1559,23 +1559,23 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="23"/>
         <source>Scanning files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлдарды сканерлеу...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="45"/>
         <source>Failed to scan source path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Бастапқы жолды сканерлеу сәтсіздікке ұшырады.</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="58"/>
         <source>Copying %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 көшіріліп жатыр…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="70"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="92"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Үзілді</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="83"/>
