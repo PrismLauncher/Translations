@@ -2258,7 +2258,12 @@ Some versions of Minecraft may not launch.
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей текст підтримує наступні плейсхолдери:
+{name}     - Назва мода
+{mod_id}   - ID мода
+{url}      - URL мода
+{version}  - Версія мода
+{authors}  - Автори мода</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -8676,7 +8681,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="137"/>
