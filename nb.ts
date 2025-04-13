@@ -5396,7 +5396,7 @@ Det kan hende at du må fikse modsa dine, sia spellet logger fortsatt på filer 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="582"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation>&amp;Avslutt logging når loggen overfylles</translation>
+        <translation>&amp;Slutt å logge når loggen overfylles</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="595"/>
