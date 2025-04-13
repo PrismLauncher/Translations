@@ -2290,7 +2290,12 @@ Some versions of Minecraft may not launch.
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот текст поддерживает следующие плейсхолдеры:
+{name}     - Название мода
+{mod_id}   - ID мода
+{url}      - URL мода
+{version}  - Версия мода
+{authors}  - Авторы мода</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
