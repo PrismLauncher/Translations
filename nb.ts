@@ -5401,7 +5401,7 @@ Det kan hende at du må fikse modsa dine, sia spellet logger fortsatt på filer 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="595"/>
         <source> lines</source>
-        <translation> Linjer</translation>
+        <translation> linjer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="623"/>
