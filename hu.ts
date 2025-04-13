@@ -2270,7 +2270,12 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez a szöveg támogatja a következő helykitöltőket:
+{name} - mod név
+{mod_id} - mod azonosító
+{url} - mod URL
+{version} - mod verzió
+{authors} - mod szerzők</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
