@@ -2286,7 +2286,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished">Ce texte prend en charge les espaces réservés suivants&#xa0;:
+        <translation>Ce texte prend en charge les espaces réservés suivants&#xa0;:
 {name} - Nom du mod
 {mod_id} - ID du mod
 {url} - URL du mod
@@ -12206,7 +12206,7 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"/>
         <source>New instance root (%1) already exists. &lt;br /&gt;Only the metadata will be renamed.</source>
-        <translation type="unfinished">La nouvelle racine d&apos;instance (%1) existe déjà. &lt;br /&gt;Seules les métadonnées seront renommées.</translation>
+        <translation>La nouvelle racine d&apos;instance (%1) existe déjà. &lt;br /&gt;Seules les métadonnées seront renommées.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
