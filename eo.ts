@@ -767,12 +767,12 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="801"/>
+        <location filename="src/launcher/Application.cpp" line="808"/>
         <source>Settings</source>
         <translation>Agordoj</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="946"/>
+        <location filename="src/launcher/Application.cpp" line="953"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -799,12 +799,12 @@ por detaloj sur la lasta ĝisdatiga provo.
 Forigi ĉi tiun seruron kaj procedi elektitan &quot;Ignoras&quot; malsupre.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="963"/>
+        <location filename="src/launcher/Application.cpp" line="970"/>
         <source>Update In Progress</source>
         <translation>Ĝisdatigo En Progreso</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="987"/>
+        <location filename="src/launcher/Application.cpp" line="994"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -819,12 +819,12 @@ Kontrolu la Prism Launcher ĝisdatigor-registron ĉe:&#xa0;
 por pli detaloj de la antaŭa provo de ĝisdatigo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="995"/>
+        <location filename="src/launcher/Application.cpp" line="1002"/>
         <source>Update Failed</source>
         <translation>Ĝisdatigo Malsukcesis</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1019"/>
+        <location filename="src/launcher/Application.cpp" line="1026"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -845,12 +845,12 @@ Kontrolu la Prism Launcher ĝisdatigor-registron ĉe:
 por detaloj.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1027"/>
+        <location filename="src/launcher/Application.cpp" line="1034"/>
         <source>Update Succeeded</source>
         <translation>Ĝisdatigo Sukcesis</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1059"/>
+        <location filename="src/launcher/Application.cpp" line="1066"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -863,32 +863,32 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1065"/>
+        <location filename="src/launcher/Application.cpp" line="1072"/>
         <source>Incompatible system configuration</source>
         <translation>Nekongrua sistemkonfiguracio</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1439"/>
+        <location filename="src/launcher/Application.cpp" line="1446"/>
         <source>Aborted</source>
         <translation>Ĉesigita</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1841"/>
+        <location filename="src/launcher/Application.cpp" line="1848"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Trovis malnovajn datumojn el %1, sed vi jam havas ekzistantajn datumojn por %2. Malfeliĉe, vi devos migri mem. Ĉu vi volas esti memorigita pri la pritraktota migrado ĉe la sekva fojo, kiam vi komencas na %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1845"/>
+        <location filename="src/launcher/Application.cpp" line="1852"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Videble, vi uzis na %1 antaŭe. Ĉu vi volas migri viajn datumojn al la nova loko de %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1851"/>
+        <location filename="src/launcher/Application.cpp" line="1858"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Videble, vi uzis na %1 en %2 antaŭe. Ĉu vi volas migri viajn datumojn al la nova loko de %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1894"/>
+        <location filename="src/launcher/Application.cpp" line="1901"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrado malsukcesis! Kialo: %1</translation>
     </message>

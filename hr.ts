@@ -737,12 +737,12 @@ Molim te ažuriraj i svoj operacijski sustav i %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="801"/>
+        <location filename="src/launcher/Application.cpp" line="808"/>
         <source>Settings</source>
         <translation>Postavke</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="946"/>
+        <location filename="src/launcher/Application.cpp" line="953"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -769,12 +769,12 @@ za detalje o posljednjem pokušaju ažuriranja.
 Za brisanje ovog zaključavanja i nastavak odaberite &quot;Zanemari&quot; u nastavku.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="963"/>
+        <location filename="src/launcher/Application.cpp" line="970"/>
         <source>Update In Progress</source>
         <translation>Ažuriranje u tijeku</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="987"/>
+        <location filename="src/launcher/Application.cpp" line="994"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -789,12 +789,12 @@ Provjerite dnevnik ažuriranja programa Prism Launcher na:
 za detalje o posljednjem pokušaju ažuriranja.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="995"/>
+        <location filename="src/launcher/Application.cpp" line="1002"/>
         <source>Update Failed</source>
         <translation>Ažuriranje nije uspjelo</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1019"/>
+        <location filename="src/launcher/Application.cpp" line="1026"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -815,12 +815,12 @@ Provjerite dnevnik ažuriranja programa Prism Launcher na:
 za detalje.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1027"/>
+        <location filename="src/launcher/Application.cpp" line="1034"/>
         <source>Update Succeeded</source>
         <translation>Uspješno ažuriranje</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1059"/>
+        <location filename="src/launcher/Application.cpp" line="1066"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -841,32 +841,32 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1065"/>
+        <location filename="src/launcher/Application.cpp" line="1072"/>
         <source>Incompatible system configuration</source>
         <translation>Nekompatibilna konfiguracija sustava</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1439"/>
+        <location filename="src/launcher/Application.cpp" line="1446"/>
         <source>Aborted</source>
         <translation>Prekinuto</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1841"/>
+        <location filename="src/launcher/Application.cpp" line="1848"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Stari podaci iz %1 su pronađeni, ali već imaš postojeće podatke za %2. Nažalost morat ćeš sam migrirati. Želiš li biti podsjetnut na migraciju idući put kad pokreneš %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1845"/>
+        <location filename="src/launcher/Application.cpp" line="1852"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Izgleda da si već koristio %1. Želiš li migrirati podatke na novu lokaciju %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1851"/>
+        <location filename="src/launcher/Application.cpp" line="1858"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Izgleda da si već koristio %1 na %2. Želiš li migrirati svoje podatke na novu lokaciju %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1894"/>
+        <location filename="src/launcher/Application.cpp" line="1901"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Neuspjela migracija! Razlog: %1</translation>
     </message>
