@@ -837,7 +837,7 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">S&apos;ha actualitzat amb èxit
+        <translation>Actualitzacio acabada amb èxit
 
 Ara estàs utilitzant la versió %1.
 Dona una ullada al registre d&apos;actualitzador de Prism Launcher a:·
@@ -1066,7 +1066,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished">No hi ha versions disponibles actualment</translation>
+        <translation>Actualment no hi ha cap versio disponible</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
@@ -1104,27 +1104,27 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">L&apos;autenticació ha sigut un èxit.</translation>
+        <translation>L&apos;autenticació ha sigut èxitossa.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Fallida en contactar amb el servidor d&apos;autenticació.</translation>
+        <translation>No s&apos;ha pogut contactar amb el servidor d&apos;autenticació.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">La ID del client ha canviat. És necessari crear una nova sessió.</translation>
+        <translation>La ID del Client ha sigut modificada. Si us plau, Crea una nova sessio.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">S&apos;ha trobat un error durant l&apos;autenticació.</translation>
+        <translation>Hem trobat un error durant l&apos;autenticació.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Fallida en autenticar. La sessió ha expirat.</translation>
+        <translation>No hem pugut authentificar el compte, La sesio ha expirat!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
@@ -1182,7 +1182,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
         <source>Install Java</source>
-        <translation>Instal·li Java</translation>
+        <translation>Instalant Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
