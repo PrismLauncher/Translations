@@ -8080,7 +8080,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="91"/>
         <source>No group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Топсыз</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="112"/>
