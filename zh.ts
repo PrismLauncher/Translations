@@ -4730,7 +4730,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation>未安装任何托管的 Jav a版本</translation>
+        <translation>未安装任何托管的 Java 版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
