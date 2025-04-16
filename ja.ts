@@ -6079,59 +6079,64 @@ Reason:
         <translation>行を折り返し</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="80"/>
+        <source>Color lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Copy the whole log into the clipboard</source>
         <translation>クリップボードにログ全体をコピーします</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
         <source>&amp;Copy</source>
         <translation>コピー(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
         <source>Upload the log to the paste service configured in preferences</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
         <translation>設定されたペーストサービスにログをアップロードします</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="116"/>
         <source>Upload</source>
         <translation>アップロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="123"/>
         <source>Clear the log</source>
         <translation>ログをクリア</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="116"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="126"/>
         <source>Clear</source>
         <translation>クリア</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="125"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="135"/>
         <source>Search:</source>
         <translation>検索：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="132"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="142"/>
         <source>Find</source>
         <translation>次を検索</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="142"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="152"/>
         <source>Scroll all the way to bottom</source>
         <translation>一番下までスクロール</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="155"/>
         <source>Bottom</source>
         <translation>一番下へ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="248"/>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="247"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="69"/>
         <source>Minecraft Log</source>
         <translation>Minecraftのログ</translation>
     </message>
@@ -9798,86 +9803,148 @@ Please update %1!</source>
 <context>
     <name>OtherLogsPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="42"/>
         <source>Find</source>
         <translation>次を検索</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="64"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="49"/>
+        <source>&amp;Find</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="63"/>
+        <source>Scroll all the way to bottom</source>
+        <translation type="unfinished">一番下までスクロール</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="66"/>
+        <source>&amp;Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="109"/>
+        <source>Delete the selected log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="112"/>
+        <source>&amp;Delete Selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="119"/>
+        <source>Delete all the logs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="122"/>
+        <source>Delete &amp;All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="133"/>
+        <source>Wrap lines</source>
+        <translation type="unfinished">行を折り返し</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="143"/>
+        <source>Color lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="166"/>
         <source>Copy the whole log into the clipboard</source>
         <translation>クリップボードにログ全体をコピーします</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="169"/>
         <source>&amp;Copy</source>
         <translation>コピー(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="74"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="94"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="176"/>
+        <source>Upload the log to the paste service configured in preferences</source>
+        <translation type="unfinished">設定されたペーストサービスにログをアップロードします</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="179"/>
+        <source>&amp;Upload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="186"/>
+        <source>Reload the contents of the log from the disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="189"/>
+        <source>&amp;Reload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear the log</source>
         <translation>ログをクリア</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="77"/>
         <source>Delete</source>
         <translation>削除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="84"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
         <translation>設定されたペーストサービスにログをアップロードします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload</source>
         <translation>アップロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="97"/>
         <source>Clean</source>
         <translation>クリア</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
         <source>Reload</source>
         <translation>再読み込み</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="123"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="39"/>
         <source>Search:</source>
         <translation>検索：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="139"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="211"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="250"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="78"/>
+        <source>Cannot display this log since the log length surpassed %1 lines.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="266"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="305"/>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="139"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="165"/>
         <source>Unable to open %1 for reading: %2</source>
         <translation>読み取りのために %1を開くことができません：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="173"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
         <translation>ファイル %1 は大きすぎて開けません。巨大なファイルに対応したビューアで開いてください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
         <source>The file (%1) is not readable.</source>
         <translation>ファイル %1 は読み取れません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="251"/>
         <source>Confirm Deletion</source>
         <translation>削除の確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="252"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -9888,17 +9955,17 @@ Are you sure?</source>
 本当に削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="277"/>
         <source>Confirm Cleanup</source>
         <translation>クリーンアップの確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="279"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>本当にすべてのログファイルを削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="282"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>本当に以下のファイルをすべて削除しますか？
@@ -9909,7 +9976,7 @@ Are you sure?</source>
         <translation type="vanished">本当に %1を削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="211"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="266"/>
         <source>Unable to delete %1: %2</source>
         <translation>%1 を削除できません：%2</translation>
     </message>
@@ -9928,19 +9995,19 @@ Are you sure?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="252"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="307"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>一部のファイルが削除できませんでした！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="310"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>ファイルを削除できませんでした：
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="58"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="59"/>
         <source>Other logs</source>
         <translation>その他のログ</translation>
     </message>

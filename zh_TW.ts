@@ -6321,58 +6321,63 @@ Reason:
         <translation>自動換行</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="80"/>
+        <source>Color lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Copy the whole log into the clipboard</source>
         <translation>將整個記錄檔複製到剪貼簿</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
         <source>&amp;Copy</source>
         <translation>複製 (&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
         <source>Upload the log to the paste service configured in preferences</source>
         <translation>上傳記錄檔至 paste 服務，在偏好中設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="116"/>
         <source>Upload</source>
         <translation>上傳</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="123"/>
         <source>Clear the log</source>
         <translation>清除記錄</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="116"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="126"/>
         <source>Clear</source>
         <translation>清除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="125"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="135"/>
         <source>Search:</source>
         <translation>搜尋：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="132"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="142"/>
         <source>Find</source>
         <translation>尋找</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="142"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="152"/>
         <source>Scroll all the way to bottom</source>
         <translation>捲動至底部</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="155"/>
         <source>Bottom</source>
         <translation>底部</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="248"/>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="247"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="69"/>
         <source>Minecraft Log</source>
         <translation>Minecraft 記錄</translation>
     </message>
@@ -10364,85 +10369,147 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>OtherLogsPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="42"/>
         <source>Find</source>
         <translation>尋找</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="64"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="49"/>
+        <source>&amp;Find</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="63"/>
+        <source>Scroll all the way to bottom</source>
+        <translation type="unfinished">捲動至底部</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="66"/>
+        <source>&amp;Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="109"/>
+        <source>Delete the selected log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="112"/>
+        <source>&amp;Delete Selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="119"/>
+        <source>Delete all the logs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="122"/>
+        <source>Delete &amp;All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="133"/>
+        <source>Wrap lines</source>
+        <translation type="unfinished">自動換行</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="143"/>
+        <source>Color lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="166"/>
         <source>Copy the whole log into the clipboard</source>
         <translation>將整個紀錄複製到剪貼簿</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="169"/>
         <source>&amp;Copy</source>
         <translation>複製 (&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="74"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="94"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="176"/>
+        <source>Upload the log to the paste service configured in preferences</source>
+        <translation type="unfinished">上傳記錄檔至 paste 服務，在偏好中設定</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="179"/>
+        <source>&amp;Upload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="186"/>
+        <source>Reload the contents of the log from the disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="189"/>
+        <source>&amp;Reload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear the log</source>
         <translation>清除記錄</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="77"/>
         <source>Delete</source>
         <translation>刪除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="84"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <translation>上傳記錄檔至 paste 服務，在偏好中設定。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload</source>
         <translation>上傳</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="97"/>
         <source>Clean</source>
         <translation>清除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
         <source>Reload</source>
         <translation>重新載入</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="123"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="39"/>
         <source>Search:</source>
         <translation>搜尋：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="139"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="211"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="250"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="78"/>
+        <source>Cannot display this log since the log length surpassed %1 lines.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="266"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="305"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="139"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="165"/>
         <source>Unable to open %1 for reading: %2</source>
         <translation>無法以讀取模式開啟 %1：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="173"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
         <translation>檔案（%1）太大了。您可能會想用適合大型檔案的檢視器開啟它。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
         <source>The file (%1) is not readable.</source>
         <translation>檔案（%1）不可讀取。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="251"/>
         <source>Confirm Deletion</source>
         <translation>確認刪除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="252"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -10453,17 +10520,17 @@ Are you sure?</source>
 您確定嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="277"/>
         <source>Confirm Cleanup</source>
         <translation>確認清理</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="279"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>是否確定刪除所有記錄檔？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="282"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>確定要刪除所有這些檔案嗎？
@@ -10474,7 +10541,7 @@ Are you sure?</source>
         <translation type="vanished">您確定要刪除 %1 嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="211"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="266"/>
         <source>Unable to delete %1: %2</source>
         <translation>無法刪除 %1：%2</translation>
     </message>
@@ -10493,19 +10560,19 @@ Are you sure?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="252"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="307"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>無法刪除某些檔案！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="310"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>無法刪除某些檔案：
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="58"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="59"/>
         <source>Other logs</source>
         <translation>其他記錄檔</translation>
     </message>
