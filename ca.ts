@@ -413,7 +413,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Desconnectat</translation>
+        <translation>Desconnectat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
@@ -1076,7 +1076,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
         <source>Installing</source>
-        <translation type="unfinished">Instal·lant</translation>
+        <translation>Instal·lant</translation>
     </message>
 </context>
 <context>
@@ -1129,17 +1129,17 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">Fallida en autenticar. Aquest compte ja no existeix.</translation>
+        <translation>Fallida en autenticar. Aquest compte ja no existeix.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Estat de procés del compte desconegut: %1</translation>
+        <translation>Estat de procés del compte desconegut: %1</translation>
     </message>
 </context>
 <context>
@@ -1192,7 +1192,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha trobat una versió compatible de Java. Utilitzant la predeterminada.</translation>
     </message>
 </context>
 <context>
@@ -1200,28 +1200,28 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;¡Alerta de novetat!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Hem afegit una funció per descarregar automàticament la versió correcta del Java per cada versió de Minecraft (es pot canviar a la configuració de Java). Vols activar o desactivar aquesta funció?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar descàrrega automàtica</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar descàrrega automàtica</translation>
     </message>
 </context>
 <context>
@@ -1252,12 +1252,12 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>OK</source>
-        <translation type="unfinished">D&apos;acord</translation>
+        <translation>D&apos;acord</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
