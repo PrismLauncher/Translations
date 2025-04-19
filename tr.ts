@@ -2282,7 +2282,12 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu metin, belirtilen placeholderleri destekler:
+{name}     - Mod ismi
+{mod_id}   - Mod ID&apos;si
+{url}      - Mod URL bağlantısı
+{version}  - Mod versiyonu
+{authors}  - Mod yapımcıları</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
