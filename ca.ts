@@ -3014,7 +3014,7 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut cercar fitxers</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="103"/>
@@ -3040,7 +3040,7 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="333"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegit fitxers...</translation>
     </message>
 </context>
 <context>
@@ -3115,7 +3115,7 @@ Per favor, intenta de nou la descàrrega.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="226"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="244"/>
         <source>No version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>No n&apos;hi ha cap versió disponible!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="232"/>
@@ -3130,7 +3130,7 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="315"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation>Enllaços externs:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="319"/>
@@ -3140,7 +3140,7 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="321"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="323"/>
