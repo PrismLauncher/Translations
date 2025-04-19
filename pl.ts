@@ -29,17 +29,17 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Usługa wklejania i jej &amp;rodzaj</translation>
+        <translation>Usługa wklejania i jej &amp;typ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>Podstawowy &amp;URL</translation>
+        <translation>Bazowy &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Uwaga: zmień lub wyczyść Podstawowy URL po zmianie typu usługi wklejania.</translation>
+        <translation>Uwaga: prawdopodobnie należy zmienić lub wyczyścić Bazowy URL po zmianie typu usługi wklejania.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
