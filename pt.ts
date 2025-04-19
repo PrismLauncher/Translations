@@ -2250,7 +2250,17 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Este texto suporta os seguintes marcadores de posição:
+
+{name} - Nome do Mod
+
+{mod_id} - ID do Mod
+
+{url} - URL do Mod
+
+{version} - Versão do Mod
+
+{authors} - Autores do Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -5491,22 +5501,22 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="139"/>
         <source>Rename instance folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomear pastas da instância</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="147"/>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Nunca</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="152"/>
         <source>Ask</source>
-        <translation type="unfinished"></translation>
+        <translation>Perguntar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="157"/>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Sempre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -6148,7 +6158,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="80"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linhas de cor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -6433,7 +6443,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="162"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra %1 ou escaneie o QR code e insira o código acima se precisar.</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -7511,12 +7521,14 @@ Por favor crie uma nova instância antes de tentar instalar este recurso novamen
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Falha na limpeza do cache de metadados!
+Para limpar o cache de metadados manualmente, pressione Pastas -&gt; Exibir Pasta Raiz do Inicializador e, após fechar o inicializador, exclua a pasta chamada &quot;meta&quot;
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagando</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1576"/>
@@ -7709,12 +7721,12 @@ Ele somente poderá ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
         <source>Update Successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização finalizada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
         <source>The instance updated to pack version %1 successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>A instância foi atualizada com sucesso para a versão do pacote %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
