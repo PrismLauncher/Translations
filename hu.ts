@@ -6561,7 +6561,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="162"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyissa meg a(z) %1 linket, vagy szkennelje be a QR-kódot, és adja meg a fenti kódot, ha szükséges.</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -7705,7 +7705,9 @@ Kérjük, hozzon létre egy új példányt, mielőtt újra megpróbálná telep�
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>A metaadat gyorsítótár törlése sikertelen!
+A metaadat gyorsítótár manuális törléséhez nyomja meg a Mappák -&gt; Launcher gyökér gombot, majd a launcher bezárása után törölje a &quot;meta&quot; nevű mappát.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
@@ -10422,7 +10424,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>A fájl (%1) olvasásakor hiba lépett fel: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"/>
@@ -12247,22 +12249,22 @@ Szeretné folytatni?</numerusform>
     <message>
         <location filename="src/launcher/GZip.cpp" line="203"/>
         <source>invalid compression level</source>
-        <translation type="unfinished"></translation>
+        <translation>érvénytelen tömörítési szint</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="205"/>
         <source>invalid or incomplete deflate data</source>
-        <translation type="unfinished"></translation>
+        <translation>érvénytelen vagy hiányos deflate adatok</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="207"/>
         <source>out of memory</source>
-        <translation type="unfinished"></translation>
+        <translation>elfogyott a memória</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="209"/>
         <source>zlib version mismatch!</source>
-        <translation type="unfinished"></translation>
+        <translation>zlib verzió eltérés!</translation>
     </message>
 </context>
 <context>
