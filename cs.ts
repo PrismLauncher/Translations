@@ -10483,19 +10483,19 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="207"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="294"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="333"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="277"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="316"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="207"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="166"/>
         <source>Unable to open %1 for reading: %2</source>
         <translation>Nelze otevřít %1 pro čtení: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="174"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
         <translation>Soubor (%1) je příliš velký. Budete ho muset otevřít v prohlížeči, který je na takovéto soubory uzpůsoben.</translation>
     </message>
@@ -10504,12 +10504,17 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <translation>Soubor (%1) není možné přečíst.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="279"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
+        <source>The file (%1) encountered an error when reading: %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"/>
         <source>Confirm Deletion</source>
         <translation>Potvrdit odstranění</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -10520,17 +10525,17 @@ Tato akce může být trvalá a záznam zmizí ze složky protokolů.
 Jste si jisti?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="288"/>
         <source>Confirm Cleanup</source>
         <translation>Potvrdit vymazání</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="307"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="290"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>Opravdu chcete odstranit všechny soubory protokolů?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="310"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="293"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>Opravdu chcete odstranit všechny tyto soubory?
@@ -10541,7 +10546,7 @@ Jste si jisti?</translation>
         <translation type="vanished">Opravdu chcete odstranit %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="294"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="277"/>
         <source>Unable to delete %1: %2</source>
         <translation>Nelze odstranit %1: %2</translation>
     </message>
@@ -10560,12 +10565,12 @@ Jste si jisti?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="318"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>Nepodařilo se odstranit některé soubory!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="338"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="321"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>Nepodařilo se odstranit některé soubory:
@@ -12338,8 +12343,28 @@ Přejete si pokračovat?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="183"/>
-        <source>The content of the file(%1) could not be decoded.</source>
+        <location filename="src/launcher/GZip.cpp" line="201"/>
+        <source>error handling file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/GZip.cpp" line="203"/>
+        <source>invalid compression level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/GZip.cpp" line="205"/>
+        <source>invalid or incomplete deflate data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/GZip.cpp" line="207"/>
+        <source>out of memory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/GZip.cpp" line="209"/>
+        <source>zlib version mismatch!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -10494,19 +10494,19 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
         <translation>No se puede mostrar este registro ya que la longitud excede %1 líneas.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="207"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="294"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="333"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="277"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="316"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="207"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="166"/>
         <source>Unable to open %1 for reading: %2</source>
         <translation>Imposible abrir %1 para leer: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="174"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
         <translation>El archivo (%1) es demasiado grande. Tal vez quiera abrirlo en un programa optimizado para grandes archivos.</translation>
     </message>
@@ -10515,12 +10515,17 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
         <translation>El archivo (%1) no es legible.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="279"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
+        <source>The file (%1) encountered an error when reading: %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"/>
         <source>Confirm Deletion</source>
         <translation>Confirmar Borrado</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -10531,17 +10536,17 @@ Esto puede ser permanente y desaparecerá de la carpeta de registros.
 ¿Está seguro?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="288"/>
         <source>Confirm Cleanup</source>
         <translation>Confirmar Limpieza</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="307"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="290"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>¿Estas seguro de borrar todos los archivos de registro?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="310"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="293"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>¿Estas seguro de borrar todos estos archivos?
@@ -10552,7 +10557,7 @@ Esto puede ser permanente y desaparecerá de la carpeta de registros.
         <translation type="vanished">¿Estás seguro de que quieres borrar %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="294"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="277"/>
         <source>Unable to delete %1: %2</source>
         <translation>Imposible borrar %1: %2</translation>
     </message>
@@ -10571,12 +10576,12 @@ Esto puede ser permanente y desaparecerá de la carpeta de registros.
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="318"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>¡No se han podido borrar algunos archivos!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="338"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="321"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>No se pudo borrar algunos archivos:
@@ -12357,8 +12362,28 @@ Do you wish to proceed?</source>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="183"/>
-        <source>The content of the file(%1) could not be decoded.</source>
+        <location filename="src/launcher/GZip.cpp" line="201"/>
+        <source>error handling file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/GZip.cpp" line="203"/>
+        <source>invalid compression level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/GZip.cpp" line="205"/>
+        <source>invalid or incomplete deflate data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/GZip.cpp" line="207"/>
+        <source>out of memory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/GZip.cpp" line="209"/>
+        <source>zlib version mismatch!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
