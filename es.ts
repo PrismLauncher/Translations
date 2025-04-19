@@ -152,7 +152,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge Nucleo API</translation>
+        <translation>&amp;CurseForge Core API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
@@ -6614,7 +6614,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="162"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra %1 o escanee el QR e introduzca el código anterior si es necesario.</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -7786,7 +7786,9 @@ Por favor, crea una nueva instancia antes de intentar instalar este recurso de n
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Error al borrar la caché de metadatos.
+Para borrar la caché de metadatos manualmente, pulse Carpetas (O) -&gt; Raíz del Launcher y, tras cerrar el Launcher, elimine la carpeta llamada «meta».
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
@@ -10517,7 +10519,7 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo (%1) ha encontrado un error al leer: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"/>
@@ -12364,27 +12366,27 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/GZip.cpp" line="201"/>
         <source>error handling file</source>
-        <translation type="unfinished"></translation>
+        <translation>archivo de gestión de errores</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="203"/>
         <source>invalid compression level</source>
-        <translation type="unfinished"></translation>
+        <translation>nivel de compresión inválido</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="205"/>
         <source>invalid or incomplete deflate data</source>
-        <translation type="unfinished"></translation>
+        <translation>datos deflactados inválidos o incompletos</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="207"/>
         <source>out of memory</source>
-        <translation type="unfinished"></translation>
+        <translation>sin memoria</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="209"/>
         <source>zlib version mismatch!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡zlib versión incorrecta!</translation>
     </message>
 </context>
 <context>
