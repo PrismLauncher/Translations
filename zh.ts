@@ -787,12 +787,12 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="808"/>
+        <location filename="src/launcher/Application.cpp" line="881"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="953"/>
+        <location filename="src/launcher/Application.cpp" line="1026"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -819,12 +819,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 点击下面的“忽略”按钮以删除此锁定文件并继续。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="970"/>
+        <location filename="src/launcher/Application.cpp" line="1043"/>
         <source>Update In Progress</source>
         <translation>更新中</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="994"/>
+        <location filename="src/launcher/Application.cpp" line="1067"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -839,12 +839,12 @@ for details on the last update attempt.</source>
 以了解上次更新的详情。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1002"/>
+        <location filename="src/launcher/Application.cpp" line="1075"/>
         <source>Update Failed</source>
         <translation>更新失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1026"/>
+        <location filename="src/launcher/Application.cpp" line="1099"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -864,12 +864,12 @@ for details.</oldsource>
 %2 。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1034"/>
+        <location filename="src/launcher/Application.cpp" line="1107"/>
         <source>Update Succeeded</source>
         <translation>更新成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1066"/>
+        <location filename="src/launcher/Application.cpp" line="1139"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -890,32 +890,32 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1072"/>
+        <location filename="src/launcher/Application.cpp" line="1145"/>
         <source>Incompatible system configuration</source>
         <translation>系统配置不兼容</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1446"/>
+        <location filename="src/launcher/Application.cpp" line="1519"/>
         <source>Aborted</source>
         <translation>已中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1848"/>
+        <location filename="src/launcher/Application.cpp" line="1921"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>找到了来自 %1 的旧数据，但 %2 已存在数据。很遗憾，你需要自行迁移数据。是否需要在下次启动 %2 时再次提醒你进行数据迁移？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1852"/>
+        <location filename="src/launcher/Application.cpp" line="1925"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>你似乎曾经使用过 %1。是否需要将数据迁移到 %2 的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1858"/>
+        <location filename="src/launcher/Application.cpp" line="1931"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>你似乎曾经在 %2 上使用过 %1。是否需要将数据迁移到 %3 的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1901"/>
+        <location filename="src/launcher/Application.cpp" line="1974"/>
         <source>Migration failed! Reason: %1</source>
         <translation>迁移失败！原因：%1</translation>
     </message>
@@ -10838,108 +10838,108 @@ StdErr: %2</source>
 <context>
     <name>PrismUpdaterApp</name>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="208"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
         <translation>使用自定义路径作为应用程序根目录（“.”表示当前目录）。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="208"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
         <source>directory</source>
         <translation>目录</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="210"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="107"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
         <translation>使用此版本作为已安装的启动程序版本。[因在 Windows 上无法可靠地获取标准输出（StdOut）而提供]</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="211"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="108"/>
         <source>installed launcher version</source>
         <translation>已安装启动器版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="212"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="109"/>
         <source>version name</source>
         <translation>版本名</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="213"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="110"/>
         <source>Update from the specified repo.</source>
         <translation>从指定的仓库获取更新。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="213"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="110"/>
         <source>github repo url</source>
         <translation>Github 仓库网址</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="215"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="112"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
         <translation>仅检查是否需要更新。若未发生错误，退出代码为 100 表示需要，为 0 表示不需要。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="216"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="113"/>
         <source>Allow updating to pre-release releases</source>
         <translation>允许更新到预发布版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="217"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="114"/>
         <source>Force an update, even if one is not needed.</source>
         <translation>强制更新，即使不需要</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="218"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="115"/>
         <source>List available releases.</source>
         <translation>列出可用版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="219"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="116"/>
         <source>Log debug to console.</source>
         <translation>将调试记录到控制台</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="220"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="117"/>
         <source>Select the version to install with a GUI.</source>
         <translation>使用 GUI 选择要安装的版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="221"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="118"/>
         <source>Allow the updater to downgrade to previous versions.</source>
         <translation>允许更新程序降级到以前的版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="232"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="129"/>
         <source>MacOS Not Supported</source>
         <translation>不支持 MacOS</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="232"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="129"/>
         <source>The updater does not support installations on MacOS</source>
         <translation>更新程序不支持在 MacOS 上安装</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="239"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="252"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="136"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="149"/>
         <source>Unsupported Installation</source>
         <translation>不支持此安装</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="240"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="137"/>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>更新程序正在配置错误的 AppImage 中运行？（缺少环境变量“APPIMAGE”）</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="252"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="149"/>
         <source>The updater can not find the main executable.</source>
         <translation>更新程序找不到主可执行文件。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="369"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="266"/>
         <source>The launcher data folder is not writable!</source>
         <translation>启动器数据文件夹不可写入！</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="370"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="267"/>
         <source>The updater couldn&apos;t create a log file - the data folder is not writable.
 
 Make sure you have write permissions to the data folder.
@@ -10954,12 +10954,12 @@ The updater cannot continue until you fix this problem.</source>
 解决此问题后更新程序才能继续。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="580"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="477"/>
         <source>Updating flatpack not supported</source>
         <translation>Flatpak 不支持更新</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="580"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="477"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
         <translation>运行 Flatpak 版本的 Prism Launcher 时，不支持检查更新以外的任何操作。</translation>
     </message>
@@ -10972,111 +10972,111 @@ The updater cannot continue until you fix this problem.</source>
         <translation type="vanished">不支持更新便携版以外的 Linux 安装。请使用您使用系统的包管理器</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="637"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1090"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="534"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="987"/>
         <source>Reading manifest from %1</source>
         <translation>正在从 %1 读取清单</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="649"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="546"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
         <translation>清单为空，正在对 %1 的目录内容进行最佳猜测</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="655"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="552"/>
         <source>Installing the following to %1 :
  %2</source>
         <translation>正在将以下内容安装到 %1：
  %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="659"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="666"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="556"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="563"/>
         <source>Installing from %1</source>
         <translation>正在从 %1 安装</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="671"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="568"/>
         <source>Installing %1 from %2</source>
         <translation>正在从 %2 安装 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="675"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="572"/>
         <source>Failed copy %1 to %2</source>
         <translation>无法将 %1 复制到 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="690"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1166"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="587"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1063"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
         <translation>文件不存在，忽略：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="703"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="600"/>
         <source>There were errors installing the update.</source>
         <translation>安装更新时出错。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="707"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="604"/>
         <source>Update succeed.</source>
         <translation>更新成功。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="868"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="765"/>
         <source>No Valid Release Assets</source>
         <translation>没有有效的资源版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="869"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
         <translation>%1 的 Github 释放中没有适用于 %2 的有效资源</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"/>
         <source>%1 portable: %2</source>
         <translation>%1 便携版：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"/>
         <source>yes</source>
         <translation>是</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"/>
         <source>no</source>
         <translation>否</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="776"/>
         <source>No version selected.</source>
         <translation>未选择版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="776"/>
         <source>No version was selected.</source>
         <translation>没有选择任何版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="886"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="783"/>
         <source>Failed to Download</source>
         <translation>无法下载</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="886"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="783"/>
         <source>Failed to download the selected asset.</source>
         <translation>无法下载选中的资源。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="988"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="885"/>
         <source>Update already in progress
 </source>
         <translation>更新正在进行
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="990"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="887"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -11103,130 +11103,130 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
 点击下面的“忽略”按钮可以删除此锁定文件并继续。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="917"/>
         <source>Update Aborted</source>
         <translation>更新已中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="917"/>
         <source>The update attempt was aborted</source>
         <translation>更新尝试已被中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1028"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="925"/>
         <source>Updating from %1 to %2</source>
         <translation>从 %1 更新到 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1031"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="928"/>
         <source>Updating portable install at %1</source>
         <translation>正在在 %1 更新便携版安装</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1034"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="931"/>
         <source>Running installer file at %1</source>
         <translation>正在运行安装程序文件 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"/>
         <source>Process start result: %1</source>
         <translation>进程启动结果：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1050"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="947"/>
         <source>Backing up install</source>
         <translation>从备份安装</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1071"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="968"/>
         <source>Starting new updater at &apos;%1&apos;</source>
         <translation>正在 %1 处启动新的更新程序</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1073"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="970"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
         <translation>无法启动 %1（%2）</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1123"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
         <source>Backing up:
   %1</source>
         <translation>正在备份：
   %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1134"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1141"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1031"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1038"/>
         <source>Backing up install at %1</source>
         <translation>从备份 %1 安装</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1146"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>Backing up and then removing %1</source>
         <translation>备份并移除 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1150"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1047"/>
         <source>Failed to backup %1 to %2</source>
         <translation>无法将 %1 备份到 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1153"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1050"/>
         <source>Failed to remove %1</source>
         <translation>无法删除 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1188"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1085"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
         <translation>已将以下内容解压到 %1：
   %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1190"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1192"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1087"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1089"/>
         <source>Failed to extract %1 to %2</source>
         <translation>无法将 %1 解压到 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1199"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1096"/>
         <source>Running: `%1 %2`</source>
         <translation>正在执行：`%1 %2`</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1203"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1100"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
         <translation>无法启动启动器子进程“%1 %2”。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1205"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1102"/>
         <source>Failed extract archive</source>
         <translation>无法解压压缩文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1212"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1109"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
         <translation>子进程“%1 %2”运行失败。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1214"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1111"/>
         <source>Failed to extract archive</source>
         <translation>无法解压压缩文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1219"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1116"/>
         <source>Unknown archive format for %1</source>
         <translation>%1 的压缩格式未知</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1234"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1238"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1131"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1135"/>
         <source>Failed to Check Version</source>
         <translation>无法检查版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1234"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1131"/>
         <source>Failed to launch child process to read version.</source>
         <translation>启动子进程读取版本失败。</translation>
     </message>
@@ -11235,7 +11235,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <translation type="vanished">无法启动子启动程序进程以读取版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1238"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1135"/>
         <source>Child launcher process failed.</source>
         <translation>子启动器进程失败。</translation>
     </message>
@@ -12160,7 +12160,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>按最近更新排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/filelink/FileLink.cpp" line="61"/>
+        <location filename="src/launcher/filelink/FileLink.cpp" line="64"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
         <translation>适用于Windows的MKLINK程序，可与PrismLauncher一起使用</translation>
     </message>
@@ -12170,7 +12170,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>未分组</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="205"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="102"/>
         <source>An auto-updater for Prism Launcher</source>
         <translation>Prism Launcher 的自动更新程序</translation>
     </message>
