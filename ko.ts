@@ -6559,7 +6559,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="162"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을 열거나 QR 코드를 스캔하고 필요한 경우 위의 코드를 입력합니다.</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -7700,7 +7700,9 @@ Please create a new instance before attempting to install this resource again.</
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>메타데이터 캐시 지우기 실패!
+메타데이터 캐시를 수동으로 지우려면 폴더 -&gt; 런처 루트 폴더 보기를 누르고 런처를 닫은 뒤, &quot;meta&quot;라는 이름의 폴더를 삭제하십시오.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
@@ -12227,7 +12229,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="183"/>
         <source>The content of the file(%1) could not be decoded.</source>
-        <translation type="unfinished"></translation>
+        <translation>파일(%1)의 내용을 디코딩할 수 없습니다.</translation>
     </message>
 </context>
 <context>
