@@ -1184,7 +1184,7 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
@@ -2193,7 +2193,12 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šis tekstas palaiko šituos žymenis:
+{name}     - Modifikacijos pavadinimas
+{mod_id}   - Modifikacijos ID
+{url}      - Modifikacijos URL
+{version}  - Modifikacijos versija
+{authors}  - Modifikacijos autorius</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -2812,7 +2817,7 @@ Bandykite dar kartą.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Apdorojamas API atsakas iš CurseForge dėl &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
@@ -3732,7 +3737,7 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Minimalus atminties paskyrimas:</translation>
+        <translation>Minimalus atminties paskyrimas:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
@@ -3752,7 +3757,7 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Parinkti</translation>
+        <translation type="unfinished">Naršyti</translation>
     </message>
     <message>
         <source>Download Java</source>
@@ -3832,19 +3837,19 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Vietinės bibliotekos</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;GLFW bibliotekos path</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Naudoti sistemos instaliacija GLFW</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Naudoti sistemos instaliacija OpenAL</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
