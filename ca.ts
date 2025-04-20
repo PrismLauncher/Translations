@@ -706,7 +706,7 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Do you really want to delete this account?</source>
-        <translation>De veritat desitges esborrar aquest compte?</translation>
+        <translation>Confirmes que vols esborrar aquest compte?</translation>
     </message>
     <message>
         <source>Skin Delete</source>
