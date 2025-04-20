@@ -1352,7 +1352,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;당신의 구성된 전역 모드 폴더와 기본 다운로드 폴더는 자동으로 다운로드된 모드를 확인하고 인스턴스를 찾을 수 있다면 복사될 것입니다.&lt;/p&gt;&lt;p&gt;모드를 기본 위치에 다운로드하지 않았다면, 다운로드한 모드를 이 창에 드래그 앤 드롭하거나 확인할 폴더를 추가할 수 있습니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;구성한 전역 모드 폴더와 기본 다운로드 폴더에서 다운로드한 모드가 자동으로 확인되며, 발견되면 인스턴스에 복사됩니다.&lt;/p&gt;&lt;p&gt;선택적으로, 다운로드한 모드를 이 대화 상자에 끌어다 놓거나 기본 위치에 다운로드하지 않은 경우 확인할 폴더를 추가할 수 있습니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1618,7 +1618,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation>당신의 파일 시스템이나 운영 체제가 참조 링크를 지원하지 않음</translation>
+        <translation>파일 시스템 및/또는 운영체제가 참조 링크를 지원하지 않음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
@@ -2827,7 +2827,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>참고: 만약 당신의 FTB 인스턴스가 기본 위치에 없다면, 버튼을 이용해 선택하고 다음 버튼을 눌러 검색하십시오.</translation>
+        <translation>참고: FTB 인스턴스가 기본 위치에 없는 경우, 검색 상자 옆의 단추로 해당 인스턴스를 선택하십시오.</translation>
     </message>
 </context>
 <context>
@@ -7736,7 +7736,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1630"/>
         <source>Not supported on your platform!</source>
-        <translation>당신의 플랫폼에서 지원되지 않습니다!</translation>
+        <translation>사용 중인 플랫폼에서 지원되지 않습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1638"/>
@@ -10409,7 +10409,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 %1을(를) 읽는 동안 오류가 발생하였습니다: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"/>
@@ -12238,27 +12238,27 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/GZip.cpp" line="201"/>
         <source>error handling file</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 처리 중 오류 발생</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="203"/>
         <source>invalid compression level</source>
-        <translation type="unfinished"></translation>
+        <translation>잘못된 압축 수준</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="205"/>
         <source>invalid or incomplete deflate data</source>
-        <translation type="unfinished"></translation>
+        <translation>유효하지 않거나 불완전한 Deflate 데이터</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="207"/>
         <source>out of memory</source>
-        <translation type="unfinished"></translation>
+        <translation>메모리 부족</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="209"/>
         <source>zlib version mismatch!</source>
-        <translation type="unfinished"></translation>
+        <translation>zlib 버전 불일치!</translation>
     </message>
 </context>
 <context>
@@ -12332,7 +12332,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="131"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation>당신이 선택한 %1을 검토하고 확정할 새 팝업을 엽니다. 단축키: Ctrl+Return</translation>
+        <translation>선택한 %1을(를) 검토하고 확정하는 새 팝업을 엽니다. 단축키: Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="143"/>
@@ -14929,7 +14929,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation>당신이 무엇을 하고 있는지 안다면 인스턴스 Java 설정으로 가서 Java 버전을 변경하거나 Java 호환성 검사를 비활성화할 수 있습니다.</translation>
+        <translation>무엇을 하려는지 확실하다면 인스턴스 Java 설정에서 Java 버전을 변경하거나 Java 호환성 검사를 비활성화할 수 있습니다.</translation>
     </message>
 </context>
 <context>
