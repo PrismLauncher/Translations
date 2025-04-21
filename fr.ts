@@ -6327,7 +6327,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="80"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Lignes de couleur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -6612,7 +6612,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="162"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrez %1 ou scannez le QR et entrez le code ci-dessus si nécessaire.</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
