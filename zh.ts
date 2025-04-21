@@ -6615,7 +6615,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="162"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>打开 %1 或扫描二维码，如有必要，输入上方代码。</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -6635,11 +6635,11 @@ Reason:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>打开%1或扫描二维码，然后输入上方代码。</translation>
+        <translation>打开 %1 或扫描二维码，然后输入上方代码。</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation>打开%1然后输入上方代码。</translation>
+        <translation>打开 %1 然后输入上方代码。</translation>
     </message>
 </context>
 <context>
@@ -7781,7 +7781,9 @@ Please create a new instance before attempting to install this resource again.</
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>元数据缓存清除失败！
+若要手动清除元数据缓存，请点击文件夹 -&gt; 启动器根目录，接着关闭启动器并删除名为“meta”的文件夹
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
@@ -10528,7 +10530,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>读取文件（%1）时出现了错误：%2。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"/>
@@ -12353,27 +12355,27 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/GZip.cpp" line="201"/>
         <source>error handling file</source>
-        <translation type="unfinished"></translation>
+        <translation>处理文件时出错</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="203"/>
         <source>invalid compression level</source>
-        <translation type="unfinished"></translation>
+        <translation>无效压缩等级</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="205"/>
         <source>invalid or incomplete deflate data</source>
-        <translation type="unfinished"></translation>
+        <translation>无效或不完整的 Deflate 数据</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="207"/>
         <source>out of memory</source>
-        <translation type="unfinished"></translation>
+        <translation>内存不足</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="209"/>
         <source>zlib version mismatch!</source>
-        <translation type="unfinished"></translation>
+        <translation>Zlib 版本不匹配！</translation>
     </message>
 </context>
 <context>
