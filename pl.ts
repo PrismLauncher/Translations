@@ -10458,7 +10458,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="63"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Przewiń na sam dół</translation>
+        <translation>Przewiń na sam dół</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="66"/>
@@ -10508,7 +10508,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="176"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Wyślij log na serwis typu pastebin skonfigurowany w preferencjach</translation>
+        <translation type="unfinished">Wyślij log do serwis typu pastebin skonfigurowany w preferencjach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="179"/>
@@ -12342,7 +12342,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="279"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Wyłączone</translation>
+        <translation>Wyłączone</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="281"/>
