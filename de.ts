@@ -12376,7 +12376,7 @@ Neuer Name: %2</translation>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="92"/>
         <source>Renaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Wird umbenannt</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
