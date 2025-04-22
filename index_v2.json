@@ -491,12 +491,12 @@
             "untranslated" : 1479
         },
         "pl" : {
-            "file" : "42895430f7d049c6aeb8a9198c808c87112309b6.class",
-            "sha1" : "42895430f7d049c6aeb8a9198c808c87112309b6",
-            "size" : 357550,
-            "translated" : 2373,
+            "file" : "32ae2747a192f1df9a9a1155b382b8773a71fa80.class",
+            "sha1" : "32ae2747a192f1df9a9a1155b382b8773a71fa80",
+            "size" : 360263,
+            "translated" : 2393,
             "fuzzy" : 7,
-            "untranslated" : 20
+            "untranslated" : 0
         },
         "pt_PT" : {
             "file" : "24f1d4bab644fcc9ef2e5bbd70cb0662e756db80.class",
