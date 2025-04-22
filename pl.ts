@@ -6363,7 +6363,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="80"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolorowe linie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -6648,7 +6648,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="162"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz %1 albo zeskanuj kod QR i wprowadź kod jeżeli jest taka potrzeba.</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -7828,7 +7828,9 @@ Proszę stwórz nową instalację przed próbowaniem znowu zainstalowania tego z
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Czyszczenie pamięci podręcznej metadanych sie nie powiodło!
+Żeby wyczyścić pamięć podręczną metadanych sam naciśnij Foldery -&gt; Pokaż Launchera Katalog główny i po wyłączeniu launchera usuń folder zwany &quot;meta&quot;
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
@@ -10451,7 +10453,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="49"/>
         <source>&amp;Find</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Znajdź</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="63"/>
@@ -10461,27 +10463,27 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="66"/>
         <source>&amp;Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dół</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="109"/>
         <source>Delete the selected log</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń zaznaczony log</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="112"/>
         <source>&amp;Delete Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Usuń Zaznaczone</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="119"/>
         <source>Delete all the logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń wszystkie logi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="122"/>
         <source>Delete &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń &amp;Wszystko</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="133"/>
@@ -10491,7 +10493,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="143"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolorowe linie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="166"/>
@@ -10511,17 +10513,17 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="179"/>
         <source>&amp;Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wyślij</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="186"/>
         <source>Reload the contents of the log from the disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Przeładuj zawartość od loga z dysku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="189"/>
         <source>&amp;Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Przeładuj</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -10555,7 +10557,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="78"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można pokazać tego loga bo przekroczył %1 linijek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="166"/>
@@ -10581,7 +10583,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik (%1) spotkał błąd kiedy czytano: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"/>
@@ -12437,27 +12439,27 @@ Czy chcesz kontynuować?</numerusform>
     <message>
         <location filename="src/launcher/GZip.cpp" line="201"/>
         <source>error handling file</source>
-        <translation type="unfinished"></translation>
+        <translation>plik obsługi błędów</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="203"/>
         <source>invalid compression level</source>
-        <translation type="unfinished"></translation>
+        <translation>Zły poziom kompresji</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="205"/>
         <source>invalid or incomplete deflate data</source>
-        <translation type="unfinished"></translation>
+        <translation>zły lub nie dokończony danych rozpakowywania</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="207"/>
         <source>out of memory</source>
-        <translation type="unfinished"></translation>
+        <translation>brak pamięci</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="209"/>
         <source>zlib version mismatch!</source>
-        <translation type="unfinished"></translation>
+        <translation>Zła wersja zlib!</translation>
     </message>
 </context>
 <context>
