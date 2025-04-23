@@ -127,23 +127,23 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
+        <translation>API &amp;CurseForge Core</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Note: al è probabil che no ti coventi stabilî chest cjamp se CurseForge al funzione bielzà.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Inserìs achì une clâf API personalizade par CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>APIs</translation>
     </message>
 </context>
 <context>
@@ -152,133 +152,134 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="120"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil interpretâ il manifest dal pachet:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="342"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil otignî la tabele dai metadâts locâi par %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="152"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil otignî la tabele dai metadâts locâi par &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="142"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalitât di instalazion no supuartade</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a eliminâ i files esistents...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjenar di mod no cognossût: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="373"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil cjatâ une version pal cjariadôr %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="386"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nissune version di cjariadôr configurade pal modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="516"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjenar di contignût discjariât no cognossût o no supuartât: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="629"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a discjariâ lis configurazions...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
         <source>Config download</source>
-        <translation type="unfinished"></translation>
+        <translation>Discjariament des configurazions</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="671"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a tirâ fûr lis configurazions...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="677"/>
         <source>Failed to open pack configs %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil vierzi lis configurazions dal pachet %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="702"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a selezionâ lis mods facoltativis...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="711"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a discjariâ lis mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="714"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>Discjariament des mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="739"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="869"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjenar di discjariament no cognossût: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="819"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Cjatadis mods blocadis</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="820"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chescj files no son disponibii di discjariâ midiant inviadôrs di tierçs.&lt;br/&gt;Tu varâs di discjariâju e zontâju a man ae istance.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="876"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 di %2 completâts</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="911"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil estrai lis mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="921"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a tirâ fûr lis mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="992"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a instalâ il modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1004"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil creâ il component des librariis</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1031"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished"></translation>
+        <translation>Gjenar di cjariadôr no cognossût: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1045"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil creâ il component dal pachet</translation>
     </message>
 </context>
 <context>
@@ -286,78 +287,78 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="107"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Un inviadôr personalizât che al rint plui semplice la gjestion di Minecraft, in gracie dal fat che ti permet di vê plui istancis di Minecraft tal stes timp.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
         <source>Platform:</source>
-        <translation type="unfinished"></translation>
+        <translation>Plateforme:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Date di compilazion:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Commit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
         <source>Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>Canâl:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricognossiments</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licence</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazions su Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Siere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="140"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazions su %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Plateforme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Commit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Date di compilazion: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="171"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Canâl</translation>
     </message>
 </context>
 <context>
@@ -365,105 +366,105 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>No verificât</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fûr rêt</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pront</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>In vore</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scjadût</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lât</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>No cognossût</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjenar di account (Microsoft o fûr rêt)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="343"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Non utent</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Account Microsoft (MSA)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fûr rêt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>No cognossût</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Account</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="347"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjenar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="349"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Stât</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non utent di Minecraft associât al account.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
         <source>User name of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non utent dal account.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="363"/>
         <source>Current status of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stât atuâl dal account.</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Disativât</translation>
     </message>
 </context>
 <context>
@@ -472,13 +473,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="105"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Gja&amp;ve</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Met predefinît</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
