@@ -1619,7 +1619,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation>Shader csomagok másolása</translation>
+        <translation>Shadercsomagok másolása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
@@ -11981,7 +11981,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="36"/>
         <source>shader pack</source>
-        <translation>shader csomag</translation>
+        <translation>shadercsomag</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
@@ -12577,7 +12577,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="162"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>shader csomagok</translation>
+        <translation>shadercsomagok</translation>
     </message>
 </context>
 <context>
@@ -12586,13 +12586,13 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="35"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation>shader csomagok</translation>
+        <translation>shadercsomagok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="37"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation>shader csomag</translation>
+        <translation>shadercsomag</translation>
     </message>
 </context>
 <context>
@@ -13637,7 +13637,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="48"/>
         <source>Shader packs</source>
-        <translation>Shader csomagok</translation>
+        <translation>Shadercsomagok</translation>
     </message>
     <message>
         <source>Download shaders</source>
@@ -13655,17 +13655,17 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
         <source>Download shader packs from online mod platforms</source>
-        <translation>Shader csomagok letöltése online mod platformokról</translation>
+        <translation>Shadercsomagok letöltése online mod platformokról</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
-        <translation>Próbálja meg ellenőrizni vagy frissíteni az összes kiválasztott shader csomagot (ha nincs kiválasztva semmi, akkor az összes shader csomagot)</translation>
+        <translation>Próbálja meg ellenőrizni vagy frissíteni az összes kiválasztott shadercsomagot (ha nincs kiválasztva semmi, akkor az összes shader csomagot)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
         <source>Change a shader pack&apos;s version.</source>
-        <translation>Módosítsd a shader csomag verzióját.</translation>
+        <translation>Módosítsd a shadercsomag verzióját.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="90"/>
@@ -13709,7 +13709,7 @@ Biztos vagy ebben?</translation>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="124"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="223"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
-        <translation>A Shader csomag frissítései nem érhetők el, ha a metaadatok le vannak tiltva!</translation>
+        <translation>A Shadercsomag frissítései nem érhetők el, ha a metaadatok le vannak tiltva!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="129"/>
@@ -13721,14 +13721,14 @@ Biztos vagy ebben?</translation>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>A shader csomagok frissítése a játék futása közben a csomag duplikációját és a játék összeomlását okozhatja.
+        <translation>A shadercsomagok frissítése a játék futása közben a csomag duplikációját és a játék összeomlását okozhatja.
 A régi fájlokat nem lehet törölni, mivel használatban vannak.
 Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="150"/>
         <source>The shader pack updater was aborted!</source>
-        <translation>A shader csomag frissítése megszakadt!</translation>
+        <translation>A shadercsomag frissítése megszakadt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="154"/>
@@ -13738,12 +13738,12 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="157"/>
         <source>All shader packs are up-to-date! :)</source>
-        <translation>Minden shader csomag naprakész! :)</translation>
+        <translation>Minden shadercsomag naprakész! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="159"/>
         <source>All selected shader packs are up-to-date! :)</source>
-        <translation>Minden kiválasztott shader csomag naprakész! :)</translation>
+        <translation>Minden kiválasztott shadercsomag naprakész! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="162"/>
@@ -13759,7 +13759,7 @@ Biztosan ezt akarod csinálni?</translation>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="204"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation>A(z) &quot;%1&quot; shader csomag metaadatainak eltávolítására készülsz.
+        <translation>A(z) &quot;%1&quot; shadercsomag metaadatainak eltávolítására készülsz.
 Biztos vagy ebben?</translation>
     </message>
 </context>
