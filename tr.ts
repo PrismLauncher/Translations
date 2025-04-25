@@ -6589,7 +6589,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="162"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 &apos;i açın veya QR kodu okutun ve gerekirse yukarıdaki kodu girin.</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -7974,7 +7974,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
         <source>Update Failed</source>
-        <translation type="unfinished">Güncelleme Başarısız Oldu</translation>
+        <translation>Güncelleme Başarısız</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
@@ -8471,7 +8471,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="216"/>
         <source>Show console while the game is running</source>
-        <translation type="unfinished">Oyun çalışırken konsolu göster</translation>
+        <translation>Oyun çalışırken konsolu göster</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="223"/>
@@ -8481,7 +8481,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="230"/>
         <source>Show console when the game crashes</source>
-        <translation type="unfinished">Oyun çökünce konsolu göster</translation>
+        <translation>Oyun çökünce konsolu göster</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="240"/>
@@ -8491,7 +8491,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="252"/>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished">Oyun penceresi açıldıktan sonra başlatıcıyı kapat</translation>
+        <translation>Oyun penceresi açıldıktan sonra başlatıcıyı kapat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="259"/>
@@ -8501,7 +8501,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="287"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="311"/>
@@ -8531,7 +8531,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">OpenAL&apos;in sistem kurulumunu kullan</translation>
+        <translation>Sisteme kurulu OpenAL2ı kullan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="382"/>
@@ -8541,7 +8541,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="392"/>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">GLFW&apos;nin sistem kurulumunu kullan</translation>
+        <translation>Sisteme kurulu GLFW&apos;i kullan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="406"/>
@@ -8601,37 +8601,37 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="523"/>
         <source>Override default &amp;account</source>
-        <translation type="unfinished"></translation>
+        <translation>Varsayılan &amp;account üzerine yaz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Account:</source>
-        <translation type="unfinished">Hesap:</translation>
+        <translation>Hesap:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="558"/>
         <source>Set a &amp;target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlangıçta katılmak için &amp;target seç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="570"/>
         <source>Server address:</source>
-        <translation type="unfinished">Sunucu adresi:</translation>
+        <translation>Sunucu adresi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="580"/>
         <source>Singleplayer world</source>
-        <translation type="unfinished">Tek oyunculu dünya</translation>
+        <translation>Tek oyunculu dünya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="611"/>
         <source>Custom Commands</source>
-        <translation type="unfinished">Özel Komutlar</translation>
+        <translation>Özel Komutlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="621"/>
         <source>Environment Variables</source>
-        <translation type="unfinished">Ortam Değişkenleri</translation>
+        <translation>Ortam Değişkenleri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="65"/>
