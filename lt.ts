@@ -2193,7 +2193,7 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished">Šis tekstas palaiko šituos žymenis:
+        <translation>Šis tekstas palaiko šituos laikinus žymenis:
 {name}     - Modifikacijos pavadinimas
 {mod_id}   - Modifikacijos ID
 {url}      - Modifikacijos URL
@@ -3757,7 +3757,7 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Naršyti</translation>
+        <translation>Naršyti</translation>
     </message>
     <message>
         <source>Download Java</source>
@@ -3841,55 +3841,55 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished">&amp;GLFW bibliotekos path</translation>
+        <translation>&amp;GLFW bibliotekos kelias</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Naudoti sistemos instaliacija GLFW</translation>
+        <translation>Naudoti GLFW sistemos instaliaciją</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Naudoti sistemos instaliacija OpenAL</translation>
+        <translation>Naudoti OpenAL sistemos instaliaciją</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation type="unfinished"></translation>
+        <translation>Vieno žaidėjo pasaulis</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Perrašyti pagrindinę paskyrą</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished"></translation>
+        <translation>Paskyra:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Ivairūs</translation>
+        <translation>Įvairūs</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OpenAL bibliotekos kelias</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Našumas</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Įjungti Feral Interactive&apos;s GameMode, kad potencialiai pagerinti žaidimų našumą.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation>Įjungti Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Įjungti MangoHud modifikacijos išplėstinę našumo perdangą.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation>Įjungti MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -3897,24 +3897,24 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudoti pagrindinį grafinį procesorių</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudoti Zink - Mesa OpenGL tvarkyklę, kuri įdiegia OpenGL į Vulkan. Našumas gali skirtis priklausomai nuo situacijos. Pastaba: Jeigu nebus rasta Vulkan tvarkyklė, bus naudojamas programinės įrangos vaizdavimas.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudoti Zink</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Senieji nustatymai</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuliuoja senųjų internetinių paslaugų, kurios jau nebeveikia, veikimą.&lt;/p&gt;&lt;p&gt;Dabartiniai pataisymai: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
