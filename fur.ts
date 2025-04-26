@@ -2640,12 +2640,12 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="554"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>Sielç file di inzornament</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="554"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Pachet CurseForge</translation>
     </message>
 </context>
 <context>
@@ -2653,38 +2653,38 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="64"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a cirî i files...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil cirî i files</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="103"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a cjatâ i hashes dai files...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="184"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a cjatâ lis version pai hashes...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="297"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a analizâ la rispueste API di CurseForge par &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="254"/>
         <source>Finding project info from CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a cjatâ informazions sul progjet di CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="333"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a zontâ i files...</translation>
     </message>
 </context>
 <context>
@@ -2698,12 +2698,12 @@ Par plasê, prove di gnûf.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Note: CurseForge al permet ai creadôrs di blocâ l&apos;acès a struments di tiercis parts come l&apos;inviadôr Prism Launcher. Par cheste reson, al podarès coventâ discjariâ a man cualchi mod par podê instalâ un modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opzions filtri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -2715,7 +2715,7 @@ Par plasê, prove di gnûf.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ordene par risalt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
@@ -2727,7 +2727,7 @@ Par plasê, prove di gnûf.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ordene par ultin inzornament</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="85"/>
@@ -2739,7 +2739,7 @@ Par plasê, prove di gnûf.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="86"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ordene par autôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="87"/>
