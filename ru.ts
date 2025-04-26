@@ -6371,7 +6371,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="80"/>
         <source>Color lines</source>
-        <translation type="unfinished">Dever</translation>
+        <translation>Цветные линии</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -6656,7 +6656,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="162"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Откройте %1 или отсканируйте QR-код и введите указанный выше код, если потребуется.</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -7836,7 +7836,9 @@ Please create a new instance before attempting to install this resource again.</
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Очистка кэша метаданных не удалась!
+Чтобы вручную очистить кэш метаданных, нажмите Папки -&gt; Просмотреть корневую папку лаунчера, а затем после закрытия лаунчера удалите папку с именем &quot;meta&quot;
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
@@ -10487,47 +10489,47 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="49"/>
         <source>&amp;Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="63"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Прокрутить до конца</translation>
+        <translation>Прокрутить до самого низа</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="66"/>
         <source>&amp;Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Вниз</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="109"/>
         <source>Delete the selected log</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить выбранный журнал</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="112"/>
         <source>&amp;Delete Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить выбранное</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="119"/>
         <source>Delete all the logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить все журналы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="122"/>
         <source>Delete &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить всё</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="133"/>
         <source>Wrap lines</source>
-        <translation type="unfinished">Перенос строк</translation>
+        <translation>Перенос строк</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="143"/>
         <source>Color lines</source>
-        <translation type="unfinished">Dever</translation>
+        <translation>Цветные линии</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="166"/>
@@ -10542,22 +10544,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="176"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Загрузить журнал на сайт, указанный в настройках</translation>
+        <translation>Загрузить журнал в сервис вставки, настроенный в предпочтениях</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="179"/>
         <source>&amp;Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="186"/>
         <source>Reload the contents of the log from the disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезагрузить содержимое журнала с диска</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="189"/>
         <source>&amp;Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезагрузить</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -10591,7 +10593,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="78"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно отобразить этот журнал, так как длина журнала превысила %1 строк.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="166"/>
@@ -10617,7 +10619,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>При чтении файла (%1) произошла ошибка: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"/>
@@ -12461,27 +12463,27 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/GZip.cpp" line="201"/>
         <source>error handling file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка при обработке файла</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="203"/>
         <source>invalid compression level</source>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимый уровень сжатия</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="205"/>
         <source>invalid or incomplete deflate data</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверные или неполные данные для сжатия</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="207"/>
         <source>out of memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Недостаточно памяти</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="209"/>
         <source>zlib version mismatch!</source>
-        <translation type="unfinished"></translation>
+        <translation>Несоответствие версии zlib!</translation>
     </message>
 </context>
 <context>
