@@ -1580,7 +1580,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
         <source>Some paths could not be copied!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nol è pussibil copiâ cualchi percors!</translation>
     </message>
 </context>
 <context>
@@ -1588,33 +1588,33 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
         <source>Checking if resources have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a controlâ se lis risorsis a àn metadâts...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
         <source>Requesting metadata information from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a domandâ lis informazions dai metadâts di %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a domandâ lis informazions dai metadâts di %1 par &apos;%2&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="332"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a analizâ la rispueste API di Modrinth par &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="393"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="461"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a analizâ la rispueste API di CurseForge par &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a controlâ se lis mods a àn metadâts...</translation>
     </message>
 </context>
 <context>
@@ -1622,12 +1622,12 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
         <source>Determining game ownership.</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a determinâ i dirits di proprietât dal zûc.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
         <source>Got entitlements</source>
-        <translation type="unfinished"></translation>
+        <translation>Licence otignude</translation>
     </message>
 </context>
 <context>
@@ -1640,7 +1640,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
         <source>&amp;Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Variabilis di &amp;Ambient</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
@@ -1650,29 +1650,29 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="65"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="75"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zonte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="82"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gjave</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nete</translation>
     </message>
 </context>
 <context>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Variabilis di ambient</translation>
     </message>
 </context>
 <context>
@@ -1680,7 +1680,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Espuarte istance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="90"/>
@@ -1695,7 +1695,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="136"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Espuarte %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="148"/>
@@ -1706,12 +1706,12 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="148"/>
         <source>Unable to export instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil espuartâ la istance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="160"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Interomp</translation>
     </message>
 </context>
 <context>
@@ -1719,58 +1719,58 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="20"/>
         <source>&amp;Description</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Descrizion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
         <source>&amp;Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sintesi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Non</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>&amp;Version</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="89"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opzions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="95"/>
         <source>&amp;Files</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Files</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="121"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Segne files disativâts come facoltatîfs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
         <source>1.0.0</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="48"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Espuarte pachet Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="55"/>
         <source>Export CurseForge Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Espuarte pachet CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="73"/>
         <source>&amp;Author</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Autôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="104"/>
@@ -1786,17 +1786,17 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="139"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Espuarte %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="133"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Pachet Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="140"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Pachet CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="157"/>
@@ -1806,17 +1806,17 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="159"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativitât interote</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="159"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>La ativitât e je stade interote dal utent.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="165"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Interomp</translation>
     </message>
 </context>
 <context>
@@ -1824,7 +1824,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation type="unfinished"></translation>
+        <translation>Espuarte il pachet te ModList</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
@@ -1834,27 +1834,27 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Lengaç di marcadure</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>Test semplic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
         <source>JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
         <source>CSV</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
@@ -1864,7 +1864,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
@@ -1874,56 +1874,61 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Chest test al supuarte chescj segnepuest:
+{name}     - Non de Mod
+{mod_id}   - ID Mod
+{url}      - URL Mod
+{version}  - Version Mod
+{authors}  - Autôrs de Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
         <source>Optional Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazions facoltativis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="105"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="133"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="112"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="140"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Autôrs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="119"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="126"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="154"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Non file</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="173"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formât</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="183"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Risultât</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="212"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chest al dipent dai metadâts des mods. Par jessi sigûrs che al sedi disponibil, invie un inzornament de istance. Nol covente instalâ i inzornaments.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="226"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="68"/>
@@ -1933,17 +1938,17 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salve</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="165"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Espuarte %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="166"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>File</translation>
     </message>
 </context>
 <context>
@@ -1951,133 +1956,133 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="35"/>
         <source>Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtri:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="74"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Azions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gjave</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ative</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Disative</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ative ducj i elements selezionâts.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
         <source>&amp;Add File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zonte file</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>Add a locally downloaded file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zonte un file discjariât in locâl.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>Remove all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjave ducj i elements selezionâts.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>Disable all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Disative ducj i elements selezionâts.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualize &amp;configurazions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vierç la cartele &apos;config&apos; tal gjestôr files dal sisteme.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="149"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vierç &amp;Cartele</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
         <source>Open the folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vierç la cartele tal gjestôr files dal sisteme.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"/>
         <source>&amp;Download</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Discjame</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Download resources from online mod platforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>Discjame lis risorsis da lis plateformis di mods in rêt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="174"/>
         <source>Try to check or update all selected resources (all resources if none are selected).</source>
-        <translation type="unfinished"></translation>
+        <translation>Prove a controlâ o a inzornâ dutis lis risorsis selezionadis (dutis se no je selezionade nissune).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Reset Update Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Ristabilìs i metadâts dai inzornaments</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
         <source>Verify Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifiche dipendencis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="198"/>
         <source>Export List</source>
-        <translation type="unfinished"></translation>
+        <translation>Espuarte liste</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
         <source>Export resource&apos;s metadata to text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Espuarte i metadâts des risorsis come test.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="209"/>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambie version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
         <source>Change a resource&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambie la version di une risorse.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>View Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualize la Homepage</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
         <source>View the homepages of all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualize la pagjine principâl di ducj i elements selezionâts.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Controle inzornaments</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="132"/>
@@ -2088,7 +2093,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="213"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Selezione %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="243"/>
@@ -2096,7 +2101,10 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu stâs par gjavâ %1 ogjets
+Chest al podarès jessi permanent e a laran pierdûts de cartele.
+
+Gjavâ pardabon?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="248"/>
@@ -2104,88 +2112,93 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu stâs par gjavâ la cartele &quot;%1&quot;.
+Chest al podarès jessi permanent e e larà pierdude de cartele superiôr.
+
+Gjavâ pardabon?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="255"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferme rimozion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="269"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferme la eliminazion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="270"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se tu gjavis cheste risorse intant che il zûc al è in esecuzion, il zûc al podarès colassâ.
+Vuelistu fâlu pardabon?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="290"/>
         <source>Confirm disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferme la disativazion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="291"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se tu disativis cheste risorse intant che il zûc al è in esecuzion, il zûc al podarès colassâ.
+Vuelistu pardabon fâlu?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="356"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 instalât, %2 selezionât)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="358"/>
         <source> (%1 installed)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 instalât)</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zonte</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Zonte</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjave l&apos;element selezionât</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Ative l&apos;element selezionât</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Disative l&apos;element selezionât</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="unfinished"></translation>
+        <translation>Discjame une gnove risorse</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
+        <translation>Visite il sît de mod</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Va ae pagjine principâl des mods</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prove a controlâ o a inzornâ dutis lis risorsis selezionadis (dutis se no je selezionade nissune)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Espuarte liste mods</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="unfinished"></translation>
+        <translation>Espuarte i metadâts de mod come test</translation>
     </message>
 </context>
 <context>
@@ -2196,35 +2209,35 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="124"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="169"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Sgarfe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="59"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="96"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="133"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifiche</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Editôrs esternis (lasse vueit pai parametris predefinîts di sisteme)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Editôr di &amp;test:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
         <source>External Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Struments esternis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="102"/>
         <source>JProfiler Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartele di JProfiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
@@ -2241,7 +2254,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="120"/>
         <source>Error while checking JProfiler install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Erôr te verifiche de instalazion di JProfiler:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="122"/>
@@ -2253,61 +2267,63 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="122"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Al somee che JProfiler al sedi configurât ben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>JVisualVM Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Eseguibil di JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="149"/>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Erôr te verifiche de instalazion di JVisualVM:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="151"/>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Al somee che JVisualVM al sedi configurât ben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="161"/>
         <source>MCEdit Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicazion MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="163"/>
         <source>MCEdit Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartele di MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="182"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Erôr te verifiche de instalazion di MCEdit:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="184"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Al somee che la configurazion di MCEdit e sedi juste</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="190"/>
         <source>JSON Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editôr di files JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="208"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>No valit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="208"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Al somee che il file selezionât nol sedi un eseguibil</translation>
     </message>
 </context>
 <context>
@@ -2315,7 +2331,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="86"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil tirâ fûr il .jar natîf &apos;%1&apos; te destinazion &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -2323,12 +2339,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a verificâ lis librariis FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a discjariâ lis librariis FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
@@ -2338,17 +2354,17 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a copiâ lis librariis FML te istance...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil creâ la cartele des librariis FML te istance.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil copiâ la librarie Forge/FML: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="114"/>
@@ -2357,7 +2373,11 @@ Are you sure you want to do this?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil discjariâ chescj files:
+%1
+
+Motîf: %2
+Par plasê, prove di gnûf.</translation>
     </message>
 </context>
 <context>
@@ -2378,7 +2398,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="44"/>
         <source>FTB App Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Importazion de aplicazion FTB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
@@ -2389,12 +2409,12 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione la cartele des istancis FTBApp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Note: se lis tôs istancis FTB no son tal percors predefinît, selezionilis doprant il boton dongje de ricercje.</translation>
     </message>
 </context>
 <context>
@@ -2403,7 +2423,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="111"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="127"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2411,12 +2431,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a copiâ i files...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a copiâ lis impostazions...</translation>
     </message>
 </context>
 <context>
@@ -2424,18 +2444,18 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="52"/>
         <source>Resolving mod IDs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Risoluzion dai IDs des mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"/>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="147"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dâts tornâts de API no valits.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="256"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a analizâ la rispueste API di CurseForge par &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -2444,42 +2464,42 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a prontâ lis risorsis par CurseForge...</translation>
     </message>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a otignî la rispueste API di CurseForge par &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="92"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a analizâ la rispueste de API di CurseForge par &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nissune version valide cjatade par cheste risorse. Al è probabile che no sedi disponibile pe version corinte dal zûc / dal cjariadôr di mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nissune version valide cjatade par cheste risorse. Al è probabil che no sedi disponibile pe version corinte dal zûc.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a analizâ la rispueste API di CurseForge par &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="unfinished"></translation>
+        <translation>La risorse e à un gnûf inzornament disponibil, ma nol è pussibil discjariâlu doprant CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>No instalât</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
@@ -2488,15 +2508,15 @@ Please try again.</source>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a prontâ lis mods par CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nissune version valide cjatade par cheste mod. Al è probabil che no sedi disponibile pe version corinte dal zûc / dal cjariadôr di mods.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Al è disponibil un gnûf inzornament de mod, mo nol è pussibil discjariâlu doprant CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -2512,17 +2532,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="118"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (version %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="248"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nissun file tabele.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>No sin rivâts a cjatâ un file tabele adat pe version vecje. Chest al podarès causâ la duplicazion di cualchi file. Desideristu continuâ?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
@@ -2543,28 +2563,30 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="347"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil cambiâ non ae cartele des sostituzions:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="352"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished"></translation>
+        <translation>La cartele des sostituzions specificade (%1) no esist. Forsit il modpack al è za stât doprât prime?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cjariadôr di mods no cognossût tal manifest: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="395"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misteriôs ponts finâi gjavâts de version di Minecraft intant de importazion dal pachet.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="449"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil risolvi i IDs des mods:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="503"/>
@@ -2580,7 +2602,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="526"/>
         <source>Mod Download Flame</source>
-        <translation type="unfinished"></translation>
+        <translation>Discjame Mod Flame</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="575"/>
@@ -2590,12 +2612,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="588"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a copiâ lis mods blocadis...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="601"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a copiâ lis mods blocadis (%1 su %2 a son prontis)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="580"/>
