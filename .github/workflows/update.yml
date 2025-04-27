@@ -37,7 +37,7 @@ jobs:
         uses: DeterminateSystems/nix-installer-action@v17
 
       - name: Setup Nix cache
-        uses: DeterminateSystems/magic-nix-cache-action@v8
+        uses: DeterminateSystems/magic-nix-cache-action@v9
 
       - name: Prepare
         run: |
