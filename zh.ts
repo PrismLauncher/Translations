@@ -4017,7 +4017,7 @@ Proceed with caution!</source>
         <translation type="vanished">核心模组</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstancePageProvider.h" line="54"/>
+        <location filename="src/launcher/InstancePageProvider.h" line="51"/>
         <source>Edit Instance (%1)</source>
         <translation>编辑实例（%1）</translation>
     </message>
@@ -8142,17 +8142,17 @@ This can be updated only using a file in %1 format
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1059"/>
         <source>broken</source>
         <translation>损坏</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1070"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
         <source>, last played on %1 for %2</source>
         <translation>，上一次是在 %1 时游玩了 %2</translation>
     </message>
@@ -8165,12 +8165,12 @@ This can be updated only using a file in %1 format
         <translation type="vanished">，最后一次游玩时长: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1082"/>
         <source>, total played for %1</source>
         <translation>，此实例总游玩时长：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
         <source>, has crashed.</source>
         <translation>，最后一次运行发生崩溃。</translation>
     </message>
@@ -10502,24 +10502,24 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>搜索：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="78"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="80"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>无法显示此日志，因为日志长度超过了 %1 行。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="166"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="277"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="340"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="188"/>
         <source>Unable to open %1 for reading: %2</source>
         <translation>无法打开 %1 来读取：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="196"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
         <translation>文件（%1）过大。需要用为大文件优化过的查看器打开。</translation>
     </message>
@@ -10528,17 +10528,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>文件（%1）不可读。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="249"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
         <translation>读取文件（%1）时出现了错误：%2。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="284"/>
         <source>Confirm Deletion</source>
         <translation>确认删除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="285"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -10549,17 +10549,17 @@ Are you sure?</source>
 你确定吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="310"/>
         <source>Confirm Cleanup</source>
         <translation>确认清理</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="312"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>你确定要删除所有日志文件吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="315"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>你确定要将这些文件全部删除吗？
@@ -10570,7 +10570,7 @@ Are you sure?</source>
         <translation type="vanished">你真的想要删除 %1 吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="277"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="299"/>
         <source>Unable to delete %1: %2</source>
         <translation>无法删除 %1：%2</translation>
     </message>
@@ -10589,19 +10589,19 @@ Are you sure?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="318"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="342"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>无法删除某些文件！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="321"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="345"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>无法删除某些文件：
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="59"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="60"/>
         <source>Other logs</source>
         <translation>其他日志</translation>
     </message>

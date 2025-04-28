@@ -3858,7 +3858,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
         <translation type="vanished">Tuum-modid</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstancePageProvider.h" line="54"/>
+        <location filename="src/launcher/InstancePageProvider.h" line="51"/>
         <source>Edit Instance (%1)</source>
         <translation>Muuda eksemplari (%1)</translation>
     </message>
@@ -7801,17 +7801,17 @@ Seda saab uuendada vaid %1-vormingus failiga
         <translation>&lt;PROFIILI ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1059"/>
         <source>broken</source>
         <translation>katki</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1070"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
         <source>, last played on %1 for %2</source>
         <translation>, viimati mängitud %1 %2</translation>
     </message>
@@ -7824,12 +7824,12 @@ Seda saab uuendada vaid %1-vormingus failiga
         <translation type="vanished">, viimati mängitud %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1082"/>
         <source>, total played for %1</source>
         <translation>, kokku mängitud %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
         <source>, has crashed.</source>
         <translation>, jooksis kokku.</translation>
     </message>
@@ -10034,24 +10034,24 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
         <translation>Otsi:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="78"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="80"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="166"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="277"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="340"/>
         <source>Error</source>
         <translation>Viga</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="188"/>
         <source>Unable to open %1 for reading: %2</source>
         <translation>%1 lugemiseks avamine ebaõnnestus: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="196"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
         <translation>Fail (%1) on liiga suur. Võid tahta seda avada vaaturis, mis on optimeeritud suurte failide tarbeks.</translation>
     </message>
@@ -10060,17 +10060,17 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
         <translation>Fail (%1) ei ole loetav.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="249"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="284"/>
         <source>Confirm Deletion</source>
         <translation>Kinnita kustutamist</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="285"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -10081,17 +10081,17 @@ See võib olla püsiv ning see kaob logide kaustast.
 Kas oled kindel?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="310"/>
         <source>Confirm Cleanup</source>
         <translation>Kinnita tühjendamist</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="312"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>Kas soovid kindlasti kõik logifailid kustutada?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="315"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>Kas soovid kindlasti kõik need failid kustutada?
@@ -10102,7 +10102,7 @@ Kas oled kindel?</translation>
         <translation type="vanished">Kas soovid tõesti kustutada %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="277"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="299"/>
         <source>Unable to delete %1: %2</source>
         <translation>%1 ei saa kustutada: %2</translation>
     </message>
@@ -10121,19 +10121,19 @@ Kas oled kindel?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="318"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="342"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>Teatud faile ei saadud kustutada!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="321"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="345"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>Teatud faile ei saadud kustutada:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="59"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="60"/>
         <source>Other logs</source>
         <translation>Muud logid</translation>
     </message>

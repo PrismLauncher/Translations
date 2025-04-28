@@ -4050,7 +4050,7 @@ Proceed with caution!</source>
         <translation type="vanished">Модификации</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstancePageProvider.h" line="54"/>
+        <location filename="src/launcher/InstancePageProvider.h" line="51"/>
         <source>Edit Instance (%1)</source>
         <translation>Редактировать установку игры (%1)</translation>
     </message>
@@ -8197,17 +8197,17 @@ This can be updated only using a file in %1 format
         <translation>&lt;ID ПРОФИЛЯ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1059"/>
         <source>broken</source>
         <translation>повреждённый</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1070"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
         <source>, last played on %1 for %2</source>
         <translation>, в последний раз играли %1 %2</translation>
     </message>
@@ -8220,12 +8220,12 @@ This can be updated only using a file in %1 format
         <translation type="vanished">, %1 за последнее время</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1082"/>
         <source>, total played for %1</source>
         <translation>, а за всё время %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
         <source>, has crashed.</source>
         <translation>, вылетела.</translation>
     </message>
@@ -10591,24 +10591,24 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Поиск:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="78"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="80"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>Невозможно отобразить этот журнал, так как длина журнала превысила %1 строк.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="166"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="277"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="340"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="188"/>
         <source>Unable to open %1 for reading: %2</source>
         <translation>Не удается открыть %1 для чтения: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="196"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
         <translation>Файл «%1» слишком большой. Вы можете открыть его в программе для просмотра, оптимизированной для больших файлов.</translation>
     </message>
@@ -10617,17 +10617,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Файл (%1) нечитабельный.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="249"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
         <translation>При чтении файла (%1) произошла ошибка: %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="284"/>
         <source>Confirm Deletion</source>
         <translation>Подтвердить удаление</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="285"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -10638,17 +10638,17 @@ Are you sure?</source>
 Вы уверены?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="310"/>
         <source>Confirm Cleanup</source>
         <translation>Подтвердить очистку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="312"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>Вы уверены, что хотите удалить все файлы журналов?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="315"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>Вы уверены, что хотите удалить все эти файлы?
@@ -10659,7 +10659,7 @@ Are you sure?</source>
         <translation type="vanished">Вы действительно хотите удалить %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="277"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="299"/>
         <source>Unable to delete %1: %2</source>
         <translation>Не удается удалить %1: %2</translation>
     </message>
@@ -10678,19 +10678,19 @@ Are you sure?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="318"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="342"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>Не удалось удалить некоторые файлы!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="321"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="345"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>Не удалось удалить некоторые файлы:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="59"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="60"/>
         <source>Other logs</source>
         <translation>Другие журналы</translation>
     </message>

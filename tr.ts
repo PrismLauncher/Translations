@@ -3991,7 +3991,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation type="vanished">Çekirdek modlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstancePageProvider.h" line="54"/>
+        <location filename="src/launcher/InstancePageProvider.h" line="51"/>
         <source>Edit Instance (%1)</source>
         <translation>Profili Düzenle (%1)</translation>
     </message>
@@ -8099,17 +8099,17 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1059"/>
         <source>broken</source>
         <translation>bozuk</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1070"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
         <source>, last played on %1 for %2</source>
         <translation>, en son %2 için %1 de oynandı</translation>
     </message>
@@ -8122,12 +8122,12 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
         <translation type="vanished">, en son %1 kadar oynandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1082"/>
         <source>, total played for %1</source>
         <translation>, %1 kadar oynandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
         <source>, has crashed.</source>
         <translation>, çöktü.</translation>
     </message>
@@ -10422,24 +10422,24 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
         <translation>Ara:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="78"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="80"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="166"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="277"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="340"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="188"/>
         <source>Unable to open %1 for reading: %2</source>
         <translation>Okumak için %1 dosyası açılamadı: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="196"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
         <translation>Bu dosya (%1) çok büyük. Büyük dosyalar için optimize edilmiş bir programda açmak isteyebilirsiniz.</translation>
     </message>
@@ -10448,17 +10448,17 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
         <translation>%1 dosyası okunmuyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="249"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="284"/>
         <source>Confirm Deletion</source>
         <translation>Silme İşlemini Onayla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="285"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -10469,17 +10469,17 @@ Bu kalıcı olabilir ve günlükler klasöründen silinecektir.
 Emin misin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="310"/>
         <source>Confirm Cleanup</source>
         <translation>Temizlemeyi Onaylayın</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="312"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>Tüm günlük dosyalarını silmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="315"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>Tüm bu dosyaları silmek istediğinizden emin misiniz?
@@ -10490,7 +10490,7 @@ Emin misin?</translation>
         <translation type="vanished">Gerçekten %1 dosyasını silmek istiyor musun?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="277"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="299"/>
         <source>Unable to delete %1: %2</source>
         <translation>Silinemiyor %1: %2</translation>
     </message>
@@ -10509,19 +10509,19 @@ Emin misin?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="318"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="342"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>Bazı dosyalar silinemedi!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="321"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="345"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>Bazı dosyalar silinemedi:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="59"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="60"/>
         <source>Other logs</source>
         <translation>Diğer sistem kayıtları</translation>
     </message>

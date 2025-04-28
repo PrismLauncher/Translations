@@ -3885,7 +3885,7 @@ Por favor tenta de novo.</translation>
         <translation type="vanished">Mods principais</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstancePageProvider.h" line="54"/>
+        <location filename="src/launcher/InstancePageProvider.h" line="51"/>
         <source>Edit Instance (%1)</source>
         <translation>Editar instância (%1)</translation>
     </message>
@@ -7854,17 +7854,17 @@ Ele somente poderá ser atualizado usando um arquivo no formato %1
         <translation>&lt;ID DO PERFIL&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1059"/>
         <source>broken</source>
         <translation>quebrado</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1080"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1070"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1075"/>
         <source>, last played on %1 for %2</source>
         <translation>, jogado em %1 por %2</translation>
     </message>
@@ -7877,12 +7877,12 @@ Ele somente poderá ser atualizado usando um arquivo no formato %1
         <translation type="vanished">, jogado pela última vez durante %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1082"/>
         <source>, total played for %1</source>
         <translation>, foi jogado durante %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
         <source>, has crashed.</source>
         <translation>, bloqueou.</translation>
     </message>
@@ -9988,24 +9988,24 @@ Por favor atualiza %1!</translation>
         <translation>Pesquisar:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="78"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="80"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="166"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="277"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="340"/>
         <source>Error</source>
         <translation>Erro</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="188"/>
         <source>Unable to open %1 for reading: %2</source>
         <translation>Não foi possível abrir %1 para ler: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="196"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
         <translation>O ficheiro (%1) é muito grande. Podes abri-lo num visualizador otimizado para ficheiro grandes.</translation>
     </message>
@@ -10014,17 +10014,17 @@ Por favor atualiza %1!</translation>
         <translation>O ficheiro (%1) não pode ser lido.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="249"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="284"/>
         <source>Confirm Deletion</source>
         <translation>Confirmar Exclusão</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="285"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -10035,17 +10035,17 @@ Isto pode ser permanente e irá desaparecer da pasta de registos.
 Tens a certeza de que queres prosseguir?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="310"/>
         <source>Confirm Cleanup</source>
         <translation>Confirmar Limpeza</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="312"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>Tens a certeza de que queres apagar todos os ficheiros de registo?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="315"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>Tens a certeza que queres apagar todos estes ficheiros?
@@ -10056,7 +10056,7 @@ Tens a certeza de que queres prosseguir?</translation>
         <translation type="vanished">Desejas mesmo apagar %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="277"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="299"/>
         <source>Unable to delete %1: %2</source>
         <translation>Não foi possível apagar %1: %2</translation>
     </message>
@@ -10075,19 +10075,19 @@ Tens a certeza de que queres prosseguir?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="318"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="342"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>Não foi possível apagar alguns dos ficheiros!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="321"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="345"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>Não foi possível apagar alguns dos ficheiros:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="59"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="60"/>
         <source>Other logs</source>
         <translation>Outros registos</translation>
     </message>
