@@ -7855,7 +7855,7 @@ A metaadat gyorsítótár manuális törléséhez nyomja meg a Mappák -&gt; Lau
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
         <source>Changelog</source>
-        <translation>Változási napló</translation>
+        <translation>Változásnapló</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="186"/>
