@@ -2279,7 +2279,7 @@ Some versions of Minecraft may not launch.
 {mod_id}   - 모드 ID
 {url}      - 모드 URL
 {version}  - 모드 버전
-{authors}  - 모드 작성자</translation>
+{authors}  - 모드 제작자</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -3278,7 +3278,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="86"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation>작성자순 정렬</translation>
+        <translation>제작자순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="87"/>
@@ -5411,7 +5411,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>[Log4j 구문 분석 오류] Log4j 로그 이벤트를 파싱하지 못하였습니다: %1</translation>
     </message>
 </context>
 <context>
@@ -9408,7 +9408,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>선택한 모드 제공자에서 유효한 버전을 찾을 수 없습니다</translation>
+        <translation>선택한 모드 제공자에서 유효한 버전을 찾을 수 없음</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
@@ -9898,7 +9898,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="296"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation>&lt;b&gt;이 프로젝트는 보존되었습니다. 작성자가 보존 해제하지 않는 한 더 이상 업데이트되지 않습니다.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;이 프로젝트는 보존되었습니다. 제작자가 보존 해제하지 않는 한 더 이상 업데이트되지 않습니다.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="301"/>
@@ -11274,7 +11274,7 @@ HTTP 상태: %2</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="72"/>
         <source>%1 [installed]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [설치됨]</translation>
     </message>
 </context>
 <context>
@@ -12020,7 +12020,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
         <source>Sort by Author</source>
-        <translation>작성자순 정렬</translation>
+        <translation>제작자순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
@@ -12477,7 +12477,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation>&lt;b&gt;이 프로젝트는 보존되었습니다. 작성자가 보존 해제하지 않는 한 더 이상 업데이트되지 않습니다.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;이 프로젝트는 보존되었습니다. 제작자가 보존 해제하지 않는 한 더 이상 업데이트되지 않습니다.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="228"/>
@@ -12543,13 +12543,14 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"/>
         <source>No versions available</source>
-        <translation type="unfinished"></translation>
+        <translation>사용 가능한 버전 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="433"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos;에 사용할 수 있는 버전이 없습니다.
+제작자가 서드파티 런처를 차단한 것 같습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="540"/>
@@ -13104,7 +13105,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="430"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>선택한 모드 공급자에서 유효한 버전을 찾을 수 없습니다</translation>
+        <translation>선택한 모드 제공자에서 유효한 버전을 찾을 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="441"/>
@@ -15978,7 +15979,7 @@ Please set up your account according to %1.</source>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation>XSTS 인증이 다음의 인식할 수 없는 오류(들) 로 종료되었습니다:
+        <translation>XSTS 인증이 인식할 수 없는 오류로 종료되었습니다:
 
 %1</translation>
     </message>
