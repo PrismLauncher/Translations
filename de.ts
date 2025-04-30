@@ -5472,7 +5472,7 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[Log4j Parse Error] Fehler beim Parsen eines log4j Log Events: %1</translation>
     </message>
 </context>
 <context>
@@ -11445,7 +11445,7 @@ HTTP Status: %2</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="72"/>
         <source>%1 [installed]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [installiert]</translation>
     </message>
 </context>
 <context>
@@ -12722,13 +12722,14 @@ Bitte aktualisiere %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"/>
         <source>No versions available</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Versionen verfügbar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="433"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Keine Versionen für &apos;%1&apos; verfügbar.
+Inoffizielle Launcher wurden wahrscheinlich vom Autor blockiert.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="540"/>
