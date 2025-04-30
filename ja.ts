@@ -4088,7 +4088,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Zincを使用</translation>
+        <translation>Zinkを使用</translation>
     </message>
     <message>
         <source>Legacy settings</source>
