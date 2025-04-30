@@ -5408,7 +5408,7 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>[Log4j Parse Error] Nem sikerült elemezni a log4j napló eseményét: %1</translation>
     </message>
 </context>
 <context>
@@ -10704,7 +10704,7 @@ Oka: %1.</translation>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
         <source>Update Check Error</source>
-        <translation>Frissítés Keresési Hiba</translation>
+        <translation>Frissítés keresési hiba</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="182"/>
@@ -10714,7 +10714,7 @@ Oka: %1.</translation>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="209"/>
         <source>Unknown Update Error</source>
-        <translation>Ismeretlen Frissítés Hiba</translation>
+        <translation>Ismeretlen frissítési hiba</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="210"/>
@@ -11289,7 +11289,7 @@ HTTP állapot: %2</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="72"/>
         <source>%1 [installed]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [telepítve]</translation>
     </message>
 </context>
 <context>
@@ -12252,7 +12252,7 @@ Szeretné folytatni?</numerusform>
     <message>
         <location filename="src/launcher/GZip.cpp" line="201"/>
         <source>error handling file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlfeldolgozási hiba</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="203"/>
@@ -12549,13 +12549,14 @@ Kérjük, frissítse a következőt: %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"/>
         <source>No versions available</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincsenek elérhető verziók</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="433"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
-        <translation type="unfinished"></translation>
+        <translation>A(z) &quot;%1&quot; verziói nem állnak rendelkezésre.
+A szerző valószínűleg blokkolta a harmadik féltől származó launchereket.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="540"/>
@@ -13346,7 +13347,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"/>
         <source>Unknown error</source>
-        <translation>Imseretlen hiba</translation>
+        <translation>Ismeretlen hiba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
