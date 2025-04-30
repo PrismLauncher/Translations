@@ -1137,7 +1137,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
         <source>Failed to contact the authentication server.</source>
-        <translation>Non se puido conectar conectar co servidor de autenticación.</translation>
+        <translation>Non se puido conectar co servidor de autenticación.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
