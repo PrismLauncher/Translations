@@ -3167,12 +3167,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>파일 검색 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="85"/>
         <source>Could not search for files</source>
         <translation>파일을 검색할 수 없습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="103"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="102"/>
         <source>Finding file hashes...</source>
         <translation>파일 해시를 찾는 중...</translation>
     </message>
@@ -3183,17 +3183,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="297"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="298"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>&apos;%1&apos;에 대한 CurseForge의 API 응답을 파싱하는 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="254"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="255"/>
         <source>Finding project info from CurseForge...</source>
         <translation>CurseForge에서 프로젝트 정보를 찾는 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="333"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="335"/>
         <source>Adding files...</source>
         <translation>파일 추가 중...</translation>
     </message>
@@ -3829,35 +3829,35 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="87"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="86"/>
         <source>Downloading modpack:
 %1</source>
         <translation>모드 팩을 다운로드 중:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="101"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="100"/>
         <source>Modpack download</source>
         <translation>모드 팩 다운로드</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="150"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="149"/>
         <source>Attempting to determine instance type</source>
         <translation>인스턴스 유형을 확인하려고 시도하는 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="186"/>
         <source>Extracting modpack</source>
         <translation>모드 팩 추출 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="157"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="156"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>모드 팩 압축 파일을 열 수 없음.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="184"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="261"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="183"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="260"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>압축 파일이 인식 가능한 모드 팩을 가지고 있지 않음.</translation>
     </message>
@@ -3866,7 +3866,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">모드팩 추출 실패</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="239"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1에 대한 권한 문제를 해결하지 못함</translation>
     </message>
@@ -4427,39 +4427,39 @@ Please make sure that the maximum memory value is lower.</source>
         <translation>Java를 다운로드하는 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="69"/>
         <source>Extracting Java</source>
         <translation>Java를 추출하는 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="71"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="84"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
         <translation>Java를 추출하는 중(TAR 압축 파일은 진행률이 표시되지 않음)</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="74"/>
         <source>Unable to open supplied tar file.</source>
         <translation>TAR 파일을 열 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="78"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="86"/>
         <source>Unable to extract supplied tar file.</source>
         <translation>TAR 파일을 추출할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="94"/>
         <source>Unable to open supplied zip file.</source>
         <translation>ZIP 파일을 열 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="99"/>
         <source>No files were found in the supplied zip file.</source>
         <translation>ZIP 파일 안에서 파일이 발견되지 않았습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="131"/>
         <source>Could not determine archive type!</source>
         <translation>압축 파일 유형을 확인할 수 없습니다!</translation>
     </message>
@@ -9783,17 +9783,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>파일 검색 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="79"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="78"/>
         <source>Could not search for files</source>
         <translation>파일을 검색할 수 없습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="95"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="94"/>
         <source>Finding file hashes...</source>
         <translation>파일 해시를 찾는 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="156"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="155"/>
         <source>Finding versions for hashes...</source>
         <translation>해시 버전을 찾는 중...</translation>
     </message>

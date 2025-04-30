@@ -3178,12 +3178,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>搜索文件中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="85"/>
         <source>Could not search for files</source>
         <translation>无法找到文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="103"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="102"/>
         <source>Finding file hashes...</source>
         <translation>正在查找文件哈希值…</translation>
     </message>
@@ -3194,17 +3194,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="297"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="298"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>正在解析 CurseForge 对“%1”的 API 响应…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="254"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="255"/>
         <source>Finding project info from CurseForge...</source>
         <translation>正在从 CurseForge 寻找项目信息…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="333"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="335"/>
         <source>Adding files...</source>
         <translation>添加文件中…</translation>
     </message>
@@ -3851,35 +3851,35 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="87"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="86"/>
         <source>Downloading modpack:
 %1</source>
         <translation>正在下载整合包：
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="101"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="100"/>
         <source>Modpack download</source>
         <translation>下载整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="150"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="149"/>
         <source>Attempting to determine instance type</source>
         <translation>正在尝试确定实例类型</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="186"/>
         <source>Extracting modpack</source>
         <translation>正在解压整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="157"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="156"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>无法打开提供的整合包 Zip 文件。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="184"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="261"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="183"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="260"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>压缩包未包含可识别的整合包类型。</translation>
     </message>
@@ -3888,7 +3888,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">解压整合包失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="239"/>
         <source>Could not fix permissions for %1</source>
         <translation>无法修复 %1 的权限</translation>
     </message>
@@ -4463,39 +4463,39 @@ Please make sure that the maximum memory value is lower.</source>
         <translation>下载 Java 中</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="69"/>
         <source>Extracting Java</source>
         <translation>正在解压 Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="71"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="84"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
         <translation>正在提取 Java（tar 压缩包不会显示进度）</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="74"/>
         <source>Unable to open supplied tar file.</source>
         <translation>无法打开提供的 tar 文件。</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="78"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="86"/>
         <source>Unable to extract supplied tar file.</source>
         <translation>无法提取提供的 tar 文件。</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="94"/>
         <source>Unable to open supplied zip file.</source>
         <translation>无法打开提供的 zip 文件。</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="99"/>
         <source>No files were found in the supplied zip file.</source>
         <translation>提供的 zip 压缩包中没有文件。</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="131"/>
         <source>Could not determine archive type!</source>
         <translation>无法确定压缩包类型！</translation>
     </message>
@@ -9900,17 +9900,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>搜索文件中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="79"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="78"/>
         <source>Could not search for files</source>
         <translation>无法找到文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="95"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="94"/>
         <source>Finding file hashes...</source>
         <translation>正在查找文件哈希值…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="156"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="155"/>
         <source>Finding versions for hashes...</source>
         <translation>正在查找版本哈希值…</translation>
     </message>

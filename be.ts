@@ -2924,12 +2924,12 @@ Please try again.</source>
         <translation>Пошук файлаў...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="85"/>
         <source>Could not search for files</source>
         <translation>Не атрымалася знайсці файлы</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="103"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="102"/>
         <source>Finding file hashes...</source>
         <translation>Пошук хэшаў файлаў...</translation>
     </message>
@@ -2940,17 +2940,17 @@ Please try again.</source>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="297"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="298"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Аналізуем адказ API ад CurseForge для &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="254"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="255"/>
         <source>Finding project info from CurseForge...</source>
         <translation>Пошук інфармацыі пра праект з CurseForge…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="333"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="335"/>
         <source>Adding files...</source>
         <translation>Дадаванне файлаў...</translation>
     </message>
@@ -3474,35 +3474,35 @@ Please try again.</source>
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="87"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="86"/>
         <source>Downloading modpack:
 %1</source>
         <translation>Спампоўка зборкі:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="101"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="100"/>
         <source>Modpack download</source>
         <translation>Атрыманне зборкі</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="150"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="149"/>
         <source>Attempting to determine instance type</source>
         <translation>Спроба вызначэння тыпу ўстаноўкі</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="186"/>
         <source>Extracting modpack</source>
         <translation>Распакоўка зборкі</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="157"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="156"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Не атрымалася адкрыць прыкладзены zip-файл зборкі.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="184"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="261"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="183"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="260"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Архіў не мае распазнаную зборку.</translation>
     </message>
@@ -3511,7 +3511,7 @@ Please try again.</source>
         <translation type="vanished">Не атрымалася распакаваць зборку</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="239"/>
         <source>Could not fix permissions for %1</source>
         <translation>Не атрымалася выправіць дазволы для %1</translation>
     </message>
@@ -3933,39 +3933,39 @@ Please make sure that the maximum memory value is lower.</source>
         <translation type="unfinished">Загрузка Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="69"/>
         <source>Extracting Java</source>
         <translation type="unfinished">Выманне java</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="71"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="84"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
         <translation type="unfinished">Выманне Java (прагрэс не паведамляецца для архіваў tar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="74"/>
         <source>Unable to open supplied tar file.</source>
         <translation type="unfinished">Немагчыма адкрыць пастаўлены файл tar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="78"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="86"/>
         <source>Unable to extract supplied tar file.</source>
         <translation type="unfinished">Немагчыма распакаваць пастаўлены файл tar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="94"/>
         <source>Unable to open supplied zip file.</source>
         <translation type="unfinished">Немагчыма адкрыць пастаўлены zip-файл.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="99"/>
         <source>No files were found in the supplied zip file.</source>
         <translation>У дадзеным zip-файле не знойдзены файлы.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="131"/>
         <source>Could not determine archive type!</source>
         <translation type="unfinished">Немагчыма вызначыць тып архіва!</translation>
     </message>
@@ -8257,17 +8257,17 @@ Please update %1!</source>
         <translation>Пошук файлаў...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="79"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="78"/>
         <source>Could not search for files</source>
         <translation>Не атрымалася знайсці файлы</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="95"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="94"/>
         <source>Finding file hashes...</source>
         <translation>Пошук хэшаў файлаў...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="156"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="155"/>
         <source>Finding versions for hashes...</source>
         <translation>Пошук версій для хэшэй...</translation>
     </message>

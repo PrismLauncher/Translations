@@ -3187,12 +3187,12 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
         <translation>Recherche de fichiers...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="85"/>
         <source>Could not search for files</source>
         <translation>Impossible de rechercher des fichiers</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="103"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="102"/>
         <source>Finding file hashes...</source>
         <translation>Recherche des hashs des fichiers...</translation>
     </message>
@@ -3203,17 +3203,17 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="297"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="298"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Traitement de la réponse API de CurseForge pour &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="254"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="255"/>
         <source>Finding project info from CurseForge...</source>
         <translation>Recherche d&apos;informations de projet depuis CurseForge...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="333"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="335"/>
         <source>Adding files...</source>
         <translation>Ajout de fichiers...</translation>
     </message>
@@ -3860,35 +3860,35 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="87"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="86"/>
         <source>Downloading modpack:
 %1</source>
         <translation>Téléchargement du pack de mods&#xa0;:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="101"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="100"/>
         <source>Modpack download</source>
         <translation>Téléchargement du modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="150"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="149"/>
         <source>Attempting to determine instance type</source>
         <translation>Détermination du type d&apos;instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="186"/>
         <source>Extracting modpack</source>
         <translation>Extraction du pack de mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="157"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="156"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Impossible d&apos;ouvrir le fichier zip du pack de mods fourni.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="184"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="261"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="183"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="260"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>L&apos;archive ne contient pas un type de modpack reconnu.</translation>
     </message>
@@ -3897,7 +3897,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
         <translation type="vanished">Échec de l&apos;extraction du pack de mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="239"/>
         <source>Could not fix permissions for %1</source>
         <translation>Impossible de réparer les permissions pour %1</translation>
     </message>
@@ -4472,39 +4472,39 @@ Veuillez vérifier que la valeur mémoire maximale est plus basse.</translation>
         <translation>Téléchargement de Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="69"/>
         <source>Extracting Java</source>
         <translation>Extraction de Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="71"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="84"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
         <translation>Extraction de Java (La progression n&apos;est pas indiquée pour les archives tar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="74"/>
         <source>Unable to open supplied tar file.</source>
         <translation>Impossible d&apos;ouvrir le fichier tar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="78"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="86"/>
         <source>Unable to extract supplied tar file.</source>
         <translation>Impossible d&apos;extraire le fichier tar fourni.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="94"/>
         <source>Unable to open supplied zip file.</source>
         <translation>Impossible d&apos;ouvrir le fichier zip fourni.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="99"/>
         <source>No files were found in the supplied zip file.</source>
         <translation>Aucun fichier trouvé dans le fichier zip fourni.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="131"/>
         <source>Could not determine archive type!</source>
         <translation>Impossible de reconnaître le type de l&apos;archive&#x202f;!</translation>
     </message>
@@ -9883,17 +9883,17 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
         <translation>Recherche de fichiers...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="79"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="78"/>
         <source>Could not search for files</source>
         <translation>Impossible de rechercher des fichiers</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="95"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="94"/>
         <source>Finding file hashes...</source>
         <translation>Recherche des hashs des fichiers...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="156"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="155"/>
         <source>Finding versions for hashes...</source>
         <translation>Recherche des versions pour les hashs...</translation>
     </message>
