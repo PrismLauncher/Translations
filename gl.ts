@@ -2193,7 +2193,12 @@ Algunhas versións de Minecraft pode que non se executen.
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Este texto soporta os seguintes marcadores:
+{name}     - Nome do mod
+{mod_id}   - ID do mod
+{url}      - URL do mod
+{version}  - Versión do mod
+{authors}  - Autores do mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
