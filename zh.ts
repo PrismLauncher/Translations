@@ -1305,7 +1305,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <source>All mods found</source>
-        <translation>找到的所有 Mod</translation>
+        <translation>已找到所有 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
