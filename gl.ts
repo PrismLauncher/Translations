@@ -4004,7 +4004,7 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Axustes Legacy</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -4125,7 +4125,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
@@ -5049,7 +5049,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="443"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Iniciar</translation>
     </message>
     <message>
         <source>Couldn&apos;t start profiler: %1</source>
@@ -6433,7 +6433,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="344"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="293"/>
