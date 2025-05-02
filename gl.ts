@@ -7122,7 +7122,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="568"/>
         <source>&amp;Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Renomear grupo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1169"/>
@@ -7132,7 +7132,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1179"/>
         <source>Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomear grupo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1188"/>
