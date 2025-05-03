@@ -5462,7 +5462,7 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>[Erro de Análise do Log4j] Falha ao analisar o evento de log do Log4j: %1</translation>
     </message>
 </context>
 <context>
@@ -6354,7 +6354,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="80"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linhas de cor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -6639,7 +6639,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="162"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra %1 ou escaneie o QR e introduza o codigo acima se necessário.</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -7016,7 +7016,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="565"/>
         <source>Launcher &amp;Root</source>
-        <translation>&amp;Raíz do Launcher</translation>
+        <translation>&amp;Raiz do Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="577"/>
@@ -7812,7 +7812,9 @@ Por favor, crie uma nova instância antes de tentar instalar este recurso novame
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao limpar o cache de metadata!
+Para limpar a metadata de cache manualmente, vá em Pastas -&gt; Raiz do Launcher e, após fechar o launcher, delete a pasta chamada &quot;meta&quot;
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
@@ -10433,7 +10435,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="49"/>
         <source>&amp;Find</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Encontrar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="63"/>
