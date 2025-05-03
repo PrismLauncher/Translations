@@ -3228,7 +3228,7 @@ Par plasê, prove di gnûf.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="183"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="260"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;archivi nol conten un gjenar di modpack ricognossût.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="239"/>
@@ -3241,7 +3241,7 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="185"/>
         <source>%1 Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Istance %1</translation>
     </message>
 </context>
 <context>
@@ -3249,30 +3249,30 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="51"/>
         <source>Edit Instance (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifiche istance (%1)</translation>
     </message>
 </context>
 <context>
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Vierç impostazions globâls</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lis impostazions achì a sostituissin chês globâls.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>Insta&amp;lazion Java</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rilevament automatic...</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Prove</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
@@ -3280,15 +3280,15 @@ Par plasê, prove di gnûf.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Salte i controi di compatibilitât di Java</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Memorie</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Assegnazion minime di memorie:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
@@ -3996,7 +3996,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>O no tu âs selezionât une version di Java o tu&apos;nd âs selezionade une che no funzione.
+%1 nol rivarà a inviâ Minecraft.
+Desideristu continuâ cence une version di Java che e funzioni?
+
+Tu puedis cambiâ version di Java tes impostazions plui indevant.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="228"/>
@@ -4015,7 +4020,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="136"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Assegnazion minime di memorie:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -4025,42 +4030,42 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
         <source>Java Insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>Insta&amp;lazion di Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
         <source>Auto-&amp;detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rileve in automatic la version Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="65"/>
         <source>Auto-detect...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rilevament automatic...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="72"/>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Prove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="81"/>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>Al discjame e al selezione in automatic la version di Java conseade di Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="84"/>
         <source>Auto-download &amp;Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Discjame in automatic &amp;Mojang Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="91"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ativât, l&apos;inviadôr nol domandarà di sielzi une version di Java, tal câs che no&apos;ndi vegni cjatade une al inviament.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="94"/>
         <source>Skip Java setup prompt on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Salte la domandi di instalazion di Java al inviament</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="101"/>
@@ -4070,17 +4075,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="104"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Salte i controi di compatibilitât di Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="117"/>
         <source>Memor&amp;y</source>
-        <translation type="unfinished"></translation>
+        <translation>Memor&amp;ie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="129"/>
         <source>PermGen (Java 7 and earlier):</source>
-        <translation type="unfinished"></translation>
+        <translation>PermGen (Java 7 e plui vecjos):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="165"/>
@@ -4095,7 +4100,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="235"/>
         <source>Java Argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>Parame&amp;tris di java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
@@ -4117,12 +4122,12 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-rileve Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
         <source>Select a Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione une version di Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
@@ -4134,26 +4139,28 @@ You can change the Java version in the settings later.
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu âs selezionade une version di Java a 32-bit.
+Cheste instalazion no supuarte plui di 2048MiB di RAM.
+Verifiche che il valôr massim di memorie al sedi plui piçul.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="296"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>La tô assegnazion massime di memorie e supere la capacitât di memorie dal to sisteme.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="299"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>La tô assegnazion massime di memorie e je dongje de capacitât di memorie dal to sisteme.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>LA tô assegnazion massime di memorie e je plui piçule dal valôr minim</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu stâs superant la assegnazion massime supuartade des instalazions a 32-bit di Java.</translation>
     </message>
 </context>
 <context>
@@ -4167,7 +4174,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Par plasê selezione trope memorie assegnâ aes istancis e se l&apos;inviadôr Prism Launcher al à di gjestî Java in automatic o a man.</translation>
     </message>
 </context>
 <context>
@@ -4210,7 +4217,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>No tu âs selezionât une version di Java o tu&apos;nd âs selezionade une che no funzione.
+%1 nol rivarà a inviâ Minecraft.
+Continuâ pardabon cence une version di Java che e funzioni?
+
+Tu puedis cambiâ la version di Java tes impostazions plui indevant.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="353"/>
@@ -4230,7 +4242,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Assegnazion minime di memorie:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
@@ -4260,32 +4272,32 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
         <source>Auto-detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-rileve version Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-rileve Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>La tô assegnazion massime di memorie e supere la capacitât di memorie dal to sisteme.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>La tô assegnazion massime di memorie e je dongje de capacitât di memorie dal sisteme.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="521"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>La tô assegnazion massime di memorie e je plui piçule dal valôr minim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu stâs superant la assegnazion massime supuartade des instalazions a 32-bit di Java.</translation>
     </message>
 </context>
 <context>
@@ -4293,7 +4305,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="53"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Lenghe</translation>
     </message>
 </context>
 <context>
@@ -4301,12 +4313,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>No tu cjatis la tô lenghe opûr e je di scjarse cualitât?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Judinus cu lis traduzions!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopre localizazions dal sisteme</translation>
     </message>
 </context>
 <context>
@@ -4314,12 +4326,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="43"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Lenghe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
         <source>Select the language to use in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione la lenghe di doprâ su %1</translation>
     </message>
 </context>
 <context>
@@ -4327,52 +4339,52 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="70"/>
         <source>No instance specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nissune istance specificade!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametris Java specificâts no valits. Par plasê risolf prime chest probleme.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="92"/>
         <source>No Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Nissun account</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="119"/>
         <source>Which account would you like to use?</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuâl account desideristu doprâ?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>No account selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nissune account selezionât pal inviament.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="160"/>
         <source>Player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Non zuiadôr</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="153"/>
         <source>Choose your offline mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sielç il non dal to personaç in modalitât fûr rêt.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="155"/>
         <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sielç il non dal to personaç de modalitât dimostrative.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="278"/>
         <source>Received undetermined session status during login.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricevût un stât di session indeterminât dilunc l&apos;acès.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="137"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Zuiâ ae dimostrazion?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="139"/>
@@ -4380,12 +4392,15 @@ You can change the Java version in the settings later.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Il to account nol è in possès di Minecraft. 
+Tu scugnis prime comprâ il zûc par zuiâlu.
+
+Desideristu zuiâ ae dimostrazion?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="142"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Zuie ae dimostrazion</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="143"/>
@@ -4395,68 +4410,68 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="245"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inviament anulât - l&apos;account nol è in possès di Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="300"/>
         <source>Play Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Invie fûr rêt</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="312"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>La identificazion dal client dal inviadôr e je cambiade. Elimine &apos;%1&apos; e torne prove.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="322"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; nol esist plui sui servidôrs. Al è pussibil che al sedi migrât; in chest câs par plasê zonte il to gnûf account là che tu âs migrât chel achì.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="338"/>
         <source>Account refresh failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Inzornament account falît</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;account nol esist plui sui servidôrs. Al è pussibil che al sedi stât migrât, in chest câs par plasê zonte il gnûf account là che al è stât migrât chel achì.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>Account gone</source>
-        <translation type="unfinished"></translation>
+        <translation>Account migrât</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
         <source>Failed to launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil inviâ.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="363"/>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;account al è scjadût e al covente tornâ a autenticâlu</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="373"/>
         <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Erôr!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="373"/>
         <location filename="src/launcher/LaunchController.cpp" line="374"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil cjariâ il profîl de istance.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="380"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil dâ istance a un inviadôr.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Control dal profiladôr par %1 falît: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="443"/>
@@ -4468,22 +4483,24 @@ Do you want to play the demo?</source>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;inviament dal zûc al è stât posticipât fintant che no tu frachis il boton. Chest al è il moment just par configurâ il profiladôr, viodût che cumò il servidôr dal profiladôr al è in esecuzion.
+
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="339"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; al è scjadût e al covente tornâ a autenticâlu. Desideristu tornâ a autenticâ chest account?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="441"/>
         <source>Waiting.</source>
-        <translation type="unfinished"></translation>
+        <translation>In spiete.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="449"/>
         <source>Couldn&apos;t start the profiler: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil inviâ il profiladôr: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="450"/>
@@ -4498,41 +4515,41 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="490"/>
         <source>Kill Minecraft?</source>
-        <translation type="unfinished"></translation>
+        <translation>Copâ Minecraft?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="491"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation type="unfinished"></translation>
+        <translation>Cheste azion e pues corompi la istance e tu varessis di doprâle nome se Minecraft al è blocât par cualchi reson</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>La identificazion dal client dal inviadôr e je cambiade. Gjave chest account e zontilu di gnûf.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="209"/>
         <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuâ l&apos;inviament?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="210"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Al somee che nol sedi pussibil inviâ la istance dopo %1 tentatîfs. Desideristu continuâ a provâ?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="315"/>
         <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificazion dal client modificade</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="93"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Par podê zuiâ a Minecraft tu scugnis vê almancul un account Microsoft che al vedi possès dal zûc Minecraft. Desideristu vierzi il gjestôr dai accounts par zontânt un cumò?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;account al è scjadût e al covente tornâ a jentrâi a man.</translation>
     </message>
 </context>
 <context>
@@ -4541,12 +4558,13 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="209"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Il monitorament dal regjistri di zûc al è stât interot parcè che la lungjece e à superât lis %1 riis.
+Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continuant a regjistrâ sui files e al è probabil che al stedi strassant spazi di archiviazion a une velocitât che e met in alarme!</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>[Log4j erôr di analisi] Impussibil analizâ l&apos;event di regjistri log4j: %1</translation>
     </message>
 </context>
 <context>
@@ -4554,18 +4572,18 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Accessing Mojang services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a jentrâ tai servizis di Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="62"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil otignî il gjeton di acès a Minecraft: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="69"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil analizâ la rispueste dal gjeton di acès di Minecraft.</translation>
     </message>
 </context>
 <context>
@@ -4573,18 +4591,18 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="45"/>
         <source>Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Funzionalitâts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
         <source>Update Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Inzorne impostazions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="75"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Verifiche la presince di inzornaments in automatic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
@@ -4594,103 +4612,103 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="118"/>
         <source>I&amp;nstances:</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;stancis:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="139"/>
         <source>Rename instance folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambie non aes cartelis des istancis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="147"/>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="152"/>
         <source>Ask</source>
-        <translation type="unfinished"></translation>
+        <translation>Domande</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="157"/>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Simpri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>&amp;Mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mods:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="187"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Iconis:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="273"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ativât, sore ae cartele dai discjariâts, lis sôs sot cartelis a vignaran tegnudis di cont pe ricercje des risorsis (p.e. cuant che si cirin mods blocadis su CurseForge).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="276"/>
         <source>Check downloads folder recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>Controle la cartele dai discjariâts in mût ricorsîf</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="327"/>
         <source>Disable automatic mod dependency management</source>
-        <translation type="unfinished"></translation>
+        <translation>Disative la gjestion automatiche des dipendencis des mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="433"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Interface utent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="442"/>
         <source>Instance view sorting mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalitât ordenament viodude istancis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="448"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Par &amp;ultin inviament</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="458"/>
         <source>By &amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>Par &amp;non</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="471"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Teme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="298"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="84"/>
         <source>Update interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Dade pai inzornaments</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="91"/>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Met a 0 par controlâ nome al inviament</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="250"/>
         <source>&amp;Downloads:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Discjariâts:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="131"/>
@@ -4705,56 +4723,56 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
         <source>&amp;Skins:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aspiets:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="283"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ativât, al spostarà lis risorsis blocadis invezit che copiâlis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="286"/>
         <source>Move blocked resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Môf lis risorsis blocadis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="208"/>
         <source>&amp;Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="304"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Disative la utilizazion dai metadâts dâts dai furnidôrs di mods (come Modrinth o CurseForge) pes mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="307"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Disative la utilizazion dai metadâts pes mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="314"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Atenzion&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: la disativazion dai metadâts des mods e podarès disativâ ancje cualchi funzionalitât QoL, come l&apos;inzornament des mods!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Disative rilevament, instalazion e inzornament automatic des dipendencis des mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuant che e ven creade une gnove istance di modpack, no sta sugjerî di inzornâ lis istancis esistentis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="337"/>
         <source>Skip modpack update prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>Salte la domande di inzornament dal modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="347"/>
@@ -4764,92 +4782,92 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="360"/>
         <source>Number of concurrent tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Numar di ativitâts in contemporanie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="374"/>
         <source>Number of concurrent downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Numar di discjariaments in contemporanie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="395"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation type="unfinished"></translation>
+        <translation>Seconts di spiete prime de terminazion des domandis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="398"/>
         <source>Timeout for HTTP requests</source>
-        <translation type="unfinished"></translation>
+        <translation>Scjadince pes domandis HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="405"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
         <source>Number of manual retries</source>
-        <translation type="unfinished"></translation>
+        <translation>Numar di tentatîfs manuâi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="483"/>
         <source>Cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="489"/>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stabilìs la opacitât dal gjat. 0% al è trasparent dal dut e 100% al è opac dal dut.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="492"/>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacitât</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="502"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="537"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Struments</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="543"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>La sbare dai menûs e je plui intuitive pe interazion cu la tastiere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="546"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sostituìs la sbare dai struments cu la sbare dai menûs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="570"/>
         <source>Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Console</translation>
     </message>
     <message>
         <source>Console Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazions de console</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mostre la console intant che il zûc al è in esecuzion</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Siere in &amp;automatic la console ae jessude dal zûc</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mostre la console cuant che il zûc al &amp;colasse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="576"/>
@@ -5821,7 +5839,7 @@ Motîf:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="642"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Discord Guild</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="666"/>
@@ -6141,60 +6159,63 @@ Motîf:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1043"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nissune istance disponibile dulà lâ a zontâ cheste risorse.
+Par plasê cree une gnove istance prime di tornâ a instalâ cheste risorse.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1157"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Non dal grup</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1157"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1179"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserìs un gnûf non dal grup.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1169"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimine grup</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1295"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Istance che no si pues modificâ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1296"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nol è pussibil modificâ cheste istance. Al è pussibil che e sedi ruvinade, no valide o masse vecje. Controle i regjistris pai detais.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1317"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Netisie de cache dai metadâts falide!
+Par netâ la cache dai metadâts a man, frache Cartelis -&gt; Visualize cartele lidrîs dal inviadôr e, dopo vê sierât l&apos;inviadôr, elimine la cartele clamade &quot;meta&quot;
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1339"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 zontât a PATH cun sucès</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1340"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 al è stât zontât cun sucès a PATH. Cumò tu puedis inviâlu cun `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1343"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil zontâ %1 a PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1344"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Al è capitâ un erôr intant che si cirive di zontâ %1 a PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1388"/>
@@ -6211,11 +6232,14 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Tu stâs par eliminâ &quot;%1&quot;.
+Al è pussibil che cheste operazion e sedi permanente e che e elimini dal dut la istance.
+
+Eliminâ pardabon?</translation>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
+        <translation>A son istancis colegadis</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -6225,9 +6249,21 @@ Are you sure?</oldsource>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Cheste istance e podarès fâ riferiment ai files in cheste istance:
+
+%1
+
+La eliminazion e podarès corompi chê altre istance,
+
+Desideristu continuâ?</numerusform>
+            <numerusform>Chestis istancis a podaressin fâ riferiment ai files in cheste istance:
+
+%1
+
+La eliminazion e podarès corompi chês altris istancis,
+
+Desideristu continuâ?</numerusform>
         </translation>
     </message>
     <message>
@@ -6243,89 +6279,89 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1638"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1644"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Cree scurte de istance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1516"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil cjatâ il scritori?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1528"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;inviadôr al è te cartele di dulà che al è stât estrat, duncje nol pues creâ scurtis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1541"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1552"/>
         <source>Create instance Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Cree aplicazion de istance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1541"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1552"/>
         <source>Failed to create icon for Application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil creâ la icone pe aplicazion.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1593"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Vôs di Scritori</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1636"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>E je stade creade une scurte a cheste istance sul to scritori!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1638"/>
         <source>Created a shortcut to this instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>E je stade creade une scurte a cheste istance!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1644"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil creâ la scurte de istance!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1561"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;inviadôr staial zirant come AppImage mal configurade? (e mancje la variabile di ambient $APPIMAGE)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="568"/>
         <source>&amp;Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cambie non al grup</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1169"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminâ pardabon il grup &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1179"/>
         <source>Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambie non al grup</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1188"/>
         <source>Cannot rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil cambiâ non al grup</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1188"/>
         <source>Cannot set empty name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil meti un non vueit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1188"/>
         <source>Group already exists. :/</source>
-        <translation type="unfinished"></translation>
+        <translation>Il grup al esist za. :/</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a eliminâ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1576"/>
@@ -6333,77 +6369,77 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1614"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1625"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil creâ une icone pe scurte.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1630"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>No supuartât te tô plateforme!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1726"/>
         <source>Rename Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambie non ae istance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1738"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation type="unfinished"></translation>
+        <translation>La cartele de istance e conten &apos;!&apos; e ducj a san che cun Java al cause problemis!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1739"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Cumò tu âs dôs opzions: &lt;br/&gt; - cambiâ la cartele de istance tes impostazions &lt;br/&gt; - spostâ cheste instalazion di %1 suntune altre cartele</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1747"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Chest al è un probleme: &lt;br/&gt; - Al è probabil che l&apos;inviadôr al vegni eliminât dal sisteme operatîf cence preavîs &lt;br/&gt; - siere cumò l&apos;inviadôr e tirilu fûr intune posizion reâl, no intune cartele temporanie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1753"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation type="unfinished"></translation>
+        <translation>La cartele de istance e conten &apos;Rar$&apos; - chest al significhe che no tu âs estrat l&apos;archivi dal inviadôr!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1759"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>La cartele de istance e je intune cartele temporanie: &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1773"/>
         <source>Total playtime: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Timp di zûc totâl: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="64"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Sbare struments des novitâts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Altris novitâts...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vierç il blog di svilup par lei altris novitâts su %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="795"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a cjariâ lis novitâts...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="805"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nissune novitât disponibile.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="645"/>
         <source>Open %1 Discord guild.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vierç la guild di Discord di %1.</translation>
     </message>
 </context>
 <context>
@@ -6411,64 +6447,66 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazion pachet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Non dal pachet:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Version corinte:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazion dal furnidôr:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inzorne ae version:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
         <source>Fetching versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a recuperâ lis versions...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update from file</source>
-        <translation type="unfinished"></translation>
+        <translation>Inzorne di file</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Regjistri modifichis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="186"/>
         <source>No changelog available for this version!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nissun regjistri des modifichis disponibil par cheste version!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="201"/>
         <source>Reload page</source>
-        <translation type="unfinished"></translation>
+        <translation>Torne cjame la pagjine</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="146"/>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Chest al è un modpack locâl.
+Al è pussibil inzornâlu nome doprant un file in formât %1
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="153"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Sît web: &lt;a href=%1&gt;%2&lt;/a&gt;    |    ID dal modpack: %3    |    ID de version: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="196"/>
@@ -6498,32 +6536,32 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="216"/>
         <source>Update pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Inzorne pachet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
         <source>Failed to search for available versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil cirî lis versions disponibilis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="230"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil domandâ i dâts dal regjistri des modifichis par chest modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="232"/>
         <source>Cannot update!</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil inzornâ!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
         <source>Update Successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Inzornament lât a bon fin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="351"/>
         <source>The instance updated to pack version %1 successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>La istance e je stade inzornade cun sucès ae version dal pachet %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="356"/>
@@ -6533,7 +6571,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="357"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nol è stât pussibil inzornâ la istance ae version dal pachet %1. Controle i regjistris dal inviadôr par vê plui informazions.</translation>
     </message>
 </context>
 <context>
@@ -6541,7 +6579,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="121"/>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a cjariâ il file locâl</translation>
     </message>
 </context>
 <context>
@@ -6555,7 +6593,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a cjariâ i meta par %1:%2</translation>
     </message>
 </context>
 <context>
@@ -6564,7 +6602,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a cjariâ i meta par %1</translation>
     </message>
 </context>
 <context>
@@ -6586,52 +6624,52 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="293"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Invie &amp;fûr rêt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="294"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="295"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Invie &amp;dimostrazion</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="296"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
         <source>Profilers</source>
-        <translation type="unfinished"></translation>
+        <translation>Profiladôrs</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
         <source>&amp;No Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nissun profiladôr</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="996"/>
         <source>&lt;SESSION ID&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;ID SESSION&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="999"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;GJETON DI ACÈS&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1001"/>
         <source>&lt;PROFILE ID&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;ID PROFÎL&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1015"/>
         <source>broken</source>
-        <translation type="unfinished"></translation>
+        <translation>rot</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1026"/>
@@ -7662,12 +7700,12 @@ Are you sure?</source>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Motîf: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Soluzion pussibile: otignî a man la ultime version:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
