@@ -6908,7 +6908,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lis impostazions achì a sostituissin chês globâls.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
@@ -7575,7 +7575,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="54"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mods</translation>
     </message>
     <message>
         <source>Download mods</source>
@@ -9662,7 +9662,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="81"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">h</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="86"/>
@@ -9672,7 +9672,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="91"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="96"/>
@@ -10043,7 +10043,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
         <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A son istancis colegadis</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="113"/>
@@ -10829,13 +10829,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="175"/>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Motîf: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="178"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soluzion pussibile: otignî a man la ultime version:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
@@ -12245,7 +12245,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="391"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lenghe</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
@@ -12570,7 +12570,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Impussibil cjariâ il profîl de istance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
