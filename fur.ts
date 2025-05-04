@@ -7692,7 +7692,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verifiche presince inzornaments...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
@@ -10864,7 +10864,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="127"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verifiche presince inzornaments...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
