@@ -7108,7 +7108,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="523"/>
         <source>Override default &amp;account</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimplace &amp;account predefinît</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
@@ -7118,7 +7118,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="558"/>
         <source>Set a &amp;target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Stabilìs une &amp;destinazion dulà unîsi al inviament</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="570"/>
@@ -7143,17 +7143,17 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="65"/>
         <source>Show time &amp;playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostre il timp passât a &amp;zuiâ in cheste istance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="66"/>
         <source>&amp;Record time playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Regjistre il timp di zûc di cheste istance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="71"/>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Atenzion&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: La opzion slargjade no je supuartade dal dut su cheste version di Minecraft.&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="113"/>
@@ -7182,12 +7182,12 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Categoriis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Cjariadôrs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
@@ -7217,57 +7217,57 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="137"/>
         <source>Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="149"/>
         <source>Show all versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostre dutis lis versions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="165"/>
         <source>Environments</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambients</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Client</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="184"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
         <source>Hide installed items</source>
-        <translation type="unfinished"></translation>
+        <translation>Plate elements instalâts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="201"/>
         <source>Open source only</source>
-        <translation type="unfinished"></translation>
+        <translation>Dome open source</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="208"/>
         <source>Release type</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjenar di publicazion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="214"/>
         <source>Release</source>
-        <translation type="unfinished"></translation>
+        <translation>Publicazion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="221"/>
         <source>Beta</source>
-        <translation type="unfinished"></translation>
+        <translation>Beta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation>Alpha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="235"/>
@@ -7285,7 +7285,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="89"/>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartele</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="91"/>
@@ -7297,13 +7297,16 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Atenzion: cheste risorse e je colegade in mût simbolic di cualchi altre bande. La sô modifiche e cambiarà ancje chê origjinâl.
+Percors canonic: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La sô modifiche e cambiarà ancje l&apos;origjinâl.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
@@ -7318,97 +7321,97 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Furnidôr</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ative</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagjin</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultime modifiche</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimension</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Bande</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Cjariadôrs</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Release Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjenar di publicazion</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Minecraft Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versions Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="180"/>
         <source>Is the mod enabled?</source>
-        <translation type="unfinished"></translation>
+        <translation>La mod ise ative?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="182"/>
         <source>The name of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il non de mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="184"/>
         <source>The version of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>La version de mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="186"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>La date e la ore de ultime modifiche (o zonte) di cheste mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="188"/>
         <source>The source provider of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il distributôr de mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="190"/>
         <source>On what environment the mod is running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Su cuâl ambient che la mod e je in esecuzion.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="192"/>
         <source>The mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il cjariadôr de mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="194"/>
         <source>The supported minecraft versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lis versions minecraft supuartadis.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="196"/>
         <source>The release type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il gjenar di publicazion.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="198"/>
         <source>The size of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>La dimension de mod.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -7417,7 +7420,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="unfinished"></translation>
+        <translation>Di dulà che e je stade discjariade la mod.</translation>
     </message>
 </context>
 <context>
@@ -7425,19 +7428,19 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="84"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifiche inzornaments</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Prove a controlâ o a inzornâ dutis lis mods selezionadis (dutis lis mods se no je selezionade nissune)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="106"/>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Espuarte i metadâts de mod come test.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
@@ -7448,7 +7451,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="128"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se tu gjavis mods intant che il zûc al è in esecuzion, chest al podarès colassâ.
+Desideristu pardabon fâlu?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
@@ -7466,7 +7470,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="202"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="306"/>
         <source>Please install a mod loader first!</source>
-        <translation type="unfinished"></translation>
+        <translation>Par plasê, prime instale un cjariadôr di mods!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="166"/>
@@ -7479,7 +7483,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="166"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="255"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Discjariament interot dal utent.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
@@ -7497,12 +7501,12 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="206"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="310"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>I inzornaments des mods no son disponibii se i metadâts a son disativâts!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferme l&apos;inzornament</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="212"/>
@@ -7512,22 +7516,24 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;inzornament di mods intant che il zûc al è in esecuzion al podarès causâ la duplicazion des mods e il zûc al podarès colassâ.
+Al è pussibil che i files vecjos no vegnin eliminâts viodût che a son in ûs.
+Desideristu pardabon fâlu?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
         <source>The mod updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;inzornadôr de(s) mod(s) al è stât interot!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dutis lis mods selezionadis a son stadis inzornadis! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificadôr di inzornaments</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="285"/>
@@ -7538,39 +7544,40 @@ Are you sure you want to do this?</oldsource>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="286"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu stâs par gjavâi metadâts pes mods %1.
+Gjavâ pardabon?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="236"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; al è inzornât! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="71"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="160"/>
         <source>Download Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Discjame mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="100"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambie la version di une mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="104"/>
         <source>View the homepages of all selected mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visite la pagjine principâl di dutis lis mods selezionadis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Dutis lis mods a son inzornadis! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="72"/>
         <source>Download mods from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Discjame lis mods da lis plateformis in rêt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="54"/>
@@ -7579,15 +7586,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Discjame mods</translation>
     </message>
     <message>
         <source>Add file</source>
-        <translation type="unfinished"></translation>
+        <translation>Zonte file</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="unfinished"></translation>
+        <translation>Zonte un file discjariât in locâl</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
@@ -7595,19 +7602,19 @@ Are you sure?</source>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prove a inzornâ e a controlâ dipendencis che a mancjin, su dutis lis mods selezionadis (dutis lis mods se no ven selezionade nissune),</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripristine metadâts dai inzornaments</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjave metadâts de mod</translation>
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Va ae pagjine principâl de mod</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -7615,7 +7622,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambie la version de mod</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
@@ -7623,11 +7630,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Visite lis pagjinis des mods</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Va aes pagjinis des mods selezionadis</translation>
     </message>
 </context>
 <context>
@@ -7635,48 +7642,48 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="53"/>
         <source>Couldn&apos;t create the bin folder for Minecraft.jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil creâ la cartele dal binari par Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="58"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil gjavâ il file jar vecjo: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="71"/>
         <source>Failed to create the custom Minecraft jar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil creâ il file jar personalizât di Minecraft.</translation>
     </message>
 </context>
 <context>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="unfinished"></translation>
+        <translation>Confermâ lis mods di inzornâ</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu stâs par inzornâ chestis mods:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dome lis mods cuntun segn a vignaran inzornadis!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Non mod: %1&lt;br&gt;Non file: %2&lt;br&gt;Motîf: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjenerazion metadâts falide</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil gjenerâ metadâts par chestis mods:&lt;br&gt;Desideristu continuâ cence chestis mods?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Control dai inzornaments</translation>
     </message>
     <message>
         <source>Error</source>
@@ -7696,7 +7703,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Non mod: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
