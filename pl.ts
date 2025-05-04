@@ -5476,7 +5476,7 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>[Błąd analizy Log4j] Nie udało się przeanalizować zdarzenia dziennika Log4j: %1</translation>
     </message>
 </context>
 <context>
@@ -10488,7 +10488,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="133"/>
         <source>Wrap lines</source>
-        <translation type="unfinished">Zawijaj wiersze</translation>
+        <translation>Zawijaj wiersze</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="143"/>
@@ -10508,7 +10508,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="176"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Wyślij log do serwis typu pastebin skonfigurowany w preferencjach</translation>
+        <translation>Wyślij log do serwisu wklejania skonfigurowanego w preferencjach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="179"/>
@@ -11460,7 +11460,7 @@ Status HTTP: %2</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="72"/>
         <source>%1 [installed]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [zainstalowano]</translation>
     </message>
 </context>
 <context>
@@ -12744,7 +12744,7 @@ Zaktualizuj %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"/>
         <source>No versions available</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie istnieją dostępne wersje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="433"/>
