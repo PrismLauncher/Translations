@@ -759,7 +759,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="84"/>
         <source>All Versions</source>
         <translation>Toate versiunile</translation>
     </message>
@@ -8326,7 +8326,7 @@ Acesta pate fi actualizat doar cu un fisier cu formatul %1.
         <translation type="unfinished">Necunoscut</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="122"/>
         <source>All Versions</source>
         <translation type="unfinished">Toate versiunile</translation>
     </message>

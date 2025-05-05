@@ -775,7 +775,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="84"/>
         <source>All Versions</source>
         <translation>Tüm Sürümler</translation>
     </message>
@@ -8842,7 +8842,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
         <translation>Bilinmeyen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="122"/>
         <source>All Versions</source>
         <translation>Tüm Sürümler</translation>
     </message>

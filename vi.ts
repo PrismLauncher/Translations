@@ -763,7 +763,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="84"/>
         <source>All Versions</source>
         <translation>Tất cả phiên bản</translation>
     </message>
@@ -8477,7 +8477,7 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
         <translation>Không rõ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="122"/>
         <source>All Versions</source>
         <translation>Tất cả phiên bản</translation>
     </message>

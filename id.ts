@@ -759,7 +759,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="84"/>
         <source>All Versions</source>
         <translation>Semua Versi</translation>
     </message>
@@ -8472,7 +8472,7 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
         <translation>Tidak diketahui</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="122"/>
         <source>All Versions</source>
         <translation>Semua Versi</translation>
     </message>

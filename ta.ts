@@ -576,7 +576,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="84"/>
         <source>All Versions</source>
         <translation>அனைத்து பதிப்புகளும்</translation>
     </message>
@@ -7319,7 +7319,7 @@ This can be updated only using a file in %1 format
         <translation>தெரியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="122"/>
         <source>All Versions</source>
         <translation>அனைத்து பதிப்புகளும்</translation>
     </message>
