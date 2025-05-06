@@ -5931,7 +5931,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="396"/>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[測試/除錯] 一則秘密的除錯訊息…</translation>
+        <translation>[測試/除錯] 一則祕密的除錯訊息…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="397"/>
