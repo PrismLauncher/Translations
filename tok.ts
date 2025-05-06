@@ -1127,7 +1127,7 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
         <source>Unable to export instance</source>
-        <translation type="unfinished"></translation>
+        <translation>mi ken ala pana e poki pi ijo musi</translation>
     </message>
 </context>
 <context>
