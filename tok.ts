@@ -1002,7 +1002,7 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;o open e musi Manka la sina ken open kepeken ilo lawa. lipu palisa awen li jo e nimi lawa tan ilo lawa.&lt;/p&gt;&lt;p&gt;ilo lawa li kama jo e nasin poki pi musi Manka. sina ken pana e nimi wawa tawa lipu palisa. nimi wawa li lon:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;nimi wawa 「$INST_NAME」 la, nimi pi musi Manka ni&lt;/li&gt;&lt;li&gt;nimi wawa 「$INST_ID」 la, nimi poki pi musi Manka ni&lt;/li&gt;&lt;li&gt;nimi wawa 「$INST_DIR」 la, nasin poki mama pi musi Manka ni&lt;/li&gt;&lt;li&gt;nimi wawa 「$INST_MC_DIR」 la, nasin poki pi musi Manka ni&lt;/li&gt;&lt;li&gt;nimi wawa 「$INST_JAVA」 la, musi Manka li open kepeken ilo Java ni&lt;/li&gt;&lt;li&gt;nimi wawa 「$INST_JAVA_ARGS」 la, ilo Java ken open kepeken lipu ante. o! taso, lipu pi ilo Java ken ala jo e sitelen lupa!&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;o open musi Manka la, nimi lawa lon tawa li ken open e ni kepeken ilo pi lawa jo.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;tenpo pi kama open musi la o pali e toki wawa pi tenpo kama open. tenpo pi pini musi la o pali e toki wawa pi tenpo pini.&lt;/p&gt;&lt;p&gt;toki wawa ale li pali kepeken nanpa namako ni:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - nimi pi poki musi&lt;/li&gt;&lt;li&gt;$INST_ID - nimi ID pi poki musi (nimi pi poki lipu ona)&lt;/li&gt;&lt;li&gt;$INST_DIR - nasin mama pi poki musi&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - nasin mama pi musi Manka&lt;/li&gt;&lt;li&gt;$INST_JAVA - nasin mama pi ilo Java&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - nanpa namako pi toki wawa pi tenpo open (o awen: ona li jo e lupa nimi la ona li ken ala pali)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;toki wawa pi ilo len li ken open kepeken ilo namako (sama &apos;optirun&apos; lon ilo Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1135,7 +1135,7 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="39"/>
         <source>Filter:</source>
-        <translation>o alasa kepeken nimi seme:</translation>
+        <translation>o alasa kepeken nimi ni:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="75"/>
@@ -1216,12 +1216,12 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">o alasa lukin anu alasa sin e ijo ale pi wile sina (sina wile ala la ijo ale)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="65"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>lipu lili poka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="151"/>
@@ -1237,12 +1237,12 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="96"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="133"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>o lukin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ilo selo pi sitelen lipu (sina wile e ijo awen pi ilo sona la, o awen weka e ni)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
@@ -1253,7 +1253,7 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
         <source>External Tools</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ilo selo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
@@ -3758,7 +3758,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="721"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>o ante e kulupu... (%C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="723"/>
@@ -3768,7 +3768,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="728"/>
         <source>Minec&amp;raft Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>poki pi musi Manka (%r)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="730"/>
@@ -3778,12 +3778,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="735"/>
         <source>Confi&amp;g Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>poki pi nasin pali (%G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="744"/>
         <source>&amp;Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>poki pi ijo musi (%I)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="750"/>
@@ -3848,7 +3848,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="698"/>
         <source>Edit the notes for the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>o ante e lipu pi ijo musi ni.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="704"/>
@@ -3868,23 +3868,23 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="722"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation type="unfinished"></translation>
+        <translation>o ante e kulupu pi ijo musi pi wile sina.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
         <source>Open the selected instance&apos;s Minecraft folder in a file browser.</source>
         <oldsource>Open the selected instance&apos;s minecraft folder in a file browser.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>o open e poki pi ijo musi Manka pi wile sina lon ilo pi alasa lipu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="736"/>
         <source>Open the instance&apos;s config folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>o open e poki pi nasin pali pi ijo musi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="745"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>o open e poki mama pi ijo musi pi wile sina lon ilo pi alasa lipu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="757"/>
@@ -4046,7 +4046,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2245"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation type="unfinished"></translation>
+        <translation>ni ken pakala e ilo Java: poki sina pi ijo musi jo e sitelen &apos;!&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2247"/>
