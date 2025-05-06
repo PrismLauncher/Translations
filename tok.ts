@@ -1640,32 +1640,32 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="90"/>
         <source>Survival</source>
-        <translation type="unfinished"></translation>
+        <translation>jan ma</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="92"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>jan sewi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="94"/>
         <source>Adventure</source>
-        <translation type="unfinished"></translation>
+        <translation>jan alasa</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="96"/>
         <source>Spectator</source>
-        <translation type="unfinished"></translation>
+        <translation>jan lukin</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="101"/>
         <source>Unknown (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>mi sona ala (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="103"/>
         <source>Undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>ala</translation>
     </message>
 </context>
 <context>
