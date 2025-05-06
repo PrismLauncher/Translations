@@ -1576,7 +1576,7 @@ o alasa sin.</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="17"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>mi ken ala pali e poki pi nasin lawa Minecraft</translation>
     </message>
 </context>
 <context>
