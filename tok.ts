@@ -1062,7 +1062,7 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
         <source>Requesting metadata information from %1...</source>
-        <translation>mi alasa e sona tan %1...</translation>
+        <translation>mi alasa e sona sona tan %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="164"/>
@@ -1460,7 +1460,7 @@ o alasa sin.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>nanpa tan tenpo ante pini</translation>
+        <translation>o nanpa tan tenpo ante pini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
@@ -1488,7 +1488,7 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>o alasa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
@@ -1518,7 +1518,7 @@ o alasa sin.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="61"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>nanpa tan tenpo ante pini</translation>
+        <translation>o nanpa tan tenpo ante pini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="62"/>
@@ -1552,7 +1552,7 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="242"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation>lipu selo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="246"/>
@@ -1567,7 +1567,7 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="250"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>sitelen tan: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -1585,13 +1585,13 @@ o alasa sin.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="29"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>o nanpa tan nanpa musi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>o nanpa tan jo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
@@ -5032,7 +5032,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="53"/>
         <source>Sort by Last Updated</source>
-        <translation>nanpa tan tenpo ante pini</translation>
+        <translation>o nanpa tan tenpo ante pini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="54"/>
@@ -5062,7 +5062,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>nanpa tan tenpo ante pini</translation>
+        <translation>o nanpa tan tenpo ante pini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="244"/>
