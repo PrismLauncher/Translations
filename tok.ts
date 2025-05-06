@@ -1576,7 +1576,7 @@ o alasa sin.</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="17"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation>mi ken ala pali e poki pi nasin lawa Minecraft</translation>
+        <translation>mi ken ala pali e poki pi nasin lawa pi musi Manka</translation>
     </message>
 </context>
 <context>
@@ -1749,7 +1749,7 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="75"/>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>o open e poki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
@@ -1849,12 +1849,12 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
         <source>Instance folder copy failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>ni li pakala: o pali sama e poki pi ijo musi</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="57"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>ni li moli: o pali sama e poki pi ijo musi</translation>
     </message>
 </context>
 <context>
@@ -3899,7 +3899,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="767"/>
         <source>Copy the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>o pali sama e ijo musi pi wile sina</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="979"/>
@@ -4490,7 +4490,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="75"/>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>poki</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="77"/>
