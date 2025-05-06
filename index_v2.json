@@ -595,11 +595,11 @@
             "untranslated" : 1141
         },
         "tok" : {
-            "file" : "8a2d4c871c817a073cfb6feb5caddd973585504a.class",
-            "sha1" : "8a2d4c871c817a073cfb6feb5caddd973585504a",
-            "size" : 61136,
-            "translated" : 562,
-            "fuzzy" : 11,
+            "file" : "1cdb6148dc5e634ffdd3f36608c94d027f953552.class",
+            "sha1" : "1cdb6148dc5e634ffdd3f36608c94d027f953552",
+            "size" : 60810,
+            "translated" : 563,
+            "fuzzy" : 10,
             "untranslated" : 814
         },
         "tr" : {
