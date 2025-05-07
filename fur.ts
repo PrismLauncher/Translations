@@ -11050,7 +11050,7 @@ Gjavâ pardabon?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="62"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chest file al vignarà discjariât suntune cartele divierse di chê predefinide, al è probabil che i coventi cussì al so cjariadôr.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
@@ -11070,27 +11070,27 @@ Gjavâ pardabon?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="90"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjenar di version: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="115"/>
         <source>Confirm %1 selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferme selezion di %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="117"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu stâs par discjariâ chest %1:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dome %1 cuntun segn a vignaran discjariâts!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Comute lis dipendencis</translation>
     </message>
 </context>
 <context>
@@ -11118,7 +11118,7 @@ Gjavâ pardabon?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
         <source>View Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualize cartele</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="311"/>
@@ -11131,7 +11131,10 @@ Gjavâ pardabon?</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu stâs par cjariâ in rêt %1 videadis su %1.
+Tu varessis di tornâ a controlâ che no vedin informazions personâls.
+
+Cjariâ pardabon?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="377"/>
@@ -11139,19 +11142,22 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu stâs par cjariâ in rêt la videade selezionade su %1.
+Tu varessis di tornâ a controlâ che no vedi informazions personâls.
+
+Cjariâ pardabon?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="402"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="443"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"/>
         <source>Failed to upload screenshots!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nol è stâ pussibil cjariâ in rêt lis videadis!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"/>
         <source>Unknown error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erôr no cognossût</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
@@ -11168,7 +11174,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="446"/>
         <source>Screenshots upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cjariament in rêt des videadis interot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
@@ -11179,12 +11185,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="419"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il &lt;a href=&quot;%1&quot;&gt;colegament ae videade cjariade in rêt&lt;/a&gt; al è stât copiât intes notis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="462"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il &lt;a href=&quot;%1&quot;&gt;colegament al regjistri cjariât in rêt&lt;/a&gt; al è stât copiât intes notis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="510"/>
@@ -11192,7 +11198,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu stâs par eliminâ %1 videadis.
+Cheste operazion e podarès jessi permanente e a laran pierdudis de cartele.
+
+Eliminâ pardabon?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="515"/>
@@ -11200,7 +11209,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu stâs par eliminâ la videade selezionade.
+Cheste operazion e podarès jessi permanente e e larà pierdude de cartele.
+
+Eliminâ pardabon?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="521"/>
@@ -11210,19 +11222,19 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
         <source>Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Videadis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Copie imagjin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
         <source>Copy File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Copie file(s)</translation>
     </message>
 </context>
 <context>
@@ -11248,12 +11260,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Date di publicazion</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="123"/>
         <source>Select a version to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione une version di instalâ.</translation>
     </message>
 </context>
 <context>
@@ -11261,12 +11273,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione publicazion di instalâ</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione a cuale version publicade che tu desideris inzornâti.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
@@ -11276,14 +11288,16 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Date di publicazion</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="48"/>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione une version di instalâ.
+
+Version instalade in chest moment: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
@@ -11301,7 +11315,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="53"/>
         <source>Executing task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Esecuzion ativitât %1 di %2</translation>
     </message>
 </context>
 <context>
@@ -11314,16 +11328,16 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="290"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Direzion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="292"/>
         <source>Online</source>
-        <translation type="unfinished"></translation>
+        <translation>In rêt</translation>
     </message>
     <message>
         <source>Latency</source>
-        <translation type="unfinished"></translation>
+        <translation>Latence</translation>
     </message>
 </context>
 <context>
@@ -11336,27 +11350,27 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="85"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Direzion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="98"/>
         <source>Reso&amp;urces</source>
-        <translation type="unfinished"></translation>
+        <translation>Riso%rsis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"/>
         <source>Ask to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Domande di discjariâ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="114"/>
         <source>Always download</source>
-        <translation type="unfinished"></translation>
+        <translation>Discjame simpri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="119"/>
         <source>Never download</source>
-        <translation type="unfinished"></translation>
+        <translation>No sta discjariâ mai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="130"/>
@@ -11376,17 +11390,17 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="167"/>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Môf in sù</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="172"/>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Môf in jù</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="177"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Jentre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="182"/>
@@ -11396,7 +11410,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidôrs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="605"/>
@@ -11414,7 +11428,10 @@ Currently installed version: %1</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu stâs par gjavâ &quot;%1&quot;.
+Chest al è permanent e il servidôr al larà pierdût de tô liste par simpri (UNE VORE DI TIMP).
+
+Gjavâ pardabon?</translation>
     </message>
 </context>
 <context>
@@ -11422,17 +11439,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
         <source>&amp;Next &gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Indevant&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
         <source>&lt; &amp;Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; I&amp;ndaûr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <source>&amp;Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
@@ -11442,7 +11459,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurazion svelte di %1</translation>
     </message>
 </context>
 <context>
@@ -11450,27 +11467,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pachets shaders</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Discjame pachets</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
         <source>Download shader packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Discjame pachets shaders da lis plateformis di mods in rêt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prove a controlâ o inzornâ ducj i pachets shaders selezionâts (ducj i pachets di shaders se nol ven selezionât nissun)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
         <source>Change a shader pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambie la version dal pachet di shaders.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="96"/>
@@ -11509,7 +11526,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="235"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>I inzornaments dai pachets di shaders no son disponibii se i metadâts a son disativâts!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="141"/>
@@ -11521,12 +11538,14 @@ Are you sure?</source>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;inzornament di pachets shaders intant che il zûc al è in esecuzion al podarè puartâ ae duplicazion di pachets e al colàs dal zûc.
+Al è pussibil che i files vecjos no vegnin eliminâts viodût che a son doprâts.
+Desideristu pardabon fâlu?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="162"/>
         <source>The shader pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;inzornament dai pachets di shaders al è stât interot!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="166"/>
@@ -11536,12 +11555,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"/>
         <source>All shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ducj i pachets di shaders a son inzornâts! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
         <source>All selected shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ducj i pachets di shaders selezionâts a son inzornâts! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
@@ -11557,15 +11576,16 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="216"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu stâs par gjavâ i metadâts par %1 pachets di shaders.
+Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Discjame shaders</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Discjame shaders da lis plateformis in rêt</translation>
     </message>
 </context>
 <context>
@@ -11573,7 +11593,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinDelete.cpp" line="49"/>
         <source>Deleting skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a eliminâ l&apos;aspiet</translation>
     </message>
 </context>
 <context>
@@ -11581,32 +11601,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="274"/>
         <source>Path is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il percors al è vueit.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="277"/>
         <source>File doesn&apos;t exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file nol esist.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="279"/>
         <source>Not a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nol è un file.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="281"/>
         <source>File is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file nol è leibil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="283"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lis imagjins pal aspiet a scugnin jessi files PNG di 64x64 o di 64x32 pixel.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="287"/>
         <source>Unable to copy file</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil copiâ il file</translation>
     </message>
 </context>
 <context>
@@ -11616,17 +11636,17 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="257"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="271"/>
         <source>Skin Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Cjame aspiet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="33"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="39"/>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Classic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="49"/>
