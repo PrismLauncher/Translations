@@ -1435,13 +1435,13 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>mi ken ala alasa e nanpa pi namako ni. ken la, nanpa anu ilo namako pi musi ni la, ona li lon ala.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>namako li jo e nanpa sin, taso sina ken ala kama jo e ona kepeken CurseForge</translation>
     </message>
 </context>
 <context>
