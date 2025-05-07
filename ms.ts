@@ -723,7 +723,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="84"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
         <translation>Semua Versi</translation>
     </message>
@@ -7705,7 +7705,7 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
         <translation type="unfinished">Tidak diketahui</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="122"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
         <translation type="unfinished">Semua Versi</translation>
     </message>

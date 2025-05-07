@@ -759,7 +759,7 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="84"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
         <translation>Todas as versões</translation>
     </message>
@@ -8568,7 +8568,7 @@ Ele somente poderá ser atualizado usando um arquivo no formato %1
         <translation type="unfinished">Desconhecido</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="122"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
         <translation>Todas as versões</translation>
     </message>

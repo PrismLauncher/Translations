@@ -763,7 +763,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="84"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
         <translation>Minden verzió</translation>
     </message>
@@ -8797,7 +8797,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
         <translation>Ismeretlen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="122"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
         <translation>Minden verzió</translation>
     </message>

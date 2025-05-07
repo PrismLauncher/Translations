@@ -763,7 +763,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="84"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
         <translation>Alle versies</translation>
     </message>
@@ -8671,7 +8671,7 @@ Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
         <translation>Onbekend</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="122"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
         <translation>Alle versies</translation>
     </message>

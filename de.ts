@@ -787,7 +787,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="84"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
         <translation>Alle Versionen</translation>
     </message>
@@ -8901,7 +8901,7 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
         <translation>Unbekannt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="122"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
         <translation>Alle Versionen</translation>
     </message>

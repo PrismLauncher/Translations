@@ -751,7 +751,7 @@ Päivitä sekä käyttöjärjestelmä että %1.</translation>
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="84"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
         <translation>Kaikki versiot</translation>
     </message>
@@ -8275,7 +8275,7 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
         <translation>Tuntematon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="122"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
         <translation>Kaikki versiot</translation>
     </message>

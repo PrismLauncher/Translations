@@ -746,7 +746,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="84"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
         <translation>Alle versioner</translation>
     </message>
@@ -8037,7 +8037,7 @@ Den kan bare oppdateres med en fil i %1-formatet
         <translation type="unfinished">Ukjent</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="122"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
         <translation type="unfinished">Alle versioner</translation>
     </message>
@@ -9274,7 +9274,7 @@ Vennligst oppdater %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="143"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Farge linjer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="166"/>

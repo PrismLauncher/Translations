@@ -767,7 +767,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="84"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
         <translation>Alle Versioner</translation>
     </message>
@@ -8338,7 +8338,7 @@ Dette kan kun opdateres med en fil i %1 format
         <translation>Ukendt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="122"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
         <translation>Alle Versioner</translation>
     </message>

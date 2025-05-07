@@ -787,7 +787,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="84"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
         <translation>Todas las versiones</translation>
     </message>
@@ -8886,7 +8886,7 @@ Solo puede actualizarse mediante un archivo con formato %1
         <translation>Desconocido</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="122"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
         <translation>Todas las versiones</translation>
     </message>

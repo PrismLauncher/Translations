@@ -729,7 +729,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="84"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
         <translation>Lahat ng Bersyon</translation>
     </message>
@@ -7631,7 +7631,7 @@ Ma-uupdate lang ito gamit ng file sa format ng %1
         <translation type="unfinished">Hindi kilala</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="122"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
         <translation type="unfinished">Lahat ng Bersyon</translation>
     </message>

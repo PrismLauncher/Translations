@@ -610,7 +610,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="84"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
         <translation>ყველა ვერსია</translation>
     </message>
@@ -7297,7 +7297,7 @@ This can be updated only using a file in %1 format
         <translation type="unfinished">უცნობი</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="122"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
         <translation type="unfinished">ყველა ვერსია</translation>
     </message>
