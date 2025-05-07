@@ -251,12 +251,12 @@
             "untranslated" : 1071
         },
         "fur" : {
-            "file" : "0798d999e7be6f4010f06a75c07dc9403a20650d.class",
-            "sha1" : "0798d999e7be6f4010f06a75c07dc9403a20650d",
-            "size" : 318290,
-            "translated" : 1608,
+            "file" : "3bbd2449a7b016ffe5fef2549b56064811b3725d.class",
+            "sha1" : "3bbd2449a7b016ffe5fef2549b56064811b3725d",
+            "size" : 329007,
+            "translated" : 1674,
             "fuzzy" : 485,
-            "untranslated" : 311
+            "untranslated" : 245
         },
         "fy" : {
             "file" : "8f572771e36da10cb9db4f261172970586842e3f.class",
@@ -475,12 +475,12 @@
             "untranslated" : 1864
         },
         "nb" : {
-            "file" : "98b2d4ad3d0fd3715e85ffc3bba58b97ba22e5d2.class",
-            "sha1" : "98b2d4ad3d0fd3715e85ffc3bba58b97ba22e5d2",
-            "size" : 210931,
-            "translated" : 1249,
+            "file" : "b578195901fb1f44e3ffd82cdb4a62c53815d015.class",
+            "sha1" : "b578195901fb1f44e3ffd82cdb4a62c53815d015",
+            "size" : 216024,
+            "translated" : 1283,
             "fuzzy" : 327,
-            "untranslated" : 828
+            "untranslated" : 794
         },
         "nl" : {
             "file" : "a5d32160021e7c00418d5de5d493d4a87e90ce44.class",
@@ -595,12 +595,12 @@
             "untranslated" : 1141
         },
         "tok" : {
-            "file" : "e16b041e408c0f86a5d6e02cd3426cd8ed19f384.class",
-            "sha1" : "e16b041e408c0f86a5d6e02cd3426cd8ed19f384",
-            "size" : 66376,
-            "translated" : 602,
+            "file" : "00c94458c2baeba3efaf10afeb1a2f61179ab384.class",
+            "sha1" : "00c94458c2baeba3efaf10afeb1a2f61179ab384",
+            "size" : 67689,
+            "translated" : 611,
             "fuzzy" : 13,
-            "untranslated" : 772
+            "untranslated" : 763
         },
         "tr" : {
             "file" : "1a8c0935fc50be8fc4b7a8b9cc1f1024af92947d.class",
