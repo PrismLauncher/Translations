@@ -1494,13 +1494,13 @@ o alasa sin.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>o lukin: ken la ilo selo sama ilo PolyMC ken ala kepeken CurseForge tan jan pali CurseForge. tan ni la, ilo ni li ken ala kama jo e namako, taso sina ken.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>o alasa o lawa...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="59"/>
@@ -1611,7 +1611,7 @@ o alasa sin.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>o alasa o lawa...</translation>
     </message>
 </context>
 <context>
@@ -1805,7 +1805,7 @@ o alasa sin.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="155"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation>kulupu namako Modrinth</translation>
+        <translation>poki namako Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="156"/>
@@ -1871,17 +1871,18 @@ o alasa sin.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="91"/>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>mi kama jo e poki namako:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="97"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation>kama jo pi poki namako</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="127"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>mi weka e poki namako</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="135"/>
@@ -1958,7 +1959,7 @@ o alasa sin.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="477"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="744"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>kama jo pi namako</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="432"/>
@@ -1983,7 +1984,7 @@ o alasa sin.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="526"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="779"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>mi kama jo e namako...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="534"/>
@@ -2024,7 +2025,7 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="170"/>
         <source>%1 Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>ijo musi %1</translation>
     </message>
 </context>
 <context>
