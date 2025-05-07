@@ -1441,7 +1441,7 @@ o alasa sin.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>namako li jo e nanpa sin, taso sina ken ala kama jo e ona kepeken CurseForge</translation>
+        <translation>namako li jo e nanpa sin, taso sina ken ala kama jo e ona kepeken CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -1576,7 +1576,7 @@ o alasa sin.</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="17"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation>mi ken ala pali e poki pi nasin lawa pi musi Manka</translation>
+        <translation>mi ken ala pali e poki pi nasin lawa pi musi Manka.</translation>
     </message>
 </context>
 <context>
