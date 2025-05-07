@@ -10184,7 +10184,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mod</translation>
     </message>
 </context>
 <context>
@@ -10238,7 +10238,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="166"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Control des dipendencis...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
@@ -10292,7 +10292,8 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="463"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Version API masse vecje!
+Inzorne %1!</translation>
     </message>
 </context>
 <context>
@@ -10316,7 +10317,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="38"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pachet risorsis</translation>
     </message>
 </context>
 <context>
@@ -10341,12 +10342,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;b&gt;Chest progjet al è stât archiviât. Nol ricevarà nissun inzornament futûr, gjavât che l&apos;autôr nol decidi di &quot;disarchiviâ&quot; il progjet.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="228"/>
         <source>Donate information: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Donazions: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="241"/>
@@ -10371,7 +10372,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="251"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="272"/>
@@ -10469,7 +10470,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="38"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pachet shaders</translation>
     </message>
 </context>
 <context>
@@ -10493,7 +10494,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="40"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pachet textures</translation>
     </message>
 </context>
 <context>
@@ -10912,7 +10913,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
         <source>Failed to check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Control inzornaments falît</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="184"/>
@@ -10922,7 +10923,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="217"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Control des dipendencis...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="237"/>
@@ -10932,7 +10933,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="273"/>
         <source>Looking for metadata</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Daûr a cirî i metadâts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="318"/>
@@ -10942,53 +10943,53 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="377"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Daûr a gjenerâ metadâts...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="430"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nol è stât pussibil cjatâ une version valide sui furnidôrs di mods selezionâts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="441"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La mod e je stade disativade parcè che e podarès jessi za instalade.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="447"/>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Furnidôr: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="450"/>
         <source>Old version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Version vecje: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="453"/>
         <source>New version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gnove version: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="457"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gnûf gjenar di version: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="463"/>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Domandât di: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="465"/>
         <source>Required by:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Domandât di:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="479"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Regjistri modifichis de ultime version</translation>
     </message>
 </context>
 <context>
@@ -11012,7 +11013,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="44"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La mod e je stade disativade parcè che e podarès jessi za instalade.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"/>
@@ -11032,17 +11033,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Furnidôr: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="73"/>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Domandât di: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="75"/>
         <source>Required by:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Domandât di:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="90"/>
@@ -11085,7 +11086,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="66"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Elimine</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="71"/>
@@ -11134,7 +11135,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="461"/>
         <source>Upload finished</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cjariament copletât</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="393"/>
@@ -12494,7 +12495,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Torne cjame</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="115"/>
@@ -13034,7 +13035,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="118"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Elimine</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="123"/>
