@@ -74,6 +74,14 @@
             "fuzzy" : 0,
             "untranslated" : 1256
         },
+        "cop" : {
+            "file" : "1f85a1d30cf3c90c78366f3019a24d11fd524ea5.class",
+            "sha1" : "1f85a1d30cf3c90c78366f3019a24d11fd524ea5",
+            "size" : 24,
+            "translated" : 0,
+            "fuzzy" : 0,
+            "untranslated" : 2404
+        },
         "cs" : {
             "file" : "7d8bd350325982f8c870cda4ae82f27cb60a5e02.class",
             "sha1" : "7d8bd350325982f8c870cda4ae82f27cb60a5e02",
