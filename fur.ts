@@ -12275,7 +12275,8 @@ Desideristu fâlu pardabon?</translation>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="224"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu stâs par gjavâ i metadâts par %1 pachets di tramis.
+Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Download packs</source>
@@ -12283,7 +12284,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Discjame i pachets di tramis da lis plateformis in rêt</translation>
     </message>
 </context>
 <context>
@@ -12291,43 +12292,43 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="37"/>
         <source>&amp;Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Iconis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="62"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualize la cartele dai temis des iconis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="80"/>
         <source>&amp;Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Widgets</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="105"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualize la cartele dai temis dai widgets.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="123"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="147"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il gjat al ven fûr tal fonts e, tant che impostazion predefinide, nol ven mostrât. Tu lu puedis viodi nome se tu frachis il boton Gjat te sbare dai struments.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="126"/>
         <source>C&amp;at</source>
-        <translation type="unfinished"></translation>
+        <translation>Gj&amp;at</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="154"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualize la cartele dai pachets di gjats.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="189"/>
         <source>Refresh all</source>
-        <translation type="unfinished"></translation>
+        <translation>Inzorne dut</translation>
     </message>
 </context>
 <context>
@@ -12335,27 +12336,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>PagjineMagjiche</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="20"/>
         <source>Select the Theme you wish to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione il teme che tu desideris doprâ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sugjeriment: il gjat al ven fûr tal fonts e, come impostazion predefinide, nol ven mostrât. Al è visibil nome se tu frachis il boton Gjat te sbare dai struments.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
         <source> Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation> Anteprime:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="331"/>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il gjat al ven fûr tal fonts e nol covente a nuie, al è nome biel di viodi.</translation>
     </message>
 </context>
 <context>
@@ -12366,7 +12367,10 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="unfinished"></translation>
+        <translation>%1:
+%2 tradot
+%3 di verificâ
+%4 totâl</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="391"/>
@@ -12376,17 +12380,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
         <source>Completeness</source>
-        <translation type="unfinished"></translation>
+        <translation>Completece</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
         <source>The native language name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il non de marilenghe.</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation type="unfinished"></translation>
+        <translation>La completece e je la percentuâl di stringhis voltadis dal dut, gjavant fûr chês induvinadis in automatic.</translation>
     </message>
 </context>
 <context>
@@ -12394,43 +12398,43 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="14"/>
         <source>Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Inzornament disponibil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="73"/>
         <source>A new version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>E je disponibile une gnove version!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="43"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>La version %1 e je disponibile - tu tu âs %2. Desideristu discjariâle daurman?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
         <source>Release Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Notis di publicazion:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
         <source>Skip This Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Salte cheste version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="129"/>
         <source>Remind Me Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Visimi plui tart</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="142"/>
         <source>Install Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Instale inzornament</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="41"/>
         <source>A new version of %1 is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>E je disponibile une gnove version di %1!</translation>
     </message>
 </context>
 <context>
@@ -12438,7 +12442,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="20"/>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a creâ une istance de version %1</translation>
     </message>
 </context>
 <context>
@@ -12448,28 +12452,31 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
+        <translation>La assegnazion massime di memorie e supere il valôr supuartât.
+La instalazion selezionade di Java e je 32-bit e nol supuarte plui di 2048MiB di RAM.
+Par vie di chest motîf al è pussibil che la istance no si invii.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation type="unfinished"></translation>
+        <translation>La version principâl di Java no je compatibile. Lis robis a podaressin no funzionâ.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cheste istance no je compatibile cu la version %1 di Java.
+Par plasê passe a une di chestis versions di Java par cheste istance:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="84"/>
         <source>Java version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Java version %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Va aes impostazions di Java de istance par cambiâ la tô version di Java o disativâ il control di compatibilitât di Java se tu sâs ce che tu fasis.</translation>
     </message>
 </context>
 <context>
@@ -12477,7 +12484,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="46"/>
         <source>No versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>In chest moment no je disponibile nissune version.</translation>
     </message>
 </context>
 <context>
@@ -12500,47 +12507,47 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="147"/>
         <source>Customize</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalize</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="155"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifiche</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="163"/>
         <source>Revert</source>
-        <translation type="unfinished"></translation>
+        <translation>Disfe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
         <source>Add to Minecraft.jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Zonte a Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
         <source>Add a mod into the Minecraft jar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zonte une mod tal file jar di Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
         <source>Replace Minecraft.jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Sostituìs Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
         <source>Add Agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Zonte agjents</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="195"/>
         <source>Add Java agents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zonte agjents Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="200"/>
         <source>Add Empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Zonte vueit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"/>
@@ -12555,7 +12562,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="118"/>
         <source>Change version of the selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambie la version dal component selezionât.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
@@ -12565,7 +12572,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
         <source>Make the selected component apply sooner.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fâs in mût che il component selezionât al vegni aplicât prime.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
@@ -12575,27 +12582,27 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
         <source>Make the selected component apply later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fâs in mût che il component selezionât al vegni aplicât dopo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
         <source>Remove selected component from the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjave il component selezionât de istance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
         <source>Customize selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalize il component selezionât.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
         <source>Edit selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifiche il component selezionât.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"/>
         <source>Revert the selected component to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripristine la impostazion predefinide dal component selezionât.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
@@ -12605,57 +12612,57 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
         <source>Install a mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instale un cjariadôr di mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
         <source>Add an empty custom component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zonte un component personalizât vueit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"/>
         <source>Reload all components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Torne cjame ducj i components.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="216"/>
         <source>Download all</source>
-        <translation type="unfinished"></translation>
+        <translation>Discjame ducj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
         <source>Download the files needed to launch the instance now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Discjame cumò ducj i files necessaris par inviâ la istance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
         <source>Open .minecraft</source>
-        <translation type="unfinished"></translation>
+        <translation>Vierç .minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="227"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vierç la cartele .minecraft de istance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
         <source>Open libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Vierç librariis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vierç la cartele des librariis locâls de istance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
         <source>Import Components</source>
-        <translation type="unfinished"></translation>
+        <translation>Impuarte components</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="243"/>
         <source>Import existing component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impuarte i files JSON dai components esistents.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="189"/>
@@ -12665,22 +12672,22 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="205"/>
         <source>%1 possibly has issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>Al è pussibil che %1 al vedi problemis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="208"/>
         <source>%1 has issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 al à problemis!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="220"/>
         <source>Error: </source>
-        <translation type="unfinished"></translation>
+        <translation>Erôr: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="222"/>
         <source>Warning: </source>
-        <translation type="unfinished"></translation>
+        <translation>Atenzion: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="254"/>
@@ -12709,62 +12716,65 @@ Please switch to one of the following Java versions for this instance:</source>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu stâs par gjavâ &quot;%1&quot;.
+Chest al è permanent e al gjavarà dal dut il component personalizât.
+
+Gjavâ pardabon?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"/>
         <source>Couldn&apos;t remove file</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil gjavâ il file</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
         <source>Select jar mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione lis mods jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
         <source>Minecraft.jar mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods di Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
         <source>Minecraft.jar replacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Sostituzion di Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Java agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Agjents Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
         <source>Select jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione il jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="322"/>
         <source>Select components</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione components</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="322"/>
         <source>Components</source>
-        <translation type="unfinished"></translation>
+        <translation>Components</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Failed to import components</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil impuartâ components</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="328"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation type="unfinished"></translation>
+        <translation>Nol è pussibil impuartâ cualchi component. Controle i regjistris pai detais</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Select agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione agjents</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="394"/>
@@ -12774,12 +12784,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="396"/>
         <source>No intermediary mappings versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pal moment no son disponibilis versions di mapaduris intermediis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil cjariâ o discjariâ lis listis des versions des mapaduris intermediis!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="427"/>
@@ -12787,17 +12797,18 @@ Are you sure?</source>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil discjariâ Minecraft o inzornâ lis istancis fintant che no tu zontis almancul un account.
+Par plasê zonte un account Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="507"/>
         <source>Error updating instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Erôr tal inzornâ la istance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="567"/>
         <source>Confirm Reversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferme il tornâ indaûr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="568"/>
@@ -12805,7 +12816,10 @@ Please add your Microsoft or Mojang account.</oldsource>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu stâs par tornâ al stât di prime di &quot;%1&quot;.
+Chest al è permanent e al fasarà tornâ indaûr dal dut la tô personalizazion.
+
+Pardabon tornâ indaûr?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="60"/>
@@ -12828,7 +12842,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="114"/>
         <source>Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Ram</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="116"/>
@@ -12838,89 +12852,89 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="118"/>
         <source>Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>Architeture</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="120"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Percors</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
         <source>Java Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Non di Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
         <source>Major Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version principâl</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
         <source>Released</source>
-        <translation type="unfinished"></translation>
+        <translation>Publicade</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
         <source>The name of the version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il non de version.</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
         <source>Minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version di Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="135"/>
         <source>The version&apos;s branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Il ram de version</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
         <source>The version&apos;s type</source>
-        <translation type="unfinished"></translation>
+        <translation>Il gjenar di version</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
         <source>CPU Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>Architeture de CPU</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
         <source>Filesystem path to this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Percors tal filesystem di cheste version</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Il non alternatîf de version di Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>La version principâl di Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
         <source>Release date of this version</source>
-        <translation type="unfinished"></translation>
+        <translation>La date di publicazion di cheste version</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="166"/>
         <source>%1 (installed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (instalade)</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="194"/>
         <source>Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Racomandade</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="198"/>
         <source>Latest</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultime version</translation>
     </message>
 </context>
 <context>
@@ -12938,12 +12952,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
         <source>Choose Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Sielç la version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="99"/>
         <source>Reloads the version list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Al torne a cjariâ la liste des versions.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="100"/>
@@ -12956,7 +12970,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Cîr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
@@ -12967,7 +12981,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
         <source>List update failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Inzornament de liste falît:
+%1</translation>
     </message>
 </context>
 <context>
@@ -12975,7 +12990,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="220"/>
         <source>Customize toolbar actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalize lis azions de sbare dai struments</translation>
     </message>
 </context>
 <context>
@@ -12983,24 +12998,26 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="202"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chest mont al è colegât in mût simbolic di cualchi altre bande.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="205"/>
         <source>
 This world is hard linked elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Chest mont al è colegât in mût rigjit di cualchi altre bande.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="220"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Atenzion: chest mont al è colegât in mût simbolic di cualchi altre bande. La sô modifiche e cambiarà ancje l&apos;origjinâl.
+Percors canonic: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="225"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atenzion: chest mont al è colegât in mût rigjit di cualchi altre bande. La sô modifiche e cambiarà ancje l&apos;origjinâl.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="262"/>
@@ -13010,12 +13027,12 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
         <source>Game Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalitât di zûc</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="266"/>
         <source>Last Played</source>
-        <translation type="unfinished"></translation>
+        <translation>Zuiât la ultime volte</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
@@ -13032,27 +13049,27 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="280"/>
         <source>The name of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il non dal mont.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
         <source>Game mode of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>La modalitât di zûc dal mont.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="284"/>
         <source>Date and time the world was last played.</source>
-        <translation type="unfinished"></translation>
+        <translation>Date e ore de ultime volte che tu âs zuiât tal mont.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
         <source>Size of the world on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimension su disc dal mont.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
         <source>Information and warnings about the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazions e avertiments sul mont.</translation>
     </message>
 </context>
 <context>
@@ -13090,12 +13107,12 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="123"/>
         <source>MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="128"/>
         <source>Copy Seed</source>
-        <translation type="unfinished"></translation>
+        <translation>Copie semence</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="133"/>
@@ -13110,27 +13127,27 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="143"/>
         <source>Reset Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ristabilìs icone</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="146"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjave la icone dal mont par fâle tornâ a gjenerâ al prossim cjariament.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
         <source>Datapacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pachets di dâts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
         <source>Manage datapacks inside the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjestìs i pachets di dâts dentri dal mont.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="59"/>
         <source>Worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Monts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="142"/>
@@ -13140,55 +13157,58 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="220"/>
         <source>Open World Datapacks Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vierç la cartele dai pachets di dâts dal mont</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="274"/>
         <source>Open World in MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>Vierç il mont in MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="294"/>
         <source>No MCEdit found or set up!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nissun MCEdit cjatât o configurât!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="295"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>No tu âs configurât MCEdit opûr al è stât spostât.
+Tu puedis configurâlu tes impostazions globâls.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="301"/>
         <source>MCEdit failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil inviâ MCEdit!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="302"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit nol è rivât a inviâsi.
+Al è pussibil che al coventi tornâ a instalâlu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="353"/>
         <source>Select a Minecraft world zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione un file zip di mont di Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="353"/>
         <source>Minecraft World Zip File</source>
-        <translation type="unfinished"></translation>
+        <translation>File Zip di mont di Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="388"/>
         <source>Copy World</source>
-        <translation type="unfinished"></translation>
+        <translation>Copie mont</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="373"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>La modifiche di un mont intant che Minecraft al è in esecuzion al è pericolôs.
+Desideristu continuâ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="191"/>
@@ -13201,28 +13221,31 @@ Do you wish to proceed?</source>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu stâs par eliminâ &quot;%1&quot;.
+Al è pussibil pierdi il mont par simpri (UNE VORE DI TIMP).
+
+Eliminâ pardabon?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="395"/>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="416"/>
         <source>World name</source>
-        <translation type="unfinished"></translation>
+        <translation>Non dal mont</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="395"/>
         <source>Enter a new name for the copy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserìs il gnûf non pe copie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambie non al mont</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="416"/>
         <source>Enter a new world name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserìs un gnûf non di mont.</translation>
     </message>
 </context>
 <context>
@@ -13230,53 +13253,53 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a otignî la autorizazion par jentrâ tai servizis %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="66"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil otignî la autorizazion pai servizis %1. Erôr %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="69"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Erôr STS no cognossût pai servizis %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="73"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil otignî la autorizazion pai servizis %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="81"/>
         <source>Could not parse authorization response for access to %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil analizâ la rispueste di autorizazion par jentrâ tai servizis %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="87"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il servidôr al à modificât l&apos;hash utent de autorizazion %1 te rispueste. Alc al è sbaliât.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
         <source>Got authorization to access %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Otignude autorizazion par jentrâ su %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="104"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil analizâ come JSON la rispueste di erôr de autorizazion %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="112"/>
         <source>XErr element is missing from %1 authorization error response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Al mancje l&apos;element XErr te rispueste di erôr de autorizazion %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chest account Microsoft nol à un profîl XBox Live. Prime, compre il zûc su %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
