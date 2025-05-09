@@ -816,7 +816,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ваш каталог / tmp ў дадзены момант падлучаны з уключаным сцягам &apos;noexec&apos;.
+Некаторыя версіі Minecraft могуць не запускацца.
+
+Вы можаце вырашыць гэтую праблему, перамантаваць / tmp як &quot;exec&quot; або усталяваўшы аргумент java. io. tmpdir JVM ў каталог, даступны для запісу, у файлавай сістэме, дзе ўсталяваны сцяг &quot;exec&quot; (напрыклад, /home/user/.local/tmp).
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -2125,7 +2129,12 @@ Some versions of Minecraft may not launch.
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">У гэтым тэксце выкарыстоўваюцца наступныя сімвалы-запаўняльнікі:
+{name} - Назва мода
+{mod_id} - Iдэнтыфікатар мода
+{url} - URL-адрас мода
+{version} - Версія мода
+{authors} - Аўтары мода</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -2329,17 +2338,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
         <source>Change a resource&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Змяніце версію рэсурспаку.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>View Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Паглядзець хатнюю старонку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
         <source>View the homepages of all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Праглядзець хатнія старонкі ўсіх выбраных элементаў.</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -2369,7 +2378,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Адключыць выбраны элемент</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2734,12 +2743,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Для гэтага рэсурсу не знойдзена сапраўдная версія. Верагодна, яна недаступна для сапраўднай версіі гульні/загрузчыка модаў.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для гэтага рэсурсу не знойдзена сапраўдная версія. Магчыма, яна недаступна для сапраўднай версіі гульні.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
@@ -2749,12 +2758,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Рэсурс мае новае абнаўленне, але яго нельга спампаваць з дапамогай CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Не ўстаноўлены</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
@@ -2763,7 +2772,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Падрыхтоўка модаў для CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -2975,7 +2984,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры фільтра</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -3168,7 +3177,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Пошук...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
@@ -3369,7 +3378,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="107"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
@@ -4038,27 +4047,27 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Праверка двайковага шляху Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Пошук двайковага шляху Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Не ўдалося знайсці двайковы шлях Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Збор тэчак для сімвалічнай спасылкі</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Сімвалізацыя бінарнага шляху Java</translation>
     </message>
 </context>
 <context>
@@ -4233,13 +4242,14 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Пацвердзіце выдзяленне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="113"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы збіраецеся выдаліць усталяванне Java пад назвай &quot;%1&quot;.
+Вы ўпэўнены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="59"/>
@@ -4274,7 +4284,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Выяўлена 32-бітная Java</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -4283,7 +4293,12 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Вы выбралі 32-разрадную ўстаноўку Java, але выдзелілі больш за 2048 МБ у якасці максімальнай памяці.
+%1 не зможа запусціць Minecraft.
+Вы хочаце працягнуць?
+
+Вы можаце змяніць версію Java у наладах пазней.
+</translation>
     </message>
     <message>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
@@ -4292,7 +4307,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Вы альбо не выбралі версію Java, альбо выбралі тую, якая не працуе.
+%1 не зможа запусціць Minecraft.
+Вы хочаце працягнуць без функцыянальнай версіі Java?
+
+Вы можаце змяніць версію Java у наладах пазней.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="228"/>
@@ -4321,12 +4341,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
         <source>Java Insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>У&amp;станоўка Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
         <source>Auto-&amp;detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Аўтаматычнае вызначэнне версіі Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="65"/>
@@ -4341,22 +4361,22 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="81"/>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>Аўтаматычна спампоўвае і выбірае зборку Java, рэкамендаваную Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="84"/>
         <source>Auto-download &amp;Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Аўтаматычная спампоўка &amp;Mojang Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="91"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Калі ўключана, праграма запуску не прапануе вам выбраць версію Java, калі яна не знойдзена пры запуску.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="94"/>
         <source>Skip Java setup prompt on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Прапусціць запыт наладкі Java пры запуску</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="101"/>
@@ -4376,7 +4396,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="129"/>
         <source>PermGen (Java 7 and earlier):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">PermGen (Java 7 і раней):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="165"/>
@@ -4413,12 +4433,12 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Аўтаматычнае вызначэнне Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
         <source>Select a Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберыце версію Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
@@ -4451,7 +4471,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы перавышаеце максімальны аб&apos;ём, які падтрымліваецца 32-разраднымі ўсталёўкамі Java.</translation>
     </message>
 </context>
 <context>
@@ -4465,7 +4485,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Калі ласка, выберыце, колькі памяці вылучыць асобнікам і ці павінен Prism Launcher кіраваць Java аўтаматычна або ўручную.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -4486,7 +4506,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Выяўлена 32-бітная Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
@@ -4496,7 +4516,12 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Вы выбралі 32-разрадную ўстаноўку Java, але выдзелілі больш за 2048 МБ у якасці максімальнай памяці.
+%1 не зможа запусціць Minecraft.
+Вы хочаце працягнуць?
+
+Вы можаце змяніць версію Java у наладах пазней.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
