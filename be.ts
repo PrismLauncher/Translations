@@ -4536,7 +4536,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вы альбо не выбралі версію Java, альбо выбралі тую, якая не працуе.
+%1 не зможа запусціць Minecraft.
+Вы хочаце працягнуць без функцыянальнай версіі Java?
+
+Вы можаце змяніць версію Java у наладах пазней.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="353"/>
@@ -4591,7 +4596,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Аўтаматычнае вызначэнне Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
@@ -4611,7 +4616,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вы перавышаеце максімальны аб&apos;ём, які падтрымліваецца 32-разраднымі ўсталёўкамі Java.</translation>
     </message>
 </context>
 <context>
@@ -6562,7 +6567,7 @@ Please create a new instance before attempting to install this resource again.</
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1388"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пацвердзіце выдзяленне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1389"/>
@@ -8089,7 +8094,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не ўстаноўлены</translation>
     </message>
     <message>
         <source>New version: %1</source>
@@ -8152,7 +8157,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="143"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не ўстаноўлены</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="145"/>
@@ -8162,12 +8167,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Для гэтага рэсурсу не знойдзена сапраўдная версія. Верагодна, яна недаступна для сапраўднай версіі гульні/загрузчыка модаў.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Для гэтага рэсурсу не знойдзена сапраўдная версія. Магчыма, яна недаступна для сапраўднай версіі гульні.</translation>
     </message>
     <message>
         <source>Preparing mods for Modrinth...</source>
@@ -8390,7 +8395,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Параметры фільтра</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
@@ -8808,7 +8813,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="287"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пацвердзіце выдзяленне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="288"/>
@@ -11118,7 +11123,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Параметры фільтра</translation>
     </message>
 </context>
 <context>
@@ -11219,7 +11224,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="237"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не ўстаноўлены</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="273"/>
@@ -11474,7 +11479,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="521"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пацвердзіце выдзяленне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
@@ -12040,7 +12045,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="343"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пацвердзіце выдзяленне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="344"/>
@@ -13178,7 +13183,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ОК</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
@@ -13443,7 +13448,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="191"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пацвердзіце выдзяленне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="192"/>

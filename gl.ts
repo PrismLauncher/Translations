@@ -3594,7 +3594,7 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="150"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Instalar Loader</translation>
     </message>
 </context>
 <context>
@@ -8410,7 +8410,7 @@ Are you sure you want to do this?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comprobar actualizacións</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="285"/>
@@ -11792,7 +11792,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comprobar actualizacións</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="218"/>
@@ -12529,7 +12529,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comprobar actualizacións</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="215"/>
