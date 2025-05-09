@@ -10879,7 +10879,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
         <source>mod</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mod</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
@@ -11435,7 +11435,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">recursos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="49"/>
