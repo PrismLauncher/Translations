@@ -2349,7 +2349,7 @@ Vuelistu pardabon fâlu?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
         <source>Aborted</source>
-        <translation type="unfinished">Interot</translation>
+        <translation>Interot</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
@@ -2385,12 +2385,12 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="140"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Ordene par non</translation>
+        <translation>Ordene par non</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="141"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Ordene par version di zûc</translation>
+        <translation>Ordene par version di zûc</translation>
     </message>
 </context>
 <context>
@@ -2403,7 +2403,7 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Cîr e filtre...</translation>
+        <translation>Cîr e filtre...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
@@ -2504,7 +2504,7 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
         <source>Unknown</source>
-        <translation type="unfinished">No cognossût</translation>
+        <translation>No cognossût</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
@@ -2526,7 +2526,7 @@ Par plasê, prove di gnûf.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="335"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Impussibil interpretâ il manifest dal pachet:
+        <translation>Impussibil interpretâ il manifest dal pachet:
 </translation>
     </message>
     <message>
@@ -2547,17 +2547,17 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Impussibil otignî la tabele dai metadâts locâi par %1</translation>
+        <translation>Impussibil otignî la tabele dai metadâts locâi par %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="306"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Impussibil cjatâ une version pal cjariadôr %1</translation>
+        <translation>Impussibil cjatâ une version pal cjariadôr %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Nissune version di cjariadôr configurade pal modpack!</translation>
+        <translation>Nissune version di cjariadôr configurade pal modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="347"/>
@@ -2591,13 +2591,13 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="504"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Cjatadis mods blocadis</translation>
+        <translation>Cjatadis mods blocadis</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="505"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Chescj files no son disponibii di discjariâ midiant inviadôrs di tierçs.&lt;br/&gt;Tu varâs di discjariâju e zontâju a man ae istance.</translation>
+        <translation>Chescj files no son disponibii di discjariâ midiant inviadôrs di tierçs.&lt;br/&gt;Tu varâs di discjariâju e zontâju a man ae istance.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="527"/>
@@ -2607,7 +2607,7 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="576"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 di %2 completâts</translation>
+        <translation>%1 di %2 completâts</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="589"/>
@@ -2622,7 +2622,7 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="581"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Daûr a discjariâ lis mods...</translation>
+        <translation>Daûr a discjariâ lis mods...</translation>
     </message>
 </context>
 <context>
@@ -2692,7 +2692,7 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="94"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Version selezionade:</translation>
+        <translation>Version selezionade:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
@@ -2709,7 +2709,7 @@ Par plasê, prove di gnûf.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Cîr e filtre...</translation>
+        <translation>Cîr e filtre...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
@@ -2721,7 +2721,7 @@ Par plasê, prove di gnûf.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Ordene par popolaritât</translation>
+        <translation>Ordene par popolaritât</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
@@ -2733,7 +2733,7 @@ Par plasê, prove di gnûf.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="85"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ordene par non</translation>
+        <translation>Ordene par non</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="86"/>
@@ -2756,7 +2756,7 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="232"/>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="310"/>
@@ -2803,7 +2803,7 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="73"/>
         <source>Value</source>
-        <translation type="unfinished">Valôr</translation>
+        <translation>Valôr</translation>
     </message>
 </context>
 <context>
@@ -2907,12 +2907,12 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"/>
         <source>OK</source>
-        <translation type="unfinished">Va ben</translation>
+        <translation>Va ben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="88"/>
@@ -2936,7 +2936,7 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
-        <translation type="unfinished">Sgarfe</translation>
+        <translation>Sgarfe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
@@ -2975,7 +2975,7 @@ Par plasê, prove di gnûf.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
@@ -2990,7 +2990,7 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
         <source>Abort</source>
-        <translation type="unfinished">Interomp</translation>
+        <translation>Interomp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"/>
@@ -3001,7 +3001,7 @@ Par plasê, prove di gnûf.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished">Pachet Modrinth</translation>
+        <translation>Pachet Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
@@ -3040,12 +3040,12 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
-        <translation type="unfinished">Va ben</translation>
+        <translation>Va ben</translation>
     </message>
 </context>
 <context>
@@ -3088,7 +3088,7 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="101"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Inzorne</translation>
+        <translation>&amp;Inzorne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="107"/>
@@ -3098,32 +3098,32 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="144"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="150"/>
@@ -3136,7 +3136,7 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="44"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">In chest moment no je disponibile nissune version par Minecraft %1</translation>
+        <translation>In chest moment no je disponibile nissune version par Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3233,7 +3233,7 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="239"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Impussibil risolvi i permès par %1</translation>
+        <translation>Impussibil risolvi i permès par %1</translation>
     </message>
 </context>
 <context>
@@ -3276,7 +3276,7 @@ Par plasê, prove di gnûf.</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">Se ativât, l&apos;inviadôr nol verificarà la compatibilitât di une istance cu la version di Java selezionade.</translation>
+        <translation>Se ativât, l&apos;inviadôr nol verificarà la compatibilitât di une istance cu la version di Java selezionade.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
@@ -3292,7 +3292,7 @@ Par plasê, prove di gnûf.</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">La cuantitât massime di memorie che Minecraft al pues doprâ.</translation>
+        <translation>La cuantitât massime di memorie che Minecraft al pues doprâ.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
@@ -3308,7 +3308,7 @@ Par plasê, prove di gnûf.</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Sgarfe</translation>
+        <translation>Sgarfe</translation>
     </message>
     <message>
         <source>Download Java</source>
@@ -3416,7 +3416,7 @@ Par plasê, prove di gnûf.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Variis</translation>
+        <translation>Variis</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
@@ -3539,7 +3539,7 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="55"/>
         <source>Settings</source>
-        <translation type="unfinished">Impostazions</translation>
+        <translation>Impostazions</translation>
     </message>
 </context>
 <context>
@@ -3578,7 +3578,7 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
         <source>Help</source>
-        <translation type="unfinished">Jutori</translation>
+        <translation>Jutori</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
@@ -3598,7 +3598,7 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"/>
         <source>Close</source>
-        <translation type="unfinished">Siere</translation>
+        <translation>Siere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
@@ -3621,7 +3621,7 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Profiladôr interot</translation>
+        <translation>Profiladôr interot</translation>
     </message>
 </context>
 <context>
@@ -3634,7 +3634,7 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Profiladôr interot</translation>
+        <translation>Profiladôr interot</translation>
     </message>
 </context>
 <context>
@@ -3687,7 +3687,7 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Inzorne</translation>
+        <translation>&amp;Inzorne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="214"/>
@@ -3697,7 +3697,7 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="215"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="279"/>
@@ -3718,23 +3718,23 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="289"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="320"/>
         <source>Install Java</source>
-        <translation type="unfinished">Instale Java</translation>
+        <translation>Instale Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Impussibil determinâ il gjenar di discjariament Java!</translation>
+        <translation>Impussibil determinâ il gjenar di discjariament Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="316"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="327"/>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="332"/>
         <source>Abort</source>
-        <translation type="unfinished">Interomp</translation>
+        <translation>Interomp</translation>
     </message>
 </context>
 <context>
@@ -3865,7 +3865,7 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="119"/>
         <source>Refresh</source>
-        <translation type="unfinished">Inzorne</translation>
+        <translation>Inzorne</translation>
     </message>
     <message>
         <source>&amp;Auto-detect...</source>
@@ -3879,7 +3879,7 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Sgarfe</translation>
+        <translation>Sgarfe</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
@@ -4006,16 +4006,16 @@ Tu puedis cambiâ version di Java tes impostazions plui indevant.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="228"/>
         <source>Find Java executable</source>
-        <translation type="unfinished">Cjate l&apos;eseguibil di Java</translation>
+        <translation>Cjate l&apos;eseguibil di Java</translation>
     </message>
     <message>
         <source>Memory</source>
-        <translation type="unfinished">Memorie</translation>
+        <translation>Memorie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">La cuantitât massime di memorie che Minecraft al pues doprâ.</translation>
+        <translation>La cuantitât massime di memorie che Minecraft al pues doprâ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="136"/>
@@ -4025,7 +4025,7 @@ Tu puedis cambiâ version di Java tes impostazions plui indevant.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulari</translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
@@ -4070,7 +4070,7 @@ Tu puedis cambiâ version di Java tes impostazions plui indevant.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="101"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">Se ativât, l&apos;inviadôr nol verificarà la compatibilitât di une istance cu la version di Java selezionade.</translation>
+        <translation>Se ativât, l&apos;inviadôr nol verificarà la compatibilitât di une istance cu la version di Java selezionade.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="104"/>
@@ -4090,12 +4090,12 @@ Tu puedis cambiâ version di Java tes impostazions plui indevant.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="165"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Assegnazion massime di memorie:</translation>
+        <translation>Assegnazion massime di memorie:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="207"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">La cuantitât di memorie par inviâ Minecraft.</translation>
+        <translation>La cuantitât di memorie par inviâ Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="235"/>
@@ -4105,20 +4105,20 @@ Tu puedis cambiâ version di Java tes impostazions plui indevant.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">La cuantitât di memorie disponibile par memorizâ lis classis di Java cjariadis.</translation>
+        <translation>La cuantitât di memorie disponibile par memorizâ lis classis di Java cjariadis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="47"/>
         <source>Browse</source>
-        <translation type="unfinished">Sgarfe</translation>
+        <translation>Sgarfe</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">Auto-discjame Java di Mojang</translation>
+        <translation>Auto-discjame Java di Mojang</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="unfinished">Auto-rileve la version di Java</translation>
+        <translation>Auto-rileve la version di Java</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
@@ -4132,7 +4132,7 @@ Tu puedis cambiâ version di Java tes impostazions plui indevant.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished">Conferme selezion</translation>
+        <translation>Conferme selezion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="278"/>
@@ -4168,7 +4168,7 @@ Verifiche che il valôr massim di memorie al sedi plui piçul.</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="84"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
@@ -4182,12 +4182,12 @@ Verifiche che il valôr massim di memorie al sedi plui piçul.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation type="unfinished">Discjame Java</translation>
+        <translation>Discjame Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished">Rilevât Java a 32-bit</translation>
+        <translation>Rilevât Java a 32-bit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
@@ -4197,7 +4197,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Tu âs selezionade une instalazion di Java a 32-bit, ma tu âs assegnât plui di 2048MiB come memorie masisme.
+        <translation>Tu âs selezionade une instalazion di Java a 32-bit, ma tu âs assegnât plui di 2048MiB come memorie massime.
 %1 nol rivarà a inviâ Minecraft.
 Desideristu continuâ?
 
@@ -4207,7 +4207,7 @@ Tu puedis cambiâ la version di Java tes impostazions plui indevant.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
         <source>No Java version selected</source>
-        <translation type="unfinished">Nissune version di Java selezionade</translation>
+        <translation>Nissune version di Java selezionade</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
@@ -4227,17 +4227,17 @@ Tu puedis cambiâ la version di Java tes impostazions plui indevant.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="353"/>
         <source>Find Java executable</source>
-        <translation type="unfinished">Cjate l&apos;eseguibil di Java</translation>
+        <translation>Cjate l&apos;eseguibil di Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>Memory</source>
-        <translation type="unfinished">Memorie</translation>
+        <translation>Memorie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">La cuantitât massime di memorie che Minecraft al pues doprâ.</translation>
+        <translation>La cuantitât massime di memorie che Minecraft al pues doprâ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
@@ -4247,27 +4247,27 @@ Tu puedis cambiâ la version di Java tes impostazions plui indevant.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Assegnazion massime di memorie:</translation>
+        <translation>Assegnazion massime di memorie:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">La cuantitât di memorie par inviâ Minecraft.</translation>
+        <translation>La cuantitât di memorie par inviâ Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">La cuantitât di memorie disponibile par memorizâ lis classis di Java cjariadis.</translation>
+        <translation>La cuantitât di memorie disponibile par memorizâ lis classis di Java cjariadis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
         <source>Browse</source>
-        <translation type="unfinished">Sgarfe</translation>
+        <translation>Sgarfe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">Auto-discjame Java di Mojang</translation>
+        <translation>Auto-discjame Java di Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
@@ -4405,7 +4405,7 @@ Desideristu zuiâ ae dimostrazion?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="143"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="245"/>
@@ -4476,7 +4476,7 @@ Desideristu zuiâ ae dimostrazion?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="443"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Invie</translation>
+        <translation>&amp;Invie</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="437"/>
@@ -4505,12 +4505,12 @@ Desideristu zuiâ ae dimostrazion?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="450"/>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="477"/>
         <source>Abort</source>
-        <translation type="unfinished">Interomp</translation>
+        <translation>Interomp</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="490"/>
@@ -4607,7 +4607,7 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
         <source>Folders</source>
-        <translation type="unfinished">Cartelis</translation>
+        <translation>Cartelis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="118"/>
@@ -4718,7 +4718,7 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="242"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="263"/>
         <source>Browse</source>
-        <translation type="unfinished">Sgarfe</translation>
+        <translation>Sgarfe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -4777,7 +4777,7 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="347"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Variis</translation>
+        <translation>Variis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="360"/>
@@ -5025,13 +5025,13 @@ Al è conseât di concedii l&apos;acès a %1 midiant Flatseal.</translation>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="58"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ordene par non</translation>
+        <translation>Ordene par non</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Ordene par version di zûc</translation>
+        <translation>Ordene par version di zûc</translation>
     </message>
 </context>
 <context>
@@ -5080,7 +5080,7 @@ Al è conseât di concedii l&apos;acès a %1 midiant Flatseal.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Daûr a tirâ fûr il modpack</translation>
+        <translation>Daûr a tirâ fûr il modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="107"/>
@@ -5090,7 +5090,7 @@ Al è conseât di concedii l&apos;acès a %1 midiant Flatseal.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="130"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">Daûr a instalâ il modpack</translation>
+        <translation>Daûr a instalâ il modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="136"/>
@@ -5109,7 +5109,7 @@ Al è conseât di concedii l&apos;acès a %1 midiant Flatseal.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Cîr e filtre...</translation>
+        <translation>Cîr e filtre...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="35"/>
@@ -5139,22 +5139,22 @@ Al è conseât di concedii l&apos;acès a %1 midiant Flatseal.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="145"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Version selezionade:</translation>
+        <translation>Version selezionade:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="208"/>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Ativitât interote</translation>
+        <translation>Ativitât interote</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">La ativitât e je stade interote dal utent.</translation>
+        <translation>La ativitât e je stade interote dal utent.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
@@ -5223,7 +5223,7 @@ Tu scugnis comedâ chest probleme a man.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
         <source>Aborted</source>
-        <translation type="unfinished">Interot</translation>
+        <translation>Interot</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -5373,7 +5373,7 @@ Motîf:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulari</translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
@@ -5424,7 +5424,7 @@ Motîf:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="540"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">Impussibil vierzi il file zip furnît.</translation>
+        <translation>Impussibil vierzi il file zip furnît.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="558"/>
@@ -5483,7 +5483,7 @@ Motîf:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Ativitât interote</translation>
+        <translation>Ativitât interote</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
@@ -5507,13 +5507,13 @@ Motîf:
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="218"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Par plasê spiete...</translation>
+        <translation>Par plasê spiete...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="231"/>
         <source>Status</source>
-        <translation type="unfinished">Stât</translation>
+        <translation>Stât</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
@@ -5543,7 +5543,7 @@ Motîf:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="72"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="162"/>
@@ -5672,7 +5672,7 @@ Motîf:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="729"/>
         <source>Help</source>
-        <translation type="unfinished">Jutori</translation>
+        <translation>Jutori</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="732"/>
@@ -5702,12 +5702,12 @@ Motîf:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="356"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished">&amp;Cope</translation>
+        <translation>&amp;Cope</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="344"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Invie</translation>
+        <translation>&amp;Invie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="293"/>
@@ -5823,7 +5823,7 @@ Motîf:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
@@ -5965,7 +5965,7 @@ Motîf:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="362"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="412"/>
@@ -5996,7 +5996,7 @@ Motîf:
         <location filename="src/launcher/ui/MainWindow.ui" line="741"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="759"/>
         <source>Accounts</source>
-        <translation type="unfinished">Accounts</translation>
+        <translation>Accounts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="284"/>
@@ -6116,7 +6116,7 @@ Motîf:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1013"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1316"/>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="849"/>
@@ -6126,19 +6126,19 @@ Motîf:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="853"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Ativitât interote</translation>
+        <translation>Ativitât interote</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="853"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">La ativitât e je stade interote dal utent.</translation>
+        <translation>La ativitât e je stade interote dal utent.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="857"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1018"/>
         <source>Abort</source>
-        <translation type="unfinished">Interomp</translation>
+        <translation>Interomp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="973"/>
@@ -6148,7 +6148,7 @@ Motîf:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1007"/>
         <source>Modpack download</source>
-        <translation type="unfinished">Daûr a discjariâ il modpack</translation>
+        <translation>Daûr a discjariâ il modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1042"/>
@@ -6220,7 +6220,7 @@ Par netâ la cache dai metadâts a man, frache Cartelis -&gt; Visualize cartele 
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1388"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Conferme eliminazion</translation>
+        <translation>Conferme eliminazion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1389"/>
@@ -6511,27 +6511,27 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="196"/>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="200"/>
         <source>Warnings</source>
-        <translation type="unfinished">Avîs</translation>
+        <translation>Avîs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Ativitât interote</translation>
+        <translation>Ativitât interote</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">La ativitât e je stade interote dal utent.</translation>
+        <translation>La ativitât e je stade interote dal utent.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="208"/>
         <source>Abort</source>
-        <translation type="unfinished">Interomp</translation>
+        <translation>Interomp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="216"/>
@@ -6566,7 +6566,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="356"/>
         <source>Update Failed</source>
-        <translation type="unfinished">Inzornament falît</translation>
+        <translation>Inzornament falît</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="357"/>
@@ -6587,7 +6587,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished">Non</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
@@ -6611,7 +6611,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="125"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="140"/>
         <source>Aborted</source>
-        <translation type="unfinished">Interot</translation>
+        <translation>Interot</translation>
     </message>
 </context>
 <context>
@@ -6619,7 +6619,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="291"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Invie</translation>
+        <translation>&amp;Invie</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="293"/>
@@ -6674,7 +6674,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1026"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1031"/>
@@ -6697,7 +6697,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
-        <translation type="unfinished">Interot</translation>
+        <translation>Interot</translation>
     </message>
 </context>
 <context>
@@ -6731,16 +6731,16 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="unfinished">Impostazions vecjis</translation>
+        <translation>Impostazions vecjis</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Al emule la utilizazion di servizis in rêt vecjos che no funzionin plui.&lt;/p&gt;&lt;p&gt;Lis soluzions atuâls a includin: aspiet e supuart de modalitât in rêt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Al emule la utilizazion di servizis in rêt vecjos che no funzionin plui.&lt;/p&gt;&lt;p&gt;Lis soluzions atuâls a includin: aspiet e supuart de modalitât in rêt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished">Ative corezions in rêt (sperimentâl)</translation>
+        <translation>Ative corezions in rêt (sperimentâl)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
@@ -6753,7 +6753,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished">Percors librarie &amp;GLFW</translation>
+        <translation>Percors librarie &amp;GLFW</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
@@ -6762,35 +6762,35 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished">Percors librarie &amp;OpenAL</translation>
+        <translation>Percors librarie &amp;OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="unfinished">Prestazions</translation>
+        <translation>Prestazions</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ative la modalitât di zûc di Feral Interactive, pe pussibilitât di aumentâ lis prestazions di zûc.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ative la modalitât di zûc di Feral Interactive, pe pussibilitât di aumentâ lis prestazions di zûc.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Ative modalitât di zûc di Feral</translation>
+        <translation>Ative modalitât di zûc di Feral</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ative la soreposizion des prestazions avanzadis di MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ative la soreposizion des prestazions avanzadis di MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Ative MangoHud</translation>
+        <translation>Ative MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dopre la GPU discrete al puest di chê primarie.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dopre la GPU discrete al puest di chê primarie.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Dopre GPU dedicade</translation>
+        <translation>Dopre GPU dedicade</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -6798,7 +6798,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="unfinished">Dopre Zink</translation>
+        <translation>Dopre Zink</translation>
     </message>
     <message>
         <source>Game time</source>
@@ -6840,7 +6840,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Variis</translation>
+        <translation>Variis</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -6854,7 +6854,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">Percors al file de librarie %1</translation>
+        <translation>Percors al file de librarie %1</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
@@ -6862,11 +6862,11 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">La modalitât di zûc di Feral Interactive no je stade cjatade tal sisteme.</translation>
+        <translation>La modalitât di zûc di Feral Interactive no je stade cjatade tal sisteme.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">MangoHud nol è stât cjatât tal sisteme.</translation>
+        <translation>MangoHud nol è stât cjatât tal sisteme.</translation>
     </message>
 </context>
 <context>
@@ -6908,7 +6908,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Lis impostazions achì a sostituissin chês globâls.</translation>
+        <translation>Lis impostazions achì a sostituissin chês globâls.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
@@ -6923,7 +6923,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished">Invie Minecraft slargjât al massim</translation>
+        <translation>Invie Minecraft slargjât al massim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
@@ -6938,12 +6938,12 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="107"/>
         <source>Window height:</source>
-        <translation type="unfinished">Altece barcon:</translation>
+        <translation>Altece barcon:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="114"/>
         <source>Window width:</source>
-        <translation type="unfinished">Largjece barcon:</translation>
+        <translation>Largjece barcon:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="158"/>
@@ -6978,17 +6978,17 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="216"/>
         <source>Show console while the game is running</source>
-        <translation type="unfinished">Mostre la console intant che il zûc al è in esecuzion</translation>
+        <translation>Mostre la console intant che il zûc al è in esecuzion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="223"/>
         <source>Automatically close console when the game quits</source>
-        <translation type="unfinished">Siere in automatic la console ae jessude dal zûc</translation>
+        <translation>Siere in automatic la console ae jessude dal zûc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="230"/>
         <source>Show console when the game crashes</source>
-        <translation type="unfinished">Mostre la console cuant che il zûc al colasse</translation>
+        <translation>Mostre la console cuant che il zûc al colasse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="240"/>
@@ -6998,17 +6998,17 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="252"/>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished">Siere l&apos;inviadôr dopo che il barcon dal zûc si vierç</translation>
+        <translation>Siere l&apos;inviadôr dopo che il barcon dal zûc si vierç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="259"/>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished">Jes dal inviadôr dopo che il barcon dal zûc si siere</translation>
+        <translation>Jes dal inviadôr dopo che il barcon dal zûc si siere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="287"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="311"/>
@@ -7023,12 +7023,12 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="347"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Al emule la utilizazion di servizis in rêt vecjos che no funzionin plui.&lt;/p&gt;&lt;p&gt;Lis soluzions atuâls a includin: aspiet e supuart de modalitât in rêt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Al emule la utilizazion di servizis in rêt vecjos che no funzionin plui.&lt;/p&gt;&lt;p&gt;Lis soluzions atuâls a includin: aspiet e supuart de modalitât in rêt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="350"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished">Ative corezions in rêt (sperimentâl)</translation>
+        <translation>Ative corezions in rêt (sperimentâl)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="363"/>
@@ -7038,22 +7038,22 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Dopre la instalazion di sisteme di OpenAL</translation>
+        <translation>Dopre la instalazion di sisteme di OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="382"/>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished">Percors librarie &amp;GLFW</translation>
+        <translation>Percors librarie &amp;GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="392"/>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Dopre la instalazion di sisteme di GLFW</translation>
+        <translation>Dopre la instalazion di sisteme di GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="406"/>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished">Percors librarie &amp;OpenAL</translation>
+        <translation>Percors librarie &amp;OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="429"/>
@@ -7063,42 +7063,42 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="441"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ative la modalitât di zûc di Feral Interactive, pe pussibilitât di aumentâ lis prestazions di zûc.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ative la modalitât di zûc di Feral Interactive, pe pussibilitât di aumentâ lis prestazions di zûc.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="444"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Ative modalitât di zûc di Feral</translation>
+        <translation>Ative modalitât di zûc di Feral</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="451"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ative la soreposizion des prestazions avanzadis di MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ative la soreposizion des prestazions avanzadis di MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="454"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Ative MangoHud</translation>
+        <translation>Ative MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="461"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dopre la GPU discrete al puest di chê primarie.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dopre la GPU discrete al puest di chê primarie.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="464"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Dopre GPU dedicade</translation>
+        <translation>Dopre GPU dedicade</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="471"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished">Dopre Zink, un driver Mesa OpenGL che al implemente OpenGL sore Vulkan. Lis prestazions a podaressin variâ in base ae situazion. Note: se nol è presint un driver Vulkan valit, al vignarà doprât il rendering software.</translation>
+        <translation>Dopre Zink, un driver Mesa OpenGL che al implemente OpenGL sore Vulkan. Lis prestazions a podaressin variâ in base ae situazion. Note: se nol è presint un driver Vulkan valit, al vignarà doprât il rendering software.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="474"/>
         <source>Use Zink</source>
-        <translation type="unfinished">Dopre Zink</translation>
+        <translation>Dopre Zink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="502"/>
@@ -7113,7 +7113,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Account:</source>
-        <translation type="unfinished">Account:</translation>
+        <translation>Account:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="558"/>
@@ -7123,22 +7123,22 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="570"/>
         <source>Server address:</source>
-        <translation type="unfinished">Direzion servidôr:</translation>
+        <translation>Direzion servidôr:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="580"/>
         <source>Singleplayer world</source>
-        <translation type="unfinished">Mont a zuiadôr singul</translation>
+        <translation>Mont a zuiadôr singul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="611"/>
         <source>Custom Commands</source>
-        <translation type="unfinished">Comants personalizâts</translation>
+        <translation>Comants personalizâts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="621"/>
         <source>Environment Variables</source>
-        <translation type="unfinished">Variabilis di ambient</translation>
+        <translation>Variabilis di ambient</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="65"/>
@@ -7158,18 +7158,18 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="113"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">La modalitât di zûc di Feral Interactive no je stade cjatade tal sisteme.</translation>
+        <translation>La modalitât di zûc di Feral Interactive no je stade cjatade tal sisteme.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="118"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">MangoHud nol è stât cjatât tal sisteme.</translation>
+        <translation>MangoHud nol è stât cjatât tal sisteme.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="189"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="196"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">Percors al file de librarie %1</translation>
+        <translation>Percors al file de librarie %1</translation>
     </message>
 </context>
 <context>
@@ -7177,7 +7177,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished">Formulari</translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
@@ -7192,27 +7192,27 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="137"/>
@@ -7272,12 +7272,12 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="235"/>
         <source>Unknown</source>
-        <translation type="unfinished">No cognossût</translation>
+        <translation>No cognossût</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
-        <translation type="unfinished">Dutis lis versions</translation>
+        <translation>Dutis lis versions</translation>
     </message>
 </context>
 <context>
@@ -7290,7 +7290,7 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="91"/>
         <source>File</source>
-        <translation type="unfinished">File</translation>
+        <translation>File</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="124"/>
@@ -7311,12 +7311,12 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Name</source>
-        <translation type="unfinished">Non</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
@@ -7416,7 +7416,7 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished">No cognossût</translation>
+        <translation>No cognossût</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
@@ -7445,7 +7445,7 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished">Conferme la eliminazion</translation>
+        <translation>Conferme la eliminazion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="128"/>
@@ -7463,7 +7463,7 @@ Desideristu pardabon fâlu?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="306"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="310"/>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
@@ -7477,7 +7477,7 @@ Desideristu pardabon fâlu?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="255"/>
         <source>Aborted</source>
-        <translation type="unfinished">Interot</translation>
+        <translation>Interot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="166"/>
@@ -7489,13 +7489,13 @@ Desideristu pardabon fâlu?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="261"/>
         <source>Warnings</source>
-        <translation type="unfinished">Avîs</translation>
+        <translation>Avîs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="186"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="271"/>
         <source>Abort</source>
-        <translation type="unfinished">Interomp</translation>
+        <translation>Interomp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="206"/>
@@ -7538,7 +7538,7 @@ Desideristu pardabon fâlu?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="285"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Conferme rimozion</translation>
+        <translation>Conferme rimozion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="286"/>
@@ -7582,7 +7582,7 @@ Gjavâ pardabon?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="54"/>
         <source>Mods</source>
-        <translation type="unfinished">Mods</translation>
+        <translation>Mods</translation>
     </message>
     <message>
         <source>Download mods</source>
@@ -7598,7 +7598,7 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="unfinished">Verifiche dipendencis</translation>
+        <translation>Verifiche dipendencis</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
@@ -7618,7 +7618,7 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">Cambie version</translation>
+        <translation>Cambie version</translation>
     </message>
     <message>
         <source>Change mod version</source>
@@ -7626,7 +7626,7 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished">Visite il sît de mod</translation>
+        <translation>Visite il sît de mod</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
@@ -7687,19 +7687,19 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Avîs</translation>
+        <translation>Avîs</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Interomp</translation>
+        <translation>Interomp</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Verifiche presince inzornaments...</translation>
+        <translation>Verifiche presince inzornaments...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
@@ -7756,7 +7756,7 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">No instalât</translation>
+        <translation>No instalât</translation>
     </message>
     <message>
         <source>New version: %1</source>
@@ -7785,7 +7785,7 @@ Gjavâ pardabon?</translation>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="353"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="356"/>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="353"/>
@@ -7816,22 +7816,22 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="143"/>
         <source>Not installed</source>
-        <translation type="unfinished">No instalât</translation>
+        <translation>No instalât</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="145"/>
         <source>Unknown</source>
-        <translation type="unfinished">No cognossût</translation>
+        <translation>No cognossût</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Nissune version valide cjatade par cheste risorse. Al è probabile che no sedi disponibile pe version corinte dal zûc / dal cjariadôr di mods.</translation>
+        <translation>Nissune version valide cjatade par cheste risorse. Al è probabile che no sedi disponibile pe version corinte dal zûc / dal cjariadôr di mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Nissune version valide cjatade par cheste risorse. Al è probabil che no sedi disponibile pe version corinte dal zûc.</translation>
+        <translation>Nissune version valide cjatade par cheste risorse. Al è probabil che no sedi disponibile pe version corinte dal zûc.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="60"/>
@@ -7844,7 +7844,7 @@ Inzorne %1!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Nissune version valide cjatade par cheste mod. Al è probabil che no sedi disponibile pe version corinte dal zûc / dal cjariadôr di mods.</translation>
+        <translation>Nissune version valide cjatade par cheste mod. Al è probabil che no sedi disponibile pe version corinte dal zûc / dal cjariadôr di mods.</translation>
     </message>
 </context>
 <context>
@@ -7852,23 +7852,23 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="68"/>
         <source> (version %1)</source>
-        <translation type="unfinished"> (version %1)</translation>
+        <translation> (version %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="152"/>
         <source>No index file.</source>
-        <translation type="unfinished">Nissun file tabele.</translation>
+        <translation>Nissun file tabele.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="153"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">No sin rivâts a cjatâ un file tabele adat pe version vecje. Chest al podarès causâ la duplicazion di cualchi file. Desideristu continuâ?</translation>
+        <translation>No sin rivâts a cjatâ un file tabele adat pe version vecje. Chest al podarès causâ la duplicazion di cualchi file. Desideristu continuâ?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="197"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Impussibil cambiâ non ae cartele des sostituzions:
+        <translation>Impussibil cambiâ non ae cartele des sostituzions:
 </translation>
     </message>
     <message>
@@ -7897,12 +7897,12 @@ Inzorne %1!</translation>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="301"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="325"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 di %2 completâts</translation>
+        <translation>%1 di %2 completâts</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="306"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Daûr a discjariâ lis mods...</translation>
+        <translation>Daûr a discjariâ lis mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="414"/>
@@ -7922,7 +7922,7 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="304"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished">%1 (Corinte)</translation>
+        <translation>%1 (Corinte)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="316"/>
@@ -7932,12 +7932,12 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="396"/>
         <source>Choose update file</source>
-        <translation type="unfinished">Sielç file di inzornament</translation>
+        <translation>Sielç file di inzornament</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="396"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Pachet Modrinth</translation>
+        <translation>Pachet Modrinth</translation>
     </message>
 </context>
 <context>
@@ -7945,22 +7945,22 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="57"/>
         <source>Searching for files...</source>
-        <translation type="unfinished">Daûr a cirî i files...</translation>
+        <translation>Daûr a cirî i files...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="78"/>
         <source>Could not search for files</source>
-        <translation type="unfinished">Impussibil cirî i files</translation>
+        <translation>Impussibil cirî i files</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="94"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished">Daûr a cjatâ i hashes dai files...</translation>
+        <translation>Daûr a cjatâ i hashes dai files...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="155"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">Daûr a cjatâ lis version pai hashes...</translation>
+        <translation>Daûr a cjatâ lis version pai hashes...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="191"/>
@@ -7970,7 +7970,7 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="200"/>
         <source>Adding files...</source>
-        <translation type="unfinished">Daûr a zontâ i files...</translation>
+        <translation>Daûr a zontâ i files...</translation>
     </message>
 </context>
 <context>
@@ -7984,7 +7984,7 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Ordene par discjariâts totâi</translation>
+        <translation>Ordene par discjariâts totâi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="85"/>
@@ -7995,18 +7995,18 @@ Inzorne %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="87"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Ordene par ultin inzornament</translation>
+        <translation>Ordene par ultin inzornament</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="201"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="292"/>
         <source> by </source>
-        <translation type="unfinished"> di </translation>
+        <translation> di </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="296"/>
@@ -8021,22 +8021,22 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="314"/>
         <source>External links:</source>
-        <translation type="unfinished">Colegaments esternis:</translation>
+        <translation>Colegaments esternis:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="318"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Problemis: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Problemis: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="320"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="322"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Codiç sorzint: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Codiç sorzint: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="324"/>
@@ -8052,17 +8052,17 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished">Opzions filtri</translation>
+        <translation>Opzions filtri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Cîr e filtre...</translation>
+        <translation>Cîr e filtre...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Version selezionade:</translation>
+        <translation>Version selezionade:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="65"/>
@@ -8124,7 +8124,7 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="145"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">Daûr a eseguî %1 ativitât(s) (%2 di %3 completadis)</translation>
+        <translation>Daûr a eseguî %1 ativitât(s) (%2 di %3 completadis)</translation>
     </message>
 </context>
 <context>
@@ -8137,7 +8137,7 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
         <source>Name</source>
-        <translation type="unfinished">Non</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
@@ -8147,12 +8147,12 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="71"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation type="unfinished">Va ben</translation>
+        <translation>Va ben</translation>
     </message>
 </context>
 <context>
@@ -8166,32 +8166,32 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"/>
         <source>&amp;Group:</source>
-        <translation type="unfinished">&amp;Grup:</translation>
+        <translation>&amp;Grup:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="56"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Non:</translation>
+        <translation>&amp;Non:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="91"/>
         <source>No group</source>
-        <translation type="unfinished">Nissun grup</translation>
+        <translation>Nissun grup</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="112"/>
         <source>OK</source>
-        <translation type="unfinished">Va ben</translation>
+        <translation>Va ben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="118"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="124"/>
         <source>Help</source>
-        <translation type="unfinished">Jutori</translation>
+        <translation>Jutori</translation>
     </message>
 </context>
 <context>
@@ -8214,7 +8214,7 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
         <source>Close</source>
-        <translation type="unfinished">Siere</translation>
+        <translation>Siere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
@@ -8277,7 +8277,7 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation type="unfinished">Non utent</translation>
+        <translation>Non utent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
@@ -8292,12 +8292,12 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="12"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="13"/>
         <source>OK</source>
-        <translation type="unfinished">Va ben</translation>
+        <translation>Va ben</translation>
     </message>
 </context>
 <context>
@@ -8325,19 +8325,19 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="47"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="48"/>
         <source>OK</source>
-        <translation type="unfinished">Va ben</translation>
+        <translation>Va ben</translation>
     </message>
 </context>
 <context>
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished">Cjate</translation>
+        <translation>Cjate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="49"/>
@@ -8347,7 +8347,7 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="63"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Scor fin da pît</translation>
+        <translation>Scor fin da pît</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="66"/>
@@ -8377,22 +8377,22 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="133"/>
         <source>Wrap lines</source>
-        <translation type="unfinished">Gnove rie automatiche</translation>
+        <translation>Gnove rie automatiche</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="143"/>
         <source>Color lines</source>
-        <translation type="unfinished">Riis a colôrs</translation>
+        <translation>Riis a colôrs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="166"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished">Copie dut il regjistri intes notis</translation>
+        <translation>Copie dut il regjistri intes notis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="169"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished">&amp;Copie</translation>
+        <translation>&amp;Copie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="176"/>
@@ -8416,7 +8416,7 @@ Inzorne %1!</translation>
     </message>
     <message>
         <source>Clear the log</source>
-        <translation type="unfinished">Nete il regjistri</translation>
+        <translation>Nete il regjistri</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -8428,7 +8428,7 @@ Inzorne %1!</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished">Cjame in rêt</translation>
+        <translation>Cjame in rêt</translation>
     </message>
     <message>
         <source>Clean</source>
@@ -8441,14 +8441,14 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="39"/>
         <source>Search:</source>
-        <translation type="unfinished">Cîr:</translation>
+        <translation>Cîr:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="188"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="302"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="343"/>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="188"/>
@@ -8467,7 +8467,7 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="287"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Conferme eliminazion</translation>
+        <translation>Conferme eliminazion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="288"/>
@@ -8535,17 +8535,17 @@ Eliminâ pardabon?</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="354"/>
         <source>Aborted</source>
-        <translation type="unfinished">Interot</translation>
+        <translation>Interot</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="578"/>
         <source>Name</source>
-        <translation type="unfinished">Non</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="580"/>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
 </context>
 <context>
@@ -8553,12 +8553,12 @@ Eliminâ pardabon?</translation>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="42"/>
         <source>Close</source>
-        <translation type="unfinished">Siere</translation>
+        <translation>Siere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="43"/>
         <source>Help</source>
-        <translation type="unfinished">Jutori</translation>
+        <translation>Jutori</translation>
     </message>
 </context>
 <context>
@@ -9178,7 +9178,7 @@ Par sorescrivi chest bloc e lâ indevant distès cul inzornament, selezione “I
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="40"/>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="42"/>
         <source>Name</source>
-        <translation type="unfinished">Non</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="49"/>
@@ -9188,12 +9188,12 @@ Par sorescrivi chest bloc e lâ indevant distès cul inzornament, selezione “I
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="75"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="76"/>
         <source>OK</source>
-        <translation type="unfinished">Va ben</translation>
+        <translation>Va ben</translation>
     </message>
 </context>
 <context>
@@ -9215,12 +9215,12 @@ Sielç cun cure il to non:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="75"/>
         <source>OK</source>
-        <translation type="unfinished">Va ben</translation>
+        <translation>Va ben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
@@ -9269,7 +9269,7 @@ Stât HTTP: %2</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Par plasê spiete...</translation>
+        <translation>Par plasê spiete...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
@@ -9305,7 +9305,7 @@ Stât HTTP: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
         <source>Type</source>
-        <translation type="unfinished">Gjenar</translation>
+        <translation>Gjenar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="61"/>
@@ -9730,7 +9730,7 @@ Continuâ cu la çoncjade?</translation>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="91"/>
         <source>s</source>
-        <translation type="unfinished">s</translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="96"/>
@@ -9788,7 +9788,7 @@ Chest messaç al vignarà visualizât fintant che no tu gjavarâs dai parametris
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Nol è stât pussibil cjatâ la librarie di control di Java. Controle la tô instalazion.</translation>
+        <translation>Nol è stât pussibil cjatâ la librarie di control di Java. Controle la tô instalazion.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="58"/>
@@ -9893,28 +9893,28 @@ NOTE: Verifiche di vê fat une copie di backup dai tiei dâts impuartants di ist
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="163"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Ordene par risalt</translation>
+        <translation>Ordene par risalt</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Ordene par popolaritât</translation>
+        <translation>Ordene par popolaritât</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">Ordene par ultin inzornament</translation>
+        <translation>Ordene par ultin inzornament</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Ordene par non</translation>
+        <translation>Ordene par non</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
         <source>Sort by Author</source>
-        <translation type="unfinished">Ordene par autôr</translation>
+        <translation>Ordene par autôr</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
@@ -9930,7 +9930,7 @@ NOTE: Verifiche di vê fat une copie di backup dai tiei dâts impuartants di ist
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Ordene par version di zûc</translation>
+        <translation>Ordene par version di zûc</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
@@ -9966,7 +9966,7 @@ NOTE: Verifiche di vê fat une copie di backup dai tiei dâts impuartants di ist
         <location filename="src/launcher/MMCZip.cpp" line="344"/>
         <location filename="src/launcher/MMCZip.cpp" line="355"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Impussibil risolvi i permès par %1</translation>
+        <translation>Impussibil risolvi i permès par %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -10017,25 +10017,25 @@ NOTE: Verifiche di vê fat une copie di backup dai tiei dâts impuartants di ist
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="267"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">No verificât</translation>
+        <translation>No verificât</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="269"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Fûr rêt</translation>
+        <translation>Fûr rêt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="271"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Pront</translation>
+        <translation>Pront</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="273"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">In vore</translation>
+        <translation>In vore</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="275"/>
@@ -10047,25 +10047,25 @@ NOTE: Verifiche di vê fat une copie di backup dai tiei dâts impuartants di ist
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="277"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Scjadût</translation>
+        <translation>Scjadût</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="279"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Disativât</translation>
+        <translation>Disativât</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="281"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Lât</translation>
+        <translation>Lât</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="283"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">No cognossût</translation>
+        <translation>No cognossût</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
@@ -10112,7 +10112,7 @@ Non gnûf: %2</translation>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
         <source>There are linked instances</source>
-        <translation type="unfinished">A son istancis colegadis</translation>
+        <translation>A son istancis colegadis</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="113"/>
@@ -10171,7 +10171,7 @@ Desideristu continuâ?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="95"/>
         <source>Unknown</source>
-        <translation type="unfinished">No cognossût</translation>
+        <translation>No cognossût</translation>
     </message>
 </context>
 <context>
@@ -10199,7 +10199,7 @@ Desideristu continuâ?</numerusform>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished">mod</translation>
+        <translation>mod</translation>
     </message>
 </context>
 <context>
@@ -10239,22 +10239,22 @@ Sierâ pardabon chest dialic?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="159"/>
         <source>Warnings</source>
-        <translation type="unfinished">Avîs</translation>
+        <translation>Avîs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="165"/>
         <source>Abort</source>
-        <translation type="unfinished">Interomp</translation>
+        <translation>Interomp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="166"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Control des dipendencis...</translation>
+        <translation>Control des dipendencis...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
@@ -10281,7 +10281,7 @@ Sierâ pardabon chest dialic?</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="458"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="462"/>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="216"/>
@@ -10308,7 +10308,7 @@ Sierâ pardabon chest dialic?</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="463"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation type="unfinished">Version API masse vecje!
+        <translation>Version API masse vecje!
 Inzorne %1!</translation>
     </message>
 </context>
@@ -10333,7 +10333,7 @@ Inzorne %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="38"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation type="unfinished">pachet risorsis</translation>
+        <translation>pachet risorsis</translation>
     </message>
 </context>
 <context>
@@ -10353,42 +10353,42 @@ Inzorne %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="218"/>
         <source> by </source>
-        <translation type="unfinished"> di </translation>
+        <translation> di </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Chest progjet al è stât archiviât. Nol ricevarà nissun inzornament futûr, gjavât che l&apos;autôr nol decidi di &quot;disarchiviâ&quot; il progjet.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Chest progjet al è stât archiviât. Nol ricevarà nissun inzornament futûr, gjavât che l&apos;autôr nol decidi di &quot;disarchiviâ&quot; il progjet.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="228"/>
         <source>Donate information: </source>
-        <translation type="unfinished">Donazions: </translation>
+        <translation>Donazions: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="241"/>
         <source>External links:</source>
-        <translation type="unfinished">Colegaments esternis:</translation>
+        <translation>Colegaments esternis:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="245"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Problemis: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Problemis: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="247"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="249"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Codiç sorzint: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Codiç sorzint: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="251"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="272"/>
@@ -10446,7 +10446,7 @@ Al è facil che l&apos;autôr al vedi blocât i inviadôrs di tierçs.</translat
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="547"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="566"/>
@@ -10487,7 +10487,7 @@ Al è facil che l&apos;autôr al vedi blocât i inviadôrs di tierçs.</translat
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="38"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation type="unfinished">pachet shaders</translation>
+        <translation>pachet shaders</translation>
     </message>
 </context>
 <context>
@@ -10536,7 +10536,7 @@ Al è facil che l&apos;autôr al vedi blocât i inviadôrs di tierçs.</translat
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Atenzion: cheste risorse e je colegade in mût simbolic di cualchi altre bande. La sô modifiche e cambiarà ancje chê origjinâl.
 Percors canonic: %1</translation>
     </message>
@@ -10544,33 +10544,33 @@ Percors canonic: %1</translation>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="499"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation>
 Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La sô modifiche e cambiarà ancje l&apos;origjinâl.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Name</source>
-        <translation type="unfinished">Non</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Enable</source>
-        <translation type="unfinished">Ative</translation>
+        <translation>Ative</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Ultime modifiche</translation>
+        <translation>Ultime modifiche</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Size</source>
-        <translation type="unfinished">Dimension</translation>
+        <translation>Dimension</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Provider</source>
-        <translation type="unfinished">Furnidôr</translation>
+        <translation>Furnidôr</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="528"/>
@@ -10623,27 +10623,27 @@ Desideristu pardabon fâlu?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Enable</source>
-        <translation type="unfinished">Ative</translation>
+        <translation>Ative</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Image</source>
-        <translation type="unfinished">Imagjin</translation>
+        <translation>Imagjin</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Ultime modifiche</translation>
+        <translation>Ultime modifiche</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Size</source>
-        <translation type="unfinished">Dimension</translation>
+        <translation>Dimension</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Provider</source>
-        <translation type="unfinished">Furnidôr</translation>
+        <translation>Furnidôr</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="79"/>
@@ -10662,7 +10662,7 @@ Desideristu pardabon fâlu?</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Atenzion: cheste risorse e je colegade in mût simbolic di cualchi altre bande. La sô modifiche e cambiarà ancje chê origjinâl.
 Percors canonic: %1</translation>
     </message>
@@ -10670,7 +10670,7 @@ Percors canonic: %1</translation>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="120"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation>
 Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La sô modifiche e cambiarà ancje l&apos;origjinâl.</translation>
     </message>
     <message>
@@ -10691,7 +10691,7 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Name</source>
-        <translation type="unfinished">Non</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
@@ -10738,7 +10738,7 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished">Cambie la version di une mod.</translation>
+        <translation>Cambie la version di une mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
@@ -10746,32 +10746,32 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="184"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="238"/>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="165"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="188"/>
         <source>Aborted</source>
-        <translation type="unfinished">Interot</translation>
+        <translation>Interot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="188"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Discjariament interot dal utent.</translation>
+        <translation>Discjariament interot dal utent.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="109"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="194"/>
         <source>Warnings</source>
-        <translation type="unfinished">Avîs</translation>
+        <translation>Avîs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="123"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="204"/>
         <source>Abort</source>
-        <translation type="unfinished">Interomp</translation>
+        <translation>Interomp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="139"/>
@@ -10782,7 +10782,7 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="144"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Conferme l&apos;inzornament</translation>
+        <translation>Conferme l&apos;inzornament</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="145"/>
@@ -10801,7 +10801,7 @@ Desideristu pardabon fâlu?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; al è inzornât! :)</translation>
+        <translation>&apos;%1&apos; al è inzornât! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="172"/>
@@ -10816,12 +10816,12 @@ Desideristu pardabon fâlu?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
         <source>Update checker</source>
-        <translation type="unfinished">Verificadôr di inzornaments</translation>
+        <translation>Verificadôr di inzornaments</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="218"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Conferme rimozion</translation>
+        <translation>Conferme rimozion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="219"/>
@@ -10844,12 +10844,12 @@ Gjavâ pardabon?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="69"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Version selezionade:</translation>
+        <translation>Version selezionade:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished">Opzions filtri</translation>
+        <translation>Opzions filtri</translation>
     </message>
 </context>
 <context>
@@ -10872,12 +10872,12 @@ Gjavâ pardabon?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="76"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished">Non mod: %1&lt;br&gt;Non file: %2&lt;br&gt;Motîf: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Non mod: %1&lt;br&gt;Non file: %2&lt;br&gt;Motîf: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="79"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished">Gjenerazion metadâts falide</translation>
+        <translation>Gjenerazion metadâts falide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="80"/>
@@ -10887,7 +10887,7 @@ Gjavâ pardabon?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="94"/>
         <source>Checking for updates</source>
-        <translation type="unfinished">Control dai inzornaments</translation>
+        <translation>Control dai inzornaments</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="115"/>
@@ -10896,46 +10896,46 @@ Gjavâ pardabon?</translation>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="364"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="420"/>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="120"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="211"/>
         <source>Warnings</source>
-        <translation type="unfinished">Avîs</translation>
+        <translation>Avîs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="126"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="216"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="376"/>
         <source>Abort</source>
-        <translation type="unfinished">Interomp</translation>
+        <translation>Interomp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="127"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Verifiche presince inzornaments...</translation>
+        <translation>Verifiche presince inzornaments...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished">Non mod: %1</translation>
+        <translation>Non mod: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="175"/>
         <source>Reason: %1</source>
-        <translation type="unfinished">Motîf: %1</translation>
+        <translation>Motîf: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="178"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished">Soluzion pussibile: otignî a man la ultime version:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Soluzion pussibile: otignî a man la ultime version:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
         <source>Failed to check for updates</source>
-        <translation type="unfinished">Control inzornaments falît</translation>
+        <translation>Control inzornaments falît</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="184"/>
@@ -10945,17 +10945,17 @@ Gjavâ pardabon?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="217"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Control des dipendencis...</translation>
+        <translation>Control des dipendencis...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="237"/>
         <source>Not installed</source>
-        <translation type="unfinished">No instalât</translation>
+        <translation>No instalât</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="273"/>
         <source>Looking for metadata</source>
-        <translation type="unfinished">Daûr a cirî i metadâts</translation>
+        <translation>Daûr a cirî i metadâts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="318"/>
@@ -10965,53 +10965,53 @@ Gjavâ pardabon?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="377"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished">Daûr a gjenerâ metadâts...</translation>
+        <translation>Daûr a gjenerâ metadâts...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="430"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished">Nol è stât pussibil cjatâ une version valide sui furnidôrs di mods selezionâts</translation>
+        <translation>Nol è stât pussibil cjatâ une version valide sui furnidôrs di mods selezionâts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="441"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">La mod e je stade disativade parcè che e podarès jessi za instalade.</translation>
+        <translation>La mod e je stade disativade parcè che e podarès jessi za instalade.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="447"/>
         <source>Provider: %1</source>
-        <translation type="unfinished">Furnidôr: %1</translation>
+        <translation>Furnidôr: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="450"/>
         <source>Old version: %1</source>
-        <translation type="unfinished">Version vecje: %1</translation>
+        <translation>Version vecje: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="453"/>
         <source>New version: %1</source>
-        <translation type="unfinished">Gnove version: %1</translation>
+        <translation>Gnove version: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="457"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished">Gnûf gjenar di version: %1</translation>
+        <translation>Gnûf gjenar di version: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="463"/>
         <source>Required by: %1</source>
-        <translation type="unfinished">Domandât di: %1</translation>
+        <translation>Domandât di: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="465"/>
         <source>Required by:</source>
-        <translation type="unfinished">Domandât di:</translation>
+        <translation>Domandât di:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="479"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished">Regjistri modifichis de ultime version</translation>
+        <translation>Regjistri modifichis de ultime version</translation>
     </message>
 </context>
 <context>
@@ -11024,18 +11024,18 @@ Gjavâ pardabon?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="24"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="25"/>
         <source>OK</source>
-        <translation type="unfinished">Va ben</translation>
+        <translation>Va ben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="44"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">La mod e je stade disativade parcè che e podarès jessi za instalade.</translation>
+        <translation>La mod e je stade disativade parcè che e podarès jessi za instalade.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"/>
@@ -11055,17 +11055,17 @@ Gjavâ pardabon?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
         <source>Provider: %1</source>
-        <translation type="unfinished">Furnidôr: %1</translation>
+        <translation>Furnidôr: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="73"/>
         <source>Required by: %1</source>
-        <translation type="unfinished">Domandât di: %1</translation>
+        <translation>Domandât di: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="75"/>
         <source>Required by:</source>
-        <translation type="unfinished">Domandât di:</translation>
+        <translation>Domandât di:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="90"/>
@@ -11098,22 +11098,22 @@ Gjavâ pardabon?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="41"/>
         <source>Actions</source>
-        <translation type="unfinished">Azions</translation>
+        <translation>Azions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="61"/>
         <source>Upload</source>
-        <translation type="unfinished">Cjame in rêt</translation>
+        <translation>Cjame in rêt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="66"/>
         <source>Delete</source>
-        <translation type="unfinished">Elimine</translation>
+        <translation>Elimine</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="71"/>
         <source>Rename</source>
-        <translation type="unfinished">Cambie non</translation>
+        <translation>Cambie non</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
@@ -11123,7 +11123,7 @@ Gjavâ pardabon?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="311"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menù contestuâl</translation>
+        <translation>Menù contestuâl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="372"/>
@@ -11168,7 +11168,7 @@ Cjariâ pardabon?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="393"/>
         <source>Abort</source>
-        <translation type="unfinished">Interomp</translation>
+        <translation>Interomp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
@@ -11180,7 +11180,7 @@ Cjariâ pardabon?</translation>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="446"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">La ativitât e je stade interote dal utent.</translation>
+        <translation>La ativitât e je stade interote dal utent.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="419"/>
@@ -11217,7 +11217,7 @@ Eliminâ pardabon?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="521"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Conferme eliminazion</translation>
+        <translation>Conferme eliminazion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
@@ -11242,12 +11242,12 @@ Eliminâ pardabon?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="13"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="14"/>
         <source>OK</source>
-        <translation type="unfinished">Va ben</translation>
+        <translation>Va ben</translation>
     </message>
 </context>
 <context>
@@ -11255,7 +11255,7 @@ Eliminâ pardabon?</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
@@ -11283,7 +11283,7 @@ Eliminâ pardabon?</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
@@ -11302,12 +11302,12 @@ Version instalade in chest moment: %1</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="61"/>
         <source>OK</source>
-        <translation type="unfinished">Va ben</translation>
+        <translation>Va ben</translation>
     </message>
 </context>
 <context>
@@ -11323,7 +11323,7 @@ Version instalade in chest moment: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="288"/>
         <source>Name</source>
-        <translation type="unfinished">Non</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="290"/>
@@ -11345,7 +11345,7 @@ Version instalade in chest moment: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="72"/>
         <source>&amp;Name</source>
-        <translation type="unfinished">&amp;Non</translation>
+        <translation>&amp;Non</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="85"/>
@@ -11375,17 +11375,17 @@ Version instalade in chest moment: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="130"/>
         <source>Actions</source>
-        <translation type="unfinished">Azions</translation>
+        <translation>Azions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="157"/>
         <source>Add</source>
-        <translation type="unfinished">Zonte</translation>
+        <translation>Zonte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="162"/>
         <source>Remove</source>
-        <translation type="unfinished">Gjave</translation>
+        <translation>Gjave</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="167"/>
@@ -11405,7 +11405,7 @@ Version instalade in chest moment: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="182"/>
         <source>Refresh</source>
-        <translation type="unfinished">Inzorne</translation>
+        <translation>Inzorne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
@@ -11415,12 +11415,12 @@ Version instalade in chest moment: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="605"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menù contestuâl</translation>
+        <translation>Menù contestuâl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="736"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Conferme rimozion</translation>
+        <translation>Conferme rimozion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="737"/>
@@ -11454,7 +11454,7 @@ Gjavâ pardabon?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Inzorne</translation>
+        <translation>&amp;Inzorne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
@@ -11495,7 +11495,7 @@ Gjavâ pardabon?</translation>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="181"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="235"/>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
@@ -13311,39 +13311,43 @@ Eliminâ pardabon?</translation>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chest account Microsoft al è di proprietât di un minôr e nol è colegât a une famee.
+
+Par plasê configure il to account secont di %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="137"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chest account Microsoft al domande une prove de etât par zuiâ. Par plasê jentre su %1 par dâ prove de etât.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="142"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chest account Microsoft al è rivât al limit di timp par zuiâ. L&apos;acès par chest account Microsoft al è stât blocât.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="146"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chest account Microsoft al è stât bandît di Xbox par vê violât un o plui Standards de comunitât Xbox e nol è pussibil doprâlu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="152"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>In chest moment, chest account Microsoft al è limitât e il to vuardian no ti à dât i permès par zuiâ in rêt. Jentre su %1 e fâs cambiâ lis autorizazions al to vuardian.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="159"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chest account Microsoft nol à acetât lis cundizions di utilizazion dal servizi. Par plasê jentre e acetilis.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="164"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticazion XSTS finide cun erôrs no ricognossûts:
+
+%1</translation>
     </message>
 </context>
 <context>
@@ -13351,18 +13355,18 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="15"/>
         <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a recuperâ il profîl Xbox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="56"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="58"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impussibil recuperâ il profîl Xbox: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="65"/>
         <source>Got Xbox profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Profîl Xbox otignût</translation>
     </message>
 </context>
 <context>
@@ -13370,23 +13374,23 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="14"/>
         <source>Logging in as an Xbox user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a jentrâ come utent Xbox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticazion utent XBox falide: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>XBox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nol è stât pussibil capî la rispueste de autenticazion dal utent XBox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>
         <source>Got Xbox user token</source>
-        <translation type="unfinished"></translation>
+        <translation>Otignût gjeton pal utent Xbox</translation>
     </message>
 </context>
 </TS>
