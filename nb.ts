@@ -13,7 +13,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Innlimingstjeneste-&amp;Type</translation>
+        <translation>Innlimingstjeneste-&amp;type</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
@@ -23,7 +23,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Merk: Det er anbefalt at du endrer eller tømmer grunn-nettadressen etter å ha endret innlimingstjenestetypen.</translation>
+        <translation>Merk: Det er anbefalt at du endrer eller tømmer basis-URL-en etter å ha endret innlimingstjenestetypen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -34,12 +34,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>Microsoft-autentisering</translation>
+        <translation>&amp;Microsoft-autentisering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Obs: Du trenger mest sannsynlig ikke å legge til denne hvis innloggingen via Microsoft allerede fungerer.</translation>
+        <translation>Merk: Du trenger mest sannsynlig ikke å legge til denne hvis innloggingen via Microsoft allerede fungerer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -56,7 +56,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation>Modrinth-API</translation>
+        <translation>&amp;Modrinth-API</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -87,7 +87,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Legg til en egen GUID-klient-ID for Technic her.</translation>
+        <translation>Skriv inn en egen GUID-klient-ID for Technic her.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -102,7 +102,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="359"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Skriv inn en egendefinert brukeragent her. Den spesielle strengen $LAUNCHER_VER vil bli erstattet med versjonen av startprogrammet.</translation>
+        <translation>Skriv inn en egendefinert brukeragent her. Den spesielle teksten $LAUNCHER_VER vil bli erstattet med versjonen av startprogrammet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -2173,7 +2173,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne teksten støtter følgende plassholdere:
+{name}     - Mod-navn
+{mod_id}   - Mod-ID
+{url}      - Mod-URL
+{version}  - Mod-versjon
+{authors}  - Mod-opphavspersoner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -2792,7 +2797,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Tolker API respons fra CurseForge for &apos;%1&apos;...</translation>
+        <translation>Tolker API respons fra CurseForge for «%1» …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
@@ -2910,7 +2915,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="527"/>
         <source>Mod Download Flame</source>
-        <translation type="unfinished">Mod Download Flame</translation>
+        <translation>Nedlasting av mod: Flame</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="576"/>
@@ -3475,7 +3480,7 @@ Vennligst prøv på nytt.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished">Ingen java-versjoner er for øyeblikket tilgjengelige i metaen.</translation>
+        <translation>Ingen Java-versjoner er for øyeblikket tilgjengelige i metaen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
@@ -4226,7 +4231,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Kunne ikke bestemme Java-nedlastingstype!</translation>
+        <translation>Klarte ikke fastsette Java-nedlastingstype!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="316"/>
@@ -4306,7 +4311,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;PermGen:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
@@ -4538,17 +4543,17 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
         <source>Java Insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>Java insta&amp;llasjon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
         <source>Auto-&amp;detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-&amp;oppdag Java-versjon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="65"/>
         <source>Auto-detect...</source>
-        <translation type="unfinished">Auto-oppdaging...</translation>
+        <translation>Oppdag automatisk …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="72"/>
@@ -4568,7 +4573,7 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="91"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvis slått på, vil startprogrammet ikke spør hvilken Java-versjon som skal brukes, hvis den ikke fant en ved oppstart.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="94"/>
