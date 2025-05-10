@@ -107,7 +107,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>Meta&amp;data-server</translation>
+        <translation>Meta&amp;data-tjener</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
@@ -117,7 +117,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Du kan sette dette til en tredjeparts-metadataserver for å bruke andre biblioteker eller andre hacks.</translation>
+        <translation>Du kan velge en tredjeparts-metadatatjener for å bruke andre biblioteker eller andre juks.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -127,7 +127,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Merk: du trenger bare sette dette for å få tilgang til private data. Les &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentasjonen&lt;/a&gt; for mer informasjon.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Merk: du trenger bare velge dette for å få tilgang til private data. Les &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentasjonen&lt;/a&gt; for mer informasjon.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -157,18 +157,18 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="121"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Kunne ikke forstå pakkemanifestet:
+        <translation>Klarte ikke tolke pakkemanifestet:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="343"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Kunne ikke hente den lokale metadataindeksen for %1</translation>
+        <translation>Klarte ikke hente den lokale metadataindeksen for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="153"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Kunne ikke hente den lokale metadataindeksen for &apos;%1&apos; v%2</translation>
+        <translation>Klarte ikke hente den lokale metadataindeksen for «%1» v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="143"/>
@@ -178,7 +178,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="184"/>
         <source>Deleting existing files...</source>
-        <translation>Sletter eksisterende filer...</translation>
+        <translation>Sletter eksisterende filer …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="331"/>
@@ -188,12 +188,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="374"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Kunne ikke finne versjon for %1-laster</translation>
+        <translation>Klarte ikke finne versjon for %1-laster</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="387"/>
         <source>No loader version set for modpack!</source>
-        <translation>Ingen lasterversjon satt for modpacken!</translation>
+        <translation>Ingen lasterversjon satt for mod-pakken!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="517"/>
@@ -203,32 +203,32 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
         <source>Downloading configs...</source>
-        <translation>Laster ned konfigurasjoner...</translation>
+        <translation>Laster ned oppsett …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="631"/>
         <source>Config download</source>
-        <translation>Konfigurer nedlastinger</translation>
+        <translation>Sett opp nedlastinger</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="672"/>
         <source>Extracting configs...</source>
-        <translation>Pakker ut konfigurasjoner...</translation>
+        <translation>Pakker ut oppsett …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="678"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>Klarte ikke å åpne oppsettsfiler for pakker %1!</translation>
+        <translation>Klarte ikke åpne oppsettsfiler for pakkene %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="703"/>
         <source>Selecting optional mods...</source>
-        <translation>Velger valgfrie modder...</translation>
+        <translation>Velger valgfrie modifikasjoner …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="712"/>
         <source>Downloading mods...</source>
-        <translation>Laster ned mods...</translation>
+        <translation>Laster ned modifikasjoner …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"/>
@@ -248,37 +248,37 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="820"/>
         <source>Blocked mods found</source>
-        <translation>Blokkerte mods funnet</translation>
+        <translation>Fant blokkerte modifikasjoner</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="821"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>De følgene filene er ikke tilgjengelig til nedlastning i tredjeparts-oppstartere.&lt;br/&gt;Du må laste dem ned manuelt og legge dem til i instansen.</translation>
+        <translation>De følgene filene er ikke tilgjengelige for nedlastning i tredjeparts-oppstartere.&lt;br/&gt;Du må laste dem ned manuelt og legge dem til i instansen.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="877"/>
         <source>%1 out of %2 complete</source>
-        <translation>%1 av %2 ferdig</translation>
+        <translation>%1 av %2 fullført</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>Failed to extract mods...</source>
-        <translation>Klarte ikke å pakke ut modder...</translation>
+        <translation>Klarte ikke pakke ut modifikasjoner …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="922"/>
         <source>Extracting mods...</source>
-        <translation>Pakker ut modder...</translation>
+        <translation>Pakker ut modifikasjoner …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="994"/>
         <source>Installing modpack</source>
-        <translation>Installerer modpack</translation>
+        <translation>Installerer mod-pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1006"/>
         <source>Failed to create libraries component</source>
-        <translation>Klarte ikke å opprette bibliotekskomponent</translation>
+        <translation>Klarte ikke opprette bibliotekskomponent</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1033"/>
@@ -288,7 +288,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1047"/>
         <source>Failed to create pack component</source>
-        <translation>Klarte ikke å opprette pakkekomponent</translation>
+        <translation>Klarte ikke opprette pakkekomponent</translation>
     </message>
 </context>
 <context>
@@ -301,7 +301,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Alternativ oppstarter som gjør håndtering av Minecraft enklere ved å la deg å ha flere instanser av Minecraft gående samtidig.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;En tilpasset oppstarter som gjør håndtering av Minecraft enklere ved å la deg å ha flere instanser av Minecraft kjørende samtidig.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -362,7 +362,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
         <source>Build date: %1</source>
-        <translation>Byggdato: %1</translation>
+        <translation>Byggedato: %1</translation>
     </message>
     <message>
         <source>Build Number</source>
@@ -435,7 +435,7 @@
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>Avskrudd</translation>
+        <translation>Avslått</translation>
     </message>
     <message>
         <source>Gone</source>
@@ -445,7 +445,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>Kontotype (Microsoft-konto eller Frakoblet)</translation>
+        <translation>Kontotype (Microsoft-konto eller frakoblet)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -509,7 +509,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Minecraft-brukernavn forbundet med kontoen.</translation>
+        <translation>Minecraft-brukernavn knyttet til kontoen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
@@ -542,7 +542,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="105"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation>Slett</translation>
+        <translation>Sle&amp;tt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"/>
@@ -573,12 +573,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation>&amp;Administrer skins</translation>
+        <translation>&amp;Håndter skall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation>Administrer skins</translation>
+        <translation>Håndter skall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -596,12 +596,12 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>&amp;Oppfrisk</translation>
+        <translation>&amp;Oppdater</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
         <source>Refresh the account tokens</source>
-        <translation>Oppfrisk kontopolletter</translation>
+        <translation>Oppdater kontopolletter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="59"/>
@@ -621,17 +621,17 @@ Hvis du er ny her, kan du trykke «Legg til»-knappen for å legge til Mojang- e
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Velkommen!
-Hvis du er ny her, kan du trykke på «Legg til Microsoft-konto»-knappen for å koble til din Microsoft-bruker.</translation>
+Hvis du er ny her, kan du trykke på «Legg til Microsoft-konto»-knappen for å koble til din Microsoft-konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Ingen Microsoft-klient-ID ble satt.</translation>
+        <translation>Ingen Microsoft-autentisering-klient-ID ble satt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="106"/>
         <source>Context menu</source>
-        <translation>Kontekstmeny</translation>
+        <translation>Meny</translation>
     </message>
     <message>
         <source>Add account</source>
@@ -683,7 +683,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Vennligst oppgi brukernavnet du vil ha for å opprette din frakoblet-konto.</translation>
+        <translation>Skriv inn ditt brukernavn for å legge til en frakoblet konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -748,7 +748,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation>Alle versioner</translation>
+        <translation>Alle versjoner</translation>
     </message>
 </context>
 <context>
@@ -930,7 +930,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="20"/>
         <source>Updating assets index...</source>
-        <translation>Oppdaterer elementindeks...</translation>
+        <translation>Oppdaterer elementindeks …</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="26"/>
@@ -951,7 +951,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Henter ressurser fra Mojang...</translation>
+        <translation>Henter ressurser fra Mojang …</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="90"/>
@@ -1050,7 +1050,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Advarsel: Dette er fortsatt under utvikling. Hvis du møter på problemer med den importerte modpacken, kan det være et bug.</translation>
+        <translation>Advarsel: Dette er fortsatt under utvikling. Hvis du møter på problemer med den importerte mod-pakken, kan det være en feil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
@@ -1061,7 +1061,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Søk og filtrer...</translation>
+        <translation>Søk og filtrer …</translation>
     </message>
     <message>
         <source>Search</source>
@@ -1083,7 +1083,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation>Kunne ikke laste inn eller laste ned versjonslistene!</translation>
+        <translation>Klarte ikke laste inn eller laste ned versjonoppføringene!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
@@ -1106,12 +1106,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"/>
         <source>Waiting...</source>
-        <translation>Venter...</translation>
+        <translation>Venter …</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="95"/>
         <source>Working...</source>
-        <translation>Arbeider...</translation>
+        <translation>Arbeider …</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
@@ -1146,7 +1146,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
@@ -1174,7 +1174,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation>Metadatainformasjonen din er utdatert eller inneholder ikke nødvendig informasjon til å finne ut av hvilken Java versjon som bør brukes. Bruker standard Java-bane.</translation>
+        <translation>Metadatainformasjonen din er utdatert eller inneholder ikke nødvendig informasjon til å finne ut av hvilken Java-versjon som bør brukes. Bruker standard Java-mappe.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
@@ -1416,12 +1416,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="230"/>
         <source>Please wait...</source>
-        <translation>Vennligst vent...</translation>
+        <translation>Vent …</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="232"/>
         <source>Waiting for a task to start...</source>
-        <translation>Venter på at en oppgave starter...</translation>
+        <translation>Venter på at en oppgave starter …</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="234"/>
@@ -1641,7 +1641,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="14"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation>Kunne ikke opprette hovedspill folder</translation>
+        <translation>Klarte ikke opprette hovedspillmappa</translation>
     </message>
 </context>
 <context>
@@ -1787,7 +1787,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="23"/>
         <source>Scanning files...</source>
-        <translation>Skanner filer...</translation>
+        <translation>Leter etter filer …</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="41"/>
@@ -1851,34 +1851,34 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>Sjekker om noen av moddsene har metadata...</translation>
+        <translation>Kontrollerer at modifikasjonene har metadata …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
         <source>Checking if resources have metadata...</source>
-        <translation>Sjekker om ressurser har metadata...</translation>
+        <translation>Kontrollerer at ressursene har metadata …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
         <source>Requesting metadata information from %1...</source>
-        <translation>Forespør metadata informasjon fra %1...</translation>
+        <translation>Ber om metadata informasjon fra %1 …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>Forespør metadata informasjon fra %1 for &apos;%2&apos;...</translation>
+        <translation>Ber om metadata informasjon fra %1 for «%2» …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="332"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>Tolker API respons fra Modrinth for &apos;%1&apos;...</translation>
+        <translation>Tolker API respons fra Modrinth for «%1» …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="393"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="461"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Tolker API respons fra CurseForge for &apos;%1&apos;...</translation>
+        <translation>Tolker API respons fra CurseForge for «%1» …</translation>
     </message>
 </context>
 <context>
@@ -2332,12 +2332,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="149"/>
         <source>View &amp;Folder</source>
-        <translation>Vis &amp;Folder</translation>
+        <translation>Vis &amp;mapper</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
         <source>Open the folder in the system file manager.</source>
-        <translation>Åpne den valgte mappen i systemets filutforsker.</translation>
+        <translation>Åpne den valgte mappen i systemets filbehandler.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"/>
@@ -2456,8 +2456,8 @@ Er du sikker?</translation>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>Du er i ferd med å fjerne folder « %1 »
-Dette kan være permanent, og vil bli borte fra overordnet folder.
+        <translation>Du er i ferd med å fjerne mappa «%1»
+Dette kan være permanent, og vil bli borte fra overmappa.
 
 Er du sikker?</translation>
     </message>
@@ -2631,7 +2631,7 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="86"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>Kunne ikke pakke ut jar fil &apos;%1&apos; til destinasjon &apos;%2&apos;</translation>
+        <translation>Klarte ikke pakke ut jar-fila «%1» til mappa «%2»</translation>
     </message>
 </context>
 <context>
@@ -2639,12 +2639,12 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation>Ser etter FML-bibliotek...</translation>
+        <translation>Leter etter FML-bibliotek …</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation>Laster ned FML-bibliotek...</translation>
+        <translation>Laster ned FML-bibliotek …</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
@@ -2654,7 +2654,7 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Kopierer FML-bibliotek til instansen...</translation>
+        <translation>Kopierer FML-bibliotek til instansen …</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
@@ -2703,7 +2703,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
-        <translation>Søk og filtrer...</translation>
+        <translation>Søk og filtrer …</translation>
     </message>
     <message>
         <source>Search</source>
@@ -2735,12 +2735,12 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation>Kopierer filer...</translation>
+        <translation>Kopierer filer …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation>Kopierer instillinger...</translation>
+        <translation>Kopierer innstillinger …</translation>
     </message>
 </context>
 <context>
@@ -2748,7 +2748,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="52"/>
         <source>Resolving mod IDs...</source>
-        <translation>Løser mod-IDer...</translation>
+        <translation>Løser mod-ID-er …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"/>
@@ -2759,7 +2759,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="256"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Tolker API respons fra CurseForge for &apos;%1&apos;...</translation>
+        <translation>Tolker API respons fra CurseForge for «%1» …</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -2772,27 +2772,27 @@ Vennligst prøv på nytt.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation>Forbereder ressurser for CurseForge...</translation>
+        <translation>Forbereder ressurser for CurseForge …</translation>
     </message>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>Får API-var fra CurseForge for &apos;%1&apos;...</translation>
+        <translation>Innhenter API respons fra CurseForge for «%1» …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="92"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Analyserer API-svaret fra CurseForge for &apos;%1&apos;...</translation>
+        <translation>Tolker API respons fra CurseForge for «%1» …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Ingen gyldig version funnet for denne ressursen. Den er sannsynligvis ikke tilgjengelig for den nåværende versjonen av spillet / mod lasteren.</translation>
+        <translation>Fant ingen gyldig versjon for denne ressursen. Den er sannsynligvis ikke tilgjengelig for den nåværende versjonen av spill- / mod-lasteren.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation>Ingen gyldig versjon funnet for denne ressursen. Den er sannsynligvis utilgjengelig for denne versjonen av spillet.</translation>
+        <translation>Fant ingen gyldig versjon for denne ressursen. Den er sannsynligvis utilgjengelig for denne versjonen av spillet.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
@@ -2816,11 +2816,11 @@ Vennligst prøv på nytt.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Forbereder mods for CurseForge...</translation>
+        <translation>Forbereder modifikasjoner for CurseForge …</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Ingen gyldige versjoner funnet for denne mod. Det er sannsynligvis utilgjengelig for gjeldende spillversjon / mod-laster.</translation>
+        <translation>Fant ingen gyldige versjoner for denne modifikasjonen. Det er sannsynligvis utilgjengelig for gjeldende spillversjon / mod-laster.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
@@ -2851,7 +2851,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>Vi fant ikke en passende indeksfil for den eldre versjonen. Dette kan føre til at noen av filene dupliseres. Vil du fortsette?</translation>
+        <translation>Fant ikke en passende indeksfil for den eldre versjonen. Dette kan føre til at noen av filene dupliseres. Vil du fortsette?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
@@ -2866,7 +2866,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
         <source>No loader version set for modpack!</source>
-        <translation>Ingen lasterversjon satt for modpack!</translation>
+        <translation>Ingen lasterversjon satt for mod-pakken!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="347"/>
@@ -2878,7 +2878,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="352"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>Den angitte overrides folder (%1) mangler. Kanskje modpacken har blitt brukt før?</translation>
+        <translation>Den angitte overstyringsmappa (%1) mangler. Kanskje mod-pakken har blitt brukt før?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
@@ -2925,7 +2925,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="589"/>
         <source>Copying Blocked Mods...</source>
-        <translation>Kopierer blokkerte Mods...</translation>
+        <translation>Kopierer blokkerte modifikasjoner …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="602"/>
@@ -2951,7 +2951,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="581"/>
         <source>Downloading mods...</source>
-        <translation>Laster ned mods...</translation>
+        <translation>Laster ned modifikasjoner …</translation>
     </message>
 </context>
 <context>
@@ -2959,7 +2959,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="434"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Hei!&lt;/h1&gt;&lt;h4&gt;Det ser ut til at pakke-ID-en din er null. Dette er på grunn av en feil i eldre versjoner av launcheren.&lt;br/&gt;Dessverre kan vi ikke gjøre de riktige API-forespørslene uten denne informasjonen.&lt;br/&gt;&lt;br/&gt;Så for at denne funksjonen skal fungere, du må laste ned modpacken på nytt fra den innebygde nedlasteren.&lt;br/&gt;&lt;br/&gt;Ikke vær bekymret, den vil be deg om å oppdatere denne forekomsten i stedet, slik at du ikke mister denne forekomsten!&lt; /h4&gt;</translation>
+        <translation>&lt;h1&gt;Hei!&lt;/h1&gt;&lt;h4&gt;Det ser ut til at pakke-ID-en din er null. Dette er på grunn av en feil i eldre versjoner av startprogrammet.&lt;br/&gt;Dessverre kan vi ikke gjøre de riktige API-forespørslene uten denne informasjonen.&lt;br/&gt;&lt;br/&gt;Så for at denne funksjonen skal fungere, du må laste ned modpakken på nytt fra den innebygde nedlasteren.&lt;br/&gt;&lt;br/&gt;Ikke vær bekymret, den vil be deg om å oppdatere denne instansen i stedet, slik at du ikke mister denne instansen!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="496"/>
@@ -2993,7 +2993,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="64"/>
         <source>Searching for files...</source>
-        <translation>Søker etter filer...</translation>
+        <translation>Søker etter filer …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="85"/>
@@ -3003,28 +3003,28 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="102"/>
         <source>Finding file hashes...</source>
-        <translation>Finner fil-hasher...</translation>
+        <translation>Finner fil-nøkkel …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="184"/>
         <source>Finding versions for hashes...</source>
-        <translation>Finner versjoner for hasher...</translation>
+        <translation>Finner versjoner for nøkkel …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="298"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Tolker API respons fra CurseForge for &apos;%1&apos;...</translation>
+        <translation>Tolker API respons fra CurseForge for «%1» …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="255"/>
         <source>Finding project info from CurseForge...</source>
-        <translation>Finner prosjektinformasjon fra CurseForge...</translation>
+        <translation>Finner prosjektinformasjon fra CurseForge …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="335"/>
         <source>Adding files...</source>
-        <translation>Legger til filer...</translation>
+        <translation>Legger til filer …</translation>
     </message>
 </context>
 <context>
@@ -3042,7 +3042,7 @@ Vennligst prøv på nytt.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Merk: CurseForge lar skapere blokkere tilgang til tredjepartsverktøy som Prism Launcher. Så du må kanskje laste ned noen mods manuelt for å kunne installere en modpack.</translation>
+        <translation>Merk: CurseForge lar skapere blokkere tilgang til tredjepartsverktøy som Prism Launcher. Så du må kanskje laste ned noen modifikasjoner manuelt for å kunne installere en mod-pakke.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -3053,7 +3053,7 @@ Vennligst prøv på nytt.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Søk og filtrer...</translation>
+        <translation>Søk og filtrer …</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -3138,7 +3138,7 @@ Vennligst prøv på nytt.</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="50"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation>Kunne ikke opprette mappe for Minecraft-binærfiler.</translation>
+        <translation>Klarte ikke opprette mapper for Minecraft-programfiler.</translation>
     </message>
 </context>
 <context>
@@ -3294,7 +3294,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
         <source>Search...</source>
-        <translation>Søk...</translation>
+        <translation>Søk …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
@@ -3349,12 +3349,12 @@ Vennligst prøv på nytt.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation>- CurseForge modpacks (ZIP / curseforge:// URL)</translation>
+        <translation>- CurseForge-mod-pakker (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- Modrinth modpacks (ZIP and mrpack)</translation>
+        <translation>- Modrinth-mod-pakker (ZIP and mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
@@ -3365,7 +3365,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- Technic modpacks (ZIP)</translation>
+        <translation>- Technic-mod-pakker (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -3388,12 +3388,12 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>Modpacken %1 er blokkert for tredjeparter! Vennligst last den ned manuelt.</translation>
+        <translation>Mod-pakken %1 er blokkert for tredjeparter! Vennligst last den ned manuelt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation>Denne url-en er ikke en gyldig modpack!</translation>
+        <translation>Denne URL-en er ikke en gyldig modpakke!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
@@ -3414,7 +3414,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
         <source>Choose modpack</source>
-        <translation>Velg modpack</translation>
+        <translation>Velg mod-pakke</translation>
     </message>
     <message>
         <source>Zip (*.zip)</source>
@@ -3471,7 +3471,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="140"/>
         <source>Report issues to: </source>
-        <translation>Rapporter problemer til: </translation>
+        <translation>Meld fra om feil til: </translation>
     </message>
 </context>
 <context>
@@ -3487,7 +3487,7 @@ Vennligst prøv på nytt.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation>Klarte ikke å laste eller laste ned java-versjonslistene!</translation>
+        <translation>Klarte ikke laste inn eller laste ned Java-versjonoppføringene!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
@@ -3604,7 +3604,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="44"/>
         <source>Removing old conflicting files...</source>
-        <translation>Fjerner gamle motstridende filer ...</translation>
+        <translation>Fjerner gamle motstridende filer …</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="60"/>
@@ -3618,13 +3618,13 @@ Vennligst prøv på nytt.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="86"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Laster ned modpack:
+        <translation>Laster ned mod-pakke:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="100"/>
         <source>Modpack download</source>
-        <translation>Last ned modpack</translation>
+        <translation>Last ned mod-pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="149"/>
@@ -3634,18 +3634,18 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="186"/>
         <source>Extracting modpack</source>
-        <translation>Pakker ut modpack</translation>
+        <translation>Pakker ut mod-pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="156"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Kunne ikke åpne den medfølgende modpack-zip-filen.</translation>
+        <translation>Klarte ikke åpne den oppgitte mod-pakke-zip-filen.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="183"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="260"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>Arkiv inneholder ikke en gjenkjent modpack-type.</translation>
+        <translation>Arkiv inneholder ikke en gjenkjent mod-pakke-type.</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -3756,7 +3756,7 @@ Vennligst prøv på nytt.</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation>Auto-oppdaging...</translation>
+        <translation>Auto-oppdaging …</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -3924,7 +3924,7 @@ Vennligst prøv på nytt.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver Feral Interactives GameMode, for potensielt å forbedre spillytelsen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bruk Feral Interactives GameMode, for å potensielt forbedre spillytelsen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
@@ -4061,7 +4061,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="473"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Klikk på &quot;Add Instance&quot; for å starte.</translation>
+        <translation>Trykk på «Legg til en instans» for å fortsette.</translation>
     </message>
 </context>
 <context>
@@ -4273,7 +4273,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation>Samler mapper for symbolsk lenking</translation>
+        <translation>Samler inn mapper for symbolsk lenking</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
@@ -4286,7 +4286,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <source>Detecting Java installations...</source>
-        <translation>Oppdager Java-installasjoner...</translation>
+        <translation>Oppdager Java-installasjoner …</translation>
     </message>
 </context>
 <context>
@@ -4383,7 +4383,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>Auto-oppdaging...</translation>
+        <translation>%Oppdager automatisk …</translation>
     </message>
     <message>
         <source>&amp;Test</source>
@@ -4469,7 +4469,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="113"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation>Du kommer til å fjerne  Javainstallasjonsnavnet &quot;%1&quot;.
+        <translation>Du er i ferd med å fjerne Java-installasjonen «%1».
 Er du sikker?</translation>
     </message>
 </context>
@@ -4826,7 +4826,7 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>Ser ikke språket ditt eller inneholder det skriveleif?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Hjelp oss med oversetteser!&lt;/a&gt;</translation>
+        <translation>Ser du ikke språket ditt eller er oversettelsen dårlig?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Hjelp oss med å oversette!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
@@ -5146,7 +5146,7 @@ Det kan hende at du må fikse modsa dine, sia spellet logger fortsatt på filer 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="139"/>
         <source>Rename instance folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv inn nytt navn til instansmappene</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="147"/>
@@ -5176,7 +5176,7 @@ Det kan hende at du må fikse modsa dine, sia spellet logger fortsatt på filer 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="273"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>Når skrudd på, i tillegg til nedlastingsmappen, så vil undermappene også bli søkt gjennom når den ser etter ressurser (for eksempel når den ser etter blokkerte mods i CurseForge).</translation>
+        <translation>Når slått på, i tillegg til nedlastingsmappen, så vil undermappene også bli søkt gjennom når den ser etter ressurser (for eksempel når den ser etter blokkerte modifikasjoner i CurseForge).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="276"/>
@@ -5296,12 +5296,12 @@ Det kan hende at du må fikse modsa dine, sia spellet logger fortsatt på filer 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>Når du lager en ny modpackinstanse, ikke foreslå å oppdatere eksisterende instanser istedenfor.</translation>
+        <translation>Når du lager en ny mod-pakke instans, ikke foreslå å oppdatere eksisterende instanser istedenfor.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="337"/>
         <source>Skip modpack update prompt</source>
-        <translation>Hopp over modpackoppdateringsspørring</translation>
+        <translation>Hopp over mod-pakke oppdatering instruksjon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="347"/>
@@ -5496,7 +5496,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="396"/>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[Test/DEBUG] En hemmelig debugging beskjed...</translation>
+        <translation>[Test/DEBUG] En hemmelig feilsøking beskjed …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="397"/>
@@ -5506,7 +5506,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="394"/>
         <source>[Test/INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/INFO] En ufarlig beskjed …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="60"/>
@@ -5565,17 +5565,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="128"/>
         <source>Public Modpack</source>
-        <translation>Offentlig modpack</translation>
+        <translation>Offentlig mod-pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="130"/>
         <source>Third Party Modpack</source>
-        <translation>Tredjeparts-modpack</translation>
+        <translation>Tredjeparts-mod-pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="132"/>
         <source>Private Modpack</source>
-        <translation>Privat modpack</translation>
+        <translation>Privat mod-pakke</translation>
     </message>
 </context>
 <context>
@@ -5610,17 +5610,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
         <source>Extracting modpack</source>
-        <translation>Pakker ut modpacken</translation>
+        <translation>Pakker ut mod-pakken</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="107"/>
         <source>Failed to open modpack file %1!</source>
-        <translation>Kunne ikke åpne modpackfilen %1!</translation>
+        <translation>Klarte ikke åpne mod-pakkefila %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="130"/>
         <source>Installing modpack</source>
-        <translation>Installerer modpack</translation>
+        <translation>Installerer mod-pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="136"/>
@@ -5643,7 +5643,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Søk og filtrer...</translation>
+        <translation>Søk og filtrer …</translation>
     </message>
     <message>
         <source>Search</source>
@@ -5786,7 +5786,7 @@ Vil du fjerne den?</translation>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation>Laster ned nødvendige biblioteksfiler...</translation>
+        <translation>Laster ned nødvendige biblioteksfiler …</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -5988,7 +5988,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
-        <translation>legg til Microsoft bruker</translation>
+        <translation>Legg til Microsoft-konto</translation>
     </message>
 </context>
 <context>
@@ -6034,7 +6034,7 @@ Grunn:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="561"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakker ut tomme arkiver, merkelig …</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="565"/>
@@ -6101,13 +6101,13 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
         <source>Add Microsoft Account</source>
-        <translation>Legg til Microsoft Konto</translation>
+        <translation>Legg til Microsoft-konto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="218"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Vennligst vent...</translation>
+        <translation>Vent …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
@@ -6275,7 +6275,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="605"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne feilbehandler for å melde fra om feil med %1.</translation>
     </message>
     <message>
         <source>Discord guild</source>
@@ -6337,17 +6337,17 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Flere nyheter …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne utviklingsbloggen for å lese flere nyheter om %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rediger …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
@@ -6357,7 +6357,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;ksporter …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
@@ -6367,7 +6367,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="435"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopie&amp;r …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -6392,7 +6392,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>Legg til instan&amp;s …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
@@ -6403,7 +6403,7 @@ Grunn:
         <location filename="src/launcher/ui/MainWindow.ui" line="316"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Inn&amp;stillinger …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
@@ -6503,7 +6503,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="646"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Om %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
@@ -6579,7 +6579,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>Annet …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
@@ -6589,7 +6589,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
         <source>&amp;Update...</source>
-        <translation>%Oppdater...</translation>
+        <translation>&amp;Oppdater …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
@@ -6599,7 +6599,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>&amp;Handter Kontoer...</translation>
+        <translation>&amp;Håndter kontoer …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="275"/>
@@ -6674,7 +6674,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation>Reporter en Feil eller Foreslå en Funksjon</translation>
+        <translation>Meld fra om feil eller foreslå en funksjon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="627"/>
@@ -6725,7 +6725,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Endre grupperinger …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="380"/>
@@ -6746,11 +6746,11 @@ Grunn:
         <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1689"/>
         <source>Create Shortcut</source>
-        <translation>Lag Snarveg</translation>
+        <translation>Lag snarvei</translation>
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>Lag en snarveg på skrivebordet ditt for å kjøre den valgte instansen.</translation>
+        <translation>Lag en snarvei på skrivebordet ditt for å kjøre den valgte instansen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
@@ -6777,7 +6777,7 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>Du er i ferd med å slette &quot;%1&quot;.
+        <translation>Du er i ferd med å slette «%1».
 Dette kan være permanent og vil fullstendig slette denne instansen.
 
 Er du sikker?</translation>
@@ -6938,7 +6938,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="826"/>
         <source>Loading news...</source>
-        <translation>Laster inn nyheter...</translation>
+        <translation>Laster nyheter …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="836"/>
@@ -6970,12 +6970,12 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1004"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>Modpacken, modden eller ressursen %1 er blokkert for tredjeparter! Vennligst last den ned manuelt.</translation>
+        <translation>Mod-pakken, modifikasjonen eller ressursen %1 er blokkert for tredjeparter! Vennligst last den ned manuelt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1038"/>
         <source>Modpack download</source>
-        <translation>Last ned modpack</translation>
+        <translation>Last ned mod-pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1073"/>
@@ -7282,7 +7282,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
         <source>Fetching versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Henter versjoner …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
@@ -7309,7 +7309,7 @@ Do you wish to proceed?</source>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Dette er en lokal modpack.
+        <translation>Dette er en lokal mod-pakke.
 Den kan bare oppdateres med en fil i %1-formatet
 </translation>
     </message>
@@ -7356,7 +7356,7 @@ Den kan bare oppdateres med en fil i %1-formatet
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="230"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation>Kunne ikke finne endringsloggsdata til denne modpacken.</translation>
+        <translation>Klarte ikke finne endringsloggsdata til denne mod-pakken.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="232"/>
@@ -8354,11 +8354,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Add file</source>
-        <translation type="unfinished"></translation>
+        <translation>Legg til fil</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation>Legg til en lokal fil</translation>
+        <translation>Legg til en lokal nedlastet fil</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
@@ -8499,7 +8499,8 @@ Are you sure you want to do this?</oldsource>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="286"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er i ferd med å slette metadataen for %1-modifikasjonene.
+Er du sikker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="236"/>
@@ -8574,7 +8575,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er i ferd med å oppdatere følgende modifikasjoner:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
@@ -8610,7 +8611,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ser etter oppdateringer …</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
@@ -8635,7 +8636,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation>Sjekker filkrav...</translation>
+        <translation>Kontrollerer avhengigheter …</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
@@ -8647,7 +8648,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Genererer metadata …</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
@@ -8724,20 +8725,20 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="353"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="356"/>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="353"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation>En nettverksfeil forekom. Kunne ikke laste inn modpacks.</translation>
+        <translation>Det hendte en nettverksfeil. Klarte ikke laste mod-pakkene.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="360"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>API-versjon for gammel!
-Vennligst oppdater %1!</translation>
+        <translation>API-versjonen er for gammel!
+Oppdater %1!</translation>
     </message>
 </context>
 <context>
@@ -8745,12 +8746,12 @@ Vennligst oppdater %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="32"/>
         <source>Preparing resources for Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Forbereder ressurser for Modrinth …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="77"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolker API respons fra Modrinth …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="143"/>
@@ -8774,7 +8775,7 @@ Vennligst oppdater %1!</translation>
     </message>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Forbereder modifikasjoner for Modrinth …</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -8783,7 +8784,7 @@ Vennligst oppdater %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="60"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Venter på API respons fra Modrinth …</translation>
     </message>
 </context>
 <context>
@@ -8844,7 +8845,7 @@ Vennligst oppdater %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="306"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Laster ned mods...</translation>
+        <translation>Laster ned modifikasjoner …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="414"/>
@@ -8868,7 +8869,7 @@ Vennligst oppdater %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="316"/>
         <source>Fetching changelogs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Henter endringslogg …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="396"/>
@@ -8886,7 +8887,7 @@ Vennligst oppdater %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="57"/>
         <source>Searching for files...</source>
-        <translation type="unfinished">Søker etter filer...</translation>
+        <translation>Leter etter filer …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="78"/>
@@ -8896,12 +8897,12 @@ Vennligst oppdater %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="94"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished">Finner fil-hasher...</translation>
+        <translation>Finner filnøkler …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="155"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">Finner versjoner for hasher...</translation>
+        <translation>Finner nøkkelversjoner …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="191"/>
@@ -8911,7 +8912,7 @@ Vennligst oppdater %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="200"/>
         <source>Adding files...</source>
-        <translation type="unfinished">Legger til filer...</translation>
+        <translation>Legger til filer …</translation>
     </message>
 </context>
 <context>
@@ -8928,7 +8929,7 @@ Vennligst oppdater %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Søk og filtrer...</translation>
+        <translation>Søk og filtrer …</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -9087,7 +9088,7 @@ Vennligst oppdater %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="17"/>
         <source>Add Empty Component</source>
-        <translation>Legg til tomt komponent</translation>
+        <translation>Legg til tom komponent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
@@ -9241,7 +9242,7 @@ Vennligst oppdater %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="20"/>
         <source>Add Account</source>
-        <translation type="unfinished">Legg til konto</translation>
+        <translation>Legg til konto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
@@ -9454,7 +9455,10 @@ Vennligst oppdater %1!</translation>
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er i ferd med å slette «%1».
+Dette kan gjelde for alltid og vil fjernes fra loggmappa.
+
+Er du sikker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="313"/>
@@ -9656,7 +9660,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="94"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Leter etter oppdateringer …</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
@@ -10207,17 +10211,17 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation>Vennligst vent...</translation>
+        <translation>Vent …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>Global oppgavestatus …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="59"/>
         <source>Global Status Details...</source>
-        <translation type="unfinished"></translation>
+        <translation>Globale statusdetaljer …</translation>
     </message>
     <message>
         <source>Task Status...</source>
@@ -10280,7 +10284,7 @@ HTTP Status: %2</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation type="unfinished">Adresse og port</translation>
+        <translation>&amp;Adresse og port</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
@@ -10378,7 +10382,7 @@ HTTP Status: %2</source>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 Utviklere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="102"/>
@@ -10402,7 +10406,10 @@ HTTP Status: %2</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er i ferd med å laste opp «%1» til %2.
+Du burde kontrollere etter personliginformasjon.
+
+Er du sikker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="112"/>
@@ -10481,7 +10488,7 @@ Error message: %1</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Java-testen var vellykket!&lt;br /&gt;Plattform rapportert: %1&lt;br /&gt;Java-versjon rapportert: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
@@ -10692,7 +10699,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="71"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Java-testen var vellykket!&lt;br /&gt;Plattform rapportert: %1&lt;br /&gt;Java-versjon rapportert: %2&lt;br /&gt;Java-leverandør rapportert: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
@@ -10782,16 +10789,16 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
         <source>Similar modpack was found!</source>
-        <translation>Lignende modpack ble funnet!</translation>
+        <translation>Fant lignende mod-pakke!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="32"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>En eller flere av instansene dine er fra samme modpack: %1. Vil du lage en ny instanse, eller oppdatere den gamle?
+        <translation>En eller flere av instansene dine er fra samme mod-pakke: %1. Vil du lage en ny instans, eller oppdatere den gamle?
 
-MERK: Pass på at du har en kopi av instansedataene før du oppdaterer, ettersom verdener kan bli korrupte og noe konfigurasjon kan gå tapt (på grunn av overskrivning av modpacken).</translation>
+MERK: Pass på at du har en kopi av instansedataene før du oppdaterer, ettersom verdener kan bli korrupte og noen oppsett kan gå tapt (på grunn av overskrivning av mod-pakken).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="38"/>
@@ -10923,7 +10930,7 @@ MERK: Pass på at du har en kopi av instansedataene før du oppdaterer, ettersom
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="163"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke grupert</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="102"/>
@@ -10964,7 +10971,7 @@ MERK: Pass på at du har en kopi av instansedataene før du oppdaterer, ettersom
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
         <source>%1, a dependency of this component, has reported issues</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, en avhengighet av denne komponenten, har meldt fra om feil</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
@@ -11207,7 +11214,7 @@ Er du sikker på at du vil lukke denne dialogboksen?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="166"/>
         <source>Checking for dependencies...</source>
-        <translation>Sjekker filkrav...</translation>
+        <translation>Kontrollerer avhengigheter …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
@@ -11295,7 +11302,7 @@ Vennligst oppdater %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="112"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
-        <translation>Søk etter %1...</translation>
+        <translation>Søk etter %1 …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="113"/>
@@ -11372,7 +11379,7 @@ Vennligst oppdater %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="336"/>
         <source>Loading versions...</source>
-        <translation>Laster inn versjoner...</translation>
+        <translation>Laster inn versjoner …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"/>
@@ -11864,7 +11871,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="127"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ser etter oppdateringer …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
@@ -11895,7 +11902,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="217"/>
         <source>Checking for dependencies...</source>
-        <translation>Sjekker filkrav...</translation>
+        <translation>Kontrollerer avhengigheter …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="237"/>
@@ -11915,7 +11922,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="377"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Genererer metadata …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="430"/>
@@ -12735,7 +12742,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="344"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er i ferd med å slette «%1».
+Er du sikker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="361"/>
@@ -12877,7 +12885,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
         <source>Sub Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>Underoppgavestatus …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="69"/>
@@ -12908,28 +12916,28 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="44"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Laster ned modpack:
+        <translation>Laster ned mod-pakke:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="49"/>
         <source>Modpack download</source>
-        <translation>Last ned modpack</translation>
+        <translation>Last ned mod-pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="64"/>
         <source>Extracting modpack</source>
-        <translation>Pakker ut modpack</translation>
+        <translation>Pakker ut mod-pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="71"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="unfinished">Kunne ikke åpne den medfølgende modpakke-zip-filen.</translation>
+        <translation>Klarte ikke åpne den oppgitte mod-pakke-zip-fila.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="99"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished">Kunne ikke pakke ut modpakke</translation>
+        <translation>Klarte ikke pakke ut mod-pakken</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="120"/>
@@ -12948,13 +12956,13 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="71"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="73"/>
         <source>Resolving modpack files</source>
-        <translation>Finner modpackfiler</translation>
+        <translation>Løser mod-pakkefiler</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="86"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="109"/>
         <source>Downloading modpack</source>
-        <translation>Laster ned modpack</translation>
+        <translation>Laster ned mod-pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
@@ -12966,12 +12974,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="138"/>
         <source>Extracting modpack</source>
-        <translation>Pakker ut modpack</translation>
+        <translation>Pakker ut mod-pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="181"/>
         <source>Failed to extract modpack</source>
-        <translation>Kunne ikke pakke ut modpack</translation>
+        <translation>Klarte ikke pakke ut mod-pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="202"/>
@@ -12989,7 +12997,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="58"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
-        <translation>Kunne ikke åpne «bin/modpack.jar»-filen!</translation>
+        <translation>Klarte ikke åpne «bin/modpack.jar»-fila!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="67"/>
@@ -13006,7 +13014,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="87"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation>Kunne ikke finne «version.json» i «bin/modpack.jar», men Minecraft-versjonen er ukjent</translation>
+        <translation>Klarte ikke finne «version.json» i «bin/modpack.jar», men Minecraft-versjonen er ukjent</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="101"/>
@@ -13042,7 +13050,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Søk og filtrer...</translation>
+        <translation>Søk og filtrer …</translation>
     </message>
     <message>
         <source>Search</source>
@@ -13639,12 +13647,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
         <source>Add Agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Legg til agenter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="195"/>
         <source>Add Java agents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Legg til Java-agenter.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="200"/>
@@ -13731,7 +13739,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
         <source>Add an empty custom component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Legg til en tom egendefinert komponent.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"/>
@@ -14195,7 +14203,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
         <source>Information and warnings about the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Informasjon og advarsler om verden.</translation>
     </message>
 </context>
 <context>
@@ -14354,7 +14362,10 @@ Do you wish to proceed?</source>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er i ferd med å slette «%1».
+Denne verden vil fjernes for alltid (EN VELDIG LANG TID).
+
+Er du sikker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="395"/>
