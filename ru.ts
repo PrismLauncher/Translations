@@ -4947,7 +4947,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="94"/>
         <source>Skip Java setup prompt on startup</source>
-        <translation>Пропустить запрос настройки Java при запуске</translation>
+        <translation>Пропустить запрос на установку Java при запуске</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="101"/>
@@ -5182,7 +5182,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="521"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Максимальное выделение памяти меньше минимального значения</translation>
+        <translation>Ваш максимальный объем выделенной памяти меньше минимального значения</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
