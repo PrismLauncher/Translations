@@ -301,7 +301,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mukautettu käynnistyssovellus, joka tekee Minecraftin hallitsemisesta helpompaa antaen sinulla olla monta pelipakettia kerralla.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mukautettu käynnistinsovellus, joka tekee Minecraftin hallitsemisesta helpompaa antamalla sinulla olla useita Minecraft-asennuksia kerralla.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -2157,7 +2157,12 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä kenttä tukee seuraavia paikkamerkkejä:
+{name}     - Modin nimi
+{mod_id}   - Modin tunnus
+{url}      - Modin URL-osoite
+{version}  - Modin versio
+{authors}  - Modin tekijät</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -3964,19 +3969,19 @@ Yritä uudelleen.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä Feral Interactive:n GameMode:a, joka voi mahdollisesti parantaa pelin suorituskykyä.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä Feral Interactiven GameModea, joka voi mahdollisesti parantaa pelin suorituskykyä.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Käytä Feral GameMode:a</translation>
+        <translation>Käytä Feral GameModea</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä MangoHud:in edistynyttä suorituskyvyn peittokuvaa&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä MangoHudin edistynyttä suorituskyvyn peittokuvaa.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Käytä MangoHud:ia</translation>
+        <translation>Käytä MangoHudia</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -4013,11 +4018,11 @@ Yritä uudelleen.</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation>Näytä tätä instanssia pelattu aika</translation>
+        <translation>Näytä tässä pelipaketissa vietetty aika</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation>Tallenna tätä instanssia pelattu aika</translation>
+        <translation>Tallenna tässä pelipaketissa vietetty aika</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
@@ -4039,11 +4044,11 @@ Yritä uudelleen.</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Feral Interactive:n GameMode:a ei löydetty järjestelmältäsi.</translation>
+        <translation>Feral Interactiven GameModea ei löydetty järjestelmästäsi.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>MangoHud:ia ei löydetty järjestelmältäsi.</translation>
+        <translation>MangoHudia ei löydetty järjestelmästäsi.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
@@ -4949,7 +4954,7 @@ Voit muuttaa Java-version myöhemmin asetuksista.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="312"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistimen asiakastunnus on muuttunut. Poista &apos;%1&apos; ja yritä uudelleen.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="322"/>
@@ -5503,7 +5508,7 @@ Sinun tarvitsee ehkä korjata modisi, koska peli jatkaa silti lokin kirjoittamis
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="582"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation>&amp;Lopeta lokin tarkastelu kun loki ylittää rajan</translation>
+        <translation>&amp;Lopeta lokin kirjaaminen, kun raja ylittyy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="595"/>
@@ -5599,7 +5604,7 @@ Luvan myöntäminen %1:lle Flatseal:illa on suositeltua.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="397"/>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation>[Test/FATAL] Kauhistuttava vakava virhe!</translation>
+        <translation>[Test/FATAL] Kauhistuttavan vakava virhe!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -7723,7 +7728,7 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation>Näytä pelattu aika tunteina</translation>
+        <translation>Näytä peliaika tunteina</translation>
     </message>
     <message>
         <source>Tweaks</source>
@@ -7749,7 +7754,7 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>Käytä järjestelmän &amp;GLFW asennusta</translation>
+        <translation>Käytä järjestelmän &amp;GLFW-asennusta</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
@@ -7758,7 +7763,7 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>Käytä järjestelmän &amp;OpenAL asennusta</translation>
+        <translation>Käytä järjestelmän &amp;OpenAL-asennusta</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
@@ -7770,19 +7775,19 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä Feral Interactive:n GameMode:a, joka voi mahdollisesti parantaa pelin suorituskykyä.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä Feral Interactiven GameModea, joka voi mahdollisesti parantaa pelin suorituskykyä.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Käytä Feral GameMode:a</translation>
+        <translation>Käytä Feral GameModea</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä MangoHud:in edistynyttä suorituskyvyn peittokuvaa&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä MangoHudin edistynyttä suorituskyvyn peittokuvaa.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Käytä MangoHud:ia</translation>
+        <translation>Käytä MangoHudia</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -7811,17 +7816,17 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>Näytä &amp;pelattu aika</translation>
+        <translation>Näytä &amp;pelipaketeissa vietetty aika</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>Näytä pelattu aika &amp;kaikkien pelipakettien välillä</translation>
+        <translation>Näytä vietetty aika &amp;kaikkien pelipakettien välillä</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>&amp;Tallenna pelattu aika</translation>
+        <translation>&amp;Tallenna pelipaketeissa vietetty aika</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -7862,11 +7867,11 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Feral Interactive:n GameMode:a ei löydetty järjestelmältäsi.</translation>
+        <translation>Feral Interactiven GameModea ei löydetty järjestelmästäsi.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>MangoHud:ia ei löydetty järjestelmältäsi.</translation>
+        <translation>MangoHudia ei löydetty järjestelmästäsi.</translation>
     </message>
 </context>
 <context>
@@ -7980,12 +7985,12 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="170"/>
         <source>Show time spent &amp;playing instances</source>
-        <translation>Näytä &amp;pelattu aika</translation>
+        <translation>Näytä &amp;pelipaketeissa vietetty aika</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="177"/>
         <source>&amp;Record time spent playing instances</source>
-        <translation>&amp;Tallenna pelattu aika</translation>
+        <translation>&amp;Tallenna pelipaketeissa vietetty aika</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="184"/>
@@ -8090,22 +8095,22 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="441"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä Feral Interactive:n GameMode:a, joka voi mahdollisesti parantaa pelin suorituskykyä.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä Feral Interactiven GameModea, joka voi mahdollisesti parantaa pelin suorituskykyä.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="444"/>
         <source>Enable Feral GameMode</source>
-        <translation>Käytä Feral GameMode:a</translation>
+        <translation>Käytä Feral GameModea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="451"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä MangoHud:in edistynyttä suorituskyvyn peittokuvaa&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä MangoHudin edistynyttä suorituskyvyn peittokuvaa.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="454"/>
         <source>Enable MangoHud</source>
-        <translation>Käytä MangoHud:ia</translation>
+        <translation>Käytä MangoHudia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="461"/>
@@ -8185,12 +8190,12 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="113"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Feral Interactive:n GameMode:a ei löydetty järjestelmältäsi.</translation>
+        <translation>Feral Interactiven GameModea ei löydetty järjestelmästäsi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="118"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation>MangoHud:ia ei löydetty järjestelmältäsi.</translation>
+        <translation>MangoHudia ei löydetty järjestelmästäsi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="189"/>
