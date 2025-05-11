@@ -5159,7 +5159,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>[Log4j Parse Error] Failed to parse log4j log event: %1</translation>
     </message>
 </context>
 <context>
@@ -6498,7 +6498,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Creates a shortcut on a selected folder to launch the selected instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
@@ -6563,12 +6563,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
         <source>Upload logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Upload logs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
         <source>Upload launcher logs to the selected log provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Upload launcher logs to the selected log provider</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
@@ -6614,32 +6614,32 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="779"/>
         <source>Creates an shortcut to this instance on your desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Creates a shortcut to this instance on your desktop</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="787"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Applications</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="790"/>
         <source>Create a shortcut of this instance on your start menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Create a shortcut of this instance on your start menu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>Other...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Creates a shortcut in a folder selected by you</source>
-        <translation type="unfinished"></translation>
+        <translation>Creates a shortcut in a folder selected by you</translation>
     </message>
     <message>
         <source>Report a &amp;Bug...</source>
@@ -7266,12 +7266,12 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1418"/>
         <source>Cannot Delete Running Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Cannot Delete Running Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1419"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
@@ -7315,17 +7315,17 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1733"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t find applications folder?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1742"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to create instances folder in applications folder!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1749"/>
         <source>Created a shortcut to this instance in your applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Created a shortcut to this instance in your applications folder!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1830"/>
@@ -10679,7 +10679,7 @@ HTTP Status: %2</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="72"/>
         <source>%1 [installed]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [installed]</translation>
     </message>
 </context>
 <context>
@@ -11073,12 +11073,12 @@ Proceed with truncation?</translation>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="156"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="160"/>
         <source>Failed to upload logs!</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to upload logs!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>Logs upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Logs upload aborted</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="146"/>
@@ -11088,13 +11088,14 @@ Proceed with truncation?</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="152"/>
         <source>Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="154"/>
         <source>
 Error message: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Error message: %1</translation>
     </message>
     <message>
         <source>Upload failed</source>
@@ -11959,13 +11960,14 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"/>
         <source>No versions available</source>
-        <translation type="unfinished"></translation>
+        <translation>No versions available</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="433"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
-        <translation type="unfinished"></translation>
+        <translation>No versions for &apos;%1&apos; are available.
+The author likely blocked third-party launchers.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="540"/>
