@@ -7092,7 +7092,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
         <source>Upload logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить журналы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
@@ -7143,7 +7143,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Рабочий стол</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="779"/>
@@ -7168,7 +7168,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Creates a shortcut in a folder selected by you</source>
-        <translation type="unfinished"></translation>
+        <translation>Создаёт ярлык в выбранной директории</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
@@ -9640,7 +9640,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation>Мод был отключён, так как он, возможно, уже установлен.</translation>
+        <translation>Мод был отключён, поскольку он уже может быть установлен.</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
@@ -11778,28 +11778,29 @@ Proceed with truncation?</source>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="156"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="160"/>
         <source>Failed to upload logs!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось отправить журналы!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>Logs upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка журналов прервана</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="146"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Задача была прервана пользователем.</translation>
+        <translation>Задача была прервана пользователем.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="152"/>
         <source>Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="154"/>
         <source>
 Error message: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Сообщение ошибки: %1</translation>
     </message>
     <message>
         <source>Upload failed</source>
