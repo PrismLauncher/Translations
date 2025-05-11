@@ -196,7 +196,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="374"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>尋找載入器 %1 的版本失敗</translation>
+        <translation>無法找到 %1 載入器的版本</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="387"/>
@@ -271,7 +271,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>Failed to extract mods...</source>
-        <translation>解壓縮模組失敗…</translation>
+        <translation>無法解壓縮模組…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="922"/>
@@ -286,7 +286,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1006"/>
         <source>Failed to create libraries component</source>
-        <translation>建立程式庫元件失敗</translation>
+        <translation>無法建立程式庫元件</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1033"/>
@@ -296,7 +296,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1047"/>
         <source>Failed to create pack component</source>
-        <translation>建立元件包失敗</translation>
+        <translation>無法建立元件包</translation>
     </message>
 </context>
 <context>
@@ -7039,7 +7039,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
         <source>Upload logs</source>
-        <translation type="unfinished"></translation>
+        <translation>上傳記錄檔</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
@@ -7090,7 +7090,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>桌面</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="779"/>
@@ -7100,7 +7100,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="787"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>應用程式</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="790"/>
@@ -7110,7 +7110,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>其他…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
@@ -11672,7 +11672,7 @@ Proceed with truncation?</source>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="156"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="160"/>
         <source>Failed to upload logs!</source>
-        <translation type="unfinished"></translation>
+        <translation>無法上傳記錄檔！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
@@ -11682,7 +11682,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="146"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">任務已被使用者中止。</translation>
+        <translation>該任務已被使用者中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="152"/>
