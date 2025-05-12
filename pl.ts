@@ -7019,7 +7019,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tworzy skrót w wybranym folderze uruchamiający wybraną instancję.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
@@ -7084,12 +7084,12 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
         <source>Upload logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Prześlij logi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
         <source>Upload launcher logs to the selected log provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Prześlij logi launchera do wybranego dostawcy logów</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
@@ -7135,32 +7135,32 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulpit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="779"/>
         <source>Creates an shortcut to this instance on your desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Tworzy skrót do tej instancji na pulpicie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="787"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikacje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="790"/>
         <source>Create a shortcut of this instance on your start menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Utwórz skrót do tej instancji w menu start</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inne...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Creates a shortcut in a folder selected by you</source>
-        <translation type="unfinished"></translation>
+        <translation>Tworzy skrót w wybranym przez Ciebie folderze</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
@@ -7887,12 +7887,12 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1418"/>
         <source>Cannot Delete Running Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie Można Usunąć Uruchomionej Instancji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1419"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybrana instancja jest aktualnie uruchomiona i nie może zostać usunięta. Proszę zatrzymać instancję przed próbą jej usunięcia.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
@@ -7936,17 +7936,17 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1733"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można znaleźć folderu aplikacji?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1742"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się utworzyć folderu instancji w folderze aplikacji!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1749"/>
         <source>Created a shortcut to this instance in your applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Utworzono skrót do tej instancji w twoim folderze aplikacji!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1830"/>
@@ -10629,7 +10629,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="80"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation>Nie można pokazać tego loga bo przekroczył %1 linijek</translation>
+        <translation>Nie można pokazać tego loga, bo przekroczył %1 linijek.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="188"/>
@@ -11754,28 +11754,29 @@ Kontynuować ze skracaniem?</translation>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="156"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="160"/>
         <source>Failed to upload logs!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się przesłać logów!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>Logs upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Przesyłanie logów anulowane</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="146"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Działanie zostało przerwane przez użytkownika.</translation>
+        <translation>Działanie zostało przerwane przez użytkownika.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="152"/>
         <source>Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="154"/>
         <source>
 Error message: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Komunikat błędu: %1</translation>
     </message>
     <message>
         <source>Upload failed</source>
@@ -12842,7 +12843,7 @@ Zaktualizuj %1!</translation>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
         <translation>Wersje dla &apos;%1&apos; nie są dostępne.
-Autor najprawdopodobniej zablokował dostęp dla launcherów osób trzecich</translation>
+Autor najprawdopodobniej zablokował dostęp dla launcherów osób trzecich.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="540"/>
