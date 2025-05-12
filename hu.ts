@@ -7039,7 +7039,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Asztal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="779"/>
