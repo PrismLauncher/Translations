@@ -4815,8 +4815,8 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">Anda telah memilih versi 32-bit Java.
-Instalasi ini tidak mendukung lebih dari 2048MiB RAM.
+        <translation type="unfinished">Anda telah memilih Java versi 32-bit.
+Instalasi ini tidak mendukung RAM lebih dari 2048MiB.
 Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     </message>
     <message>
@@ -4881,11 +4881,11 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Anda telah memilih sebuah instalasi 32-bit Java, tetapi memori teralokasi lebih dari 2048MiB sebagai memori maksimum.
+        <translation>Anda telah memilih sebuah instalasi 32-bit Java, tetapi memori maksimal teralokasi lebih dari 2048MiB.
 %1 tidak akan dapat memulai Minecraft.
 Apakah Anda yakin melanjutkan?
 
-Anda dapat mengubah versi Java di pengaturan nanti.
+Anda nanti dapat mengubah versi Java di pengaturan.
 </translation>
     </message>
     <message>
@@ -4936,7 +4936,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">Jumlah memori (RAM) yang digunakan untuk memulai Minecraft.</translation>
+        <translation>Jumlah memori (RAM) yang digunakan untuk memulai Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
