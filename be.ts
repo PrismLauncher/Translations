@@ -4591,7 +4591,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
         <source>Auto-detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Аўтаматычнае вызначэнне версіі Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
@@ -4601,17 +4601,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваша максімальнае размеркаванне памяці перавышае аб&apos;ём сістэмнай памяці.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваша максімальнае размеркаванне памяці набліжаецца да аб&apos;ёму сістэмнай памяці.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="521"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваша максімальнае размеркаванне памяці меншае за мінімальнае значэнне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
@@ -4762,7 +4762,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="363"/>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>Тэрмін дзеяння ўліковага запісу скончыўся і патрабуе паўторнай аўтэнтыфікацыі</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="373"/>
@@ -4803,12 +4803,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="322"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; больш не існуе на серверах. Магчыма, ён быў перанесены, у такім выпадку дадайце новы ўліковы запіс, у які вы перанеслі гэты.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="339"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Тэрмін дзеяння «%1» скончыўся і патрабуе паўторнай аўтэнтыфікацыі. Вы жадаеце паўторна аўтэнтыфікаваць гэты ўліковы запіс?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="441"/>
@@ -4861,7 +4861,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="312"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ідэнтыфікацыя кліента праграмы запуску змянілася. Калі ласка, выдаліце &quot;%1&quot; і паўтарыце спробу.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="315"/>
@@ -4887,7 +4887,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>[Памылка разбору Log4j] Не атрымалася разабраць падзею журнала log4j: %1</translation>
     </message>
 </context>
 <context>
@@ -4940,22 +4940,22 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="139"/>
         <source>Rename instance folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Перайменаваць папкі асобнікаў</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="147"/>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Ніколі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="152"/>
         <source>Ask</source>
-        <translation type="unfinished"></translation>
+        <translation>Спытаць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="157"/>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Заўсёды</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
@@ -5016,17 +5016,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="84"/>
         <source>Update interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Інтэрвал абнаўлення</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="91"/>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Усталюйце яго на 0, каб правяраць толькі пры запуску</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>х</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="250"/>
