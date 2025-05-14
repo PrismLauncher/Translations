@@ -12322,7 +12322,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data de publicación</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="123"/>
@@ -12350,7 +12350,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data de publicación</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="48"/>
@@ -12465,7 +12465,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="182"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
