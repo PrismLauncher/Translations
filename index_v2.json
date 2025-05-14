@@ -27,12 +27,12 @@
             "untranslated" : 2373
         },
         "be" : {
-            "file" : "0c38ad46fd8ca539494892fd6843bdbbfe4c4e63.class",
-            "sha1" : "0c38ad46fd8ca539494892fd6843bdbbfe4c4e63",
-            "size" : 184110,
+            "file" : "343eac8315a0243138b05e847412c1702f5e41ae.class",
+            "sha1" : "343eac8315a0243138b05e847412c1702f5e41ae",
+            "size" : 184149,
             "translated" : 1110,
-            "fuzzy" : 222,
-            "untranslated" : 1091
+            "fuzzy" : 223,
+            "untranslated" : 1090
         },
         "bg" : {
             "file" : "f19dd237526187d6cdaf2a3f76706a44976feec8.class",
@@ -283,12 +283,12 @@
             "untranslated" : 2393
         },
         "gl" : {
-            "file" : "6383c52895f6e2e95055abe5b245722a3cec7651.class",
-            "sha1" : "6383c52895f6e2e95055abe5b245722a3cec7651",
-            "size" : 175130,
-            "translated" : 1021,
+            "file" : "d08996cd7d2e7ce0692e13ad9f281c51ab5593e9.class",
+            "sha1" : "d08996cd7d2e7ce0692e13ad9f281c51ab5593e9",
+            "size" : 175402,
+            "translated" : 1024,
             "fuzzy" : 338,
-            "untranslated" : 1064
+            "untranslated" : 1061
         },
         "grc" : {
             "file" : "da72a6347f5e56d8a284f36b8d18c557cb941aa1.class",
@@ -579,12 +579,12 @@
             "untranslated" : 1853
         },
         "sv" : {
-            "file" : "edca97547a7e5940b99b6fdf166cefb5d3a7e1ba.class",
-            "sha1" : "edca97547a7e5940b99b6fdf166cefb5d3a7e1ba",
-            "size" : 330874,
-            "translated" : 2182,
+            "file" : "478da3ff6afc51f98a3fd5cb8a8acf5af78f9d5d.class",
+            "sha1" : "478da3ff6afc51f98a3fd5cb8a8acf5af78f9d5d",
+            "size" : 332699,
+            "translated" : 2193,
             "fuzzy" : 111,
-            "untranslated" : 130
+            "untranslated" : 119
         },
         "szl" : {
             "file" : "9e61a9d92324fdbcf1469494c56cfd083f20f908.class",
