@@ -10109,7 +10109,7 @@ Error message: %1</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="81"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">х</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="86"/>
