@@ -12488,7 +12488,10 @@ Currently installed version: %1</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estás a piques de eliminar &quot;%1&quot;.
+Isto é permanente e o servidor desaparecerá da túa lista para sempre (POR MOITO TEMPO).
+
+¿Estás seguro?</translation>
     </message>
 </context>
 <context>
@@ -12655,17 +12658,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="274"/>
         <source>Path is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>A ruta está baleira.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="277"/>
         <source>File doesn&apos;t exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>O ficheiro non existe.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="279"/>
         <source>Not a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non é un ficheiro.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="281"/>
