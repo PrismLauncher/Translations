@@ -1575,7 +1575,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation>Kopier tjenere</translation>
+        <translation>Kopier servere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
@@ -2446,7 +2446,7 @@ This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
         <translation>Du er i ferd med å fjerne %1 elementer.
-Dette kan være permanent, og de vil bli borte fra folder.
+Dette kan være permanent, og de vil bli borte fra mappa.
 
 Er du sikker?</translation>
     </message>
@@ -3982,11 +3982,11 @@ Prøv på nytt.</translation>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation>Velg en tjener å koble til når spillet starter</translation>
+        <translation>Velg en server å koble til når spillet starter</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation>Tjeneradresse:</translation>
+        <translation>Serveradresse:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="55"/>
@@ -6324,7 +6324,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="259"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation>Det er en fluffy katt :3</translation>
+        <translation>Det er en kosete katt :3</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
@@ -6353,7 +6353,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mappe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
@@ -7462,7 +7462,7 @@ Den kan bare oppdateres med en fil i %1-formatet
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
         <source>Profilers</source>
-        <translation type="unfinished">Profilerere</translation>
+        <translation>Profiler</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
@@ -7949,7 +7949,7 @@ Den kan bare oppdateres med en fil i %1-formatet
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="570"/>
         <source>Server address:</source>
-        <translation>Tjeneradresse:</translation>
+        <translation>Serveradresse:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="580"/>
@@ -8077,7 +8077,7 @@ Den kan bare oppdateres med en fil i %1-formatet
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="184"/>
         <source>Server</source>
-        <translation>Tjener</translation>
+        <translation>Server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
@@ -8186,7 +8186,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Sist endret</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
@@ -9253,7 +9253,7 @@ Oppdater %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>Brukernavn som er lenger en 16 bokstaver kan ikke brukes for LAN-spill eller frakoblet-tjenere.</translation>
+        <translation>Brukernavn som er lenger en 16 bokstaver kan ikke brukes for LAN-spill eller frakoblet-servere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
@@ -9457,7 +9457,7 @@ This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
         <translation>Du er i ferd med å slette «%1».
-Dette kan gjelde for alltid og vil fjernes fra loggmappa.
+Dette kan være permanent, og vil bli borte fra loggmappa.
 
 Er du sikker?</translation>
     </message>
@@ -10510,7 +10510,7 @@ Error message: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="64"/>
         <source>Minecraft Server</source>
-        <translation>Minecraft-tjener</translation>
+        <translation>Minecraft-server</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
@@ -10565,7 +10565,7 @@ Error message: %1</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="236"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation>URL-en for hoved jar-fila kunne ikke fastsettes – Mojang fjernet tjeneren som ble brukt som reserve.</translation>
+        <translation>URL-en for hoved jar-fila kunne ikke fastsettes – Mojang fjernet serveren som ble brukt som reserve.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="269"/>
@@ -12040,7 +12040,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="117"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation>Du er iferd med å laste ned følgende %1:</translation>
+        <translation>Du er i ferd med å laste ned følgende %1:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"/>
@@ -12364,7 +12364,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
         <source>Servers</source>
-        <translation>Tjenere</translation>
+        <translation>Servere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="605"/>
@@ -14367,7 +14367,7 @@ The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>Du er i ferd med å slette «%1».
-Denne verden vil fjernes for alltid (EN VELDIG LANG TID).
+Denne verdenen vil fjernes for alltid (EN VELDIG LANG TID).
 
 Er du sikker?</translation>
     </message>
@@ -14424,7 +14424,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="87"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation>Tjeneren har endret %1 brukerautentisering-sjekksum i svar. Noe er galt.</translation>
+        <translation>Serveren har endret %1 brukerautentisering-sjekksum i svar. Noe er galt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
