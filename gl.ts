@@ -12673,7 +12673,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="281"/>
         <source>File is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>O ficheiro non é lexíbel.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="283"/>
