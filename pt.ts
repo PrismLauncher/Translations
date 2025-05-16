@@ -5315,7 +5315,7 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>[Erro de Análise do Log4j] Falha ao analisar o evento de log do log4j: %1</translation>
     </message>
 </context>
 <context>
@@ -6576,7 +6576,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cria um atalho na pasta &apos;folder&apos; para iniciar a instância selecionada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="694"/>
