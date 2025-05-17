@@ -6731,7 +6731,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçili dosyada seçili profili başlatmak için bir kısayol oluşturur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
@@ -6786,12 +6786,12 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
         <source>Upload logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Günlükleri yükle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
         <source>Upload launcher logs to the selected log provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlatıcı günlüklerini seçili günlük sağlayıcısına yükle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="694"/>
@@ -6847,32 +6847,32 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Masaüstü</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="779"/>
         <source>Creates an shortcut to this instance on your desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu profil için masaüstüne bir kısayol oluşturur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="787"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Başvurular</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="790"/>
         <source>Create a shortcut of this instance on your start menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlat menüsüne bu profilin bir kısayolunu oluştur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>Diğer...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Creates a shortcut in a folder selected by you</source>
-        <translation type="unfinished"></translation>
+        <translation>Senin seçtiğin bir klasöre kısayol oluşturur</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -7802,12 +7802,12 @@ Meta veri önbelleğini manuel olarak temizlemek için Klasörler -&gt; Launcher
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1418"/>
         <source>Cannot Delete Running Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Çalışan Oturum Silinemez</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1419"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçili oturum şu anda çalışıyor ve silinemez. Lütfen oturumu silmeyi denemeden önce durdurun.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
@@ -7851,17 +7851,17 @@ Meta veri önbelleğini manuel olarak temizlemek için Klasörler -&gt; Launcher
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1733"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Başvurular klasörü bulunamadı?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1742"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Başvurular klasöründe profiller klasörü oluşturma başarısız!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1749"/>
         <source>Created a shortcut to this instance in your applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Başvurular klasöründe bu profil için bir kısayol oluşturuldu!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1830"/>
@@ -8545,7 +8545,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="204"/>
         <source>&amp;Console</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Konsol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="216"/>
@@ -8630,7 +8630,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="429"/>
         <source>&amp;Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Performans</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="441"/>
@@ -10407,17 +10407,17 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="109"/>
         <source>Delete the selected log</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçili günlüğü sil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="112"/>
         <source>&amp;Delete Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Seçilenleri Sil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="119"/>
         <source>Delete all the logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Bütün günlükleri sil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="122"/>
@@ -10457,12 +10457,12 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="186"/>
         <source>Reload the contents of the log from the disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Diskten günlüğün içeriklerini yenile</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="189"/>
         <source>&amp;Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Yenile</translation>
     </message>
     <message>
         <source>Clear the log</source>
