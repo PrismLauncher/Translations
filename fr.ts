@@ -10510,7 +10510,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="176"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Envoyer le journal vers le service configuré dans les préférences</translation>
+        <translation>Envoyer le journal vers le service de collage configuré dans les préférences</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="179"/>
@@ -10585,7 +10585,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="252"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
-        <translation type="unfinished">Le fichier (%1) a rencontré une erreur lors de la lecture&#xa0;: %2.</translation>
+        <translation>Le fichier (%1) a rencontré une erreur lors de la lecture&#xa0;: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="287"/>
