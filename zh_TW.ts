@@ -6974,7 +6974,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>在選擇的資料夾上建立啟動此實例的捷徑。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
@@ -7044,7 +7044,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
         <source>Upload launcher logs to the selected log provider</source>
-        <translation type="unfinished"></translation>
+        <translation>上傳啟動器記錄檔至選擇的記錄檔服務供應商</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
@@ -7095,7 +7095,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="779"/>
         <source>Creates an shortcut to this instance on your desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>在您的桌面上建立此實例的捷徑</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="787"/>
@@ -7105,7 +7105,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="790"/>
         <source>Create a shortcut of this instance on your start menu</source>
-        <translation type="unfinished"></translation>
+        <translation>在您的開始功能表上建立此實例的捷徑</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
@@ -7115,7 +7115,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Creates a shortcut in a folder selected by you</source>
-        <translation type="unfinished"></translation>
+        <translation>在您選擇的資料夾中建立捷徑</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
@@ -7829,7 +7829,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1419"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>所選的實例正在執行中，無法刪除。請先停止實例，再嘗試刪除。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
@@ -7878,12 +7878,12 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1742"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>無法在應用程式資料夾中建立實例資料夾！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1749"/>
         <source>Created a shortcut to this instance in your applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>已在您的應用程式資料夾中建立此實例的捷徑！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1830"/>
@@ -12401,7 +12401,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 
 Old name: %1
 New name: %2</source>
-        <translation>你是否也想重新命名實例資料夾？
+        <translation>您是否也想重新命名實例資料夾？
 
 舊名稱：%1
 新名稱：%2</translation>
