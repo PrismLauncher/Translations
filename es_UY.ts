@@ -127,7 +127,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: tienes que rellenarlo solo si querés acceder a datos privados. Lee la &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentación&lt;/a&gt; para más información.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: solo necesitas activar esto para acceder a información privada. Lee la &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentación&lt;/a&gt; para más información.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -2206,7 +2206,12 @@ Algunas versiones de Minecraft podrían no iniciar.
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Este texto soporta las siguientes referencias:
+{name}      - Nombre del mod
+{mod_id}  - ID del mod
+{url}            - Enlace al mod
+{version}  - Versión del mod
+{authors} - Autores del mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -2837,7 +2842,7 @@ Por favor inténtalo nuevamente.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Analizando la respuesta de la API de CurseForge para &apos;%1&apos;...</translation>
+        <translation>Analizando la respuesta de la API de CurseForge para &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
@@ -3941,7 +3946,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation>Argumen&amp;tos de Java</translation>
+        <translation>argumen&amp;tos de Java</translation>
     </message>
     <message>
         <source>Game windows</source>
@@ -4431,7 +4436,7 @@ Verificar que el valor de memoria máxima es inferior.</translation>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>Asignación mínima de memoria:</translation>
+        <translation>&amp;Asignación mínima de memoria:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
@@ -4512,12 +4517,12 @@ Verificar que el valor de memoria máxima es inferior.</translation>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>Detección automática...</translation>
+        <translation>&amp;Detección automática...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>Probar</translation>
+        <translation>&amp;Probar</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -4681,7 +4686,7 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
@@ -4696,12 +4701,12 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="65"/>
         <source>Auto-detect...</source>
-        <translation type="unfinished">Detección automática...</translation>
+        <translation>Detección automática...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="72"/>
         <source>Test</source>
-        <translation type="unfinished">Probar</translation>
+        <translation>Probar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="81"/>
@@ -4711,37 +4716,37 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="84"/>
         <source>Auto-download &amp;Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar automáticamente Java de &amp;Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="91"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está activado, el launcher no te pedirá que elijas una versión de Java si no se encuentra ninguna al iniciarse.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="94"/>
         <source>Skip Java setup prompt on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Omitir el mensaje de configuración de Java al iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="101"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está activado, el launcher no comprobará si una instancia es compatible con la versión de Java seleccionada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="104"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished">Omitir las comprobaciones de compatibilidad de Java</translation>
+        <translation>Omitir las comprobaciones de compatibilidad de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="117"/>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">Memor&amp;ia</translation>
+        <translation>Memor&amp;ia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="129"/>
         <source>PermGen (Java 7 and earlier):</source>
-        <translation type="unfinished"></translation>
+        <translation>PermGen (Java 7 y anteriores):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="165"/>
@@ -4756,7 +4761,7 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="235"/>
         <source>Java Argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>Argumen&amp;tos de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
@@ -4783,19 +4788,21 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
         <source>Select a Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar una versión de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished">Confirmar Selección</translation>
+        <translation>Confirmar Selección</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="278"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha seleccionado una versión de 32 bits de Java.
+Esta instalación no admite más de 2048MiB de RAM.
+Asegúrese de que el valor máximo de memoria es inferior.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="296"/>
@@ -4844,12 +4851,12 @@ Por favor, selecciona uno de los siguientes o busca un ejecutable java.</transla
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation type="unfinished">Descargar Java</translation>
+        <translation>Descargar Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished">Java de 32-bits detectado</translation>
+        <translation>Java de 32-bits detectado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
@@ -4859,7 +4866,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Has seleccionado una instalación de Java de 32-bits, pero asignaste más de 2048MiB cómo memoria máxima.
+        <translation>Has seleccionado una instalación de Java de 32-bits, pero asignaste más de 2048MiB cómo memoria máxima.
 %1 no podrá iniciar Minecraft.
 ¿Deseas continuar?
 
@@ -4869,7 +4876,7 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
         <source>No Java version selected</source>
-        <translation type="unfinished">Ninguna versión de Java seleccionada</translation>
+        <translation>Ninguna versión de Java seleccionada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
@@ -4879,7 +4886,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">No has seleccionado una versión de Java o la versión seleccionada no funciona.
+        <translation>No has seleccionado una versión de Java o la versión seleccionada no funciona.
 %1 no podrá iniciar Minecraft.
 ¿Deseas proceder sin una versión funcional de Java?
 
@@ -4889,62 +4896,62 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="353"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar ejecutable de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>Memory</source>
-        <translation type="unfinished">Memoria</translation>
+        <translation>Memoria</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>La cantidad máxima de memoria que Minecraft puede utilizar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Asignación mínima de memoria:</translation>
+        <translation>Asignación mínima de memoria:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Asignación máxima de memoria:</translation>
+        <translation>Asignación máxima de memoria:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
+        <translation>La cantidad de memoria con la que se inicia Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>La cantidad de memoria disponible para almacenar las clases Java cargadas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
         <source>Browse</source>
-        <translation type="unfinished">Navegar</translation>
+        <translation>Explorar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar automáticamente Java de Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
         <source>Auto-detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Detectar automáticamente la versión de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished">Autodetectar Java</translation>
+        <translation>Detectar automáticamente Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Su asignación de memoria máxima excede la capacidad de memoria de su sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
@@ -4959,7 +4966,7 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished">Has excedido la asignación máxima soportada por instalaciones de Java de 32-bits.</translation>
+        <translation>Estás excediendo la asignación máxima soportada por instalaciones de Java de 32-bits.</translation>
     </message>
 </context>
 <context>
@@ -5534,7 +5541,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="283"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está activado, se moverán los recursos bloqueados en vez de copiarlos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="286"/>
@@ -7686,7 +7693,7 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="356"/>
         <source>Update Failed</source>
-        <translation type="unfinished">Actualización fallida</translation>
+        <translation>Actualización fallida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="357"/>
@@ -8093,12 +8100,12 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Los ajustes aquí son sustituciones de los ajustes globales.</translation>
+        <translation>Los ajustes aquí son sustituciones de los ajustes globales.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>General</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="76"/>
@@ -8108,7 +8115,7 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished">Iniciar Minecraft maximizado</translation>
+        <translation>Iniciar Minecraft maximizado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
@@ -8123,12 +8130,12 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="107"/>
         <source>Window height:</source>
-        <translation type="unfinished">Alto de la ventana:</translation>
+        <translation>Alto de la ventana:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="114"/>
         <source>Window width:</source>
-        <translation type="unfinished">Ancho de la ventana:</translation>
+        <translation>Ancho de la ventana:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="158"/>
@@ -8138,12 +8145,12 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="170"/>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished">Mostrar el tiempo de juego de instancias</translation>
+        <translation>Mostrar el tiempo de &amp;juego de instancias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="177"/>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished">Grabar el tiempo de juego de instancias</translation>
+        <translation>&amp;Registrar el tiempo de juego de instancias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="184"/>
@@ -8163,17 +8170,17 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="216"/>
         <source>Show console while the game is running</source>
-        <translation type="unfinished">Mostrar consola mientras el juego se está ejecutando</translation>
+        <translation>Mostrar consola mientras el juego se está ejecutando</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="223"/>
         <source>Automatically close console when the game quits</source>
-        <translation type="unfinished">Cerrar la consola automáticamente al salir del juego</translation>
+        <translation>Cerrar la consola automáticamente al salir del juego</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="230"/>
         <source>Show console when the game crashes</source>
-        <translation type="unfinished">Mostrar la consola cuando el juego se cierra de forma inesperada</translation>
+        <translation>Mostrar la consola cuando el juego se cierra de forma inesperada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="240"/>
@@ -8183,22 +8190,22 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="252"/>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished">Cerrar el launcher después de que la ventana del juego se abra</translation>
+        <translation>Cerrar el launcher después de que la ventana del juego se abra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="259"/>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished">Salir del launcher después de cerrar la ventana del juego</translation>
+        <translation>Salir del launcher después de cerrar la ventana del juego</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="287"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="311"/>
         <source>Tweaks</source>
-        <translation type="unfinished">Ajustes</translation>
+        <translation>Ajustes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="335"/>
@@ -8223,7 +8230,7 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Usar instalación del sistema de OpenAL</translation>
+        <translation>Usar instalación del sistema de OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="382"/>
@@ -8233,7 +8240,7 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="392"/>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Usar instalación del sistema de GLFW</translation>
+        <translation>Usar instalación del sistema de GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="406"/>
@@ -8273,12 +8280,12 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="464"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Usar GPU discreta</translation>
+        <translation>Usar GPU discreta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="471"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished">Usa Zink, un controlador OpenGL de Mesa que implementa OpenGL sobre Vulkan. El rendimiento puede variar dependiendo de la situación. Nota: Si no se encuentra un controlador Vulkan adecuado, se utilizará el rendimiento por software.</translation>
+        <translation>Usa Zink, un controlador OpenGL de Mesa que implementa OpenGL sobre Vulkan. El rendimiento puede variar dependiendo de la situación. Nota: Si no se encuentra un controlador Vulkan adecuado, se utilizará el renderizado por software.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="474"/>
@@ -8288,7 +8295,7 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="502"/>
         <source>Launch</source>
-        <translation type="unfinished">Iniciar</translation>
+        <translation>Iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="523"/>
@@ -8298,7 +8305,7 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Account:</source>
-        <translation type="unfinished">Cuenta:</translation>
+        <translation>Cuenta:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="558"/>
@@ -8308,22 +8315,22 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="570"/>
         <source>Server address:</source>
-        <translation type="unfinished">Dirección del server:</translation>
+        <translation>Dirección del servidor:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="580"/>
         <source>Singleplayer world</source>
-        <translation type="unfinished">Mundo de un sólo jugador</translation>
+        <translation>Mundo de un sólo jugador</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="611"/>
         <source>Custom Commands</source>
-        <translation type="unfinished">Comandos Personalizados</translation>
+        <translation>Comandos Personalizados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="621"/>
         <source>Environment Variables</source>
-        <translation type="unfinished">Variables de entorno</translation>
+        <translation>Variables de Entorno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="65"/>
@@ -8348,7 +8355,7 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="118"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">No se pudo encontrar MangoHud en su sistema.</translation>
+        <translation>No se pudo encontrar MangoHud en su sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="189"/>
@@ -9043,7 +9050,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished">Se ha deshabilitado el mod debido a que quizás ya está instalado.</translation>
+        <translation>Se ha deshabilitado el mod debido a que quizás ya está instalado.</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
@@ -9803,7 +9810,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="63"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Desplazarse hasta el final</translation>
+        <translation>Desplazarse hasta el final</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="66"/>
@@ -9833,7 +9840,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="133"/>
         <source>Wrap lines</source>
-        <translation type="unfinished">Ajustar líneas</translation>
+        <translation>Ajustar líneas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="143"/>
@@ -9853,7 +9860,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="176"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Subir el registro a paste.ee - permanecerá en línea durante un mes</translation>
+        <translation>Subir el registro al servicio configurado en las preferencias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="179"/>
@@ -10992,7 +10999,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="146"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">La tarea ha sido abortada por el usuario.</translation>
+        <translation>La tarea ha sido abortada por el usuario.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="152"/>
@@ -11605,7 +11612,7 @@ NOTA: Asegúrate de hacer una copia de seguridad de los datos importantes de tu 
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="267"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">No comprobado</translation>
+        <translation>Sin seleccionar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="269"/>
@@ -11617,43 +11624,43 @@ NOTA: Asegúrate de hacer una copia de seguridad de los datos importantes de tu 
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="271"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Listo</translation>
+        <translation>Listo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="273"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Funcionando</translation>
+        <translation>Trabajando</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="275"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Fallo</translation>
+        <translation>Fallido</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="277"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Expirada</translation>
+        <translation>Expirado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="279"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Desactivado</translation>
+        <translation>Desactivado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="281"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Borrada</translation>
+        <translation>Borrado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="283"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Desconocido</translation>
+        <translation>Desconocido</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
@@ -11697,7 +11704,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
         <source>There are linked instances</source>
-        <translation type="unfinished">Hay instancias vinculadas</translation>
+        <translation>Hay instancias vinculadas</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="113"/>
@@ -12929,7 +12936,7 @@ Versión instalada actualmente: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="292"/>
         <source>Online</source>
-        <translation type="unfinished">Online</translation>
+        <translation>Online</translation>
     </message>
     <message>
         <source>Latency</source>
