@@ -243,11 +243,11 @@
             "untranslated" : 879
         },
         "fr" : {
-            "file" : "95a4505fae7851b631017a7ff4e2fa2beae3ecc0.class",
-            "sha1" : "95a4505fae7851b631017a7ff4e2fa2beae3ecc0",
-            "size" : 387490,
-            "translated" : 2413,
-            "fuzzy" : 10,
+            "file" : "f81ff2b3108b306124ce29174d1ab241e7816b6b.class",
+            "sha1" : "f81ff2b3108b306124ce29174d1ab241e7816b6b",
+            "size" : 387512,
+            "translated" : 2415,
+            "fuzzy" : 8,
             "untranslated" : 0
         },
         "fr_CA" : {
