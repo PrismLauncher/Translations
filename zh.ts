@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Pastebin 服务(&amp;P)</translation>
+        <translation>Pastebin 服务 (&amp;P)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -21,7 +21,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Pastebin 服务(&amp;P)</translation>
+        <translation>粘贴服务类型 (&amp;T)</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -30,7 +30,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>根网址(&amp;U)</translation>
+        <translation>根网址 (&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
@@ -46,7 +46,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>Microsoft 身份验证(&amp;M)</translation>
+        <translation>Microsoft 身份验证 (&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
@@ -68,7 +68,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation>Modrinth API(&amp;M)</translation>
+        <translation>Modrinth API (&amp;M)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -119,7 +119,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>元数据服务器(&amp;D)</translation>
+        <translation>元数据服务器 (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
@@ -144,7 +144,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>CurseForge 核心 API(&amp;C)</translation>
+        <translation>CurseForge 核心 API (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
