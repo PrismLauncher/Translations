@@ -7080,12 +7080,12 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
         <source>Upload logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Upload-Logs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
         <source>Upload launcher logs to the selected log provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Startprogramm-Logs zum ausgewählten Log-Dienstleister hochladen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
@@ -7131,32 +7131,32 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="779"/>
         <source>Creates an shortcut to this instance on your desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellt eine Verknüpfung zu dieser Instanz auf dem Desktop</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="787"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Programme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="790"/>
         <source>Create a shortcut of this instance on your start menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellt eine Verknüpfung zu dieser Instanz im Startmenü</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>Andere...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Creates a shortcut in a folder selected by you</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellt eine Verknüpfung in einem ausgewählten Ordner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
@@ -7868,12 +7868,12 @@ Um den Metadaten-Cache manuell zu bereinigen, klicke auf Ordner -&gt; Launcher-S
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1418"/>
         <source>Cannot Delete Running Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine laufende Instanz kann nicht gelöscht werden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1419"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die ausgewählte Instanz läuft momentan und kann nicht gelöscht werden. Bitte stoppen Sie die Instanz vor ihrer Löschung.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
@@ -7917,17 +7917,17 @@ Um den Metadaten-Cache manuell zu bereinigen, klicke auf Ordner -&gt; Launcher-S
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1733"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Konnte den Ordner für Programme nicht finden?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1742"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellen des Instanzen-Ordners im Programm-Ordner fehlgeschlagen!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1749"/>
         <source>Created a shortcut to this instance in your applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verknüpfung zur Instanz wurde im Programme-Ordner erstellt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1830"/>
@@ -11739,12 +11739,12 @@ Wollen Sie mit der Verkürzung fortfahren?</translation>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="156"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="160"/>
         <source>Failed to upload logs!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hochladen der Logs fehlgeschlagen!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>Logs upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Hochladen der Logs abgebrochen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="146"/>
@@ -11754,13 +11754,14 @@ Wollen Sie mit der Verkürzung fortfahren?</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="152"/>
         <source>Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="154"/>
         <source>
 Error message: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Fehlermeldung: %1</translation>
     </message>
     <message>
         <source>Upload failed</source>
