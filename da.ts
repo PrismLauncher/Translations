@@ -1660,6 +1660,115 @@ Nogle versioner af Minecraft starter muligvis ikke.
     </message>
 </context>
 <context>
+    <name>CreateShortcutDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
+        <source>Create Instance Shortcut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
+        <source>Save To:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
+        <source>Name</source>
+        <translation type="unfinished">Navn</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
+        <source>Use a different account than the default specified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
+        <source>Override the default account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
+        <source>Specify a world or server to automatically join on launch.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
+        <source>Select a target to join on launch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
+        <source>World:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"/>
+        <source>Server Address:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"/>
+        <source>Server Address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"/>
+        <source>Desktop</source>
+        <translation type="unfinished">Skrivebord</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="89"/>
+        <source>Applications</source>
+        <translation type="unfinished">Applikationer</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="91"/>
+        <source>Other...</source>
+        <translation type="unfinished">Andet...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="97"/>
+        <source>%1 [%2] - Last Played: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="113"/>
+        <source>%1 (in use)</source>
+        <translation type="unfinished">%1 (i brug)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="180"/>
+        <source>%1 - %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="182"/>
+        <source>%1 - Server %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="197"/>
+        <source>instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="201"/>
+        <source>world</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="204"/>
+        <source>server</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>CustomCommands</name>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
@@ -6766,34 +6875,28 @@ Reason:
         <translation>Åbn Java mappen i en fil browser. Kun tilgængelig, hvis den indbyggede Java downloader bruges.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Desktop</source>
-        <translation>Skrivebord</translation>
+        <translation type="vanished">Skrivebord</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="779"/>
         <source>Creates an shortcut to this instance on your desktop</source>
-        <translation>Opretter en genvej til denne instans på skrivebordet</translation>
+        <translation type="vanished">Opretter en genvej til denne instans på skrivebordet</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="787"/>
         <source>Applications</source>
-        <translation>Applikationer</translation>
+        <translation type="vanished">Applikationer</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="790"/>
         <source>Create a shortcut of this instance on your start menu</source>
-        <translation>Opretter en genvej til denne instans i din startmenu</translation>
+        <translation type="vanished">Opretter en genvej til denne instans i din startmenu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Other...</source>
-        <translation>Andet...</translation>
+        <translation type="vanished">Andet...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Creates a shortcut in a folder selected by you</source>
-        <translation>Opretter en genvej i en mappe, du vælger</translation>
+        <translation type="vanished">Opretter en genvej i en mappe, du vælger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
@@ -6942,7 +7045,7 @@ Reason:
         <translation>Ctrl+G</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="284"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="265"/>
         <source>Backspace</source>
         <translation>Tilbage Tasten</translation>
     </message>
@@ -6953,7 +7056,6 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1689"/>
         <source>Create Shortcut</source>
         <translation>Opret Genvej</translation>
     </message>
@@ -6963,7 +7065,7 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="790"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="771"/>
         <source>Accounts</source>
         <translation>Konti</translation>
     </message>
@@ -6972,12 +7074,12 @@ Reason:
         <translation type="vanished">Start offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1427"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1408"/>
         <source>Confirm Deletion</source>
         <translation>Bekræft Sletning</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1428"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1409"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and will completely delete the instance.
 
@@ -7093,14 +7195,14 @@ Er du sikker?</translation>
         <translation type="vanished"> på %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="402"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="476"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1824"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="383"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="457"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1612"/>
         <source>No instance selected</source>
         <translation>Ingen instans valgt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="403"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="384"/>
         <source>Total playtime: 0s</source>
         <translation>Samlet spilletid: 0s</translation>
     </message>
@@ -7109,13 +7211,13 @@ Er du sikker?</translation>
         <translation type="vanished">Profiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="581"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="562"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
         <translation>&amp;Opret instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="595"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
         <translation>&amp;Slet gruppe</translation>
@@ -7138,7 +7240,7 @@ Er du sikker?</translation>
         <translation>Ingen konti tilføjet!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="715"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
@@ -7153,34 +7255,34 @@ Er du sikker?</translation>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="826"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="807"/>
         <source>Loading news...</source>
         <translation>Indlæser nyheder...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="836"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="817"/>
         <source>No news available.</source>
         <translation>Ingen nyheder tilgængelige.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="880"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="861"/>
         <source>Warnings</source>
         <translation>Advarsler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="884"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="865"/>
         <source>Task aborted</source>
         <translation>Opgave afbrudt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="884"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="865"/>
         <source>The task has been aborted by the user.</source>
         <translation>Opgaven er blevet afbrudt af brugeren.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="888"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1015"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1049"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="869"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1030"/>
         <source>Abort</source>
         <translation>Afbryd</translation>
     </message>
@@ -7193,70 +7295,70 @@ Please add your Microsoft or Mojang account.</oldsource>
 Tilføj din Mojang- eller Minecraft-konto.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1004"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="985"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Modpakken, mod, eller resource %1 er blokeret for tredje parter! Hent det venligst manuelt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1038"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1019"/>
         <source>Modpack download</source>
         <translation>Modpack download</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1073"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1054"/>
         <source>No instance!</source>
         <translation>Ingen instance!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1074"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>Ingen instance tilgængelig at tilføje resource til.
 Opret en ny instance før du forsøger at installere denne resource igen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1188"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1169"/>
         <source>Group name</source>
         <translation>Gruppe navn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1188"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1210"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1169"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1191"/>
         <source>Enter a new group name.</source>
         <translation>Indtast et nyt gruppe navn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1200"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1181"/>
         <source>Delete group</source>
         <translation>Slet gruppe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1326"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1307"/>
         <source>Instance not editable</source>
         <translation>Instance kan ikke redigeres</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1327"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1308"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Denne instance kan ikke redigeres. Det kan være ødelagt, ugyldigt eller for gammelt. Tjek logfiler for detaljer.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1370"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1351"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Føjet %1 til PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1371"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1352"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 blev føjet til din PATH. Du kan nu starte den ved at køre `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1374"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Kunne ikke tilføje %1 til PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1375"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1356"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Der opstod en fejl under forsøg på at tilføje %1 til PATH</translation>
     </message>
@@ -7290,102 +7392,77 @@ Sletning kan ødelægge de andre instances,
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1559"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1592"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1608"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1639"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1650"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1655"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1664"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1696"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1717"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1733"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1742"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1749"/>
         <source>Create instance shortcut</source>
         <translation>Opret instance genvej</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1717"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation>Kunne ikke finde skrivebordet?!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1560"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation>launcheren er i den mappe den blev udtrukket fra, og den kan derfor ikke oprette genveje.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1573"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1584"/>
         <source>Create instance Application</source>
         <translation>Opret instance Applikation</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1573"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1584"/>
         <source>Failed to create icon for Application.</source>
         <translation>Kunne ikke oprette ikon for Applikation.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1689"/>
         <source>Desktop Entries</source>
         <translation>Skrivebord Indgange</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation>Oprettet en genvej til denne instance på dit skrivebord!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1696"/>
         <source>Created a shortcut to this instance!</source>
         <translation>Oprettet en genvej til denne instance!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1664"/>
         <source>Failed to create instance shortcut!</source>
         <translation>Kunne ikke oprette instance genvej!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1593"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>Launcher kører som forkert konfigureret AppImage? ($APPIMAGE miljøvariabel mangler)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="599"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="580"/>
         <source>&amp;Rename group</source>
         <translation>&amp;Omdøb gruppe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1200"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1181"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>Er du sikker på at du vil slette gruppen &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1210"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1191"/>
         <source>Rename group</source>
         <translation>Omdøb gruppe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1219"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1200"/>
         <source>Cannot rename group</source>
         <translation>Gruppen kan ikke omdøbes</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1219"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1200"/>
         <source>Cannot set empty name.</source>
         <translation>Kan ikke angive tomt navn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1219"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1200"/>
         <source>Group already exists. :/</source>
         <translation>Gruppen eksisterer allerede. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1348"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1329"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -7394,89 +7471,81 @@ For at rydde metadatacachen manuelt, skal du trykke på Mapper -&gt; Vis Launche
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1418"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
         <source>Cannot Delete Running Instance</source>
         <translation>Kan ikke slette kørende instans</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1419"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1400"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>Den valgte instans kører i øjeblikket og kan ikke slettes. Stop den, før du forsøger at slette den.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1419"/>
         <source>Deleting</source>
         <translation>Sletter</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1608"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1639"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1650"/>
         <source>Failed to create icon for shortcut.</source>
         <translation>Kunne ikke oprette ikon til genvej.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1655"/>
         <source>Not supported on your platform!</source>
         <translation>Ikke understøttet på din platform!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1733"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation>Kunne du ikke finde applikationsmappen?</translation>
+        <translation type="vanished">Kunne du ikke finde applikationsmappen?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1742"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation>Kunne ikke oprette instansmappe i applikationsmappen!</translation>
+        <translation type="vanished">Kunne ikke oprette instansmappe i applikationsmappen!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1749"/>
         <source>Created a shortcut to this instance in your applications folder!</source>
-        <translation>Oprettet en genvej til denne instans i applikationsmappen!</translation>
+        <translation type="vanished">Oprettet en genvej til denne instans i applikationsmappen!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1830"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1618"/>
         <source>Rename Instance</source>
         <translation>Omdøb Instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1842"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1630"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Din instance mappe indeholder &apos;!&apos; og dette er kendt for at forårsage Java problemer!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1843"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1631"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Du har nu to muligheder: &lt;br/&gt; - ændre instansmappen i indstillingerne &lt;br/&gt; - flytte denne installation af %1 til en anden mappe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1851"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1639"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Dette er et problem: &lt;br/&gt; - launcheren vil sandsynligvis blive slettet uden varsel af operativsystemet &lt;br/&gt; - luk launcheren nu og udpak den til en rigtig placering, ikke en midlertidig mappe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1857"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Din instance mappe indeholder &apos;Rar$&apos; - det betyder, at du ikke har udpakket launcher arkivet!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1863"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Din instance mappe er i en midlertidig mappe: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1877"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1665"/>
         <source>Total playtime: %1</source>
         <translation>Samlet spilletid: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="876"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="989"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1003"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1044"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1347"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="857"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1025"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
         <source>Error</source>
         <translation>Fejl</translation>
     </message>
@@ -10819,7 +10888,7 @@ HTTP Status: %2</translation>
         <translation>Med tak til</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="137"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="138"/>
         <source>%1 (in use)</source>
         <translation>%1 (i brug)</translation>
     </message>
@@ -11586,6 +11655,96 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/GZip.cpp" line="209"/>
         <source>zlib version mismatch!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="65"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="93"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="156"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="168"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="174"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="185"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="194"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="202"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="225"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="233"/>
+        <source>Create Shortcut</source>
+        <translation type="unfinished">Opret Genvej</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
+        <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
+        <translation type="unfinished">launcheren er i den mappe den blev udtrukket fra, og den kan derfor ikke oprette genveje.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
+        <source>Failed to create icon for application.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
+        <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
+        <translation type="unfinished">Launcher kører som forkert konfigureret AppImage? ($APPIMAGE miljøvariabel mangler)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
+        <source>Failed to create icon for shortcut.</source>
+        <translation type="unfinished">Kunne ikke oprette ikon til genvej.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
+        <source>Not supported on your platform!</source>
+        <translation type="unfinished">Ikke understøttet på din platform!</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="157"/>
+        <source>Failed to create %1 shortcut!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="168"/>
+        <source>Couldn&apos;t find desktop?!</source>
+        <translation type="unfinished">Kunne ikke finde skrivebordet?!</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="175"/>
+        <source>Created a shortcut to this %1 on your desktop!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="185"/>
+        <source>Couldn&apos;t find applications folder?!</source>
+        <translation type="unfinished">Kunne du ikke finde applikationsmappen?</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="195"/>
+        <source>Failed to create instances folder in applications folder!</source>
+        <translation type="unfinished">Kunne ikke oprette instansmappe i applikationsmappen!</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="203"/>
+        <source>Created a shortcut to this %1 in your applications folder!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="226"/>
+        <source>Desktop Entries</source>
+        <translation type="unfinished">Skrivebord Indgange</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
+        <source>Created a shortcut to this %1!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
