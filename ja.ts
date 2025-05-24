@@ -23,7 +23,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>注意：Pasteサービスの種類を変更した後、ベース URLを変更またはクリアすることをお勧めします。</translation>
+        <translation>注: 貼り付けサービス タイプを変更した後は、ベース URL を変更またはクリアする必要がある可能性があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -693,7 +693,7 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Remove account?</source>
-        <translation>アカウントの削除</translation>
+        <translation>アカウントを削除しますか?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -1200,7 +1200,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
         <source>Compatible Java found at: %1.</source>
-        <translation>互換性のあるJavaが見つかりました：%1</translation>
+        <translation>互換性のある Java が次の場所で見つかりました: %1。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
@@ -2347,7 +2347,12 @@ Minecraft のバージョンによっては起動しない場合があります�
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation>このテキストは以下のプレースホルダーをサポートしています:
+{name} - Mod名
+{mod_id} - Mod ID
+{url} - Mod URL
+{version} - Modバージョン
+{authors} - Mod作者</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -5321,7 +5326,7 @@ Do you want to play the demo?</source>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>ボタンを押すまで、ゲームの起動は遅れます。プロファイラサーバーが実行中なので、プロファイラを設定するのに適切なタイミングです。
+        <translation>ボタンを押すまでゲームの起動は遅延されます。プロファイラーサーバーが現在実行中なので、プロファイラーを設定するのに適したタイミングです。
 
 %1</translation>
     </message>
@@ -5380,7 +5385,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>[Log4j 解析エラー] log4j ログイベントの解析に失敗しました: %1</translation>
     </message>
 </context>
 <context>
@@ -6481,7 +6486,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="162"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>必要に応じて%1 を開くか、QR をスキャンして上記のコードを入力してください。</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -6609,7 +6614,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したフォルダーにショートカットを作成し、選択したインスタンスを起動します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="694"/>
@@ -7124,12 +7129,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
         <source>Upload logs</source>
-        <translation type="unfinished"></translation>
+        <translation>ログをアップロードします｡</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
         <source>Upload launcher logs to the selected log provider</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したログプロバイダーにランチャーログをアップロードします｡</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
@@ -7554,17 +7559,19 @@ Please create a new instance before attempting to install this resource again.</
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>メタデータキャッシュのクリアに失敗しました！
+メタデータキャッシュを手動でクリアするには、「フォルダ」→「ランチャーのルートフォルダを表示」を選択し、ランチャーを閉じた後に「meta」というフォルダを削除してください。
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
         <source>Cannot Delete Running Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>実行中の起動構成を削除できません｡</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1400"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>選択した起動構成は現在実行中であるため、削除できません。削除する前に起動構成を停止してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1419"/>
@@ -9925,42 +9932,42 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="49"/>
         <source>&amp;Find</source>
-        <translation type="unfinished"></translation>
+        <translation>＆探す</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="63"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">一番下までスクロール</translation>
+        <translation>一番下までスクロール</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="66"/>
         <source>&amp;Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>＆一番下</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="109"/>
         <source>Delete the selected log</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したログを削除する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="112"/>
         <source>&amp;Delete Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;選択項目を削除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="119"/>
         <source>Delete all the logs</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてのログを削除する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="122"/>
         <source>Delete &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>すべて削除(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="133"/>
         <source>Wrap lines</source>
-        <translation type="unfinished">行を折り返し</translation>
+        <translation>行を折り返し</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="143"/>
@@ -9980,22 +9987,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="176"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">設定されたペーストサービスにログをアップロードします</translation>
+        <translation>設定された貼り付けサービスにログをアップロードします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="179"/>
         <source>&amp;Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>＆アップロード</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="186"/>
         <source>Reload the contents of the log from the disk</source>
-        <translation type="unfinished"></translation>
+        <translation>ディスクからログの内容を再読み込みする</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="189"/>
         <source>&amp;Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>リロード(&amp;R)</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -10030,7 +10037,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="80"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>ログの長さが %1 行を超えたため、このログを表示できません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="188"/>
@@ -10056,7 +10063,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="252"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイル (%1) の読み取り中にエラーが発生しました: %2。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="287"/>
@@ -10909,7 +10916,7 @@ HTTPステータス: %2</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="72"/>
         <source>%1 [installed]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [インストール済み]</translation>
     </message>
 </context>
 <context>
@@ -11123,28 +11130,29 @@ Proceed with truncation?</source>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="156"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="160"/>
         <source>Failed to upload logs!</source>
-        <translation type="unfinished"></translation>
+        <translation>ログのアップロードに失敗しました!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>Logs upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>ログのアップロードが中止されました</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="146"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>タスクはユーザーによって中止されました。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="152"/>
         <source>Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>エラー: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="154"/>
         <source>
 Error message: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+エラーメッセージ: %1</translation>
     </message>
     <message>
         <source>Upload failed</source>
@@ -11873,27 +11881,27 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/GZip.cpp" line="201"/>
         <source>error handling file</source>
-        <translation type="unfinished"></translation>
+        <translation>エラー処理ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="203"/>
         <source>invalid compression level</source>
-        <translation type="unfinished"></translation>
+        <translation>無効な圧縮レベル</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="205"/>
         <source>invalid or incomplete deflate data</source>
-        <translation type="unfinished"></translation>
+        <translation>無効または不完全なdeflateデータ</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="207"/>
         <source>out of memory</source>
-        <translation type="unfinished"></translation>
+        <translation>メモリ不足</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="209"/>
         <source>zlib version mismatch!</source>
-        <translation type="unfinished"></translation>
+        <translation>zlibバージョンが一致しません!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="65"/>
@@ -12256,13 +12264,14 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"/>
         <source>No versions available</source>
-        <translation type="unfinished"></translation>
+        <translation>利用可能なバージョンはありません</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="433"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; のバージョンは利用できません。
+作者がサードパーティ製のランチャーをブロックしている可能性があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="540"/>
