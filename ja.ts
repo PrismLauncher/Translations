@@ -693,7 +693,7 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Remove account?</source>
-        <translation>アカウントを削除しますか?</translation>
+        <translation>アカウントを削除しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -2348,11 +2348,11 @@ Minecraft のバージョンによっては起動しない場合があります�
 {version}  - Mod version
 {authors}  - Mod authors</source>
         <translation>このテキストは以下のプレースホルダーをサポートしています:
-{name} - Mod名
-{mod_id} - Mod ID
-{url} - Mod URL
-{version} - Modバージョン
-{authors} - Mod作者</translation>
+{name}     - Modの名前
+{mod_id}   - ModのID
+{url}      - ModのURL
+{version}  - Modのバージョン
+{authors}  - Modの作者</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -6200,7 +6200,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="80"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>行に色を付ける</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -6486,7 +6486,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="162"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation>必要に応じて%1 を開くか、QR をスキャンして上記のコードを入力してください。</translation>
+        <translation>必要に応じて %1 を開くか、QRをスキャンして上記のコードを入力してください。</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -7129,7 +7129,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
         <source>Upload logs</source>
-        <translation>ログをアップロードします｡</translation>
+        <translation>ログをアップロード</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
@@ -9932,7 +9932,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="49"/>
         <source>&amp;Find</source>
-        <translation>＆探す</translation>
+        <translation>検索(&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="63"/>
@@ -9942,22 +9942,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="66"/>
         <source>&amp;Bottom</source>
-        <translation>＆一番下</translation>
+        <translation>一番下(&amp;B)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="109"/>
         <source>Delete the selected log</source>
-        <translation>選択したログを削除する</translation>
+        <translation>選択したログを削除します</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="112"/>
         <source>&amp;Delete Selected</source>
-        <translation>&amp;選択項目を削除</translation>
+        <translation>選択項目を削除(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="119"/>
         <source>Delete all the logs</source>
-        <translation>すべてのログを削除する</translation>
+        <translation>すべてのログを削除します</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="122"/>
@@ -9972,7 +9972,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="143"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>行に色を付ける</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="166"/>
@@ -9992,17 +9992,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="179"/>
         <source>&amp;Upload</source>
-        <translation>＆アップロード</translation>
+        <translation>アップロード(&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="186"/>
         <source>Reload the contents of the log from the disk</source>
-        <translation>ディスクからログの内容を再読み込みする</translation>
+        <translation>ディスクからログの内容を再読み込みします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="189"/>
         <source>&amp;Reload</source>
-        <translation>リロード(&amp;R)</translation>
+        <translation>再読み込み(&amp;R)</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -11901,7 +11901,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/GZip.cpp" line="209"/>
         <source>zlib version mismatch!</source>
-        <translation>zlibバージョンが一致しません!</translation>
+        <translation>zlibバージョンが一致しません！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="65"/>
