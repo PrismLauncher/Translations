@@ -1332,7 +1332,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="59"/>
         <source>Add Download Folder</source>
-        <translation>Aggiungi cartella dei Download</translation>
+        <translation>Aggiungi Cartella Download</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="140"/>
@@ -1357,7 +1357,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
-        <translation>Cartelle controllate:</translation>
+        <translation>Cartelle Controllate:</translation>
     </message>
 </context>
 <context>
@@ -8207,7 +8207,7 @@ Può essere aggiornato solo tramite file in formato %1
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1031"/>
         <source>, last played on %1 for %2</source>
-        <translation>, giocato l&apos;ultima volta su %1 per %2</translation>
+        <translation>, giocato l&apos;ultima volta il %1 per %2</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -13481,7 +13481,7 @@ Sei sicuro/a?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
         <source>View Folder</source>
-        <translation>Apri cartella</translation>
+        <translation>Apri Cartella</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
@@ -14052,7 +14052,7 @@ Sei sicuro/a?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="103"/>
         <source>Open Folder</source>
-        <translation>Apri cartella</translation>
+        <translation>Apri Cartella</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
