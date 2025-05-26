@@ -10524,7 +10524,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="49"/>
         <source>&amp;Find</source>
-        <translation type="unfinished">&amp;Trouver</translation>
+        <translation>&amp;Trouver</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="63"/>
