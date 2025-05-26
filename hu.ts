@@ -5002,7 +5002,7 @@ A Java verziót később a beállítások között megváltoztathatja.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="129"/>
         <source>PermGen (Java 7 and earlier):</source>
-        <translation>PermGen (Java 7 és korábbi):</translation>
+        <translation>PermGen (Java 7 és régebbi):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="165"/>
