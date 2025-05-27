@@ -1621,108 +1621,108 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Sukurti Instance nuorodą</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation type="unfinished"></translation>
+        <translation>Saugoti į:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pavadinimas:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
         <source>Name</source>
-        <translation type="unfinished">Pavadinimas</translation>
+        <translation>Pavadinimas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudoti kitą paskyrą negu numatytoji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
         <source>Override the default account</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepaisyti numatytosios paskyros</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nurodyti pasaulį ar serverį į kurį prisijungti automatiškai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkit taikinį, prie kurio prisijungti paleidimo metu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
         <source>World:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasaulis:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"/>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"/>
         <source>Server Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverio adresas:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"/>
         <source>Server Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverio adresas:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Darbalaukis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="89"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Programos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="91"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kita...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="97"/>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [%2] - Paskutinį kartą žaista: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="113"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (naudojama)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="180"/>
         <source>%1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="182"/>
         <source>%1 - Server %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Serveris %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="197"/>
         <source>instance</source>
-        <translation type="unfinished"></translation>
+        <translation>instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="201"/>
         <source>world</source>
-        <translation type="unfinished"></translation>
+        <translation>pasaulis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="204"/>
         <source>server</source>
-        <translation type="unfinished"></translation>
+        <translation>serveris</translation>
     </message>
 </context>
 <context>
@@ -4002,7 +4002,7 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Naudoti pasirinktiną GPU vietoje pagrindinės GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
@@ -4027,15 +4027,15 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Įjungti online pataisymus (bandomasis)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepaisyti visuotinių žaidimo laiko nustatymų</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti laiką, praleistą žaidžiant šį instance</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
@@ -4048,7 +4048,7 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverio adresas:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="55"/>
@@ -4057,15 +4057,15 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="unfinished"></translation>
+        <translation>Kelias į %1 bibliotekos failą</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Feral Interactive&apos;s GameMode nebuvo rastas jūsų sistemoje</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>MangoHud nebuvo rastas jūsų sistemoje.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
@@ -4073,29 +4073,31 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Patvirtinti pasirinkimą</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jūs pasirinkote 32-bit Java versija.
+Šis įdiegimas nepalaiko daugiau nei 2048MiB RAM.
+Įsitikinkite kad maksimalus RAM yra mažiau.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Surasti Java .exe</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalus atminties kiekis viršija sistemos atminties talpą.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalus atminties paskirstymas artėja prie sistemos atminties talpos.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalus atminties paskirstymas yra mažesnis nei minimali vertė</translation>
     </message>
 </context>
 <context>
@@ -4103,12 +4105,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="902"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko sukurti laikino aplanko</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="920"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko patvirtinti instance net po kelių bandymų. Kažkas jį blokuoja.</translation>
     </message>
 </context>
 <context>
@@ -4116,12 +4118,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="473"/>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sveiki!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="473"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Norėdami pradėti, spustelėkite „Pridėti Instance“.</translation>
     </message>
 </context>
 <context>
@@ -4129,7 +4131,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
         <source>Console window for </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Konsolės langas </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
@@ -4139,17 +4141,17 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Paleisti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Naikinti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -4167,7 +4169,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Kill the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Naikinti vykdomą instance</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -4176,7 +4178,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
         <source>Launch the instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Paleisti instance</translation>
     </message>
 </context>
 <context>
@@ -4197,7 +4199,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>JVisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>JVisualVM pradėtas</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
@@ -4210,34 +4212,34 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Siunčiama Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="69"/>
         <source>Extracting Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Išskleidžiama Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="71"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="84"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished"></translation>
+        <translation>Išskleidžiama „Java“ (Progresas nepranešamas „tar“ archyvams)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="74"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko atidaryti pateikto tar failo.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="78"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="86"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko atidaryti pateikto tar failo.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="94"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko atidaryti pateikto zip failo.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="99"/>
@@ -4255,12 +4257,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Perkrauti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="214"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Siųsti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="215"/>
@@ -4270,23 +4272,23 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="279"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="281"/>
         <source>Adoptium</source>
-        <translation type="unfinished"></translation>
+        <translation>Adoptium</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="283"/>
         <source>Azul Zulu</source>
-        <translation type="unfinished"></translation>
+        <translation>Azul Zulu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="289"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="320"/>
         <source>Install Java</source>
-        <translation type="unfinished">Įdiekite Java</translation>
+        <translation>Įdiegti Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"/>
@@ -4310,7 +4312,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Siunčiama Java</translation>
     </message>
 </context>
 <context>
@@ -4318,17 +4320,17 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ieškoma Java dvejetainio kelio</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ieškoma Java dvejetainio kelio</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko rasti Java dvejetainio kelio</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
@@ -4346,7 +4348,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <source>Detecting Java installations...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aptinkami Java diegimai...</translation>
     </message>
 </context>
 <context>
@@ -4362,16 +4364,16 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Minimalus atminties paskyrimas:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mak&amp;simalus atminties paskyrimas:</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;PermGen:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
@@ -4383,47 +4385,47 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation type="unfinished"></translation>
+        <translation>Java Runtime</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>JVM argumentai:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatiškai parenka „Java“ versiją, kuri suderinama su dabartiniu „Minecraft“ instance, remiantis reikiama pagrindine versija.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatiškai aptikti Java versiją</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Java kelias:</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatiškai atsisiunčia ir parenka Mojang rekomenduojamą Java versiją.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-atsisiųsti Mojang Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="68"/>
         <source>Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Valdymas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="74"/>
         <source>Downloaded Java Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Atsisiųstos Java versijos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="92"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Atsisiųsti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="99"/>
@@ -4451,20 +4453,20 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeigu įjungta, neprašys pasirinkti „Java“ versijos, jei jos nerasta.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Praleisti Java &amp;Wizard</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">Jei įjungta, paleidimo priemonė netikrins, ar egzempliorius suderinamas su pasirinkta Java versija.</translation>
+        <translation>Jei įjungta, paleidimo priemonė netikrins, ar instance suderinamas su pasirinkta Java versija.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Praleisti Java suderinimo patikrinimus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="59"/>
@@ -4475,13 +4477,13 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Jokia valdoma Java versija nėra įdiegta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Negalima pakrauti valdomą Java sąrašą!</translation>
     </message>
     <message>
         <source>Select a Java version</source>
@@ -4489,7 +4491,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Patvirtinti pasirinkimą</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
@@ -4896,7 +4898,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="70"/>
         <source>No instance specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Instance nepasirinktas!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
@@ -4917,22 +4919,22 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="119"/>
         <source>Which account would you like to use?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kurią paskyrą naudoti?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>No account selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepasirinkta paskyra startui.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="209"/>
         <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tęsti startą?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="210"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Neišėjo užkrauti po %1 bandimų. Tęsti starto bandymus?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="160"/>
@@ -4942,22 +4944,22 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="153"/>
         <source>Choose your offline mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkti offline mode žaidėjo vardą.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="155"/>
         <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkti demo mode žaidėjo vardą.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="278"/>
         <source>Received undetermined session status during login.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gautas nenustatytas sesijos statusas per prisijungimą.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="137"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Žaisti demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="139"/>
@@ -4965,12 +4967,15 @@ You can change the Java version in the settings later.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ši paskyra neturi Minecraft.
+Žaisti reikalingas nupirktas žaidimas.
+
+Ar norite žaisti demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="142"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Žaisti Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="143"/>
@@ -4980,7 +4985,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="245"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Startas atšauktas - paskyra neturi Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="300"/>
@@ -5000,7 +5005,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="338"/>
         <source>Account refresh failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Paskyros atnaujimas nepavyko</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
@@ -5018,7 +5023,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>Account gone</source>
-        <translation type="unfinished"></translation>
+        <translation>Paskyros nebėra</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -5055,7 +5060,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="443"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pradėti</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="437"/>
@@ -5152,33 +5157,33 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
         <source>Update Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Atnaujinimo nustatymai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="75"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ieškoti atnaujinimų automatiškai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="84"/>
         <source>Update interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Atnaujinimo intervalas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="91"/>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Nustatykite 0, kad ieškoti ant starto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplankai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="118"/>
@@ -5198,37 +5203,37 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="139"/>
         <source>Rename instance folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Pervadyti instance aplankus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="147"/>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Niekada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="152"/>
         <source>Ask</source>
-        <translation type="unfinished"></translation>
+        <translation>Klausti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="157"/>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Visada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>&amp;Mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modifikacijos:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="187"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ikonos:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
         <source>&amp;Skins:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skinai:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="273"/>
@@ -5299,7 +5304,7 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="405"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
@@ -5335,12 +5340,12 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="298"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifikacijos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="250"/>
         <source>&amp;Downloads:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Atsisiuntimai:</translation>
     </message>
     <message>
         <source>...</source>
@@ -5372,7 +5377,7 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="483"/>
         <source>Cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Katė</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="489"/>
@@ -5387,12 +5392,12 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="502"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="537"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Įrankiai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="543"/>
@@ -5408,11 +5413,11 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="570"/>
         <source>Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Konsolė</translation>
     </message>
     <message>
         <source>Console Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Konsolės nustatymai</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
@@ -5422,7 +5427,7 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Automatiškai uždaryti konsolę kuomet žaidimas išjungiamas</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
@@ -5433,29 +5438,29 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="576"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%Istorijos limitas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="582"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Baigti registravimą kuomet registras perpildomas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="595"/>
         <source> lines</source>
-        <translation type="unfinished"></translation>
+        <translation> *linijos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="623"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Konsolės &amp;šriftas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="112"/>
         <source>Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Instance aplankas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="120"/>
@@ -5490,42 +5495,42 @@ Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="155"/>
         <source>Icons Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikonų aplankas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
         <source>Mods Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Modų aplankas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="177"/>
         <source>Downloads Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Atsisiuntimų aplankas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="187"/>
         <source>Java Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Java aplankas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="197"/>
         <source>Skins Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Skinų aplankas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="390"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Testas/Klaida] OOoooOOOoooo! Baisi Klaida!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="392"/>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Tesast/KLAIDA] Baisi klaida!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="395"/>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[Testas/KLAIDA] Klaida.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="396"/>
@@ -5545,7 +5550,7 @@ Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="60"/>
         <source>Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcheris</translation>
     </message>
 </context>
 <context>
@@ -5604,12 +5609,12 @@ Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="130"/>
         <source>Third Party Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Trečios šalies Modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="132"/>
         <source>Private Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Privatūs Modpack</translation>
     </message>
 </context>
 <context>
@@ -5617,17 +5622,17 @@ Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="117"/>
         <source>Public Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Vieši Modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="121"/>
         <source>Third Party Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Trečiųjų šalių Modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko atsisiųsti kai kurių paketo dalių: %1</translation>
     </message>
 </context>
 <context>
@@ -5635,7 +5640,7 @@ Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="69"/>
         <source>Downloading zip for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Atsisiunčiama zip %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
@@ -5645,12 +5650,12 @@ Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="107"/>
         <source>Failed to open modpack file %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko atidaryti Modpack failo %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="130"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">Modpack diegimas</translation>
+        <translation>Modpack diegiamas</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="136"/>
@@ -6322,7 +6327,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="206"/>
         <source>&amp;Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pasykros</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="64"/>
@@ -7513,7 +7518,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="42"/>
         <source>Account has no Minecraft profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paskyra neturi Minecraft profilio.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="56"/>
@@ -11812,12 +11817,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"/>
         <source>Filename: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failo pav.: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="55"/>
         <source>This download will be placed in: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Šis atsisiųntimas bus nukeltas į: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="62"/>
@@ -11890,24 +11895,24 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
         <source>View Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Peržiūrėti aplanką</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti vaizdą</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
         <source>Copy File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti failą(-us)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
         <source>Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekranvaizdžiai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="311"/>
@@ -11940,13 +11945,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"/>
         <source>Unknown error</source>
-        <translation type="unfinished"></translation>
+        <translation>Nežinoma klaida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="461"/>
         <source>Upload finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Baigtas įkėlimas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="393"/>
@@ -11957,13 +11962,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="446"/>
         <source>Screenshots upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekrano kopijų įkėlimas nutrauktas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="446"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Užduotis nutraukta vartotojo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="419"/>
@@ -12024,12 +12029,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Paskelbimo data</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="123"/>
         <source>Select a version to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkti įdiegimo versiją</translation>
     </message>
 </context>
 <context>
@@ -12037,12 +12042,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkti versiją įdiegti</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkti versiją kurią atnaujinti</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
@@ -12052,14 +12057,16 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Paskelbimo data</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="48"/>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkti versiją įdiegti.
+
+Dabar įdiegta versija: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
@@ -12122,17 +12129,17 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"/>
         <source>Ask to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Prašyti atsisiųsti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="114"/>
         <source>Always download</source>
-        <translation type="unfinished"></translation>
+        <translation>Visada atsisiųsti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="119"/>
         <source>Never download</source>
-        <translation type="unfinished"></translation>
+        <translation>Niekada neatsisiųsti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="130"/>
