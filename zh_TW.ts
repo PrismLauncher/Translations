@@ -1698,108 +1698,108 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>建立實例捷徑</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation type="unfinished"></translation>
+        <translation>儲存至：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>名稱：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
         <source>Name</source>
-        <translation type="unfinished">名稱</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用預設設定以外的其他帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
         <source>Override the default account</source>
-        <translation type="unfinished"></translation>
+        <translation>覆蓋預設帳號設定</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>指定啟動時要自動加入的世界或伺服器。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇啟動時要加入的目的地</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
         <source>World:</source>
-        <translation type="unfinished"></translation>
+        <translation>世界：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"/>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"/>
         <source>Server Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器位址：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"/>
         <source>Server Address</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器位址</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"/>
         <source>Desktop</source>
-        <translation type="unfinished">桌面</translation>
+        <translation>桌面</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="89"/>
         <source>Applications</source>
-        <translation type="unfinished">應用程式</translation>
+        <translation>應用程式</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="91"/>
         <source>Other...</source>
-        <translation type="unfinished">其他…</translation>
+        <translation>其他…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="97"/>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [%2] - 上次遊玩時間：%3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="113"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1（使用中）</translation>
+        <translation>%1（使用中）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="180"/>
         <source>%1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="182"/>
         <source>%1 - Server %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - %2 伺服器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="197"/>
         <source>instance</source>
-        <translation type="unfinished"></translation>
+        <translation>實例</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="201"/>
         <source>world</source>
-        <translation type="unfinished"></translation>
+        <translation>世界</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="204"/>
         <source>server</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器</translation>
     </message>
 </context>
 <context>
@@ -12557,23 +12557,23 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="225"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="233"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished">建立捷徑</translation>
+        <translation>建立捷徑</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished">啟動器位於其提取的資料夾中，因此無法建立捷徑。</translation>
+        <translation>啟動器位於解壓縮的原始資料夾中，因此無法建立捷徑。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
         <source>Failed to create icon for application.</source>
-        <translation type="unfinished"></translation>
+        <translation>無法建立應用程式的圖示。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished">啟動器正在以錯誤設定的 AppImage 執行？（找不到 $APPIMAGE 環境變數）</translation>
+        <translation>啟動器是以設定錯誤的 AppImage 執行的？（缺少 $APPIMAGE 環境變數）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
@@ -12581,52 +12581,52 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished">無法為捷徑建立圖示。</translation>
+        <translation>無法為捷徑建立圖示。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished">您的平台目前不受支援！</translation>
+        <translation>目前不支援您的平台！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="157"/>
         <source>Failed to create %1 shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>無法建立 %1 捷徑！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="168"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished">找不到桌面？！</translation>
+        <translation>找不到桌面？！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="175"/>
         <source>Created a shortcut to this %1 on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>已經在桌面建立連結到這個%1的捷徑！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="185"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation type="unfinished">無法找到應用程式資料夾？！</translation>
+        <translation>無法找到應用程式資料夾？！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="195"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation type="unfinished">無法在應用程式資料夾中建立實例資料夾！</translation>
+        <translation>無法在應用程式資料夾中建立實例資料夾！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="203"/>
         <source>Created a shortcut to this %1 in your applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>已經在應用程式資料夾建立連結到這個%1的捷徑！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="226"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished">桌面項目</translation>
+        <translation>桌面項目</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <source>Created a shortcut to this %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>已經建立連結到這個%1的捷徑！</translation>
     </message>
 </context>
 <context>
