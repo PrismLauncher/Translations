@@ -13,7 +13,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tipus de servici d&apos;enganxament</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
@@ -34,7 +34,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished">&amp;Autenticació de Microsoft</translation>
+        <translation>&amp;Autenticació de Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
@@ -72,7 +72,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="307"/>
         <source>(None)</source>
-        <translation type="unfinished">(Res)</translation>
+        <translation>(Res)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
@@ -107,7 +107,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished">Servidor de Meta&amp;Data</translation>
+        <translation>&amp;Servidor de MetaData</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
@@ -117,7 +117,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished">Pots establir aço a un servidor de metadades de tercers per a usar llibreries parcheades o altres hacks.</translation>
+        <translation>Pots establir açò a un servidor de metadades de tercers per a usar llibreries parcheades o altres hacks.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -132,7 +132,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished">API de &amp;CurseForge Core</translation>
+        <translation>&amp;API de CurseForge Core</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
@@ -254,22 +254,22 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="881"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 de %2 completat</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="921"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut extraure el mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="931"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraient mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal·lant paquet de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1014"/>
