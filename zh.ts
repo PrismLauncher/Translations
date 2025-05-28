@@ -7850,7 +7850,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>快捷方式已创建！</translation>
+        <translation>指向该实例的桌面快捷方式已创建！</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
@@ -7956,7 +7956,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation>已为当前实例添加快捷方式！</translation>
+        <translation>指向该实例的快捷方式已创建！</translation>
     </message>
     <message>
         <source>Couldn&apos;t find applications folder?!</source>
@@ -12570,18 +12570,18 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished">启动器位于解压出来的文件夹中，无法创建快捷方式。</translation>
+        <translation>启动器位于解压出来的文件夹中，无法创建快捷方式。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
         <source>Failed to create icon for application.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建应用程序的图标。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished">启动器现在是在错误配置的 AppImage 中运行吗？（未找到 $APPIMAGE 环境变量）</translation>
+        <translation>启动器现在是在错误配置的 AppImage 中运行吗？（未找到 $APPIMAGE 环境变量）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
@@ -12589,52 +12589,52 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished">无法创建快捷方式的图标。</translation>
+        <translation>无法创建快捷方式的图标。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished">不支持你的平台！</translation>
+        <translation>不支持你的平台！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="157"/>
         <source>Failed to create %1 shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建 %1 快捷方式！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="168"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished">无法找到桌面？！</translation>
+        <translation>无法找到桌面？！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="175"/>
         <source>Created a shortcut to this %1 on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>指向 %1 的桌面快捷方式已创建！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="185"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation type="unfinished">无法找到应用程序文件夹？！</translation>
+        <translation>无法找到应用程序文件夹？！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="195"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation type="unfinished">无法在应用程序文件夹里创建实例文件夹！</translation>
+        <translation>无法在应用程序文件夹里创建实例文件夹！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="203"/>
         <source>Created a shortcut to this %1 in your applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>已在应用程序文件夹里创建指向 %1 的快捷方式！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="226"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished">桌面快捷方式</translation>
+        <translation>桌面快捷方式</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <source>Created a shortcut to this %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>指向 %1 的快捷方式已创建！</translation>
     </message>
 </context>
 <context>
