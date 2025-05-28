@@ -4039,12 +4039,12 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekordinis laikas pražaistas šiame instance</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Nustatyti kur prisijungti kuomet paleidžiama</translation>
     </message>
     <message>
         <source>Server address:</source>
@@ -4335,12 +4335,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Renkami aplankai į symlink</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Symlinking Java binary kelią</translation>
     </message>
 </context>
 <context>
@@ -4520,7 +4520,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Patvirtinti ištrinimą</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="113"/>
@@ -4556,7 +4556,7 @@ Ar norite tęsti be „Java“?
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Aptikta 32-bit Java</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -4565,7 +4565,11 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Jūs pasirinkote 32-bit Java versiją, bet paskyrėte daugiau nei 2048MiB atminties.
+%1 negalės įjungti Minecraft.
+
+Java versiją galite pakeisti vėliau nustatymuose.
+</translation>
     </message>
     <message>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
@@ -4638,7 +4642,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="94"/>
         <source>Skip Java setup prompt on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Praleisti Java setup lentelę, kai paleidžiama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="101"/>
@@ -6654,31 +6658,31 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pakeisti Grupę...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="380"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="265"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Backspace</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="441"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Sukurti nuorodą</translation>
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sukuria pasirinktos instance nurodą ant darbalaukio.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
@@ -6693,7 +6697,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1408"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Patvirtinti ištrynimą</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1409"/>
@@ -6764,7 +6768,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="384"/>
         <source>Total playtime: 0s</source>
-        <translation type="unfinished"></translation>
+        <translation>Iš viso pražaista: 0s</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -6774,48 +6778,48 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/MainWindow.cpp" line="562"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sukurti Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ištrinti grupę</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
         <source>No accounts added!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepridėta jokių paskyrų!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
         <source>Ctrl+%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="506"/>
         <source>No Default Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Jokios pagrindinės paskyros</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="509"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="807"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kraunamos žinios...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="817"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jokių žinių nėra.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="861"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Įspėjimai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="865"/>
@@ -6837,7 +6841,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="985"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šis modpack, modas ar šaltinis yra blokuojamas trečiosioms šalims. Prašome atsisiųsti patiems.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1019"/>
@@ -6847,39 +6851,40 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1054"/>
         <source>No instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nėra instance!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nėra instance, kad pridėti šaltinį į.
+Prašome sukurti naują instance, prieš bandydami įdiegtį ši šaltinį.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1169"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupės pavadinimas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1169"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1191"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Įrašyti naują grupės pavadinimą.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1181"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>Ištrinti grupę</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1307"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Instance negalima keisti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1308"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šis instance nekeičiamas. Yra arba sugedęs, neteisingas, per senas. Patikrinkite istoriją dėl daugiau informacijos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1329"/>
@@ -6891,17 +6896,17 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1351"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Sėkmingai pridėta %1 į KELIĄ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1352"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 sėkmingai pridėtas į KELIĄ. Dabar galite paleisti su `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko pridėti %1 į KELIĄ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1356"/>
