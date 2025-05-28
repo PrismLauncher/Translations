@@ -12591,7 +12591,7 @@ Souhaitez-vous continuer&#x202f;?</numerusform>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished">Échec de la création de l&apos;icône pour le raccourci.</translation>
+        <translation>Échec de la création de l&apos;icône pour le raccourci.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
@@ -12601,7 +12601,7 @@ Souhaitez-vous continuer&#x202f;?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="157"/>
         <source>Failed to create %1 shortcut!</source>
-        <translation type="unfinished">Création du raccourci %1 échouée!</translation>
+        <translation>Échec de la création du raccourci %1&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="168"/>
@@ -12611,7 +12611,7 @@ Souhaitez-vous continuer&#x202f;?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="175"/>
         <source>Created a shortcut to this %1 on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Un raccourci vers ce %1 à été créé sur votre bureau&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="185"/>
@@ -12626,7 +12626,7 @@ Souhaitez-vous continuer&#x202f;?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="203"/>
         <source>Created a shortcut to this %1 in your applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Un raccourci vers ce 1% à été créé dans votre dossier des applications&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="226"/>
@@ -12636,7 +12636,7 @@ Souhaitez-vous continuer&#x202f;?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <source>Created a shortcut to this %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Un raccourci vers ce 1% à été créé&#x202f;!</translation>
     </message>
 </context>
 <context>
