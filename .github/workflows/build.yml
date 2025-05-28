@@ -18,9 +18,6 @@ jobs:
       - name: Install Nix
         uses: DeterminateSystems/nix-installer-action@v17
 
-      - name: Setup Nix cache
-        uses: DeterminateSystems/magic-nix-cache-action@v9
-
       - name: Build translations
         run: |
           nix develop . -c ./release.sh
