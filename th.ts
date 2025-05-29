@@ -135,7 +135,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;หมายเหตุ: คุณต้องตั้งค่านี้เพื่อเข้าถึงข้อมูลส่วนตัวเท่านั้น อ่าน &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;เอกสารประกอบ&lt;/a&gt; เพื่อดูข้อมูลเพิ่มเติม&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -1301,7 +1301,7 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>OK</source>
-        <translation type="unfinished">เสร็จสิ้น</translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
@@ -1652,12 +1652,12 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished">เสร็จสิ้น</translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
 </context>
 <context>
@@ -1681,17 +1681,17 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างทางลัดของอินสแตนซ์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกไปยัง:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
@@ -1701,88 +1701,88 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้บัญชีอื่นนอกเหนือจากค่าเริ่มต้นที่ระบุไว้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
         <source>Override the default account</source>
-        <translation type="unfinished"></translation>
+        <translation>แทนที่บัญชีเริ่มต้น</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>ระบุโลกหรือเซิร์ฟเวอร์ที่จะเข้าร่วมโดยอัตโนมัติเมื่อเปิดตัวเกม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกเป้าหมายที่จะเข้าร่วมตอนเปิดตัวเกม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
         <source>World:</source>
-        <translation type="unfinished"></translation>
+        <translation>โลก:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"/>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"/>
         <source>Server Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่เซิร์ฟเวอร์:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"/>
         <source>Server Address</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่เซิร์ฟเวอร์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>เดสก์ท็อป</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="89"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>แอป</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="91"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>อื่นๆ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="97"/>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [%2] - เล่นล่าสุด: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="113"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (ใช้งานอยู่)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="180"/>
         <source>%1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="182"/>
         <source>%1 - Server %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - เซิร์ฟเวอร์ %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="197"/>
         <source>instance</source>
-        <translation type="unfinished"></translation>
+        <translation>อินสแตนซ์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="201"/>
         <source>world</source>
-        <translation type="unfinished"></translation>
+        <translation>โลก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="204"/>
         <source>server</source>
-        <translation type="unfinished"></translation>
+        <translation>เซิร์ฟเวอร์</translation>
     </message>
 </context>
 <context>
@@ -2100,7 +2100,7 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
         <source>OK</source>
-        <translation type="unfinished">เสร็จสิ้น</translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="148"/>
@@ -2199,12 +2199,12 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="104"/>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="105"/>
         <source>OK</source>
-        <translation type="unfinished">เสร็จสิ้น</translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
@@ -2298,7 +2298,12 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อความนี้รองรับตัวแทนต่อไปนี้:
+{name} - ชื่อม็อด
+{mod_id} - รหัสประจำตัวม็อด
+{url} - URL ของม็อด
+{version} - เวอร์ชันม็อด
+{authors} - ผู้เขียนม็อด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -2352,7 +2357,7 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="68"/>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
@@ -2417,7 +2422,7 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation type="unfinished">ปิดการใช้งานรายการที่เลือกไว้</translation>
+        <translation>เปิดการใช้งานรายการที่เลือกไว้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
@@ -2888,7 +2893,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation type="unfinished">กำลังเตรียมม็อดสำหรับเคิร์สฟอร์จ...</translation>
+        <translation>กำลังเตรียมม็อดสำหรับเคิร์สฟอร์จ...</translation>
     </message>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
@@ -2913,7 +2918,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>การวิเคราะห์การตอบสนอง API จาก CurseForge สำหรับ &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
@@ -3169,7 +3174,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation type="unfinished">ตัวเลือกตัวกรอง</translation>
+        <translation>ตัวเลือกตัวกรอง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -3364,7 +3369,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="58"/>
         <source>Get dependencies</source>
-        <translation type="unfinished">รับ dependencies</translation>
+        <translation>รับสิ่งพึ่งพา</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="196"/>
@@ -3450,12 +3455,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"/>
         <source>OK</source>
-        <translation type="unfinished">เสร็จสิ้น</translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="88"/>
@@ -3587,12 +3592,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
-        <translation type="unfinished">เสร็จสิ้น</translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
 </context>
 <context>
@@ -3652,7 +3657,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
@@ -4256,44 +4261,44 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">กำลังดาวน์โหลดจาวา</translation>
+        <translation>กำลังดาวน์โหลดจาวา</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="69"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">กำลังแยก Java</translation>
+        <translation>กำลังแยก Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="71"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="84"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">กำลังแยก Java (ความคืบหน้าจะไม่รายงานสำหรับไฟล์ tar)</translation>
+        <translation>กำลังแยก Java (ความคืบหน้าจะไม่รายงานสำหรับไฟล์ tar)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="74"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">ไม่สามารถเปิดไฟล์ tar ที่ให้มาได้</translation>
+        <translation>ไม่สามารถเปิดไฟล์ tar ที่ให้มาได้</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="78"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="86"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">ไม่สามารถแยกไฟล์ tar ที่ให้มาได้</translation>
+        <translation>ไม่สามารถแยกไฟล์ tar ที่ให้มาได้</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="94"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">ไม่สามารถเปิดไฟล์ zip ที่ให้มาได้</translation>
+        <translation>ไม่สามารถเปิดไฟล์ zip ที่ให้มาได้</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="99"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">ไม่พบไฟล์ในไฟล์ zip ที่ให้มา</translation>
+        <translation>ไม่พบไฟล์ในไฟล์ zip ที่ให้มา</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="131"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">ไม่สามารถระบุประเภทของไฟล์ได้!</translation>
+        <translation>ไม่สามารถระบุประเภทของไฟล์ได้!</translation>
     </message>
 </context>
 <context>
@@ -4311,7 +4316,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="215"/>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="279"/>
@@ -4356,7 +4361,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">กำลังดาวน์โหลดจาวา</translation>
+        <translation>กำลังดาวน์โหลดจาวา</translation>
     </message>
 </context>
 <context>
@@ -4379,7 +4384,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>การรวบรวมโฟลเดอร์เพื่อเชื่อมโยงแบบสัญลักษณ์</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
@@ -4403,7 +4408,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">หน่วยความจำสูงสุดที่ Minecraft อนุญาตให้ใช้</translation>
+        <translation>หน่วยความจำสูงสุดที่ Minecraft อนุญาตให้ใช้</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
@@ -4421,11 +4426,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">ปริมาณของหน่วยความจำที่จุดเริ่มต้นของ Minecraft</translation>
+        <translation>ปริมาณของหน่วยความจำที่จุดเริ่มต้นของ Minecraft</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">หน่วยความจำที่สามารถใช้เพื่อจัดเก็บปริมาณของคลาส Java ที่โหลด</translation>
+        <translation>หน่วยความจำที่สามารถใช้เพื่อจัดเก็บปริมาณของคลาส Java ที่โหลด</translation>
     </message>
     <message>
         <source>Java Runtime</source>
@@ -4505,7 +4510,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">หากเปิดใช้งาน Launcher จะไม่ตรวจสอบว่าอินสแตนซ์เข้ากันได้กับ Java เวอร์ชันที่เลือกหรือไม่</translation>
+        <translation>หากเปิดใช้งาน Launcher จะไม่ตรวจสอบว่าอินสแตนซ์เข้ากันได้กับ Java เวอร์ชันที่เลือกหรือไม่</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
@@ -4535,7 +4540,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="unfinished">ตกลงตัวเลือกที่เลือก</translation>
+        <translation>ตกลงตัวเลือกที่เลือก</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
@@ -4547,7 +4552,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished">หาไฟล์ Java executable</translation>
+        <translation>หาไฟล์ Java ที่ปฏิบัติการได้</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
@@ -4620,7 +4625,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="228"/>
         <source>Find Java executable</source>
-        <translation type="unfinished">หาไฟล์ Java executable</translation>
+        <translation>หาไฟล์ Java ที่ปฏิบัติการได้</translation>
     </message>
     <message>
         <source>Memory</source>
@@ -4629,52 +4634,52 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">หน่วยความจำสูงสุดที่ Minecraft อนุญาตให้ใช้</translation>
+        <translation>หน่วยความจำสูงสุดที่ Minecraft อนุญาตให้ใช้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="136"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">การจัดสรรหน่วยความจำขั้นต่ำ:</translation>
+        <translation>การจัดสรรหน่วยความจำขั้นต่ำ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">ฟอร์ม</translation>
+        <translation>ฟอร์ม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
         <source>Java Insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">การติดตั้งและใช้งาน Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
         <source>Auto-&amp;detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ตรวจจับเวอร์ชัน Java โดยอัตโนมัติ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="65"/>
         <source>Auto-detect...</source>
-        <translation type="unfinished">การตรวจหาอัตโนมัติ</translation>
+        <translation>การตรวจหาอัตโนมัติ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="72"/>
         <source>Test</source>
-        <translation type="unfinished">ทดสอบ</translation>
+        <translation>ทดสอบ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="81"/>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลดและเลือกรุ่น Java ที่ Mojang แนะนำโดยอัตโนมัติ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="84"/>
         <source>Auto-download &amp;Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ดาวน์โหลดอัตโนมัติ &amp;จาวา Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="91"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>หากเปิดใช้งาน ตัวเรียกใช้งานจะไม่แจ้งให้คุณเลือกเวอร์ชัน Java หากไม่พบระหว่างเริ่มต้นระบบ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="94"/>
