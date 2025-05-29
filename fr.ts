@@ -12616,12 +12616,12 @@ Souhaitez-vous continuer&#x202f;?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="185"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation type="unfinished">Impossible de trouver le dossier des applications&#x202f;?!</translation>
+        <translation>Impossible de trouver le dossier applications&#x202f;?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="195"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation type="unfinished">Échec de la création du dossier des instances dans le dossier des applications&#x202f;!</translation>
+        <translation>Échec de la création du dossier instances dans le dossier applications&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="203"/>
@@ -12631,7 +12631,7 @@ Souhaitez-vous continuer&#x202f;?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="226"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished">Entrée bureau</translation>
+        <translation>Entrée bureau</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
