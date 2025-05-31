@@ -13949,8 +13949,8 @@ Are you sure?</source>
     <name>SkinManageDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="14"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="257"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="271"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="276"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="290"/>
         <source>Skin Upload</source>
         <translation>Skin uppladdning</translation>
     </message>
@@ -13975,221 +13975,226 @@ Are you sure?</source>
         <translation>Kappa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="103"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
+        <source>Preview Elytra</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
         <source>Open Folder</source>
         <translation>Öppna mapp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="117"/>
         <source>Reset Skin</source>
         <translation>Återställ skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="124"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="131"/>
         <source>Import URL</source>
         <translation>Import URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="131"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="138"/>
         <source>Import user</source>
         <translation>Importera användare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="138"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="145"/>
         <source>Import File</source>
         <translation>Importera fil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="160"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
         <source>&amp;Delete Skin</source>
         <translation>&amp;Radera skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="163"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
         <source>Deletes selected skin</source>
         <translation>Raderar valda skins</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="166"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
         <source>Del</source>
         <translation>Ta bort</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="171"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="178"/>
         <source>&amp;Rename Skin</source>
         <translation>&amp;Byt namn på skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="174"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
         <source>Rename selected skin</source>
         <translation>Byt namn på valt skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="177"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="184"/>
         <source>F2</source>
         <translation>F2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="100"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="104"/>
         <source>Cancel</source>
         <translation type="unfinished">Avbryt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="101"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="105"/>
         <source>OK</source>
         <translation type="unfinished">Okej</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="155"/>
         <source>Select Skin Texture</source>
         <translation>Välj skin textur</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="157"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="161"/>
         <source>Selected file is not a valid skin</source>
         <translation>Vald fil är inte ett giltigt skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="171"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="189"/>
         <source>No Cape</source>
         <translation>Ingen kappa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="178"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="196"/>
         <source>Download capes</source>
         <translation>Ladda ner kappor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="254"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="273"/>
         <source>Change skin</source>
         <translation>Ändra skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="257"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="276"/>
         <source>Skin file does not exist!</source>
         <translation>Skin fil existerar inte!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="271"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="290"/>
         <source>Failed to upload skin!</source>
         <translation>Misslyckades med att ladda upp skin!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="282"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="301"/>
         <source>Reset skin</source>
         <translation>Återställ skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="286"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="305"/>
         <source>Skin Delete</source>
         <translation>Radera skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="286"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="305"/>
         <source>Failed to delete current skin!</source>
         <translation>Misslyckades med att radera nuvarande skin!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="295"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="314"/>
         <source>Context menu</source>
         <translation>Kontextmeny</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="354"/>
         <source>Delete error</source>
         <translation>Fel vid borttagning</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="354"/>
         <source>Can not delete skin that is in use.</source>
         <translation>Kan inte ta bort skin som används.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="343"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="362"/>
         <source>Confirm Deletion</source>
         <translation>Bekräfta radering</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="363"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
         <translation>Du håller på att ta bort &quot;%1&quot;.
 Är du säker?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="361"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="380"/>
         <source>Invalid url</source>
         <translation>Ogiltig url</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="365"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="384"/>
         <source>Download skin</source>
         <translation>Ladda ner skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="374"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="393"/>
         <source>URL is not a valid skin</source>
         <translation>URL är inte ett giltigt skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="375"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="394"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
         <translation>Skalbilder måste vara 64x64 eller 64x32 pixlar PNG-filer.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="376"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="395"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
         <translation>Det gick inte att ladda ned skin: &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="422"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="441"/>
         <source>Download user skin</source>
         <translation>Ladda ner användarskin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="440"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="459"/>
         <source>failed to get user UUID</source>
         <translation>misslyckades att få användarens UUID</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="447"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="466"/>
         <source>failed to get user profile</source>
         <translation>misslyckades att få användarprofil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="451"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="470"/>
         <source>failed to download skin</source>
         <translation>misslyckades att ladda ner skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="461"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="475"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="480"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="494"/>
         <source>failed to parse get user UUID response</source>
         <translation>misslyckades med att tolka användarens UUID-svar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="470"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="489"/>
         <source>user id is empty</source>
         <translation>användar id är tomt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="484"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="503"/>
         <source>failed to parse get user profile response</source>
         <translation>misslyckades att tolka användares profilsvar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="501"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="520"/>
         <source>the skin is invalid</source>
         <translation>detta skin är ogiltigt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="503"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="522"/>
         <source>Username not found</source>
         <oldsource>Usename not found</oldsource>
         <translation>Användarnamn hittades inte</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="504"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="523"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
         <translation>Kan inte hitta skin för &apos;%1

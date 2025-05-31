@@ -13968,8 +13968,8 @@ Are you sure?</source>
     <name>SkinManageDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="14"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="257"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="271"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="276"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="290"/>
         <source>Skin Upload</source>
         <translation>Завантаження скіну</translation>
     </message>
@@ -13994,221 +13994,226 @@ Are you sure?</source>
         <translation>Плащ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="103"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
+        <source>Preview Elytra</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
         <source>Open Folder</source>
         <translation>Відкрити теку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="117"/>
         <source>Reset Skin</source>
         <translation>Скинути Скін</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="124"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="131"/>
         <source>Import URL</source>
         <translation>Імпортувати посилання</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="131"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="138"/>
         <source>Import user</source>
         <translation>Імпортувати користувача</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="138"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="145"/>
         <source>Import File</source>
         <translation>Імпортувати Файл</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="160"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
         <source>&amp;Delete Skin</source>
         <translation>&amp;Видалити скін</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="163"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
         <source>Deletes selected skin</source>
         <translation>Видаляє обраний скін</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="166"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
         <source>Del</source>
         <translation>Del</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="171"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="178"/>
         <source>&amp;Rename Skin</source>
         <translation>&amp;Перейменувати скін</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="174"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
         <source>Rename selected skin</source>
         <translation>Перейменувати обраний скін</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="177"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="184"/>
         <source>F2</source>
         <translation>F2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="100"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="104"/>
         <source>Cancel</source>
         <translation>Скасувати</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="101"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="105"/>
         <source>OK</source>
         <translation>ОК</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="155"/>
         <source>Select Skin Texture</source>
         <translation>Оберіть текстуру скіна</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="157"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="161"/>
         <source>Selected file is not a valid skin</source>
         <translation>Обраний файл не є дійсним скіном</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="171"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="189"/>
         <source>No Cape</source>
         <translation>Без плаща</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="178"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="196"/>
         <source>Download capes</source>
         <translation>Завантажити плащі</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="254"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="273"/>
         <source>Change skin</source>
         <translation>Змінити скін</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="257"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="276"/>
         <source>Skin file does not exist!</source>
         <translation>Файл скіну не існує!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="271"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="290"/>
         <source>Failed to upload skin!</source>
         <translation>Не вдалося завантажити скін!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="282"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="301"/>
         <source>Reset skin</source>
         <translation>Скинути скін</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="286"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="305"/>
         <source>Skin Delete</source>
         <translation>Видалити скiн</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="286"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="305"/>
         <source>Failed to delete current skin!</source>
         <translation>Не вдалося видалити поточний скін!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="295"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="314"/>
         <source>Context menu</source>
         <translation>Контекстне меню</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="354"/>
         <source>Delete error</source>
         <translation>Видалити помилку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="354"/>
         <source>Can not delete skin that is in use.</source>
         <translation>Неможливо видалити скін який використовується.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="343"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="362"/>
         <source>Confirm Deletion</source>
         <translation>Підтвердити видалення</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="363"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
         <translation>Ви збираєтеся видалити &quot;%1&quot;.
 Ви впевнені?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="361"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="380"/>
         <source>Invalid url</source>
         <translation>Неправильне посилання</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="365"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="384"/>
         <source>Download skin</source>
         <translation>Завантажити скін</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="374"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="393"/>
         <source>URL is not a valid skin</source>
         <translation>URL не є дійсним скіном</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="375"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="394"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
         <translation>Зображення скінів мають бути 64x64 або 64x32 PNG файлами.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="376"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="395"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
         <translation>Неможливо завантажити скін: &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="422"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="441"/>
         <source>Download user skin</source>
         <translation>Завантажити скін користувача</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="440"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="459"/>
         <source>failed to get user UUID</source>
         <translation>не вдалося отримати UUID користувача</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="447"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="466"/>
         <source>failed to get user profile</source>
         <translation>не вдалося отримати профіль користувача</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="451"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="470"/>
         <source>failed to download skin</source>
         <translation>не вдалося завантажити скін</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="461"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="475"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="480"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="494"/>
         <source>failed to parse get user UUID response</source>
         <translation>не вдалося обробити UUID користувача</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="470"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="489"/>
         <source>user id is empty</source>
         <translation>ID користувача порожнє</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="484"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="503"/>
         <source>failed to parse get user profile response</source>
         <translation>не вдалося запарсити профіль користувача</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="501"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="520"/>
         <source>the skin is invalid</source>
         <translation>скін не дійсний</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="503"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="522"/>
         <source>Username not found</source>
         <oldsource>Usename not found</oldsource>
         <translation>Ім&apos;я користувача не знайдено</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="504"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="523"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
         <translation>Не вдалося знайти скін для &apos;%1&apos;

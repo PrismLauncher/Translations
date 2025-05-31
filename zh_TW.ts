@@ -14172,8 +14172,8 @@ Are you sure?</source>
     <name>SkinManageDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="14"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="257"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="271"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="276"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="290"/>
         <source>Skin Upload</source>
         <translation>上傳外觀</translation>
     </message>
@@ -14198,221 +14198,226 @@ Are you sure?</source>
         <translation>披風</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="103"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
+        <source>Preview Elytra</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
         <source>Open Folder</source>
         <translation>開啟資料夾</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="117"/>
         <source>Reset Skin</source>
         <translation>重設外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="124"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="131"/>
         <source>Import URL</source>
         <translation>匯入 URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="131"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="138"/>
         <source>Import user</source>
         <translation>匯入使用者</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="138"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="145"/>
         <source>Import File</source>
         <translation>匯入檔案</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="160"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
         <source>&amp;Delete Skin</source>
         <translation>刪除外觀 (&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="163"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
         <source>Deletes selected skin</source>
         <translation>刪除已選取的外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="166"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
         <source>Del</source>
         <translation>刪除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="171"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="178"/>
         <source>&amp;Rename Skin</source>
         <translation>重新命名外觀 (&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="174"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
         <source>Rename selected skin</source>
         <translation>重新命名已選取的外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="177"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="184"/>
         <source>F2</source>
         <translation>F2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="100"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="104"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="101"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="105"/>
         <source>OK</source>
         <translation>確定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="155"/>
         <source>Select Skin Texture</source>
         <translation>選擇外觀紋理</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="157"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="161"/>
         <source>Selected file is not a valid skin</source>
         <translation>已選取的檔案不是有效的外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="171"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="189"/>
         <source>No Cape</source>
         <translation>無披風</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="178"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="196"/>
         <source>Download capes</source>
         <translation>下載披風</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="254"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="273"/>
         <source>Change skin</source>
         <translation>變更外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="257"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="276"/>
         <source>Skin file does not exist!</source>
         <translation>外觀檔案不存在！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="271"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="290"/>
         <source>Failed to upload skin!</source>
         <translation>外觀上傳失敗！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="282"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="301"/>
         <source>Reset skin</source>
         <translation>重設外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="286"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="305"/>
         <source>Skin Delete</source>
         <translation>刪除外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="286"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="305"/>
         <source>Failed to delete current skin!</source>
         <translation>刪除目前的外觀失敗！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="295"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="314"/>
         <source>Context menu</source>
         <translation>功能表</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="354"/>
         <source>Delete error</source>
         <translation>刪除錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="354"/>
         <source>Can not delete skin that is in use.</source>
         <translation>無法刪除正在使用的外觀。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="343"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="362"/>
         <source>Confirm Deletion</source>
         <translation>確認刪除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="363"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
         <translation>您即將刪除「%1」。
 您確定嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="361"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="380"/>
         <source>Invalid url</source>
         <translation>無效的 URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="365"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="384"/>
         <source>Download skin</source>
         <translation>下載外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="374"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="393"/>
         <source>URL is not a valid skin</source>
         <translation>該 URL 不是有效的外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="375"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="394"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
         <translation>外觀圖片必須為 64x64 或 64x32 像素的 PNG 檔案。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="376"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="395"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
         <translation>無法下載外觀：&apos;%1&apos;。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="422"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="441"/>
         <source>Download user skin</source>
         <translation>下載使用者外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="440"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="459"/>
         <source>failed to get user UUID</source>
         <translation>取得使用者 UUID 失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="447"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="466"/>
         <source>failed to get user profile</source>
         <translation>取得使用者個人檔案失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="451"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="470"/>
         <source>failed to download skin</source>
         <translation>下載外觀失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="461"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="475"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="480"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="494"/>
         <source>failed to parse get user UUID response</source>
         <translation>無法解析取得的使用者 UUID 回應</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="470"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="489"/>
         <source>user id is empty</source>
         <translation>使用者 ID 是空的</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="484"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="503"/>
         <source>failed to parse get user profile response</source>
         <translation>無法解析取得的使用者個人檔案回應</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="501"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="520"/>
         <source>the skin is invalid</source>
         <translation>外觀無效</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="503"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="522"/>
         <source>Username not found</source>
         <oldsource>Usename not found</oldsource>
         <translation>找不到使用者名稱</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="504"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="523"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
         <translation>找不到「%1」的外觀
