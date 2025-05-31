@@ -2171,33 +2171,56 @@ Một số phiên bản Minecraft có thể không khởi động.
         <translation>&amp;Mô tả</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
+        <source>&amp;Name:</source>
+        <translation type="unfinished">&amp;Tên:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
+        <source>&amp;Version:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"/>
+        <source>&amp;Author:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="76"/>
         <source>&amp;Summary</source>
         <translation>&amp;Sơ lược</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
         <translation>&amp;Tên</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>&amp;Version</source>
         <translation>&amp;Phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="89"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
         <source>&amp;Options</source>
         <translation>&amp;Lựa chọn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="95"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="135"/>
+        <source>&amp;Recommended Memory:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
+        <source> MiB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
         <source>&amp;Files</source>
         <translation>%Tệp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="121"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="209"/>
         <source>&amp;Mark disabled files as optional</source>
         <translation>&amp;Không bắt buộc đánh dấu tệp không khả dụng</translation>
     </message>
@@ -2206,68 +2229,67 @@ Một số phiên bản Minecraft có thể không khởi động.
         <translation type="obsolete">Phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="54"/>
         <source>1.0.0</source>
         <translation>1.0.0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="48"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="50"/>
         <source>Export Modrinth Pack</source>
         <translation>Xuất gói Modrinth</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="59"/>
         <source>Export CurseForge Pack</source>
         <translation>Xuất gói CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="73"/>
         <source>&amp;Author</source>
         <translation>&amp;Tác giả</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="104"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="121"/>
         <source>Cancel</source>
         <translation>Hủy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="105"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="139"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="155"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="162"/>
         <source>Export %1</source>
         <translation>Xuất 1%</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="133"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
         <source>Modrinth pack</source>
         <translation>Gói Modrinth</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="163"/>
         <source>CurseForge pack</source>
         <translation>Gói CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="157"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="190"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="159"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="192"/>
         <source>Task aborted</source>
         <translation>Tác vụ đã bị hủy bỏ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="159"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="192"/>
         <source>The task has been aborted by the user.</source>
         <translation>Tác vụ bị hủy bởi người dùng.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="165"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="198"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
@@ -2984,15 +3006,15 @@ Vui lòng thử lại.</translation>
 <context>
     <name>FlameCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="113"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="335"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="114"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="336"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Không thể hiểu tệp kê khai gói:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="119"/>
         <source> (version %1)</source>
         <translation> (phiên bản %1)</translation>
     </message>
@@ -3021,91 +3043,96 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation type="vanished">Huỷ</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="248"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
         <source>No index file.</source>
         <translation>Không có tệp chỉ mục.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="250"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Chúng tôi không thể tìm thấy tệp chỉ mục phù hợp cho phiên bản cũ. Điều này có thể khiến một số tệp bị trùng lặp. Bạn có muốn tiếp tục?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="274"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>Không tải được metadata cục bộ cho %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="306"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="307"/>
         <source>Failed to find version for %1 loader</source>
         <translation>Không thể tìm thấy phiên bản cho %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="312"/>
         <source>No loader version set for modpack!</source>
         <translation>Không có phiên bản loader nào được đặt cho modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="347"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="348"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Không thể thay đổi tên thư mục ghi đè:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="352"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="353"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Thư mục ghi đè được chỉ định (%1) bị thiếu. Có thể modpack đã được sử dụng trước đó?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="382"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Mod loader không xác định trong tệp manifest: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="396"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="397"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Các dấu chấm bí ẩn đã xóa khỏi phiên bản Minecraft khi đang nhập gói.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
+        <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <translation type="obsolete">Không thể lập bản đồ phiên bản đề xuất của Forge cho Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="450"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="469"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Không thể giải quyết ID của mod:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="504"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="523"/>
         <source>Blocked mods found</source>
         <translation>Đã tìm thấy các mod bị chặn</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="505"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="524"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>Các bản mod sau đã bị chặn đối với các trình khởi chạy của bên thứ ba. &lt;br/&gt; Bạn cần tải chúng xuống theo cách thủ công và thêm chúng vào modpack.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="527"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="546"/>
         <source>Mod Download Flame</source>
         <translation type="unfinished">Tải xuống Flame Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="576"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="595"/>
         <source>%1 out of %2 complete</source>
         <translation>Đã xong %1 trên %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="589"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="608"/>
         <source>Copying Blocked Mods...</source>
         <translation>Copy các mods bị chặn...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="602"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="621"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Copy các mod bị chặn (Hoàn thành %1 trong %2)</translation>
     </message>
@@ -3126,7 +3153,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation type="vanished">Chưa được công nhận/chưa xử lý PackageType cho: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="581"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="600"/>
         <source>Downloading mods...</source>
         <translation>Đang tải mod...</translation>
     </message>
@@ -3206,38 +3233,38 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
 <context>
     <name>FlamePackExportTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="64"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="50"/>
         <source>Searching for files...</source>
         <translation>Đang tìm các tập tin...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="85"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="71"/>
         <source>Could not search for files</source>
         <translation>Không tìm được các tập tin</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="102"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="85"/>
         <source>Finding file hashes...</source>
         <translation>Đang tìm các giá trị băm của tập tin...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="184"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="167"/>
         <source>Finding versions for hashes...</source>
         <translation>Đang tìm các phiên phản của những giá trị băm...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="298"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="281"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Đang phân tích cú pháp API phản hồi từ CurseForge cho &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="255"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="238"/>
         <source>Finding project info from CurseForge...</source>
         <translation>Đang tìm thông tin dự án từ CurseForge...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="335"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="318"/>
         <source>Adding files...</source>
         <translation>Đang thêm tập tin...</translation>
     </message>
@@ -3881,7 +3908,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="183"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="260"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="261"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Kho lưu trữ không chứa một modpack với định dạng phù hợp.</translation>
     </message>
@@ -3890,7 +3917,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation type="vanished">Không thể giải nén được modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="239"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
         <source>Could not fix permissions for %1</source>
         <translation>Không thể sửa quyền truy cập cho %1</translation>
     </message>
@@ -7103,7 +7130,7 @@ Lý do:
         <translation type="vanished">Ctrl+E</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="265"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="266"/>
         <source>Backspace</source>
         <translation>Backspace</translation>
     </message>
@@ -7163,7 +7190,7 @@ Lý do:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="771"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
         <source>Accounts</source>
         <translation>Tài khoản</translation>
     </message>
@@ -7172,12 +7199,12 @@ Lý do:
         <translation type="vanished">Chơi Ngoại Tuyến</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1408"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1409"/>
         <source>Confirm Deletion</source>
         <translation>Xác nhận xóa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1409"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and will completely delete the instance.
 
@@ -7294,14 +7321,14 @@ Bạn có chắc không?</translation>
         <translation type="vanished"> trên %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="383"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="457"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1612"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="458"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
         <source>No instance selected</source>
         <translation>Không có phiên bản nào được chọn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="385"/>
         <source>Total playtime: 0s</source>
         <translation>Tổng cộng thời gian chơi: 0 giây</translation>
     </message>
@@ -7310,13 +7337,13 @@ Bạn có chắc không?</translation>
         <translation type="vanished">Hồ sơ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="562"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="563"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
         <translation>Tạo phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
         <translation>&amp;Xóa nhóm</translation>
@@ -7339,7 +7366,7 @@ Bạn có chắc không?</translation>
         <translation>Chưa có tài khoản nào được thêm vào!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="697"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
@@ -7354,34 +7381,34 @@ Bạn có chắc không?</translation>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="807"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="808"/>
         <source>Loading news...</source>
         <translation>Đang cập nhật tin tức...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="817"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="818"/>
         <source>No news available.</source>
         <translation>Không có tin tức mới.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="861"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="862"/>
         <source>Warnings</source>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="865"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="866"/>
         <source>Task aborted</source>
         <translation>Tác vụ bị gián đoạn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="865"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="866"/>
         <source>The task has been aborted by the user.</source>
         <translation>Tác vụ bị hủy bỏ bởi người dùng.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="869"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1030"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="870"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1031"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
@@ -7394,76 +7421,76 @@ Please add your Microsoft or Mojang account.</oldsource>
 Xin bạn hãy đăng nhập vào một tài khoản Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="985"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="986"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Modpack, mod, hoặc tài nguyên %1 đã bị bên thứ ba chặn tải! Xin dùng cách thủ công để tải.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1019"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1020"/>
         <source>Modpack download</source>
         <translation>Tải xuống modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1054"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
         <source>No instance!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1056"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1169"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
         <source>Group name</source>
         <translation>Tên nhóm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1169"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1191"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1192"/>
         <source>Enter a new group name.</source>
         <translation>Đặt tên nhóm mới.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1181"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1182"/>
         <source>Delete group</source>
         <translation>Xóa nhóm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1307"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1308"/>
         <source>Instance not editable</source>
         <translation>Không thể chỉnh sửa được phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1308"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1309"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Không chỉnh sửa được phiên bản này. Có thể nó đã bị hỏng, không hợp lệ, hoặc là quá cũ. Kiểm tra log để xem thêm thông tin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1329"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1330"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1351"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1352"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Đã thêm %1 vô PATH thành công</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1352"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1353"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 đã được ghi vô PATH thành công. Bạn có thể khởi chạy nó bằng cách chạy `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1356"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Quá trình ghi %1 vô PATH thất bại</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1356"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1357"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Đã có lỗi xảy ra trong quá trình ghi %1 vô PATH</translation>
     </message>
@@ -7530,47 +7557,47 @@ Bạn có muốn tiếp tục?</numerusform>
         <translation>Launcher đang chạy trên AppImage sai cấu hình? (thiếu biến môi trường $APPIMAGE)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="580"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="581"/>
         <source>&amp;Rename group</source>
         <translation>&amp;Đổi tên nhóm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1181"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1182"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>Bạn có chắc chắn muốn xóa nhóm &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1191"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1192"/>
         <source>Rename group</source>
         <translation>Đổi tên nhóm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1200"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1201"/>
         <source>Cannot rename group</source>
         <translation>Không đổi được tên nhóm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1200"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1201"/>
         <source>Cannot set empty name.</source>
         <translation>Tên không được để trống.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1200"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1201"/>
         <source>Group already exists. :/</source>
         <translation>Nhóm này đã được tạo. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1400"/>
         <source>Cannot Delete Running Instance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1400"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1401"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1419"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1420"/>
         <source>Deleting</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7587,46 +7614,46 @@ Bạn có muốn tiếp tục?</numerusform>
         <translation>Không được hỗ trợ trên nền tảng của bạn!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1618"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1622"/>
         <source>Rename Instance</source>
         <translation>Đổi tên phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1630"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1634"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Thư mục phiên bản chứa ký tự &apos;!&apos;. Ký tự này thường gây vấn đề trong ngôn ngữ Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1631"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1635"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Bạn có hai sự lựa chọn: &lt;br/&gt; - thay đổi thư mục của phiên bản trong cài đặt&lt;br/&gt; - Dời phiên bản %1 này sang một thư mục khác</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1639"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1643"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Có vấn đề: &lt;br/&gt; - Trình khởi chạy rất có thể bị xóa bởi hệ điều hành &lt;br/&gt; - Đóng trình khởi chạy bây giờ và giải nén nó vào một thư mục thật (không phải thư mục tạm)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1649"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Thư mục phiên bản có chứa &apos;Rar$&apos; - điều đó có nghĩa là bạn chưa giải nén!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1655"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Thư mục chứa phiên bản hiện đang nằm trong một thư mục tạm: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1665"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1669"/>
         <source>Total playtime: %1</source>
         <translation>Tổng cộng giờ chơi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="857"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1025"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="858"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="985"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1026"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1329"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
@@ -7839,47 +7866,47 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="291"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="292"/>
         <source>&amp;Launch</source>
         <translation>&amp;Khởi Chạy</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="293"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="294"/>
         <source>Launch &amp;Offline</source>
         <translation>Khởi Chạy &amp;Offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="294"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="295"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="295"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="296"/>
         <source>Launch &amp;Demo</source>
         <translation>Khởi Chạy &amp;Demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="296"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="297"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="305"/>
         <source>Profilers</source>
         <translation>Trình phân tích hiệu năng</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;Không có hồ sơ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="996"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="997"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="999"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1000"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -7888,22 +7915,22 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1001"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1002"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1015"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1016"/>
         <source>broken</source>
         <translation>hỏng</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1026"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1031"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
         <source>, last played on %1 for %2</source>
         <translation>, lúc chơi lần cuối là %1 chơi được %2</translation>
     </message>
@@ -7916,12 +7943,12 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
         <translation type="vanished">, đã chơi trong vòng %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1038"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1039"/>
         <source>, total played for %1</source>
         <translation>, tổng cộng thời gian chơi là %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1043"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1044"/>
         <source>, has crashed.</source>
         <translation>, đã hỏng.</translation>
     </message>
@@ -11073,7 +11100,7 @@ HTTP Status: %2</source>
         <translation>Với sự cảm ơn tới</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="138"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="139"/>
         <source>%1 (in use)</source>
         <translation>%1 (đang sử dụng)</translation>
     </message>

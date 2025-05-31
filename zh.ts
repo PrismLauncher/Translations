@@ -2234,33 +2234,56 @@ Some versions of Minecraft may not launch.
         <translation>简介(&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
+        <source>&amp;Name:</source>
+        <translation type="unfinished">名称(&amp;N)：</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
+        <source>&amp;Version:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"/>
+        <source>&amp;Author:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="76"/>
         <source>&amp;Summary</source>
         <translation>综述(&amp;S)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
         <translation>名称(&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>&amp;Version</source>
         <translation>版本(&amp;V)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="89"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
         <source>&amp;Options</source>
         <translation>选项(&amp;O)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="95"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="135"/>
+        <source>&amp;Recommended Memory:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
+        <source> MiB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
         <source>&amp;Files</source>
         <translation>文件(&amp;F)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="121"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="209"/>
         <source>&amp;Mark disabled files as optional</source>
         <translation>将已禁用文件标记为可选(&amp;M)</translation>
     </message>
@@ -2269,7 +2292,7 @@ Some versions of Minecraft may not launch.
         <translation type="vanished">版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="54"/>
         <source>1.0.0</source>
         <translation>1.0.0</translation>
     </message>
@@ -2278,63 +2301,62 @@ Some versions of Minecraft may not launch.
         <translation type="vanished">文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="48"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="50"/>
         <source>Export Modrinth Pack</source>
         <translation>导出 Modrinth 整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="59"/>
         <source>Export CurseForge Pack</source>
         <translation>导出 CurseForge 整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="73"/>
         <source>&amp;Author</source>
         <translation>作者(&amp;A)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="104"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="121"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="105"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
         <source>OK</source>
         <translation>确定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="139"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="155"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="162"/>
         <source>Export %1</source>
         <translation>导出 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="133"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
         <source>Modrinth pack</source>
         <translation>Modrinth 整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="163"/>
         <source>CurseForge pack</source>
         <translation>CurseForge 整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="157"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="190"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="159"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="192"/>
         <source>Task aborted</source>
         <translation>任务已中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="159"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="192"/>
         <source>The task has been aborted by the user.</source>
         <translation>任务已被用户中止。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="165"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="198"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
@@ -3064,15 +3086,15 @@ Please try again.</source>
 <context>
     <name>FlameCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="113"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="335"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="114"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="336"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>无法解理解包清单：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="119"/>
         <source> (version %1)</source>
         <translation> （%1 版本）</translation>
     </message>
@@ -3101,91 +3123,96 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="248"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
         <source>No index file.</source>
         <translation>无索引文件。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="250"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>我们无法找到适合旧版本的索引文件。这可能导致部分文件重复。是否继续？</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="274"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>无法获取 %1 的本地元数据索引</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="306"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="307"/>
         <source>Failed to find version for %1 loader</source>
         <translation>无法找到 %1 加载器的合适版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="312"/>
         <source>No loader version set for modpack!</source>
         <translation>没有设置整合包的 Mod 加载器版本！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="347"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="348"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>无法重命名覆盖的目录：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="352"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="353"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>未找到指定覆盖的目录（%1）。或许这个整合包之前已经用过了？</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="382"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>清单中包含未知的 Mod 加载器： %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="396"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="397"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>导入包时从 Minecraft 版本移除了神秘的尾随点。</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
+        <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <translation type="vanished">无法为 Minecraft %1 映射推荐的 Forge 版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="450"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="469"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>无法解析 Mod ID：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="504"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="523"/>
         <source>Blocked mods found</source>
         <translation>找到被屏蔽的 Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="505"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="524"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>以下文件无法在第三方启动器中下载。&lt;br/&gt;你需要手动下载它们并将它们添加到实例中。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="527"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="546"/>
         <source>Mod Download Flame</source>
         <translation>Mod 下载 Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="576"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="595"/>
         <source>%1 out of %2 complete</source>
         <translation>已完成 %1/%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="589"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="608"/>
         <source>Copying Blocked Mods...</source>
         <translation>正在复制被屏蔽的 Mod…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="602"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="621"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>正在复制被屏蔽的 Mod（%1/%2）</translation>
     </message>
@@ -3206,7 +3233,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">无法识别的或未处理的包类型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="581"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="600"/>
         <source>Downloading mods...</source>
         <translation>下载 Mod 中…</translation>
     </message>
@@ -3282,38 +3309,38 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>FlamePackExportTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="64"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="50"/>
         <source>Searching for files...</source>
         <translation>搜索文件中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="85"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="71"/>
         <source>Could not search for files</source>
         <translation>无法找到文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="102"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="85"/>
         <source>Finding file hashes...</source>
         <translation>正在查找文件哈希值…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="184"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="167"/>
         <source>Finding versions for hashes...</source>
         <translation>正在查找版本哈希值…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="298"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="281"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>正在解析 CurseForge 对“%1”的 API 响应…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="255"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="238"/>
         <source>Finding project info from CurseForge...</source>
         <translation>正在从 CurseForge 寻找项目信息…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="335"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="318"/>
         <source>Adding files...</source>
         <translation>添加文件中…</translation>
     </message>
@@ -3988,7 +4015,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="183"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="260"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="261"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>压缩包未包含可识别的整合包类型。</translation>
     </message>
@@ -3997,7 +4024,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">解压整合包失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="239"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
         <source>Could not fix permissions for %1</source>
         <translation>无法修复 %1 的权限</translation>
     </message>
@@ -7469,7 +7496,7 @@ Reason:
         <translation type="vanished">删除实例（&amp;T）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="265"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="266"/>
         <source>Backspace</source>
         <translation>空格</translation>
     </message>
@@ -7601,14 +7628,14 @@ Reason:
         <translation type="vanished"> 运行在 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="383"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="457"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1612"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="458"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
         <source>No instance selected</source>
         <translation>未选择实例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="385"/>
         <source>Total playtime: 0s</source>
         <translation>总游玩时长：0 秒</translation>
     </message>
@@ -7617,13 +7644,13 @@ Reason:
         <translation type="vanished">帐户</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="562"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="563"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
         <translation>创建实例 (&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
         <translation>删除分组 (&amp;D)</translation>
@@ -7658,7 +7685,7 @@ Reason:
         <translation>未添加账户！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="697"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
@@ -7673,34 +7700,34 @@ Reason:
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="807"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="808"/>
         <source>Loading news...</source>
         <translation>加载新闻中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="817"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="818"/>
         <source>No news available.</source>
         <translation>暂无新闻。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="861"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="862"/>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="865"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="866"/>
         <source>Task aborted</source>
         <translation>任务已中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="865"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="866"/>
         <source>The task has been aborted by the user.</source>
         <translation>任务已被用户中止。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="869"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1030"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="870"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1031"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
@@ -7713,28 +7740,28 @@ Please add your Microsoft or Mojang account.</oldsource>
 请添加一个 Microsoft 账户。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="985"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="986"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>整合包、Mod 或资源包 %1 禁用了第三方下载！请手动下载。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1019"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1020"/>
         <source>Modpack download</source>
         <translation>下载整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1169"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
         <source>Group name</source>
         <translation>群组名</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1169"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1191"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1192"/>
         <source>Enter a new group name.</source>
         <translation>输入或选择新群组。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1181"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1182"/>
         <source>Delete group</source>
         <translation>删除群组</translation>
     </message>
@@ -7743,42 +7770,42 @@ Please add your Microsoft or Mojang account.</oldsource>
         <translation type="vanished">您确定要移除实例组 %1 吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1307"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1308"/>
         <source>Instance not editable</source>
         <translation>实例不可被编辑</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1308"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1309"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>该实例不可被编辑。也许它损坏，无效或太旧？请查看日志了解详情。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1351"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1352"/>
         <source>Successfully added %1 to PATH</source>
         <translation>成功把 %1 添加至 PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1352"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1353"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 已成功添加至你的 PATH 环境变量。现在可以运行 `%2` 来启动它。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1356"/>
         <source>Failed to add %1 to PATH</source>
         <translation>无法把 %1 添加至 PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1356"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1357"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>在把 %1 添加到 PATH 时发生了一个错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1408"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1409"/>
         <source>Confirm Deletion</source>
         <translation>确认删除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1409"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and will completely delete the instance.
 
@@ -7869,49 +7896,49 @@ Are you sure?</source>
         <translation type="vanished">CurseForge 整合包还未支持快照。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="580"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="581"/>
         <source>&amp;Rename group</source>
         <translation>重命名群组(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1054"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
         <source>No instance!</source>
         <translation>没有实例！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1056"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>没有可以添加资源的实例。
 请先创建新实例，然后再尝试安装该资源。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1181"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1182"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>你确定要删除分组“%1”吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1191"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1192"/>
         <source>Rename group</source>
         <translation>重命名群组</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1200"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1201"/>
         <source>Cannot rename group</source>
         <translation>无法重命名群组</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1200"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1201"/>
         <source>Cannot set empty name.</source>
         <translation>名称不能为空。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1200"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1201"/>
         <source>Group already exists. :/</source>
         <translation>已存在该组。:/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1329"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1330"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -7920,17 +7947,17 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1400"/>
         <source>Cannot Delete Running Instance</source>
         <translation>无法删除正在运行的实例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1400"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1401"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>所选实例当前正在运行，无法删除。请停止该实例后再尝试删除它。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1419"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1420"/>
         <source>Deleting</source>
         <translation>正在删除</translation>
     </message>
@@ -7971,46 +7998,46 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
         <translation type="vanished">已在你的应用程序文件夹里为当前实例添加快捷方式！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1618"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1622"/>
         <source>Rename Instance</source>
         <translation>重命名实例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1630"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1634"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>你的实例文件夹名称包含“!”，这可能会导致 Java 出现问题！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1631"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1635"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>你现在有两个选项：&lt;br/&gt; - 在设置中改变实例文件夹 &lt;br/&gt; - 将 %1 的此安装版本移动至其他文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1639"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1643"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>发现一个问题：&lt;br/&gt; - 操作系统可能会在没有事先警告的情况下自动删除此启动器 &lt;br/&gt; - 马上关闭启动器并将启动器解压至其他目录，而非临时文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1649"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>你的实例文件夹包含“Rar$”——这意味着你并未解压启动器压缩包！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1655"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>实例文件夹位于临时文件夹：“%1”中！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1665"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1669"/>
         <source>Total playtime: %1</source>
         <translation>总游戏时长：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="857"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1025"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="858"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="985"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1026"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1329"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -8026,7 +8053,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="771"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
         <source>Accounts</source>
         <translation>账户</translation>
     </message>
@@ -8234,47 +8261,47 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="291"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="292"/>
         <source>&amp;Launch</source>
         <translation>启动(&amp;L)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="293"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="294"/>
         <source>Launch &amp;Offline</source>
         <translation>离线启动(&amp;O)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="294"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="295"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="295"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="296"/>
         <source>Launch &amp;Demo</source>
         <translation>启动演示模式(&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="296"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="297"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="305"/>
         <source>Profilers</source>
         <translation>分析器</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
         <source>&amp;No Profiler</source>
         <translation>不使用分析器(&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="996"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="997"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="999"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1000"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -8283,22 +8310,22 @@ This can be updated only using a file in %1 format
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1001"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1002"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1015"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1016"/>
         <source>broken</source>
         <translation>损坏</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1026"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1031"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
         <source>, last played on %1 for %2</source>
         <translation>，上一次是在 %1 时游玩了 %2</translation>
     </message>
@@ -8311,12 +8338,12 @@ This can be updated only using a file in %1 format
         <translation type="vanished">，最后一次游玩时长: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1038"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1039"/>
         <source>, total played for %1</source>
         <translation>，此实例总游玩时长：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1043"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1044"/>
         <source>, has crashed.</source>
         <translation>，最后一次运行发生崩溃。</translation>
     </message>
@@ -11708,7 +11735,7 @@ HTTP 状态码：%2</translation>
         <translation>感谢</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="138"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="139"/>
         <source>%1 (in use)</source>
         <translation>%1 （使用中）</translation>
     </message>

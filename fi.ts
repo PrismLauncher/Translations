@@ -2110,33 +2110,56 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
         <translation>&amp;Kuvaus</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
+        <source>&amp;Name:</source>
+        <translation type="unfinished">&amp;Nimi:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
+        <source>&amp;Version:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"/>
+        <source>&amp;Author:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="76"/>
         <source>&amp;Summary</source>
         <translation>&amp;Yhteenveto</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
         <translation>&amp;Nimi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>&amp;Version</source>
         <translation>&amp;Versio</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="89"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
         <source>&amp;Options</source>
         <translation>&amp;Valinnat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="95"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="135"/>
+        <source>&amp;Recommended Memory:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
+        <source> MiB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
         <source>&amp;Files</source>
         <translation>&amp;Tiedostot</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="121"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="209"/>
         <source>&amp;Mark disabled files as optional</source>
         <translation>&amp;Merkitse pois-käytöstä otetut tiedostot valinnaisiksi</translation>
     </message>
@@ -2145,68 +2168,67 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
         <translation type="obsolete">Versio</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="54"/>
         <source>1.0.0</source>
         <translation>1.0.0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="48"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="50"/>
         <source>Export Modrinth Pack</source>
         <translation>Vie Modrinth-paketti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="59"/>
         <source>Export CurseForge Pack</source>
         <translation>Vie CurseForge-paketti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="73"/>
         <source>&amp;Author</source>
         <translation>&amp;Tekijä</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="104"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="121"/>
         <source>Cancel</source>
         <translation>Peruuta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="105"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="139"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="155"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="162"/>
         <source>Export %1</source>
         <translation>Vie %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="133"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
         <source>Modrinth pack</source>
         <translation>Modrinth-paketti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="163"/>
         <source>CurseForge pack</source>
         <translation>CurseForge-paketti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="157"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="190"/>
         <source>Error</source>
         <translation>Virhe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="159"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="192"/>
         <source>Task aborted</source>
         <translation>Tehtävä peruttu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="159"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="192"/>
         <source>The task has been aborted by the user.</source>
         <translation>Käyttäjä perui tehtävän.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="165"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="198"/>
         <source>Abort</source>
         <translation>Keskeytä</translation>
     </message>
@@ -2928,15 +2950,15 @@ Yritä uudelleen.</translation>
 <context>
     <name>FlameCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="113"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="335"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="114"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="336"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Ei pystytty käsittelemään paketin manifest-tiedostoa:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="119"/>
         <source> (version %1)</source>
         <translation> (versio %1)</translation>
     </message>
@@ -2945,91 +2967,96 @@ Yritä uudelleen.</translation>
         <translation type="obsolete">Peruuta</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="248"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
         <source>No index file.</source>
         <translation>Ei indeksitiedostoa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="250"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Emme löytäneet sopivaa indeksitiedostoa vanhemmalle versiolle. Tämä saattaa aiheuttaa joidenkin tiedostojen päällekkäisyyttä. Haluatko jatkaa?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="274"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>Paikallista metatiedon indeksiä ei voitu ladata kohteelle %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="306"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="307"/>
         <source>Failed to find version for %1 loader</source>
         <translation>Versiota ei löytynyt %1 modilataajalle</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="312"/>
         <source>No loader version set for modpack!</source>
         <translation>Modilataajan versiota ei ole asetettu modipaketille!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="347"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="348"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Ei voitu uudelleennimetä ohituskansiota:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="352"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="353"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Määritelty ohituskansio (%1) puuttuu. Ehkä modipakettia käytettiin jo aiemmin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="382"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Tuntematon modilataaja manifest-tiedostossa: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="396"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="397"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Salaperäiset pistejäljet poistettu Minecraft-versiosta pakettia tuodessa.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
+        <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <translation type="obsolete">Ei voitu kartoittaa suositeltua Forgen versiota Minecraftille %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="450"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="469"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Ei voitu selvittää moditunnisteita:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="504"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="523"/>
         <source>Blocked mods found</source>
         <translation>Estettyjä modeja löydetty</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="505"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="524"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>Seuraavat tiedostot eivät ole ladattavissa kolmannen osapuolen käynnistimissä.&lt;br/&gt; Sinun täytyy ladata tiedostot manuaalisesti ja lisätä ne pelipakettiin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="527"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="546"/>
         <source>Mod Download Flame</source>
         <translation>&quot;Flame&quot;-modilataus</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="576"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="595"/>
         <source>%1 out of %2 complete</source>
         <translation>%1/%2 valmiina</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="589"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="608"/>
         <source>Copying Blocked Mods...</source>
         <translation>Kopioidaan estettyjä modeja...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="602"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="621"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Kopioidaan estettyjä modeja (%1/%2 valmiina)</translation>
     </message>
@@ -3050,7 +3077,7 @@ Yritä uudelleen.</translation>
         <translation type="obsolete">Tunnistamaton/käsittelemätön PackageType-pakettityyppi kohteelle: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="581"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="600"/>
         <source>Downloading mods...</source>
         <translation>Ladataan modeja...</translation>
     </message>
@@ -3126,38 +3153,38 @@ Yritä uudelleen.</translation>
 <context>
     <name>FlamePackExportTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="64"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="50"/>
         <source>Searching for files...</source>
         <translation>Etsitään tiedostoja...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="85"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="71"/>
         <source>Could not search for files</source>
         <translation>Tiedostoja ei voitu etsiä</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="102"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="85"/>
         <source>Finding file hashes...</source>
         <translation>Etsitään tiedostojen tarkistussummia...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="184"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="167"/>
         <source>Finding versions for hashes...</source>
         <translation>Etsitään versioita tarkistussummille...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="298"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="281"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Jäsennetään CurseForge:n API-vastausta &apos;%1&apos;:lle...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="255"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="238"/>
         <source>Finding project info from CurseForge...</source>
         <translation>Haetaan projektin tietoja CurseForgesta...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="335"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="318"/>
         <source>Adding files...</source>
         <translation>Lisätään tiedostoja...</translation>
     </message>
@@ -3801,7 +3828,7 @@ Yritä uudelleen.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="183"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="260"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="261"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Arkisto ei sisällä tunnistettavaa modipakettityyppiä.</translation>
     </message>
@@ -3810,7 +3837,7 @@ Yritä uudelleen.</translation>
         <translation type="vanished">Modipaketin purku epäonnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="239"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
         <source>Could not fix permissions for %1</source>
         <translation>Ei voitu korjata oikeuksia kohteelle %1</translation>
     </message>
@@ -6958,12 +6985,12 @@ Syy:
         <translation>Ctrl+G</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1408"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1409"/>
         <source>Confirm Deletion</source>
         <translation>Vahvista poisto</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1409"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and will completely delete the instance.
 
@@ -6986,7 +7013,7 @@ Oletko varma?</translation>
         <translation type="vanished">Ctrl+E</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="265"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="266"/>
         <source>Backspace</source>
         <translation>Askelpalautin</translation>
     </message>
@@ -7105,14 +7132,14 @@ Oletko varma?</translation>
         <translation type="vanished"> alustalla %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="383"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="457"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1612"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="458"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
         <source>No instance selected</source>
         <translation>Pelipakettia ei ole valittu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="385"/>
         <source>Total playtime: 0s</source>
         <translation>Kokonaispeliaika: 0s</translation>
     </message>
@@ -7121,13 +7148,13 @@ Oletko varma?</translation>
         <translation type="vanished">Profiilit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="562"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="563"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
         <translation>&amp;Luo pelipaketti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
         <translation>&amp;Poista ryhmä</translation>
@@ -7158,7 +7185,7 @@ Oletko varma?</translation>
         <translation>Tilejä ei ole lisätty!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="697"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
@@ -7173,87 +7200,87 @@ Oletko varma?</translation>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="807"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="808"/>
         <source>Loading news...</source>
         <translation>Ladataan uutisia...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="817"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="818"/>
         <source>No news available.</source>
         <translation>Uutisia ei ole saatavilla.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="861"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="862"/>
         <source>Warnings</source>
         <translation>Varoitukset</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="865"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="866"/>
         <source>Task aborted</source>
         <translation>Tehtävä peruttu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="865"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="866"/>
         <source>The task has been aborted by the user.</source>
         <translation>Käyttäjä perui tehtävän.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="869"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1030"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="870"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1031"/>
         <source>Abort</source>
         <translation>Keskeytä</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="985"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="986"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Modipaketin, modin tai resurssin %1 lataus on estetty kolmansille osapuolille! Lataa se manuaalisesti.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1019"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1020"/>
         <source>Modpack download</source>
         <translation>Modipaketin lataus</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1054"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
         <source>No instance!</source>
         <translation>Ei pelipakettia!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1056"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>Ei pelipakettia saatavilla johon resurssi lisättäisiin.
 Luo uusi pelipaketti ennen kuin yrität asentaa tätä resurssia uudelleen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1169"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
         <source>Group name</source>
         <translation>Ryhmän nimi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1169"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1191"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1192"/>
         <source>Enter a new group name.</source>
         <translation>Syötä uusi nimi ryhmälle.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1181"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1182"/>
         <source>Delete group</source>
         <translation>Poista ryhmä</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1307"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1308"/>
         <source>Instance not editable</source>
         <translation>Pelipaketti ei ole muokattavissa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1308"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1309"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Tämä pelipaketti ei ole muokattavissa. Se voi olla rikki, viallinen tai liian vanha. Lisätietoja lokeissa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1329"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1330"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -7262,22 +7289,22 @@ Tyhjentääksesi metadata-välimuistin manuaalisesti, valitse Kansiot -&gt; Näy
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1351"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1352"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Lisättiin %1 PATH:iin onnistuneesti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1352"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1353"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 lisättiin onnistuneesti PATH:iin. Voit nyt käynnistää sen suorittamalla `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1356"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Ei voitu lisätä %1 PATH:iin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1356"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1357"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Virhe lisättäessä %1 PATH:iin</translation>
     </message>
@@ -7351,47 +7378,47 @@ Haluatko jatkaa?</numerusform>
         <translation>Käynnistin ajetaan väärin konfiguroidussa AppImage:ssa? ($APPIMAGE ympäristömuuttuja puuttuu)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="580"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="581"/>
         <source>&amp;Rename group</source>
         <translation>&amp;Nimeä ryhmä uudelleen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1181"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1182"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>Haluatko varmasti poistaa ryhmän &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1191"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1192"/>
         <source>Rename group</source>
         <translation>Nimeä ryhmä uudelleen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1200"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1201"/>
         <source>Cannot rename group</source>
         <translation>Ryhmän uudelleennimeäminen epäonnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1200"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1201"/>
         <source>Cannot set empty name.</source>
         <translation>Ei voi asettaa tyhjää nimeä.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1200"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1201"/>
         <source>Group already exists. :/</source>
         <translation>Ryhmä on jo olemassa. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1400"/>
         <source>Cannot Delete Running Instance</source>
         <translation>Ei voida poistaa käynnissä olevaa peliä</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1400"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1401"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>Valittu peli on käynnissä eikä ole poistettavissa. Sulje peli ennen kuin yrität poistaa sen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1419"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1420"/>
         <source>Deleting</source>
         <translation>Poistetaan</translation>
     </message>
@@ -7404,46 +7431,46 @@ Haluatko jatkaa?</numerusform>
         <translation>Ei tuettu järjestelmälläsi!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1618"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1622"/>
         <source>Rename Instance</source>
         <translation>Nimeä pelipaketti uudelleen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1630"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1634"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Pelipaketin kansion polku sisältää &apos;!&apos; ja tämä on tunnettu aiheuttamaan ongelmia Javan kanssa!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1631"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1635"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Sinulla on nyt kaksi vaihtoehtoa: &lt;br/&gt; - vaihda pelipakettien kansiota asetuksissa &lt;br/&gt; - siirrä tämä %1:in asennus eri kansioon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1639"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1643"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Tämä on ongelma: &lt;br/&gt; - Käyttöjärjestelmä todennäköisesti poistaa käynnistimen ilman varoitusta &lt;br/&gt; - Sulje käynnistin nyt ja pura se oikeaan sijaintiin, eikä väliaikaistiedostojen kansioon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1649"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Pelipakettikansio sisältää &apos;Rar$&apos;:n - meinaten sitä, että et ole purkanut käynnistimen arkistoa!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1655"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Pelipakettikansiosi on väliaikaistiedostojen kansiossa: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1665"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1669"/>
         <source>Total playtime: %1</source>
         <translation>Kokonaispeliaika: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="857"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1025"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="858"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="985"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1026"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1329"/>
         <source>Error</source>
         <translation>Virhe</translation>
     </message>
@@ -7459,7 +7486,7 @@ Haluatko jatkaa?</numerusform>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="771"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
         <source>Accounts</source>
         <translation>Tilit</translation>
     </message>
@@ -7645,47 +7672,47 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="291"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="292"/>
         <source>&amp;Launch</source>
         <translation>&amp;Käynnistä</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="293"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="294"/>
         <source>Launch &amp;Offline</source>
         <translation>Käynnistä &amp;offline-tilassa</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="294"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="295"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="295"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="296"/>
         <source>Launch &amp;Demo</source>
         <translation>Käynnistä &amp;demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="296"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="297"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="305"/>
         <source>Profilers</source>
         <translation>Profiloijat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;Ei profiloijaa</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="996"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="997"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ISTUNTOTUNNUS&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="999"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1000"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;PÄÄSYTUNNUS&gt;</translation>
     </message>
@@ -7694,22 +7721,22 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
         <translation type="vanished">&lt;ASIAKASTODISTUS&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1001"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1002"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFIILITUNNUS&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1015"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1016"/>
         <source>broken</source>
         <translation>viallinen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1026"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1027"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1031"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
         <source>, last played on %1 for %2</source>
         <translation>, viimeksi pelattu %1 %2 ajan</translation>
     </message>
@@ -7722,12 +7749,12 @@ Paketin voi päivittää vain käyttäen tiedostoa, joka on %1 muodossa
         <translation type="vanished">, viimeksi pelattu %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1038"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1039"/>
         <source>, total played for %1</source>
         <translation>, pelattu yhteensä %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1043"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1044"/>
         <source>, has crashed.</source>
         <translation>, on kaatunut.</translation>
     </message>
@@ -10792,7 +10819,7 @@ HTTP-tilakoodi: %2</translation>
         <translation>Kiitokset</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="138"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="139"/>
         <source>%1 (in use)</source>
         <translation>%1 (käytössä)</translation>
     </message>
