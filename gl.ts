@@ -4717,7 +4717,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
         <source>Auto-&amp;detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Detectar automaticamente a versión de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="65"/>
@@ -4767,7 +4767,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="129"/>
         <source>PermGen (Java 7 and earlier):</source>
-        <translation type="unfinished"></translation>
+        <translation>PermGen (Java 7 e anteriores):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="165"/>
@@ -4870,7 +4870,7 @@ Por favor escolla unha das seguintes ou busque o executable de Java.</translatio
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
@@ -4940,7 +4940,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
@@ -4996,7 +4996,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar as localizacións do sistema</translation>
     </message>
 </context>
 <context>
@@ -12161,12 +12161,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="217"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobando as dependencias...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="237"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Non instalado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="273"/>
@@ -12192,7 +12192,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="441"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>O mod foi desactivado, xa que pode estar instalado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="447"/>
@@ -12227,7 +12227,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="479"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>Rexistro de cambios da última versión</translation>
     </message>
 </context>
 <context>
@@ -12286,17 +12286,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="90"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de versión: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="115"/>
         <source>Confirm %1 selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirma a selección de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="117"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estás a piques de descargar o seguinte %1:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"/>
@@ -12438,7 +12438,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="521"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar eliminación</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -12669,7 +12669,7 @@ Isto é permanente e o servidor desaparecerá da túa lista para sempre (POR MOI
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Configuración rápida</translation>
     </message>
 </context>
 <context>
@@ -12923,7 +12923,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="184"/>
         <source>F2</source>
-        <translation type="unfinished"></translation>
+        <translation>F2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="104"/>
@@ -12953,7 +12953,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="196"/>
         <source>Download capes</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar capas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="273"/>
@@ -13014,7 +13014,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="380"/>
         <source>Invalid url</source>
-        <translation type="unfinished"></translation>
+        <translation>URL inválida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="384"/>
@@ -13168,7 +13168,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="69"/>
         <source>Status Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Detalles do estado</translation>
     </message>
 </context>
 <context>
@@ -13266,7 +13266,8 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Non se puido entender o manifest do paquete:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="138"/>
@@ -13347,7 +13348,7 @@ Non se atopou un inheritsFrom</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="66"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Versión seleccionada:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"/>
