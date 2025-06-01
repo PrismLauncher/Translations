@@ -12538,7 +12538,7 @@ Szeretné folytatni?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="175"/>
         <source>Created a shortcut to this %1 on your desktop!</source>
-        <translation>Létrehozott egy parancsikont ehhez a(z) %1-hoz/hez az asztalon!</translation>
+        <translation>A(z) %1 parancsikon létrehozva az asztalon!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="185"/>
@@ -12553,7 +12553,7 @@ Szeretné folytatni?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="203"/>
         <source>Created a shortcut to this %1 in your applications folder!</source>
-        <translation>Létrehozott egy parancsikont ehhez a(z) %1-hoz/hez az alkalmazások mappájában!</translation>
+        <translation>A(z) %1 parancsikon létrehozva az alkalmazások mappájában!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="226"/>
@@ -12563,7 +12563,7 @@ Szeretné folytatni?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <source>Created a shortcut to this %1!</source>
-        <translation>Létrehozott egy parancsikont ehhez a(z) %1!</translation>
+        <translation>A(z) %1 parancsikon létrehozva!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
