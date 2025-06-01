@@ -1458,23 +1458,24 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation>하나 이상의 하위 작업이 실패함</translation>
+        <translation>하나 이상의 하위 작업 실패</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
         <source>Task failed</source>
-        <translation type="unfinished"></translation>
+        <translation>작업 실패</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
         <source>Multiple subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>여러 하위 작업 실패</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>여러 하위 작업 실패
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
@@ -2240,17 +2241,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished">이름(&amp;N):</translation>
+        <translation>이름(&amp;N):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
         <source>&amp;Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>버전(&amp;V):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"/>
         <source>&amp;Author:</source>
-        <translation type="unfinished"></translation>
+        <translation>제작자(&amp;A):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="76"/>
@@ -2274,12 +2275,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="135"/>
         <source>&amp;Recommended Memory:</source>
-        <translation type="unfinished"></translation>
+        <translation>권장 메모리(&amp;R):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
         <source> MiB</source>
-        <translation type="unfinished"></translation>
+        <translation> MiB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
@@ -3176,7 +3177,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation type="unfinished"></translation>
+        <translation>모드 팩의 권장 메모리가 시스템 RAM의 90%를 초과하여 %1 MiB에서 %2 MiB로 감소하였습니다!</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -5562,7 +5563,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation>[Log4j 구문 분석 오류] Log4j 로그 이벤트를 파싱하지 못하였습니다: %1</translation>
+        <translation>[Log4j 파싱 오류] Log4j 로그 이벤트를 파싱하지 못하였습니다: %1</translation>
     </message>
 </context>
 <context>
@@ -12561,45 +12562,45 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
         <source>Network error: %1</source>
-        <translation type="unfinished">네트워크 오류: %1</translation>
+        <translation>네트워크 오류: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished">오류: %1이(가) 예기치 않은 상태 코드 %2 %3 을(를) 반환했습니다</translation>
+        <translation>오류: %1이(가) 예기치 않은 상태 코드 %2 %3을(를) 반환함</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hastebin 서버에서 응답을 파싱하지 못함: 예상한 JSON이 있지만 잘못된 응답을 받았습니다. 오류: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished">오류: %1이(가) 잘못된 응답 본문을 반환했습니다</translation>
+        <translation>오류: %1이(가) 잘못된 응답 본문을 반환함</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>mclo.gs 서버에서 응답을 파싱하지 못함: 예상한 JSON이 있지만 잘못된 응답을 받았습니다. 오류: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished">오류: %1이(가) 오류를 반환: %2</translation>
+        <translation>오류: %1이(가) 오류를 반환함: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>PasteGG 서버에서 응답을 파싱하지 못함: 예상한 JSON이 있지만 잘못된 응답을 받았습니다. 오류: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">오류: %1이(가) 오류를 반환: %2
+        <translation>오류: %1이(가) 오류를 반환함: %2
 오류 메시지: %3</translation>
     </message>
 </context>
