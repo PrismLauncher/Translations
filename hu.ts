@@ -1459,18 +1459,19 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
         <source>Task failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Feladat sikertelen</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
         <source>Multiple subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Több részfeladat sikertelen</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Több részfeladat sikertelen
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
@@ -12537,7 +12538,7 @@ Szeretné folytatni?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="175"/>
         <source>Created a shortcut to this %1 on your desktop!</source>
-        <translation type="unfinished">Létrehozott egy parancsikont ehhez a %1-hoz/hez az asztalon!</translation>
+        <translation>Létrehozott egy parancsikont ehhez a(z) %1-hoz/hez az asztalon!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="185"/>
@@ -12552,7 +12553,7 @@ Szeretné folytatni?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="203"/>
         <source>Created a shortcut to this %1 in your applications folder!</source>
-        <translation type="unfinished">Létrehozott egy parancsikont ehhez a %1-hoz/hez az alkalmazások mappájában!</translation>
+        <translation>Létrehozott egy parancsikont ehhez a(z) %1-hoz/hez az alkalmazások mappájában!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="226"/>
@@ -12562,50 +12563,50 @@ Szeretné folytatni?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <source>Created a shortcut to this %1!</source>
-        <translation type="unfinished">Létrehozott egy parancsikont ehhez a %1!</translation>
+        <translation>Létrehozott egy parancsikont ehhez a(z) %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
         <source>Network error: %1</source>
-        <translation type="unfinished">Hálózati hiba: %1</translation>
+        <translation>Hálózati hiba: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished">Hiba: A(z) %1 váratlan állapotkódot adott vissza%2%3</translation>
+        <translation>Hiba: A(z) %1 váratlan állapotkódot adott vissza %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült feldolgozni a hastebin szerver válaszát: JSON-t vártunk, de érvénytelen választ kaptunk. Hiba: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished">Hiba: A(z) %1 helytelenül formázott választörzset adott vissza</translation>
+        <translation>Hiba: A(z) %1 helytelenül formázott választörzset adott vissza</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült feldolgozni az mclogs szerver válaszát: JSON-t vártunk, de érvénytelen választ kaptunk. Hiba: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished">Hiba: A(z) %1 hibát adott vissza: %2</translation>
+        <translation>Hiba: A(z) %1 hibát adott vissza: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült feldolgozni a pasteGG szerver válaszát: JSON-t vártunk, de érvénytelen választ kaptunk. Hiba: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">Hiba: A%1 hibakódot a következő hibakóddal adta vissza: %2
+        <translation>Hiba: A(z) %1 hibakódot adott vissza: %2
 Hibaüzenet: %3</translation>
     </message>
 </context>
