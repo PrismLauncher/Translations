@@ -9924,7 +9924,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="143"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Líneas de color</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="166"/>
