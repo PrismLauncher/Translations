@@ -1463,18 +1463,19 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
         <source>Task failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Operazione fallita</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
         <source>Multiple subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Molteplici sotto operazioni fallite</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Molteplici sotto operazioni fallite
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
@@ -1717,108 +1718,108 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Crea collegamento dell&apos;istanza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva in:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizza un account diverso da quello attualmente predefinito.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
         <source>Override the default account</source>
-        <translation type="unfinished"></translation>
+        <translation>Sovrascrivi l&apos;account predefinito</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Specifica un mondo o server in cui entrare automaticamente all&apos;avvio.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona dove entrare all&apos;avvio del gioco</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
         <source>World:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mondo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"/>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"/>
         <source>Server Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo server:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"/>
         <source>Server Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="89"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicazioni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="91"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>Altro…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="97"/>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [%2] - Giocato l&apos;ultima volta: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="113"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (in uso)</translation>
+        <translation>%1 (in uso)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="180"/>
         <source>%1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="182"/>
         <source>%1 - Server %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Server %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="197"/>
         <source>instance</source>
-        <translation type="unfinished"></translation>
+        <translation>istanza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="201"/>
         <source>world</source>
-        <translation type="unfinished"></translation>
+        <translation>mondo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="204"/>
         <source>server</source>
-        <translation type="unfinished"></translation>
+        <translation>server</translation>
     </message>
 </context>
 <context>
@@ -2240,17 +2241,17 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nome:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
         <source>&amp;Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Versione:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"/>
         <source>&amp;Author:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Author:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="76"/>
@@ -2274,12 +2275,12 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="135"/>
         <source>&amp;Recommended Memory:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Memoria consigliata:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
         <source> MiB</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> MiB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
@@ -3056,7 +3057,7 @@ Per favore, prova di nuovo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Analizzando la risposta API da CurseForge per &apos;%1&apos;...</translation>
+        <translation>Analizzando la risposta dell&apos;API di CurseForge per &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
@@ -3176,7 +3177,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation type="unfinished"></translation>
+        <translation>La memoria consigliata del modpack supera il 90% della RAM di sistema—riducendola da %1 MiB a %2 MiB!</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
