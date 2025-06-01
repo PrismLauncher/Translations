@@ -1468,32 +1468,47 @@ Some versions of Minecraft may not launch.
         <translation>未能中止所有运行中的任务。</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="124"/>
         <source>One or more subtasks failed</source>
         <translation>一个或多个子任务运行失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="227"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
+        <source>Task failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
+        <source>Multiple subtasks failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
+        <source>Multiple subtasks failed
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>正在执行 %1 个任务(已完成 %2/%3)</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="230"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
         <source>Please wait...</source>
         <translation>请稍候…</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="232"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
         <source>Waiting for a task to start...</source>
         <translation>正在等待任务开始…</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="234"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="253"/>
         <source>Executing 1 task:</source>
         <translation>正在执行一个任务：</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="236"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="255"/>
         <source>Task finished.</source>
         <translation>任务已完成。</translation>
     </message>
@@ -6749,12 +6764,12 @@ Reason:
         <translation>信息</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="72"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="76"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="162"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="193"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>打开 %1 或扫描二维码，如有必要，输入上方代码。</translation>
     </message>
@@ -10278,24 +10293,24 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>正在请求 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="141"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="142"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="145"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="146"/>
         <source>unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="147"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="148"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1 /s (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="150"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 B/s</translation>
@@ -11740,12 +11755,12 @@ HTTP 状态码：%2</translation>
         <translation>%1 （使用中）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="99"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="98"/>
         <source>Confirm Upload</source>
         <translation>确认上传</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="100"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="99"/>
         <source>You are about to upload &quot;%1&quot; to %2.
 You should double-check for personal information.
 
@@ -11756,12 +11771,12 @@ Are you sure?</source>
 你确定吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="112"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="111"/>
         <source>Confirm Truncation</source>
         <translation>确认截断</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="113"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="112"/>
         <source>The log has %1 lines, exceeding mclo.gs&apos; limit of %2.
 The launcher can keep the first %3 and last %4 lines, trimming the middle.
 
@@ -11776,32 +11791,29 @@ Proceed with truncation?</source>
 要继续截断吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="142"/>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="156"/>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="160"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
         <source>Failed to upload logs!</source>
         <translation>上传日志失败！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
         <source>Logs upload aborted</source>
         <translation>日志上传已被终止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="146"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>The task has been aborted by the user.</source>
         <translation>该任务已被用户终止。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="152"/>
         <source>Error: %1</source>
-        <translation>错误：%1</translation>
+        <translation type="vanished">错误：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="154"/>
         <source>
 Error message: %1</source>
-        <translation>
+        <translation type="vanished">
 错误消息：%1</translation>
     </message>
     <message>
@@ -11809,12 +11821,12 @@ Error message: %1</source>
         <translation>上传失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="167"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
         <source>Upload finished</source>
         <translation>上传完成</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="168"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="159"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>已将&lt;a href=&quot;%1&quot;&gt;上传日志的链接&lt;/a&gt;复制到你的剪贴板中。</translation>
     </message>
@@ -12662,6 +12674,50 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <source>Created a shortcut to this %1!</source>
         <translation>指向 %1 的快捷方式已创建！</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
+        <source>Network error: %1</source>
+        <translation type="unfinished">网络错误：%1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
+        <source>Error: %1 returned unexpected status code %2 %3</source>
+        <translation type="unfinished">错误：%1 返回了意外状态码 %2 %3</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
+        <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
+        <source>Error: %1 returned a malformed response body</source>
+        <translation type="unfinished">错误：%1 返回了格式错误的响应体</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
+        <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
+        <source>Error: %1 returned an error: %2</source>
+        <translation type="unfinished">错误：%1 返回错误：%2</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
+        <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
+        <source>Error: %1 returned an error code: %2
+Error message: %3</source>
+        <translation type="unfinished">错误：%1 返回错误代码：%2
+错误消息：%3</translation>
     </message>
 </context>
 <context>

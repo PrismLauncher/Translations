@@ -1400,32 +1400,47 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
         <translation>A eșuat anularea sarcinilor în funcționare.</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="124"/>
         <source>One or more subtasks failed</source>
         <translation>Una sau mai multe sarcini au eșuat</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="227"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
+        <source>Task failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
+        <source>Multiple subtasks failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
+        <source>Multiple subtasks failed
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Se execută %1 sarcină(i) (%2 din %3 sunt terminate)</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="230"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
         <source>Please wait...</source>
         <translation>Vă rugăm așteptați...</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="232"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
         <source>Waiting for a task to start...</source>
         <translation>În așteptare ca o sarcină să înceapă...</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="234"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="253"/>
         <source>Executing 1 task:</source>
         <translation>Executarea unei sarcini:</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="236"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="255"/>
         <source>Task finished.</source>
         <translation>Sarcină finalizată.</translation>
     </message>
@@ -6509,12 +6524,12 @@ Motiv:
         <translation type="unfinished">Informații</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="72"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="76"/>
         <source>Cancel</source>
         <translation type="unfinished">Anulează</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="162"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="193"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9431,24 +9446,24 @@ Te rugăm actualizează %1!</translation>
         <translation>Solicitare %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="141"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="142"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="145"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="146"/>
         <source>unknown</source>
         <translation>necunoscut</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="147"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="148"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1 /s (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="150"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 B/s</translation>
@@ -10805,12 +10820,12 @@ HTTP Status: %2</source>
         <translation>%1 (în folosire)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="99"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="98"/>
         <source>Confirm Upload</source>
         <translation>Confirmați Încărcarea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="100"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="99"/>
         <source>You are about to upload &quot;%1&quot; to %2.
 You should double-check for personal information.
 
@@ -10821,12 +10836,12 @@ Ar trebui să verifici încă odată pentru informații personale.
 Ești sigur(ă)?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="112"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="111"/>
         <source>Confirm Truncation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="113"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="112"/>
         <source>The log has %1 lines, exceeding mclo.gs&apos; limit of %2.
 The launcher can keep the first %3 and last %4 lines, trimming the middle.
 
@@ -10836,44 +10851,32 @@ Proceed with truncation?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="142"/>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="156"/>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="160"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
         <source>Failed to upload logs!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
         <source>Logs upload aborted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="146"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>The task has been aborted by the user.</source>
         <translation type="unfinished">Sarcina a fost anulată de utilizator.</translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="152"/>
-        <source>Error: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="154"/>
-        <source>
-Error message: %1</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload failed</source>
         <translation>Încărcarea a eșuat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="167"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
         <source>Upload finished</source>
         <translation>Încărcarea s-a terminat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="168"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="159"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>Legătura &lt;a href=&quot;%1&quot;&gt; la jurnalul încărcat &lt;/a&gt; a fost pus în clipboard-ul tău.</translation>
     </message>
@@ -11654,6 +11657,50 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <source>Created a shortcut to this %1!</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
+        <source>Network error: %1</source>
+        <translation type="unfinished">Eroare de rețea: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
+        <source>Error: %1 returned unexpected status code %2 %3</source>
+        <translation type="unfinished">Eroare: %1 a returnat un cod de stare neașteptat %2 %3</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
+        <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
+        <source>Error: %1 returned a malformed response body</source>
+        <translation type="unfinished">Eroare: %1 a returnat un corp de răspuns malformat</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
+        <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
+        <source>Error: %1 returned an error: %2</source>
+        <translation type="unfinished">Eroare: %1 a returnat o eroare: %2</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
+        <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
+        <source>Error: %1 returned an error code: %2
+Error message: %3</source>
+        <translation type="unfinished">Eroare: %1 a returnat un cod de eroare: %2
+Mesaj de eroare: %3</translation>
     </message>
 </context>
 <context>

@@ -1477,32 +1477,47 @@ Manche Versionen von Minecraft starten vielleicht nicht.
         <translation>Es konnten nicht alle laufenden Aufgaben abgebrochen werden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="124"/>
         <source>One or more subtasks failed</source>
         <translation>Eine oder mehrere Aufgaben sind fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="227"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
+        <source>Task failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
+        <source>Multiple subtasks failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
+        <source>Multiple subtasks failed
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>%1 Aufgabe(n) werden ausgeführt (%2 von %3 sind erledigt)</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="230"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
         <source>Please wait...</source>
         <translation>Bitte warten...</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="232"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
         <source>Waiting for a task to start...</source>
         <translation>Es wird auf den Start einer Aufgabe gewartet...</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="234"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="253"/>
         <source>Executing 1 task:</source>
         <translation>1 Aufgabe wird ausgeführt:</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="236"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="255"/>
         <source>Task finished.</source>
         <translation>Aufgabe wurde ausgeführt.</translation>
     </message>
@@ -6778,12 +6793,12 @@ Grund:
         <translation>Information</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="72"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="76"/>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="162"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="193"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>Öffne %1 oder scanne den QR-Code und trage den oben genannten Code ein.</translation>
     </message>
@@ -10324,24 +10339,24 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation>%1 wird angefragt</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="141"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="142"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="145"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="146"/>
         <source>unknown</source>
         <translation>unbekannt</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="147"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="148"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1 pro Sekunde (ca. %2 verbleibend)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="150"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 B pro Sekunde</translation>
@@ -11795,12 +11810,12 @@ HTTP Status: %2</translation>
         <translation>%1 (in Verwendung)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="99"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="98"/>
         <source>Confirm Upload</source>
         <translation>Upload bestätigen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="100"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="99"/>
         <source>You are about to upload &quot;%1&quot; to %2.
 You should double-check for personal information.
 
@@ -11811,12 +11826,12 @@ Du solltest prüfen, ob persönlichen Daten vorhanden sind.
 Bist Du Dir sicher?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="112"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="111"/>
         <source>Confirm Truncation</source>
         <translation>Verkürzung bestätigen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="113"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="112"/>
         <source>The log has %1 lines, exceeding mclo.gs&apos; limit of %2.
 The launcher can keep the first %3 and last %4 lines, trimming the middle.
 
@@ -11831,32 +11846,29 @@ Wählen Sie &apos;Nein&apos;, wird mclo.gs die ersten %2 Zeilen speichern. Dabei
 Wollen Sie mit der Verkürzung fortfahren?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="142"/>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="156"/>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="160"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
         <source>Failed to upload logs!</source>
         <translation>Hochladen der Logs fehlgeschlagen!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
         <source>Logs upload aborted</source>
         <translation>Hochladen der Logs abgebrochen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="146"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>The task has been aborted by the user.</source>
         <translation>Die Aufgabe wurde vom Benutzer abgebrochen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="152"/>
         <source>Error: %1</source>
-        <translation>Fehler: %1</translation>
+        <translation type="vanished">Fehler: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="154"/>
         <source>
 Error message: %1</source>
-        <translation>
+        <translation type="vanished">
 Fehlermeldung: %1</translation>
     </message>
     <message>
@@ -11864,12 +11876,12 @@ Fehlermeldung: %1</translation>
         <translation>Hochladen fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="167"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
         <source>Upload finished</source>
         <translation>Hochladen abgeschlossen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="168"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="159"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>Der &lt;a href=&quot;%1&quot;&gt;Link zum hochgeladenen Log&lt;/a&gt; wurde in die Zwischenablage kopiert.</translation>
     </message>
@@ -12724,6 +12736,50 @@ Möchtest du fortfahren?</numerusform>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <source>Created a shortcut to this %1!</source>
         <translation>Verknüpfung zu diesem %1 erstellt!</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
+        <source>Network error: %1</source>
+        <translation type="unfinished">Netzwerk-Fehler: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
+        <source>Error: %1 returned unexpected status code %2 %3</source>
+        <translation type="unfinished">Fehler: %1 hat den unerwarteten Status-Code %2 ausgegeben. %3</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
+        <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
+        <source>Error: %1 returned a malformed response body</source>
+        <translation type="unfinished">Fehler: %1 hat eine unerwartete Antwort gesendet</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
+        <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
+        <source>Error: %1 returned an error: %2</source>
+        <translation type="unfinished">Fehler: %1 hat einen Fehler gemeldet: %2</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
+        <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
+        <source>Error: %1 returned an error code: %2
+Error message: %3</source>
+        <translation type="unfinished">Fehler: %1 hat einen Fehlercode gemeldet: %2
+Fehlermeldung: %3</translation>
     </message>
 </context>
 <context>
