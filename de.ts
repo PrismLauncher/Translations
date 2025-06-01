@@ -2284,7 +2284,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
         <source> MiB</source>
-        <translation type="unfinished"></translation>
+        <translation> MiB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
