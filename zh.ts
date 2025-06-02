@@ -9215,7 +9215,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="537"/>
         <source>&amp;OpenAL library path:</source>
-        <translation>OpenAL 程序库路径 (&amp;O)：</translation>
+        <translation>OpenAL 库路径 (&amp;O)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="581"/>
