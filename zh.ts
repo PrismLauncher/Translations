@@ -4,7 +4,7 @@
 <context>
     <name>APIPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
         <translation>Pastebin 服务 (&amp;P)</translation>
@@ -18,7 +18,7 @@
         <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;在这里，您可以从预定义的 Pastebin 服务列表中进行选择，或者输入您选择的不同 Pastebin 服务的 URL，前提是它支持与 0x0.st 相同的协议，即 POST 文件参数到 URL 并返回链接响应体。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
         <translation>粘贴服务类型 (&amp;T)</translation>
@@ -28,45 +28,79 @@
         <translation type="vanished">基本网址</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
         <translation>根网址 (&amp;U)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="125"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="147"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="192"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="308"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="351"/>
+        <source>Use Default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
         <translation>注：更改粘贴服务类型后，你可能需要更改或清除根URL。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
+        <source>&amp;API Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
+        <source>&amp;Microsoft Authentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="228"/>
+        <source>Mod&amp;rinth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="250"/>
+        <source>Use None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="286"/>
+        <source>&amp;CurseForge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="341"/>
+        <source>&amp;Technic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>API Keys</source>
         <translation>API 密钥</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
         <translation>Microsoft 身份验证 (&amp;M)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>注：如果通过 Microsoft 身份验证的登录已经有效，则此项可能不需要设置。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="284"/>
         <source>(Default)</source>
         <translation>（默认）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
         <translation>在此处输入用于进行 Microsoft 身份验证的客户端ID。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
         <translation>Modrinth API (&amp;M)</translation>
     </message>
@@ -76,89 +110,79 @@
         <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注：只有需要访问私有数据时才需要设置此项。详见&lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;官方文档&lt;/a&gt;。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
         <source>Enter a custom API token for Modrinth here.</source>
         <translation>在此处输入你的 Modrinth 自定义 API 密钥。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="307"/>
         <source>(None)</source>
         <translation>（无）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
         <translation>Technic客户端ID</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="358"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注：只有需要访问私有数据时需要设置此项。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
         <translation>在这里输入Technic的自定义GUID客户端ID。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
         <source>Miscellaneous</source>
         <translation>杂项</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="350"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>User Agent</source>
         <translation>用户代理（UA）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="359"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="154"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
         <translation>在此处输入自定义用户代理（UA）。可用 $LAUNCHER_VER 替代启动器的版本号。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
         <translation>元数据服务器 (&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
         <source>Services</source>
         <translation>服务</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
         <translation>可以将此设置为第三方元数据服务器来使用修改过的库或其他资源。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
         <translation>在此处输入自定义元数据服务器的网址。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="257"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注：只有需要访问私有数据时才需要设置此项。详见&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;官方文档&lt;/a&gt;。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <source>&amp;CurseForge Core API</source>
         <translation>CurseForge 核心 API (&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="315"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
         <translation>注：如果 CurseForge 服务已经可以正常工作， 通常不需要设置此项。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
         <translation>在此处输入你的 CurseForge API 密钥。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
         <source>APIs</source>
         <translation>API</translation>
     </message>
@@ -785,14 +809,122 @@ Please update both your operating system and PolyMC.</source>
     </message>
 </context>
 <context>
+    <name>AppearancePage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="55"/>
+        <source>Appearance</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>AppearanceWidget</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
+        <source>View cat packs folder.</source>
+        <translation type="unfinished">查看猫主题文件夹</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
+        <source>Open Folder</source>
+        <translation type="unfinished">打开文件夹</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
+        <source>View widget themes folder.</source>
+        <translation type="unfinished">查看控件主题文件夹</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
+        <source>View icon themes folder.</source>
+        <translation type="unfinished">查看图标主题文件夹</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
+        <source>&amp;Cat Pack:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
+        <source>Reload All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
+        <source>Theme:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
+        <source>&amp;Icons:</source>
+        <translation type="unfinished">图标(&amp;I)：</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
+        <source>Console Font:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
+        <source>Cat Opacity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
+        <source>Opaque</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
+        <source>Transparent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="332"/>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="255"/>
+        <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="257"/>
+        <source>[ERROR] A spooky error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
+        <source>[INFO] A harmless message...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="260"/>
+        <source>[WARN] A not so spooky warning.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
+        <source>[DEBUG] A secret debugging message...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="262"/>
+        <source>[FATAL] A terrifying fatal error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="882"/>
+        <location filename="src/launcher/Application.cpp" line="883"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1027"/>
+        <location filename="src/launcher/Application.cpp" line="1029"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -819,12 +951,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 点击下面的“忽略”按钮以删除此锁定文件并继续。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1044"/>
+        <location filename="src/launcher/Application.cpp" line="1046"/>
         <source>Update In Progress</source>
         <translation>更新中</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1068"/>
+        <location filename="src/launcher/Application.cpp" line="1070"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -839,12 +971,12 @@ for details on the last update attempt.</source>
 以了解上次更新的详情。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1076"/>
+        <location filename="src/launcher/Application.cpp" line="1078"/>
         <source>Update Failed</source>
         <translation>更新失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1100"/>
+        <location filename="src/launcher/Application.cpp" line="1102"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -864,12 +996,12 @@ for details.</oldsource>
 %2 。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1108"/>
+        <location filename="src/launcher/Application.cpp" line="1110"/>
         <source>Update Succeeded</source>
         <translation>更新成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1140"/>
+        <location filename="src/launcher/Application.cpp" line="1142"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -890,32 +1022,32 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1146"/>
+        <location filename="src/launcher/Application.cpp" line="1148"/>
         <source>Incompatible system configuration</source>
         <translation>系统配置不兼容</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1520"/>
+        <location filename="src/launcher/Application.cpp" line="1522"/>
         <source>Aborted</source>
         <translation>已中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1911"/>
+        <location filename="src/launcher/Application.cpp" line="1913"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>找到了来自 %1 的旧数据，但 %2 已存在数据。很遗憾，你需要自行迁移数据。是否需要在下次启动 %2 时再次提醒你进行数据迁移？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1915"/>
+        <location filename="src/launcher/Application.cpp" line="1917"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>你似乎曾经使用过 %1。是否需要将数据迁移到 %2 的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1921"/>
+        <location filename="src/launcher/Application.cpp" line="1923"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>你似乎曾经在 %2 上使用过 %1。是否需要将数据迁移到 %3 的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1964"/>
+        <location filename="src/launcher/Application.cpp" line="1966"/>
         <source>Migration failed! Reason: %1</source>
         <translation>迁移失败！原因：%1</translation>
     </message>
@@ -1836,31 +1968,47 @@ Some versions of Minecraft may not launch.
 <context>
     <name>CustomCommands</name>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
         <translation>自定义命令(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
         <translation>退出后命令(&amp;O)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
         <translation>预启动命令(&amp;P)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
         <translation>包装器命令(&amp;W)：</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
+        <source>Override &amp;Global Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
+        <source>&amp;Pre-launch Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
+        <source>P&amp;ost-exit Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
+        <source>&amp;Wrapper Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;预启动命令会在实例启动之前运行，退出后命令会在实例退出之后运行。&lt;/p&gt;&lt;p&gt;它们均会在启动器的工作目录运行，并带有以下额外环境变量：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME——实例名&lt;/li&gt;&lt;li&gt;$INST_ID——实例 ID（其所在文件夹名）&lt;/li&gt;&lt;li&gt;$INST_DIR——实例文件夹的绝对路径&lt;/li&gt;&lt;li&gt;$INST_MC_DIR——Minecraft 的绝对路径&lt;/li&gt;&lt;li&gt;$INST_JAVA——运行所使用的 Java 可执行文件&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS——运行所使用的命令行参数&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包装器命令允许使用一个额外的包装器程序来运行游戏（例如 Linux 上的“optirun”）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -2095,32 +2243,36 @@ Some versions of Minecraft may not launch.
         <translation>类型</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
         <source>&amp;Environment Variables</source>
         <translation>环境变量(&amp;E)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
         <source>Name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="65"/>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="110"/>
         <source>Value</source>
         <translation>值</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="75"/>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="50"/>
         <source>&amp;Add</source>
         <translation>添加(&amp;A)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="82"/>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
+        <source>Override &amp;Global Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
         <source>&amp;Remove</source>
         <translation>删除(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="77"/>
         <source>&amp;Clear</source>
         <translation>清除(&amp;C)</translation>
     </message>
@@ -2771,126 +2923,185 @@ Are you sure you want to do this?</source>
 <context>
     <name>ExternalToolsPage</name>
     <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="44"/>
+        <source>&amp;Editors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="50"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="87"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="124"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="169"/>
+        <source>&amp;Text Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="65"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="112"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="191"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="251"/>
         <source>Browse</source>
         <translation>浏览</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="59"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="96"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="133"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
+        <source>Used to edit component JSON files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
+        <source>&amp;MCEdit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="127"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="206"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="266"/>
         <source>Check</source>
         <translation>检查安装</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
+        <source>&amp;Profilers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
+        <source>Profilers are accessible through the Launch dropdown menu.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
+        <source>J&amp;Profiler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
+        <source>&amp;VisualVM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>External Editors (leave empty for system default)</source>
         <translation>外部编辑器（默认使用系统默认编辑器）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
         <translation>文本编辑器(&amp;T)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
         <source>External Tools</source>
         <translation>外部工具</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="102"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
         <source>JProfiler Folder</source>
         <translation>JProfiler 文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="120"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="149"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="107"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="119"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="120"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="107"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="119"/>
         <source>Error while checking JProfiler install:
 %1</source>
         <translation>在检查 JProfiler 安装时出现错误：
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="122"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="151"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="184"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>OK</source>
         <translation>确定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="122"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
         <source>JProfiler setup seems to be OK</source>
         <translation>JProfiler 配置正确</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="130"/>
+        <source>VisualVM Executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
+        <source>Error while checking VisualVM install:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
+        <source>VisualVM setup seems to be OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
+        <source>Text Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>JVisualVM Executable</source>
         <translation>JVisualVM 可执行文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="149"/>
         <source>Error while checking JVisualVM install:
 %1</source>
         <translation>在检查 JVisualVM 安装时出现错误：
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="151"/>
         <source>JVisualVM setup seems to be OK</source>
         <translation>JVisualVM 配置正确</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
         <source>MCEdit Application</source>
         <translation>MCEdit 应用程序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="162"/>
         <source>MCEdit Folder</source>
         <translation>MCEdit 文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"/>
         <source>Error while checking MCEdit install:
 %1</source>
         <translation>在检查 MCEdit 安装时出现错误：
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="184"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>MCEdit setup seems to be OK</source>
         <translation>MCEdit 配置正确</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="190"/>
         <source>JSON Editor</source>
         <translation>JSON 编辑器</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
         <source>Invalid</source>
         <translation>无效</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
         <source>The file chosen does not seem to be an executable</source>
         <translation>选中的文件似乎不是可执行文件</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
+        <source>Tools</source>
+        <translation type="unfinished">工具</translation>
     </message>
 </context>
 <context>
@@ -4597,9 +4808,13 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>JVisualVM</name>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>JVisualVM started</source>
         <translation>JVisualVM 已启动</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
+        <source>VisualVM started</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
@@ -4813,27 +5028,30 @@ Please make sure that the maximum memory value is lower.</source>
         <translation>自动从 Mojang 下载 Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="68"/>
         <source>Management</source>
         <translation>管理</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="74"/>
         <source>Downloaded Java Versions</source>
         <translation>已下载的 Java 版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="92"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
+        <source>Installations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
         <source>Download</source>
         <translation>下载</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="99"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"/>
         <source>Remove</source>
         <translation>移除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="119"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="115"/>
         <source>Refresh</source>
         <translation>刷新</translation>
     </message>
@@ -4956,7 +5174,6 @@ You can change the Java version in the settings later.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="58"/>
         <source>Download Java</source>
         <translation>下载 Java</translation>
     </message>
@@ -5014,12 +5231,11 @@ You can change the Java version in the settings later.
         <translation>内存</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="245"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>Minecraft 可以使用的最大内存大小。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="136"/>
         <source>Minimum memory allocation:</source>
         <translation>最小内存分配：</translation>
     </message>
@@ -5039,77 +5255,132 @@ You can change the Java version in the settings later.
         <translation>自动检测 Java 版本 (&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="65"/>
         <source>Auto-detect...</source>
-        <translation>自动检测…</translation>
+        <translation type="vanished">自动检测…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="72"/>
         <source>Test</source>
-        <translation>测试</translation>
+        <translation type="vanished">测试</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="81"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="120"/>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
         <translation>自动下载并选择 Mojang 推荐的 Java 版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="84"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="123"/>
         <source>Auto-download &amp;Mojang Java</source>
         <translation>自动下载 Mojang Java (&amp;M)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="91"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
         <translation>启用时，启动器在启动时如果找不到 Java 版本，它将不会提示你选择一个版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="94"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="156"/>
         <source>Skip Java setup prompt on startup</source>
         <translation>启动时跳过 Java 配置提示</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="101"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
         <translation>启用时，启动器将不会检查选中的 Java 是否与实例兼容。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="104"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
+        <source>&amp;Detect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
+        <source>&amp;Browse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
+        <source>Test S&amp;ettings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
+        <source>Open Java &amp;Downloader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
         <source>Skip Java compatibility checks</source>
         <translation>跳过 Java 兼容性检查</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="117"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
+        <source>Java &amp;Executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
         <source>Memor&amp;y</source>
         <translation>内存 (&amp;Y)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="129"/>
-        <source>PermGen (Java 7 and earlier):</source>
-        <translation>PermGen（Java 7 及更早版本）：</translation>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
+        <source>Memory Notice</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="165"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="204"/>
+        <source>(-XX:PermSize)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="267"/>
+        <source>(-Xmx)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PermGen (Java 7 and earlier):</source>
+        <translation type="vanished">PermGen（Java 7 及更早版本）：</translation>
+    </message>
+    <message>
         <source>Maximum memory allocation:</source>
         <translation>最大内存分配：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="207"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="280"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>Minecraft 启动时分配的内存总量。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="235"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="302"/>
+        <source>&amp;PermGen Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
+        <source>(-Xms)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="319"/>
+        <source>Ma&amp;ximum Memory Usage:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="329"/>
+        <source>M&amp;inimum Memory Usage:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
         <source>Java Argumen&amp;ts</source>
         <translation>Java 参数 (&amp;T)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="217"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>可用于储存加载的 Java 类的内存总量。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="47"/>
         <source>Browse</source>
         <translation>浏览</translation>
     </message>
@@ -5145,17 +5416,25 @@ Please make sure that the maximum memory value is lower.</source>
 请确认最大内存大小不超过 2048 MiB。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="296"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="295"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>分配的最大内存超过系统内存容量。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="299"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="298"/>
+        <source>Your maximum memory allocation is close to your system memory capacity.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
+        <source>Your maximum memory allocation is below the minimum memory allocation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>分配的最大内存接近系统内存容量。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>你的最大内存分配小于允许的最小值</translation>
     </message>
@@ -5624,17 +5903,15 @@ You may have to fix your mods because the game is still logging to files and lik
 <context>
     <name>LauncherPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="45"/>
         <source>Features</source>
         <translation>功能</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
         <source>Update Settings</source>
         <translation>更新设置</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="75"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="224"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
         <translation>启动时检查更新</translation>
@@ -5648,62 +5925,145 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">未选择更新频道。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="234"/>
         <source>Folders</source>
         <translation>公共文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="118"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>I&amp;nstances:</source>
         <translation>实例(&amp;N)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="131"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="200"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="221"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="242"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="263"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="243"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="260"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="287"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="320"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="327"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="337"/>
         <source>Browse</source>
         <translation>浏览</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
+        <source>Instance Sorting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="105"/>
+        <source>Instance Renaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
+        <source>Ask what to do with the folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
+        <source>Always rename the folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="129"/>
+        <source>Never rename the folder—only the displayed name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
+        <source>Updater</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="174"/>
+        <source>How Often?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="187"/>
+        <source>Set to 0 to only check on launch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="190"/>
+        <source>On Launch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="193"/>
+        <source> hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="196"/>
+        <source>Every </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="277"/>
         <source>&amp;Mods:</source>
         <translation>Mod(&amp;M)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="187"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="350"/>
         <source>&amp;Icons:</source>
         <translation>图标(&amp;I)：</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="447"/>
+        <source>Log History &amp;Limit:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="492"/>
+        <source>Tasks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="555"/>
+        <source>Retry Limit:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="562"/>
+        <source>Concurrent Download Limit:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="572"/>
+        <source>HTTP Timeout:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="598"/>
+        <source>Concurrent Task Limit:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move the data to new location (will restart the launcher)</source>
         <translation type="vanished">移动数据至新的位置（需要重启启动器）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="433"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="56"/>
         <source>User Interface</source>
         <translation>用户界面</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="442"/>
         <source>Instance view sorting mode</source>
         <translation>实例排序模式</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="448"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
         <translation>按最后启动时间(&amp;B)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="458"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
         <source>By &amp;name</source>
         <translation>按名称(&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="471"/>
         <source>Theme</source>
         <translation>主题</translation>
     </message>
@@ -5728,24 +6088,21 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">简单（彩色图标）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="298"/>
         <source>Mods</source>
         <translation>Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="304"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
         <translation>不使用来自 Mod 托管平台（如 Modrinth 和 CurseForge）的 Mod 元数据。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="307"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
         <translation>停用 Mod 元数据</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="314"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="399"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;： 禁用 Mod 元数据可能也会禁用部分易用功能，例如 Mod 更新！&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -5800,7 +6157,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">Teawie（绘者：SympathyTea）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="250"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="294"/>
         <source>&amp;Downloads:</source>
         <translation>下载(&amp;D)：</translation>
     </message>
@@ -5809,164 +6166,186 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">……</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="84"/>
         <source>Update interval</source>
         <translation>更新间隔</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="91"/>
         <source>Set it to 0 to only check on launch</source>
         <translation>将其设置为 0 以仅在启动时进行检查</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
         <source>h</source>
         <translation>小时</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="139"/>
         <source>Rename instance folders</source>
-        <translation>重命名实例文件夹</translation>
+        <translation type="vanished">重命名实例文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="147"/>
         <source>Never</source>
-        <translation>永不</translation>
+        <translation type="vanished">永不</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="152"/>
         <source>Ask</source>
-        <translation>每次询问</translation>
+        <translation type="vanished">每次询问</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="157"/>
         <source>Always</source>
-        <translation>总是</translation>
+        <translation type="vanished">总是</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="267"/>
         <source>&amp;Skins:</source>
         <translation>皮肤(&amp;S)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="273"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="369"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
         <translation>启用后，在查找资源时除了搜索下载文件夹本身，还会搜索其子文件夹（例如：在寻找 CurseForge 上被屏蔽的 Mod 时）。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="276"/>
         <source>Check downloads folder recursively</source>
         <translation>递归检查下载文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
         <translation>禁用自动检测、安装和更新前置 Mod。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="327"/>
         <source>Disable automatic mod dependency management</source>
         <translation>禁用自动管理前置 Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
         <translation>当创建一个新整合包实例时，不提示可以更新现有的该整合包的实例（而不是创建新的实例）。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="337"/>
         <source>Skip modpack update prompt</source>
         <translation>跳过整合包更新提示</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="347"/>
         <source>Miscellaneous</source>
         <translation>杂项</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="360"/>
         <source>Number of concurrent tasks</source>
         <translation>并发任务数</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="374"/>
         <source>Number of concurrent downloads</source>
         <translation>并发下载数</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="395"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="569"/>
         <source>Seconds to wait until the requests are terminated</source>
         <translation>等待请求终止的秒数</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="398"/>
         <source>Timeout for HTTP requests</source>
         <translation>HTTP请求超时</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="405"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="548"/>
         <source>s</source>
         <translation>秒</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
         <source>Number of manual retries</source>
         <translation>手动重试次数</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="283"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="379"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
         <translation>启用后，将会移动被屏蔽的资源，而不是复制它们。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="286"/>
         <source>Move blocked resources</source>
-        <translation>移动被屏蔽的资源</translation>
+        <translation type="vanished">移动被屏蔽的资源</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="208"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="250"/>
         <source>&amp;Java:</source>
         <translation>Java(&amp;J):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="483"/>
         <source>Cat</source>
         <translation>猫</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="489"/>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
         <translation>设置猫的不透明度。0% 代表完全透明，100% 代表完全不透明。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="492"/>
         <source>Opacity</source>
         <translation>不透明度</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="502"/>
         <source>%</source>
         <translation>%</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="537"/>
         <source>Tools</source>
         <translation>工具</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="543"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
         <translation>菜单栏对于键盘交互更加友好。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="546"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
         <translation>用菜单栏代替工具栏(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="570"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="363"/>
+        <source>Mods and Modpacks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="372"/>
+        <source>Check &amp;subfolders for blocked mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="382"/>
+        <source>Move blocked mods instead of copying them</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
+        <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="392"/>
+        <source>Keep track of mod metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
+        <source>Automatically detect, install, and update mod dependencies.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="412"/>
+        <source>Install dependencies automatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="419"/>
+        <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="422"/>
+        <source>Suggest to update an existing instance during modpack installation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="432"/>
         <source>Console</source>
         <translation>控制台</translation>
     </message>
@@ -5990,45 +6369,43 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>在游戏崩溃时显示控制台(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="576"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
         <translation>日志行数限制(&amp;H)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="582"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="482"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>在日志到达限制时停止记录(&amp;S)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="595"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="463"/>
         <source> lines</source>
         <translation> 行</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="623"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
         <translation>控制台字体(&amp;F)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="112"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="102"/>
         <source>Instance Folder</source>
         <translation>实例文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="120"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="110"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
         <translation>你试图指定的实例文件夹路径包含至少一个“!”字符。在这种情况下，Java 会出现问题，实例（可能）无法启动！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="125"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
         <translation>确定要使用此路径吗？选择“否”将关闭窗口且不改变实例路径。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="134"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="124"/>
         <source>You&apos;re trying to specify an instance folder which was granted temporarily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
@@ -6043,57 +6420,52 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 推荐通过 Flatseal 授予 %1 访问权限。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="141"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="131"/>
         <source>Do you want to proceed anyway?</source>
         <translation>你还想继续吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="145"/>
         <source>Icons Folder</source>
         <translation>图标文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
         <source>Mods Folder</source>
         <translation>Mod 文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="167"/>
         <source>Downloads Folder</source>
         <translation>下载文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="177"/>
         <source>Java Folder</source>
         <translation>Java 文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="187"/>
         <source>Skins Folder</source>
         <translation>皮肤文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="390"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
         <translation>[Test/ERROR] 啊哈哈哈哈哈，出错咯！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="392"/>
         <source>[Test/ERROR] A spooky error!</source>
         <translation>[Test/ERROR] 出错了！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="395"/>
         <source>[Test/WARN] A not so spooky warning.</source>
         <translation>[Test/WARN] 一条不是很配日子的警告消息。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="396"/>
         <source>[Test/DEBUG] A secret debugging message...</source>
         <translation>[Test/DEBUG] 这是一个隐藏的调试信息</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="397"/>
         <source>[Test/FATAL] A terrifying fatal error!</source>
         <translation>[Test/FATAL] 哈人的严重性错误信息！</translation>
     </message>
@@ -6102,7 +6474,6 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation type="vanished">[XXX/ERROR] 一个错误！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="394"/>
         <source>[Test/INFO] A harmless message...</source>
         <translation>[Test/INFO] 一条无害的信息…</translation>
     </message>
@@ -6119,9 +6490,13 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation type="vanished">取消隐藏通知</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="60"/>
         <source>Launcher</source>
         <translation>启动器</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="60"/>
+        <source>General</source>
+        <translation type="unfinished">常规</translation>
     </message>
 </context>
 <context>
@@ -8643,258 +9018,313 @@ This can be updated only using a file in %1 format
         <translation>常规</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="76"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="73"/>
         <source>Game &amp;Window</source>
         <translation>游戏窗口 (&amp;W)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
+        <source>When the game window closes, quit the launcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
         <source>Start Minecraft maximized</source>
         <translation>在启动时将 Minecraft 窗口最大化</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
         <translation>基础游戏仅支持分辨率。为了模拟最大化行为，当前的实现方式将近似于最大显示尺寸。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="98"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：所有的 Minecraft 版本可能不完全支持最大化选项。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="107"/>
         <source>Window height:</source>
-        <translation>窗口高度：</translation>
+        <translation type="vanished">窗口高度：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="114"/>
         <source>Window width:</source>
-        <translation>窗口宽度：</translation>
+        <translation type="vanished">窗口宽度：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="158"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="261"/>
         <source>Game &amp;Time</source>
         <translation>游戏时长 (&amp;T)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="170"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="273"/>
         <source>Show time spent &amp;playing instances</source>
         <translation>显示单实例的游玩时长 (&amp;P)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="177"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="280"/>
         <source>&amp;Record time spent playing instances</source>
         <translation>记录单实例的游玩时长 (&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="184"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="287"/>
         <source>Show the &amp;total time played across instances</source>
         <translation>显示游玩所有实例的总时长 (&amp;T)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="191"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
         <source>Always show durations in &amp;hours</source>
         <translation>总是以小时为单位显示时长 (&amp;H)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="204"/>
         <source>&amp;Console</source>
-        <translation>控制台 (&amp;C)</translation>
+        <translation type="vanished">控制台 (&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="216"/>
         <source>Show console while the game is running</source>
-        <translation>运行游戏时显示控制台</translation>
+        <translation type="vanished">运行游戏时显示控制台</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="223"/>
         <source>Automatically close console when the game quits</source>
-        <translation>退出游戏时自动关闭控制台</translation>
+        <translation type="vanished">退出游戏时自动关闭控制台</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="230"/>
         <source>Show console when the game crashes</source>
-        <translation>游戏崩溃时显示控制台</translation>
+        <translation type="vanished">游戏崩溃时显示控制台</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="240"/>
         <source>&amp;Miscellaneous</source>
-        <translation>杂项 (&amp;M)</translation>
+        <translation type="vanished">杂项 (&amp;M)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="252"/>
         <source>Close the launcher after game window opens</source>
-        <translation>在游戏窗口出现后关闭启动器</translation>
+        <translation type="vanished">在游戏窗口出现后关闭启动器</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="259"/>
         <source>Quit the launcher after game window closes</source>
-        <translation>在游戏窗口关闭后退出启动器</translation>
+        <translation type="vanished">在游戏窗口关闭后退出启动器</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="287"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="423"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="311"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="447"/>
         <source>Tweaks</source>
         <translation>微调</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="335"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="468"/>
         <source>&amp;Legacy Tweaks</source>
         <translation>旧版设置 (&amp;L)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="347"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="480"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;模拟官方不再维护的旧在线服务&lt;/p&gt;&lt;p&gt;目前包含皮肤与在线模式支持。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="350"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="483"/>
         <source>Enable online fixes (experimental)</source>
         <translation>模拟旧版在线服务（实验性）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="363"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="496"/>
         <source>&amp;Native Libraries</source>
         <translation>本地库 (&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="561"/>
         <source>Use system installation of OpenAL</source>
         <translation>使用系统 OpenAL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="382"/>
         <source>&amp;GLFW library path</source>
-        <translation>GLFW 图形库框架路径 (&amp;G)</translation>
+        <translation type="vanished">GLFW 图形库框架路径 (&amp;G)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="392"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="554"/>
         <source>Use system installation of GLFW</source>
         <translation>使用系统 GLFW</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="406"/>
         <source>&amp;OpenAL library path</source>
-        <translation>OpenAL 程序库路径 (&amp;O)</translation>
+        <translation type="vanished">OpenAL 程序库路径 (&amp;O)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="429"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
+        <source>When the game window opens, hide the launcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
+        <source>&amp;Window Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="189"/>
+        <source>×</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="196"/>
+        <source>pixels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="222"/>
+        <source>&amp;Console Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="234"/>
+        <source>When the game is launched, show the console window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="241"/>
+        <source>When the game crashes, show the console window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="248"/>
+        <source>When the game quits, hide the console window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="304"/>
+        <source>Override &amp;Default Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="349"/>
+        <source>Enable Auto-&amp;join</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="371"/>
+        <source>Singleplayer world:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="511"/>
+        <source>&amp;GLFW library path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="537"/>
+        <source>&amp;OpenAL library path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="581"/>
         <source>&amp;Performance</source>
         <translation>性能 (&amp;P)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="441"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="593"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 Feral Interactive&apos;s GameMode，可能会提高游戏性能&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="444"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="596"/>
         <source>Enable Feral GameMode</source>
         <translation>启用 Feral Interactive&apos;s GameMode</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="451"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="603"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 MangoHud 的高级性能覆盖&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="454"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="606"/>
         <source>Enable MangoHud</source>
         <translation>启用 MangoHud</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="461"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="613"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用独显替代核显（适用于双显卡用户）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="464"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="616"/>
         <source>Use discrete GPU</source>
         <translation>使用独显</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="471"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="623"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
         <translation>使用 Zink（用来基于 Vulkan 上实现 OpenGL 的 Mesa OpenGL 驱动程序），性能可能因情况而异。注：如果没有找到合适的 Vulkan 驱动程序，将使用软件渲染。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="474"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="626"/>
         <source>Use Zink</source>
         <translation>使用 Zink</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="502"/>
         <source>Launch</source>
-        <translation>运行</translation>
+        <translation type="vanished">运行</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="523"/>
         <source>Override default &amp;account</source>
-        <translation>覆盖默认账户 (&amp;A)</translation>
+        <translation type="vanished">覆盖默认账户 (&amp;A)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="316"/>
         <source>Account:</source>
         <translation>账户：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="558"/>
         <source>Set a &amp;target to join on launch</source>
-        <translation>启动游戏后直接加入服务器 (&amp;T)</translation>
+        <translation type="vanished">启动游戏后直接加入服务器 (&amp;T)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="570"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="378"/>
         <source>Server address:</source>
         <translation>服务器地址：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="580"/>
         <source>Singleplayer world</source>
-        <translation>单人游戏世界</translation>
+        <translation type="vanished">单人游戏世界</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="611"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="654"/>
         <source>Custom Commands</source>
         <translation>自定义命令</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="621"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="664"/>
         <source>Environment Variables</source>
         <translation>环境变量</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="65"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="62"/>
         <source>Show time &amp;playing this instance</source>
         <translation>显示此实例的游玩时间 (&amp;P)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="66"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="63"/>
         <source>&amp;Record time playing this instance</source>
         <translation>记录此实例的游玩时间 (&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="71"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="68"/>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
         <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：该 Minecraft 版本不完全支持最大化选项。&lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="113"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="109"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>无法在你的系统上找到 Feral Interactive&apos;s GameMode。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="118"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="114"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>无法在你的系统上找到 MangoHud。</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="182"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="189"/>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="196"/>
         <source>Path to %1 library file</source>
         <translation>&amp;1 程序库路径</translation>
     </message>
@@ -10811,12 +11241,21 @@ Are you sure?</source>
 <context>
     <name>PageDialog</name>
     <message>
-        <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="42"/>
         <source>Close</source>
         <translation>关闭</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="43"/>
+        <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
+        <source>&amp;OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="47"/>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="48"/>
         <source>Help</source>
         <translation>帮助</translation>
     </message>
@@ -11577,67 +12016,71 @@ HTTP 状态码：%2</translation>
 <context>
     <name>ProxyPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="42"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="32"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
         <translation>此设定仅用于启动器。Minecraft 本身不接受代理设置。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
         <source>Type</source>
         <translation>类型</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="61"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="51"/>
         <source>Uses your system&apos;s default proxy settings.</source>
         <translation>使用系统默认代理设置</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
         <source>&amp;Default</source>
         <translation>默认(&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
+        <source>Use S&amp;ystem Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
         <source>&amp;None</source>
         <translation>无(&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
         <translation>SOCKS5(&amp;S)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
         <translation>HTTP(&amp;H)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="97"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
         <translation>地址及端口(&amp;A)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="154"/>
         <source>Authentication</source>
         <translation>认证</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="160"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
         <translation>用户名(&amp;U)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="158"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="173"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
         <translation>密码(&amp;P)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="190"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
         <translation>注意：代理服务器用户名和密码会以明文形式存储在启动器的配置文件中！</translation>
     </message>
@@ -12112,6 +12555,10 @@ This message will be displayed until you remove this from the JVM arguments.</so
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
+        <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
         <translation>指定的 Java 二进制文件无法工作。&lt;br /&gt;你应该使用自动检测功能，或者设置 Java 可执行文件的路径。&lt;br /&gt;</translation>
@@ -12141,7 +12588,6 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>空路径</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
         <source>Invalid path to JVisualVM</source>
         <translation>无效的 JVisualVM 路径</translation>
     </message>
@@ -12719,6 +13165,11 @@ Do you wish to proceed?</source>
 Error message: %3</source>
         <translation>错误：%1 返回错误代码：%2
 错误消息：%3</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
+        <source>Invalid path to VisualVM</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15063,7 +15514,6 @@ Are you sure?</source>
 <context>
     <name>ThemeCustomizationWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="37"/>
         <source>&amp;Icons</source>
         <translation>图标(&amp;I)</translation>
     </message>
@@ -15072,38 +15522,30 @@ Are you sure?</source>
         <translation type="vanished">颜色(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="62"/>
         <source>View icon themes folder.</source>
         <translation>查看图标主题文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="80"/>
         <source>&amp;Widgets</source>
         <translation>控件(&amp;W)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="105"/>
         <source>View widget themes folder.</source>
         <translation>查看控件主题文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="123"/>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="147"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
         <translation>猫出现在背景中且默认不会显示。它可以通过点击工具栏上的猫按钮来显示。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="126"/>
         <source>C&amp;at</source>
         <translation>猫(&amp;A)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="154"/>
         <source>View cat packs folder.</source>
         <translation>查看猫主题文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="189"/>
         <source>Refresh all</source>
         <translation>全部刷新</translation>
     </message>
@@ -15111,29 +15553,34 @@ Are you sure?</source>
 <context>
     <name>ThemeWizardPage</name>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="14"/>
         <source>WizardPage</source>
         <translation>向导页面</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="20"/>
         <source>Select the Theme you wish to use</source>
         <translation>选择你想要使用的主题</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
         <translation>提示：猫出现在背景中且默认不会显示。它可以通过点击工具栏上的猫按钮来显示。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
         <source> Preview:</source>
         <translation> 预览：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="331"/>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
         <translation>猫出现在背景中且没有任何目的，它只提供一个视觉效果。</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
+        <source>Appearance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
+        <source>Select theme and icons to use</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
