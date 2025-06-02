@@ -908,7 +908,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation>[DEBUG] 这是一个隐藏的调试信息...</translation>
+        <translation>[DEBUG] 一条隐藏的调试信息...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="262"/>
@@ -2943,7 +2943,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
         <source>Used to edit component JSON files.</source>
-        <translation>用于编辑组件的 JSON 文件。</translation>
+        <translation>用于编辑组件 JSON 文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
@@ -4582,7 +4582,7 @@ Proceed with caution!</source>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>OpenAL 程序库路径 (&amp;O)</translation>
+        <translation>OpenAL 库路径 (&amp;O)</translation>
     </message>
     <message>
         <source>Performance</source>
@@ -7942,7 +7942,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="424"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation>删除所选实例</translation>
+        <translation>删除所选实例。</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -7959,7 +7959,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="377"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation>更改选中实例的组</translation>
+        <translation>更改选中实例的组。</translation>
     </message>
     <message>
         <source>Minecraft Folder</source>
@@ -7985,7 +7985,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="413"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation>在文件资源管理器中打开实例的根文件夹</translation>
+        <translation>在文件资源管理器中打开实例的根文件夹。</translation>
     </message>
     <message>
         <source>Export Instance</source>
@@ -8007,7 +8007,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="438"/>
         <source>Copy the selected instance.</source>
-        <translation>复制选中实例</translation>
+        <translation>复制选中实例。</translation>
     </message>
     <message>
         <source>%1 - Version %2</source>
@@ -8436,7 +8436,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
         <source>Open %1 Discord guild.</source>
-        <translation>打开 %1 Discord 频道</translation>
+        <translation>打开 %1 Discord 频道。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="206"/>
@@ -8818,7 +8818,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>OpenAL 程序库路径 (&amp;O)</translation>
+        <translation>OpenAL 库路径 (&amp;O)</translation>
     </message>
     <message>
         <source>Performance</source>
@@ -9026,7 +9026,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
-        <translation>游戏窗口关闭后，退出启动器</translation>
+        <translation>游戏窗口关闭时，退出启动器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
@@ -9155,7 +9155,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
         <source>When the game window opens, hide the launcher</source>
-        <translation>游戏窗口出现后，隐藏启动器</translation>
+        <translation>游戏窗口出现时，隐藏启动器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
@@ -9605,17 +9605,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="182"/>
         <source>The name of the mod.</source>
-        <translation>Mod 名称</translation>
+        <translation>Mod 名称。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="184"/>
         <source>The version of the mod.</source>
-        <translation>Mod 版本</translation>
+        <translation>Mod 版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="186"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation>该 Mod 最后一次更改（或添加）的日期和时间</translation>
+        <translation>该 Mod 最后一次更改（或添加）的日期和时间。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="188"/>
@@ -9629,17 +9629,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="190"/>
         <source>On what environment the mod is running.</source>
-        <translation>Mod 运行环境</translation>
+        <translation>Mod 运行环境。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="192"/>
         <source>The mod loader.</source>
-        <translation>使用的 Mod 加载器</translation>
+        <translation>使用的 Mod 加载器。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="194"/>
         <source>The supported minecraft versions.</source>
-        <translation>支持的 Minecraft 版本</translation>
+        <translation>支持的 Minecraft 版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="196"/>
@@ -9649,7 +9649,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="198"/>
         <source>The size of the mod.</source>
-        <translation>Mod 大小</translation>
+        <translation>Mod 大小。</translation>
     </message>
 </context>
 <context>
@@ -11508,27 +11508,27 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="114"/>
         <source>Force an update, even if one is not needed.</source>
-        <translation>强制更新，即使不需要</translation>
+        <translation>强制更新，即使不需要。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="115"/>
         <source>List available releases.</source>
-        <translation>列出可用版本</translation>
+        <translation>列出可用版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="116"/>
         <source>Log debug to console.</source>
-        <translation>将调试记录到控制台</translation>
+        <translation>将调试记录到控制台。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="117"/>
         <source>Select the version to install with a GUI.</source>
-        <translation>使用 GUI 选择要安装的版本</translation>
+        <translation>使用 GUI 选择要安装的版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="118"/>
         <source>Allow the updater to downgrade to previous versions.</source>
-        <translation>允许更新程序降级到以前的版本</translation>
+        <translation>允许更新程序降级到以前的版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="129"/>
@@ -11873,7 +11873,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"/>
         <source>Select a profile.</source>
-        <translation>选择档案</translation>
+        <translation>选择档案。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
@@ -12029,7 +12029,7 @@ HTTP 状态码：%2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="51"/>
         <source>Uses your system&apos;s default proxy settings.</source>
-        <translation>使用系统默认代理设置</translation>
+        <translation>使用系统默认代理设置。</translation>
     </message>
     <message>
         <source>&amp;Default</source>
@@ -13621,13 +13621,13 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="563"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>资源名称</translation>
+        <translation>资源名称。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="565"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>上次更改（或添加）此资源的日期和时间</translation>
+        <translation>上次更改（或添加）此资源的日期和时间。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="567"/>
@@ -13637,7 +13637,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="569"/>
         <source>The size of the resource.</source>
-        <translation>资源的大小</translation>
+        <translation>资源大小。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="612"/>
@@ -13713,7 +13713,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="170"/>
         <source>The size of the resource pack.</source>
-        <translation>资源包的大小</translation>
+        <translation>资源包大小。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
@@ -13736,7 +13736,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="161"/>
         <source>The name of the resource pack.</source>
-        <translation>资源包的名称</translation>
+        <translation>资源包名称。</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -13745,7 +13745,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="166"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation>该资源包最后一次更改（或添加）的日期和时间</translation>
+        <translation>该资源包最后一次更改（或添加）的日期和时间。</translation>
     </message>
 </context>
 <context>
@@ -14344,7 +14344,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="123"/>
         <source>Select a version to install.</source>
-        <translation>选择要安装的版本</translation>
+        <translation>选择要安装的版本。</translation>
     </message>
 </context>
 <context>
@@ -15307,7 +15307,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="145"/>
         <source>The date and time this texture pack was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>此纹理包最后一次修改（或添加）的日期和时间</translation>
+        <translation>此纹理包最后一次修改（或添加）的日期和时间。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
@@ -15363,7 +15363,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="149"/>
         <source>The size of the texture pack.</source>
-        <translation>纹理包的大小</translation>
+        <translation>纹理包大小。</translation>
     </message>
     <message>
         <source>Is the resource enabled?</source>
@@ -15610,12 +15610,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
         <source>The native language name.</source>
-        <translation>语言名称</translation>
+        <translation>语言名称。</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation>完全翻译字符串所占的百分比（不包括自动猜测的字符串）</translation>
+        <translation>完全翻译字符串所占的百分比（不包括自动猜测的字符串）。</translation>
     </message>
 </context>
 <context>
@@ -15985,7 +15985,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="195"/>
         <source>Add Java agents.</source>
-        <translation>添加 Java 探针（Java Agent）</translation>
+        <translation>添加 Java 探针（Java Agent）。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="200"/>
@@ -16017,7 +16017,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="118"/>
         <source>Change version of the selected component.</source>
-        <translation>更改选中组件的版本</translation>
+        <translation>更改选中组件的版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
@@ -16027,7 +16027,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
         <source>Make the selected component apply sooner.</source>
-        <translation>使选中的组件更早应用</translation>
+        <translation>使选中的组件更早应用。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
@@ -16037,27 +16037,27 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
         <source>Make the selected component apply later.</source>
-        <translation>使选中的组件更迟应用</translation>
+        <translation>使选中的组件更迟应用。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
         <source>Remove selected component from the instance.</source>
-        <translation>从实例中删除选中的组件</translation>
+        <translation>从实例中删除选中的组件。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
         <source>Customize selected component.</source>
-        <translation>自定义选中的组件</translation>
+        <translation>自定义选中的组件。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
         <source>Edit selected component.</source>
-        <translation>编辑选中的组件</translation>
+        <translation>编辑选中的组件。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"/>
         <source>Revert the selected component to default.</source>
-        <translation>将选中的组件恢复为默认状态</translation>
+        <translation>将选中的组件恢复为默认状态。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
@@ -16067,17 +16067,17 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
         <source>Install a mod loader.</source>
-        <translation>安装一个 Mod 加载器</translation>
+        <translation>安装一个 Mod 加载器。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
         <source>Add an empty custom component.</source>
-        <translation>添加空的自定义组件</translation>
+        <translation>添加空的自定义组件。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"/>
         <source>Reload all components.</source>
-        <translation>重新加载所有组件</translation>
+        <translation>重新加载所有组件。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="216"/>
@@ -16087,7 +16087,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
         <source>Download the files needed to launch the instance now.</source>
-        <translation>立刻下载运行实例需要的文件</translation>
+        <translation>立刻下载运行实例需要的文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
@@ -16097,7 +16097,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="227"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation>打开此实例的 .minecraft 文件夹</translation>
+        <translation>打开此实例的 .minecraft 文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
@@ -16107,7 +16107,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation>打开实例的本地 libraries 文件夹</translation>
+        <translation>打开实例的本地 libraries 文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
@@ -16398,7 +16398,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
         <source>The name of the version.</source>
-        <translation>版本名称</translation>
+        <translation>版本名称。</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
@@ -16478,7 +16478,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="99"/>
         <source>Reloads the version list.</source>
-        <translation>重新加载版本列表</translation>
+        <translation>重新加载版本列表。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="100"/>
@@ -16519,14 +16519,14 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="202"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation>这个世界被符号链接链接到了其他地方</translation>
+        <translation>这个世界被符号链接链接到了其他地方。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="205"/>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
-这个世界被硬链接到了其他地方</translation>
+这个世界被硬链接到了其他地方。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="220"/>
@@ -16570,17 +16570,17 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="280"/>
         <source>The name of the world.</source>
-        <translation>世界名称</translation>
+        <translation>世界名称。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
         <source>Game mode of the world.</source>
-        <translation>世界游戏模式</translation>
+        <translation>世界游戏模式。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="284"/>
         <source>Date and time the world was last played.</source>
-        <translation>最后一次进入此世界的日期和时间</translation>
+        <translation>最后一次进入此世界的日期和时间。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
@@ -16590,7 +16590,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
         <source>Information and warnings about the world.</source>
-        <translation>世界的警告和信息</translation>
+        <translation>世界的警告和信息。</translation>
     </message>
 </context>
 <context>
@@ -16657,7 +16657,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="146"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
-        <translation>删除世界图标，使游戏在下次加载时重新生成图标</translation>
+        <translation>删除世界图标，使游戏在下次加载时重新生成图标。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
@@ -16667,7 +16667,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
         <source>Manage datapacks inside the world.</source>
-        <translation>管理世界内的数据包</translation>
+        <translation>管理世界内的数据包。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="59"/>
