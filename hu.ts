@@ -32,7 +32,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="308"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="351"/>
         <source>Use Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Alapértelmezett használata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -42,32 +42,32 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>&amp;API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;API kulcsok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>&amp;Microsoft Authentation</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Microsoft Authentation</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="228"/>
         <source>Mod&amp;rinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod&amp;rinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="250"/>
         <source>Use None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne használjon semmit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="286"/>
         <source>&amp;CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="341"/>
         <source>&amp;Technic</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Technic</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -797,7 +797,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="55"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Megjelenés</translation>
     </message>
 </context>
 <context>
@@ -805,99 +805,99 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished">Cicák mappájának megtekintése.</translation>
+        <translation>Cicák mappájának megtekintése.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Mappa megnyitása</translation>
+        <translation>Mappa megnyitása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished">Widget témák mappájának megtekintése.</translation>
+        <translation>Widget témák mappájának megtekintése.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished">Ikon témák mappájának megtekintése.</translation>
+        <translation>Ikon témák mappájának megtekintése.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cica csomagok:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation type="unfinished"></translation>
+        <translation>Mind újratöltése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Téma:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished">&amp;Ikonok:</translation>
+        <translation>&amp;Ikonok:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Konzol betűtípus:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Cica áttetszőség</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
         <source>Opaque</source>
-        <translation type="unfinished"></translation>
+        <translation>Átlátszatlan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Átlátszó</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="332"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Előnézet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="255"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ERROR] OOoooOOOoooo! Egy kísérteties hiba!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="257"/>
         <source>[ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ERROR] Kísérteties hiba!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
         <source>[INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[INFO] Egy ártalmatlan üzenet...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="260"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[WARN] Egy nem is olyan kísérteties figyelmeztetés.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[DEBUG] Titkos hibakereső üzenet...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="262"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[FATAL] Félelmetes végzetes hiba!</translation>
     </message>
 </context>
 <context>
@@ -1902,12 +1902,12 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Megjegyzés: Ha egy parancsikon a létrehozás után áthelyezésre kerül, a példány törlésekor nem fog törlődni.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha ez a helyzet, akkor manuálisan kell törölnie őket.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"/>
@@ -1985,22 +1985,22 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Globális beállítások felülbírálása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Indítás előtti parancs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>P&amp;ost-exit Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kilépés utáni parancs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
         <source>&amp;Wrapper Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wrapper parancs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
@@ -2148,46 +2148,46 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Enable</source>
-        <translation type="unfinished">Engedélyezés</translation>
+        <translation>Engedélyezés</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Image</source>
-        <translation type="unfinished">Kép</translation>
+        <translation>Kép</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Name</source>
-        <translation type="unfinished">Név</translation>
+        <translation>Név</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Pack Format</source>
-        <translation type="unfinished">Csomag formátum</translation>
+        <translation>Csomag formátum</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Utoljára módosítva</translation>
+        <translation>Utoljára módosítva</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="78"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Ismeretlen</translation>
+        <translation>Ismeretlen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="104"/>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Az adatcsomag formátumának azonosítója, valamint a Minecraft-verziók, amelyekhez készült.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="109"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Figyelmeztetés: Ez az erőforrás szimbolikusan máshonnan kapcsolódik. A szerkesztéssel az eredeti is megváltozik.
 Kanonikus elérési út: %1</translation>
     </message>
@@ -2195,23 +2195,23 @@ Kanonikus elérési út: %1</translation>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="116"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation>
 Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az eredeti is megváltozik.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Az adatcsomag engedélyezve van? (Csak ZIP-ek esetén érvényes)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
         <source>The name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az adatcsomag neve.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="161"/>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>Az adatcsomag utolsó módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
     </message>
 </context>
 <context>
@@ -2219,27 +2219,27 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Csomagok letöltése</translation>
+        <translation>Csomagok letöltése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Adatcsomagok letöltése online mod platformokról</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Próbálja meg ellenőrizni vagy frissíteni az összes kiválasztott adatcsomagot (az összes adatcsomagot, ha egyik sincs kiválasztva)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Adatcsomag verziójának módosítása.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
         <source>Download Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Adatcsomagok letöltése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"/>
@@ -2248,7 +2248,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="242"/>
         <source>Error</source>
-        <translation type="unfinished">Hiba</translation>
+        <translation>Hiba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
@@ -2256,82 +2256,85 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
         <source>Aborted</source>
-        <translation type="unfinished">Megszakítva</translation>
+        <translation>Megszakítva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">A letöltés a felhasználó által megszakítva.</translation>
+        <translation>A letöltés a felhasználó által megszakítva.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="94"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="179"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="252"/>
         <source>Warnings</source>
-        <translation type="unfinished">Figyelmeztetések</translation>
+        <translation>Figyelmeztetések</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="108"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="189"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="262"/>
         <source>Abort</source>
-        <translation type="unfinished">Megszakítás</translation>
+        <translation>Megszakítás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Az adatcsomag-frissítések nem érhetők el, ha a metaadatok le vannak tiltva!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="129"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Frissítés megerősítése</translation>
+        <translation>Frissítés megerősítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="130"/>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Az adatcsomagok frissítése a játék futása közben a csomagok duplikálódását és a játék összeomlását okozhatja.
+A régi fájlokat nem lehet törölni, mivel használatban vannak.
+Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"/>
         <source>The data pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Az adatcsomag frissítő megszakítva!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">A(z) &quot;%1&quot; naprakész! :)</translation>
+        <translation>A(z) &quot;%1&quot; naprakész! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Minden adatcsomag naprakész! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Minden kiválasztott adatcsomag naprakész! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
         <source>Update checker</source>
-        <translation type="unfinished">Frissítés-ellenőrző</translation>
+        <translation>Frissítés-ellenőrző</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Eltávolítás megerősítése</translation>
+        <translation>Eltávolítás megerősítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="204"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 adatcsomag metaadatainak eltávolításra készülsz.
+Biztos vagy ebben?</translation>
     </message>
 </context>
 <context>
@@ -2450,7 +2453,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Globális beállítások felülbírálása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
@@ -3111,12 +3114,12 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="44"/>
         <source>&amp;Editors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Szerkesztők</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="50"/>
         <source>&amp;Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Szövegszerkesz&amp;tő</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="65"/>
@@ -3129,12 +3132,12 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
         <source>Used to edit component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>A komponensek JSON fájljainak szerkesztésére szolgál.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
         <source>&amp;MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="127"/>
@@ -3146,22 +3149,22 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
         <source>&amp;Profilers</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Profilozók</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>A profilozók az Indítási legördülő menüből érhetők el.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
         <source>J&amp;Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>J&amp;Profilozó</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
         <source>&amp;VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;VisualVM</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
@@ -3214,24 +3217,25 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="130"/>
         <source>VisualVM Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM futtatható fájl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
         <source>Error while checking VisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiba a VisualVM telepítésének ellenőrzése közben:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>A VisualVM beállítása rendben van</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
         <source>Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Szövegszerkesztő</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
@@ -3287,7 +3291,7 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
         <source>Tools</source>
-        <translation type="unfinished">Eszközök</translation>
+        <translation>Eszközök</translation>
     </message>
 </context>
 <context>
@@ -4974,7 +4978,7 @@ Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacs
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>VisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM elindítva</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
@@ -5198,7 +5202,7 @@ Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacs
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Telepítések</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
@@ -5450,22 +5454,22 @@ A Java verziót később a beállítások között megváltoztathatja.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
         <source>&amp;Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Felismerés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
         <source>&amp;Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Böngészés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
         <source>Test S&amp;ettings</source>
-        <translation type="unfinished"></translation>
+        <translation>B&amp;eállítások tesztelése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
         <source>Open Java &amp;Downloader</source>
-        <translation type="unfinished"></translation>
+        <translation>Java &amp;letöltő megnyitása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
@@ -5475,7 +5479,7 @@ A Java verziót később a beállítások között megváltoztathatja.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Java &amp;futtatható fájl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
@@ -5485,17 +5489,17 @@ A Java verziót később a beállítások között megváltoztathatja.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
         <source>Memory Notice</source>
-        <translation type="unfinished"></translation>
+        <translation>Memória figyelmeztetés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="204"/>
         <source>(-XX:PermSize)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-XX:PermSize)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="267"/>
         <source>(-Xmx)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xmx)</translation>
     </message>
     <message>
         <source>PermGen (Java 7 and earlier):</source>
@@ -5513,22 +5517,22 @@ A Java verziót később a beállítások között megváltoztathatja.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="302"/>
         <source>&amp;PermGen Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;PermGen mérete:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>(-Xms)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xms)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="319"/>
         <source>Ma&amp;ximum Memory Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma&amp;ximális memóriahasználat:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="329"/>
         <source>M&amp;inimum Memory Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>M&amp;inimális memóriahasználat:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
@@ -5583,12 +5587,12 @@ Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacs
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="298"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>A maximális memóriafoglalása közel van a rendszermemória kapacitásához.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation type="unfinished"></translation>
+        <translation>A maximális memóriafoglalása a minimális memóriafoglalása alatt van.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
@@ -6109,57 +6113,57 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
         <source>Instance Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Példány rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="105"/>
         <source>Instance Renaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Példány átnevezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
         <source>Ask what to do with the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Kérdezze meg, mit tegyen a mappával</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
         <source>Always rename the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Mindig nevezze át a mappát</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="129"/>
         <source>Never rename the folder—only the displayed name</source>
-        <translation type="unfinished"></translation>
+        <translation>Soha ne nevezze át a mappát - csak a megjelenített nevet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>Updater</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítő</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="174"/>
         <source>How Often?</source>
-        <translation type="unfinished"></translation>
+        <translation>Milyen gyakran?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="187"/>
         <source>Set to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>0-ra állítva csak indításkor ellenőrzi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="190"/>
         <source>On Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Indításkor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="193"/>
         <source> hours</source>
-        <translation type="unfinished"></translation>
+        <translation> óra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="196"/>
         <source>Every </source>
-        <translation type="unfinished"></translation>
+        <translation>Minden </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="277"/>
@@ -6174,32 +6178,32 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="447"/>
         <source>Log History &amp;Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Napló&amp;korlát:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="492"/>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Feladatok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="555"/>
         <source>Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Újrapróbálkozási korlát:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="562"/>
         <source>Concurrent Download Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyidejű letöltési korlát:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="572"/>
         <source>HTTP Timeout:</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP időkorlát:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="598"/>
         <source>Concurrent Task Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyidejű feladatkorlát:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="294"/>
@@ -6460,47 +6464,47 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="363"/>
         <source>Mods and Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Modok és modcsomagok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="372"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Almappák ellenőrzése a blokkolt modok után</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="382"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokkolt modok áthelyezése másolás helyett</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tárolja a modszolgáltatók (mint a Modrinth vagy a CurseForge) által a modok számára biztosított verzióinformációkat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="392"/>
         <source>Keep track of mod metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod metaadatok nyomon követése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod függőségek automatikus felismerése, telepítése és frissítése.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="412"/>
         <source>Install dependencies automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Függőségek automatikus telepítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="419"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Új modcsomag példány létrehozásakor inkább egy meglévő példány frissítését javasoljuk.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="422"/>
         <source>Suggest to update an existing instance during modpack installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Javasolja egy meglévő példány frissítését a modcsomag telepítése során</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="432"/>
@@ -6646,7 +6650,7 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="60"/>
         <source>General</source>
-        <translation type="unfinished">Általános</translation>
+        <translation>Általános</translation>
     </message>
 </context>
 <context>
@@ -8455,13 +8459,14 @@ Kérjük, hozzon létre egy új példányt, mielőtt újra megpróbálná telep�
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1212"/>
         <source>Failed to undo trashing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült visszavonni a törlést</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1213"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyes példányok és parancsikonok nem voltak visszaállíthatók.
+Kérjük, ellenőrizze a lomtárat, hogy manuálisan visszaállíthassa őket.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1333"/>
@@ -8485,8 +8490,8 @@ A metaadat gyorsítótár manuális törléséhez nyomja meg a Mappák -&gt; Lau
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1415"/>
         <source> and its %n registered shortcut(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform> és annak %n regisztrált parancsikonja</numerusform>
         </translation>
     </message>
     <message>
@@ -8495,7 +8500,10 @@ A metaadat gyorsítótár manuális törléséhez nyomja meg a Mappák -&gt; Lau
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>A(z) &quot;%1&quot; %2 példány törlésére készülsz.
+Ez végleges lehet, és teljesen törli a példányt.
+
+Biztos vagy ebben?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1427"/>
@@ -9163,7 +9171,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Amikor a játékablak bezárul, lépjen ki az launcherből</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
@@ -9292,123 +9300,124 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
         <source>When the game window opens, hide the launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Amikor a játékablak megnyílik, rejtse el az launchert</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
         <source>&amp;Window Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ablak mérete:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="189"/>
         <source>×</source>
-        <translation type="unfinished"></translation>
+        <translation>×</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="196"/>
         <source>pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>pixel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="222"/>
         <source>&amp;Console Window</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Konzol ablak</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="234"/>
         <source>When the game is launched, show the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>Amikor a játék elindul, jelenítse meg a konzol ablakot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="241"/>
         <source>When the game crashes, show the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>Amikor a játék összeomlik, mutassa meg a konzol ablakot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="248"/>
         <source>When the game quits, hide the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>Amikor a játék bezáródik, rejtse el a konzolablakot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="258"/>
         <source>&amp;Global Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Globális adatcsomagok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lehetővé teszi az adatcsomagok telepítését az összes világra, ha egy megfelelő mod telepítve van.
+Valószínűleg meg kell változtatnod az elérési utat - lásd a mod weboldalát.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
         <source>Folder Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappa elérési útja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"/>
         <source>datapacks</source>
-        <translation type="unfinished"></translation>
+        <translation>adatcsomagok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
         <source>Browse</source>
-        <translation type="unfinished">Böngészés</translation>
+        <translation>Böngészés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="368"/>
         <source>Override &amp;Default Account</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Alapértelmezett fiók felülbírálása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="413"/>
         <source>Enable Auto-&amp;join</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatikus &amp;csatlakozás engedélyezése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="435"/>
         <source>Singleplayer world:</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyjátékos világ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="475"/>
         <source>Override Mod Download &amp;Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod betöltők felülbírálása a mod letöltőben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
         <source>&amp;GLFW library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;GLFW könyvtár elérési útja:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="657"/>
         <source>&amp;OpenAL library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OpenAL könyvtár elérési útja:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="701"/>
@@ -9525,7 +9534,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="517"/>
         <source>Select Global Data Packs Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Globális adatcsomagok mappa kiválasztása</translation>
     </message>
 </context>
 <context>
@@ -11428,12 +11437,12 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="47"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mégsem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="48"/>
@@ -12218,7 +12227,7 @@ HTTP állapot: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
         <source>Use S&amp;ystem Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rendszerbeállítások használata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
@@ -12732,7 +12741,7 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumok
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>A megadott Java bináris nem működött.&lt;br /&gt;A &quot;Felismerés&quot; gombot kell megnyomnia, vagy meg kell adnia a Java futtatható fájl elérési útvonalát.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
@@ -13345,12 +13354,12 @@ Hibaüzenet: %3</translation>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
         <source>Invalid path to VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>Érvénytelen elérési út a VisualVM-hez</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Adatcsomagok</translation>
     </message>
 </context>
 <context>
@@ -13367,7 +13376,7 @@ Hibaüzenet: %3</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="180"/>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>adatcsomagok</translation>
     </message>
 </context>
 <context>
@@ -13376,13 +13385,13 @@ Hibaüzenet: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="37"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>adatcsomagok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation type="unfinished">adatcsomag</translation>
+        <translation>adatcsomag</translation>
     </message>
 </context>
 <context>
@@ -13846,7 +13855,7 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="660"/>
         <source>Override Columns Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Oszlopok láthatóságának felülbírálása</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="673"/>
@@ -14048,7 +14057,7 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="165"/>
         <source>The resource pack updater was aborted!</source>
-        <translation>A forráscsomag-frissítés meg lett szakítva!</translation>
+        <translation>A forráscsomag frissítő megszakítva!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
@@ -14079,7 +14088,7 @@ Biztosan ezt akarod csinálni?</translation>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="219"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
-        <translation>A(z) %1 forráscsomag metaadatainak eltávolításra készülsz.
+        <translation>%1 forráscsomag metaadatainak eltávolításra készülsz.
 Biztos vagy ebben?</translation>
     </message>
 </context>
@@ -14845,7 +14854,7 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="162"/>
         <source>The shader pack updater was aborted!</source>
-        <translation>A shadercsomag frissítése megszakadt!</translation>
+        <translation>A shadercsomag frissítő megszakítva!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="166"/>
@@ -14876,7 +14885,7 @@ Biztosan ezt akarod csinálni?</translation>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="216"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation>A(z) &quot;%1&quot; shadercsomag metaadatainak eltávolítására készülsz.
+        <translation>%1 shadercsomag metaadatainak eltávolítására készülsz.
 Biztos vagy ebben?</translation>
     </message>
 </context>
@@ -15682,7 +15691,7 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
         <source>The texture pack updater was aborted!</source>
-        <translation>A textúracsomag-frissítés megszakadt!</translation>
+        <translation>A textúracsomag frissítő megszakítva!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="174"/>
@@ -15713,7 +15722,7 @@ Biztosan ezt akarod csinálni?</translation>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="224"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
-        <translation>A(z) &quot;%1&quot; textúracsomag metaadatainak eltávolítására készülsz.
+        <translation>%1 textúracsomag metaadatainak eltávolítására készülsz.
 Biztos vagy ebben?</translation>
     </message>
 </context>
@@ -15781,12 +15790,12 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Megjelenés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Téma és ikonok kiválasztása</translation>
     </message>
 </context>
 <context>
@@ -16853,12 +16862,12 @@ Kanonikus elérési út: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
         <source>Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Adatcsomagok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
         <source>Manage data packs inside the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az adatcsomagok kezelése a világon belül.</translation>
     </message>
     <message>
         <source>Datapacks</source>
@@ -16966,12 +16975,12 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="224"/>
         <source>Manage Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Adatcsomagok kezelése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="231"/>
         <source>Data packs for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Adatcsomagok %1 számára</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
