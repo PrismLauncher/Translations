@@ -119,7 +119,7 @@
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>Technic客户端ID</translation>
+        <translation>Technic 客户端 ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="358"/>
@@ -898,7 +898,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
         <source>[INFO] A harmless message...</source>
-        <translation>[INFO] 一条无害的信息…</translation>
+        <translation>[INFO] 一条无害的信息...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="260"/>
@@ -4542,7 +4542,7 @@ Proceed with caution!</source>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>GLFW 图形库框架路径 (&amp;G)</translation>
+        <translation>GLFW 库路径 (&amp;G)</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
@@ -4661,7 +4661,7 @@ Proceed with caution!</source>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>&amp;1 程序库路径</translation>
+        <translation>%1 库文件路径</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
@@ -5973,7 +5973,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>Updater</source>
-        <translation>更新</translation>
+        <translation>更新程序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="174"/>
@@ -6003,7 +6003,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="277"/>
         <source>&amp;Mods:</source>
-        <translation>Mod(&amp;M)：</translation>
+        <translation>Mod (&amp;M)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="350"/>
@@ -6057,12 +6057,12 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation>按最后启动时间(&amp;B)</translation>
+        <translation>按最后启动时间 (&amp;B)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
         <source>By &amp;name</source>
-        <translation>按名称(&amp;N)</translation>
+        <translation>按名称 (&amp;N)</translation>
     </message>
     <message>
         <source>Theme</source>
@@ -6160,7 +6160,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="294"/>
         <source>&amp;Downloads:</source>
-        <translation>下载(&amp;D)：</translation>
+        <translation>下载 (&amp;D)：</translation>
     </message>
     <message>
         <source>...</source>
@@ -6197,7 +6197,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="267"/>
         <source>&amp;Skins:</source>
-        <translation>皮肤(&amp;S)：</translation>
+        <translation>皮肤 (&amp;S)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="369"/>
@@ -6267,7 +6267,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="250"/>
         <source>&amp;Java:</source>
-        <translation>Java(&amp;J):</translation>
+        <translation>Java (&amp;J):</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -6298,7 +6298,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation>用菜单栏代替工具栏(&amp;R)</translation>
+        <translation>用菜单栏代替工具栏 (&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="363"/>
@@ -6357,17 +6357,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>在游戏运行时显示控制台(&amp;R)</translation>
+        <translation>在游戏运行时显示控制台 (&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation>在游戏退出后自动关闭控制台(&amp;A)</translation>
+        <translation>在游戏退出后自动关闭控制台 (&amp;A)</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>在游戏崩溃时显示控制台(&amp;C)</translation>
+        <translation>在游戏崩溃时显示控制台 (&amp;C)</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
@@ -6388,7 +6388,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>控制台字体(&amp;F)</translation>
+        <translation>控制台字体 (&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="102"/>
@@ -6476,7 +6476,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[Test/INFO] 一条无害的信息…</translation>
+        <translation>[Test/INFO] 一条无害的信息...</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -8805,11 +8805,11 @@ This can be updated only using a file in %1 format
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>使用系统 GLFW(&amp;G)</translation>
+        <translation>使用系统 GLFW (&amp;G)</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>GLFW 图形库框架路径 (&amp;G)</translation>
+        <translation>GLFW 库路径 (&amp;G)</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
@@ -8922,7 +8922,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>&amp;1 程序库路径</translation>
+        <translation>%1 库文件路径</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
@@ -9210,7 +9210,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="511"/>
         <source>&amp;GLFW library path:</source>
-        <translation>GLFW 图形库框架路径 (&amp;G)：</translation>
+        <translation>GLFW 库路径 (&amp;G)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="537"/>
@@ -9327,7 +9327,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="182"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="189"/>
         <source>Path to %1 library file</source>
-        <translation>&amp;1 程序库路径</translation>
+        <translation>%1 库文件路径</translation>
     </message>
 </context>
 <context>
