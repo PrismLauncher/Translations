@@ -48,7 +48,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="308"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="351"/>
         <source>Use Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard benutzen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -58,32 +58,32 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>&amp;API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;API Schlüssel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>&amp;Microsoft Authentation</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Microsoft Authentifizierung</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="228"/>
         <source>Mod&amp;rinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod&amp;rinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="250"/>
         <source>Use None</source>
-        <translation type="unfinished"></translation>
+        <translation>Keinen benutzen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="286"/>
         <source>&amp;CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="341"/>
         <source>&amp;Technic</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Technic</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -821,7 +821,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="55"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Optik</translation>
     </message>
 </context>
 <context>
@@ -829,19 +829,19 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished">Ordner der Schemen für Katzen öffnen.</translation>
+        <translation>Katzenpakete-Ordner öffnen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Ordner öffnen</translation>
+        <translation>Ordner öffnen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished">Widget-Themen-Ordner öffnen.</translation>
+        <translation>Widget-Themen-Ordner öffnen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
@@ -851,17 +851,17 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Katzenpaket:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles neu laden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Design:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
@@ -871,57 +871,57 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Konsolenschrifart:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Katzen-Deckkraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
         <source>Opaque</source>
-        <translation type="unfinished"></translation>
+        <translation>Intransparent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Transparent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="332"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorschau</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="255"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[FEHLER] Uuuhuuuuh! Ein gespenstischer Fehler ist passiert!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="257"/>
         <source>[ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[FEHLER] Ein gespenstischer Fehler ist passiert!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
         <source>[INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[INFO] Eine harmlose Nachricht...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="260"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[WARN] Eine nicht so schaurige Warnung.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[DEBUG] Eine geheime Debugging-Nachricht...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="262"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>FATAL] Ein fataler Fehler!</translation>
     </message>
 </context>
 <context>
@@ -1615,18 +1615,19 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
         <source>Task failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabe fehlgeschlagen</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
         <source>Multiple subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehrere Unteraufgaben fehlgeschlagen</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehrere Unteraufgaben fehlgeschlagen
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
@@ -1925,12 +1926,12 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinweis: Wenn eine Verknüpfung nach der Erstellung verschoben wird, wird sie beim Löschen der Instanz nicht gelöscht.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du musst sie manuell löschen, wenn das der Fall ist.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"/>
@@ -2008,22 +2009,22 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Globale Einstellungen überschreiben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Befehl vor dem Start</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>P&amp;ost-exit Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Befehl nach Beendigung</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
         <source>&amp;Wrapper Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wrapper-Befehl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
@@ -2203,7 +2204,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Die Datenpaket-Format-ID sowie die Minencraft-Versionen, für die es entwickelt wurde.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="109"/>
@@ -13505,24 +13506,24 @@ Möchtest du fortfahren?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Antwort des pasteGG-Servers konnte nicht verarbeitet werden: Erwartet wurde JSON, aber es kam eine ungültige Antwort. Fehler: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">Fehler: %1 hat einen Fehlercode gemeldet: %2
+        <translation>Fehler: %1 hat einen Fehlercode gesendet: %2
 Fehlermeldung: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
         <source>Invalid path to VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiger path zu VisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenpakete</translation>
     </message>
 </context>
 <context>
@@ -13539,7 +13540,7 @@ Fehlermeldung: %3</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="180"/>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Datenpaket</translation>
     </message>
 </context>
 <context>
@@ -13548,7 +13549,7 @@ Fehlermeldung: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="37"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Datenpakete</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
@@ -13598,7 +13599,7 @@ Fehlermeldung: %3</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="70"/>
         <source>Review and confirm</source>
-        <translation>Überprüfen und bestätigen</translation>
+        <translation>Prüfen &amp; bestätigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="71"/>
