@@ -50,32 +50,32 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>&amp;API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>API 키(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>&amp;Microsoft Authentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft 인증(&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="228"/>
         <source>Mod&amp;rinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="250"/>
         <source>Use None</source>
-        <translation type="unfinished"></translation>
+        <translation>사용 안 함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="286"/>
         <source>&amp;CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="341"/>
         <source>&amp;Technic</source>
-        <translation type="unfinished"></translation>
+        <translation>Technic(&amp;T)</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -559,7 +559,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
         <source>User name of the account.</source>
-        <translation>계정의 사용자명.</translation>
+        <translation>계정의 사용자명입니다.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -805,7 +805,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="55"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>모양</translation>
     </message>
 </context>
 <context>
@@ -813,99 +813,99 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished">고양이 팩 폴더를 봅니다.</translation>
+        <translation>고양이 팩 폴더를 봅니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation type="unfinished">폴더 보기</translation>
+        <translation>폴더 열기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished">위젯 테마 폴더를 봅니다.</translation>
+        <translation>위젯 테마 폴더를 봅니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished">아이콘 테마 폴더를 봅니다.</translation>
+        <translation>아이콘 테마 폴더를 봅니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>고양이 팩(&amp;C):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation type="unfinished"></translation>
+        <translation>모두 새로고침</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>테마:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished">아이콘(&amp;I):</translation>
+        <translation>아이콘(&amp;I):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>콘솔 글꼴:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>고양이 불투명도</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
         <source>Opaque</source>
-        <translation type="unfinished"></translation>
+        <translation>불투명함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>투명함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="332"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>미리 보기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="255"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ERROR] 우우우! 으스스한 오류입니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="257"/>
         <source>[ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ERROR] 으스스한 오류입니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
         <source>[INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[INFO] 무해한 메시지입니다...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="260"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[WARN] 그다지 으스스하지는 않은 경고입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[DEBUG] 비밀 디버깅 메시지입니다...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="262"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[FATAL] 끔찍하기 짝이 없는 치명적인 오류입니다!</translation>
     </message>
 </context>
 <context>
@@ -1906,12 +1906,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>참고: 바로 가기를 만든 뒤 이동한 경우, 인스턴스를 삭제할 때 삭제되지 않습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation type="unfinished"></translation>
+        <translation>이런 경우 수동으로 삭제하여야 합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"/>
@@ -1989,22 +1989,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>전역 설정 덮어쓰기(&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation type="unfinished"></translation>
+        <translation>실행 전 명령어(&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>P&amp;ost-exit Command</source>
-        <translation type="unfinished"></translation>
+        <translation>종료 후 명령어(&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
         <source>&amp;Wrapper Command</source>
-        <translation type="unfinished"></translation>
+        <translation>래퍼 명령어(&amp;W)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
@@ -2152,67 +2152,70 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Enable</source>
-        <translation type="unfinished">활성화</translation>
+        <translation>활성화</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Image</source>
-        <translation type="unfinished">이미지</translation>
+        <translation>이미지</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Name</source>
-        <translation type="unfinished">이름</translation>
+        <translation>이름</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Pack Format</source>
-        <translation type="unfinished">팩 형식</translation>
+        <translation>팩 형식</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
-        <translation type="unfinished">최근 수정일</translation>
+        <translation>최근 수정일</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="78"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">인식 불가</translation>
+        <translation>인식 불가</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="104"/>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>데이터 팩 형식 ID와 해당 데이터 팩이 설계된 마인크래프트 버전입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="109"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+경고: 이 리소스는 다른 곳에서 심볼릭 링크되어 있습니다. 편집하면 원본도 변경됩니다.
+표준 경로: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="116"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+경고: 이 리소스는 다른 곳에 하드 링크되어 있습니다. 이 리소스를 편집하면 원본도 변경됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>데이터 팩의 활성화 여부입니다(ZIP에만 유효).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
         <source>The name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>데이터 팩의 이름입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="161"/>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>데이터 팩이 마지막으로 수정(또는 추가)된 날짜와 시간입니다.</translation>
     </message>
 </context>
 <context>
@@ -2220,27 +2223,27 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation type="unfinished">팩 다운로드</translation>
+        <translation>팩 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>온라인 모드 플랫폼에서 데이터 팩 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>선택한 모든 데이터 팩(선택한 항목이 없는 경우 모든 데이터 팩)의 업데이트를 확인하거나 설치</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>데이터 팩의 버전을 변경합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
         <source>Download Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>데이터 팩 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"/>
@@ -2249,7 +2252,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="242"/>
         <source>Error</source>
-        <translation type="unfinished">오류</translation>
+        <translation>오류</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
@@ -2257,82 +2260,85 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>중단됨</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">사용자가 다운로드를 중지했습니다.</translation>
+        <translation>사용자가 다운로드를 중지하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="94"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="179"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="252"/>
         <source>Warnings</source>
-        <translation type="unfinished">경고</translation>
+        <translation>경고</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="108"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="189"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="262"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>중단</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>메타데이터가 비활성화되어 있으면 데이터 팩 업데이트를 사용할 수 없습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="129"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">업데이트 확인</translation>
+        <translation>업데이트 확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="130"/>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>게임이 실행 중인 상태에서 데이터 팩을 업데이트하면 팩 중복 및 게임 충돌이 발생할 수 있습니다.
+이전 파일은 사용 중이므로 삭제되지 않을 수 있습니다.
+정말로 이 작업을 수행하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"/>
         <source>The data pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>데이터 팩 업데이터가 중단되었습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos;이(가) 최신 상태입니다! :)</translation>
+        <translation>&apos;%1&apos;이(가) 최신 상태입니다! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 데이터 팩이 최신 상태입니다! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>선택한 모든 데이터 팩이 최신 상태입니다! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
         <source>Update checker</source>
-        <translation type="unfinished">업데이트 검사기</translation>
+        <translation>업데이트 검사기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">제거 확인</translation>
+        <translation>제거 확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="204"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>데이터 팩 %1의 메타데이터를 제거하려고 합니다.
+제거하시겠습니까?</translation>
     </message>
 </context>
 <context>
@@ -2451,7 +2457,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>전역 설정 덮어쓰기(&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
@@ -2708,7 +2714,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="192"/>
         <source>The task has been aborted by the user.</source>
-        <translation>사용자가 작업을 중단했습니다.</translation>
+        <translation>사용자가 작업을 중단하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="198"/>
@@ -2994,7 +3000,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation>새 리소스를 다운로드</translation>
+        <translation>새 리소스 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -3004,7 +3010,7 @@ Are you sure?</source>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>선택한 모든 리소스를 확인하거나 업데이트합니다(선택되지 않은 경우 모든 리소스)</translation>
+        <translation>선택한 모든 리소스(선택한 항목이 없는 경우 모든 리소스)의 업데이트를 확인하거나 설치</translation>
     </message>
     <message>
         <source>Export modlist</source>
@@ -3112,12 +3118,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="44"/>
         <source>&amp;Editors</source>
-        <translation type="unfinished"></translation>
+        <translation>편집기(&amp;E)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="50"/>
         <source>&amp;Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 편집기(&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="65"/>
@@ -3130,12 +3136,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
         <source>Used to edit component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>컴포넌트 JSON 파일을 편집하는 데 사용됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
         <source>&amp;MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit(&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="127"/>
@@ -3147,22 +3153,22 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
         <source>&amp;Profilers</source>
-        <translation type="unfinished"></translation>
+        <translation>프로파일러(&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>프로파일러는 시작 드롭다운 메뉴를 통하여 액세스할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
         <source>J&amp;Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>JProfiler(&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
         <source>&amp;VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM(&amp;V)</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
@@ -3210,29 +3216,30 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation>JProfiler 설치가 정상인 것으로 보임</translation>
+        <translation>JProfiler 설치가 정상으로 보임</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="130"/>
         <source>VisualVM Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM 실행 파일</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
         <source>Error while checking VisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM 설치 확인 중 오류 발생:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM 설치가 정상으로 보임</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
         <source>Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 편집기</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
@@ -3246,7 +3253,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>JVisualVM 설치가 정상인 것으로 보임</translation>
+        <translation>JVisualVM 설치가 정상으로 보임</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3269,7 +3276,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation>MCEdit 설치가 정상인 것으로 보임</translation>
+        <translation>MCEdit 설치가 정상으로 보임</translation>
     </message>
     <message>
         <source>JSON Editor</source>
@@ -3288,7 +3295,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
         <source>Tools</source>
-        <translation type="unfinished">도구</translation>
+        <translation>도구</translation>
     </message>
 </context>
 <context>
@@ -3304,12 +3311,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation>FML 라이브러리 확인 중...</translation>
+        <translation>FML 라이브러리를 확인하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation>FML 라이브러리들을 다운로드하고 있습니다...</translation>
+        <translation>FML 라이브러리를 다운로드하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
@@ -3319,7 +3326,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>인스턴스에 FML 라이브러리들을 복사하고 있습니다...</translation>
+        <translation>FML 라이브러리를 인스턴스에 복사하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
@@ -3329,7 +3336,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Forge/FML 라이브러리 복사 실패: %1.</translation>
+        <translation>Forge/FML 라이브러리를 복사하지 못함: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="114"/>
@@ -4591,7 +4598,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>메모리 최소 할당량:</translation>
+        <translation>최소 메모리 할당량:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
@@ -4607,7 +4614,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>메모리 최대 할당량:</translation>
+        <translation>최대 메모리 할당량:</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -4854,7 +4861,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>최대 메모리 할당량이 최솟값보다 작음</translation>
+        <translation>최대 메모리 할당량이 최소 할당량보다 작음</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -4862,11 +4869,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>최대 메모리 할당량이 시스템의 메모리 수용량을 초과합니다.</translation>
+        <translation>최대 메모리 할당량이 시스템 메모리 용량을 초과합니다.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>최대 메모리 할당량이 시스템의 메모리 수용량에 근접합니다.</translation>
+        <translation>최대 메모리 할당량이 시스템 메모리 용량에 근접합니다.</translation>
     </message>
 </context>
 <context>
@@ -4976,7 +4983,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>VisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM 시작됨</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
@@ -5141,12 +5148,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>메모리 최소 할당량(&amp;M):</translation>
+        <translation>최소 메모리 할당량(&amp;M):</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>메모리 최대 할당량(&amp;X):</translation>
+        <translation>최대 메모리 할당량(&amp;X):</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
@@ -5200,7 +5207,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>설치</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
@@ -5292,11 +5299,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>최대 메모리 할당량이 시스템의 메모리 수용량을 초과합니다.</translation>
+        <translation>최대 메모리 할당량이 시스템 메모리 용량을 초과합니다.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>최대 메모리 할당량이 시스템의 메모리 수용량에 근접합니다.</translation>
+        <translation>최대 메모리 할당량이 시스템 메모리 용량에 근접합니다.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
@@ -5399,7 +5406,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>메모리 최소 할당량:</translation>
+        <translation>최소 메모리 할당량:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5452,22 +5459,22 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
         <source>&amp;Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>감지(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
         <source>&amp;Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>찾아보기(&amp;B)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
         <source>Test S&amp;ettings</source>
-        <translation type="unfinished"></translation>
+        <translation>테스트 설정(&amp;E)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
         <source>Open Java &amp;Downloader</source>
-        <translation type="unfinished"></translation>
+        <translation>Java 다운로더 열기(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
@@ -5477,7 +5484,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Java 실행 파일(&amp;E)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
@@ -5487,17 +5494,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
         <source>Memory Notice</source>
-        <translation type="unfinished"></translation>
+        <translation>메모리 알림</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="204"/>
         <source>(-XX:PermSize)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-XX:PermSize)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="267"/>
         <source>(-Xmx)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xmx)</translation>
     </message>
     <message>
         <source>PermGen (Java 7 and earlier):</source>
@@ -5505,7 +5512,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>메모리 최대 할당량:</translation>
+        <translation>최대 메모리 할당량:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="280"/>
@@ -5515,22 +5522,22 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="302"/>
         <source>&amp;PermGen Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>PermGen 크기(&amp;P):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>(-Xms)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xms)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="319"/>
         <source>Ma&amp;ximum Memory Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>최대 메모리 사용량(&amp;X):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="329"/>
         <source>M&amp;inimum Memory Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>최소 메모리 사용량(&amp;I):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
@@ -5580,21 +5587,21 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="295"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>최대 메모리 할당량이 시스템의 메모리 수용량을 초과합니다.</translation>
+        <translation>최대 메모리 할당량이 시스템 메모리 용량을 초과합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="298"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>최대 메모리 할당량이 시스템 메모리 용량에 근접합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation type="unfinished"></translation>
+        <translation>최대 메모리 할당량이 최소 메모리 할당량보다 낮습니다.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>최대 메모리 할당량이 시스템의 메모리 수용량에 근접합니다.</translation>
+        <translation>최대 메모리 할당량이 시스템 메모리 용량에 근접합니다.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
@@ -5692,12 +5699,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>Minimum memory allocation:</source>
-        <translation>메모리 최소 할당량:</translation>
+        <translation>최소 메모리 할당량:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>Maximum memory allocation:</source>
-        <translation>메모리 최대 할당량:</translation>
+        <translation>최대 메모리 할당량:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
@@ -6109,7 +6116,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
         <source>Instance Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="105"/>
@@ -6617,7 +6624,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[Test/INFO] 고양이는 귀엽습니다.</translation>
+        <translation>[Test/INFO] 무해한 메시지입니다...</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -8685,7 +8692,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>The task has been aborted by the user.</source>
-        <translation>사용자가 작업을 중단했습니다.</translation>
+        <translation>사용자가 작업을 중단하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="208"/>
@@ -9357,7 +9364,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>찾아보기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="368"/>
@@ -9382,7 +9389,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
@@ -9939,7 +9946,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation>선택한 모든 모드(선택한 항목이 없는 경우 모든 모드)의 업데이트를 확인하거나 설치하기</translation>
+        <translation>선택한 모든 모드(선택한 항목이 없는 경우 모든 모드)의 업데이트를 확인하거나 설치</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
@@ -10020,7 +10027,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="166"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="255"/>
         <source>Download stopped by user.</source>
-        <translation>사용자가 다운로드를 중지했습니다.</translation>
+        <translation>사용자가 다운로드를 중지하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
@@ -10065,7 +10072,7 @@ Are you sure you want to do this?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation>선택한 모드가 최신 상태입니다! :)</translation>
+        <translation>선택한 모든 모드가 최신 상태입니다! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
@@ -11895,7 +11902,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="917"/>
         <source>The update attempt was aborted</source>
-        <translation>업데이트 시도가 중단되었습니다</translation>
+        <translation>업데이트 시도 중단됨</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="925"/>
@@ -13810,7 +13817,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="561"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>리소스가 활성화되었습니까?</translation>
+        <translation>리소스의 활성화 여부입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="563"/>
@@ -13822,7 +13829,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="565"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>리소스가 최근 수정(혹은 추가)된 날짜와 시간입니다.</translation>
+        <translation>리소스가 마지막으로 수정(또는 추가)된 날짜와 시간입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="567"/>
@@ -13850,7 +13857,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="159"/>
         <source>Is the resource pack enabled?</source>
-        <translation>리소스 팩이 활성화되어 있습니까?</translation>
+        <translation>리소스 팩의 활성화 여부입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
@@ -13887,7 +13894,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>리소스 팩의 형식 ID, 디자인된 마인크래프트 버전입니다.</translation>
+        <translation>리소스 팩 형식 ID와 해당 리소스 팩이 설계된 마인크래프트 버전입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
@@ -13931,7 +13938,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>리소스 팩이 활성화되어 있습니까? (ZIP만 유효)</translation>
+        <translation>리소스 팩의 활성화 여부입니다(ZIP에만 유효).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="161"/>
@@ -13976,7 +13983,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
-        <translation>선택한 모든 리소스 팩(선택한 항목이 없는 경우 모든 리소스 팩)의 업데이트를 확인하거나 설치하기</translation>
+        <translation>선택한 모든 리소스 팩(선택한 항목이 없는 경우 모든 리소스 팩)의 업데이트를 확인하거나 설치</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
@@ -14002,7 +14009,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="188"/>
         <source>Download stopped by user.</source>
-        <translation>사용자가 다운로드를 중지했습니다.</translation>
+        <translation>사용자가 다운로드를 중지하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="109"/>
@@ -14468,7 +14475,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="446"/>
         <source>The task has been aborted by the user.</source>
-        <translation>사용자가 작업을 중단했습니다.</translation>
+        <translation>사용자가 작업을 중단하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="419"/>
@@ -14773,7 +14780,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
-        <translation>선택한 모든 셰이더 팩(선택한 항목이 없는 경우 모든 셰이더 팩)의 업데이트를 확인하거나 설치하기</translation>
+        <translation>선택한 모든 셰이더 팩(선택한 항목이 없는 경우 모든 셰이더 팩)의 업데이트를 확인하거나 설치</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
@@ -14799,7 +14806,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Download stopped by user.</source>
-        <translation>사용자가 다운로드를 중지했습니다.</translation>
+        <translation>사용자가 다운로드를 중지하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="106"/>
@@ -15285,7 +15292,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation>작업 중단됨.</translation>
+        <translation>작업이 중단되었습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="44"/>
@@ -15491,13 +15498,13 @@ inheritsFrom 누락됨</translation>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>Is the texture pack enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>텍스처 팩이 활성화되어 있습니까?</translation>
+        <translation>텍스처 팩의 활성화 여부입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The name of the texture pack.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>텍스처 팩 이름.</translation>
+        <translation>텍스처 팩의 이름입니다.</translation>
     </message>
     <message>
         <source>The version of the texture pack.</source>
@@ -15609,7 +15616,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="59"/>
         <source>Try to check or update all selected texture packs (all texture packs if none are selected)</source>
-        <translation>선택한 모든 텍스처 팩(선택한 항목이 없는 경우 모든 텍스처 팩)의 업데이트를 확인하거나 설치하기</translation>
+        <translation>선택한 모든 텍스처 팩(선택한 항목이 없는 경우 모든 텍스처 팩)의 업데이트를 확인하거나 설치</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="73"/>
@@ -15640,7 +15647,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="193"/>
         <source>Download stopped by user.</source>
-        <translation>사용자가 다운로드를 중지했습니다.</translation>
+        <translation>사용자가 다운로드를 중지하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="114"/>
@@ -16598,7 +16605,7 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
         <source>The name of the version.</source>
-        <translation>버전의 이름입니다.</translation>
+        <translation>버전 이름입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
