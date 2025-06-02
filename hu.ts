@@ -1448,17 +1448,17 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
         <source>Skip</source>
-        <translation type="unfinished">Átugrás</translation>
+        <translation>Átugrás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A beállított globális modok mappája és az alapértelmezett letöltési mappa automatikusan ellenőrzésre kerül a letöltött modok után, és ha megtalálhatóak, azok bemásolásra kerülnek az adott példányba.&lt;/p&gt;&lt;p&gt;Opcionálisan áthúzhatod a letöltött modokat erre az ablakra, vagy megadhatsz egy figyelt mappát, ha nem az alapértelmezett helyre töltötted le őket.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Kattints a „Hiányzók megnyitása” gombra, hogy az összes letöltési hivatkozás megnyíljon a böngészőben.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
         <source>Blocked Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokkolt modok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
@@ -1468,7 +1468,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
         <source>Watched Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Megfigyelt mappák</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
@@ -3178,7 +3178,7 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
         <source>J&amp;Profiler</source>
-        <translation>J&amp;Profilozó</translation>
+        <translation>J&amp;Profiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
@@ -8588,7 +8588,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1656"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>A példánymappája a „Rar$” elemet tartalmazza – ez azt jelenti, hogy nem bontotta ki az indítóarchívumot!</translation>
+        <translation>A példány mappádban &quot;Rar$&quot; szerepel - ez azt jelenti, hogy nem csomagoltad ki az launcher archívumot!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1662"/>
@@ -9190,7 +9190,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
-        <translation>Amikor a játékablak bezárul, lépjen ki az launcherből</translation>
+        <translation>Játékablak bezárásakor lépjen ki az launcherből</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
@@ -9319,7 +9319,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
         <source>When the game window opens, hide the launcher</source>
-        <translation>Amikor a játékablak megnyílik, rejtse el az launchert</translation>
+        <translation>Játékablak megnyitásakor rejtse el az launchert</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
@@ -9344,17 +9344,17 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="234"/>
         <source>When the game is launched, show the console window</source>
-        <translation>Amikor a játék elindul, jelenítse meg a konzol ablakot</translation>
+        <translation>Játék indításakor jelenjen meg a konzol ablak</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="241"/>
         <source>When the game crashes, show the console window</source>
-        <translation>Amikor a játék összeomlik, mutassa meg a konzol ablakot</translation>
+        <translation>Játék összeomlásakor a konzol ablak megjelenítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="248"/>
         <source>When the game quits, hide the console window</source>
-        <translation>Amikor a játék bezáródik, rejtse el a konzolablakot</translation>
+        <translation>Játék bezárásakor rejtse el a konzol ablakot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="258"/>
@@ -9376,7 +9376,7 @@ Valószínűleg meg kell változtatnod az elérési utat - lásd a mod weboldal�
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"/>
         <source>datapacks</source>
-        <translation>adatcsomagok</translation>
+        <translation>datapacks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
@@ -12068,7 +12068,7 @@ Ha szeretné felülírni ezt a zárolást, és mindenképpen folytatni szeretné
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1134"/>
         <source>Child launcher process failed.</source>
-        <translation>A gyermekindító folyamat meghiúsult.</translation>
+        <translation>A gyermek launcher folyamat meghiúsult.</translation>
     </message>
 </context>
 <context>
@@ -14680,7 +14680,7 @@ Jelenleg telepített verzió: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"/>
         <source>Ask to download</source>
-        <translation>Kérdezd meg a letöltést</translation>
+        <translation>Kérdezze meg a letöltést</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="114"/>
@@ -14690,7 +14690,7 @@ Jelenleg telepített verzió: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="119"/>
         <source>Never download</source>
-        <translation>Soha ne töltsön le</translation>
+        <translation>Soha ne töltse le</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="130"/>
@@ -14710,12 +14710,12 @@ Jelenleg telepített verzió: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="167"/>
         <source>Move Up</source>
-        <translation>Mozgatás fel</translation>
+        <translation>Feljebb mozgatás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="172"/>
         <source>Move Down</source>
-        <translation>Mozgatás le</translation>
+        <translation>Lejjebb mozgatás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="177"/>
@@ -16239,7 +16239,7 @@ Kérjük, váltson a következő Java verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
         <source>Move Up</source>
-        <translation>Mozgatás fel</translation>
+        <translation>Feljebb mozgatás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
@@ -16249,7 +16249,7 @@ Kérjük, váltson a következő Java verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
         <source>Move Down</source>
-        <translation>Mozgatás le</translation>
+        <translation>Lejjebb mozgatás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
