@@ -1245,17 +1245,17 @@ Some versions of Minecraft may not launch.
 <context>
     <name>BlockedModsDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="173"/>
         <source>All mods found</source>
         <translation>सभी मॉड्स मिल गए</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
         <source>Please download the missing mods.</source>
         <translation>कृपया अनुपस्थित मॉड्स को डाउनलोड करें।</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; %1 पर पाया गया &lt;/span&gt;</translation>
     </message>
@@ -1266,41 +1266,60 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="175"/>
         <source>OK</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
+        <source>Skip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
+        <source>Blocked Mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
         <translation>लापता को खोलें</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="59"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
+        <source>Watched Folders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
         <source>Add Download Folder</source>
         <translation>डाउनलोड फ़ोल्डर जोड़ें</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
         <source>Select directory where you downloaded the mods</source>
         <translation>मॉड्स को डाउनलोड किए गए फ़ोल्डर का चयन करें</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; नहीं मिला &lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="162"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="159"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
         <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;हैश: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;आपके कॉन्फ़िगर किए गए ग्लोबल मॉड्स फ़ोल्डर और डिफ़ॉल्ट डाउनलोड्स फ़ोल्डर स्वचालित रूप से डाउनलोड किए गए मॉड्स के लिए जाँच की जाएगी और अगर पाया जाता है तो वे इंस्टेंस में कॉपी किए जाएंगे।&lt;/p&gt;&lt;p&gt;वैकल्पिक रूप से, आप इस डायलॉग पर डाउनलोड किए गए मॉड्स को ड्रैग और ड्रॉप कर सकते हैं या यदि आपने मॉड्स को एक डिफ़ॉल्ट स्थान पर नहीं डाउनलोड किया है तो एक फ़ोल्डर जोड़ सकते हैं।&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
         <translation>निगरानी किए गए फ़ोल्डर:</translation>
     </message>

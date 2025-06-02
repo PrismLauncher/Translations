@@ -1432,17 +1432,17 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
         <translation type="vanished">Hepsini Aç</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="173"/>
         <source>All mods found</source>
         <translation>Tüm modlar bulundu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
         <source>Please download the missing mods.</source>
         <translation>Lütfen eksik modları indirin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; %1&apos;de bulundu&lt;/span&gt;</translation>
     </message>
@@ -1453,16 +1453,37 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="175"/>
         <source>OK</source>
         <translation>Tamam</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
+        <source>Skip</source>
+        <translation type="unfinished">Atla</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
+        <source>Blocked Mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
         <translation>Eksiği Aç</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="59"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
+        <source>Watched Folders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
         <source>Add Download Folder</source>
         <translation>İndirilenler Klasörü Ekle</translation>
     </message>
@@ -1471,17 +1492,17 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
         <translation type="vanished">Yapılandırılmış global modlar klasörü ve varsayılan indirilenler klasörü için otomatik kontrol edilir ve eğer bulunursa, profile kopyalanacaktır.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
         <source>Select directory where you downloaded the mods</source>
         <translation>Modları indirdiğiniz yerin dizinini seçin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Bulunmadı &lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="162"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="159"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
         <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
@@ -1490,12 +1511,10 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
         <translation type="vanished">Tüm modlar bulundu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Yapılandırılmış genel mod klasörünüz ve varsayılan indirmeler klasörünüz otomatik olarak indirilen modlar için kontrol edilir ve bulunan profile kopyalanır.&lt;/p&gt;&lt;p&gt;İsteğe bağlı olarak, indirilen modları bu iletişim kutusuna sürükleyip bırakabilir veya modları varsayılan bir konuma indirmediyseniz gözlemlemek için bir klasör ekleyebilirsiniz.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
         <translation>İzlenen Klasörler:</translation>
     </message>
@@ -15813,7 +15832,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dış Görünüş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>

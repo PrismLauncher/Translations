@@ -1296,17 +1296,17 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
 <context>
     <name>BlockedModsDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="173"/>
         <source>All mods found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
         <source>Please download the missing mods.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1317,41 +1317,60 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="175"/>
         <source>OK</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
+        <source>Skip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
+        <source>Blocked Mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="59"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
+        <source>Watched Folders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
         <source>Add Download Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
         <source>Select directory where you downloaded the mods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="162"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="159"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
         <translation type="unfinished"></translation>
     </message>

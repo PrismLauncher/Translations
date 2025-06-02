@@ -1412,17 +1412,17 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <translation type="obsolete">Buka Semua</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="173"/>
         <source>All mods found</source>
         <translation>Semua mod yang ditemukan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
         <source>Please download the missing mods.</source>
         <translation>Mohon mengunduh mod yang hilang.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Ditemukan di %1 &lt;/span&gt;</translation>
     </message>
@@ -1433,41 +1433,60 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="175"/>
         <source>OK</source>
         <translation>OKE</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
+        <source>Skip</source>
+        <translation type="unfinished">Lewati</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
+        <source>Blocked Mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
         <translation>Buka yang hilang</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="59"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
+        <source>Watched Folders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
         <source>Add Download Folder</source>
         <translation>Tambahkan Folder Unduhan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
         <source>Select directory where you downloaded the mods</source>
         <translation>Pilih direktori dengan mod yang telah Anda unduh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Tidak ditemukan &lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="162"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="159"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
         <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folder mod global terkonfigurasi dan folder unduhan baku Anda diperiksa secara otomatis untuk mod yang diunduh dan akan disalin ke instansi jika ditemukan&lt;/p&gt;&lt;p&gt;Secara optional, Anda bisa menyeret dan melepas mod yang telah diunduh ke dialog ini atau menambahkan folder untuk melihat jika Anda tidak mengunduh mod tersebut di lokasi baku.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
         <translation>Folder yang dilihat:</translation>
     </message>

@@ -1444,17 +1444,17 @@ Manche Versionen von Minecraft starten vielleicht nicht.
         <translation type="vanished">Alle öffnen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="173"/>
         <source>All mods found</source>
         <translation>Alle Mods gefunden</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
         <source>Please download the missing mods.</source>
         <translation>Bitte die fehlenden Mods herunterladen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Gefunden bei %1 &lt;/span&gt;</translation>
     </message>
@@ -1465,16 +1465,37 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="175"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
+        <source>Skip</source>
+        <translation type="unfinished">Überspringen</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
+        <source>Blocked Mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
         <translation>Öffne Fehlende</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="59"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
+        <source>Watched Folders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
         <source>Add Download Folder</source>
         <translation>Download-Ordner hinzufügen</translation>
     </message>
@@ -1483,17 +1504,17 @@ Manche Versionen von Minecraft starten vielleicht nicht.
         <translation type="vanished">Dein konfigurierter globaler Mods-Ordner und der Standard-Download-Ordner werden automatisch auf die heruntergeladenen Mods überprüft, welche, falls gefunden, in die Instanz kopiert werden.&lt;br/&gt;Optional kannst Du die heruntergeladenen Mods per Drag &amp; Drop in dieses Fenster ziehen oder einen zu überwachenden Ordner hinzufügen, wenn Du die Mods nicht in die Standardordner heruntergeladen hast.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
         <source>Select directory where you downloaded the mods</source>
         <translation>Wähle das Verzeichnis, in das die Mods heruntergeladen wurden</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Nicht Gefunden &lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="162"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="159"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
         <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Prüfsumme: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
@@ -1502,12 +1523,10 @@ Manche Versionen von Minecraft starten vielleicht nicht.
         <translation type="vanished">Alle Mods gefunden ✔</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dein konfigurierter globaler Mods-Ordner und der Standard-Download-Ordner werden automatisch auf die heruntergeladenen Mods überprüft, und, falls gefunden, in die Instanz kopiert.&lt;/p&gt;&lt;p&gt;Optional kannst du die heruntergeladenen Mods per Drag-n-Drop in dieses Dialogfeld ziehen oder einen zu überwachenden Ordner hinzufügen, wenn du die Mods nicht in einen Standardspeicherort heruntergeladen hast.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
         <translation>Beobachtete Ordner:</translation>
     </message>
@@ -2473,7 +2492,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Globale Einstellungen überschreiben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
@@ -15958,7 +15977,7 @@ Bist Sie sicher?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Optik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
