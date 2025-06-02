@@ -6464,7 +6464,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[Test/DEBUG] 这是一个隐藏的调试信息...</translation>
+        <translation>[Test/DEBUG] 一条隐藏的调试信息...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
@@ -13170,7 +13170,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
         <source>Invalid path to VisualVM</source>
-        <translation>无效的 VisualVM 路径</translation>
+        <translation>VisualVM 路径无效</translation>
     </message>
 </context>
 <context>
@@ -16117,7 +16117,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="243"/>
         <source>Import existing component JSON files.</source>
-        <translation>导入现有的组件的 JSON 文件。</translation>
+        <translation>导入现有的组件 JSON 文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="189"/>
