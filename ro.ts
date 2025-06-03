@@ -12413,13 +12413,13 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">Eroare: %1 a returnat un cod de eroare: %2
+        <translation>Eroare: %1 a returnat un cod de eroare: %2
 Mesaj de eroare: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
         <source>Invalid path to VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>Cale invalidă către VisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
@@ -12432,7 +12432,7 @@ Mesaj de eroare: %3</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="95"/>
         <source>Unknown</source>
-        <translation type="unfinished">Necunoscut</translation>
+        <translation>Necunoscut</translation>
     </message>
 </context>
 <context>
@@ -12465,11 +12465,11 @@ Mesaj de eroare: %3</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="107"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>Moduri</translation>
+        <translation>moduri</translation>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="unfinished">Schimbă %1 versiune</translation>
+        <translation>Schimbă versiune %1</translation>
     </message>
 </context>
 <context>
@@ -12478,7 +12478,7 @@ Mesaj de eroare: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="46"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation>Moduri</translation>
+        <translation>moduri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
@@ -12510,18 +12510,19 @@ Mesaj de eroare: %3</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="96"/>
         <source>Confirmation Needed</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmare necesară</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="97"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ai %1 resurse selectate.
+Sigur dorești să închizi acest dialog?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="131"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation>Deschide un meniu popup nou pentru a revizui %1 selectate de tine și confirmarea selecției tale. Scurtătură: Ctrl+Return</translation>
+        <translation>Deschide un meniu popup nou pentru a-ți revizui %1 selectate și a-ți confirma selecția. Scurtătură: Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="143"/>
