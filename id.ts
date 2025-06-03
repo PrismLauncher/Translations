@@ -1440,7 +1440,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
         <source>Skip</source>
-        <translation type="unfinished">Lewati</translation>
+        <translation>Lewati</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
