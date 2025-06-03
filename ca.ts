@@ -4173,12 +4173,10 @@ Per favor, intenta de nou la descàrrega.</translation>
 <context>
     <name>InstanceCardWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="27"/>
         <source>&amp;Name:</source>
         <translation>&amp;Nom:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="40"/>
         <source>&amp;Group:</source>
         <translation>&amp;Grup:</translation>
     </message>

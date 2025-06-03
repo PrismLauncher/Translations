@@ -4082,12 +4082,10 @@ Please try again.</source>
 <context>
     <name>InstanceCardWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="27"/>
         <source>&amp;Name:</source>
         <translation>名前 (&amp;N):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="40"/>
         <source>&amp;Group:</source>
         <translation>組 (&amp;G):</translation>
     </message>
