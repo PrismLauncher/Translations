@@ -64,7 +64,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="228"/>
         <source>Mod&amp;rinth</source>
-        <translation type="unfinished">Mod&amp;rinth</translation>
+        <translation>Mod&amp;rinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="250"/>
@@ -74,12 +74,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="286"/>
         <source>&amp;CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="341"/>
         <source>&amp;Technic</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Technic</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -817,7 +817,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="55"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Apparence</translation>
     </message>
 </context>
 <context>
@@ -825,14 +825,14 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished">Voir le dossier des thèmes pour le chat.</translation>
+        <translation type="unfinished">Voir le dossier des texture du chat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Ouvrir le dossier</translation>
+        <translation>Ouvrir le dossier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
@@ -842,7 +842,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished">Voir le dossier des thèmes d&apos;icônes.</translation>
+        <translation>Voir le dossier des thèmes d&apos;icônes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
@@ -852,37 +852,37 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tout recharger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Thème&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished">&amp;Icônes&#xa0;:</translation>
+        <translation>&amp;Icônes&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Police de la console&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacité du Chat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
         <source>Opaque</source>
-        <translation type="unfinished"></translation>
+        <translation>Opaque</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Transparent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="332"/>
@@ -892,22 +892,22 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="255"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ERREUR] OOoooOOOoooo&#x202f;! Une erreur effrayante&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="257"/>
         <source>[ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ERREUR] Une erreur effrayante&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
         <source>[INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[INFO] Un message inoffensif...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="260"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[AVERTISSEMENT] Une erreur pas si effrayante.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
@@ -941,14 +941,14 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>Cette installation a un fichier de verrouillage de mise à jour présent à : %1
+        <translation>Cette installation a un fichier de verrouillage de mise à jour présent à&#xa0;: %1
 
-Horodatage : %2
+Horodatage&#xa0;: %2
 Mise à jour de la version %3 à %4
-Chemin d&apos;installation cible : %5
-Chemin des données : %6
+Chemin d&apos;installation cible&#xa0;: %5
+Chemin des données&#xa0;: %6
 Cela signifie probablement qu&apos;une tentative de mise à jour a échoué. Veuillez vous assurer que votre installation est en bon état avant de continuer.
-Vérifiez le journal de mise à jour de Prism Launcher à l&apos;adresse suivante : 
+Vérifiez le journal de mise à jour de Prism Launcher à l&apos;adresse suivante&#xa0;: 
 %7
 pour obtenir des détails sur la dernière tentative de mise à jour.
 
@@ -970,7 +970,7 @@ for details on the last update attempt.</source>
         <translation>Une tentative de mise à jour a échoué.
 
 Veuillez vous assurer du bon fonctionnement de votre installation avant de continuer.
-Vérifiez le journal de l&apos;assistant d&apos;installation de Prism Launcher&#x202f;: 
+Vérifiez le journal de l&apos;assistant d&apos;installation de Prism Launcher&#xa0;: 
 %1
 pour plus de détails concernant la dernière tentative de mise à jour.</translation>
     </message>
@@ -995,8 +995,8 @@ Check the Prism Launcher updater log at:
 for details.</oldsource>
         <translation>Mise à jour réussie
 
-Vous utilisez actuellement la version %1 .
-Vérifiez le journal de l&apos;assistant de mise à jour de Prism Launcher&#x202f;: 
+Vous utilisez désormais la version %1 .
+Vérifiez le journal de l&apos;assistant de mise à jour de Prism Launcher&#xa0;: 
 %1
 pour plus de détails.</translation>
     </message>
@@ -1044,17 +1044,17 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/Application.cpp" line="1922"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation>Il semblerai que vous avez utilisé %1 auparavant. Désirez-vous migrer vos données vers le nouvel emplacement %2&#xa0;?</translation>
+        <translation>Il semblerai que vous avez utilisé %1 auparavant. Désirez-vous migrer vos données vers le nouvel emplacement %2&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1928"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation>Il semblerait que vous utilisez %1 sur %2 auparavant. Désirez-vous migrer vos données vers le nouvel emplacement de %3&#xa0;?</translation>
+        <translation>Il semblerait que vous avez utilisé %1 sur %2 auparavant. Désirez-vous migrer vos données vers le nouvel emplacement de %3&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1971"/>
         <source>Migration failed! Reason: %1</source>
-        <translation>Migration échouée&#xa0;! Raison&#xa0;: %1</translation>
+        <translation>Migration échouée&#x202f;! Raison&#xa0;: %1</translation>
     </message>
 </context>
 <context>
@@ -1115,7 +1115,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="69"/>
         <source>Failed to read the assets index!</source>
-        <translation>La lecture de l&apos;index des ressources a échoué&#xa0;!</translation>
+        <translation>La lecture de l&apos;index des ressources a échoué&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
@@ -1126,14 +1126,14 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="90"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>Échec du téléchargement de l&apos;index des ressources&#xa0;:
+        <translation>Le téléchargement de l&apos;index des ressources a échoué&#xa0;:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>Échec du téléchargement des ressources&#xa0;:
+        <translation>Le téléchargement des ressources a échoué&#xa0;:
 %1</translation>
     </message>
 </context>
@@ -1198,7 +1198,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="354"/>
         <source>No share code specified!</source>
-        <translation>Aucun code de partage spécifié&#xa0;!</translation>
+        <translation>Aucun code de partage spécifié&#x202f;!</translation>
     </message>
 </context>
 <context>
@@ -1206,7 +1206,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="244"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>Êtes-vous sûr de vouloir activer ce mod&#xa0;?</translation>
+        <translation>Êtes-vous sûr de vouloir activer ce mod&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
@@ -1262,12 +1262,12 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>Aucune version n&apos;est actuellement disponible pour Minecraft %1</translation>
+        <translation>Aucunes versions ne sont actuellement disponibles pour Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation>Aucune version n&apos;est actuellement disponible</translation>
+        <translation>Aucunes versions ne sont actuellement disponibles</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
@@ -6092,7 +6092,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation>[Log4j Parse Error] Impossible d&apos;analyser l&apos;évènement de journal log4j&#xa0;: %1</translation>
+        <translation type="unfinished">[Erreur d&apos;analyse Log4j] Échec d&apos;analyse de log4j, évènement de log&#xa0;: %1</translation>
     </message>
 </context>
 <context>
