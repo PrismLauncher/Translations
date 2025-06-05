@@ -66,12 +66,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="286"/>
         <source>&amp;CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="341"/>
         <source>&amp;Technic</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Technic</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -809,7 +809,7 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="55"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Aspetto</translation>
     </message>
 </context>
 <context>
@@ -817,99 +817,99 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished">Visualizza la cartella dei pacchetti di gatti.</translation>
+        <translation>Visualizza la cartella dei pacchetti di gatti.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri Cartella</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished">Visualizza la cartella dei temi dei widget.</translation>
+        <translation>Visualizza la cartella dei temi dei widget.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished">Visualizza la cartella dei temi delle icone.</translation>
+        <translation>Visualizza la cartella dei temi delle icone.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pacchetti di &amp;Gatti:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricarica Tutto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished">&amp;Icone:</translation>
+        <translation>&amp;Icone:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Font della Console:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacità Gatto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
         <source>Opaque</source>
-        <translation type="unfinished"></translation>
+        <translation>Opaco</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Trasparente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="332"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Previsione</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="255"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ERROR] OOoooOOOoooo! Un errore spaventoso!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="257"/>
         <source>[ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ERROR] Un errore spaventoso!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
         <source>[INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[INFO] Un messaggio innocuo...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="260"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[WARN] Un pericolo non così spaventoso.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[DEBUG] Un messaggio di debug segreto...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="262"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[FATAL] Un errore fatale terrificante!</translation>
     </message>
 </context>
 <context>
@@ -1460,17 +1460,17 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
         <source>Skip</source>
-        <translation type="unfinished">Salta</translation>
+        <translation>Salta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;La tua cartella configurata delle mod globali è controllata automaticamente per le mod scaricate e saranno copiate nell&apos;instanza se trovate.&lt;/p&gt;&lt;p&gt;Opzionalmente, puoi trascinare le mod scaricate in questo messaggio o aggiungere una cartella da controllare se non hai scaricato le mod nella destinazione predefinita.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Clicca &apos;Apri Mancanti&apos; per aprire tutti i link di scaricamento nel browser.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
         <source>Blocked Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod bloccate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
@@ -1480,7 +1480,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
         <source>Watched Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartelle controllate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
@@ -1869,7 +1869,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation type="unfinished">Crea collegamento dell&apos;istanza</translation>
+        <translation>Crea collegamento dell&apos;istanza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
@@ -1925,12 +1925,12 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: Se un collegamento è spostato dopo la creazione, non sarà eliminato quando elimini l&apos;instanza.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dovrai eliminarlo manualmente in questo caso.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"/>
@@ -2008,12 +2008,12 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Sovrascrivi Impostazioni &amp;Globali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Comando di &amp;Pre-avvio</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
