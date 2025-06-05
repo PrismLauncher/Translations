@@ -3179,7 +3179,7 @@ Bist du dir sicher, du willst das tun?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
         <source>&amp;MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="127"/>
