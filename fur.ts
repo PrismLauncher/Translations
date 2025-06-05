@@ -8031,23 +8031,23 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Atenzion&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: La opzion slargjade no je supuartade dal dut su cheste version di Minecraft.&lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="133"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="135"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>La modalitât di zûc di Feral Interactive no je stade cjatade tal sisteme.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="138"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="140"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>MangoHud nol è stât cjatât tal sisteme.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="206"/>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="213"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="208"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="215"/>
         <source>Path to %1 library file</source>
         <translation>Percors al file de librarie %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="517"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="547"/>
         <source>Select Global Data Packs Folder</source>
         <translation type="unfinished"></translation>
     </message>

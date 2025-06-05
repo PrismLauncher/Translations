@@ -9533,23 +9533,23 @@ Valószínűleg meg kell változtatnod az elérési utat - lásd a mod weboldal�
         <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Figyelmeztetés&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: A maximalizált opció nem teljesen támogatott ebben a Minecraft verzióban.&lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="133"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="135"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>A Feral Interactive GameMode nem található a rendszereden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="138"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="140"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>A MangoHud nem található a rendszereden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="206"/>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="213"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="208"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="215"/>
         <source>Path to %1 library file</source>
         <translation>A(z) %1 könyvtárfájl elérési útja</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="517"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="547"/>
         <source>Select Global Data Packs Folder</source>
         <translation>Globális adatcsomagok mappa kiválasztása</translation>
     </message>

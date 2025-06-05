@@ -9540,23 +9540,23 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;경고&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: 이 마인크래프트 버전에서는 최대화 옵션이 완전히 지원되지 않습니다.&lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="133"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="135"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>시스템에서 Feral Interactive&apos;s GameMode를 찾을 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="138"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="140"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>시스템에서 MangoHud를 찾을 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="206"/>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="213"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="208"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="215"/>
         <source>Path to %1 library file</source>
         <translation>%1 라이브러리 파일의 경로</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="517"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="547"/>
         <source>Select Global Data Packs Folder</source>
         <translation>전역 데이터 팩 폴더 선택</translation>
     </message>

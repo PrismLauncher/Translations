@@ -9621,23 +9621,23 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：该 Minecraft 版本不完全支持最大化选项。&lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="133"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="135"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>无法在你的系统上找到 Feral Interactive&apos;s GameMode。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="138"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="140"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>无法在你的系统上找到 MangoHud。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="206"/>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="213"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="208"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="215"/>
         <source>Path to %1 library file</source>
         <translation>%1 库文件路径</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="517"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="547"/>
         <source>Select Global Data Packs Folder</source>
         <translation>选择全局数据包文件夹</translation>
     </message>

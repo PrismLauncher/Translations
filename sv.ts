@@ -9450,23 +9450,23 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Varning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Alternativet för maximal storlek stöds inte fullt ut i den här versionen av Minecraft.&lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="133"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="135"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>Feral Interactives GameMode kunde inte hittas på ditt system.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="138"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="140"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>MangoHud kunde inte hittas på ditt system.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="206"/>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="213"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="208"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="215"/>
         <source>Path to %1 library file</source>
         <translation>Sökväg till %1 biblioteksfil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="517"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="547"/>
         <source>Select Global Data Packs Folder</source>
         <translation type="unfinished"></translation>
     </message>
