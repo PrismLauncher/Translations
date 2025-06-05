@@ -3,12 +3,12 @@
     "version" : 2,
     "languages" : {
         "ar" : {
-            "file" : "418ff883a1d2b22e18c94c764c5dbf99d0b217fe.class",
-            "sha1" : "418ff883a1d2b22e18c94c764c5dbf99d0b217fe",
-            "size" : 131170,
+            "file" : "40a6396c7cac5cfb904f1acdaa5b61e860509ae6.class",
+            "sha1" : "40a6396c7cac5cfb904f1acdaa5b61e860509ae6",
+            "size" : 131661,
             "translated" : 816,
-            "fuzzy" : 308,
-            "untranslated" : 1490
+            "fuzzy" : 313,
+            "untranslated" : 1485
         },
         "az" : {
             "file" : "28a52828c5716236bf46404d4788348161cfb04b.class",
@@ -107,12 +107,12 @@
             "untranslated" : 183
         },
         "de" : {
-            "file" : "1a2b450a67aa9f8cef895c017a55e8518e629d63.class",
-            "sha1" : "1a2b450a67aa9f8cef895c017a55e8518e629d63",
-            "size" : 385682,
-            "translated" : 2470,
+            "file" : "f0f5669429282b2f3fe322028fb7211c70bbe0f8.class",
+            "sha1" : "f0f5669429282b2f3fe322028fb7211c70bbe0f8",
+            "size" : 389935,
+            "translated" : 2484,
             "fuzzy" : 32,
-            "untranslated" : 112
+            "untranslated" : 98
         },
         "de_CH" : {
             "file" : "f9e1b3c9c6f9b765b89bf7882317493a38d5aadb.class",
@@ -243,12 +243,12 @@
             "untranslated" : 1054
         },
         "fr" : {
-            "file" : "a3938759cf6f23d0c58c1fe8e7f4987fbb509ec8.class",
-            "sha1" : "a3938759cf6f23d0c58c1fe8e7f4987fbb509ec8",
-            "size" : 393719,
-            "translated" : 2442,
+            "file" : "6f02c47265e2ba5ac0fabe0f9e6a7e1633f854a9.class",
+            "sha1" : "6f02c47265e2ba5ac0fabe0f9e6a7e1633f854a9",
+            "size" : 393951,
+            "translated" : 2444,
             "fuzzy" : 36,
-            "untranslated" : 136
+            "untranslated" : 134
         },
         "fr_CA" : {
             "file" : "610145e58028fc648eb13f8dc28727b5c93df1e8.class",
