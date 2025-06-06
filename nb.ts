@@ -2587,48 +2587,48 @@ Are you sure?</source>
         <translation>&amp;Forfatter</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="121"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="123"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="155"/>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="162"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="163"/>
         <source>Export %1</source>
         <translation>Eksporter %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="157"/>
         <source>Modrinth pack</source>
         <translation>Modrinth pakke</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="163"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="164"/>
         <source>CurseForge pack</source>
         <translation>CurseForge pakke</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="190"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="191"/>
         <source>Error</source>
         <translation>Feil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="192"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="193"/>
         <source>Task aborted</source>
         <translation>Oppgave avbrutt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="192"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="193"/>
         <source>The task has been aborted by the user.</source>
         <translation>Oppgaven ble avbrutt av brukeren.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="198"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="199"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -3536,22 +3536,22 @@ Prøv på nytt.</translation>
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="434"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="431"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Hei!&lt;/h1&gt;&lt;h4&gt;Det ser ut til at pakke-ID-en din er null. Dette er på grunn av en feil i eldre versjoner av startprogrammet.&lt;br/&gt;Dessverre kan vi ikke gjøre de riktige API-forespørslene uten denne informasjonen.&lt;br/&gt;&lt;br/&gt;Så for at denne funksjonen skal fungere, du må laste ned modpakken på nytt fra den innebygde nedlasteren.&lt;br/&gt;&lt;br/&gt;Ikke vær bekymret, den vil be deg om å oppdatere denne instansen i stedet, slik at du ikke mister denne instansen!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="496"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="493"/>
         <source>%1 (Current)</source>
         <translation>%1 (Nåværende)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="559"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="556"/>
         <source>Choose update file</source>
         <translation>Velg oppdateringsfil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="559"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="556"/>
         <source>CurseForge pack</source>
         <translation>CurseForge pakke</translation>
     </message>
@@ -3675,38 +3675,38 @@ Prøv på nytt.</translation>
         <translation>Sorter etter Totalt Antall Nedlastinger</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="226"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="244"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="239"/>
         <source>No version is available!</source>
         <translation>Ingen versjon er tilgjengelig!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="232"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="227"/>
         <source>Error</source>
         <translation>Feil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="310"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="305"/>
         <source> by </source>
         <translation> av </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="315"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="310"/>
         <source>External links:</source>
         <translation>Eksterne lenker:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="319"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="314"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Problemer: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="321"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="316"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="323"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="318"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Kildekode: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -8052,22 +8052,22 @@ Den kan bare oppdateres med en fil i %1-formatet
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="347"/>
         <source>Update Successful</source>
         <translation>Oppdatering vellykket</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="351"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="348"/>
         <source>The instance updated to pack version %1 successfully.</source>
         <translation>Instansen oppdaterte til versjon %1 på vellykket vis.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="356"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
         <source>Update Failed</source>
         <translation type="unfinished">Oppdatering Mislyktest</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="357"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="354"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9650,22 +9650,22 @@ Oppdater %1!</translation>
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="301"/>
         <source>%1 (Current)</source>
         <translation type="unfinished">%1 (Nåværende)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="313"/>
         <source>Fetching changelogs...</source>
         <translation>Henter endringslogg …</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="393"/>
         <source>Choose update file</source>
         <translation type="unfinished">Velg oppdateringsfil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="393"/>
         <source>Modrinth pack</source>
         <translation type="unfinished">Modrinth pakke</translation>
     </message>
@@ -9752,47 +9752,47 @@ Oppdater %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="201"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="261"/>
         <source>Error</source>
         <translation type="unfinished">Feil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="292"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="286"/>
         <source> by </source>
         <translation type="unfinished"> av </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="290"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation type="unfinished">&lt;b&gt;Dette prosjektet har blitt arkivert. Det kommer ikke til å oppdateres lenger med mindre forfatteren velger å fjerne arkiveringen.&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="301"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="295"/>
         <source>Donate information: </source>
         <translation type="unfinished">Doneringsinformasjon </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="308"/>
         <source>External links:</source>
         <translation type="unfinished">Eksterne lenker:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="318"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="312"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished">Problemer: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="320"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="314"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="316"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished">Kildekode: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="318"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -12060,6 +12060,12 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlamePackIndex.cpp" line="148"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackManifest.cpp" line="190"/>
+        <source> for %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

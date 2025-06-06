@@ -2691,48 +2691,48 @@ Biztos vagy ebben?</translation>
         <translation>&amp;Alkotó</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="121"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
         <source>Cancel</source>
         <translation>Mégsem</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="123"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="155"/>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="162"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="163"/>
         <source>Export %1</source>
         <translation>%1 exportálása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="157"/>
         <source>Modrinth pack</source>
         <translation>Modrinth csomag</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="163"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="164"/>
         <source>CurseForge pack</source>
         <translation>CurseForge csomag</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="190"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="191"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="192"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="193"/>
         <source>Task aborted</source>
         <translation>Feladat megszakítva</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="192"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="193"/>
         <source>The task has been aborted by the user.</source>
         <translation>A feladatot a felhasználó megszakította.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="198"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="199"/>
         <source>Abort</source>
         <translation>Megszakítás</translation>
     </message>
@@ -3677,22 +3677,22 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="434"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="431"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Szia!&lt;/h1&gt;&lt;h4&gt;Úgy tűnik, a csomagazonosítója null. Ennek oka a launcher régebbi verzióiban található hiba.&lt;br/&gt;Sajnos ezen információk nélkül nem tudjuk végrehajtani a megfelelő API-kéréseket.&lt;br/&gt;&lt;br/&gt;Tehát ahhoz, hogy ez a funkció működjön, újra le kell töltenie a modcsomagot a beépített letöltőből.&lt;br/&gt;&lt;br/&gt;Ne aggódjon, a rendszer kérni fogja, hogy frissítse ezt a példányt, így nem veszíti el a példány adatait!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="496"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="493"/>
         <source>%1 (Current)</source>
         <translation>%1 (jelenlegi)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="559"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="556"/>
         <source>Choose update file</source>
         <translation>Válassza ki a frissítési fájlt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="559"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="556"/>
         <source>CurseForge pack</source>
         <translation>CurseForge csomag</translation>
     </message>
@@ -3862,38 +3862,38 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation>Letöltések száma szerinti rendezés</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="226"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="244"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="239"/>
         <source>No version is available!</source>
         <translation>Nincs elérhető verzió!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="232"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="227"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="310"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="305"/>
         <source> by </source>
         <translation> tőle: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="315"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="310"/>
         <source>External links:</source>
         <translation>Külső linkek:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="319"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="314"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Problémák: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="321"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="316"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="323"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="318"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Forráskód: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -8742,22 +8742,22 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
         <translation>Nem lehet frissíteni!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="347"/>
         <source>Update Successful</source>
         <translation>Sikeres frissítés</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="351"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="348"/>
         <source>The instance updated to pack version %1 successfully.</source>
         <translation>A példány sikeresen frissült a(z) %1 csomagverzióra.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="356"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
         <source>Update Failed</source>
         <translation>Sikertelen frissítés</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="357"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="354"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
         <translation>A példányt nem sikerült frissíteni a csomag %1 verziójára. További információkért kérjük, ellenőrizze a launcher naplóját.</translation>
     </message>
@@ -10673,22 +10673,22 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation type="vanished"> (Jelenlegi)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="301"/>
         <source>%1 (Current)</source>
         <translation>%1 (jelenlegi)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="313"/>
         <source>Fetching changelogs...</source>
         <translation>Változásnaplók lekérése...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="393"/>
         <source>Choose update file</source>
         <translation>Válassza ki a frissítési fájlt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="393"/>
         <source>Modrinth pack</source>
         <translation>Modrinth csomag</translation>
     </message>
@@ -10823,47 +10823,47 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="201"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="261"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="292"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="286"/>
         <source> by </source>
         <translation> tőle: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="290"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation>&lt;b&gt;Ezt a projektet archiválták. Nem kap további frissítéseket, kivéve, ha a szerző úgy dönt, hogy megszünteti a projekt archiválását.&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="301"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="295"/>
         <source>Donate information: </source>
         <translation>Támogatási információk: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="308"/>
         <source>External links:</source>
         <translation>Külső linkek:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="318"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="312"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Problémák: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="320"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="314"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="316"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Forráskód: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="318"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -13377,6 +13377,12 @@ Hibaüzenet: %3</translation>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data packs</source>
         <translation>Adatcsomagok</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlamePackIndex.cpp" line="148"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackManifest.cpp" line="190"/>
+        <source> for %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

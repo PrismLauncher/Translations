@@ -2608,48 +2608,48 @@ Are you sure?</source>
         <translation>&amp;Autor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="121"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
         <source>Cancel</source>
         <translation type="unfinished">Zrušiť</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="123"/>
         <source>OK</source>
         <translation type="unfinished">OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="155"/>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="162"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="163"/>
         <source>Export %1</source>
         <translation>Export %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="157"/>
         <source>Modrinth pack</source>
         <translation>Modrinth balíček</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="163"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="164"/>
         <source>CurseForge pack</source>
         <translation>CurseForge balíček</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="190"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="191"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="192"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="193"/>
         <source>Task aborted</source>
         <translation>Úloha zrušená</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="192"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="193"/>
         <source>The task has been aborted by the user.</source>
         <translation>Úloha bola zrušená použivateľom.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="198"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="199"/>
         <source>Abort</source>
         <translation>Zrušiť</translation>
     </message>
@@ -3552,22 +3552,22 @@ Prosím skúste to znova.</translation>
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="434"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="431"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Ahoj!&lt;/h1&gt;&lt;h4&gt;Vyzerá to tak, že ID Vášho balíčku je nulová. Toto je spôsobené chybou v starších verziách launcheru.&lt;br/&gt;Naneštastie, bez tejto informácie nemôžeme vykonať správne API požiadavky.&lt;br/&gt;&lt;br/&gt;Aby táto funkcia fungovala, budete potrebovať znovu stiahnuť modpack zo vstavaného sťahovača modpackov.&lt;br/&gt;&lt;br/&gt;Nebojte sa, opýta sa Vás či chcete túto inštanciu radšej aktualizovať, aby ste ju nestratili!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="496"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="493"/>
         <source>%1 (Current)</source>
         <translation>%1 (Aktuálne)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="559"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="556"/>
         <source>Choose update file</source>
         <translation>Vyberte súbor aktualizácie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="559"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="556"/>
         <source>CurseForge pack</source>
         <translation>CurseForge baĺiček</translation>
     </message>
@@ -3720,38 +3720,38 @@ Prosím skúste to znova.</translation>
         <translation>Zoradiť podľa počtu stiahnutí</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="226"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="244"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="239"/>
         <source>No version is available!</source>
         <translation>Nie je dostupná žiadna verzia!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="232"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="227"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="310"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="305"/>
         <source> by </source>
         <translation> od </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="315"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="310"/>
         <source>External links:</source>
         <translation>Externé odkazy:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="319"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="314"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Problémy: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="321"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="316"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="323"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="318"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Zdrojový kód: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -8182,22 +8182,22 @@ This can be updated only using a file in %1 format
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="347"/>
         <source>Update Successful</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="351"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="348"/>
         <source>The instance updated to pack version %1 successfully.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="356"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
         <source>Update Failed</source>
         <translation type="unfinished">Aktualizácia zlyhala</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="357"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="354"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9795,22 +9795,22 @@ Please update %1!</source>
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="301"/>
         <source>%1 (Current)</source>
         <translation type="unfinished">%1 (Aktuálne)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="313"/>
         <source>Fetching changelogs...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="393"/>
         <source>Choose update file</source>
         <translation type="unfinished">Vyberte súbor aktualizácie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="393"/>
         <source>Modrinth pack</source>
         <translation type="unfinished">Balíček Modrinth</translation>
     </message>
@@ -9899,42 +9899,42 @@ Please update %1!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="201"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="261"/>
         <source>Error</source>
         <translation type="unfinished">Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="290"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="301"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="295"/>
         <source>Donate information: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="308"/>
         <source>External links:</source>
         <translation type="unfinished">Externé odkazy:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="318"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="312"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished">Problémy: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="320"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="314"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="316"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished">Zdrojový kód: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="318"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9950,7 +9950,7 @@ Please update %1!</source>
         <translation type="unfinished">Zoradiť podľa počtu stiahnutí</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="292"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="286"/>
         <source> by </source>
         <translation type="unfinished"> od </translation>
     </message>
@@ -12283,6 +12283,12 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlamePackIndex.cpp" line="148"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackManifest.cpp" line="190"/>
+        <source> for %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
