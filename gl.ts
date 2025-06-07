@@ -7150,12 +7150,12 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;xportar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
         <source>Dele&amp;te</source>
-        <translation type="unfinished"></translation>
+        <translation>Bor&amp;rar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="435"/>
@@ -7236,7 +7236,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Instancias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="534"/>
@@ -7359,12 +7359,12 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Miau</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Xestionar contas...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="275"/>
@@ -7480,32 +7480,32 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="355"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="402"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cambiar grupo...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="380"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="261"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Retroceso</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="441"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
@@ -7649,7 +7649,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
         <source>Total playtime: 0s</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo total de xogo: 0s</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -7683,7 +7683,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="692"/>
         <source>Ctrl+%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="506"/>
@@ -7693,12 +7693,12 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="509"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="803"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando novas...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="813"/>
