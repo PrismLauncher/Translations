@@ -58,7 +58,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="286"/>
         <source>&amp;CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;كورسفورج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="341"/>
@@ -1550,12 +1550,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
         <source>Task failed</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت المهمة</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
         <source>Multiple subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت عدة مهام فرعية</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
@@ -1796,7 +1796,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="14"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation>لم يتمكن من إنشاء مجلد اللعبة الرأيسي</translation>
+        <translation>لم يتمكن من إنشاء مجلد اللعبة الرئيسي</translation>
     </message>
 </context>
 <context>
@@ -1809,12 +1809,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation type="unfinished"></translation>
+        <translation>احفظ الى:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>الاسم:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
@@ -1844,18 +1844,18 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
         <source>World:</source>
-        <translation type="unfinished"></translation>
+        <translation>العالم:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"/>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"/>
         <source>Server Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>عنوان الخادم:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"/>
         <source>Server Address</source>
-        <translation type="unfinished"></translation>
+        <translation>عنوان الخادم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
@@ -1870,7 +1870,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>سطح المكتب</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="89"/>
@@ -2849,7 +2849,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>Remove all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>احذف كل الاغراض المحددة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
@@ -2869,7 +2869,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="149"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished">عر&amp;ض المجلد</translation>
+        <translation>عرض &amp;المجلد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
@@ -4352,7 +4352,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation>تثبيت ال&amp;جافا</translation>
+        <translation>تث&amp;بيت الجافا</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
@@ -4372,11 +4372,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطي اختبارات توافق الجافا</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation>ال&amp;ذاكرة</translation>
+        <translation>الذاكر&amp;ة</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
@@ -4404,7 +4404,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation>حمل الجافا</translation>
     </message>
     <message>
         <source>PermGen:</source>
