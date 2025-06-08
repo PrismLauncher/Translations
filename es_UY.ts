@@ -4822,7 +4822,7 @@ Verificar que el valor de memoria máxima es inferior.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Kill</source>
-        <translation>&amp;Forzar Cierre</translation>
+        <translation>&amp;Forzar cierre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
