@@ -2958,7 +2958,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
         <source>Check for &amp;Updates</source>
-        <translation>Skontrolovať &amp;Aktualizácie</translation>
+        <translation>Skontrolovať &amp;update</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
