@@ -1673,12 +1673,12 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="16"/>
         <source>Getting skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>kama jo e selo...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="42"/>
         <source>Got skin</source>
-        <translation type="unfinished"></translation>
+        <translation>mi kama jo e selo</translation>
     </message>
 </context>
 <context>
@@ -1686,12 +1686,12 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="48"/>
         <source>Loading version information...</source>
-        <translation type="unfinished"></translation>
+        <translation>o kama jo e sona nanpa...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="85"/>
         <source>Failed to download version info files.</source>
-        <translation type="unfinished"></translation>
+        <translation>mi ken ala kama jo e lipu pi sona nasin.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="93"/>
