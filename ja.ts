@@ -28,7 +28,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="308"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="351"/>
         <source>Use Default</source>
-        <translation type="unfinished"></translation>
+        <translation>デフォルトを使用する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -38,32 +38,32 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>&amp;API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;API キー</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>&amp;Microsoft Authentation</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Microsoft 認証</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="228"/>
         <source>Mod&amp;rinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="250"/>
         <source>Use None</source>
-        <translation type="unfinished"></translation>
+        <translation>使用しない</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="286"/>
         <source>&amp;CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="341"/>
         <source>&amp;Technic</source>
-        <translation type="unfinished"></translation>
+        <translation>Technic</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -785,7 +785,7 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="55"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>外観</translation>
     </message>
 </context>
 <context>
@@ -815,17 +815,17 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cat パック:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation type="unfinished"></translation>
+        <translation>すべて再読み込み</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>テーマ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
@@ -835,28 +835,28 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>コンソールフォント:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="215"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="238"/>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>フィット</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="243"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>満たす</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="248"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>伸縮</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="256"/>
         <source>Cat Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>猫の不透明度</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="311"/>
