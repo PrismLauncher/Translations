@@ -5416,7 +5416,6 @@ Adakah anda mahu bermain demo?</translation>
         <translation>Pelancaran dibatalkan - akaun tidak memiliki Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="300"/>
         <source>Play Offline</source>
         <translation>Main Di Luar Talian</translation>
     </message>
@@ -5425,7 +5424,7 @@ Adakah anda mahu bermain demo?</translation>
         <translation>Akaun telah tamat tempoh dan perlu dilog masuk secara manual sekali lagi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="338"/>
+        <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>Account refresh failed</source>
         <translation>Muat semula akaun gagal</translation>
     </message>
@@ -5434,49 +5433,49 @@ Adakah anda mahu bermain demo?</translation>
         <translation>Akaun tidak lagi wujud pada pelayan. Ia mungkin telah dipindahkan, dalam hal ini sila tambahkan akaun baharu yang anda gunakan untuk memindahkan akaun ini.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="325"/>
+        <location filename="src/launcher/LaunchController.cpp" line="329"/>
         <source>Account gone</source>
         <translation>Akaun hilang</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="332"/>
+        <location filename="src/launcher/LaunchController.cpp" line="336"/>
         <source>Failed to launch.</source>
         <translation>Gagal dilancarkan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="363"/>
+        <location filename="src/launcher/LaunchController.cpp" line="367"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="373"/>
-        <location filename="src/launcher/LaunchController.cpp" line="430"/>
+        <location filename="src/launcher/LaunchController.cpp" line="377"/>
+        <location filename="src/launcher/LaunchController.cpp" line="434"/>
         <source>Error!</source>
         <translation>Ralat!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="373"/>
-        <location filename="src/launcher/LaunchController.cpp" line="374"/>
+        <location filename="src/launcher/LaunchController.cpp" line="377"/>
+        <location filename="src/launcher/LaunchController.cpp" line="378"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Tidak dapat memuatkan profil pemasangan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="380"/>
+        <location filename="src/launcher/LaunchController.cpp" line="384"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Tidak dapat memulakan pemasangan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="430"/>
+        <location filename="src/launcher/LaunchController.cpp" line="434"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Semakan profil untuk %1 gagal: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="443"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>&amp;Launch</source>
         <translation>&amp;Lancarkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="437"/>
+        <location filename="src/launcher/LaunchController.cpp" line="441"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5485,17 +5484,17 @@ Adakah anda mahu bermain demo?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="322"/>
+        <location filename="src/launcher/LaunchController.cpp" line="326"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="339"/>
+        <location filename="src/launcher/LaunchController.cpp" line="343"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="441"/>
+        <location filename="src/launcher/LaunchController.cpp" line="445"/>
         <source>Waiting.</source>
         <translation>Menunggu.</translation>
     </message>
@@ -5504,27 +5503,28 @@ Adakah anda mahu bermain demo?</translation>
         <translation type="vanished">Lancarkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="449"/>
+        <location filename="src/launcher/LaunchController.cpp" line="453"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Tidak dapat memulakan pemprofil: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="450"/>
+        <location filename="src/launcher/LaunchController.cpp" line="454"/>
         <source>Error</source>
         <translation>Ralat</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="477"/>
+        <location filename="src/launcher/LaunchController.cpp" line="299"/>
+        <location filename="src/launcher/LaunchController.cpp" line="481"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="490"/>
+        <location filename="src/launcher/LaunchController.cpp" line="494"/>
         <source>Kill Minecraft?</source>
         <translation>Matikan Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="491"/>
+        <location filename="src/launcher/LaunchController.cpp" line="495"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Ini boleh menyebabkan pemasangan menjadi rosak dan hanya boleh digunakan jika Minecraft menjadi beku atas sebab tertentu</translation>
     </message>
@@ -5543,12 +5543,12 @@ Adakah anda mahu bermain demo?</translation>
         <translation>Nampaknya kami tidak dapat melancarkannya selepas %1 percubaan. Adakah anda ingin terus mencuba?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="312"/>
+        <location filename="src/launcher/LaunchController.cpp" line="316"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="315"/>
+        <location filename="src/launcher/LaunchController.cpp" line="319"/>
         <source>Client identification changed</source>
         <translation>Pengenalan pelanggan ditukar</translation>
     </message>
