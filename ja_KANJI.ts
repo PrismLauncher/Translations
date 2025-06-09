@@ -28,7 +28,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="308"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="351"/>
         <source>Use Default</source>
-        <translation type="unfinished"></translation>
+        <translation>使用既定</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -38,32 +38,32 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>&amp;API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;API 鍵</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>&amp;Microsoft Authentation</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Microsoft 認証</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="228"/>
         <source>Mod&amp;rinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="250"/>
         <source>Use None</source>
-        <translation type="unfinished"></translation>
+        <translation>不使用</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="286"/>
         <source>&amp;CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="341"/>
         <source>&amp;Technic</source>
-        <translation type="unfinished"></translation>
+        <translation>Technic</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -94,7 +94,7 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="unfinished">ここにModrinthのカスタムAPIトークンを入力してください。</translation>
+        <translation>此処二入力Modrinth之可酢他無API戸ー君。</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -102,16 +102,16 @@
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Technic 位案戸ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="358"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意: 汝必要此之設定秘密出ー他二悪瀬洲摺時&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation>此処二入力Technic之GUID位案戸ID。</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -135,30 +135,30 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>奉仕</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>汝是乎三者乃目他出ー他鯖二設定、汝可能八適用文庫＆他乃泊。</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="unfinished"></translation>
+        <translation>此処二目他可酢他無URL入力。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="257"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意: 汝必要此之設定秘密出ー他二悪瀬洲摺時。必読更成情報乃為二&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;乎&lt;/a&gt;必読。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge乃核API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="315"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>注意: 正常二CurseForge稼働摺時、汝不必要設定之。</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -699,7 +699,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>汝削除是垢本当?</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -750,7 +750,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="90"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>全改作</translation>
     </message>
 </context>
 <context>
@@ -758,7 +758,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="55"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>外観</translation>
     </message>
 </context>
 <context>
@@ -766,24 +766,24 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>閲覧猫泊格納場所。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation type="unfinished">文件集を開く</translation>
+        <translation>閲覧格納場所</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>閲覧初辞ヱ戸乃主題格納場所。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>閲覧象徴主題格納場所。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
@@ -793,12 +793,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation type="unfinished"></translation>
+        <translation>全再読込</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>主題:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
@@ -808,7 +808,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>根祖ー琉乃字体:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="215"/>
@@ -882,7 +882,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/Application.cpp" line="702"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>此乃記録超過 %1 行故、不可表示此乃記録。</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="899"/>
@@ -908,7 +908,7 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1062"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>更新中</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1086"/>
@@ -923,7 +923,7 @@ for details on the last update attempt.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1094"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>更新失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1118"/>
@@ -939,12 +939,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>更新成功
+
+汝実行中 %1 。
+確認Prism Launcher更新記録:
+&amp;2
+也。</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1126"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>更新成功</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1158"/>
