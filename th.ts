@@ -36,7 +36,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="308"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="351"/>
         <source>Use Default</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ค่าเริ่มต้น</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -46,32 +46,32 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>&amp;API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>คีย์ &amp;API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>&amp;Microsoft Authentation</source>
-        <translation type="unfinished"></translation>
+        <translation>ยืนยันตัวตนบัญชี &amp;Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="228"/>
         <source>Mod&amp;rinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod&amp;rinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="250"/>
         <source>Use None</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มี</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="286"/>
         <source>&amp;CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="341"/>
         <source>&amp;Technic</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Technic</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -85,7 +85,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>หมายเหตุ: คุณอาจไม่จำเป็นต้องตั้งค่านี้หากการเข้าสู่ระบบผ่าน Microsoft Authentication ใช้งานได้แล้ว</translation>
+        <translation>หมายเหตุ: คุณอาจไม่จำเป็นต้องตั้งค่านี้หากการเข้าสู่ระบบผ่าน Microsoft Authentication สำเร็จแล้ว</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -107,7 +107,7 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>ป้อนโทเค็น API ที่กำหนดเองสำหรับ Modrinth ที่นี่</translation>
+        <translation>ป้อน API Token ที่กำหนดเองสำหรับ Modrinth ที่นี่</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -120,7 +120,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="358"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;หมายเหตุ: คุณจำเป็นต้องตั้งค่านี้เพื่อเข้าถึงข้อมูลส่วนตัวเท่านั้น&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;หมายเหตุ: คุณจำเป็นต้องตั้งค่านี้เพื่อเข้าถึงข้อมูลส่วนตัว&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
@@ -143,7 +143,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation>เมตา&amp;เซิร์ฟเวอร์ข้อมูล</translation>
+        <translation>Meta&amp;data เซิร์ฟเวอร์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
@@ -153,7 +153,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>คุณสามารถตั้งค่านี้ให้กับเซิร์ฟเวอร์ข้อมูลเมตาของบุคคลที่สามเพื่อใช้ไลบรารีที่มีแพตช์หรือแฮ็กอื่นๆ</translation>
+        <translation>คุณสามารถตั้งค่านี้ใน metadata เซิร์ฟเวอร์ของบุคคลที่สามเพื่อใช้ไลบรารีที่มีแพตช์อื่นๆ</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -162,7 +162,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="257"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;หมายเหตุ: คุณต้องตั้งค่านี้เพื่อเข้าถึงข้อมูลส่วนตัวเท่านั้น อ่าน &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;เอกสารประกอบ&lt;/a&gt; เพื่อดูข้อมูลเพิ่มเติม&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;หมายเหตุ: คุณต้องตั้งค่านี้เพื่อเข้าถึงข้อมูลส่วนตัว อ่าน &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;เอกสารประกอบ&lt;/a&gt; เพื่อดูข้อมูลเพิ่มเติม&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -792,7 +792,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="55"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>ลักษณะปรากฎ</translation>
     </message>
 </context>
 <context>
