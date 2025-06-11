@@ -11342,7 +11342,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="153"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obarvit řádky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="176"/>
