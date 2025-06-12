@@ -63,7 +63,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="341"/>
         <source>&amp;Technic</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Technic</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -837,17 +837,17 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="215"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="238"/>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>يوسع</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="243"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>ملء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="248"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>تمطيط</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="256"/>
@@ -905,7 +905,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="702"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن عرض هذا السجل لأن طول السجل تعدى %1 سطر.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="899"/>
