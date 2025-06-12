@@ -3045,7 +3045,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="356"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation> (ติดตั้งแล้ว %1, เลือก %2 แล้ว)</translation>
+        <translation> (ติดตั้งแล้ว %1, เลือกแล้ว %2)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="358"/>
