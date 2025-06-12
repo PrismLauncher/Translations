@@ -3,12 +3,12 @@
     "version" : 2,
     "languages" : {
         "ar" : {
-            "file" : "3b1623e17b184eeacc479e0ff15fef264a3b4559.class",
-            "sha1" : "3b1623e17b184eeacc479e0ff15fef264a3b4559",
-            "size" : 146550,
-            "translated" : 890,
-            "fuzzy" : 364,
-            "untranslated" : 1369
+            "file" : "68ec3092dfc643689d941f738daa72d054519432.class",
+            "sha1" : "68ec3092dfc643689d941f738daa72d054519432",
+            "size" : 150238,
+            "translated" : 908,
+            "fuzzy" : 361,
+            "untranslated" : 1354
         },
         "az" : {
             "file" : "28a52828c5716236bf46404d4788348161cfb04b.class",
@@ -83,12 +83,12 @@
             "untranslated" : 2401
         },
         "cs" : {
-            "file" : "49d66e638cfd0e4a308fe9308a6caa4781a99c37.class",
-            "sha1" : "49d66e638cfd0e4a308fe9308a6caa4781a99c37",
-            "size" : 367648,
-            "translated" : 2518,
-            "fuzzy" : 26,
-            "untranslated" : 79
+            "file" : "ff0ce1b4b5a3fab2a35ff2c3e71effe47b38ff75.class",
+            "sha1" : "ff0ce1b4b5a3fab2a35ff2c3e71effe47b38ff75",
+            "size" : 374874,
+            "translated" : 2577,
+            "fuzzy" : 14,
+            "untranslated" : 32
         },
         "cy" : {
             "file" : "cf6f27851adc4725438becc20f9761b2ed50197b.class",
@@ -547,12 +547,12 @@
             "untranslated" : 531
         },
         "ru" : {
-            "file" : "b50d61c4c69821b29a9016249cb7aa6a05b13f07.class",
-            "sha1" : "b50d61c4c69821b29a9016249cb7aa6a05b13f07",
-            "size" : 375015,
-            "translated" : 2484,
-            "fuzzy" : 44,
-            "untranslated" : 95
+            "file" : "c0490f5cac6a94ee6e1f5d126f920e29310aed62.class",
+            "sha1" : "c0490f5cac6a94ee6e1f5d126f920e29310aed62",
+            "size" : 379585,
+            "translated" : 2529,
+            "fuzzy" : 37,
+            "untranslated" : 57
         },
         "sk" : {
             "file" : "5f42242c58d1453ec806936a4724b29659fa5c9c.class",
