@@ -6912,7 +6912,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="294"/>
         <source>Add a new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มอินสแตนซ์ใหม่</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
