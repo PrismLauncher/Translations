@@ -53,7 +53,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="250"/>
         <source>Use None</source>
-        <translation type="unfinished"></translation>
+        <translation>Heçnə İstifadə Etməmək</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="286"/>
@@ -293,7 +293,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="994"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>modpack yüklənir</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1006"/>
@@ -342,7 +342,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
         <source>Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanal:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
@@ -352,7 +352,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Liçenziya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
@@ -362,7 +362,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlamaq</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="140"/>
@@ -405,12 +405,12 @@
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hazır</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>İşləyir</translation>
     </message>
     <message>
         <source>Errored</source>
@@ -430,7 +430,7 @@
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Naməlum</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -458,7 +458,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Naməlum</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"/>
@@ -468,7 +468,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="347"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="349"/>
