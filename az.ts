@@ -3055,7 +3055,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Naməlum</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
@@ -4157,7 +4157,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bağlamaq</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
@@ -5747,7 +5747,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="130"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">modpack yüklənir</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="136"/>
@@ -7980,7 +7980,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="235"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Naməlum</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="128"/>
@@ -8121,7 +8121,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Naməlum</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
@@ -8530,7 +8530,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="145"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Naməlum</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
@@ -8919,7 +8919,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bağlamaq</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
@@ -9257,7 +9257,7 @@ Are you sure?</source>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bağlamaq</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -9975,7 +9975,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tip</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="51"/>
@@ -10706,13 +10706,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="271"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hazır</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="273"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">İşləyir</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="275"/>
@@ -10742,7 +10742,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="283"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Naməlum</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
@@ -10982,7 +10982,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="95"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Naməlum</translation>
     </message>
 </context>
 <context>
@@ -13628,7 +13628,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="116"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tip</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="118"/>
