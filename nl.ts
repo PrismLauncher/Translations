@@ -1442,7 +1442,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
         <source>Blocked Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Geblokkeerde mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
@@ -5543,9 +5543,9 @@ Je kan de Java-versie later in de instellingen wijzigen.
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Je hebt een 32-versie van Java geselecteerd.
+        <translation>Je hebt een 32-bit versie van Java geselecteerd.
 Deze installatie ondersteunt niet meer dan 2048MiB aan RAM.
-Let op dat de maximale geheugen waarde lager is.</translation>
+Zorg er a.u.b. voor dat de maximale geheugen waarde lager is.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="295"/>
@@ -5555,7 +5555,7 @@ Let op dat de maximale geheugen waarde lager is.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="298"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uw maximum toegewezen geheugen is dicht bij uw systeem zijn geheugen capaciteit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
