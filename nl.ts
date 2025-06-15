@@ -15597,7 +15597,7 @@ Bent u zeker?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer thema en icoontjes om te gebruiken</translation>
     </message>
 </context>
 <context>
@@ -16696,7 +16696,7 @@ Canoniek Pad: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
         <source>Manage data packs inside the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beheer data-packs in de wereld.</translation>
     </message>
     <message>
         <source>Datapacks</source>
