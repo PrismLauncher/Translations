@@ -5555,7 +5555,7 @@ Zorg er a.u.b. voor dat de maximale geheugen waarde lager is.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="298"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation>Uw maximum toegewezen geheugen is dicht bij uw systeem zijn geheugen capaciteit.</translation>
+        <translation>Uw maximum toegewezen geheugen is dicht bij uw systeem zijn geheugencapaciteit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
