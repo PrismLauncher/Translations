@@ -5707,7 +5707,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Uw maximum toegewezen geheugen komt bij uw systeem zijn geheugen capaciteit.</translation>
+        <translation>Uw maximum toegewezen geheugen komt bij uw systeem zijn geheugencapaciteit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="521"/>
