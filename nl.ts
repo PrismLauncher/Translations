@@ -6970,7 +6970,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="80"/>
         <source>Color lines</source>
-        <translation>Kleur lijnen</translation>
+        <translation>Kleurlijnen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
