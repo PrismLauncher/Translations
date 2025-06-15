@@ -36,7 +36,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="308"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="351"/>
         <source>Use Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik Standaard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -61,17 +61,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="250"/>
         <source>Use None</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik Geen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="286"/>
         <source>&amp;CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="341"/>
         <source>&amp;Technic</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Technic</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -827,7 +827,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kattenpakket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
@@ -868,7 +868,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="256"/>
         <source>Cat Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Kat doorzichtigheid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="311"/>
@@ -921,7 +921,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="702"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation>Kan de log niet tonen omdat de lengte %1 lijnen heeft overschreden</translation>
+        <translation>Kan de log niet tonen omdat de lengte %1 lijnen heeft overschreden.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="899"/>
@@ -1869,7 +1869,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een andere account dan de gespecifieerde standaardaccount gebuiken.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
@@ -1993,12 +1993,12 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pre-lanceringsopdracht</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>P&amp;ost-exit Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdracht na afsluiten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
@@ -2043,7 +2043,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="91"/>
         <source>Betas</source>
-        <translation>Beta versies</translation>
+        <translation>Bèta versies</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="101"/>
@@ -5416,7 +5416,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="156"/>
         <source>Skip Java setup prompt on startup</source>
-        <translation type="unfinished">Sla Java setup prompt bij opstarten</translation>
+        <translation>Sla Java setup prompt over bij opstarten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
@@ -5446,7 +5446,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished">&amp;Java compatibiliteitscontrole overslaan</translation>
+        <translation>Java compatibiliteitscontrole overslaan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
