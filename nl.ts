@@ -14914,7 +14914,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="353"/>
         <source>Can not delete skin that is in use.</source>
-        <translation>Kan een skin die gebruikt wordt niet verwijderen</translation>
+        <translation>Kan een skin die gebruikt wordt niet verwijderen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="361"/>
