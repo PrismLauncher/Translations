@@ -14966,12 +14966,12 @@ Ben je zeker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="465"/>
         <source>failed to get user profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon gebruiker profiel niet ophalen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="469"/>
         <source>failed to download skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon de skin niet downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="479"/>
@@ -15380,7 +15380,7 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="148"/>
         <source>The size of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>De grootte van de texture pack</translation>
     </message>
     <message>
         <source>Is the resource enabled?</source>
