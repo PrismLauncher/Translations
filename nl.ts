@@ -12953,7 +12953,7 @@ N.B. Zorg dat u een back-up hebt gemaakt van uw belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"/>
         <source>New instance root (%1) already exists. &lt;br /&gt;Only the metadata will be renamed.</source>
-        <translation>Nieuwe instantie root (%1) bestaat al.&lt;br /&gt;Enkel de metadata wordt hernoemt.</translation>
+        <translation>Nieuwe instantieroot (%1) bestaat al.&lt;br /&gt;Alleen de metadata wordt hernoemt.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
