@@ -12559,7 +12559,7 @@ Dit bericht zal worden weergegeven totdat u dit van de JVM-argumenten verwijdert
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation>De opgegeven Java binary werkt niet.&lt;br /&gt;Je zou &apos;Detecteer&apos; moeten klikken, of zet het pad naar de Java executable.&lt;br /&gt;</translation>
+        <translation>De opgegeven javabinary werkt niet.&lt;br /&gt;Je zou op &apos;Detecteer&apos; moeten klikken, of het pad naar de javaexecutable zetten.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
@@ -12883,7 +12883,7 @@ N.B. Zorg dat u een back-up hebt gemaakt van uw belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, een vereiste van dit component, is niet de voorgestelde versie %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
