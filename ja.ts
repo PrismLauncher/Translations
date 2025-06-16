@@ -861,47 +861,47 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="311"/>
         <source>Opaque</source>
-        <translation type="unfinished"></translation>
+        <translation>不透明</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="334"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>透明</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>プレビュー</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[エラー] うぉぉぉぉぉ！不気味なエラーです！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
         <source>[ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[エラー] 不気味なエラー！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="263"/>
         <source>[INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[情報] 無害なメッセージです…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[警告] それほど不気味ではない警告です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[デバッグ] 秘密のデバッグメッセージ…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[致命的] 恐ろしい致命的なエラー！</translation>
     </message>
 </context>
 <context>
@@ -1454,12 +1454,12 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;設定済みのグローバルMODフォルダとデフォルトのダウンロードフォルダが自動的にスキャンされ、ダウンロード済みのMODが見つかった場合はインスタンスにコピーされます。&lt;/p&gt;&lt;p&gt;また、ダウンロードしたMODをこのダイアログにドラッグ＆ドロップしたり、既定の場所以外にMODをダウンロードした場合は監視フォルダを追加したりすることもできます。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;「不足MODを開く」をクリックすると、すべてのダウンロードリンクがブラウザで開きます。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
         <source>Blocked Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロックされたMod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
@@ -1469,7 +1469,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
         <source>Watched Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>監視フォルダ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
@@ -1603,18 +1603,19 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
         <source>Task failed</source>
-        <translation type="unfinished"></translation>
+        <translation>処理に失敗しました</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
         <source>Multiple subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>複数のサブタスクが失敗しました</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>複数のサブタスクが失敗しました
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
@@ -1862,7 +1863,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation type="unfinished"></translation>
+        <translation>保存先:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
@@ -1877,7 +1878,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>デフォルトで指定されたアカウント以外を使用する。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
@@ -1892,7 +1893,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>起動時に参加するターゲットを選択</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
@@ -1913,12 +1914,12 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>注意:ショートカットが作成後に移動された場合、インスタンスを削除してもショートカットは削除されません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation type="unfinished"></translation>
+        <translation>その場合は、手動で削除する必要があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"/>
@@ -1938,7 +1939,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="97"/>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [%2] - 最終プレイ日時: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="113"/>
@@ -1948,7 +1949,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="180"/>
         <source>%1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="182"/>
@@ -1996,22 +1997,22 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>グローバル設定を上書き(&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation type="unfinished"></translation>
+        <translation>起動前コマンド(&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>P&amp;ost-exit Command</source>
-        <translation type="unfinished"></translation>
+        <translation>終了後コマンド(&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
         <source>&amp;Wrapper Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Wrapperコマンド(&amp;W)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
@@ -2191,7 +2192,7 @@ Minecraft のバージョンによっては起動しない場合があります�
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>データパックのフォーマットIDと、それが対応するMinecraftのバージョンです。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="109"/>
@@ -2212,17 +2213,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>データパックは有効ですか？（ZIPファイルの場合のみ有効）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
         <source>The name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>データパックの名前です。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="161"/>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>このデータパックが最後に変更（または追加）された日時です。</translation>
     </message>
 </context>
 <context>
@@ -2235,22 +2236,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>オンラインのModプラットフォームからデータパックをダウンロードします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したすべてのデータパックをチェックまたは更新します（何も選択されていない場合はすべてのデータパックが対象）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>データパックのバージョンを変更します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
         <source>Download Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>データパックをダウンロード</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"/>
@@ -2274,7 +2275,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>ユーザーによってダウンロードが中断されました。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="94"/>
@@ -2288,13 +2289,13 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="189"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="262"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>メタデータが無効になっているため、データパックのアップデートは利用できません！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="129"/>
@@ -2306,12 +2307,14 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームの実行中にデータパックを更新すると、パックの重複やゲームのクラッシュが発生する可能性があります。
+古いファイルは使用中のため、削除されない場合があります。
+本当に続行しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"/>
         <source>The data pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>データパックのアップデーターが中止されました！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
@@ -2321,12 +2324,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてのデータパックは最新です！ :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したすべてのデータパックは最新です！ :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
@@ -2342,7 +2345,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="204"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1個のデータパックのメタデータを削除しようとしています。
+よろしいですか？</translation>
     </message>
 </context>
 <context>
@@ -2461,7 +2465,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>グローバル設定を上書き(&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
@@ -2602,12 +2606,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
         <source>&amp;Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>バージョン(&amp;V):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"/>
         <source>&amp;Author:</source>
-        <translation type="unfinished"></translation>
+        <translation>作者(&amp;A):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="76"/>
@@ -2631,12 +2635,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="135"/>
         <source>&amp;Recommended Memory:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;推奨メモリ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
         <source> MiB</source>
-        <translation type="unfinished"></translation>
+        <translation> MiB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
@@ -3118,12 +3122,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="44"/>
         <source>&amp;Editors</source>
-        <translation type="unfinished"></translation>
+        <translation>エディタ(&amp;E)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="50"/>
         <source>&amp;Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>テキストエディタ(&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="65"/>
@@ -3136,12 +3140,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
         <source>Used to edit component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>コンポーネントのJSONファイルを編集するために使用します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
         <source>&amp;MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit(&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="127"/>
@@ -3153,22 +3157,22 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
         <source>&amp;Profilers</source>
-        <translation type="unfinished"></translation>
+        <translation>プロファイラ(&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>プロファイラは「起動」ドロップダウンメニューから利用できます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
         <source>J&amp;Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>JProfiler(&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
         <source>&amp;VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM(&amp;V)</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
@@ -3221,24 +3225,25 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="130"/>
         <source>VisualVM Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM 実行ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
         <source>Error while checking VisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>エラー：VisualVMのインストールが確認できません
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVMのセットアップが完了しました</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
         <source>Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>テキストエディタ</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
@@ -3572,7 +3577,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation type="unfinished"></translation>
+        <translation>Modパックの推奨メモリがシステムのRAMの90%を超えているため、%1 MiBから%2 MiBに削減します！</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -4896,7 +4901,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>VisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVMが起動しました</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
@@ -5120,7 +5125,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
@@ -5360,22 +5365,22 @@ Javaのバージョンは後で設定で変更できます。
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
         <source>&amp;Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>検出(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
         <source>&amp;Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>参照(&amp;B)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
         <source>Test S&amp;ettings</source>
-        <translation type="unfinished"></translation>
+        <translation>設定をテスト(&amp;E)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
         <source>Open Java &amp;Downloader</source>
-        <translation type="unfinished"></translation>
+        <translation>Javaダウンローダーを開く(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
@@ -5385,7 +5390,7 @@ Javaのバージョンは後で設定で変更できます。
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Java実行ファイル(&amp;E)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
@@ -5395,12 +5400,12 @@ Javaのバージョンは後で設定で変更できます。
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
         <source>Memory Notice</source>
-        <translation type="unfinished"></translation>
+        <translation>メモリに関する注意</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="204"/>
         <source>(-XX:PermSize)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-XX:PermSize)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="267"/>
@@ -5423,7 +5428,7 @@ Javaのバージョンは後で設定で変更できます。
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="302"/>
         <source>&amp;PermGen Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>PermGenサイズ(&amp;P):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
@@ -5433,12 +5438,12 @@ Javaのバージョンは後で設定で変更できます。
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="319"/>
         <source>Ma&amp;ximum Memory Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>最大メモリ使用量(&amp;X):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="329"/>
         <source>M&amp;inimum Memory Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>最小メモリ使用量(&amp;I):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
@@ -5493,12 +5498,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="298"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>最大メモリ割り当て量が、システムのメモリ容量に近いです。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation type="unfinished"></translation>
+        <translation>最大メモリ割りて量が、最小メモリ割り当て量を下回っています。</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
@@ -6019,57 +6024,57 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
         <source>Instance Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成の並び替え</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="105"/>
         <source>Instance Renaming</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成の名前変更</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
         <source>Ask what to do with the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>フォルダ名を変更するか確認する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
         <source>Always rename the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>常にフォルダ名を変更する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="129"/>
         <source>Never rename the folder—only the displayed name</source>
-        <translation type="unfinished"></translation>
+        <translation>フォルダ名は変更せず、表示名のみ変更する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>Updater</source>
-        <translation type="unfinished"></translation>
+        <translation>アップデーター</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="174"/>
         <source>How Often?</source>
-        <translation type="unfinished"></translation>
+        <translation>確認頻度？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="187"/>
         <source>Set to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>0に設定すると起動時にのみ確認します</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="190"/>
         <source>On Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>起動時</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="193"/>
         <source> hours</source>
-        <translation type="unfinished"></translation>
+        <translation> 時間</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="196"/>
         <source>Every </source>
-        <translation type="unfinished"></translation>
+        <translation>ごと </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="277"/>
@@ -6084,32 +6089,32 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="447"/>
         <source>Log History &amp;Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod(&amp;M)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="492"/>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>アイコン(&amp;I)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="555"/>
         <source>Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>ログ履歴の制限(&amp;L):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="562"/>
         <source>Concurrent Download Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>同時ダウンロードの上限：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="572"/>
         <source>HTTP Timeout:</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTPタイムアウト：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="598"/>
         <source>Concurrent Task Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>同時タスクの上限：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="294"/>
@@ -6313,47 +6318,47 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="363"/>
         <source>Mods and Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>ModとModパック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="372"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>サブフォルダ内もブロックされたModを検索する(&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="382"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロックされたModをコピーせずに移動する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>ModrinthやCurseForgeなどのMod提供者から提供されるModのバージョン情報を保存します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="392"/>
         <source>Keep track of mod metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Modのメタデータを保持する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modの依存関係を自動的に検出し、インストール、更新します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="412"/>
         <source>Install dependencies automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>依存関係を自動的にインストールする</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="419"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>新しいModパックの起動構成を作成する際に、代わりに既存の起動構成を更新することを提案します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="422"/>
         <source>Suggest to update an existing instance during modpack installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Modパックのインストール時に既存の起動構成の更新を提案する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="432"/>
@@ -8219,13 +8224,14 @@ Please create a new instance before attempting to install this resource again.</
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1207"/>
         <source>Failed to undo trashing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>ごみ箱に移動した起動構成を元に戻せませんでした</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1208"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
-        <translation type="unfinished"></translation>
+        <translation>一部の起動構成とショートカットを復元できませんでした。
+ごみ箱を確認し、手動で復元してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
@@ -8249,8 +8255,8 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
         <source> and its %n registered shortcut(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform> 、および登録済みの%n個のショートカット</numerusform>
         </translation>
     </message>
     <message>
@@ -8259,7 +8265,10 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>「%1」%2 を削除しようとしています。
+この操作は元に戻すことができず、起動構成は完全に削除されます。
+
+本当によろしいですか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
@@ -8880,7 +8889,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームウィンドウが閉じたときにランチャーを終了する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
@@ -9009,63 +9018,64 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
         <source>When the game window opens, hide the launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームウィンドウが開いたときに、ランチャーを非表示にする</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
         <source>&amp;Window Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィンドウサイズ(&amp;W):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="189"/>
         <source>×</source>
-        <translation type="unfinished"></translation>
+        <translation>×</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="196"/>
         <source>pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>ピクセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="222"/>
         <source>&amp;Console Window</source>
-        <translation type="unfinished"></translation>
+        <translation>コンソールウィンドウ(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="234"/>
         <source>When the game is launched, show the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームの起動時にコンソールウィンドウを表示する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="241"/>
         <source>When the game crashes, show the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームがクラッシュしたときにコンソールウィンドウを表示する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="248"/>
         <source>When the game quits, hide the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲーム終了時にコンソールウィンドウを非表示にする</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="258"/>
         <source>&amp;Global Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>グローバルデータパック(&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
-        <translation type="unfinished"></translation>
+        <translation>対応するModがインストールされている場合、すべてのワールドにまたがってデータパックをインストールできます。
+パスの変更が必要になる可能性が高いです - 詳しくはModのウェブサイトを参照してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
         <source>Folder Path</source>
-        <translation type="unfinished"></translation>
+        <translation>フォルダパス</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"/>
         <source>datapacks</source>
-        <translation type="unfinished"></translation>
+        <translation>データパック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
@@ -9075,22 +9085,22 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="368"/>
         <source>Override &amp;Default Account</source>
-        <translation type="unfinished"></translation>
+        <translation>デフォルトアカウントを上書き(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="413"/>
         <source>Enable Auto-&amp;join</source>
-        <translation type="unfinished"></translation>
+        <translation>自動参加を有効化(&amp;J)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="435"/>
         <source>Singleplayer world:</source>
-        <translation type="unfinished"></translation>
+        <translation>シングルプレイヤーワールド:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="475"/>
         <source>Override Mod Download &amp;Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Modダウンロードローダーを上書き(&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
@@ -9120,12 +9130,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
         <source>&amp;GLFW library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>GLFWライブラリパス(&amp;G):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="657"/>
         <source>&amp;OpenAL library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenALライブラリパス(&amp;O):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="701"/>
@@ -9242,7 +9252,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="547"/>
         <source>Select Global Data Packs Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>グローバルデータパックのフォルダを選択</translation>
     </message>
 </context>
 <context>
@@ -10975,12 +10985,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK(&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="47"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>キャンセル(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="48"/>
@@ -11761,7 +11771,7 @@ HTTPステータス: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
         <source>Use S&amp;ystem Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>システム設定を使用(&amp;Y)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
@@ -12249,7 +12259,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>指定されたJava実行ファイルは動作しませんでした。&lt;br /&gt;「検出」ボタンを押すか、Java実行ファイルのパスを設定してください。&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
@@ -12755,7 +12765,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
         <source>Failed to create icon for application.</source>
-        <translation type="unfinished"></translation>
+        <translation>アプリケーションのアイコンの作成に失敗しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
@@ -12803,7 +12813,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="211"/>
         <source>Created a shortcut to this %1 in your applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>アプリケーションフォルダにこの%1のショートカットを作成しました！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="235"/>
@@ -12813,7 +12823,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="244"/>
         <source>Created a shortcut to this %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>この%1のショートカットを作成しました！</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
@@ -12828,7 +12838,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hastebinサーバーからの応答の解析に失敗しました：JSONが期待されましたが、無効な応答を取得しました。エラー：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
@@ -12840,7 +12850,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>mclogsサーバーからの応答の解析に失敗しました：JSONが期待されましたが、無効な応答を取得しました。エラー：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
@@ -12850,7 +12860,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>paste.ggサーバーからの応答の解析に失敗しました：JSONが期待されましたが、無効な応答を取得しました。エラー：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
@@ -12862,18 +12872,18 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
         <source>Invalid path to VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVMへのパスが無効です</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data packs</source>
-        <translation type="unfinished"></translation>
+        <translation>データパック</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackIndex.cpp" line="148"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackManifest.cpp" line="190"/>
         <source> for %1</source>
-        <translation type="unfinished"></translation>
+        <translation> %1用</translation>
     </message>
 </context>
 <context>
@@ -12890,7 +12900,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="180"/>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>データパック</translation>
     </message>
 </context>
 <context>
@@ -12899,7 +12909,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="37"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>データパック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
@@ -13365,7 +13375,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="660"/>
         <source>Override Columns Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>列の表示設定を上書き</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="673"/>
@@ -14460,7 +14470,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
         <source>Preview Elytra</source>
-        <translation type="unfinished"></translation>
+        <translation>エリトラのプレビュー</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
@@ -15297,7 +15307,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
+        <translation>使用するテーマとアイコンを選択</translation>
     </message>
 </context>
 <context>
@@ -16225,12 +16235,12 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="8"/>
         <source>Launcher Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>ランチャーのログ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="12"/>
         <source>View Launcher Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>ランチャーのログを表示</translation>
     </message>
 </context>
 <context>
@@ -16389,12 +16399,12 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
         <source>Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>データパック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
         <source>Manage data packs inside the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>ワールド内のデータパックを管理します。</translation>
     </message>
     <message>
         <source>Datapacks</source>
@@ -16502,12 +16512,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="224"/>
         <source>Manage Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>データパックを管理</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="231"/>
         <source>Data packs for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1のデータパック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
