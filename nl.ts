@@ -8393,9 +8393,9 @@ Om de metadata handmatig op te ruimen, druk op Mappen -&gt; Bekijk Launcher Root
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
         <source> and its %n registered shortcut(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform> en zijn %n gekoppelde snelkoppeling</numerusform>
+            <numerusform> en zijn %n gekoppelde snelkoppelingen</numerusform>
         </translation>
     </message>
     <message>
@@ -8627,7 +8627,7 @@ Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="354"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>De instantie is gefaald om te updaten naar versie %1. Controleer aub launcher log-bestanden voor meer informatie.</translation>
     </message>
 </context>
 <context>
