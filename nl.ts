@@ -13112,7 +13112,7 @@ Wenst u door te gaan?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="181"/>
         <source>Created a shortcut to this %1 on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Snelkoppeling naar %1 op uw desktop gemaakt!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="192"/>
