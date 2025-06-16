@@ -12360,7 +12360,7 @@ Doorgaan met Inkorting?</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation>Kon %1 niet doorgeven: fout bestands formaat</translation>
+        <translation>Kon %1 niet doorgeven: fout bestandsformaat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
