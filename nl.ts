@@ -13030,7 +13030,7 @@ Wenst u door te gaan?</numerusform>
     <message>
         <location filename="src/launcher/GZip.cpp" line="205"/>
         <source>invalid or incomplete deflate data</source>
-        <translation type="unfinished"></translation>
+        <translation>ongeldige of onvolledige &quot;deflate&quot; data</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="207"/>
