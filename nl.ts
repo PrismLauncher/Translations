@@ -6122,7 +6122,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="187"/>
         <source>Set to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Zet op 0 om enkel te controleren bij het opstarten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="190"/>
@@ -9212,7 +9212,8 @@ Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
-        <translation type="unfinished"></translation>
+        <translation>Laat toe om data-packs over alle werelden te installeren als een toepasselijke mod is geinstalleerd.
+Je gaat hoogst waarschijnlijk het pad moeten veranderen - kijk hiervoor naar de mod zijn website.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
