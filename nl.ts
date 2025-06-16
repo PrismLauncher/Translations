@@ -2183,7 +2183,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Het data pakket formaat ID en de Minecraft versie waarvoor het gemaakt is.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="109"/>
