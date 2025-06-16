@@ -12559,7 +12559,7 @@ Dit bericht zal worden weergegeven totdat u dit van de JVM-argumenten verwijdert
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>De opgegeven Java binary werkt niet.&lt;br /&gt;Je zou &apos;Detecteer&apos; moeten klikken, of zet het pad naar de Java executable.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
