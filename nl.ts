@@ -2227,7 +2227,7 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Download data-packs van online mod platformen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
