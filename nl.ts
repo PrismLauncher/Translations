@@ -2003,7 +2003,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
         <source>&amp;Wrapper Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Wrapperopdract</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
@@ -13030,7 +13030,7 @@ Wenst u door te gaan?</numerusform>
     <message>
         <location filename="src/launcher/GZip.cpp" line="205"/>
         <source>invalid or incomplete deflate data</source>
-        <translation>ongeldige of onvolledige &quot;deflate&quot; data</translation>
+        <translation>ongeldige of onvolledige deflatedata</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="207"/>
