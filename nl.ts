@@ -13025,7 +13025,7 @@ Wenst u door te gaan?</numerusform>
     <message>
         <location filename="src/launcher/GZip.cpp" line="203"/>
         <source>invalid compression level</source>
-        <translation>ongeldig compressie niveau</translation>
+        <translation>ongeldig compressieniveau</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="205"/>
