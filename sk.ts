@@ -1582,7 +1582,12 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
         <translation>Inštancia má nevyriešené závislosti zistené počas kontroly/nahrávania.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="776"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
+        <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>Úloha vylepšenia metadát komponentu zlyhala počas sťahovania zo vzdialeného servera:

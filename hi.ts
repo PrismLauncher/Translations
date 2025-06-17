@@ -1427,7 +1427,12 @@ Some versions of Minecraft may not launch.
         <translation>लोड/चेक करते समय इंस्टेंस में अनसॉल्व्ड डिपेंडेंसिज़ हैं।</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="776"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
+        <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>दूरस्थ सर्वर से डाउनलोड करते समय घटक मेटाडेटा अपडेट कार्य विफल रहा:

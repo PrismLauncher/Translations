@@ -1490,7 +1490,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>構成実例の起動のための読込・確認中に未解決の依存関係が見つかりました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="776"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
+        <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>部品の上位数元の受信が失敗しました，伺伝機から受信できません:

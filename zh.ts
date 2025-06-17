@@ -1625,7 +1625,12 @@ Some versions of Minecraft may not launch.
         <translation>实例在启动前加载/检查时发现了未安装的前置项。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="776"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
+        <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>组件元数据更新失败，在从远程服务器下载时出现错误：

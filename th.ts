@@ -1593,7 +1593,12 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
         <translation>อินสแตนซ์มีการขึ้นต่อกันที่ยังไม่ได้แก้ไขขณะกําลังโหลด/ตรวจสอบการเปิดใช้</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="776"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
+        <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>งานปรับปรุงข้อมูลเมตาของคอมโพเนนต์ล้มเหลวขณะดาวน์โหลดจากเซิร์ฟเวอร์ระยะไกล:

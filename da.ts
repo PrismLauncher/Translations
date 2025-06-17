@@ -1576,7 +1576,12 @@ Nogle versioner af Minecraft starter muligvis ikke.
         <translation>Instansen fandt uløste filkrav under indlæsning/kontrol af indlæsning.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="776"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
+        <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>Opdatering af metadata-komponenter mislykkedes under overførsel fra fjernserver:

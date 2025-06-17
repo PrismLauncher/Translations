@@ -1626,7 +1626,12 @@ Algumas versões do Minecraft podem não iniciar.
         <translation>A instância contém dependências não resolvidas durante o carregamento/verificação de inicialização.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="776"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
+        <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>Falha ao atualizar metadados de componentes durante o download de um servidor remoto:

@@ -1342,7 +1342,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>துவக்கத்தை ஏற்றும்போது/சரிபார்க்கும்போது சான்று தீர்க்கப்படாத சார்புகளை கொண்டுள்ளது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="776"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
+        <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>தொலைநிலை சேவையகத்திலிருந்து பதிவிறக்கும் போது உபகரண மேனிலை தரவு புதுப்பிப்பு பணி தோல்வியடைந்தது:
