@@ -228,42 +228,42 @@
         <translation>ไม่ได้ตั้งค่าเวอร์ชันตัวโหลดสำหรับ modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="517"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
         <source>Unknown or unsupported download type: %1</source>
         <translation>ประเภทการดาวน์โหลดที่ไม่รู้จักหรือไม่รองรับ: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="633"/>
         <source>Downloading configs...</source>
         <translation>กำลังดาวน์โหลดค่ากำหนด...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="631"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Config download</source>
         <translation>ดาวน์โหลดค่ากำหนด</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="672"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="675"/>
         <source>Extracting configs...</source>
         <translation>กำลังแยกค่ากำหนด...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="678"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="681"/>
         <source>Failed to open pack configs %1!</source>
         <translation>เกิดข้อผิดพลาดในการเปิดแพ็คค่ากำหนด %1!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="703"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
         <source>Selecting optional mods...</source>
         <translation>กำลังเลือกม็อดเสริม...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="712"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"/>
         <source>Downloading mods...</source>
         <translation>กำลังดาวน์โหลดม็อด...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Mod download</source>
         <translation>ดาวน์โหลดม็อด</translation>
     </message>
@@ -272,53 +272,53 @@
         <translation type="vanished">ประเภทการดาวน์โหลดที่ไม่รองรับ: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="740"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="870"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="743"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="873"/>
         <source>Unknown download type: %1</source>
         <translation>ประเภทการดาวน์โหลดที่ไม่รู้จัก: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="820"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="823"/>
         <source>Blocked mods found</source>
         <translation>พบม็อดที่ถูกบล็อก</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="821"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>ไฟล์ต่อไปนี้ไม่พร้อมให้ดาวน์โหลดในตัวเรียกใช้งานของบุคคลที่สาม&lt;br/&gt;คุณจะต้องดาวน์โหลดไฟล์เหล่านี้ด้วยตนเองและเพิ่มลงในอินสแตนซ์</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="877"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="880"/>
         <source>%1 out of %2 complete</source>
         <translation>ติดตั้งเสร็จสิ้น %1 ไฟล์จาก %2 ไฟล์</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="915"/>
         <source>Failed to extract mods...</source>
         <translation>เกิดข้อผิดพลาดในการแยกม็อด...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="922"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="925"/>
         <source>Extracting mods...</source>
         <translation>กำลังแยกม็อด...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="994"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="997"/>
         <source>Installing modpack</source>
         <translation>กำลังติดตั้งม็อดแพ็ค</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1006"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1009"/>
         <source>Failed to create libraries component</source>
         <translation>ไม่สามารถสร้างส่วนประกอบไลบรารี</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1033"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1036"/>
         <source>Unknown loader type: </source>
         <translation>ประเภทโหลดเดอร์ที่ไม่รู้จัก: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1047"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1050"/>
         <source>Failed to create pack component</source>
         <translation>สร้างองค์ประกอบแพ็คไม่สำเร็จ</translation>
     </message>

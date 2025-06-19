@@ -228,42 +228,42 @@
         <translation>沒有為模組包設定載入器版本！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="517"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
         <source>Unknown or unsupported download type: %1</source>
         <translation>未知或不支援的下載類型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="633"/>
         <source>Downloading configs...</source>
         <translation>正在下載設定檔…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="631"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Config download</source>
         <translation>下載設定檔</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="672"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="675"/>
         <source>Extracting configs...</source>
         <translation>正在解壓縮設定檔…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="678"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="681"/>
         <source>Failed to open pack configs %1!</source>
         <translation>無法開啟模組包設定檔 %1！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="703"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
         <source>Selecting optional mods...</source>
         <translation>正在選擇可選模組…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="712"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"/>
         <source>Downloading mods...</source>
         <translation>正在下載模組…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Mod download</source>
         <translation>模組下載</translation>
     </message>
@@ -272,53 +272,53 @@
         <translation type="vanished">不支援的下載類型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="740"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="870"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="743"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="873"/>
         <source>Unknown download type: %1</source>
         <translation>未知的下載類型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="820"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="823"/>
         <source>Blocked mods found</source>
         <translation>找到被封鎖的模組</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="821"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>以下檔案不開放第三方啟動器下載。&lt;br/&gt;您需要手動下載並將它們新增至實例。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="877"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="880"/>
         <source>%1 out of %2 complete</source>
         <translation>已完成 %1 個，共 %2 個</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="915"/>
         <source>Failed to extract mods...</source>
         <translation>無法解壓縮模組…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="922"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="925"/>
         <source>Extracting mods...</source>
         <translation>正在解壓縮模組…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="994"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="997"/>
         <source>Installing modpack</source>
         <translation>正在安裝模組包</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1006"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1009"/>
         <source>Failed to create libraries component</source>
         <translation>無法建立程式庫元件</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1033"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1036"/>
         <source>Unknown loader type: </source>
         <translation>無效的載入器類型： </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1047"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1050"/>
         <source>Failed to create pack component</source>
         <translation>無法建立元件包</translation>
     </message>

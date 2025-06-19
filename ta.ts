@@ -220,93 +220,93 @@
         <translation>மோட்பேக்கிற்கு ஏற்றி பதிப்பு அமைக்கப்படவில்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="517"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
         <source>Unknown or unsupported download type: %1</source>
         <translation>அறியப்படாத அல்லது ஆதரிக்கப்படாத பதிவிறக்க வகை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="633"/>
         <source>Downloading configs...</source>
         <translation>உள்ளமைவுகளைப் பதிவிறக்குகிறது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="631"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Config download</source>
         <translation>கட்டமைப்பு பதிவிறக்கம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="672"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="675"/>
         <source>Extracting configs...</source>
         <translation>உள்ளமைவுகளைப் பிரித்தெடுக்கிறது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="678"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="681"/>
         <source>Failed to open pack configs %1!</source>
         <translation>பேக் உள்ளமைவுகளைத் திறக்கத் தவறிவிட்டது %1!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="703"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
         <source>Selecting optional mods...</source>
         <translation>விருப்ப மோட்களைத் தேர்ந்தெடுப்பது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="712"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"/>
         <source>Downloading mods...</source>
         <translation>மோட்சைப் பதிவிறக்குகிறது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Mod download</source>
         <translation>மோட் பதிவிறக்கம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="740"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="870"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="743"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="873"/>
         <source>Unknown download type: %1</source>
         <translation>தெரியாத பதிவிறக்க வகை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="820"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="823"/>
         <source>Blocked mods found</source>
         <translation>தடுக்கப்பட்ட மோட்ச் காணப்பட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="821"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>மூன்றாம் தரப்பு லாஞ்சர்களில் பதிவிறக்கம் செய்ய பின்வரும் கோப்புகள் கிடைக்கவில்லை. &lt;br/&gt; நீங்கள் அவற்றை கைமுறையாக பதிவிறக்கம் செய்து அவற்றை உதாரணமாக சேர்க்க வேண்டும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="877"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="880"/>
         <source>%1 out of %2 complete</source>
         <translation>%2 இல் %1 முடிந்தது</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="915"/>
         <source>Failed to extract mods...</source>
         <translation>மோட்சைப் பிரித்தெடுப்பதில் தோல்வி ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="922"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="925"/>
         <source>Extracting mods...</source>
         <translation>மோட்சைப் பிரித்தெடுக்கும் ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="994"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="997"/>
         <source>Installing modpack</source>
         <translation>மோட்பேக்கை நிறுவுதல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1006"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1009"/>
         <source>Failed to create libraries component</source>
         <translation>நூலகங்களின் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1033"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1036"/>
         <source>Unknown loader type: </source>
         <translation>அறியப்படாத ஏற்றி வகை: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1047"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1050"/>
         <source>Failed to create pack component</source>
         <translation>பேக் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
     </message>

@@ -220,42 +220,42 @@
         <translation>Није постављена верзија за учитавање паковања модификација!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="517"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
         <source>Unknown or unsupported download type: %1</source>
         <translation>Непознат или неподржан тип преузимања: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="633"/>
         <source>Downloading configs...</source>
         <translation>Преузимање конфигурација...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="631"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Config download</source>
         <translation>Преузми конфигурацију</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="672"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="675"/>
         <source>Extracting configs...</source>
         <translation>Отпакивање конфигурација...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="678"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="681"/>
         <source>Failed to open pack configs %1!</source>
         <translation>Отварање конфигурација пакета %1 није успело!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="703"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
         <source>Selecting optional mods...</source>
         <translation>Бирање опционих модова...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="712"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"/>
         <source>Downloading mods...</source>
         <translation>Преузимање модова...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Mod download</source>
         <translation>Мод преузимање</translation>
     </message>
@@ -264,53 +264,53 @@
         <translation type="vanished">Неподржани тип преузимања: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="740"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="870"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="743"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="873"/>
         <source>Unknown download type: %1</source>
         <translation>Непознат тип преузимања: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="820"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="823"/>
         <source>Blocked mods found</source>
         <translation>Blokirane modifikacije pronađene</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="821"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>Sledeći fajlovi nisu mogući skinuti na druge launcher-e.&lt;br/&gt;Morate da ih samostalno skinete i dodate u instanc.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="877"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="880"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 од укупно %2 завршено</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="915"/>
         <source>Failed to extract mods...</source>
         <translation>Отпакивање модова није успело...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="922"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="925"/>
         <source>Extracting mods...</source>
         <translation>Отпакивање модова...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="994"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="997"/>
         <source>Installing modpack</source>
         <translation>Инсталирање модпацк-а</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1006"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1009"/>
         <source>Failed to create libraries component</source>
         <translation>Прављење компоненте библиотеке није успело</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1033"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1036"/>
         <source>Unknown loader type: </source>
         <translation>Непознат тип модификатора: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1047"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1050"/>
         <source>Failed to create pack component</source>
         <translation>Креирање компоненте пакета није успело</translation>
     </message>

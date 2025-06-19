@@ -220,42 +220,42 @@
         <translation>Walang bersyon ng loader na naitakda para sa modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="517"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
         <source>Unknown or unsupported download type: %1</source>
         <translation>Hindi kilala o suportadong uri ng download: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="633"/>
         <source>Downloading configs...</source>
         <translation>Dina-download ang mga config...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="631"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Config download</source>
         <translation>Pag download ng config</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="672"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="675"/>
         <source>Extracting configs...</source>
         <translation>Ine-extract ang mga config...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="678"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="681"/>
         <source>Failed to open pack configs %1!</source>
         <translation>Nagkaproblema sa pagbukas ng config ng pack %1!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="703"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
         <source>Selecting optional mods...</source>
         <translation>Pinipili ang mga opsyonal na mod...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="712"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"/>
         <source>Downloading mods...</source>
         <translation>Dina-download ang mga mod...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Mod download</source>
         <translation>Pag-download ng mod</translation>
     </message>
@@ -264,53 +264,53 @@
         <translation type="vanished">Hindi suportadong uri ng pag-download: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="740"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="870"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="743"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="873"/>
         <source>Unknown download type: %1</source>
         <translation>Hindi kilalang uri ng pag-download: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="820"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="823"/>
         <source>Blocked mods found</source>
         <translation>May nakitang pinagbabawalang mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="821"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>Ang mga file na ito ay hindi ma-dodownload gamit ng third party launchers.&lt;br/&gt;Kailangan mo i-download sila ng sarili mo at i-dagdag sila sa iyong instance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="877"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="880"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 ng mga %2 ay tapos na</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="915"/>
         <source>Failed to extract mods...</source>
         <translation>Nabigong i-extract ang mga mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="922"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="925"/>
         <source>Extracting mods...</source>
         <translation>Ine-extract ang mga mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="994"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="997"/>
         <source>Installing modpack</source>
         <translation>Ini-install ang modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1006"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1009"/>
         <source>Failed to create libraries component</source>
         <translation>Nabigong gawin ang mga component ng libraries</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1033"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1036"/>
         <source>Unknown loader type: </source>
         <translation>Hindi kilalang uri ng loader: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1047"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1050"/>
         <source>Failed to create pack component</source>
         <translation>Nabigong gawin ang component ng pack</translation>
     </message>
