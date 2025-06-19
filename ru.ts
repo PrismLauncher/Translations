@@ -847,7 +847,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Набор котиков:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
