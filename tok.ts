@@ -1619,12 +1619,12 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="82"/>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>nimi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="84"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>nanpa</translation>
     </message>
 </context>
 <context>
@@ -1632,7 +1632,7 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="65"/>
         <source>Game Options</source>
-        <translation type="unfinished"></translation>
+        <translation>nasin musi</translation>
     </message>
 </context>
 <context>
@@ -1739,7 +1739,7 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="65"/>
         <source>Add Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>o pana e sitelen lili</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="66"/>
