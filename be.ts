@@ -753,7 +753,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="55"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Выгляд</translation>
     </message>
 </context>
 <context>
