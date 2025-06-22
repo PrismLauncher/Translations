@@ -730,7 +730,7 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Do you really want to delete this account?</source>
-        <translation>Queres mesmo apagar esta conta?</translation>
+        <translation>você quer mesmo apagar esta conta?</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -801,14 +801,14 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation>Abrir pasta dos pacotes de gatos.</translation>
+        <translation>ver a pasta dos pacotes de gatos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation>Abrir pasta</translation>
+        <translation>Abrir a pasta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
@@ -818,7 +818,7 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished">Abrir a pasta de temas de ícones.</translation>
+        <translation>Abrir a pasta dos temas de ícones.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
@@ -843,7 +843,7 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation>Tipo de letra da consola:</translation>
+        <translation>fonte de letra do console:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="215"/>
@@ -909,7 +909,7 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation>[FATAL] Um erro fatal aterrador!</translation>
+        <translation>[FATAL] Um erro fatal aterrorizante!</translation>
     </message>
 </context>
 <context>
@@ -922,7 +922,7 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="899"/>
         <source>Settings</source>
-        <translation>Definições</translation>
+        <translation>configurações</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1045"/>
@@ -944,17 +944,17 @@ Carimbo de data/hora: %2
 Atualização da versão %3 para %4
 Caminho de instalação de destino: %5
 Caminho de dados: %6
-Isto significa provavelmente que uma tentativa de atualização falhou. Por favor, verifica se a tua instalação está em ordem de funcionamento antes de prosseguires.
+Isto significa provavelmente que uma tentativa de atualização falhou. Por favor, verifica se a sua instalação está em ordem de funcionamento antes de prosseguir.
 Verifica o registo do atualizador do Prism Launcher em: 
 %7
-para obteres detalhes sobre a última tentativa de atualização.
+para obter detalhes sobre a última tentativa de atualização.
 
 Para eliminar este bloqueio e prosseguir, carrega em &quot;Ignorar&quot; abaixo.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1062"/>
         <source>Update In Progress</source>
-        <translation>Atualização em curso</translation>
+        <translation>Atualização em progresso</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1086"/>
@@ -966,10 +966,10 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.</source>
         <translation>Uma tentativa de atualização falhou
 
-Verifica se a tua instalação funciona antes de continuar..
+Verifica se a sua instalação está funcionando antes de continuar..
 Verifica o registo do atualizador do Prism Launcher em:
 %1
-para veres os detalhes sobre a última tentativa de atualização.</translation>
+para ver os detalhes sobre a última tentativa de atualização.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1094"/>
