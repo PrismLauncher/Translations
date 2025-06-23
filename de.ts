@@ -8655,10 +8655,10 @@ Um den Metadaten-Cache manuell zu bereinigen, klicke auf Ordner -&gt; Launcher-S
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished">Sie sind davor &quot;%1&quot;%2.
+        <translation>Sie sind davor &quot;%1&quot;%2 zu löschen.
 Das könnte permanent sein und wird die ganze Instanz löschen.
 
-Bist du dir sicher?</translation>
+Fortfahren?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
@@ -8667,7 +8667,7 @@ Bist du dir sicher?</translation>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation>Erstelle Instanz-Applikation</translation>
+        <translation>Instanz-Applikation erstellen</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
@@ -8683,7 +8683,7 @@ Bist du dir sicher?</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation>Auf Deiner Plattform nicht unterstützt!</translation>
+        <translation>Nicht auf deiner Plattform unterstützt!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
@@ -8719,17 +8719,17 @@ Bist du dir sicher?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation>Das ist ein Problem: &lt;br/&gt;- Der Launcher wird vermutlich ohne Warnung vom Betriebssystem gelöscht werden &lt;br/&gt;- Schließe den Launcher und entpacke ihn in einen nicht-temporären Pfad</translation>
+        <translation>Das ist ein Problem: &lt;br/&gt;- Der Launcher könnte ohne Warnung vom Betriebssystem gelöscht werden &lt;br/&gt;- Schließe den Launcher und entpacke ihn in einen nicht-temporären Pfad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>Dein Instanz-Ordner enthält &apos;Rar$&apos; - das bedeutet, dass du die Archivdatei nicht ausgepackt hast!</translation>
+        <translation type="unfinished">Dein Instanz-Ordner enthält &apos;Rar$&apos; - das bedeutet, dass du das Launcherarchiv nicht entgepackt hast!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1657"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation>Deine Instanz ist einem temporären Ordner: &apos;%1&apos;!</translation>
+        <translation type="unfinished">Dein Instanzordner ist einem temporären Ordner: &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1671"/>
@@ -8777,12 +8777,12 @@ Bist du dir sicher?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation>Pack Informationen</translation>
+        <translation type="unfinished">Pack Informationen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack name:</source>
-        <translation>Pack Name:</translation>
+        <translation type="unfinished">Pack Name:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
@@ -8807,7 +8807,7 @@ Bist du dir sicher?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update from file</source>
-        <translation>Update von einer Datei</translation>
+        <translation type="unfinished">Update von einer Datei</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -8817,7 +8817,7 @@ Bist du dir sicher?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="186"/>
         <source>No changelog available for this version!</source>
-        <translation>Für diese Version ist kein Änderungsbericht verfügbar!</translation>
+        <translation type="unfinished">Kein Änderungsprotokoll für diese Version verfügbar!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="201"/>
@@ -9460,7 +9460,7 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
         <source>&amp;Window Size:</source>
-        <translation type="unfinished">&amp;Fenster Größe:</translation>
+        <translation>&amp;Fenstergröße:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="189"/>
