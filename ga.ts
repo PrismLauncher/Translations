@@ -140,7 +140,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Is féidir leat é seo a shocrú chuig freastalaí meiteashonraí tríú páirtí chun leabharlanna paisteáilte nó hacks eile a úsáid.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -149,11 +149,11 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="257"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nóta: ní gá duit é seo a shocrú ach chun rochtain a fháil ar shonraí príobháideacha. Léigh an &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;doiciméadú&lt;/a&gt; le haghaidh tuilleadh eolais.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;CurseForge Core API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="315"/>
@@ -167,7 +167,7 @@
     </message>
     <message>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">APIs</translation>
     </message>
 </context>
 <context>
@@ -187,22 +187,22 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="153"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Theip ar innéacs meiteashonraí áitiúil a fháil do &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="143"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mód suiteála nach dtacaítear leis</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="184"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ag scriosadh comhad atá ann cheana féin...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="331"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cineál mod anaithnid: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="374"/>
