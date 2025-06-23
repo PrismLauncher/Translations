@@ -4663,7 +4663,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="49"/>
         <source>Other logs</source>
-        <translation type="unfinished">Другие журналы</translation>
+        <translation>Другие логи</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="53"/>
@@ -9582,32 +9582,32 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
         <source>&amp;GLFW library path:</source>
-        <translation type="unfinished">Путь библиотеки &amp;GLFW:</translation>
+        <translation>Путь библиотеки &amp;GLFW:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="657"/>
@@ -9729,7 +9729,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="547"/>
         <source>Select Global Data Packs Folder</source>
-        <translation type="unfinished">Выбери папку с глобальными датапаки</translation>
+        <translation>Выберите папку с глобальными датапаками</translation>
     </message>
 </context>
 <context>
@@ -11486,7 +11486,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="133"/>
         <source>Keep updating</source>
-        <translation type="unfinished">Продолжать обновлять</translation>
+        <translation>Продолжить обновлять</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="143"/>
@@ -13541,7 +13541,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished">Не поддерживается на вашей платформе!</translation>
+        <translation>Не поддерживается на вашей платформе!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
@@ -13551,7 +13551,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished">Не удалось найти рабочий стол?!</translation>
+        <translation>Не удалось найти десктоп?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="181"/>
@@ -13586,7 +13586,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
         <source>Network error: %1</source>
-        <translation type="unfinished">Сетевая ошибка: %1</translation>
+        <translation>Сетевая ошибка: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
@@ -13635,7 +13635,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Датапаки</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackIndex.cpp" line="148"/>
