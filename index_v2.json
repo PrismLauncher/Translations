@@ -107,11 +107,11 @@
             "untranslated" : 190
         },
         "de" : {
-            "file" : "bf952529519f654b1a5fbf2627dd5f111d8e2c42.class",
-            "sha1" : "bf952529519f654b1a5fbf2627dd5f111d8e2c42",
+            "file" : "da41a4f0d94aa8ddfa53301d10fe09b952fdc294.class",
+            "sha1" : "da41a4f0d94aa8ddfa53301d10fe09b952fdc294",
             "size" : 400573,
-            "translated" : 2571,
-            "fuzzy" : 13,
+            "translated" : 2567,
+            "fuzzy" : 17,
             "untranslated" : 40
         },
         "de_CH" : {
