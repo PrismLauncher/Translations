@@ -3356,7 +3356,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
         <source>Tools</source>
-        <translation type="unfinished">Инструменты</translation>
+        <translation>Инструменты</translation>
     </message>
 </context>
 <context>
@@ -9530,7 +9530,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="248"/>
         <source>When the game quits, hide the console window</source>
-        <translation type="unfinished">Когда игра закрыта, спрятать окна консоли</translation>
+        <translation>Когда игра закрыта, спрятать окна консоли</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="258"/>
@@ -9557,7 +9557,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
         <source>Browse</source>
-        <translation type="unfinished">Обзор</translation>
+        <translation>Обзор</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="368"/>
@@ -12479,7 +12479,7 @@ HTTP Статус: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
         <source>Use S&amp;ystem Settings</source>
-        <translation type="unfinished">Использовать системные настройки</translation>
+        <translation>Использовать системные настройки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
@@ -13003,7 +13003,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation type="unfinished">Выбранный бинарный файл Java не работает.&lt;br /&gt;Нажмите &apos;Определить&apos; или установите путь к исполняемому файлу Java.&lt;br /&gt;</translation>
+        <translation>Выбранный бинарный файл Java не работает.&lt;br /&gt;Нажмите &apos;Определить&apos; или установите путь к исполняемому файлу Java.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
@@ -13512,12 +13512,12 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="243"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Создать ярлык</translation>
+        <translation>Создать ярлык</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished">Лаунчер находится в папке, из которой он был распакован, поэтому не может создавать ярлыки.</translation>
+        <translation>Лаунчер находится в папке, из которой он был распакован, поэтому не может создавать ярлыки.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
@@ -13528,7 +13528,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished">Лаунчер работает как неправильно настроенный AppImage? (переменная среды $APPIMAGE отсутствует)</translation>
+        <translation>Лаунчер работает как неправильно настроенный AppImage? (переменная среды $APPIMAGE отсутствует)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
@@ -13536,7 +13536,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished">Не удалось создать иконку для ярлыка.</translation>
+        <translation>Не удалось создать иконку для ярлыка.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
@@ -13561,12 +13561,12 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="192"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation type="unfinished">Не удалось найти папку приложений?!</translation>
+        <translation>Не удалось найти папку приложений?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="202"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation type="unfinished">Не удалось создать папку экземпляров в папке приложений!</translation>
+        <translation>Не удалось создать папку экземпляров в папке приложений!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="211"/>
@@ -13576,7 +13576,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="235"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished">Ярлыки</translation>
+        <translation>Ярлыки</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="244"/>
@@ -13591,7 +13591,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished">Ошибка: %1 вернул неожиданный код статуса %2 %3</translation>
+        <translation>Ошибка: %1 вернул неожиданный код статуса %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
@@ -13603,7 +13603,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished">Ошибка: %1 вернул неправильно сформированный ответ</translation>
+        <translation>Ошибка: %1 вернул неправильно сформированный ответ</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
@@ -13613,7 +13613,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished">Ошибка: %1 вернул ошибку: %2</translation>
+        <translation>Ошибка: %1 вернул ошибку: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
@@ -13624,7 +13624,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">Ошибка: %1 вернул код ошибки: %2
+        <translation>Ошибка: %1 вернул код ошибки: %2
 Сообщение об ошибке: %3</translation>
     </message>
     <message>
@@ -13673,7 +13673,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation type="unfinished">набор данных</translation>
+        <translation>набор данных</translation>
     </message>
 </context>
 <context>
@@ -16079,7 +16079,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished">Внешний вид</translation>
+        <translation>Внешний вид</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
@@ -17183,7 +17183,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
         <source>Manage data packs inside the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Управляйте пакетами данных внутри мира.</translation>
     </message>
     <message>
         <source>Datapacks</source>
@@ -17291,12 +17291,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="224"/>
         <source>Manage Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Управляйте пакетами данных</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="231"/>
         <source>Data packs for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Пакеты данных для %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
