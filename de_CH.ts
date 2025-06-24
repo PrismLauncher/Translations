@@ -8882,7 +8882,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="128"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alle Versionen</translation>
     </message>
 </context>
 <context>
@@ -14357,7 +14357,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordner</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
@@ -14365,7 +14365,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordner</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
@@ -14377,7 +14377,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordner</translation>
     </message>
     <message>
         <source>Refresh all</source>
@@ -14409,7 +14409,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erscheinung</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
