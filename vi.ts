@@ -868,7 +868,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="256"/>
         <source>Cat Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Độ mờ của chú mèo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="311"/>
