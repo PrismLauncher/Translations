@@ -1584,7 +1584,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation>%1にはコンポーネント名、%2にはバージョン番号が入ることを想定して翻訳します。</translation>
+        <translation>%1 %2 のメタデータをダウンロードできませんでした。バージョンを変更するか、後でもう一度お試しください。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
@@ -1608,7 +1608,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
         <source>Task failed</source>
-        <translation>処理に失敗しました</translation>
+        <translation>タスクが失敗しました</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
@@ -1878,7 +1878,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
         <source>Name</source>
-        <translation type="unfinished">名前</translation>
+        <translation>名前</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
@@ -1893,7 +1893,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation type="unfinished">自動参加するワールドまたはサーバーを指定します。</translation>
+        <translation>起動時に自動で参加するワールドまたはサーバーを指定します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
