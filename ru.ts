@@ -9346,7 +9346,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="29"/>
         <source>Open &amp;Global Settings</source>
-        <translation>Открыть глобальные настройки</translation>
+        <translation>Открыть &amp;глобальные настройки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
@@ -13948,7 +13948,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="433"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
-        <translation>Версии для &apos; %1&apos;  отсутствуют
+        <translation>Версии для &apos;%1&apos; отсутствуют.
 Вероятно, автор заблокировал сторонние лаунчеры.</translation>
     </message>
     <message>
