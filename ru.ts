@@ -25,7 +25,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished">&amp;Тип сервиса отправки логов</translation>
+        <translation>&amp;Тип сервиса отправки логов</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -136,7 +136,7 @@
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Прочие</translation>
+        <translation>Прочее</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
@@ -470,7 +470,7 @@
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Ошибочные</translation>
+        <translation>Сбой</translation>
     </message>
     <message>
         <source>Expired</source>
@@ -633,7 +633,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>Войти через Microsoft</translation>
+        <translation>Добавить аккаунт Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
@@ -4863,7 +4863,7 @@ Proceed with caution!</source>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Прочие</translation>
+        <translation>Прочее</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
@@ -6342,12 +6342,12 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation>По последн&amp;им запущенным</translation>
+        <translation>&amp;По последнему запуску</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
         <source>By &amp;name</source>
-        <translation>По названию</translation>
+        <translation>По &amp;названию</translation>
     </message>
     <message>
         <source>Theme</source>
@@ -7411,7 +7411,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
         <source>Sign in with Microsoft</source>
-        <translation>Войди через Microsoft</translation>
+        <translation>Войти через Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="166"/>
@@ -9215,17 +9215,17 @@ This can be updated only using a file in %1 format
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>Показывать время, &amp;проведённое в установках игры</translation>
+        <translation>Показывать время, &amp;проведённое в сборках</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>Показывать время, проведённое во &amp;всех установках игры</translation>
+        <translation>Показывать время, проведённое во &amp;всех сборках</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>&amp;Записывать время, проведённое в установках игры</translation>
+        <translation>&amp;Записывать время, проведённое в сборках</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
@@ -9233,7 +9233,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Прочие</translation>
+        <translation>Прочее</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -9957,7 +9957,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Provider</source>
-        <translation>Проводник</translation>
+        <translation>Источник</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
