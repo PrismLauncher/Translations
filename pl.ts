@@ -128,7 +128,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="358"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Uwaga: musisz tylko to ustawić, aby uzyskać dostęp do prywatnych danych.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Uwaga: musisz tylko to ustawić, aby uzyskać dostęp do prywatnych danych.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
@@ -15350,7 +15350,7 @@ Czy chcesz kontynuować?</translation>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
         <translation>Zaraz usuniesz &quot;%1&quot;.
-Jesteś sure(nięty)?</translation>
+Jesteś pewien?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="379"/>
