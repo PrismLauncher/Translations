@@ -82,7 +82,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>Microsoft 驗證 (&amp;M)</translation>
+        <translation>微軟驗證 (&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -884,7 +884,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="334"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>透明</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
