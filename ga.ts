@@ -42,8 +42,9 @@
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentation</source>
-        <translation>&amp;Fíordheimhniú Microsoft</translation>
+        <source>&amp;Microsoft Authentication</source>
+        <oldsource>&amp;Microsoft Authentation</oldsource>
+        <translation type="unfinished">&amp;Fíordheimhniú Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="228"/>
@@ -70,6 +71,7 @@
         <translation>eochracha API</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
         <translation>Microsoft Fíordheimhniú</translation>

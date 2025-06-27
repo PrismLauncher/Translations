@@ -50,8 +50,9 @@
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentation</source>
-        <translation>Microsoft 驗證 (&amp;M)</translation>
+        <source>&amp;Microsoft Authentication</source>
+        <oldsource>&amp;Microsoft Authentation</oldsource>
+        <translation type="unfinished">Microsoft 驗證 (&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="228"/>
@@ -78,6 +79,7 @@
         <translation>API 金鑰</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
         <translation>Microsoft 驗證 (&amp;M)</translation>

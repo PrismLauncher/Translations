@@ -58,8 +58,9 @@
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentation</source>
-        <translation>&amp;Аутентификация Microsoft</translation>
+        <source>&amp;Microsoft Authentication</source>
+        <oldsource>&amp;Microsoft Authentation</oldsource>
+        <translation type="unfinished">&amp;Аутентификация Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="228"/>
@@ -86,6 +87,7 @@
         <translation>Ключи API</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
         <translation>&amp;Аутентификация Microsoft</translation>

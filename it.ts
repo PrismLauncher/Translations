@@ -50,8 +50,9 @@
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentation</source>
-        <translation>Autenticazione &amp;Microsoft</translation>
+        <source>&amp;Microsoft Authentication</source>
+        <oldsource>&amp;Microsoft Authentation</oldsource>
+        <translation type="unfinished">Autenticazione &amp;Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="228"/>
@@ -78,6 +79,7 @@
         <translation>Chiavi API</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
         <translation>Autenticazione &amp;Microsoft</translation>

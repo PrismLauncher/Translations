@@ -42,8 +42,9 @@
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentation</source>
-        <translation>&amp;Microsofti autentimine</translation>
+        <source>&amp;Microsoft Authentication</source>
+        <oldsource>&amp;Microsoft Authentation</oldsource>
+        <translation type="unfinished">&amp;Microsofti autentimine</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="228"/>
@@ -70,6 +71,7 @@
         <translation>Rakendusliidese võtmed</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
         <translation>&amp;Microsofti autentimine</translation>
