@@ -83,12 +83,6 @@
         <translation>API 密钥</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentication</source>
-        <oldsource>Microsoft Authentication</oldsource>
-        <translation>Microsoft 身份验证 (&amp;M)</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>注：如果通过 Microsoft 身份验证的登录已经有效，则此项可能不需要设置。</translation>

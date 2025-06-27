@@ -71,12 +71,6 @@
         <translation>Susi sa API</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentication</source>
-        <oldsource>Microsoft Authentication</oldsource>
-        <translation>Awtentikasyon sa &amp;Microsoft</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>Tandaan: hindi mo naman na siguro kailangang itakda ito kung gumagana naman na ang pag-log in gamit ang Awtentikasyon sa Microsoft.</translation>

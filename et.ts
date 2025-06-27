@@ -71,12 +71,6 @@
         <translation>Rakendusliidese võtmed</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentication</source>
-        <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;Microsofti autentimine</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>Märkus: sa ei pea arvatavasti seda seadma kui Microsofti kaudu sisse logimine juba töötab.</translation>

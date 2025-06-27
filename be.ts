@@ -71,12 +71,6 @@
         <translation>Ключы API</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentication</source>
-        <oldsource>Microsoft Authentication</oldsource>
-        <translation>Аўтэнтыфікацыя &amp;Microsoft</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>Заўвага: напэўна, вам не патрэбна змяняць гэта, калі ўваход у ўліковы запіс Microsoft ужо працуе.</translation>

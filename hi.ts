@@ -71,12 +71,6 @@
         <translation>एपीआई कीज़</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentication</source>
-        <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;माइक्रोसॉफ्ट प्रमाणीकरण</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>नोट: यदि Microsoft प्रमाणीकरण के माध्यम से लॉग इन करना पहले से ही काम करता है, तो आपको संभवतः इसे सेट करने की आवश्यकता नहीं है।</translation>

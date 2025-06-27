@@ -87,12 +87,6 @@
         <translation>Klucze API</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentication</source>
-        <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;Uwierzytelnianie Microsoft</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>Uwaga: Prawdopodobnie nie musisz tego zmieniać, jeżeli logowanie poprzez uwierzytelnianie Microsoft działa poprawnie.</translation>

@@ -79,12 +79,6 @@
         <translation>API Sleutels</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentication</source>
-        <oldsource>Microsoft Authentication</oldsource>
-        <translation>Microsoft Authenticatie</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>Let op: dit hoeft waarschijnlijk niet ingesteld te worden als het al lukt om met Microsoft Authenticatie in te loggen.</translation>

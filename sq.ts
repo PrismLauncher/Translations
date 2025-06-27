@@ -71,12 +71,6 @@
         <translation>Çelësat e API-s</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentication</source>
-        <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;Autorizim nga Microsoft</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>Shënim: Nuk duhet të ndryshohet ky opsion nëse hyrja me &quot;Microsoft Authentication&quot; ka funksionuar.</translation>

@@ -71,12 +71,6 @@
         <translation>Allweddi API</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentication</source>
-        <oldsource>Microsoft Authentication</oldsource>
-        <translation>Awthentigeiddio &amp;Microsoft</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>Nodyn: dwyt ti ddim yn debygol o orfod setio hwn os ydi logio i fewn via Awthenticiaeth Microsoft yn gweithio yn barod.</translation>

@@ -71,12 +71,6 @@
         <translation>کلید های API</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentication</source>
-        <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;احراز هویت مایکروسافت</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>توجه: اگر ورود کردن توسط تایید اعتبار مایکروسافت از پیش کار میکند شما ممکن است نیازی به قرار دادن این نداشته باشید.</translation>

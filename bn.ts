@@ -71,12 +71,6 @@
         <translation>API চাবি</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentication</source>
-        <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;Microsoft প্রমাণীকরণ</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation type="unfinished">দ্রষ্টব্য: যদি মাইক্রোসফ্ট প্রমাণীকরণের মাধ্যমে লগ ইন করা ইতিমধ্যেই কাজ করে তবে সম্ভবত আপনার এটি সেট করার দরকার নেই।</translation>

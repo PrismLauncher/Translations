@@ -71,12 +71,6 @@
         <translation>Clâfs API</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentication</source>
-        <oldsource>Microsoft Authentication</oldsource>
-        <translation>Autenticazion &amp;Microsoft</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>Note: al è probabil che no ti coventi configurâ chest cjamp se l&apos;acès midiant autenticazion Microsoft al funzione bielzà.</translation>

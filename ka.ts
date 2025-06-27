@@ -71,12 +71,6 @@
         <translation>API გასაღებები</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentication</source>
-        <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;Microsoft აუტენტიფიკაცია</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>შენიშვნა: თქვენ ალბათ არ გესაჭიროებათ ამის დაყენება თუ უკვე გააქტიურებულია აუტენტიფიკაცია Microsoft-ის მეშვეობით.</translation>

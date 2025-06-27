@@ -71,12 +71,6 @@
         <translation>பநிஇ விசைகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentication</source>
-        <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp; நுண்மென் ஏற்பு</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>குறிப்பு: நுண்மென் ஏற்பு ஏற்கனவே செயல்பட்டால் உள்நுழைந்தால் இதை நீங்கள் அமைக்க தேவையில்லை.</translation>

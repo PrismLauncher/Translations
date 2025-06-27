@@ -79,12 +79,6 @@
         <translation>API 金鑰</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
-        <source>&amp;Microsoft Authentication</source>
-        <oldsource>Microsoft Authentication</oldsource>
-        <translation>微軟驗證 (&amp;M)</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>注意：如果透過 Microsoft 驗證登入已經可以正常運作，則可能不需要設定這項選項。</translation>
