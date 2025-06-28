@@ -7992,7 +7992,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="366"/>
         <source>Rename the selected instance.</source>
-        <translation>A kiválasztott példány átnevezése..</translation>
+        <translation>A kiválasztott példány átnevezése.</translation>
     </message>
     <message>
         <source>Launch &amp;Offline</source>
@@ -8103,7 +8103,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="399"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation>Módosítsa a példány beállításait, modjait és verzióit.</translation>
+        <translation>Módosítd a példány beállításait, modjait és verzióit.</translation>
     </message>
     <message>
         <source>Edit Notes</source>
@@ -8125,7 +8125,7 @@ Indok:
         <location filename="src/launcher/ui/MainWindow.ui" line="424"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation>Törölje a kiválasztott példányt.</translation>
+        <translation>A kiválasztott példány törlése.</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -8142,7 +8142,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="377"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation>Kiválasztott példány csoportjának változtatása.</translation>
+        <translation>A kiválasztott példány csoportjának változtatása.</translation>
     </message>
     <message>
         <source>Minecraft Folder</source>
