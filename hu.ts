@@ -2270,7 +2270,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation>Próbálja meg ellenőrizni vagy frissíteni az összes kiválasztott adatcsomagot (az összes adatcsomagot, ha egyik sincs kiválasztva)</translation>
+        <translation>Próbáld meg ellenőrizni vagy frissíteni az összes kiválasztott adatcsomagot (az összes adatcsomagot, ha egyik sincs kiválasztva)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
@@ -2863,7 +2863,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="212"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation>Ez a modok metaadataitól függ. Az elérhetőség biztosításához futtasson egy frissítést a példányon. A frissítések telepítése nem szükséges.</translation>
+        <translation>Ez a modok metaadataitól függ. Az elérhetőség biztosításához futtass egy frissítést a példányon. A frissítések telepítése nem szükséges.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="226"/>
@@ -2968,7 +2968,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation>&quot;config&quot; mappa megnyitása a fájlkezelőben.</translation>
+        <translation>&apos;config&apos; mappa megnyitása a fájlkezelőben.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="149"/>
@@ -2993,7 +2993,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="174"/>
         <source>Try to check or update all selected resources (all resources if none are selected).</source>
-        <translation>Próbálja meg ellenőrizni vagy frissíteni az összes kiválasztott erőforrást (ha nincs kiválasztva semmi, akkor minden erőforrást).</translation>
+        <translation>Próbáld meg ellenőrizni vagy frissíteni az összes kiválasztott erőforrást (ha nincs kiválasztva semmi, akkor minden erőforrást).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
@@ -3023,7 +3023,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
         <source>Change a resource&apos;s version.</source>
-        <translation>Módosítsa az erőforrás verzióját.</translation>
+        <translation>Módosítsd az erőforrás verzióját.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
