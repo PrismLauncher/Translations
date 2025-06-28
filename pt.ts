@@ -2245,7 +2245,7 @@ Aviso: Este recurso está ligado a outro sítio. A sua edição também irá alt
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixar data packs de plataformas de mod online</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
@@ -2255,7 +2255,7 @@ Aviso: Este recurso está ligado a outro sítio. A sua edição também irá alt
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar versão de um data pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
