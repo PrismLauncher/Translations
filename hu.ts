@@ -3386,7 +3386,7 @@ Please try again.</source>
 %1
 
 Indok:%2
-Próbáld újra.</translation>
+Kérlek, próbáld újra.</translation>
     </message>
 </context>
 <context>
@@ -4195,7 +4195,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>A(z) %1 modcsomag le van tiltva harmadik felek számára! Kérjük, töltse le manuálisan.</translation>
+        <translation>A(z) %1 modcsomag le van tiltva harmadik felek számára! Kérlek, töltsd le manuálisan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
@@ -4233,17 +4233,17 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation>Válassza ki az importálni kívánt példányt</translation>
+        <translation>Válaszd ki az importálni kívánt példányt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>Válassza ki azt a példányt, amelybe importálni szeretné ezt a forráscsomagot.</translation>
+        <translation>Válaszd ki azt a példányt, amelybe importálni szeretnéd ezt a forráscsomagot.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="45"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation>Válassza ki azt a példányt, amelybe importálni szeretné ezt: %1.</translation>
+        <translation>Válaszd ki azt a példányt, amelybe importálni szeretnéd ezt: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
@@ -4311,7 +4311,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation>Az Ön operációs rendszeréhez jelenleg nem érhető el Java verzió.</translation>
+        <translation>Az operációs rendszeredhez jelenleg nem érhető el Java verzió.</translation>
     </message>
 </context>
 <context>
@@ -4761,7 +4761,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation>Használja az OpenAL rendszertelepítését</translation>
+        <translation>Az OpenAL rendszertelepítének használata</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -4892,7 +4892,7 @@ This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
         <translation>A Java 32 bites verzióját választotta.
 Ez a telepítés nem támogat több mint 2048 MB RAM-ot.
-Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</translation>
+Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
@@ -5330,7 +5330,7 @@ This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
         <translation>A Java 32 bites verzióját választotta.
 Ez a telepítés nem támogat több mint 2048 MB RAM-ot.
-Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</translation>
+Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
@@ -5621,7 +5621,7 @@ This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
         <translation>A Java 32 bites verzióját választotta.
 Ez a telepítés nem támogat több mint 2048 MB RAM-ot.
-Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</translation>
+Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="295"/>
@@ -5662,7 +5662,7 @@ Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacs
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation>Kérjük, válassza ki, hogy mennyi memóriát rendeljen a példányokhoz, és hogy a Prism Launcher automatikusan vagy manuálisan kezelje a Javát.</translation>
+        <translation>Válaszd ki, hogy mennyi memóriát rendeljen a példányokhoz, és hogy a Prism Launcher automatikusan vagy manuálisan kezelje a Javát.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -5840,7 +5840,7 @@ A Java verziót később a beállítások között megváltoztathatja.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation>Érvénytelen Java argumentumok megadva. Kérjük, először ezt javítsa ki.</translation>
+        <translation>Érvénytelen Java argumentumok megadva. Kérlek, először ezt javítsd ki.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="92"/>
@@ -5866,12 +5866,12 @@ A Java verziót később a beállítások között megváltoztathatja.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="316"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>A launcher ügyfél-azonosítója megváltozott. Kérjük, távolítsa el a következőt: &quot;%1&quot;, és próbálja meg újra.</translation>
+        <translation>A launcher ügyfél-azonosítója megváltozott. Távolítsd el a következőt: &quot;%1&quot;, és próbáld meg újra.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="326"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>&quot;%1&quot; már nem létezik a szervereken. Lehet, hogy át lett migrálva, ebben az esetben kérjük, adja hozzá az új fiókot, ahová átmigrálta ezt a fiókot.</translation>
+        <translation>&quot;%1&quot; már nem létezik a szervereken. Lehet, hogy át lett migrálva, ebben az esetben add hozzá az új fiókot, ahová átmigráltad ezt a fiókot.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="343"/>
@@ -5958,7 +5958,7 @@ Szeretnél játszani a demóval?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>A launcher ügyfél-azonosítója megváltozott. Kérjük, távolítsa el ezt a fiókot, és adja hozzá újra.</translation>
+        <translation>A launcher ügyfél-azonosítója megváltozott. Távolítsd el ezt a fiókot, és add hozzá újra.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="319"/>
@@ -5967,7 +5967,7 @@ Szeretnél játszani a demóval?</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>A fiók már nem létezik a szervereken. Lehet, hogy át lett migrálva, ebben az esetben kérjük, adja hozzá az új fiókot, amelyre átmigrálta ezt a fiókot.</translation>
+        <translation>A fiók már nem létezik a szervereken. Lehet, hogy át lett migrálva, ebben az esetben add hozzá az új fiókot, amelyre átmigráltad ezt a fiókot.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="329"/>
@@ -6702,12 +6702,12 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="76"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation>A launcher könyvtára nem található. Kérjük, ellenőrizze a telepítést.</translation>
+        <translation>A launcher könyvtára nem található. Kérlek, ellenőrizd a telepítést.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="88"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation>Nem található legacy launcher könyvtár. Kérjük ellenőrizze installációját.</translation>
+        <translation>Nem található legacy launcher könyvtár. Kérlek, ellenőrizd installációdat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="140"/>
@@ -7301,7 +7301,7 @@ Indok:
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="218"/>
         <source>Please wait...</source>
-        <translation>Kérem várjon...</translation>
+        <translation>Kérlek várj...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
@@ -8312,7 +8312,7 @@ Adjon hozzá egy Microsoft-fiókot.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="981"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>A(z) %1 modcsomag, mod vagy erőforrás le van tiltva harmadik felek számára! Kérjük, töltse le manuálisan.</translation>
+        <translation>A(z) %1 modcsomag, mod vagy erőforrás le van tiltva harmadik felek számára! Kérlek, töltsd le manuálisan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1015"/>
@@ -8475,7 +8475,7 @@ Biztos vagy benne?</translation>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>Nincs elérhető példány az erőforrás hozzáadásához.
-Kérjük, hozzon létre egy új példányt, mielőtt újra megpróbálná telepíteni ezt az erőforrást.</translation>
+Hozz létre egy új példányt, mielőtt újra megpróbálnád telepíteni ezt az erőforrást.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
@@ -8512,7 +8512,7 @@ Kérjük, hozzon létre egy új példányt, mielőtt újra megpróbálná telep�
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>Egyes példányok és parancsikonok nem voltak visszaállíthatók.
-Kérjük, ellenőrizze a lomtárat, hogy manuálisan visszaállíthassa őket.</translation>
+Ellenőrizd a lomtárat, hogy manuálisan visszaállíthasd őket.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
@@ -8531,7 +8531,7 @@ A metaadat gyorsítótár manuális törléséhez nyomja meg a Mappák -&gt; Lau
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation>A kiválasztott példány jelenleg fut, és nem törölhető. Kérjük, állítsa le a példányt, mielőtt megpróbálná törölni.</translation>
+        <translation>A kiválasztott példány jelenleg fut, és nem törölhető. Állítsd le a példányt, mielőtt megpróbálnád törölni.</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
@@ -8788,7 +8788,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="354"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation>A példányt nem sikerült frissíteni a csomag %1 verziójára. További információkért kérjük, ellenőrizze a launcher naplóját.</translation>
+        <translation>A példányt nem sikerült frissíteni a csomag %1 verziójára. További információkért ellenőrizd a launcher naplóját.</translation>
     </message>
 </context>
 <context>
@@ -10067,7 +10067,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="202"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="306"/>
         <source>Please install a mod loader first!</source>
-        <translation>Kérjük, először telepítsen egy mod betöltőt!</translation>
+        <translation>Először telepíts egy mod betöltőt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="166"/>
@@ -10366,7 +10366,7 @@ Kérjük, frissítse a következőt: %1!</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>A &quot;%1&quot; mod még nem rendelkezik metaadatokkal. Létre kell hoznunk, hogy nyomon követhessük a mod frissítésével kapcsolatos releváns információkat. Ehhez kérjük, válasszon egy mod-szolgáltatót, amellyel ellenőrizni tudjuk, vannak-e frissítések ehhez a modhoz.</translation>
+        <translation>A &quot;%1&quot; mod még nem rendelkezik metaadatokkal. Létre kell hoznunk, hogy nyomon követhessük a mod frissítésével kapcsolatos releváns információkat. Ehhez válassz egy mod-szolgáltatót, amellyel ellenőrizni tudjuk, vannak-e frissítések ehhez a modhoz.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
@@ -10532,7 +10532,7 @@ Kérjük, frissítse a következőt: %1!</translation>
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
         <translation>Az API verzió túl régi! 
-Kérjük, frissítse a következőt: %1!</translation>
+Frissítsd a következőt: %1!</translation>
     </message>
 </context>
 <context>
@@ -11547,7 +11547,7 @@ Hibaüzenet: %3</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation>Az alapértelmezett beillesztési szolgáltatás mclo.gs-re változott, kérjük, válassza ki, mit szeretne tenni a beállításokkal.</translation>
+        <translation>Az alapértelmezett beillesztési szolgáltatás mclo.gs-re változott, válaszd ki, mit szeretnél tenni a beállításokkal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
@@ -11958,12 +11958,12 @@ Időbélyeg: %2
 Frissítés a %3 verzióról a %4 verzióra
 Cél telepítési útvonal: %5
 Adatok elérési útvonala: %6
-Ez valószínűleg azt jelenti, hogy egy korábbi frissítési kísérlet sikertelen volt. Kérjük, a folytatás előtt győződjön meg arról, hogy a telepítés rendben van.
-Ellenőrizze a Prism Launcher frissítő naplóját a következő címen: 
+Ez valószínűleg azt jelenti, hogy egy korábbi frissítési kísérlet sikertelen volt. A folytatás előtt győződj meg arról, hogy a telepítés rendben van.
+Ellenőrizd a Prism Launcher frissítő naplóját a következő címen: 
 %7
 a legutóbbi frissítési kísérlet részleteiért.
 
-Ha szeretné felülírni ezt a zárolást, és mindenképpen folytatni szeretné a frissítést, válassza az alábbi &quot;Ignore&quot; (figyelmen kívül hagyás) lehetőséget.</translation>
+Ha szeretnéd felülírni ezt a zárolást, és mindenképpen folytatni szeretnéd a frissítést, válasszd az alábbi &quot;Ignore&quot; (figyelmen kívül hagyás) lehetőséget.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="917"/>
@@ -12220,7 +12220,7 @@ HTTP állapot: %2</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation>Kérem várjon...</translation>
+        <translation>Kérlek várj...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
@@ -12803,7 +12803,7 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumok
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation>Java ellenőrző könyvtár nem található. Kérjük, ellenőrizze a telepítést.</translation>
+        <translation>Java ellenőrző könyvtár nem található. Kérlek, ellenőrizd a telepítést.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="155"/>
@@ -13602,7 +13602,7 @@ Biztosan bezárja ezt a párbeszédpanelt?</translation>
         <source>API version too old!
 Please update %1!</source>
         <translation>Az API verzió túl régi! 
-Kérjük, frissítse a következőt: %1!</translation>
+Frissítsd a következőt: %1!</translation>
     </message>
 </context>
 <context>
@@ -14274,7 +14274,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="311"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>A(z) &quot;%1&quot; erőforrás még nem rendelkezik metaadatokkal. Létre kell hoznunk, hogy nyomon követhessük a mod frissítésével kapcsolatos releváns információkat. Ehhez kérjük, válasszon egy mod-szolgáltatót, amellyel ellenőrizni tudjuk, vannak-e frissítések ehhez a modhoz.</translation>
+        <translation>A(z) &quot;%1&quot; erőforrás még nem rendelkezik metaadatokkal. Létre kell hoznunk, hogy nyomon követhessük a mod frissítésével kapcsolatos releváns információkat. Ehhez válassz egy mod-szolgáltatót, amellyel ellenőrizni tudjuk, vannak-e frissítések ehhez a modhoz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"/>
@@ -14632,7 +14632,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation>Kérjük, válassza ki azt a kiadást, amelyre frissíteni szeretne.</translation>
+        <translation>Válaszd ki azt a kiadást, amelyre frissíteni szeretnél.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
@@ -16084,7 +16084,7 @@ Előfordulhat, hogy a példány emiatt nem indul el.</translation>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
         <translation>Ez a példány nem kompatibilis a Java %1 verziójával.
-Kérjük, váltson a következő Java verziók egyikére:</translation>
+Válts a következő Java verziók egyikére:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="84"/>
@@ -16520,7 +16520,7 @@ Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
         <translation>Nem lehet letölteni a Minecraftot vagy frissíteni a példányokat, hacsak nincs hozzáadva legalább egy fiók.
-Adjon hozzá egy Microsoft-fiókot.</translation>
+Adj hozzá egy Microsoft-fiókot.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="567"/>
@@ -17139,12 +17139,12 @@ Biztos vagy ebben?</translation>
 Please set up your account according to %1.</source>
         <translation>Ez a Microsoft-fiók kiskorú, és nincs családhoz kapcsolva.
 
-Kérjük, állítsa be fiókját a %1 szerint.</translation>
+Állítsd be fiókodat a %1 szerint.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="137"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation>Ehhez a Microsoft-fiókhoz életkor igazolása szükséges a játékhoz. Kérjük, jelentkezzen be ide: %1, hogy igazolja életkorát.</translation>
+        <translation>Ehhez a Microsoft-fiókhoz életkor igazolása szükséges a játékhoz. Jelentkezz be ide: %1, hogy igazold életkorodat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="142"/>
@@ -17164,7 +17164,7 @@ Kérjük, állítsa be fiókját a %1 szerint.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="159"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation>Ez a Microsoft-fiók nem fogadta el az Xbox szolgáltatási feltételeit. Kérjük, jelentkezzen be és fogadja el őket.</translation>
+        <translation>Ez a Microsoft-fiók nem fogadta el az Xbox szolgáltatási feltételeit. Jelentkezz be és fogadd el őket.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="164"/>
