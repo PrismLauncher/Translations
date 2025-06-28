@@ -5631,12 +5631,12 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="298"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation>A maximális memóriafoglalása közel van a rendszermemória kapacitásához.</translation>
+        <translation>A maximális memóriafoglalás közel van a rendszermemória kapacitásához.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation>A maximális memóriafoglalásod a minimális memóriafoglalásod alatt van.</translation>
+        <translation>A maximális memóriafoglalás a minimális memóriafoglalás alatt van.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
@@ -5693,11 +5693,11 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>A Java 32 bites telepítését választotta, de 2048 MB-nál több memóriát osztott ki maximális memóriaként.
-%1 nem tudja elindítani a Minecraftot.
-Szeretné folytatni?
+        <translation>A Java 32 bites telepítését választottad, de 2048 MB-nál több memóriát osztottál ki maximális memóriaként.
+A %1 nem fogja tudni elindítani a Minecraftot.
+Szeretnéd folytatni?
 
-A Java verzióját a beállításokban később is megváltoztathatja.
+A Java verziót a beállításokban később is megváltoztathatod.
 </translation>
     </message>
     <message>
@@ -5713,11 +5713,11 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Vagy nem választott ki Java verziót, vagy olyan verziót választott ki, amely nem működik.
-%1 nem tudja elindítani a Minecraftot.
-Szeretné folytatni a Java működő verziója nélkül?
+        <translation>Vagy nem választottál ki Java verziót, vagy olyan verziót választottál ki, amely nem működik.
+A %1 nem fogja tudni elindítani a Minecraftot.
+Szeretnéd folytatni a Java működő verziója nélkül?
 
-A Java verziót később a beállítások között megváltoztathatja.
+A Java verziót később a beállítások között megváltoztathatod.
 </translation>
     </message>
     <message>
@@ -5793,7 +5793,7 @@ A Java verziót később a beállítások között megváltoztathatja.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>Túllépi a Java 32 bites telepítései által támogatott maximális kiosztást.</translation>
+        <translation>Túlléped a Java 32 bites telepítései által támogatott maximális kiosztást.</translation>
     </message>
 </context>
 <context>
@@ -5809,12 +5809,12 @@ A Java verziót később a beállítások között megváltoztathatja.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>Nem látja a saját nyelvét vagy gyenge minőségű a fordítás?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Segítsen nekünk fordítani!&lt;/a&gt;</translation>
+        <translation>Nem látod a saját nyelvedet vagy gyenge minőségű a fordítás?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Segíts nekünk fordítani!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation>Használja a rendszer területi beállításait</translation>
+        <translation>A rendszer területi beállításainak használata</translation>
     </message>
 </context>
 <context>
@@ -5827,7 +5827,7 @@ A Java verziót később a beállítások között megváltoztathatja.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
         <source>Select the language to use in %1</source>
-        <translation>Válassza ki a %1-ben használni kívánt nyelvet</translation>
+        <translation>Válaszd ki a %1-ben használni kívánt nyelvet</translation>
     </message>
 </context>
 <context>
@@ -5851,7 +5851,7 @@ A Java verziót később a beállítások között megváltoztathatja.
         <location filename="src/launcher/LaunchController.cpp" line="93"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation>A Minecraft-hoz legalább egy Microsoft fiókkal be kell jelentkezned. Szeretné megnyitni a fiókkezelőt, hogy most hozzáadjon egy fiókot?</translation>
+        <translation>A Minecraft-hoz legalább egy Microsoft fiókkal be kell jelentkezned. Szeretnéd megnyitni a fiókkezelőt, hogy most hozzáadj egy fiókot?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="119"/>
@@ -5866,7 +5866,7 @@ A Java verziót később a beállítások között megváltoztathatja.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="316"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>A launcher ügyfél-azonosítója megváltozott. Távolítsd el a következőt: &quot;%1&quot;, és próbáld meg újra.</translation>
+        <translation>A launcher ügyfél-azonosítód megváltozott. Távolítsd el a következőt: &quot;%1&quot;, és próbáld meg újra.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="326"/>
@@ -5876,7 +5876,7 @@ A Java verziót később a beállítások között megváltoztathatja.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="343"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>&quot;%1&quot; lejárt, és újra kell hitelesíteni. Szeretné újra hitelesíteni ezt a fiókot?</translation>
+        <translation>&quot;%1&quot; lejárt, és újra kell hitelesíteni. Szeretnéd újra hitelesíteni ezt a fiókot?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -5885,12 +5885,12 @@ A Java verziót később a beállítások között megváltoztathatja.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="209"/>
         <source>Continue launch?</source>
-        <translation>Folytatja az indítást?</translation>
+        <translation>Folytatod az indítást?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="210"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Úgy tűnik, hogy %1 próbálkozás után se tudtuk elindítani. Szeretné folytatni a próbálkozást?</translation>
+        <translation>Úgy tűnik, hogy %1 próbálkozás után se tudtuk elindítani. Szeretnéd folytatni a próbálkozást?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="160"/>
@@ -5905,7 +5905,7 @@ A Java verziót később a beállítások között megváltoztathatja.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="155"/>
         <source>Choose your demo mode player name.</source>
-        <translation>Válassza ki a demo mód játékos nevét.</translation>
+        <translation>Válaszd ki a demo mód játékos nevét.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="278"/>
