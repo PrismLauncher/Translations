@@ -8142,7 +8142,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="377"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation>A kiválasztott példány csoportjának változtatása.</translation>
+        <translation>A kiválasztott példány csoportjának megváltoztatása.</translation>
     </message>
     <message>
         <source>Minecraft Folder</source>
@@ -8168,7 +8168,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="413"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation>Kiválasztott példány gyökérmappájának megnyitása a fájlkezelőben.</translation>
+        <translation>A kiválasztott példány gyökérmappájának megnyitása a fájlkezelőben.</translation>
     </message>
     <message>
         <source>Export Instance</source>
@@ -8190,7 +8190,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="438"/>
         <source>Copy the selected instance.</source>
-        <translation>Kiválasztott példány másolása.</translation>
+        <translation>A kiválasztott példány másolása.</translation>
     </message>
     <message>
         <source> on %1</source>
@@ -8328,7 +8328,7 @@ Adjon hozzá egy Microsoft-fiókot.</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1165"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1187"/>
         <source>Enter a new group name.</source>
-        <translation>Adjon meg egy új csoportnevet.</translation>
+        <translation>Adj meg egy új csoportnevet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
@@ -8347,7 +8347,7 @@ Adjon hozzá egy Microsoft-fiókot.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1307"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation>Ez a példány nem szerkeszthető. Lehet, hogy sérült, érvénytelen vagy túl régi. A részletekért ellenőrizze a naplókat.</translation>
+        <translation>Ez a példány nem szerkeszthető. Lehet, hogy sérült, érvénytelen vagy túl régi. A részletekért ellenőrizd a naplókat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1350"/>
@@ -8357,7 +8357,7 @@ Adjon hozzá egy Microsoft-fiókot.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1351"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation>%1 sikeresen hozzáadva a PATH-hoz. Most elindíthatja a(z) &quot;%2&quot; futtatásával.</translation>
+        <translation>%1 sikeresen hozzáadva a PATH-hoz. Most elindíthatod a(z) &quot;%2&quot; futtatásával.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1354"/>
@@ -8367,7 +8367,7 @@ Adjon hozzá egy Microsoft-fiókot.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation>Hiba történt, miközben megpróbálta hozzáadni a PATH-hoz a következőt: %1</translation>
+        <translation>Hiba történt, miközben megpróbáltad hozzáadni a PATH-hoz a következőt: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1411"/>
