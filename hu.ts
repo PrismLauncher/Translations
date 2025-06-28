@@ -7889,7 +7889,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="452"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation>A kiválasztott példány exportálása támogatott formátumokba.</translation>
+        <translation>A kiválasztott példány exportálása a támogatott formátumokba.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
@@ -7962,7 +7962,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="686"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation>Telepítsen egy %1 szimbolikus hivatkozást a /usr/local/bin mappába</translation>
+        <translation>Egy %1 szimbolikus hivatkozás telepítése a /usr/local/bin mappába</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
@@ -7992,7 +7992,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="366"/>
         <source>Rename the selected instance.</source>
-        <translation>Nevezze át a kiválasztott példányt.</translation>
+        <translation>A kiválasztott példány átnevezése..</translation>
     </message>
     <message>
         <source>Launch &amp;Offline</source>
