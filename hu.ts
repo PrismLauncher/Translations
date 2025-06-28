@@ -7515,7 +7515,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="638"/>
         <source>Open %1 subreddit.</source>
-        <translation>Nyisd meg a %1 Subreddit oldalát.</translation>
+        <translation>A %1 Subreddit oldalának megnyitása.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="649"/>
@@ -7567,7 +7567,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation>%1 fejlesztési blog megnyitása további hírekért.</translation>
+        <translation>A %1 fejlesztési blog megnyitása további hírekért.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
@@ -7606,7 +7606,7 @@ Indok:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>Parancsikont hoz létre az asztalon a kiválasztott példány elindításához.</translation>
+        <translation>Parancsikon létrehozása az asztalon a kiválasztott példány elindításához.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -7621,17 +7621,17 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="349"/>
         <source>&amp;Kill</source>
-        <translation>Megszakítás</translation>
+        <translation>&amp;Megszakítás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="338"/>
         <source>&amp;Launch</source>
-        <translation>Indítás</translation>
+        <translation>&amp;Indítás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>Példány hozzáadása...</translation>
+        <translation>Példány &amp;hozzáadása...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
@@ -7642,7 +7642,7 @@ Indok:
         <location filename="src/launcher/ui/MainWindow.ui" line="316"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>Beállítások...</translation>
+        <translation>&amp;Beállítások...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
@@ -7758,7 +7758,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="646"/>
         <source>&amp;About %1</source>
-        <translation>%1 névjegye</translation>
+        <translation>&amp;Az %1 névjegye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
@@ -7957,7 +7957,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="627"/>
         <source>Open %1 Matrix space.</source>
-        <translation>Nyissa meg a %1 Matrix space oldalát.</translation>
+        <translation>A %1 Matrix space oldalának megnyitása.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="686"/>
@@ -7968,7 +7968,7 @@ Indok:
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 &amp;súgó</translation>
+        <translation>A %1 &amp;súgó</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
