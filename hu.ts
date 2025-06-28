@@ -7478,7 +7478,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="697"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation>Nyisd meg a példányok közötti egyik megosztott mappát.</translation>
+        <translation>A példányok közötti egyik megosztott mappának megnyitása.</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -7496,7 +7496,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="605"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation>Nyisd meg a hibakövetőt a %1 hibájának bejelentéséhez.</translation>
+        <translation>A hibakövető megnyitása a %1 hibájának bejelentéséhez.</translation>
     </message>
     <message>
         <source>Open %1 Matrix space</source>
@@ -7515,7 +7515,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="638"/>
         <source>Open %1 subreddit.</source>
-        <translation>A %1 Subreddit oldalának megnyitása.</translation>
+        <translation>A %1 subreddit oldalának megnyitása.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="649"/>
@@ -7530,7 +7530,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="708"/>
         <source>Get help with %1 or Minecraft.</source>
-        <translation>Kérj segítséget a %1 vagy a Minecraft használatához.</translation>
+        <translation>Segítség kérése a %1 vagy a Minecraft használatához.</translation>
     </message>
     <message>
         <source>Update</source>
@@ -7539,7 +7539,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
         <source>Check for new updates for %1.</source>
-        <translation>Frissítéseket keresése a következőhöz: %1.</translation>
+        <translation>Frissítések keresése a következőhöz: %1.</translation>
     </message>
     <message>
         <source>Meow</source>
@@ -7572,7 +7572,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
         <source>Kill the running instance.</source>
-        <translation>Futó példány megölése.</translation>
+        <translation>A futó példány megszakítása.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
@@ -7698,7 +7698,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation>Létrehoz egy parancsikont a kiválasztott mappában a kiválasztott példány elindításához.</translation>
+        <translation>Parancsikon létrehozása a kiválasztott mappában a kiválasztott példány elindításához.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
@@ -7889,7 +7889,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="452"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation>Exportálja a kiválasztott példányt támogatott formátumokba.</translation>
+        <translation>A kiválasztott példány exportálása támogatott formátumokba.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
