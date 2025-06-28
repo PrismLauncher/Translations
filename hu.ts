@@ -7362,11 +7362,11 @@ Indok:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>Nyisd meg a(z) %1 linket, vagy szkenneld be a QR-kódot, és add be a fenti kódot.</translation>
+        <translation>Nyisd meg a(z) %1 linket, vagy szkenneld be a QR-kódot, és add meg a fenti kódot.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation>Nyissa meg a(z) %1 linket, és írja be a fenti kódot.</translation>
+        <translation>Nyisd meg a(z) %1 linket, és add meg a fenti kódot.</translation>
     </message>
 </context>
 <context>
@@ -7384,7 +7384,7 @@ Indok:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation>A Microsoft-felhasználók hitelesítése nem sikerült – az ügyfélazonosítás megváltozott.</translation>
+        <translation>A Microsoft-felhasználók hitelesítése nem sikerült – az ügyfélazonosító megváltozott.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="165"/>
@@ -7478,7 +7478,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="697"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation>Nyissa meg a példányok közötti egyik megosztott mappát.</translation>
+        <translation>Nyisd meg a példányok közötti egyik megosztott mappát.</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -7496,7 +7496,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="605"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation>Nyissa meg a hibakövetőt a %1 hibájának bejelentéséhez.</translation>
+        <translation>Nyisd meg a hibakövetőt a %1 hibájának bejelentéséhez.</translation>
     </message>
     <message>
         <source>Open %1 Matrix space</source>
@@ -7515,12 +7515,12 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="638"/>
         <source>Open %1 subreddit.</source>
-        <translation>Nyissa meg a %1 Subreddit oldalát.</translation>
+        <translation>Nyisd meg a %1 Subreddit oldalát.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="649"/>
         <source>View information about %1.</source>
-        <translation>%1 névjegyének megtekintése.</translation>
+        <translation>A %1 névjegyének megtekintése.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="705"/>
@@ -7530,7 +7530,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="708"/>
         <source>Get help with %1 or Minecraft.</source>
-        <translation>Kérjen segítséget a %1 vagy a Minecraft használatához.</translation>
+        <translation>Kérj segítséget a %1 vagy a Minecraft használatához.</translation>
     </message>
     <message>
         <source>Update</source>
@@ -7621,7 +7621,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="349"/>
         <source>&amp;Kill</source>
-        <translation>Megölés</translation>
+        <translation>Megszakítás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="338"/>
