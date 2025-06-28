@@ -7362,7 +7362,7 @@ Indok:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>Nyisd meg a(z) %1 linket, vagy szkenneld be a QR-kódot, és írd be a fenti kódot.</translation>
+        <translation>Nyisd meg a(z) %1 linket, vagy szkenneld be a QR-kódot, és add be a fenti kódot.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
