@@ -2092,7 +2092,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
         <source>Snapshots</source>
-        <translation>Снимки экрана</translation>
+        <translation>Снапшоты</translation>
     </message>
     <message>
         <source>Old Snapshots</source>
