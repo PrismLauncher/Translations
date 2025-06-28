@@ -5636,7 +5636,7 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation>A maximális memóriafoglalásod a minimális memóriafoglalása alatt van.</translation>
+        <translation>A maximális memóriafoglalásod a minimális memóriafoglalásod alatt van.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
