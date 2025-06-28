@@ -1803,7 +1803,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation>Az fájlrendszered és/vagy az operációs rendszered nem támogatja az újrahivatkozásokat</translation>
+        <translation>Az fájlrendszered és/vagy az operációs rendszered nem támogatja az reflinkeket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
@@ -1838,12 +1838,12 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
         <source>Reflinks are supported on %1</source>
-        <translation>A újrahivatkozások támogatottak a következőn: %1</translation>
+        <translation>A reflinkek támogatottak a következőn: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="98"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation>Az újrahivatkozások nem támogatottak a következőn: %1</translation>
+        <translation>A reflinkek nem támogatottak a következőn: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
@@ -1917,12 +1917,12 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation>Adjon meg egy világot vagy szervert, amelyhez automatikusan csatlakozik az indításkor.</translation>
+        <translation>Adj meg egy világot vagy szervert, amelyhez automatikusan csatlakozol indításkor.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation>Állítson be egy célt, amelyhez az indításkor csatlakozik</translation>
+        <translation>Állíts be egy célt, amelyhez az indításkor csatlakozol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
@@ -1948,7 +1948,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation>Ha ez a helyzet, akkor manuálisan kell törölnie őket.</translation>
+        <translation>Ha ez a helyzet, akkor manuálisan kell törölnöd őket.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"/>
