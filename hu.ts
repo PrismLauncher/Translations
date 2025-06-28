@@ -1046,12 +1046,12 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/Application.cpp" line="1957"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation>Úgy tűnik, korábban használtad a(z) %1-et %2-n. Szeretnéd áttelepíteni az adataidat a %3 új helyére?</translation>
+        <translation>Úgy tűnik, korábban használtad a(z) %1-et %2-n. Szeretnéd áttelepíteni az adataidat a(z) %3 új helyére?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="2000"/>
         <source>Migration failed! Reason: %1</source>
-        <translation>Áttelepítés nem sikerült! Ok: %1</translation>
+        <translation>Az áttelepítés nem sikerült! Ok: %1</translation>
     </message>
 </context>
 <context>
@@ -1096,12 +1096,12 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="20"/>
         <source>Updating assets index...</source>
-        <translation>Forrás lista frissítése...</translation>
+        <translation>Forráslista frissítése...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="26"/>
         <source>Asset index for %1</source>
-        <translation>%1 asset indexe</translation>
+        <translation>%1 forráslistája</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="41"/>
@@ -1112,7 +1112,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="69"/>
         <source>Failed to read the assets index!</source>
-        <translation>Nem sikerült az asset index olvasása!</translation>
+        <translation>Nem sikerült a forráslista olvasása!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
@@ -1123,7 +1123,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="90"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>Nem sikerült letölteni a következő forrás listákat:
+        <translation>Nem sikerült letölteni a következő forráslistákat:
 %1</translation>
     </message>
     <message>
@@ -1203,7 +1203,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="244"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>Biztos engedélyezed ezt a modot?</translation>
+        <translation>Biztosan engedélyezed ezt a modot?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
@@ -1216,7 +1216,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Figyelem: Ez még fejlesztés alatt van. Ha problémákba ütközik az importált modcsomaggal kapcsolatban, akkor az egy bug miatt lehet.</translation>
+        <translation>Figyelem: Ez még fejlesztés alatt van. Ha problémákba ütközöl az importált modcsomaggal kapcsolatban, akkor az egy bug miatt lehet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
@@ -1355,12 +1355,12 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation>Az Ön rendszere (%1-%2) nem kompatibilis a Java automatikus telepítésével. Az alapértelmezett Java elérési útvonal használata.</translation>
+        <translation>Az rendszered (%1-%2) nem kompatibilis a Java automatikus telepítésével. Az alapértelmezett Java elérési útvonal használata.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation>A metainformációi elavultak, vagy nem tartalmazzák a szükséges információkat annak meghatározásához, hogy milyen Java telepítést kell használni. Az alapértelmezett Java elérési útvonal használata.</translation>
+        <translation>A metainformációid elavultak, vagy nem tartalmazzák a szükséges információkat annak meghatározásához, hogy milyen Java telepítést kell használni. Az alapértelmezett Java elérési útvonal használata.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
@@ -1409,7 +1409,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation>Hozzáadtunk egy funkciót, amely automatikusan letölti a megfelelő Java verziót a Minecraft minden egyes verziójához (ez módosítható a Java-beállításokban). Szeretné engedélyezni vagy letiltani ezt a funkciót?</translation>
+        <translation>Hozzáadtunk egy funkciót, amely automatikusan letölti a megfelelő Java verziót a Minecraft minden egyes verziójához (ez módosítható a Java-beállításokban). Szeretnéd engedélyezni vagy letiltani ezt a funkciót?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -1444,7 +1444,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
         <source>Please download the missing mods.</source>
-        <translation>Kérjük, töltse le a hiányzó modokat.</translation>
+        <translation>Töltsd le a hiányzó modokat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
@@ -1499,7 +1499,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Válassza ki a könyvtárat, ahova a modokat letöltötte</translation>
+        <translation>Válaszd ki a könyvtárat, ahova a modokat letöltötted</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
@@ -1517,7 +1517,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A konfigurált globális modmappa és az alapértelmezett letöltési mappa automatikusan ellenőrzésre kerül a letöltött modok után, és ha megtaláljuk őket, átmásoljuk a példányba.&lt;/p&gt;&lt;p&gt;Opcionálisan áthúzhatja a letöltött modokat erre a párbeszédpanelre, vagy hozzáadhat egy mappát a figyeléshez, ha nem az alapértelmezett helyre töltötte le a modokat.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A konfigurált globális modmappa és az alapértelmezett letöltési mappa automatikusan ellenőrzésre kerül a letöltött modok után, és ha megtaláljuk őket, átmásoljuk a példányba.&lt;/p&gt;&lt;p&gt;Opcionálisan áthúzhatod a letöltött modokat erre a párbeszédpanelre, vagy hozzáadhatsz egy mappát a figyeléshez, ha nem az alapértelmezett helyre töltötte le a modokat.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
@@ -1529,7 +1529,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="55"/>
         <source>Equipping cape</source>
-        <translation>Köpeny felvevése</translation>
+        <translation>Köpeny felvétele</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="52"/>
@@ -1542,7 +1542,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Java ellenőrző könyvtár nem található. Kérjük, ellenőrizze a telepítést.</translation>
+        <translation>Java ellenőrző könyvtár nem található. Ellenőrizd a telepítést.</translation>
     </message>
 </context>
 <context>
@@ -1550,7 +1550,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation>Válasszon egy mod szolgáltatót</translation>
+        <translation>Válassz egy mod szolgáltatót</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
@@ -1575,7 +1575,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>Próbáljon meg automatikusan más szolgáltatót használni, ha a kiválasztott nem működik</translation>
+        <translation>Próbálj meg automatikusan más szolgáltatót használni, ha a kiválasztott nem működik</translation>
     </message>
 </context>
 <context>
@@ -1608,7 +1608,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation>Nem sikerült letölteni a(z) %1 %2 metaadatait. Kérjük, változtassa meg a verziót, vagy próbálja meg később újra.</translation>
+        <translation>Nem sikerült letölteni a(z) %1 %2 metaadatait. Változtasd meg a verziót, vagy próbáld újra később.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
@@ -1654,7 +1654,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
         <source>Please wait...</source>
-        <translation>Kérem várjon...</translation>
+        <translation>Kérlek várj...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
@@ -1732,7 +1732,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation>Fájlok másolása helyett használjon szimbolikus vagy hard linket.</translation>
+        <translation>Fájlok másolása helyett használj szimbolikus vagy hard linket.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
@@ -1798,12 +1798,12 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
         <source>Clone instead of copying</source>
-        <translation>Másolás helyett klónozd</translation>
+        <translation>Másolás helyett klónozás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation>Az Ön fájlrendszere és/vagy operációs rendszere nem támogatja az újrahivatkozásokat</translation>
+        <translation>Az fájlrendszered és/vagy az operációs rendszered nem támogatja az újrahivatkozásokat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
