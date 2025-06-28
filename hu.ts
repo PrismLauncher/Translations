@@ -6167,12 +6167,12 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
         <source>Ask what to do with the folder</source>
-        <translation>Kérdezd meg, mit tegyen a mappával</translation>
+        <translation>Kérdezze meg, mit tegyél a mappával</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
         <source>Always rename the folder</source>
-        <translation>Mindig nevezd át a mappát</translation>
+        <translation>Mindig nevezze át a mappát</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="129"/>
@@ -6391,7 +6391,7 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation>Állítsa 0-ra, hogy csak indításkor ellenőrizze</translation>
+        <translation>Állítsd 0-ra, hogy csak indításkor ellenőrizze</translation>
     </message>
     <message>
         <source>h</source>
@@ -6424,7 +6424,7 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>Amikor új modcsomag példányt hoz létre, ne javasolja a meglévő példányok frissítését.</translation>
+        <translation>Amikor új modcsomag példányt hozol létre, ne javasolja a meglévő példányok frissítését.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
@@ -6480,7 +6480,7 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>Állítsa be a cica átlátszóságát. A 0% a teljesen átlátszó és a 100% a teljesen áttetsző.</translation>
+        <translation>Állítsd be a cica átlátszóságát. A 0% a teljesen átlátszó és a 100% a teljesen áttetsző.</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -6661,7 +6661,7 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation>[Test/ERROR] Kísérteties hiba!</translation>
+        <translation>[Test/ERROR] Egy kísérteties hiba!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
@@ -6669,11 +6669,11 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[Test/DEBUG] Titkos hibakeresési üzenet...</translation>
+        <translation>[Test/DEBUG] Egy titkos hibakeresési üzenet...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation>[Test/FATAL] Félelmetes végzetes hiba!</translation>
+        <translation>[Test/FATAL] Egy félelmetes végzetes hiba!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -6681,7 +6681,7 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[Test/INFO] Ártalmatlan üzenet...</translation>
+        <translation>[Test/INFO] Egy ártalmatlan üzenet...</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -6707,7 +6707,7 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="88"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation>Nem található legacy launcher könyvtár. Kérlek, ellenőrizd installációdat.</translation>
+        <translation>Nem található legacy launcher könyvtár. Kérlek, ellenőrizd a telepítést.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="140"/>
@@ -6901,7 +6901,7 @@ El legyen most távolítva?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="349"/>
         <source>Enter pack code:</source>
-        <translation>Adja meg a csomag kódját:</translation>
+        <translation>Add meg a csomag kódját:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="364"/>
@@ -6911,7 +6911,7 @@ El legyen most távolítva?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="364"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation>Biztosan el szeretné távolítani a következőt: %1?</translation>
+        <translation>Biztosan el szeretnéd távolítani a következőt: %1?</translation>
     </message>
 </context>
 <context>
@@ -6992,11 +6992,11 @@ El legyen most távolítva?</translation>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation>Néhány „helyi” jelzésű műtárgy hiányzik a fájljairól:
+        <translation>Néhány &apos;helyi&apos; jelzésű műtárgy hiányzik a fájljairól:
 %1
 
-Meg kell adnia a fájlokat, vagy el kell távolítania azokat a csomagokat amiknek szüksége van rájuk.
-Ezt a problémát kézzel kell javítania.</translation>
+Meg kell adnod a fájlokat, vagy el kell távolítanod azokat a csomagokat amiknek szüksége van rájuk.
+Ezt a problémát kézzel kell javítanod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
@@ -7061,7 +7061,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>Másolja a teljes naplót a vágólapra</translation>
+        <translation>A teljes napló másolása a vágólapra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
@@ -7072,7 +7072,7 @@ Indok:
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
         <source>Upload the log to the paste service configured in preferences</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation>Töltse fel a naplót a beállításokban konfigurált beillesztési szolgáltatásba</translation>
+        <translation>Napló feltöltése a beállításokban konfigurált beillesztési szolgáltatásba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="116"/>
@@ -7082,7 +7082,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="123"/>
         <source>Clear the log</source>
-        <translation>Törölje a naplót</translation>
+        <translation>A napló törlése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="126"/>
