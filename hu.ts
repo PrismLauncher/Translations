@@ -8367,7 +8367,7 @@ Adjon hozzá egy Microsoft-fiókot.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation>Hiba történt, miközben megpróbáltad hozzáadni a PATH-hoz a következőt: %1</translation>
+        <translation>Hiba történt a %1 a PATH-hoz történő hozzáadása közben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1411"/>
@@ -8391,9 +8391,9 @@ Do you wish to proceed?</source>
 
 %1
 
-A törlés tönkre teheti a másik példányt,
+A törlés tönkreteheti a másik példányt,
 
-Szeretné folytatni?</numerusform>
+Szeretnéd folytatni?</numerusform>
         </translation>
     </message>
     <message>
@@ -8434,7 +8434,7 @@ Biztos vagy benne?</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>Az launcher abban a mappában található, amelyből kicsomagolta, ezért nem tud parancsikonokat létrehozni.</translation>
+        <translation>A launcher abban a mappában található, amelyből kicsomagoltad, ezért nem tudsz parancsikonokat létrehozni.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
@@ -8520,7 +8520,7 @@ Ellenőrizd a lomtárat, hogy manuálisan visszaállíthasd őket.</translation>
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
         <translation>A metaadat gyorsítótár törlése sikertelen!
-A metaadat gyorsítótár manuális törléséhez nyomja meg a Mappák -&gt; Launcher gyökér gombot, majd a launcher bezárása után törölje a &quot;meta&quot; nevű mappát.
+A metaadat gyorsítótár manuális törléséhez nyomd meg a Mappák -&gt; Launcher gyökér gombot, majd a launcher bezárása után töröld a &quot;meta&quot; nevű mappát.
 </translation>
     </message>
     <message>
@@ -8574,7 +8574,7 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation>Nem támogatott az ön platformján!</translation>
+        <translation>Nem támogatott a platformodon!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
@@ -8600,17 +8600,17 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1636"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation>A példánymappája a következőt tartalmazza: &quot;!&quot; és ez köztudottan Java problémákat okoz!</translation>
+        <translation>A példánymappád a következőt tartalmazza: &quot;!&quot; és ez köztudottan Java problémákat okoz!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1637"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>Most két lehetősége van: 1&lt;br/&gt; - módosítsa a példány mappáját a beállításokban &lt;br/&gt; - áthelyezi a(z) %1 telepítését egy másik mappába</translation>
+        <translation>Most két lehetőséged van: 1&lt;br/&gt; - módosítod a példány mappáját a beállításokban &lt;br/&gt; - áthelyezed a(z) %1 telepítését egy másik mappába</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation>Ez egy probléma: &lt;br/&gt; - A launcher valószínűleg figyelmeztetés nélkül törölve lesz az operációs rendszer által &lt;br/&gt; - zárja be a launchert, és csomagolja ki egy valós helyre, ne egy ideiglenes mappába</translation>
+        <translation>Ez egy probléma: &lt;br/&gt; - A launcher valószínűleg figyelmeztetés nélkül törölve lesz az operációs rendszer által &lt;br/&gt; - zárd be a launchert, és csomagold ki egy valós helyre, ne egy ideiglenes mappába</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
