@@ -4753,7 +4753,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation>Használja a GLFW rendszertelepítését</translation>
+        <translation>A GLFW rendszertelepítésének használata</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
@@ -4761,7 +4761,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation>Az OpenAL rendszertelepítének használata</translation>
+        <translation>Az OpenAL rendszertelepítésének használata</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -4829,7 +4829,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Legacy beállítások</translation>
+        <translation>Örökölt beállítások</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -4890,13 +4890,13 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>A Java 32 bites verzióját választotta.
+        <translation>A Java 32 bites verzióját választottad.
 Ez a telepítés nem támogat több mint 2048 MB RAM-ot.
 Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Java futtatható keresése</translation>
+        <translation>Java futtatható fájl keresése</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
@@ -4933,12 +4933,12 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
         <source>Welcome!</source>
-        <translation>Üdvözöljük!</translation>
+        <translation>Üdvözlünk!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>A kezdéshez kattintson a &quot;Példány hozzáadása&quot; gombra.</translation>
+        <translation>A kezdéshez kattints a &quot;Példány hozzáadása&quot; gombra.</translation>
     </message>
 </context>
 <context>
@@ -5328,7 +5328,7 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>A Java 32 bites verzióját választotta.
+        <translation>A Java 32 bites verzióját választottad.
 Ez a telepítés nem támogat több mint 2048 MB RAM-ot.
 Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</translation>
     </message>
@@ -5408,11 +5408,11 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>A Java 32 bites telepítését választotta, de 2048 MB-nál több memóriát osztott ki maximális memóriaként.
-%1 nem tudja elindítani a Minecraftot.
-Szeretné folytatni?
+        <translation>A Java 32 bites telepítését választottad, de 2048 MB-nál több memóriát osztottál ki maximális memóriaként.
+A %1 nem fogja tudni elindítani a Minecraftot.
+Szeretnéd folytatni?
 
-A Java verzióját a beállításokban később is megváltoztathatja.
+A Java verziót a beállításokban később is megváltoztathatod.
 </translation>
     </message>
     <message>
@@ -5422,17 +5422,17 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Vagy nem választott ki Java verziót, vagy olyan verziót választott ki, amely nem működik.
-%1 nem tudja elindítani a Minecraftot.
-Szeretné folytatni a Java működő verziója nélkül?
+        <translation>Vagy nem választottál ki Java verziót, vagy olyan verziót választottál ki, amely nem működik.
+A %1 nem fogja tudni elindítani a Minecraftot.
+Szeretnéd folytatni a Java működő verziója nélkül?
 
-A Java verziót később a beállítások között megváltoztathatja.
+A Java verziót később a beállítások között megváltoztathatod.
 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="228"/>
         <source>Find Java executable</source>
-        <translation>Java futtatható keresése</translation>
+        <translation>Java futtatható fájl keresése</translation>
     </message>
     <message>
         <source>Memory</source>
@@ -5619,7 +5619,7 @@ A Java verziót később a beállítások között megváltoztathatja.
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>A Java 32 bites verzióját választotta.
+        <translation>A Java 32 bites verzióját választottad.
 Ez a telepítés nem támogat több mint 2048 MB RAM-ot.
 Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</translation>
     </message>
@@ -5636,7 +5636,7 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation>A maximális memóriafoglalása a minimális memóriafoglalása alatt van.</translation>
+        <translation>A maximális memóriafoglalásod a minimális memóriafoglalása alatt van.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
@@ -5648,7 +5648,7 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>Túllépi a Java 32 bites telepítései által támogatott maximális kiosztást.</translation>
+        <translation>Túlléped a Java 32 bites telepítései által támogatott maximális kiosztást.</translation>
     </message>
 </context>
 <context>
