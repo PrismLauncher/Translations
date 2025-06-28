@@ -1444,7 +1444,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
         <source>Please download the missing mods.</source>
-        <translation>Töltsd le a hiányzó modokat.</translation>
+        <translation>Kérlek, töltsd le a hiányzó modokat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
@@ -1542,7 +1542,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Java ellenőrző könyvtár nem található. Ellenőrizd a telepítést.</translation>
+        <translation>Java ellenőrző könyvtár nem található. Kérlek, ellenőrizd a telepítést.</translation>
     </message>
 </context>
 <context>
@@ -3023,7 +3023,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
         <source>Change a resource&apos;s version.</source>
-        <translation>Módosítsd az erőforrás verzióját.</translation>
+        <translation>Az erőforrás verziójának módosítása.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
@@ -3047,7 +3047,7 @@ Biztos vagy ebben?</translation>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>Próbálja meg ellenőrizni vagy frissíteni az összes kiválasztott erőforrást (ha nincs kiválasztva semmi, akkor minden erőforrást)</translation>
+        <translation>Próbáld meg ellenőrizni vagy frissíteni az összes kiválasztott erőforrást (ha nincs kiválasztva semmi, akkor minden erőforrást)</translation>
     </message>
     <message>
         <source>Export modlist</source>
@@ -3136,7 +3136,7 @@ Biztosan ezt akarod csinálni?</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="291"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Ha letiltja ezt az erőforrást, miközben a játék fut, a játék összeomolhat.
+        <translation>Ha letiltod ezt az erőforrást, miközben a játék fut, a játék összeomolhat.
 Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
@@ -3209,7 +3209,7 @@ Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation>Külső szerkesztők (hagyja üresen a rendszer alapértelmezett beállításaiért)</translation>
+        <translation>Külső szerkesztők (hagyd üresen a rendszer alapértelmezett beállításaiért)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
@@ -3386,7 +3386,7 @@ Please try again.</source>
 %1
 
 Indok:%2
-Kérlek próbáld újra.</translation>
+Próbáld újra.</translation>
     </message>
 </context>
 <context>
@@ -3422,12 +3422,12 @@ Kérlek próbáld újra.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
-        <translation>Válassza ki az FTBApp példányok könyvtárát</translation>
+        <translation>Válaszd ki az FTBApp példányok könyvtárát</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Megjegyzés: Ha az FTB-példányok nem az alapértelmezett helyen vannak, válassza ki azt a keresés melletti gombbal.</translation>
+        <translation>Megjegyzés: Ha az FTB-példányok nem az alapértelmezett helyen vannak, válaszd ki azt a keresés melletti gombbal.</translation>
     </message>
 </context>
 <context>
@@ -3652,7 +3652,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="524"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>A következő fájlok nem tölthetők le a harmadik féltől származó launcherekből.&lt;br/&gt; Kézzel kell letöltenie őket, és hozzáadni a példányhoz.</translation>
+        <translation>A következő fájlok nem tölthetők le a harmadik féltől származó launcherekből.&lt;br/&gt; Kézzel kell letöltened őket, és hozzáadnod a példányhoz.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="546"/>
@@ -3701,7 +3701,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="431"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Szia!&lt;/h1&gt;&lt;h4&gt;Úgy tűnik, a csomagazonosítója null. Ennek oka a launcher régebbi verzióiban található hiba.&lt;br/&gt;Sajnos ezen információk nélkül nem tudjuk végrehajtani a megfelelő API-kéréseket.&lt;br/&gt;&lt;br/&gt;Tehát ahhoz, hogy ez a funkció működjön, újra le kell töltenie a modcsomagot a beépített letöltőből.&lt;br/&gt;&lt;br/&gt;Ne aggódjon, a rendszer kérni fogja, hogy frissítse ezt a példányt, így nem veszíti el a példány adatait!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Szia!&lt;/h1&gt;&lt;h4&gt;Úgy tűnik, a csomagazonosítója null. Ennek oka a launcher régebbi verzióiban található hiba.&lt;br/&gt;Sajnos ezen információk nélkül nem tudjuk végrehajtani a megfelelő API-kéréseket.&lt;br/&gt;&lt;br/&gt;Tehát ahhoz, hogy ez a funkció működjön, újra le kell töltened a modcsomagot a beépített letöltőből.&lt;br/&gt;&lt;br/&gt;Ne aggódj, a rendszer kérni fogja, hogy frissítsd ezt a példányt, így nem veszíted el a példány adatait!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="493"/>
@@ -3711,7 +3711,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="556"/>
         <source>Choose update file</source>
-        <translation>Válassza ki a frissítési fájlt</translation>
+        <translation>Válaszd ki a frissítési fájlt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="556"/>
@@ -3830,7 +3830,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Megjegyzés: A CurseForge lehetővé teszi a készítők számára, hogy blokkolják a hozzáférést olyan harmadik féltől származó programokhoz, mint a Prism Launcher. Így előfordulhat, hogy manuálisan kell letöltenie néhány modot, hogy telepíteni tudjon egy modcsomagot.</translation>
+        <translation>Megjegyzés: A CurseForge lehetővé teszi a készítők számára, hogy blokkolják a hozzáférést olyan harmadik féltől származó programokhoz, mint a Prism Launcher. Így előfordulhat, hogy manuálisan kell letöltened néhány modot, hogy telepíteni tudj egy modcsomagot.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
