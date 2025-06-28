@@ -149,7 +149,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Add meg itt a metaadat-kiszolgáló egyéni URL-jét</translation>
+        <translation>Add meg itt a metaadat-kiszolgáló egyéni URL-jét.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="257"/>
@@ -163,12 +163,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="315"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Megjegyzés: Valószínűleg már nem kell ezt beállítanod, ha a CurseForge már működik.</translation>
+        <translation>Megjegyzés: Valószínűleg nem kell ezt beállítanod, ha a CurseForge már működik.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Adjon meg egy egyéni API-kulcsot a CurseForge számára.</translation>
+        <translation>Adj meg egy egyéni API-kulcsot a CurseForge számára.</translation>
     </message>
     <message>
         <source>APIs</source>
@@ -187,12 +187,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="343"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Nem sikerült lekérni a helyi metaadatindexet a következőhöz: %1</translation>
+        <translation>Nem sikerült lekérni a helyi metaadat-indexet a következőhöz: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="153"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Nem sikerült lekérni a helyi metaadatindexet a következőhöz: &quot;%1&quot; v%2</translation>
+        <translation>Nem sikerült lekérni a helyi metaadat-indexet a következőhöz: &quot;%1&quot; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="143"/>
@@ -360,12 +360,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
         <source>License</source>
-        <translation>Licensz</translation>
+        <translation>Licenc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
         <source>About Qt</source>
-        <translation>Qt-ról</translation>
+        <translation>A Qt-ról</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
@@ -375,7 +375,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="140"/>
         <source>About %1</source>
-        <translation>%1 névjegye</translation>
+        <translation>A %1 névjegye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
@@ -653,7 +653,7 @@ Ha új vagy itt, kattints a &quot;Hozzáadás&quot; gombra, hogy hozzá add Moja
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation>Üdvözöljük!
+        <translation>Üdvözlünk!
 Ha új vagy itt, a &quot;Microsoft fiók felvétele&quot; gombra kattintva összekapcsolhatod Microsoft-fiókodat.</translation>
     </message>
     <message>
@@ -693,7 +693,7 @@ Ha új vagy itt, a &quot;Microsoft fiók felvétele&quot; gombra kattintva össz
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Az offline fiók hozzáadásához hozzá kell adnia egy Minecraftot birtokló Microsoft-fiókot.&lt;br&gt;&lt;br&gt;Ha elvesztette fiókját, segítségért forduljon a Microsofthoz.</translation>
+        <translation>Az offline fiók hozzáadásához előbb hozzá kell adnod egy olyan Microsoft-fiókot, amely birtokolja a Minecraftot.&lt;br&gt;&lt;br&gt;Ha elvesztetted a fiókodat, segítségért fordulj a Microsofthoz.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -720,7 +720,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Kérlek, add meg a kívánt felhasználóneved az offline fiókhoz.</translation>
+        <translation>Add meg a kívánt felhasználónevet az offline fiókhoz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -889,7 +889,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
         <source>[ERROR] A spooky error!</source>
-        <translation>[ERROR] Kísérteties hiba!</translation>
+        <translation>[ERROR] Egy kísérteties hiba!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="263"/>
@@ -904,12 +904,12 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation>[DEBUG] Titkos hibakereső üzenet...</translation>
+        <translation>[DEBUG] Egy titkos hibakereső üzenet...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation>[FATAL] Félelmetes végzetes hiba!</translation>
+        <translation>[FATAL] Egy félelmetes végzetes hiba!</translation>
     </message>
 </context>
 <context>
@@ -944,12 +944,12 @@ Időbélyeg: %2
 Frissítés a %3 verzióról a %4 verzióra
 Cél telepítési útvonal: %5
 Adatok elérési útvonala: %6
-Ez valószínűleg azt jelenti, hogy a frissítési kísérlet sikertelen volt. Kérjük, a folytatás előtt győződjön meg arról, hogy a telepítés rendben van.
-Ellenőrizze a Prism Launcher frissítő naplóját a következő címen: 
+Ez valószínűleg azt jelenti, hogy a frissítési kísérlet sikertelen volt. A folytatás előtt győződj meg arról, hogy a telepítés rendben van-e.
+Ellenőrizd a Prism Launcher frissítő naplóját a következő címen: 
 %7
 a legutóbbi frissítési kísérlet részleteiért.
 
-A zárolás törléséhez és a folytatáshoz válassza az alábbi &quot;Ignore&quot; (figyelmen kívül hagyás) lehetőséget.</translation>
+A zárolás törléséhez és a folytatáshoz válaszd az alábbi &quot;Ignore&quot; (figyelmen kívül hagyás) lehetőséget.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1062"/>
@@ -966,10 +966,10 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.</source>
         <translation>Egy frissítési próbálkozás nem sikerült
 
-Kérjük bizonyosodjon meg, hogy az installációja helyesen működik mielőtt folytatja.
-Tekintse meg a Prism Launcher frissítési naplóját itt:&#xa0;
+Bizonyosodj meg arról, hogy a telepítés helyesen működik mielőtt folytatod.
+Tekintsd meg a Prism Launcher frissítési naplóját itt:&#xa0;
 %1
-hogy részletes leírást kapjon az utolsó frissítési próbálkozásról.</translation>
+hogy részletes leírást kapj az utolsó frissítési próbálkozásról.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1094"/>
@@ -992,8 +992,8 @@ Check the Prism Launcher updater log at:
 for details.</oldsource>
         <translation>Sikeres frissítés
 
-Jelenleg a(z) %1 verziót futtatja.
-Tekintse meg a Prism Launcher frissítési naplóját itt:&#xa0;
+Jelenleg a(z) %1 verziót futtatod.
+Tekintsd meg a Prism Launcher frissítési naplóját itt:&#xa0;
 %1
 további részletekért.</translation>
     </message>
@@ -1036,17 +1036,17 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/Application.cpp" line="1947"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>Régi adatok találhatók a(z) %1 példányból, de már vannak adatok a(z) %2 példányhoz. Sajnos magának kell migrálnia. Szeretne emlékeztetőt kapni a függőben lévő adatmigrációról, amikor legközelebb elindítja a(z) %2 példányt?</translation>
+        <translation>Régi adatok találhatók a(z) %1 példányból, de már vannak adatok a(z) %2 példányhoz. Sajnos neked kell migrálnod. Szeretnél emlékeztetőt kapni a függőben lévő adatmigrációról, amikor legközelebb elindítod a(z) %2 példányt?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1951"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation>Úgy tűnik, korábban használta a(z) %1. Szeretné áttelepíteni adatait a(z) %2 új helyre?</translation>
+        <translation>Úgy tűnik, korábban már használtad a(z) %1. Szeretnéd áttelepíteni az adataidat a(z) %2 új helyre?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1957"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation>Úgy tűnik, korábban használta a(z) %1-et %2-n. Szeretné áttelepíteni adatait a %3 új helyére?</translation>
+        <translation>Úgy tűnik, korábban használtad a(z) %1-et %2-n. Szeretnéd áttelepíteni az adataidat a %3 új helyére?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="2000"/>
