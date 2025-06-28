@@ -7072,7 +7072,7 @@ Indok:
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
         <source>Upload the log to the paste service configured in preferences</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation>Napló feltöltése a beállításokban konfigurált beillesztési szolgáltatásba</translation>
+        <translation>A napló feltöltése a beállításokban konfigurált beillesztési szolgáltatásba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="116"/>
@@ -7097,7 +7097,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="142"/>
         <source>Find</source>
-        <translation>Keres</translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="152"/>
@@ -7144,7 +7144,7 @@ Indok:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
         <source>The process failed to start.</source>
-        <translation>A folyamatnak nem sikerült elindulni.</translation>
+        <translation>A folyamatnak nem sikerült elindulnia.</translation>
     </message>
 </context>
 <context>
@@ -7177,7 +7177,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation>A Minecraft játékhoz legalább egy Microsoft-fiókkal be kell jelentkeznie. Szeretne most bejelentkezni?</translation>
+        <translation>A Minecraft játékhoz legalább egy Microsoft-fiókkal be kell jelentkezned. Szeretnél most bejelentkezni?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
@@ -7342,7 +7342,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="199"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation>Nyissa meg a(z) %1 linket, vagy szkennelje be a QR-kódot, és adja meg a fenti kódot, ha szükséges.</translation>
+        <translation>Nyisd meg a(z) %1 linket, vagy szkenneld be a QR-kódot, és add meg a fenti kódot, ha szükséges.</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -7362,7 +7362,7 @@ Indok:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>Nyissa meg a(z) %1 linket, vagy szkennelje be a QR-kódot, és írja be a fenti kódot.</translation>
+        <translation>Nyisd meg a(z) %1 linket, vagy szkenneld be a QR-kódot, és írd be a fenti kódot.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
