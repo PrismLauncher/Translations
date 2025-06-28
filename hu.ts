@@ -5866,7 +5866,7 @@ A Java verziót később a beállítások között megváltoztathatod.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="316"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>A launcher ügyfél-azonosítód megváltozott. Távolítsd el a következőt: &quot;%1&quot;, és próbáld meg újra.</translation>
+        <translation>A launcher ügyfél-azonosítója megváltozott. Távolítsd el a következőt: &quot;%1&quot;, és próbáld meg újra.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="326"/>
@@ -6028,7 +6028,7 @@ Szeretnél játszani a demóval?</translation>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>A játék elindítása késtetve, amíg meg nem nyomja a gombot. Ez a helyes idő a profiler beállításához, mivel a profiler szerver most fut.
+        <translation>A játék elindítása késtetve, amíg meg nem nyomod a gombot. Ez a helyes idő a profiler beállításához, mivel a profiler szerver most fut.
 
 %1</translation>
     </message>
@@ -6060,7 +6060,7 @@ Szeretnél játszani a demóval?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="494"/>
         <source>Kill Minecraft?</source>
-        <translation>Minecraft megölése?</translation>
+        <translation>Minecraft megszakítása?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="495"/>
@@ -6083,7 +6083,7 @@ Lehet, hogy meg kell javítania a modokat, mert a játék még mindig naplózza 
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <translation>A játéknapló (log) követése leállt, mert a napló hossza meghaladta a(z) %1 sort.
-Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, és valószínűleg riasztó sebességgel pazarolja a tárhelyét!</translation>
+Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, és valószínűleg riasztó sebességgel pazarolja a tárhelyedet!</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
@@ -6167,12 +6167,12 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
         <source>Ask what to do with the folder</source>
-        <translation>Kérdezze meg, mit tegyen a mappával</translation>
+        <translation>Kérdezd meg, mit tegyen a mappával</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
         <source>Always rename the folder</source>
-        <translation>Mindig nevezze át a mappát</translation>
+        <translation>Mindig nevezd át a mappát</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="129"/>
