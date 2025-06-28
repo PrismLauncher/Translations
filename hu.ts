@@ -99,7 +99,7 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Adjon meg itt egy egyéni API-token-t a Modrinth számára.</translation>
+        <translation>Adj meg itt egy egyéni API-token-t a Modrinth számára.</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -116,7 +116,7 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Adjon meg egy egyéni GUID kliens azonosítót a Technic számára.</translation>
+        <translation>Adj meg egy egyéni GUID kliens azonosítót a Technic számára.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -130,7 +130,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="154"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Adjon meg egy egyéni User Agent-et. A $LAUNCHER_VER speciális karakterlánc helyére a launcher verziója kerül.</translation>
+        <translation>Adj meg egy egyéni User Agent-et. A $LAUNCHER_VER speciális karakterlánc helyére a launcher verziója kerül.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -149,7 +149,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Ad meg az URL-jét a metaadat kiszolgálónak.</translation>
+        <translation>Add meg itt a metaadat-kiszolgáló egyéni URL-jét</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="257"/>
