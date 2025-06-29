@@ -2383,7 +2383,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiyrujã zbiory...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
@@ -7645,7 +7645,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybadujã aktualizacyje...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
@@ -7670,7 +7670,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybadujã znŏleżności...</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
@@ -8610,7 +8610,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="94"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybadujã aktualizacyje...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
@@ -10072,7 +10072,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmiyń wersyjõ %1</translation>
     </message>
 </context>
 <context>
@@ -10141,12 +10141,12 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="166"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybadujã znŏleżności...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmiyń wersyjõ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
@@ -10788,7 +10788,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="127"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybadujã aktualizacyje...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
@@ -10819,7 +10819,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="217"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybadujã znŏleżności...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="237"/>
@@ -12517,12 +12517,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="220"/>
         <source>Error: </source>
-        <translation type="unfinished"></translation>
+        <translation>Feler: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="222"/>
         <source>Warning: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ôstrzeżynie </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="254"/>
@@ -12533,7 +12533,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="361"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Feler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
@@ -12551,7 +12551,10 @@ Please switch to one of the following Java versions for this instance:</source>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Je żeś w procesie wychrōnianiŏ &quot;%1&quot;.
+Je to fungowanie permanynt, kere wychrōni tyn niysztandardowy kōmpōnynt.
+
+Je żeś tego pewny?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"/>
@@ -12611,7 +12614,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="394"/>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmiyń wersyjõ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="396"/>
