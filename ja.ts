@@ -7803,7 +7803,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
-        <translation>ランチャーの現在および過去のログを、共有サービスにアップロードして表示します。</translation>
+        <translation>ランチャーの現在および過去のログを、共有サービスにアップロードして表示します</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
