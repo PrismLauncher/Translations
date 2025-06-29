@@ -5896,7 +5896,7 @@ Do you want to play the demo?</source>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>ボタンを押すまでゲームの起動は遅延されます。プロファイラーサーバーが現在実行中なので、プロファイラーを設定するのに適したタイミングです。
+        <translation>ボタンを押すまでゲームは完全起動しません。現在プロファイラサーバーが実行中のため、プロファイラを設定するのには絶好のタイミングです。
 
 %1</translation>
     </message>
