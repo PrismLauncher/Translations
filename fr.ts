@@ -821,7 +821,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished">Voir le dossier des packs chat.</translation>
+        <translation>Voir le dossier des thèmes pour le chat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
