@@ -1128,7 +1128,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
         <source>Install</source>
-        <translation>Installeeer</translation>
+        <translation>Installeer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
@@ -1138,12 +1138,12 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation>Deelcode gebruiken</translation>
+        <translation>Gebruik deelcode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation>Alles wissen</translation>
+        <translation>Wis alles</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
@@ -1237,7 +1237,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
         <source>Installing</source>
-        <translation>Installeren</translation>
+        <translation>Bezig met installeren</translation>
     </message>
 </context>
 <context>
@@ -1250,12 +1250,12 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="55"/>
         <source>Initializing</source>
-        <translation>Initialiseren</translation>
+        <translation>Aan het initialiseren</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"/>
         <source>Waiting...</source>
-        <translation>Wachten...</translation>
+        <translation>Aan het wachten...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="95"/>
@@ -1308,7 +1308,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation>Het automatische Java-mechanisme detecteert een 32-bits installatie van Java.</translation>
+        <translation>Het automatische Java-mechanisme heeft een 32-bits installatie van Java gedetecteerd.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
@@ -1377,12 +1377,12 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation>Automatisch downloaden inschakelen</translation>
+        <translation>Schakel automatisch downloaden in</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation>Automatisch downloaden uitschakelen</translation>
+        <translation>Schakel automatisch downloaden uit</translation>
     </message>
 </context>
 <context>
@@ -1417,7 +1417,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
         <source>Cancel</source>
-        <translation>Annuleren</translation>
+        <translation>Annuleer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
@@ -1428,12 +1428,12 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
         <source>Skip</source>
-        <translation type="unfinished">Overslaan</translation>
+        <translation>Sla over</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Uw geconfigureerde globale modsmap en staandaard downloadsmap worden automatisch gecontroleerd veer de gedownloadde mods en worden naar de instantie gekopieerd als ze gevonden zijn.&lt;/p&gt;&lt;p&gt;Je kan ook de gedownloadde mods in deze dialoog slepen, of een map toevoegen om te zien of je de mods niet in de standaardlocatie hebt gedownload&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Klik op &apos;Onbrekende openen&apos; om alle downloadlinks in de browser te openen. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Uw geconfigureerde globale modsmap en standaard downloadsmap worden automatisch gecontroleerd op de gedownloadde mods en worden naar de instantie gekopieerd als ze gevonden zijn.&lt;/p&gt;&lt;p&gt;Je kan ook de gedownloadde mods in deze dialoog slepen, of een map toevoegen om te controleren als je de mods niet in de standaardlocatie hebt gedownload.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Klik op &apos;Ontbrekende openen&apos; om alle downloadlinks in de browser te openen. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
