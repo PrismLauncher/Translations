@@ -2060,7 +2060,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="258"/>
         <source>Refresh</source>
-        <translation>Ververs</translation>
+        <translation>Verversen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
@@ -2123,7 +2123,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="23"/>
         <source>Scanning files...</source>
-        <translation>Bestanden scannen...</translation>
+        <translation>Bezig met bestanden scannen...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="41"/>
@@ -2133,7 +2133,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="54"/>
         <source>Copying %1…</source>
-        <translation>Kopiëren van %1…</translation>
+        <translation>Bezig met het kopiëren van %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="66"/>
@@ -2152,7 +2152,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Enable</source>
-        <translation type="unfinished">Aanzetten</translation>
+        <translation>Zet aan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
@@ -2192,7 +2192,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Waarschuwing: Deze bron is van ergens anders symbolisch gekoppeld. Aanpassen verandert ook het originele.
+Waarschuwing: Deze bron is van ergens anders symbolisch gekoppeld. Aanpassen verandert ook het origineel.
 Canoniek Pad: %1</translation>
     </message>
     <message>
@@ -2200,12 +2200,12 @@ Canoniek Pad: %1</translation>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de originele veranderen.</translation>
+Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook het origineel veranderen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation>Is de datapack ingeschakeld? (Allen geldig voor ZIPs)</translation>
+        <translation>Is het datapack ingeschakeld? (Allen geldig voor ZIPs)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
