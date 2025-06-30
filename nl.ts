@@ -1979,7 +1979,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>&amp;Commando voor opstarten:</translation>
+        <translation>&amp;Pre-start commando:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
@@ -1994,30 +1994,30 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation>&amp;Pre-lanceringsopdracht</translation>
+        <translation>&amp;Pre-start commando</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>P&amp;ost-exit Command</source>
-        <translation>Opdracht na afsluiten</translation>
+        <translation>Commando na afsluiten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
         <source>&amp;Wrapper Command</source>
-        <translation>Wrapperopdract</translation>
+        <translation>Wrappercommando</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;De pre-lancering opdracht wordt uitgevoerd vóórdat de instantie wordt gestart en de opdracht na afsluiten wordt uitgevoerd wanneer de instantie wordt beëindigd.&lt;/p&gt;&lt;p&gt;Beide worden in de launcher&apos;s werkmap uitgevoerd met extra omgevingsvariabelen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Naam van de instantie&lt;/li&gt;&lt;li&gt;$INST_ID - ID van de instantie (de mapnaam)&lt;/li&gt;&lt;li&gt;$INST_DIR - het absolute pad van de instantie&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - het absolute pad van Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java binary die gebruikt wordt bij het starten&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters die voor het starten gebruikt worden&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper-commando zorgt ervoor dat er gestart kan worden met gebruik van een extra wrapper programma (zoals &apos;optirun&apos; op Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Het pre-start wordt uitgevoerd vóórdat de instantie wordt gestart en het commando na afsluiten wordt uitgevoerd wanneer de instantie wordt beëindigd.&lt;/p&gt;&lt;p&gt;Beide worden in de launcher&apos;s werkmap uitgevoerd met extra omgevingsvariabelen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Naam van de instantie&lt;/li&gt;&lt;li&gt;$INST_ID - ID van de instantie (de mapnaam)&lt;/li&gt;&lt;li&gt;$INST_DIR - het absolute pad van de instantie&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - het absolute pad van Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java binary die gebruikt wordt bij het starten&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters die voor het starten gebruikt worden&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Het wrapper-commando zorgt ervoor dat er gestart kan worden met gebruik van een extra wrapper programma (zoals &apos;optirun&apos; op Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation>Aangepaste opdrachten</translation>
+        <translation>Aangepaste commando&apos;s</translation>
     </message>
 </context>
 <context>
@@ -2060,7 +2060,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="258"/>
         <source>Refresh</source>
-        <translation>Verversen</translation>
+        <translation>Ververs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
