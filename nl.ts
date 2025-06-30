@@ -103,7 +103,7 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Geef hier een eigen API-token voor Modrinth in.</translation>
+        <translation>Voer hier een eigen API-token voor Modrinth in.</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -153,7 +153,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Typ hier zelf een URL voor meta.</translation>
+        <translation>Voer hier zelf een URL voor meta in.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="257"/>
@@ -167,7 +167,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="315"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Aandacht: u moet dit waarschijnlijk niet aanpassen als CurseForge al werkt.</translation>
+        <translation>Let op: u moet dit waarschijnlijk niet aanpassen als CurseForge al werkt.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -201,12 +201,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="143"/>
         <source>Unsupported installation mode</source>
-        <translation>Niet ondersteund installatie modus</translation>
+        <translation>Niet ondersteund installatiemodus</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="184"/>
         <source>Deleting existing files...</source>
-        <translation>Aanwezige bestanden verwijderen...</translation>
+        <translation>Bezig met aanwezige bestanden verwijderen...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="331"/>
@@ -231,7 +231,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="633"/>
         <source>Downloading configs...</source>
-        <translation>Configuraties downloaden...</translation>
+        <translation>Bezig met configuraties downloaden...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
@@ -241,7 +241,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="675"/>
         <source>Extracting configs...</source>
-        <translation>Configuraties uitpakken...</translation>
+        <translation>Bezig met configuraties uitpakken...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="681"/>
@@ -251,12 +251,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
         <source>Selecting optional mods...</source>
-        <translation>Optionele mods selecteren...</translation>
+        <translation>Optionele mods aan het selecteren...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"/>
         <source>Downloading mods...</source>
-        <translation>Mods downloaden...</translation>
+        <translation>Bezig met mods downloaden...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
@@ -281,7 +281,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>De volgende bestanden zijn niet beschikbaar voor downloaden in derde partijwerpers&lt;br/&gt;. Je moet ze handmatig downloaden en toevoegen aan de instantie.</translation>
+        <translation>De volgende bestanden zijn niet beschikbaar voor downloaden via derde partij launchers.&lt;br/&gt; Je moet ze handmatig downloaden en toevoegen aan de instantie.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="880"/>
@@ -296,17 +296,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="925"/>
         <source>Extracting mods...</source>
-        <translation>Mods uitpakken...</translation>
+        <translation>Mods aan het uitpakken...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="997"/>
         <source>Installing modpack</source>
-        <translation>Modpakket installeren</translation>
+        <translation>Bezig met modpakket installeren</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1009"/>
         <source>Failed to create libraries component</source>
-        <translation>Kon het bibliotheken component niet aanmaken</translation>
+        <translation>Kon het bibliothekencomponent niet aanmaken</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1036"/>
@@ -340,7 +340,7 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation>Bouw Datum:</translation>
+        <translation>Bouwdatum:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
@@ -370,7 +370,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
         <source>Close</source>
-        <translation>Sluiten</translation>
+        <translation>Sluit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="140"/>
@@ -390,7 +390,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
         <source>Build date: %1</source>
-        <translation>Bouw Datum: %1</translation>
+        <translation>Bouwdatum: %1</translation>
     </message>
     <message>
         <source>Build Number</source>
@@ -415,7 +415,7 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>Afgevinkt</translation>
+        <translation>Niet aangevinkt</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -483,7 +483,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>Type van de rekening (MSA of Offline)</translation>
+        <translation>Accounttype (MSA of Offline)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -621,19 +621,19 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>Microsoft toevoegen</translation>
+        <translation>Voeg Microsoft toe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>Offline toevoegen</translation>
+        <translation>Voeg offline toe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>Verversen</translation>
+        <translation>Ververs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
@@ -658,12 +658,12 @@ Als u hier nieuw bent, kunt u op de knop &quot;Toevoegen&quot; klikken om uw Moj
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Welkom!
-Als je hier nieuw bent, kun je de &quot;Add Microsoft&quot; knop kiezen om je Microsoft account te linken.</translation>
+Als je hier nieuw bent, kun je de &quot;Voeg Microsoft toe&quot; knop kiezen om je Microsoft account te linken.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Er is geen Microsoft Authenticatie ingesteld.</translation>
+        <translation>Er is geen Microsoft Authenticatie ID ingesteld.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="106"/>
@@ -808,17 +808,17 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Map openen</translation>
+        <translation>Open map</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished">Map met widgetthema&apos;s weergeven.</translation>
+        <translation>Geef map met widgetthema&apos;s weer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished">Map met icoonthema&apos;s weergeven.</translation>
+        <translation>Geef map met icoonthema&apos;s weer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
@@ -828,7 +828,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation>Alles herladen</translation>
+        <translation>Herlaad alles</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
@@ -864,7 +864,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="256"/>
         <source>Cat Opacity</source>
-        <translation>Kat doorzichtigheid</translation>
+        <translation>Doorzichtigheid kat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="311"/>
@@ -904,7 +904,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation>[DEBUG] Een geheime debugbericht...</translation>
+        <translation>[DEBUG] Een geheim debugbericht...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
@@ -941,10 +941,10 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
         <translation>Deze installatie heeft een update lock bestand op: %1
 
 Tijd: %2
-Bijwerken van versie %3 naar #4
-Destinatie installeer pad: %5
-Data Pad: %6
-Dit betekent waarschijnlijk dat een bijwerk poging is gefaald. Zorg dat de installatie werkt voordat u doorgaat.
+Bijwerken van versie %3 naar %4
+Installatiepad: %5
+Datapad: %6
+Dit betekent waarschijnlijk dat een bijwerkpoging is gefaald. Zorg dat de installatie werkt voordat u doorgaat.
 Controleer de Prism Launcher bijwerker log op: 
 %7
 voor details over de laatste bijwerk poging.
@@ -967,9 +967,9 @@ for details on the last update attempt.</source>
         <translation>Een poging om bij te werken is mislukt
 
 Zorg dat de installatie werkt voordat u doorgaat.
-Controleer de Prism Launcher bijwerk log op 
+Controleer de Prism Launcher bijwerklog op 
 %1
-voor details over de laatste bijwerk poging.</translation>
+voor details over de laatste bijwerkpoging.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1094"/>
@@ -993,7 +993,7 @@ for details.</oldsource>
         <translation>Bijwerken gelukt
 
 U gebruikt nu %1 .
-Controleer het Prism Launcher bijwerkprogramma logbestand op 
+Controleer het Prism Launcher bijwerkprogramma logbestand op: 
 %1
 voor details.</translation>
     </message>
@@ -1009,10 +1009,10 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation>Je /temp map is momenteel gemounted met de &apos;noexec&apos; regel ingeschakeld.
+        <translation>Je /tmp map is momenteel gemounted met de &apos;noexec&apos; regel ingeschakeld.
 Sommige versies van Minecraft kunnen hierdoor niet opstarten.
 
-Je kan dit oplossen door de map opnieuw te mounten met de &apos;exec&apos; regel, of de instelling java.io.tmpdir JVM argument naar een schrijfbare map in je bestandenstructuur zetten waar de &apos;exec&apos; regel is ingesteld. Bijvoorbeeld home/user/.local/tmp
+Je kan dit oplossen door de map opnieuw te mounten met de &apos;exec&apos; regel, of de het java.io.tmpdir JVM-argument naar een schrijfbare map in je bestandenstructuur zetten waar de &apos;exec&apos; regel is ingesteld. Bijvoorbeeld home/user/.local/tmp
 </translation>
     </message>
     <message>
@@ -1026,7 +1026,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/Application.cpp" line="1164"/>
         <source>Incompatible system configuration</source>
-        <translation>Incompatibele systeemconfiguratie</translation>
+        <translation>Niet ondersteunde systeemconfiguratie</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1538"/>
@@ -1059,7 +1059,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="20"/>
         <source>Updating assets index...</source>
-        <translation>Asset-index bijwerken...</translation>
+        <translation>Bezig met asset-index bijwerken...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="26"/>
@@ -1080,7 +1080,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Asset bestanden bij Mojang ophalen...</translation>
+        <translation>Bezig met asset-bestanden bij Mojang ophalen...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="90"/>
@@ -1103,19 +1103,19 @@ Sommige versies van Minecraft starten mogelijk niet op.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>Op populariteit sorteren</translation>
+        <translation>Sorteer op populariteit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Op naam sorteren</translation>
+        <translation>Sorteer op naam</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>Op spelversie sorteren</translation>
+        <translation>Sorteer op spelversie</translation>
     </message>
 </context>
 <context>
@@ -1128,7 +1128,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
         <source>Install</source>
-        <translation>Installeren</translation>
+        <translation>Installeeer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
