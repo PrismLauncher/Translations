@@ -2205,7 +2205,7 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook het 
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation>Is het datapack ingeschakeld? (Allen geldig voor ZIPs)</translation>
+        <translation>Is de datapack ingeschakeld? (Allen geldig voor ZIPs)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
@@ -2238,12 +2238,12 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook het 
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation>Een datapackversie veranderen.</translation>
+        <translation>Verander een datapackversie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
         <source>Download Data Packs</source>
-        <translation>Datapacks Downloaden</translation>
+        <translation>Download Datapacks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"/>
@@ -2281,7 +2281,7 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook het 
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="189"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="262"/>
         <source>Abort</source>
-        <translation type="unfinished">Afbreken</translation>
+        <translation>Breek af</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
@@ -2292,16 +2292,16 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook het 
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="129"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Update bevestigen</translation>
+        <translation>Bevestig update</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="130"/>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Data-packs updaten terwijl het spel draait kan pack duplicatie en spel crashes veroorzaken.
+        <translation>Data-packs updaten terwijl het spel draait kan packduplicatie en spelcrashes veroorzaken.
 De oude bestanden kunnen niet verwijdert worden als ze in gebruik zijn.
-Ben je zeker dat je dit wilt doen?</translation>
+Weet je zeker dat je dit wilt doen?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"/>
