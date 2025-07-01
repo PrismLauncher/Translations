@@ -6002,7 +6002,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="435"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrōb ko&amp;pijõ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="438"/>
@@ -6480,7 +6480,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="200"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ôstrzeżynia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
@@ -7449,7 +7449,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="261"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ôstrzeżynia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="186"/>
@@ -7651,7 +7651,7 @@ Je żeś pewny, iże tego chcesz?</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation>Ôstrzeżynie</translation>
+        <translation>Ôstrzeżynia</translation>
     </message>
     <message>
         <source>Abort</source>
