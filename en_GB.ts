@@ -8625,7 +8625,6 @@ This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
         <translation>You are about to delete &quot;%1&quot; %2.
-
 This may be permanent and will completely delete the instance.
 
 Are you sure?</translation>
@@ -9480,7 +9479,7 @@ This can be updated only using a file in %1 format
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
         <translation>Allows installing data packs across all worlds if an applicable mod is installed.
-It is most likely you will need to change the path - please refer to the mod&apos;s website.</translation>
+It is most likely you will need to change the path—please refer to the mod&apos;s website.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
