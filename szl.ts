@@ -6002,7 +6002,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="435"/>
         <source>Cop&amp;y...</source>
-        <translation>Zrōb ko&amp;pijõ</translation>
+        <translation>Zrōb ko&amp;pijõ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="438"/>
