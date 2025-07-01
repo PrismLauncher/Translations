@@ -297,13 +297,13 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
         <source>Platform:</source>
-        <translation type="unfinished"></translation>
+        <translation>Platforma:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Datōm wydaniŏ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
@@ -313,7 +313,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
         <source>Channel:</source>
-        <translation>Kanał</translation>
+        <translation>Kanał:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
@@ -406,7 +406,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sort konta (MSA abo Offline)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="343"/>
@@ -417,7 +417,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
@@ -444,7 +444,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="349"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
@@ -5423,7 +5423,7 @@ Reason:
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="231"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
@@ -5433,12 +5433,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="166"/>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>Abo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="347"/>
         <source>CODE</source>
-        <translation type="unfinished"></translation>
+        <translation>KOD</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="360"/>
@@ -5448,7 +5448,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="398"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacyje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="72"/>
@@ -12874,12 +12874,12 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
         <source>Game Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb szpilu</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="266"/>
         <source>Last Played</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnio grano było:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
@@ -12891,7 +12891,7 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="272"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Informacyje</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="280"/>
