@@ -1488,7 +1488,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="205"/>
         <source>Forge</source>
-        <translation>Forge</translation>
+        <translation>Forge (Loader szpila)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="215"/>
@@ -7161,7 +7161,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
