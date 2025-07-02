@@ -501,13 +501,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Przidej Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ôdświyż</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
@@ -544,13 +544,13 @@ Jeźli dopiyro zaczynŏsz używać, użyj knefla „Przidej Microsoft”, coby p
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="59"/>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Konta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Przidej &amp;Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
@@ -581,7 +581,7 @@ Jeźli dopiyro zaczynŏsz używać, użyj knefla „Przidej Microsoft”, coby p
     <message>
         <location filename="src/launcher/Application.cpp" line="882"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawiyniŏ</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1027"/>
@@ -597,7 +597,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta instalacyjŏ posiadŏ zbiōr szpery aktualizacyje bydōncy w: %1
+
+Timestamp: %2
+Aktualizowanie z wersyje %3 do %4
+Docelowa chodnik instalacyje: %5
+Chodnik z danymi: %6
+To nojprŏwdopodobnij znaczy, iże prōba aktualizacyje utrŏpiyła. Wejzdrzij sie, iże twoja instalacyjŏ kanōny przed prziwstōniym.
+Wybadej logi aktualizatora Prism Launchr w:
+%7
+po wiyncyj informacyje przi ôstatnij prōbie aktualizacyje.
+
+By wychrōnić tã szperã i prziwstŏć naciś &quot;Zignoruj&quot; pōniżyj.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1044"/>
@@ -672,7 +683,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/Application.cpp" line="1921"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kamracie, wyglōndŏ na to iże wczaśnij używołś %1 na %2. Chcesz migrować swoje dane do nowyj lokalizacyje %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1964"/>
@@ -752,7 +763,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
         <source>Install</source>
-        <translation>Pobier</translation>
+        <translation>Zainstaluj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
@@ -1801,7 +1812,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawiyniŏ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -3044,7 +3055,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="101"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ôdświyż</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="107"/>
@@ -3491,7 +3502,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="55"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawiyniŏ</translation>
     </message>
 </context>
 <context>
@@ -3639,12 +3650,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ôdświyż</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="214"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="215"/>
@@ -3807,7 +3818,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="92"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="99"/>
@@ -5779,7 +5790,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inksze...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
@@ -5814,7 +5825,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Miauu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
@@ -5824,17 +5835,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Plik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Widok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="211"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pōmoc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
@@ -5864,12 +5875,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="517"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawrzij &amp;ôkno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="520"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawrzij to ôkno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
@@ -5895,7 +5906,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Pōmoc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -5915,7 +5926,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="366"/>
         <source>Rename the selected instance.</source>
-        <translation>Zmiyń miano ôbranyj instancyje</translation>
+        <translation>Zmiyń miano ôbranyj instancyje.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="355"/>
@@ -5951,7 +5962,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="790"/>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Konta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
@@ -5961,7 +5972,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Edytuj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="399"/>
@@ -5992,7 +6003,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Motywy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="413"/>
@@ -6029,7 +6040,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="403"/>
         <source>Total playtime: 0s</source>
-        <translation type="unfinished"></translation>
+        <translation>W sumie grołś bez: 0s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="581"/>
@@ -6056,7 +6067,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="506"/>
         <source>No Default Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Niy mŏsz wychodnego kōnta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="509"/>
@@ -6118,18 +6129,18 @@ Please create a new instance before attempting to install this resource again.</
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1188"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Miano grupy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1188"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1210"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sam wpisz nowy miano grupy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1200"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>Wychrōń grupã</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1326"/>
@@ -6210,8 +6221,28 @@ Chcesz kōntynuować?</translation>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Ta instancyjŏ może zawiyrać zbiory *referencyjne dlŏ tyj instancyje:
+
+%1
+
+Wychrōniynie jeji może sprawić popszniynie inkszyj instancyje,
+
+Eli chcesz kōntynuować?</numerusform>
+            <numerusform>Te instancyje mogōm zawiyrać zbiory *referencyjne dlŏ tyj instancyje:
+
+%1
+
+Wychrōniynie jeji może sprawić popszniynie inkszych instancyje,
+
+Eli chcesz kōntynuować?</numerusform>
+            <numerusform>Te instancyje mogōm zawiyrać zbiory *referencyjne dlŏ tyj instancyje:
+
+%1
+
+Wychrōniynie jeji może sprawić popszniynie inkszych instancyje,
+
+Eli chcesz kōntynuować?</numerusform>
         </translation>
     </message>
     <message>
@@ -6235,7 +6266,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1717"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Niy wiym jak to sie stało, ale niy idzie znojś pulpitu?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1560"/>
@@ -6307,7 +6338,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1219"/>
         <source>Group already exists. :/</source>
-        <translation type="unfinished"></translation>
+        <translation>Takŏ grupa już istnieje- pech. :/</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
@@ -11330,7 +11361,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ôdświyż</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
@@ -12812,7 +12843,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ôdświyż</translation>
     </message>
 </context>
 <context>
