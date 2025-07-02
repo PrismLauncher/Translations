@@ -28,7 +28,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="308"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="351"/>
         <source>Use Default</source>
-        <translation>Використовувати стандартний</translation>
+        <translation>Використовувати стандартні</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -913,7 +913,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="702"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Неможливо відобразити цей журнал, оскільки довжина журналу перевищила %1 рядків.</translation>
+        <translation>Неможливо відобразити цей журнал, оскільки довжина журналу перевищила %1 рядків.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="899"/>
@@ -1461,7 +1461,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
         <source>Skip</source>
-        <translation type="unfinished">Пропустити</translation>
+        <translation>Пропустити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
@@ -1909,7 +1909,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation>Виберіть ціль для приєднання при запуску.</translation>
+        <translation>Виберіть ціль для приєднання при запуску</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
@@ -1980,12 +1980,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="201"/>
         <source>world</source>
-        <translation>Світ</translation>
+        <translation>світ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="204"/>
         <source>server</source>
-        <translation type="unfinished"></translation>
+        <translation>сервер</translation>
     </message>
 </context>
 <context>
@@ -2176,32 +2176,32 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Enable</source>
-        <translation type="unfinished">Увімкнути</translation>
+        <translation>Увімкнути</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Image</source>
-        <translation type="unfinished">Зображення</translation>
+        <translation>Зображення</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Name</source>
-        <translation type="unfinished">Назва</translation>
+        <translation>Назва</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Pack Format</source>
-        <translation type="unfinished">Формат пакету</translation>
+        <translation>Формат пакету</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Востаннє змінено</translation>
+        <translation>Востаннє змінено</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="78"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Нерозпізнаний</translation>
+        <translation>Нерозпізнаний</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="104"/>
@@ -2221,7 +2221,7 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="116"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation>
 Увага: Цей ресурс жорстко повʼязаний з іншим ресурсом. Його редагування також змінить оригінал.</translation>
     </message>
     <message>
@@ -2245,7 +2245,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Завантажити пакети</translation>
+        <translation>Завантажити пакети</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
@@ -2274,7 +2274,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="242"/>
         <source>Error</source>
-        <translation type="unfinished">Помилка</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
@@ -2282,21 +2282,21 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
         <source>Aborted</source>
-        <translation type="unfinished">Перервано</translation>
+        <translation>Перервано</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Завантаження припинене користувачем.</translation>
+        <translation>Завантаження припинене користувачем.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="94"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="179"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="252"/>
         <source>Warnings</source>
-        <translation type="unfinished">Попередження</translation>
+        <translation>Попередження</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="108"/>
@@ -2314,7 +2314,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="129"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Підтвердити оновлення</translation>
+        <translation>Підтвердити оновлення</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="130"/>
@@ -2346,12 +2346,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
         <source>Update checker</source>
-        <translation type="unfinished">Перевірка оновлень</translation>
+        <translation>Перевірка оновлень</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Підтвердити видалення</translation>
+        <translation>Підтвердити видалення</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="204"/>
@@ -3313,7 +3313,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
         <source>Tools</source>
-        <translation type="unfinished">Інструменти</translation>
+        <translation>Інструменти</translation>
     </message>
 </context>
 <context>
@@ -4556,7 +4556,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="49"/>
         <source>Other logs</source>
-        <translation type="unfinished">Інші журнали</translation>
+        <translation>Інші журнали</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="53"/>
@@ -6316,7 +6316,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Update interval</source>
-        <translation>Оновити інтервал</translation>
+        <translation>Інтервал оновлень</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
@@ -6415,7 +6415,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="250"/>
         <source>&amp;Java:</source>
-        <translation>&amp;Ява:</translation>
+        <translation>&amp;Java:</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -9332,7 +9332,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
         <source>Browse</source>
-        <translation type="unfinished">Огляд</translation>
+        <translation>Огляд</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="368"/>
@@ -9357,27 +9357,27 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
@@ -11163,7 +11163,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="133"/>
         <source>Keep updating</source>
-        <translation type="unfinished">Продовжувати оновлювати</translation>
+        <translation>Продовжувати оновлювати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="143"/>
@@ -13176,23 +13176,23 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="243"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Створити ярлик</translation>
+        <translation>Створити ярлик</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished">Запускач знаходиться в папці, з якої він був видобутий, тому він не може створювати ярлики.</translation>
+        <translation>Запускач знаходиться в папці, з якої він був видобутий, тому він не може створювати ярлики.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
         <source>Failed to create icon for application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося створити іконку для додатка.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished">Запускач запущений як неправильно налаштований AppImage? (змінна оточення $APPIMAGE відсутня)</translation>
+        <translation>Запускач запущений як неправильно налаштований AppImage? (змінна оточення $APPIMAGE відсутня)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
@@ -13200,32 +13200,32 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished">Не вдалося створити іконку для ярлика.</translation>
+        <translation>Не вдалося створити іконку для ярлика.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished">Не підтримується на вашій платформі!</translation>
+        <translation>Не підтримується на вашій платформі!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
         <source>Failed to create %1 shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося створити ярлик %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished">Не можете знайти стільницю?!</translation>
+        <translation>Не можете знайти стільницю?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="181"/>
         <source>Created a shortcut to this %1 on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Створено ярлик для цього %1 на вашому робочому столі!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="192"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося знайти папку з додатками?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="202"/>
@@ -13240,7 +13240,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="235"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished">Настільні записи</translation>
+        <translation>Настільні записи</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="244"/>
@@ -13250,12 +13250,12 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
         <source>Network error: %1</source>
-        <translation type="unfinished">Помилка мережі: %1</translation>
+        <translation>Помилка мережі: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished">Помилка: %1 повернув неочікуваний код стану %2 %3</translation>
+        <translation>Помилка: %1 повернув неочікуваний код стану %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
@@ -13267,7 +13267,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished">Помилка: %1 повернув неправильне тіло відповіді</translation>
+        <translation>Помилка: %1 повернув неправильне тіло відповіді</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
@@ -13277,7 +13277,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished">Помилка: %1 повернув помилку: %2</translation>
+        <translation>Помилка: %1 повернув помилку: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
@@ -13288,7 +13288,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">Помилка: %1 повернув код помилки: %2
+        <translation>Помилка: %1 повернув код помилки: %2
 Повідомлення про помилку: %3</translation>
     </message>
     <message>
@@ -13337,7 +13337,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation type="unfinished">датапак</translation>
+        <translation>датапак</translation>
     </message>
 </context>
 <context>
@@ -15731,7 +15731,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished">Вигляд</translation>
+        <translation>Вигляд</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
