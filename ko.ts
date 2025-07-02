@@ -14667,7 +14667,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="53"/>
         <source>Executing task %1 out of %2</source>
-        <translation>총 %2개 중 %1개를 다운로드 중입니다</translation>
+        <translation>작업 %2개 중 %1개 실행 중</translation>
     </message>
 </context>
 <context>
