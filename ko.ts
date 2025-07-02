@@ -3357,7 +3357,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation>FML 라이브러리를 다운로드하는 중...</translation>
+        <translation>FML 라이브러리 다운로드 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
@@ -4439,7 +4439,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/InstanceImportTask.cpp" line="86"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>모드 팩을 다운로드 중:
+        <translation>모드 팩 다운로드 중:
 %1</translation>
     </message>
     <message>
@@ -5040,7 +5040,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation>Java를 다운로드하는 중</translation>
+        <translation>Java 다운로드 중</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="69"/>
@@ -5140,7 +5140,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation>Java를 다운로드하는 중</translation>
+        <translation>Java 다운로드 중</translation>
     </message>
 </context>
 <context>
@@ -12798,7 +12798,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="155"/>
         <source>Download of meta file %1</source>
-        <translation>%1 메타 파일들을 다운로드 하는 중</translation>
+        <translation>%1 메타 파일을 다운로드하는 중</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/JsonFormat.cpp" line="133"/>
@@ -13812,7 +13812,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="46"/>
         <source>Downloading resource:
 %1</source>
-        <translation>리소스 다운로드 중:
+        <translation>리소스를 다운로드하는 중:
 %1</translation>
     </message>
 </context>
@@ -14667,7 +14667,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="53"/>
         <source>Executing task %1 out of %2</source>
-        <translation>작업 %2개 중 %1개 실행 중</translation>
+        <translation>작업 %2개 중 %1개를 실행하는 중</translation>
     </message>
 </context>
 <context>
@@ -15372,7 +15372,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="44"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>모드 팩을 다운로드하는 중:
+        <translation>모드 팩 다운로드 중:
 %1</translation>
     </message>
     <message>
@@ -15438,7 +15438,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="86"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="109"/>
         <source>Downloading modpack</source>
-        <translation>모드 팩을 다운로드하는 중</translation>
+        <translation>모드 팩 다운로드 중</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
