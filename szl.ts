@@ -1483,7 +1483,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="195"/>
         <source>NeoForge</source>
-        <translation>NeoForge</translation>
+        <translation>Neo-Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="205"/>
@@ -3059,7 +3059,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
