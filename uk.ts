@@ -18,7 +18,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>Базова &amp;URL</translation>
+        <translation>Базове посилання</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -450,7 +450,7 @@
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Помилка</translation>
+        <translation>Помилковий</translation>
     </message>
     <message>
         <source>Expired</source>
