@@ -235,7 +235,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="633"/>
         <source>Downloading configs...</source>
-        <translation>설정 다운로드 중...</translation>
+        <translation>설정을 다운로드하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
@@ -260,7 +260,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"/>
         <source>Downloading mods...</source>
-        <translation>모드 다운로드 중...</translation>
+        <translation>모드를 다운로드하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
@@ -3357,7 +3357,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation>FML 라이브러리 다운로드 중...</translation>
+        <translation>FML 라이브러리를 다운로드하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
@@ -3697,7 +3697,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="600"/>
         <source>Downloading mods...</source>
-        <translation>모드 다운로드 중...</translation>
+        <translation>모드를 다운로드하는 중...</translation>
     </message>
 </context>
 <context>
@@ -4439,7 +4439,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/InstanceImportTask.cpp" line="86"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>모드 팩 다운로드 중:
+        <translation>모드 팩을 다운로드하는 중:
 %1</translation>
     </message>
     <message>
@@ -5040,7 +5040,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation>Java 다운로드 중</translation>
+        <translation>Java를 다운로드하는 중</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="69"/>
@@ -5140,7 +5140,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation>Java 다운로드 중</translation>
+        <translation>Java를 다운로드하는 중</translation>
     </message>
 </context>
 <context>
@@ -6779,7 +6779,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="69"/>
         <source>Downloading zip for %1</source>
-        <translation>%1의 압축 파일 다운로드 중</translation>
+        <translation>%1의 압축 파일을 다운로드하는 중</translation>
     </message>
     <message>
         <source>Downloading zip for %1 (%2%)</source>
@@ -10662,7 +10662,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="306"/>
         <source>Downloading mods...</source>
-        <translation>모드 다운로드 중...</translation>
+        <translation>모드를 다운로드하는 중...</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -10991,7 +10991,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="145"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>%1개의 작업 실행 중 (%2/%3 완료)</translation>
+        <translation>%1개의 작업 실행 중(%3 중 %2 완료)</translation>
     </message>
 </context>
 <context>
@@ -14667,7 +14667,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="53"/>
         <source>Executing task %1 out of %2</source>
-        <translation>작업 %2개 중 %1개를 실행하는 중</translation>
+        <translation>%2개 중 %1개의 작업 실행 중</translation>
     </message>
 </context>
 <context>
@@ -15372,7 +15372,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="44"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>모드 팩 다운로드 중:
+        <translation>모드 팩을 다운로드하는 중:
 %1</translation>
     </message>
     <message>
