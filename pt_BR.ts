@@ -45,7 +45,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Nota: você provavelmente irá querer mudar ou limpar a URL base após alterar o tipo de serviço para textos.</translation>
+        <translation type="unfinished">Nota: você provavelmente irá querer mudar ou limpar a URL base após alterar o tipo de serviço para textos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
@@ -61,7 +61,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="228"/>
         <source>Mod&amp;rinth</source>
-        <translation>Mod&amp;rinth</translation>
+        <translation type="unfinished">Mod&amp;rinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="250"/>
