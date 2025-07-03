@@ -33,7 +33,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Nota: você talvez deva trocar ou limpar a Base URL depois de mudar o conteúdo de tipo de serviço da sua área de transferência</translation>
+        <translation>Nota: você talvez deva trocar ou limpar o Base URL depois de mudar o conteúdo de tipo de serviço da sua área de transferência.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
@@ -2474,7 +2474,7 @@ Deseja prosseguir?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished">Substituir &amp;as definições globais</translation>
+        <translation>Substituir &amp;Definições Globais</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
@@ -4494,7 +4494,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="49"/>
         <source>Other logs</source>
-        <translation type="unfinished">Outros registos</translation>
+        <translation>Outros registros</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="53"/>
@@ -5432,7 +5432,7 @@ Podes alterar a versão do Java nas definições mais tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Executável Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
@@ -5442,7 +5442,7 @@ Podes alterar a versão do Java nas definições mais tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
         <source>Memory Notice</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso de Memória</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="204"/>
@@ -5452,7 +5452,7 @@ Podes alterar a versão do Java nas definições mais tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="267"/>
         <source>(-Xmx)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xmx)</translation>
     </message>
     <message>
         <source>PermGen (Java 7 and earlier):</source>
@@ -5470,12 +5470,12 @@ Podes alterar a versão do Java nas definições mais tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="302"/>
         <source>&amp;PermGen Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho da &amp;PermGen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>(-Xms)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xms)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="319"/>
