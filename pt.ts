@@ -13,7 +13,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Serviço de Cola &amp;Tipo</translation>
+        <translation>Colar Serviço e Tipo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
@@ -33,7 +33,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Nota: talvez vás querer alterar ou limpar o URL base após a alteração do tipo do serviço de cola.</translation>
+        <translation>Nota: você talvez deva trocar ou limpar a Base URL depois de mudar o conteúdo de tipo de serviço da sua área de transferência</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
