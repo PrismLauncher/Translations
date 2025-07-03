@@ -8615,12 +8615,12 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>A példány mappádban &quot;Rar$&quot; szerepel - ez azt jelenti, hogy nem csomagoltad ki a launcher archívumot!</translation>
+        <translation>A példány mappában &quot;Rar$&quot; szerepel - ez azt jelenti, hogy nem csomagoltad ki a launcher archívumot!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1657"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation>Példánymappája egy ideiglenes mappában található: &quot;%1&quot;!</translation>
+        <translation>A példánymappád egy ideiglenes mappában található: &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1671"/>
@@ -8639,7 +8639,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
         <source>Open %1 Discord guild.</source>
-        <translation>Nyissa meg a %1 Discord szerverét.</translation>
+        <translation>Nyisd meg a %1 Discord szerverét.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="206"/>
@@ -9004,7 +9004,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>Használja a &amp;GLFW rendszertelepítését</translation>
+        <translation>A &amp;GLFW rendszertelepítésének használata</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
@@ -9013,7 +9013,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>Használja az &amp;OpenAL rendszertelepítését</translation>
+        <translation>Az &amp;OpenAL rendszertelepítésének használata</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
@@ -9129,11 +9129,11 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>A Feral Interactive GameMode-ja nem található meg a rendszeren.</translation>
+        <translation>A Feral Interactive GameMode-ja nem található meg a rendszereden.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>A MangoHud nem található meg a rendszerén.</translation>
+        <translation>A MangoHud nem található meg a rendszereden.</translation>
     </message>
 </context>
 <context>
@@ -9328,7 +9328,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="681"/>
         <source>Use system installation of OpenAL</source>
-        <translation>Használja az OpenAL rendszertelepítését</translation>
+        <translation>Az OpenAL rendszertelepítésének használata</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
@@ -9337,7 +9337,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
         <source>Use system installation of GLFW</source>
-        <translation>Használja a GLFW rendszertelepítését</translation>
+        <translation>A GLFW rendszertelepítésének használata</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
@@ -9483,7 +9483,7 @@ Valószínűleg meg kell változtatnod az elérési utat - lásd a mod weboldal�
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="723"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Engedélyezze a MangoHud fejlett teljesítmény-felületét.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A MangoHud fejlett teljesítmény-felületének engedélyezése.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="726"/>
@@ -9503,7 +9503,7 @@ Valószínűleg meg kell változtatnod az elérési utat - lásd a mod weboldal�
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="743"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>Használja a Zink-et, a Mesa OpenGL illesztőprogramját, amely az OpenGL-t valósítja meg a Vulkan tetején. A teljesítmény a helyzettől függően változhat. Megjegyzés: Ha nem található megfelelő Vulkan illesztőprogram, a szoftver szoftveres renderelést használ.</translation>
+        <translation>A Zink, a Mesa OpenGL illesztőprogramjának használata, amely az OpenGL-t valósítja meg a Vulkan tetején. A teljesítmény a helyzettől függően változhat. Megjegyzés: Ha nem található megfelelő Vulkan illesztőprogram, a szoftver szoftveres renderelést használ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="746"/>
@@ -9881,7 +9881,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation>Ahonnan letöltötte a modot.</translation>
+        <translation>Ahonnan letöltötted a modot.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="189"/>
@@ -9999,7 +9999,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation>Próbálja meg ellenőrizni vagy frissíteni az összes kiválasztott modot (ha nincs kiválasztva semmi akkor az összes modot)</translation>
+        <translation>Próbáld meg ellenőrizni vagy frissíteni az összes kiválasztott modot (ha nincs kiválasztva semmi akkor az összes modot)</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
@@ -10007,7 +10007,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>Próbálja meg frissíteni és ellenőrizze a hiányzó függőségeket az összes kiválasztott modon (ha nincs kiválasztva semmi, akkor minden modon)</translation>
+        <translation>Próbálj meg frissíteni és ellenőrizd a hiányzó függőségeket az összes kiválasztott modon (ha nincs kiválasztva semmi, akkor minden modon)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="106"/>
@@ -10163,7 +10163,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="104"/>
         <source>View the homepages of all selected mods.</source>
-        <translation>Tekintse meg az összes kiválasztott mod kezdőlapját.</translation>
+        <translation>Tekintsd meg az összes kiválasztott mod kezdőlapját.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
@@ -10325,7 +10325,7 @@ Kérjük, frissítse a következőt: %1!</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Nem sikerült metaadatokat generálni a következő modokhoz:&lt;br&gt;Szeretné folytatni ezek a modok nélkül?</translation>
+        <translation>Nem sikerült metaadatokat generálni a következő modokhoz:&lt;br&gt;Szeretnéd folytatni ezek a modok nélkül?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
@@ -10382,7 +10382,7 @@ Kérjük, frissítse a következőt: %1!</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Nem sikerült ellenőrizni vagy megtalálni a következő modokat a frissítésekhez:&lt;br&gt;Szeretné folytatni a modok nélkül?</translation>
+        <translation>Nem sikerült ellenőrizni vagy megtalálni a következő modokat a frissítésekhez:&lt;br&gt;Szeretnéd folytatni a modok nélkül?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
