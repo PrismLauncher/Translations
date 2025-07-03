@@ -6052,12 +6052,12 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="595"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wychrōń grupã</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
         <source>No accounts added!</source>
-        <translation type="unfinished"></translation>
+        <translation>Żŏdne kōnto niy ôstało przidane- jeszcze!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="715"/>
