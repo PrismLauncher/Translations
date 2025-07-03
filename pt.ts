@@ -13,7 +13,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Colar Serviço e Tipo</translation>
+        <translation>Colar Serviço&amp;Tipo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
@@ -82,7 +82,7 @@
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Escreve um ID de cliente personalizado para a Autenticação da Microsoft aqui.</translation>
+        <translation>Insira um ID de cliente personalizado para a Autenticação da Microsoft aqui.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
@@ -95,7 +95,7 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Escreve aqui um token de API personalizado para o Modrinth.</translation>
+        <translation>Insira aqui um token de API personalizado para o Modrinth.</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -103,12 +103,12 @@
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>ID do Cliente Técnico</translation>
+        <translation>ID do Cliente Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="358"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: só precisas de definir isto para acederes a dados privados.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: só precisa definir isto para acessar dados privados.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
@@ -121,7 +121,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>User Agent</source>
-        <translation>Agente do utilizador</translation>
+        <translation>Agente do Usuário</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="154"/>
