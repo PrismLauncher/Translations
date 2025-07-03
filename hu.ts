@@ -11412,7 +11412,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="417"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation>Biztosan törli az összes naplófájlt?</translation>
+        <translation>Biztosan törlöd az összes naplófájlt?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="420"/>
@@ -11661,7 +11661,7 @@ Oka: %1.</translation>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
         <source>You are running the latest version.</source>
-        <translation>Ön a legújabb verziót futtatja.</translation>
+        <translation>A legújabb verziót futtatod.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
