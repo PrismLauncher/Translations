@@ -1470,7 +1470,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A beállított globális modok mappája és az alapértelmezett letöltési mappa automatikusan ellenőrzésre kerül a letöltött modok után, és ha megtalálhatóak, azok bemásolásra kerülnek az adott példányba.&lt;/p&gt;&lt;p&gt;Opcionálisan áthúzhatod a letöltött modokat erre az ablakra, vagy megadhatsz egy figyelt mappát, ha nem az alapértelmezett helyre töltötted le őket.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Kattints a „Hiányzók megnyitása” gombra, hogy az összes letöltési hivatkozás megnyíljon a böngészőben.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A beállított globális modok mappája és az alapértelmezett letöltési mappa automatikusan ellenőrzésre kerül a letöltött modok után, és ha megtalálhatóak, azok bemásolásra kerülnek az adott példányba.&lt;/p&gt;&lt;p&gt;Opcionálisan áthúzhatod a letöltött modokat erre az ablakra, vagy megadhatsz egy figyelt mappát, ha nem az alapértelmezett helyre töltötted le őket.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Kattints a &quot;Hiányzó(k) megnyitása&quot; gombra, hogy az összes letöltési hivatkozás megnyíljon a böngészőben.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -1480,7 +1480,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
-        <translation>Nyissa meg a hiányzó(ka)t</translation>
+        <translation>Hiányzó(k) megnyitása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
@@ -3407,7 +3407,7 @@ Kérlek, próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="44"/>
         <source>FTB App Import</source>
-        <translation>FTB App</translation>
+        <translation>FTB Alk. Import</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
@@ -3427,7 +3427,7 @@ Kérlek, próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Megjegyzés: Ha az FTB-példányok nem az alapértelmezett helyen vannak, válaszd ki azt a keresés melletti gombbal.</translation>
+        <translation>Megjegyzés: Ha az FTB példányok nem az alapértelmezett helyen vannak, válaszd ki őket a keresés melletti gombbal.</translation>
     </message>
 </context>
 <context>
@@ -6232,22 +6232,22 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="555"/>
         <source>Retry Limit:</source>
-        <translation>Újrapróbálkozási korlát:</translation>
+        <translation>Újrapróbálkozások korlátja:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="562"/>
         <source>Concurrent Download Limit:</source>
-        <translation>Egyidejű letöltési korlát:</translation>
+        <translation>Egyidejű letöltések korlátja:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="572"/>
         <source>HTTP Timeout:</source>
-        <translation>HTTP időkorlát:</translation>
+        <translation>HTTP kapcsolat időkorlátja:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="598"/>
         <source>Concurrent Task Limit:</source>
-        <translation>Egyidejű feladatkorlát:</translation>
+        <translation>Egyidejű feladatok korlátja:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="294"/>
