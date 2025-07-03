@@ -10325,7 +10325,7 @@ Kérjük, frissítse a következőt: %1!</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Nem sikerült metaadatokat generálni a következő modokhoz:&lt;br&gt;Szeretnéd folytatni ezek a modok nélkül?</translation>
+        <translation>Nem sikerült metaadatokat generálni a következő modokhoz:&lt;br&gt;Szeretnéd folytatni ezen modok nélkül?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
@@ -10382,7 +10382,7 @@ Kérjük, frissítse a következőt: %1!</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Nem sikerült ellenőrizni vagy megtalálni a következő modokat a frissítésekhez:&lt;br&gt;Szeretnéd folytatni a modok nélkül?</translation>
+        <translation>Nem sikerült ellenőrizni vagy megtalálni a következő modokat a frissítésekhez:&lt;br&gt;Szeretnéd folytatni ezen modok nélkül?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
@@ -10714,7 +10714,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="393"/>
         <source>Choose update file</source>
-        <translation>Válassza ki a frissítési fájlt</translation>
+        <translation>Válaszd ki a frissítési fájlt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="393"/>
@@ -11264,7 +11264,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="109"/>
         <source>Delete the selected log</source>
-        <translation>Törölje a kiválasztott naplót</translation>
+        <translation>A kiválasztott napló törlése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="112"/>
@@ -11274,7 +11274,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="119"/>
         <source>Delete all the logs</source>
-        <translation>Törölje az összes naplót</translation>
+        <translation>Az összes napló törlése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="122"/>
@@ -11299,7 +11299,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="176"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>Másolja a teljes naplót a vágólapra</translation>
+        <translation>A teljes napló másolása a vágólapra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="179"/>
@@ -11309,7 +11309,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="186"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation>Töltse fel a naplót a beállításokban konfigurált beillesztési szolgáltatásba</translation>
+        <translation>A napló feltöltése a beállításokban konfigurált beillesztési szolgáltatásba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="189"/>
@@ -11319,7 +11319,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="196"/>
         <source>Reload the contents of the log from the disk</source>
-        <translation>Töltse le újra a napló tartalmát a lemezről</translation>
+        <translation>A napló tartalmának újratöltése a lemezről</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="199"/>
@@ -11328,7 +11328,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Clear the log</source>
-        <translation>Törölje a naplót</translation>
+        <translation>A napló törlése</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -11337,7 +11337,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation>Töltse fel a naplót a beállításokban konfigurált beillesztési szolgáltatásba.</translation>
+        <translation>A napló feltöltése a beállításokban konfigurált beillesztési szolgáltatásba.</translation>
     </message>
     <message>
         <source>Upload</source>
