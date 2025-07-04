@@ -1933,12 +1933,12 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation>Wybierz świat lub serwer, do którego chcesz automatycznie dołączyć po uruchomieniu.</translation>
+        <translation>Doprecyzuj świat lub serwer, do którego chcesz automatycznie dołączyć po uruchomieniu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz cel, do którego chcesz dołączyć po uruchomieniu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
@@ -1949,22 +1949,22 @@ Niektóre wersje Minecrafta mogą się nie załadować.
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"/>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"/>
         <source>Server Address:</source>
-        <translation>Adres serwera:</translation>
+        <translation>Adres Serweru:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"/>
         <source>Server Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres Serweru</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwaga: Jeśli skrót zostanie przeniesiony po jego stworzeniu, nie zostanie usunięty wraz z instancją.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation type="unfinished"></translation>
+        <translation>W takim wypadku musisz usunąć je ręcznie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"/>
@@ -1984,7 +1984,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="97"/>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [%2] - Ostatnio grany: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="113"/>
@@ -1994,17 +1994,17 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="180"/>
         <source>%1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="182"/>
         <source>%1 - Server %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Serwer %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="197"/>
         <source>instance</source>
-        <translation type="unfinished"></translation>
+        <translation>instancja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="201"/>
@@ -2042,22 +2042,22 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadpisz Ustawienia &amp;Globalne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Komendy &amp;przed uruchomieniem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>P&amp;ost-exit Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Komendy &amp;po wyjściu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
         <source>&amp;Wrapper Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Komendy &amp;Wrappera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
@@ -2225,12 +2225,12 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Ostatnio Modyfikowane</translation>
+        <translation>Ostatnio Modyfikowane</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="78"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Niezidentyfikowane</translation>
+        <translation>Niezidentyfikowane</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="104"/>
@@ -2504,7 +2504,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadpisz Ustawienia &amp;Globalne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
