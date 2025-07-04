@@ -45,7 +45,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>참고: Pastebin 서비스를 변경한 후 기본 URL을 변경하거나 지워야 할 수 있습니다.</translation>
+        <translation>참고: Pastebin 서비스를 변경한 후에 기본 URL을 변경하거나 지워야 할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>참고: Microsoft 인증을 통한 로그인이 제대로 작동하는 경우에는 이 설정을 하지 않아도 됩니다.</translation>
+        <translation>참고: Microsoft 인증을 통한 로그인이 제대로 작동한다면 이 설정을 하지 않아도 됩니다.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -107,7 +107,7 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>여기에 Modrinth에 대한 사용자 지정 API 토큰을 입력하십시오.</translation>
+        <translation>여기에 Modrinth의 사용자 지정 API 토큰을 입력하십시오.</translation>
     </message>
     <message>
         <source>(None)</source>
