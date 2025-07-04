@@ -11295,7 +11295,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="162"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Wychrōń</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="167"/>
