@@ -449,17 +449,17 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Miano używŏcza powiōnzanŏ z kōntym Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
         <source>User name of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Miano używŏcza kōnta.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="363"/>
         <source>Current status of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Terŏźny status kōnta.</translation>
     </message>
     <message>
         <source>Disabled</source>
@@ -479,23 +479,23 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Spraw, by tyn bōł wychodny</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Spraw, by tyn niy bōł wychodny</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zarzōndzanie skōrkami</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarzōndzanie skōrkami</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -512,7 +512,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
         <source>Refresh the account tokens</source>
-        <translation type="unfinished"></translation>
+        <translation>Ôdświyż tokeny konta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
@@ -524,7 +524,7 @@ Jeźli dopiyro zaczynŏsz używać, użyj knefla „Przidej Microsoft”, coby p
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="106"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu kōntekstowe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
@@ -534,12 +534,12 @@ Jeźli dopiyro zaczynŏsz używać, użyj knefla „Przidej Microsoft”, coby p
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wychrōnić kōnto?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Na zicher chcesz wychrōnić to kōnto?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="59"/>
@@ -573,7 +573,7 @@ Jeźli dopiyro zaczynŏsz używać, użyj knefla „Przidej Microsoft”, coby p
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszyskie wersyje</translation>
     </message>
 </context>
 <context>
@@ -613,7 +613,7 @@ By wychrōnić tã szperã i prziwstŏć naciś &quot;Zignoruj&quot; pōniżyj.<
     <message>
         <location filename="src/launcher/Application.cpp" line="1044"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacyjŏ w czasie- poczekej</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1068"/>
@@ -628,7 +628,7 @@ for details on the last update attempt.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1076"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacyjŏ sie niy podarziła</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1100"/>
@@ -649,7 +649,7 @@ for details.</oldsource>
     <message>
         <location filename="src/launcher/Application.cpp" line="1108"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacyjŏ sie podarziła</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1140"/>
@@ -2065,7 +2065,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="132"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu kōntekstowe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="213"/>
@@ -5993,7 +5993,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobier do &amp;PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="275"/>
@@ -7272,7 +7272,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszyskie wersyje</translation>
     </message>
 </context>
 <context>
@@ -11047,7 +11047,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="311"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu kōntekstowe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="372"/>
@@ -11325,7 +11325,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="605"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu kōntekstowe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="736"/>
@@ -11338,7 +11338,10 @@ Currently installed version: %1</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarŏz wychrōnisz &quot;%1&quot;.
+Je to fungowanie permanynt, a serwer ôstanie wychrōniōny z brify serwerōw już na dycki (DOŚ DUGO).
+
+Na zicher tego chcesz?</translation>
     </message>
 </context>
 <context>
@@ -11356,7 +11359,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <source>&amp;Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zakōńcz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
@@ -11366,7 +11369,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Gibke ustawiyniŏ %1</translation>
     </message>
 </context>
 <context>
@@ -11680,7 +11683,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="295"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu kōntekstowe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="335"/>
@@ -12552,7 +12555,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="189"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu kōntekstowe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="205"/>
@@ -13030,7 +13033,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="142"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu kōntekstowe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="220"/>
