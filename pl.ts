@@ -1933,7 +1933,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation type="unfinished">Wybierz świat lub serwer do którego chcesz automatycznie dołączyć po uruchomieniu.</translation>
+        <translation>Wybierz świat lub serwer, do którego chcesz automatycznie dołączyć po uruchomieniu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
@@ -1943,13 +1943,13 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
         <source>World:</source>
-        <translation type="unfinished"></translation>
+        <translation>Świat:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"/>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"/>
         <source>Server Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres serwera:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"/>
