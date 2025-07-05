@@ -6620,7 +6620,7 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="422"/>
         <source>Suggest to update an existing instance during modpack installation</source>
-        <translation>Sugeruj aktualizację istniejącej instancji podczas instalacji modpacka.</translation>
+        <translation>Sugeruj aktualizację istniejącej instancji podczas instalacji modpacka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="432"/>
@@ -8628,13 +8628,14 @@ Proszę stwórz nową instalację przed próbowaniem znowu zainstalowania tego z
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1207"/>
         <source>Failed to undo trashing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieudane usuwanie instancji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1208"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się przywrócić niektórych instancji i skrótów.
+Sprawdź kosz w celu ich przywrócenia.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
@@ -8658,10 +8659,10 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
         <source> and its %n registered shortcut(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform> i jego %n zarejestrowanego skrótu</numerusform>
+            <numerusform> i ich %n zarejestrowanych skrótów</numerusform>
+            <numerusform> i ich %n zarejestrowanych skrótów</numerusform>
         </translation>
     </message>
     <message>
@@ -8670,7 +8671,10 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaraz usuniesz &quot;%1&quot;%2.
+Ten proces może być permanentny, i może całkowicie usunąć instancję.
+
+Jesteś pewien?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
@@ -9350,7 +9354,7 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij launcher po zamknięciu okna gry</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
@@ -9479,22 +9483,22 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
         <source>When the game window opens, hide the launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukryj launcher po otwarciu okna gry</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
         <source>&amp;Window Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozmiar &amp;okna:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="189"/>
         <source>×</source>
-        <translation type="unfinished"></translation>
+        <translation>×</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="196"/>
         <source>pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>piksele</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="222"/>
@@ -9504,7 +9508,7 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="234"/>
         <source>When the game is launched, show the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż okno konsoli przy uruchomieniu gry</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="241"/>
@@ -9525,17 +9529,18 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozwala na instalację paczek danych na wszystkich światach jeżeli odpowiedni mod jest zainstalowany.
+Najprawdopodobniej będziesz musiał/-a zmienić ścieżkę- sprawdź ze stroną internetową moda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
         <source>Folder Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ścieżka folderu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"/>
         <source>datapacks</source>
-        <translation type="unfinished"></translation>
+        <translation>paczki danych</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
