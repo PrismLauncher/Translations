@@ -3001,7 +3001,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Download resources from online mod platforms.</source>
-        <translation>Pobierz zasoby z online platform z modami.</translation>
+        <translation>Pobierz zasoby z platform z modami online.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="174"/>
@@ -3011,7 +3011,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Reset Update Metadata</source>
-        <translation>Zresetuj Metadane Aktualizacji</translation>
+        <translation>Zresetuj aktualizacje metadanych</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
@@ -6056,7 +6056,7 @@ Czy chcesz zagrać w demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="367"/>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>Dane logowania wygasły i należy je ponownie autoryzować</translation>
+        <translation>Konto wygasło i zalogowanie ponownie jest wymagane</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="377"/>
@@ -7260,7 +7260,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation>Aby zagrać w Minecrafta, musisz być zalogowany(a) na co najmniej jedno konto Microsoft. Czy chcesz się teraz zalogować?</translation>
+        <translation>Aby zagrać w Minecrafta, potrzebujesz mieć co najmniej jedno konto Microsoft na którym jesteś zalogowany. Czy chcesz się teraz zalogować?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
