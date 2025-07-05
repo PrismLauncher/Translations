@@ -2384,7 +2384,7 @@ Czy na pewno chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
         <source>Confirm Removal</source>
-        <translation>Potwierdź Usunięcie</translation>
+        <translation>Potwierdź usunięcie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="204"/>
