@@ -2268,7 +2268,7 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="161"/>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation>Data i czas, kiedy ta paczka danych ostatnio została zmieniona (bądź dodana)</translation>
+        <translation>Data i czas, kiedy ta paczka danych ostatnio została zmieniona (bądź dodana).</translation>
     </message>
 </context>
 <context>
@@ -2276,7 +2276,7 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Pobierz paczki</translation>
+        <translation>Pobierz paczki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
