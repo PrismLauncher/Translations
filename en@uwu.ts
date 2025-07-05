@@ -1406,7 +1406,7 @@ Are you sure?</source>
         <translation>You awe about to wemuv %1 items.
 This may be pewmanyent and they wiww be gonye fwom the fowdew.
 
-Awe you suwe?!?</translation>
+Awe you suwe?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="184"/>
