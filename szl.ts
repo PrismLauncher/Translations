@@ -7318,7 +7318,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Włōncz</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
@@ -7328,7 +7328,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnio Modyfikowane</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
@@ -10486,12 +10486,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Włōncz</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnio modyfikowane</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
@@ -10553,7 +10553,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Włōncz</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
@@ -11934,7 +11934,7 @@ Je żeś pewny?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="101"/>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Niy mogã ôtworzić &quot;forgeversion.properties&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="115"/>
@@ -11984,7 +11984,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Włōncz</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
