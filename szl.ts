@@ -34,7 +34,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Uwierzitelnianie &amp;Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
@@ -102,7 +102,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Serwer meta&amp;danych</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
@@ -198,12 +198,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobiyrōm zbiory kōnfiguracyje...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="631"/>
         <source>Config download</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobiyranie zbiorōw kōnfiguracyje</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="672"/>
@@ -529,7 +529,7 @@ Jeźli dopiyro zaczynŏsz używać, użyj knefla „Przidej Microsoft”, coby p
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Musisz przidać kōnto Microsoft kere posiadŏ Minecraft podwiela przidŏsz kōnto offline.&lt;br&gt;&lt;br&gt; Skōntaktuj sie z supportem Microsoft, jeźli straciōłś swoje kōnto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -758,7 +758,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Ôbier mody do zainstalowaniŏ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -7328,7 +7328,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Last Modified</source>
-        <translation>Ostatnio Modyfikowane</translation>
+        <translation>Ostatnio modyfikowane</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
@@ -10563,7 +10563,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnio modyfikowane</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
@@ -11999,7 +11999,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnio modyfikowane</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
