@@ -651,7 +651,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1666"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>داتای کۆن لە %1 دۆزرایەوە، بەڵام پێشتر داتایەکی هەیە بۆ %2. بەداخەوە پێویستە خۆت خۆت گواستنەوەکە بکەیت. دەتەوێت کاتێکی دواتر کە %2 دەستپێدەکەیت بۆ گواستنەوەی داتاکە بیرت بکرێت؟</translation>
+        <translation>داتای کۆن لە %1 دۆزرایەوە، بەڵام پێشتر داتایەکی هەیە بۆ %2. بەداخەوە پێویستە خۆت گواستنەوەکە بکەیت. دەتەوێت کاتێکی دواتر کە %2 دەستپێدەکەیت بۆ گواستنەوەی داتاکە بیرت بکرێت؟</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1670"/>
