@@ -11703,7 +11703,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation>Saját útvonal használata az applikáció gyökereként (a jelenlegi könyvtárhoz használjon &apos;.&apos;).</translation>
+        <translation>Saját útvonal használata az applikáció gyökereként (a jelenlegi könyvtárhoz használj &apos;.&apos;-ot).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
