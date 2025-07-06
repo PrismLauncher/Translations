@@ -8382,7 +8382,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="813"/>
         <source>No news available.</source>
-        <translation>Brak dostępnych nowości.</translation>
+        <translation>Brak nowych wiadomości.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="857"/>
