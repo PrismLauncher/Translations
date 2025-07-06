@@ -1001,7 +1001,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Profiler ôstoł przerwany</translation>
     </message>
 </context>
 <context>
@@ -2318,7 +2318,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobiyrōm bibliŏtyki FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
@@ -3167,12 +3167,13 @@ Please try again.</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="86"/>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobiyrōm modpacka:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="100"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobiyrōm modpacka</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="149"/>
@@ -3584,7 +3585,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Profiler ôstoł przerwany</translation>
     </message>
 </context>
 <context>
@@ -3597,7 +3598,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Profiler ôstoł przerwany</translation>
     </message>
 </context>
 <context>
@@ -3605,7 +3606,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobiyrōm Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="69"/>
@@ -3705,7 +3706,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobiyrōm Java</translation>
     </message>
 </context>
 <context>
@@ -6024,7 +6025,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1689"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Stwōrz przima</translation>
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
@@ -6046,7 +6047,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="581"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stwōrz instancyjõ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="595"/>
@@ -6113,7 +6114,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1038"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobiyrōm modpacka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1073"/>
@@ -6167,7 +6168,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1371"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ôstoł sprŏwnie przidany do PATH. Możesz terŏz sztartnōńć go, bez sztartowanie `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1374"/>
@@ -6313,7 +6314,7 @@ Eli chcesz kōntynuować?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="599"/>
         <source>&amp;Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zmiyń miano grupy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1200"/>
@@ -6431,7 +6432,7 @@ Eli chcesz kōntynuować?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="836"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niy ma nowych wiadōmości</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
@@ -11833,12 +11834,13 @@ Je żeś pewny?</translation>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="44"/>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobiyrōm modpacka:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="49"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobiyrōm modpacka</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="64"/>
