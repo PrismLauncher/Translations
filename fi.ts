@@ -376,7 +376,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
         <source>Commit: %1</source>
-        <translation>Commit: %1</translation>
+        <translation>Sitoumus: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
@@ -655,7 +655,7 @@ Jos olet uusi täällä, voit painaa &quot;Lisää Microsoft&quot; -nappia lisä
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Microsoft Authentication -asiakastunnusta ei ole asetettu.</translation>
+        <translation>Microsoft Authentication -asiakastunnusta ei asetettu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="106"/>
@@ -1203,7 +1203,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation>Yhtäkään versiota ei ole tällä hetkellä saatavilla</translation>
+        <translation>Yhtään versiota ei ole saatavilla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
@@ -1506,7 +1506,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>Yritä käyttää muita tarjoajia automaattisesti, jos valittu tarjoaja ei toimi</translation>
+        <translation>Yritä käyttää automaattisesti muita palveluntarjoajia, jos valittu palveluntarjoaja ei toimi.</translation>
     </message>
 </context>
 <context>
@@ -1580,7 +1580,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>Suoritetaan %1-tehtävä(ä) (%2/%3 suoritettu)</translation>
+        <translation>Suoritetaan %1-tehtävä(ä) (%2 %3:sta on suoritettu).</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
