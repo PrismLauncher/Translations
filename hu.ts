@@ -11773,7 +11773,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="129"/>
         <source>MacOS Not Supported</source>
-        <translation>MacOS Nem Támogatott</translation>
+        <translation>MacOS nem támogatott</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="129"/>
@@ -11811,20 +11811,20 @@ Make sure you have write permissions to the data folder.
 The updater cannot continue until you fix this problem.</source>
         <translation>A frissítő képtelen volt napló fájlt írni - az adat mappa nem írható.
 
-Bizonyosodjon meg, hogy vannak írási engedélyei az adat mappához.
+Bizonyosodj meg arról, hogy van-e írási engedélyed az adat mappához.
 (%1)
 
-A frissítő nem tud tovább haladni, amíg Ön ezt a problémát ki nem küszöböli.</translation>
+A frissítő nem tud tovább haladni, amíg ezt a problémát meg nem oldod.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="477"/>
         <source>Updating flatpack not supported</source>
-        <translation>Flatpack frissítése nem támogatott</translation>
+        <translation>Flatpak frissítése nem támogatott</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="477"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
-        <translation>Frissítések keresésén más akció nem támogatott a Prism Launcher flatpak verzióján.</translation>
+        <translation>Frissítések keresésén más akció nem támogatott a Prism Launcher Flatpak verzióján.</translation>
     </message>
     <message>
         <source>Updating Not Supported</source>
@@ -11838,12 +11838,12 @@ A frissítő nem tud tovább haladni, amíg Ön ezt a problémát ki nem küszö
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="534"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="987"/>
         <source>Reading manifest from %1</source>
-        <translation>Manifesztum olvasása innen: %1</translation>
+        <translation>Manifeszt olvasása innen: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="546"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
-        <translation>Manifest üres, a %1 könyvtár tartalmát a lehető legjobban kitalálva</translation>
+        <translation>Manifeszt üres, a %1 könyvtár tartalmát a lehető legjobban kitalálva</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="552"/>
