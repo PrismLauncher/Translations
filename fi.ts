@@ -1833,7 +1833,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
         <source>Name</source>
-        <translation type="unfinished">Nimi</translation>
+        <translation>Nimi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
@@ -1904,7 +1904,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="113"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (käytössä)</translation>
+        <translation>%1 (käytössä)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="180"/>
@@ -2120,7 +2120,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Enable</source>
-        <translation type="unfinished">Ota käyttöön</translation>
+        <translation>Ota käyttöön</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
@@ -2130,22 +2130,22 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Name</source>
-        <translation type="unfinished">Nimi</translation>
+        <translation>Nimi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Pack Format</source>
-        <translation type="unfinished">Paketin versiotunnus</translation>
+        <translation>Paketin Formaatti</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Muokattu viimeksi</translation>
+        <translation>Muokattu Viimeksi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="78"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Tunnistamaton</translation>
+        <translation>Tunnistamaton</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="104"/>
@@ -2159,15 +2159,15 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Varoitus: Tämä resurssi on symbolisesti linkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.
-Kanoninen polku: %1</translation>
+Kanoninen Polku: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="116"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation>
 Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.</translation>
     </message>
     <message>
@@ -2191,7 +2191,7 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Lataa paketteja</translation>
+        <translation>Lataa Paketteja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
@@ -2220,7 +2220,7 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="242"/>
         <source>Error</source>
-        <translation type="unfinished">Virhe</translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
@@ -2228,28 +2228,28 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
         <source>Aborted</source>
-        <translation type="unfinished">Keskeytetty</translation>
+        <translation>Keskeytetty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Lataus pysäytetty käyttäjän toimesta.</translation>
+        <translation>Lataus pysäytetty käyttäjän toimesta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="94"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="179"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="252"/>
         <source>Warnings</source>
-        <translation type="unfinished">Varoitukset</translation>
+        <translation>Varoitukset</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="108"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="189"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="262"/>
         <source>Abort</source>
-        <translation type="unfinished">Keskeytä</translation>
+        <translation>Keskeytä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
@@ -5306,7 +5306,7 @@ Voit muuttaa Java-version myöhemmin asetuksista.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="204"/>
         <source>(-XX:PermSize)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-XX:PermSize)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="267"/>
@@ -5329,22 +5329,22 @@ Voit muuttaa Java-version myöhemmin asetuksista.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="302"/>
         <source>&amp;PermGen Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;PermGen Koko:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>(-Xms)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xms)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="319"/>
         <source>Ma&amp;ximum Memory Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>En&amp;immäismuistin käyttö:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="329"/>
         <source>M&amp;inimum Memory Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vä&amp;himmäismuistin käyttö:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
@@ -8920,7 +8920,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
         <source>LiteLoader</source>
-        <translation></translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
