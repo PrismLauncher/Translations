@@ -13292,7 +13292,7 @@ Szeretnéd folytatni?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>Az launcher abban a mappában található, amelyből kicsomagoltad, ezért nem tud parancsikonokat létrehozni.</translation>
+        <translation>A launcher abban a mappában található, amelyből kicsomagoltad, ezért nem tud parancsikonokat létrehozni.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
@@ -13316,7 +13316,7 @@ Szeretnéd folytatni?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
         <source>Not supported on your platform!</source>
-        <translation>Nem támogatott az ön platformján!</translation>
+        <translation>Nem támogatott a platformodon!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
@@ -13336,7 +13336,7 @@ Szeretnéd folytatni?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="192"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation>Nem találta az alkalmazások mappát?!</translation>
+        <translation>Az alkalmazások mappa nem található?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="202"/>
@@ -13509,7 +13509,7 @@ Hibaüzenet: %3</translation>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
         <translation>%1 kiválasztott erőforrás van.
-Biztosan bezárja ezt a párbeszédpanelt?</translation>
+Biztosan bezárod ezt a párbeszédpanelt?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="131"/>
@@ -13519,7 +13519,7 @@ Biztosan bezárja ezt a párbeszédpanelt?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="143"/>
         <source>Confirm %1 to download</source>
-        <translation>Erősítse meg: %1 a letöltéshez</translation>
+        <translation>Erősítsd meg a(z) %1 letöltését</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
@@ -13878,7 +13878,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="529"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Ha engedélyezi/letiltja ezt az erőforrást, miközben a játék fut, a játék összeomolhat.
+        <translation>Ha engedélyezed/letiltod ezt az erőforrást, miközben a játék fut, a játék összeomolhat.
 Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
@@ -14006,7 +14006,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>Az erőforráscsomag engedélyezve van? (Csak ZIP-re érvényes)</translation>
+        <translation>Az erőforráscsomag engedélyezve van? (Csak ZIP fájlokra érvényes)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="161"/>
@@ -14036,7 +14036,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>Töltse le a forráscsomagokat online platformokról</translation>
+        <translation>Forráscsomagok letöltése online platformokról</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -14051,12 +14051,12 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
-        <translation>Próbálja meg ellenőrizni vagy frissíteni az összes kiválasztott forráscsomagot (ha nincs kiválasztva semmi, akkor az összes forráscsomagot)</translation>
+        <translation>Próbáld meg ellenőrizni vagy frissíteni az összes kiválasztott forráscsomagot (ha nincs kiválasztva semmi, akkor az összes forráscsomagot)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
         <source>Change a mod&apos;s version.</source>
-        <translation>Módosítsd a mod verzióját.</translation>
+        <translation>Egy mod verziójának módosítása.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
@@ -14196,7 +14196,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="75"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation>Nem sikerült metaadatokat generálni a következő erőforrásokhoz:&lt;br&gt;Szeretné folytatni ezen erőforrások nélkül?</translation>
+        <translation>Nem sikerült metaadatokat generálni a következő erőforrásokhoz:&lt;br&gt;Szeretnéd folytatni ezen erőforrások nélkül?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="87"/>
@@ -14254,7 +14254,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="177"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation>Nem sikerült ellenőrizni vagy lekérni a következő forrásokat a frissítésekhez:&lt;br&gt;Szeretné folytatni az erőforrások nélkül?</translation>
+        <translation>Nem sikerült ellenőrizni vagy lekérni a következő forrásokat a frissítésekhez:&lt;br&gt;Szeretnéd folytatni az erőforrások nélkül?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="210"/>
@@ -14495,9 +14495,9 @@ You should double-check for personal information.
 
 Are you sure?</source>
         <translation>%1 képernyőképet készülsz feltölteni ide: %2.
-Érdemes még egyszer ellenőriznie a személyes adatokat.
+Érdemes ellenőrizni, nem tartalmaz-e személyes adatot.
 
-Biztos vagy ebben?</translation>
+Biztos vagy benne?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="377"/>
@@ -14505,17 +14505,17 @@ Biztos vagy ebben?</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>A kiválasztott képernyőképet készülsz feltölteni ide: %1.
-Érdemes még egyszer ellenőriznie a személyes adatokat.
+        <translation>A kiválasztott képernyőkép feltöltésére készülsz ide: %1.
+Érdemes ellenőrizni, nem tartalmaz-e személyes adatot.
 
-Biztos vagy ebben?</translation>
+Biztos vagy benne?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="402"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="443"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"/>
         <source>Failed to upload screenshots!</source>
-        <translation>Képernyőképek feltöltése sikertelen!</translation>
+        <translation>A képernyőképek feltöltése sikertelen!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"/>
@@ -14564,7 +14564,7 @@ Are you sure?</source>
         <translation>%1 képernyőkép törlésére készülsz.
 Ez végleges lehet, és a képernyőképek el fognak tűnni a mappából.
 
-Biztos vagy ebben?</translation>
+Biztos vagy benne?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="515"/>
@@ -14575,7 +14575,7 @@ Are you sure?</source>
         <translation>A kiválasztott képernyőkép törlésére készülsz.
 Ez végleges lehet, és a képernyőkép el fog tűnni a mappából.
 
-Biztos vagy ebben?</translation>
+Biztos vagy benne?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="521"/>
@@ -14619,7 +14619,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="123"/>
         <source>Select a version to install.</source>
-        <translation>Válassza ki a telepíteni kívánt verziót.</translation>
+        <translation>Válaszd ki a telepíteni kívánt verziót.</translation>
     </message>
 </context>
 <context>
@@ -14627,7 +14627,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation>Válassza a Kiadás a telepítéshez lehetőséget</translation>
+        <translation>Válaszd a Kiadás a telepítéshez lehetőséget</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
@@ -14649,7 +14649,7 @@ Biztos vagy ebben?</translation>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation>Válassza ki a telepíteni kívánt verziót.
+        <translation>Válaszd ki a telepíteni kívánt verziót.
 
 Jelenleg telepített verzió: %1</translation>
     </message>
@@ -14789,7 +14789,7 @@ Are you sure?</source>
         <translation>A(z) &quot;%1&quot; eltávolítására készülsz.
 Ez végleges, és a szerver örökre eltűnik a listáról (AMI HOSSZÚ IDŐ).
 
-Biztos vagy ebben?</translation>
+Biztos vagy benne?</translation>
     </message>
 </context>
 <context>
@@ -14833,7 +14833,7 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation>Töltsön le shadereket online platformokról</translation>
+        <translation>Shaderek letöltése online platformokról</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -14848,7 +14848,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
-        <translation>Próbálja meg ellenőrizni vagy frissíteni az összes kiválasztott shadercsomagot (ha nincs kiválasztva semmi, akkor az összes shader csomagot)</translation>
+        <translation>Próbáld meg ellenőrizni vagy frissíteni az összes kiválasztott shadercsomagot (ha nincs kiválasztva semmi, akkor az összes shader csomagot)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
