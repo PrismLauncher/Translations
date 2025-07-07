@@ -14848,12 +14848,12 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
-        <translation>Próbáld meg ellenőrizni vagy frissíteni az összes kiválasztott shader csomagot (ha nincs kiválasztva semmi, akkor az összes shader csomagot)</translation>
+        <translation>Próbáld meg ellenőrizni vagy frissíteni az összes kiválasztott shadercsomagot (ha nincs kiválasztva semmi, akkor az összes shadercsomagot)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
         <source>Change a shader pack&apos;s version.</source>
-        <translation>Módosítsd a shadercsomag verzióját.</translation>
+        <translation>Egy shadercsomag verziójának módosítása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="96"/>
