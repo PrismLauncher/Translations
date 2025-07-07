@@ -14848,7 +14848,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
-        <translation>Próbáld meg ellenőrizni vagy frissíteni az összes kiválasztott shadercsomagot (ha nincs kiválasztva semmi, akkor az összes shader csomagot)</translation>
+        <translation>Próbáld meg ellenőrizni vagy frissíteni az összes kiválasztott shader csomagot (ha nincs kiválasztva semmi, akkor az összes shader csomagot)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
