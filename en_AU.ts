@@ -776,24 +776,24 @@ Please update both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished">View cat packs folder.</translation>
+        <translation>View cat packs folder.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Open Folder</translation>
+        <translation>Open Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished">View widget themes folder.</translation>
+        <translation>View widget themes folder.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished">View icon themes folder.</translation>
+        <translation>View icon themes folder.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
@@ -813,7 +813,7 @@ Please update both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished">&amp;Icons:</translation>
+        <translation>&amp;Icons:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
@@ -892,7 +892,7 @@ Please update both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="702"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Cannot display this log since the log length surpassed %1 lines.</translation>
+        <translation>Cannot display this log since the log length surpassed %1 lines.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="899"/>
@@ -1416,7 +1416,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
         <source>Skip</source>
-        <translation type="unfinished">Skip</translation>
+        <translation>Skip</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
@@ -1551,7 +1551,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation type="unfinished">Could not download metadata for %1 %2. Please change the version or try again later.</translation>
+        <translation>Could not download metadata for %1 %2. Please change the version or try again later.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
@@ -1586,7 +1586,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished">Multiple subtasks failed
+        <translation>Multiple subtasks failed
 %1</translation>
     </message>
     <message>
@@ -1845,7 +1845,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
@@ -1886,7 +1886,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation type="unfinished">Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</translation>
+        <translation>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
@@ -5973,32 +5973,32 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="447"/>
         <source>Log History &amp;Limit:</source>
-        <translation type="unfinished">Log History &amp;Limit:</translation>
+        <translation>Log History &amp;Limit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="492"/>
         <source>Tasks</source>
-        <translation type="unfinished">Tasks</translation>
+        <translation>Tasks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="555"/>
         <source>Retry Limit:</source>
-        <translation type="unfinished">Retry Limit:</translation>
+        <translation>Retry Limit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="562"/>
         <source>Concurrent Download Limit:</source>
-        <translation type="unfinished">Concurrent Download Limit:</translation>
+        <translation>Concurrent Download Limit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="572"/>
         <source>HTTP Timeout:</source>
-        <translation type="unfinished">HTTP Timeout:</translation>
+        <translation>HTTP Timeout:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="598"/>
         <source>Concurrent Task Limit:</source>
-        <translation type="unfinished">Concurrent Task Limit:</translation>
+        <translation>Concurrent Task Limit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="294"/>
