@@ -11843,7 +11843,7 @@ A frissítő nem tud tovább haladni, amíg ezt a problémát meg nem oldod.</tr
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="546"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
-        <translation>Manifeszt üres, a %1 könyvtár tartalmát a lehető legjobban kitalálva</translation>
+        <translation>A manifeszt üres, a %1 könyvtár tartalmát a lehető legjobban kitalálva</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="552"/>
