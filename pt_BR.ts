@@ -1486,7 +1486,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A pasta de mods global e a pasta padrão de downloads que você configurou são automaticamente verificadas para encontrar os mods baixados, que serão copiados para a instancia se encontrados.&lt;/p&gt;&lt;p&gt;Você também pode arrastar os mods baixados para essa janela de diálogo ou adicionar uma pasta para ser verificada caso você não baixou os mods para uma pasta padrão.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A pasta de mods global e a pasta padrão de downloads que você configurou são automaticamente verificadas para encontrar os mods baixados, que serão copiados para a instancia se encontrados.&lt;/p&gt;&lt;p&gt;Você também pode arrastar os mods baixados para essa janela de diálogo ou adicionar uma pasta para ser verificada caso você não baixou os mods para uma pasta padrão.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Clique &apos;Abrir os que faltam&apos; para abrir todos os links de download no navegador web padrão.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -1984,7 +1984,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="97"/>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation type="unfinished">%1[%2] - Última vez jogado: %3</translation>
+        <translation>%1[%2] - jogado pela última vez: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="113"/>
@@ -1994,7 +1994,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="180"/>
         <source>%1 - %2</source>
-        <translation type="unfinished">%1-%2</translation>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="182"/>
@@ -2047,7 +2047,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation type="unfinished">&amp;Comandos Pré-início</translation>
+        <translation>&amp;Comandos Pré-inicialização</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
@@ -2057,7 +2057,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
         <source>&amp;Wrapper Command</source>
-        <translation type="unfinished">Comando ???</translation>
+        <translation>Comando de wrapper</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
@@ -2237,7 +2237,7 @@ Algumas versões do Minecraft podem não iniciar.
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished">A ID do formato do pacote de dados, assim como as versões de Minecraft para que elas foram criadas.</translation>
+        <translation>A ID do formato do data pack, assim como as versões de Minecraft para que elas foram criadas.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="109"/>
@@ -2252,8 +2252,8 @@ Caminho Original: %1</translation>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="116"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-Aviso: Este recurso está fortemente ligado a algo em outro lugar. Editá-lo irá afetar o original.</translation>
+        <translation>
+Aviso: Este recurso está fisicamente ligado a algo em outro lugar. Editá-lo irá afetar o original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"/>
@@ -2340,7 +2340,7 @@ Aviso: Este recurso está fortemente ligado a algo em outro lugar. Editá-lo ir�
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished">Atualizar de pacote de dados é impossível quando os metadados estão desabilitados!</translation>
+        <translation>Atualizar de data packs é impossível quando os metadados estão desabilitados!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="129"/>
