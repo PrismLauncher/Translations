@@ -12468,7 +12468,7 @@ A launcher meg tudja tartani az első %3 és az utolsó %4 sort, levágva a köz
 
 Ha a &quot;Nem&quot; lehetőséget választod, az mclo.gs csak az első %2 sort fogja megőrizni, levágva a potenciálisan hasznos információkat, például az összeomlásokat a végén.
 
-Folytatja a csonkolást?</translation>
+Folytatod a csonkolást?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
@@ -12568,7 +12568,7 @@ Hibaüzenet: %1</translation>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="299"/>
         <source>Library %1 name is broken and cannot be processed.</source>
-        <translation>A(z) %1 könyvtár neve megszakadt, és nem dolgozható fel.</translation>
+        <translation>A(z) %1 könyvtár neve elromlott, és nem dolgozható fel.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
@@ -12758,7 +12758,7 @@ There are dedicated boxes for these in the settings (Java tab, in the Memory gro
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
         <translation>Megpróbáltad kézzel beállítani a JVM memória opciót (&quot;-XX: PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX: InitialHeapSize&quot;, &quot;-Xmx&quot; vagy &quot;-Xms&quot;) használatával.
 Ezekhez külön dobozok vannak a beállításoknál (Java fül, a memóriacsoport felső részén).
-Ez az üzenet addig jelenik meg, amíg nem távolítja el őket a JVM argumentumokból.</translation>
+Ez az üzenet addig jelenik meg, amíg nem távolítod el őket a JVM argumentumokból.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="53"/>
