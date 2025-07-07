@@ -2411,7 +2411,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Override &amp;Global Settings</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
@@ -10039,7 +10039,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="90"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="315"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nepavyksta parodyti šio žurnalo, nes jo ilgis viršijo %1 eilučių.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="337"/>
@@ -12365,7 +12365,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Pack Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paketo formatas</translation>
     </message>
     <message>
         <source>Last changed</source>
