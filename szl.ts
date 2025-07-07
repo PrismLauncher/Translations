@@ -3307,11 +3307,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Window height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość ôkna:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Szyrokość ôkna:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
@@ -6798,11 +6798,11 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Game time</source>
-        <translation type="unfinished"></translation>
+        <translation>Czas szpilu</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Głowne</translation>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
@@ -6909,7 +6909,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Głowne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="76"/>
@@ -6934,12 +6934,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="107"/>
         <source>Window height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość ôkna:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="114"/>
         <source>Window width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Szyrokość ôkna:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="158"/>
