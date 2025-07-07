@@ -15685,12 +15685,12 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="73"/>
         <source>Change a texture pack&apos;s version.</source>
-        <translation>Egy textúracsomag verziójának módosítása</translation>
+        <translation>Egy textúracsomag verziójának módosítása.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="77"/>
         <source>View the homepages of all selected texture packs.</source>
-        <translation>Tekintse meg az összes kiválasztott textúracsomag kezdőlapját.</translation>
+        <translation>Az összes kiválasztott textúracsomag kezdőlapjának megtekintése.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="104"/>
