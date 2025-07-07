@@ -1443,7 +1443,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
         <source>Profiler aborted</source>
-        <translation>Profilador abortado</translation>
+        <translation>Profiler abortado</translation>
     </message>
 </context>
 <context>
@@ -2237,7 +2237,7 @@ Algumas versões do Minecraft podem não iniciar.
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>A ID do formato do data pack, assim como as versões de Minecraft para que elas foram criadas.</translation>
+        <translation>A ID do formato do pacote de dado, assim como as versões de Minecraft para que elas foram criadas.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="109"/>
@@ -2340,7 +2340,7 @@ Aviso: Este recurso está fisicamente ligado a algo em outro lugar. Editá-lo ir
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation>Atualizar de data packs é impossível quando os metadados estão desabilitados!</translation>
+        <translation>Atualizar de pacote de dados é impossível quando os metadados estão desabilitados!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="129"/>
@@ -2689,7 +2689,7 @@ Tem certeza de que quer fazer isso?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
         <source> MiB</source>
-        <translation type="unfinished"> ‐MiB</translation>
+        <translation> MiB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
@@ -3206,12 +3206,12 @@ Você tem certeza de que quer fazer isso?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
         <source>&amp;Profilers</source>
-        <translation type="unfinished">&amp;Perfiladores</translation>
+        <translation>&amp;Profiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation type="unfinished">Perfiladores são acessíveis pelo menu dropdown do Launch.</translation>
+        <translation>Profilers são acessíveis pelo menu dropdown do Launch.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
