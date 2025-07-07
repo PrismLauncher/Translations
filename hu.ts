@@ -14853,7 +14853,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
         <source>Change a shader pack&apos;s version.</source>
-        <translation>Egy shadercsomag verziójának módosítása</translation>
+        <translation>Egy shadercsomag verziójának módosítása.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="96"/>
@@ -14892,7 +14892,7 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="235"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
-        <translation>A Shadercsomag frissítései nem érhetők el, ha a metaadatok le vannak tiltva!</translation>
+        <translation>A shadercsomag frissítései nem érhetők el, ha a metaadatok le vannak tiltva!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="141"/>
@@ -15089,7 +15089,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="154"/>
         <source>Select Skin Texture</source>
-        <translation>Válassza ki a skin textúrát</translation>
+        <translation>Válaszd ki a skin textúrát</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="160"/>
@@ -15665,7 +15665,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation>Töltsön le textúracsomagokat online platformokról</translation>
+        <translation>Textúracsomagok letöltése online platformokról</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
@@ -15680,12 +15680,12 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="59"/>
         <source>Try to check or update all selected texture packs (all texture packs if none are selected)</source>
-        <translation>Próbálja meg ellenőrizni vagy frissíteni az összes kiválasztott textúracsomagot (ha nincs kiválasztva semmi, akkor az összes textúracsomagot)</translation>
+        <translation>Próbáld meg ellenőrizni vagy frissíteni az összes kiválasztott textúracsomagot (ha nincs kiválasztva semmi, akkor az összes textúracsomagot)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="73"/>
         <source>Change a texture pack&apos;s version.</source>
-        <translation>Módosítsa a textúracsomag verzióját.</translation>
+        <translation>Egy textúracsomag verziójának módosítása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="77"/>
