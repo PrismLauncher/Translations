@@ -12758,7 +12758,7 @@ There are dedicated boxes for these in the settings (Java tab, in the Memory gro
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
         <translation>Megpróbáltad kézzel beállítani a JVM memória opciót (&quot;-XX: PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX: InitialHeapSize&quot;, &quot;-Xmx&quot; vagy &quot;-Xms&quot;) használatával.
 Ezekhez külön dobozok vannak a beállításoknál (Java fül, a memóriacsoport felső részén).
-Ez az üzenet addig lesz megjelenítve, amíg nem távolítod el őket a JVM argumentumokból.</translation>
+Ez az üzenet addig lesz megjelenítve, amíg el nem távolítod el őket a JVM argumentumokból.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="53"/>
@@ -12770,8 +12770,8 @@ Ez az üzenet addig lesz megjelenítve, amíg nem távolítod el őket a JVM arg
         <location filename="src/launcher/JavaCommon.cpp" line="58"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation>Megpróbálta átadni a szükséges Java verzió argumentumot a JVM-nek (a &quot;-version:xxx&quot; használatával). Ez nem biztonságos, és nem lesz megengedett.
-Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumokból.</translation>
+        <translation>Megpróbáltad átadni a szükséges Java verzió argumentumot a JVM-nek (a &quot;-version:xxx&quot; használatával). Ez nem biztonságos, és nem megengedett.
+Ez az üzenet addig jelenik meg, amíg el nem távolítod ezt a JVM-argumentumokból.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="71"/>
@@ -12787,17 +12787,17 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumok
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation>A megadott Java bináris fájl nem működött az Ön által megadott argumentumokkal:&lt;br /&gt;</translation>
+        <translation>A megadott Java bináris fájl nem működött az általad megadott argumentumokkal:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation>A megadott Java bináris nem működött.&lt;br /&gt;A &quot;Felismerés&quot; gombot kell megnyomnia, vagy meg kell adnia a Java futtatható fájl elérési útvonalát.&lt;br /&gt;</translation>
+        <translation>A megadott Java bináris nem működött.&lt;br /&gt;A &quot;Felismerés&quot; gombot kell megnyomnod, vagy meg kell adnod a Java futtatható fájl elérési útvonalát.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>A megadott java bináris nem működött.&lt;br /&gt;Az automatikus észlelési funkciót kell használnia, vagy állítsa be a java futtatható fájl elérési útját.&lt;br /&gt;</translation>
+        <translation>A megadott java bináris nem működött.&lt;br /&gt;Az automatikus észlelési funkciót kell használnod, vagy állítsd be a java futtatható fájl elérési útját.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
@@ -12864,7 +12864,7 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumok
 
 Old name: %1
 New name: %2</source>
-        <translation>Úgy tűnik, hogy a példány neve tartalmazza a régi verziót. Szeretné frissíteni?
+        <translation>Úgy tűnik, hogy a példány neve tartalmazza a régi verziót. Szeretnéd frissíteni?
 
 Régi név: %1
 Új név: %2</translation>
@@ -12879,9 +12879,9 @@ Régi név: %1
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>Egy vagy több példánya ugyanabból a modcsomagból%1 származik. Külön példányt szeretne létrehozni, vagy frissíti a meglévőt?
+        <translation>Egy vagy több példánya ugyanabból a modcsomagból%1 származik. Külön példányt szeretnél létrehozni, vagy frissíted a meglévőt?
 
-MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági másolatot készített a fontos példányadatokról, mert a világok megsérülhetnek, és bizonyos konfigurációk elveszhetnek (a csomag felülbírálása miatt).</translation>
+MEGJEGYZÉS: Győződj meg róla, hogy a frissítés előtt biztonsági másolatot készítettél a fontos példányadatokról, mert a világok megsérülhetnek, és bizonyos konfigurációk elveszhetnek (a csomag felülbírálása miatt).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="38"/>
@@ -13204,7 +13204,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
 
 Old name: %1
 New name: %2</source>
-        <translation>Szeretné átnevezni a példány mappáját is?
+        <translation>Szeretnéd átnevezni a példány mappáját is?
 
 Régi név: %1
 Új név: %2</translation>
@@ -13217,7 +13217,7 @@ Régi név: %1
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation>Hiba történt a következő átnevezési művelet végrehajtása során: &lt;br/&gt; - Régi példány gyökere: %1&lt;br/&gt; - Új példány gyökere: %2&lt;br/&gt; Csak a metaadatok vannak átnevezve.</translation>
+        <translation>Hiba történt a következő átnevezési művelet végrehajtása során: &lt;br/&gt; - Régi példány gyökere: %1&lt;br/&gt; - Új példány gyökere: %2&lt;br/&gt; Csak a metaadatok lettek átnevezve.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
@@ -13240,7 +13240,7 @@ Do you wish to proceed?</source>
 
 %2 tönkre teheti a (többi) példányt, 
 
-Szeretné folytatni?</numerusform>
+Szeretnéd folytatni?</numerusform>
         </translation>
     </message>
     <message>
@@ -13292,7 +13292,7 @@ Szeretné folytatni?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>Az launcher abban a mappában található, amelyből kicsomagolta, ezért nem tud parancsikonokat létrehozni.</translation>
+        <translation>Az launcher abban a mappában található, amelyből kicsomagoltad, ezért nem tud parancsikonokat létrehozni.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
