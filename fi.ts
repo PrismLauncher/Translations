@@ -18,7 +18,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>Perus &amp;URL</translation>
+        <translation>&amp;URL pohja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -33,7 +33,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Huomautus: haluat luultavasti muuttaa tai tyhjentää perus URL -osoitteen, kun olet muuttanut liittämispalvelun tyyppiä.</translation>
+        <translation>Huom: haluat luultavasti muuttaa tai tyhjentää URL pohjan, kun olet muuttanut paste-palvelun tyyppiä.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
