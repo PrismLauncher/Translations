@@ -11843,7 +11843,7 @@ A frissítő nem tud tovább haladni, amíg ezt a problémát meg nem oldod.</tr
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="546"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
-        <translation>A manifeszt üres, a %1 könyvtár tartalmát a lehető legjobban kitalálva</translation>
+        <translation>A manifeszt üres, megpróbáljuk kitalálni, mi van a(z) %1 könyvtárban</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="552"/>
@@ -11963,7 +11963,7 @@ Ellenőrizd a Prism Launcher frissítő naplóját a következő címen:
 %7
 a legutóbbi frissítési kísérlet részleteiért.
 
-Ha szeretnéd felülírni ezt a zárolást, és mindenképpen folytatni szeretnéd a frissítést, válasszd az alábbi &quot;Ignore&quot; (figyelmen kívül hagyás) lehetőséget.</translation>
+Ha szeretnéd felülírni ezt a zárolást, és mindenképpen folytatni szeretnéd a frissítést, válaszd az alábbi &quot;Ignore&quot; (figyelmen kívül hagyás) lehetőséget.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="917"/>
@@ -12108,22 +12108,22 @@ Ha szeretnéd felülírni ezt a zárolást, és mindenképpen folytatni szeretn�
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="14"/>
         <source>Select an Account</source>
-        <translation>Válasszon egy fiókot</translation>
+        <translation>Válassz egy fiókot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"/>
         <source>Select a profile.</source>
-        <translation>Válasszon egy profilt.</translation>
+        <translation>Válassz egy profilt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
         <source>Use as default?</source>
-        <translation>Használja alapértelmezettként?</translation>
+        <translation>Legyen ez az alapértelmezett?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
         <source>Use as default for this instance only?</source>
-        <translation>Csak ehhez a példányhoz használja alapértelmezettként?</translation>
+        <translation>Legyen ez az alapértelmezett csak erre a példányra?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="40"/>
@@ -12159,9 +12159,9 @@ Ha szeretnéd felülírni ezt a zárolást, és mindenképpen folytatni szeretn�
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation>Csak még egy lépést kell megtenned, hogy ezen a fiókon tudj Minecraftot játszani.
+        <translation>Már csak egy lépést kell megtenned, hogy ezen a fiókon játszhass a Minecrafttal.
 
-Gondosan válassza ki a nevét:</translation>
+Válaszd meg a nevedet okosan:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="74"/>
@@ -12361,7 +12361,7 @@ HTTP állapot: %2</translation>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="96"/>
         <source>Widget style trying to look like your win32 theme</source>
-        <translation>Widget stílus próbál kinézni, mint a win32 téma</translation>
+        <translation>A widget stílusa megpróbál hasonlítani a win32 témádra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="98"/>
@@ -12446,9 +12446,9 @@ You should double-check for personal information.
 
 Are you sure?</source>
         <translation>A(z) &quot;%1&quot; fájl feltöltésére készülsz ide: %2.
-Érdemes még egyszer ellenőriznie a személyes adatokat.
+Érdemes ellenőrizni, nem tartalmaz-e személyes adatot.
 
-Biztos vagy ebben?</translation>
+Biztos vagy benne?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="111"/>
@@ -12466,7 +12466,7 @@ Proceed with truncation?</source>
         <translation>A naplónak %1 sora van, ami meghaladja az mclo.gs %2 korlátját.
 A launcher meg tudja tartani az első %3 és az utolsó %4 sort, levágva a közepét.
 
-Ha a &quot;Nem&quot; lehetőséget választja, az mclo.gs csak az első %2 sort fogja megőrizni, levágva a potenciálisan hasznos információkat, például az összeomlásokat a végén.
+Ha a &quot;Nem&quot; lehetőséget választod, az mclo.gs csak az első %2 sort fogja megőrizni, levágva a potenciálisan hasznos információkat, például az összeomlásokat a végén.
 
 Folytatja a csonkolást?</translation>
     </message>
