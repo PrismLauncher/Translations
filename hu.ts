@@ -11708,7 +11708,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
         <source>directory</source>
-        <translation>könytár</translation>
+        <translation>könyvtár</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="107"/>
