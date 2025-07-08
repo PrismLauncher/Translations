@@ -1844,7 +1844,7 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="24"/>
         <source>Copying instance %1</source>
-        <translation type="unfinished"></translation>
+        <translation>o pali sama e ijo musi %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
