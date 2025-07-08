@@ -6256,12 +6256,12 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="193"/>
         <source> hours</source>
-        <translation> hours</translation>
+        <translation> horas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="196"/>
         <source>Every </source>
-        <translation type="unfinished"></translation>
+        <translation>Todo </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="277"/>
@@ -6301,7 +6301,7 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="598"/>
         <source>Concurrent Task Limit:</source>
-        <translation type="unfinished">Limite de Tarefas Concorrentes:</translation>
+        <translation>Limite de Tarefas simultâneas:</translation>
     </message>
     <message>
         <source>Move the data to new location (will restart the launcher)</source>
@@ -6581,12 +6581,12 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation type="unfinished">Guardar informação da versão dada pelos provedores de mods (como Modrinth ou CurseForge) para mods.</translation>
+        <translation>Guardar informação da versão dada pelos provedores de mods (como Modrinth ou CurseForge) para os mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="392"/>
         <source>Keep track of mod metadata</source>
-        <translation type="unfinished">Acompanhar metadados do mod</translation>
+        <translation>Manter metadados do mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
