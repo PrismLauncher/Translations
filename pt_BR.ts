@@ -3206,17 +3206,17 @@ Você tem certeza de que quer fazer isso?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
         <source>&amp;Profilers</source>
-        <translation>&amp;Profiler</translation>
+        <translation>&amp;Profilers</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation>Profilers são acessíveis pelo menu dropdown do Launch.</translation>
+        <translation>Profilers são acessíveis pelo menu dropdown do botão Iniciar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
         <source>J&amp;Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">J&amp;Profiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
@@ -5066,7 +5066,7 @@ Certifique-se de que o valor máximo de memória seja menor.</translation>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation>Profilador abortado</translation>
+        <translation>Profiler abortado</translation>
     </message>
 </context>
 <context>
@@ -5083,7 +5083,7 @@ Certifique-se de que o valor máximo de memória seja menor.</translation>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation>Profilador abortado</translation>
+        <translation>Profiler abortado</translation>
     </message>
 </context>
 <context>
@@ -5617,7 +5617,7 @@ Você pode alterar a versão do Java nas configurações posteriormente.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="302"/>
         <source>&amp;PermGen Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tamanho do PermGen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
@@ -5627,7 +5627,7 @@ Você pode alterar a versão do Java nas configurações posteriormente.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="319"/>
         <source>Ma&amp;ximum Memory Usage:</source>
-        <translation type="unfinished">Uso Máximo de Memória:</translation>
+        <translation>Uso Maximo de Memória:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="329"/>
@@ -6068,7 +6068,7 @@ Você gostaria de jogar o demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="434"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation>A verificação do criador de perfil para %1 falhou: %2</translation>
+        <translation>A verificação do Profiler para %1 falhou: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="447"/>
@@ -6256,7 +6256,7 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="193"/>
         <source> hours</source>
-        <translation type="unfinished"></translation>
+        <translation> hours</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="196"/>
@@ -8986,12 +8986,12 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="316"/>
         <source>Profilers</source>
-        <translation>Perfiladores</translation>
+        <translation>Profilers</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="326"/>
         <source>&amp;No Profiler</source>
-        <translation>Sem Perfilador</translation>
+        <translation>&amp;Sem Profiler</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1019"/>
