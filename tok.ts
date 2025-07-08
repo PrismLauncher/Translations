@@ -1779,12 +1779,12 @@ o alasa sin.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP)</source>
         <oldsource>- Curseforge modpacks (ZIP)</oldsource>
-        <translation>- kulupu namako pi lipu CurseForge (nasin ZIP)</translation>
+        <translation>- poki namako pi lipu CurseForge (nasin ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- kulupu namako pi lipu Modrinth (nasin ZIP anu nasin mrpack)</translation>
+        <translation>- poki namako pi lipu Modrinth (nasin ZIP anu nasin mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
@@ -1794,7 +1794,7 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- kulupu namako pi lipu Technic (nasin ZIP)</translation>
+        <translation>- poki namako pi lipu Technic (nasin ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -1810,12 +1810,12 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="156"/>
         <source>Choose modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>sina wile e poki namako seme?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
         <source>Import from zip</source>
-        <translation type="unfinished"></translation>
+        <translation>o pana tan ilo ZIP</translation>
     </message>
 </context>
 <context>
@@ -1849,12 +1849,12 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
         <source>Instance folder copy failed.</source>
-        <translation>ni li pakala: o pali sama e poki pi ijo musi</translation>
+        <translation>ni li pakala: o pali sama e poki pi ijo musi.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="57"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>ni li moli: o pali sama e poki pi ijo musi</translation>
+        <translation>ni li moli: o pali sama e poki pi ijo musi.</translation>
     </message>
 </context>
 <context>
