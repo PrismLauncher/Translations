@@ -5594,12 +5594,12 @@ Você pode alterar a versão do Java nas configurações posteriormente.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="204"/>
         <source>(-XX:PermSize)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-XX:PermSize)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="267"/>
         <source>(-Xmx)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xmx)</translation>
     </message>
     <message>
         <source>PermGen (Java 7 and earlier):</source>
@@ -6586,12 +6586,12 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="392"/>
         <source>Keep track of mod metadata</source>
-        <translation>Manter metadados do mod</translation>
+        <translation>Acompanhar metadados do mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
-        <translation type="unfinished">Detectar, instalar ou atualizar automaticamente dependências de mods.</translation>
+        <translation>Detectar, instalar e atualizar automaticamente dependências de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="412"/>
@@ -8607,7 +8607,7 @@ Por favor, crie uma nova instância antes de tentar instalar este recurso novame
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1207"/>
         <source>Failed to undo trashing instance</source>
-        <translation type="unfinished">Falhei em desfazer deleção da instância</translation>
+        <translation>Falha ao desfazer a destruição da instância</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1208"/>
@@ -8649,10 +8649,10 @@ Para limpar a metadata de cache manualmente, vá em Pastas -&gt; Raiz do Launche
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished">Você está prestes a deletar &quot;%1&quot;%2
+        <translation>Você está prestes a deletar &quot;%1&quot;%2
 Isto pode ser irreversível e irá deletar completamente a instância.
 
-Você tem certeza de que quer isso?</translation>
+Você tem certeza?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
@@ -9471,7 +9471,7 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="189"/>
         <source>×</source>
-        <translation type="unfinished"></translation>
+        <translation>×</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="196"/>
@@ -9538,12 +9538,12 @@ Será bem provável que você deverá mudar o caminho do arquivo ‐ por favor, 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="435"/>
         <source>Singleplayer world:</source>
-        <translation type="unfinished">Mundo Solo:</translation>
+        <translation>Mundo Singleplayer:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="475"/>
         <source>Override Mod Download &amp;Loaders</source>
-        <translation type="unfinished">Sobrescrever &amp;Loaders de Downloaders de Mod</translation>
+        <translation>Sobrescrever &amp;Loaders de Baixadores de Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
@@ -12944,7 +12944,7 @@ Essa mensagem vai aparecer até que você remova isso dos seus argumentos da JVM
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation type="unfinished">O binário Java especificado não funcionou.&lt;br /&gt;Você deveria clicar em &apos;Detectar&apos;, ou indicar um caminho para o executável Java.&lt;br /&gt;</translation>
+        <translation>O binário Java especificado não funcionou.&lt;br /&gt;Você deve clicar em &apos;Detectar&apos;, ou indicar um caminho para o executável Java.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
@@ -13500,7 +13500,7 @@ Você quer prosseguir?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="202"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation type="unfinished">Falha ao criar a pasta de instâncias napasta de aplicativos!</translation>
+        <translation>Falha ao criar a pasta de instâncias na pasta de aplicativos!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="211"/>
@@ -13575,7 +13575,7 @@ Mensagem de erro: %3</translation>
         <location filename="src/launcher/modplatform/flame/FlamePackIndex.cpp" line="148"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackManifest.cpp" line="190"/>
         <source> for %1</source>
-        <translation type="unfinished"> ‐ em %1</translation>
+        <translation> em %1</translation>
     </message>
 </context>
 <context>
@@ -13592,7 +13592,7 @@ Mensagem de erro: %3</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="180"/>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished">pacote de dados</translation>
+        <translation>pacotes de dados</translation>
     </message>
 </context>
 <context>
