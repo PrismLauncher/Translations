@@ -44,7 +44,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation type="unfinished">Autentificare &amp;Microsoft</translation>
+        <translation>Autentificare &amp;Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="228"/>
@@ -789,7 +789,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="55"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Aspect</translation>
     </message>
 </context>
 <context>
@@ -797,24 +797,24 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished">Vizualizează dosarul cu pachete de pisici.</translation>
+        <translation>Vizualizează dosarul cu pachete de pisici.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Deschide folderul</translation>
+        <translation>Deschide folderul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished">Vizualizează dosarul cu teme de widget-uri.</translation>
+        <translation>Vizualizează dosarul cu teme pentru widget-uri.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished">Vizualizează dosarul cu teme de pictograme.</translation>
+        <translation>Vizualizează dosarul cu teme pentru pictograme.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
@@ -824,12 +824,12 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation type="unfinished"></translation>
+        <translation>Reîncarcă tot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Temă:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
@@ -870,7 +870,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="334"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Transparent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
@@ -880,22 +880,22 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[EROARE] OOoooOOOoooo! O eroare înfricoșătoare!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
         <source>[ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[EROARE] O eroare înfricoșătoare!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="263"/>
         <source>[INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[INFORMATIV] Un mesaj inocent...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[ATENȚIE] O eroare nu atat de înfricoșătoare.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"/>
@@ -986,11 +986,11 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">Actualizarea a reușit
+        <translation>Actualizarea a reușit
 
 Acum rulați %1 .
 Verificați log-ul actualizatorului Prism Launcher la: 
-%1
+%2
 pentru detalii.</translation>
     </message>
     <message>
@@ -1257,42 +1257,42 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">Sarcina de autentificare reuşită.</translation>
+        <translation>Sarcina de autentificare reuşită.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Nu s-a putut contacta serverul de autentificare.</translation>
+        <translation>Nu s-a putut contacta serverul de autentificare.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">ID-ul clientului s-a schimbat. Trebuie creată o sesiune nouă.</translation>
+        <translation>ID-ul clientului s-a schimbat. Trebuie creată o sesiune nouă.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">S-a produs o eroare în timpul autentificării.</translation>
+        <translation>S-a produs o eroare în timpul autentificării.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Autentificare eșuată. Sesiunea a expirat.</translation>
+        <translation>Autentificare eșuată. Sesiunea a expirat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">Autentificare eșuată. Contul nu mai există.</translation>
+        <translation>Autentificare eșuată. Contul nu mai există.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Statusul sarcinii contului necunoscut: %1</translation>
+        <translation>Statusul sarcinii contului necunoscut: %1</translation>
     </message>
 </context>
 <context>
@@ -1320,7 +1320,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished">Java compatibilă găsită la: %1.</translation>
+        <translation>Java compatibilă găsită la: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
@@ -1353,7 +1353,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formă</translation>
+        <translation>Formă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
@@ -1409,7 +1409,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
@@ -1420,17 +1420,17 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
         <source>Skip</source>
-        <translation type="unfinished">Sari peste</translation>
+        <translation>Sari peste</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fișierul configurat de moduri globale și fișierul de descărcări ubișnuit sunt verificate automat pentru moduri descărcate și vor fi copiate în instanță dacă vor fi găsite .&lt;/p&gt;&lt;p&gt;Opțional, poti trage și lasa modurile descărcate în acest dialog sau poti adăuga un fișier pentru a vizualiza daca nu ai descărcat modurile in locația lor obișnuită.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; Apasă &apos;&apos; pentru a deschide toate linkurile de descarcare în browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
         <source>Blocked Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Moduri blocate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
@@ -1440,7 +1440,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
         <source>Watched Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișiere urmărite</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
@@ -1555,7 +1555,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut descărca metadata pentru %1 %2. Te rog schimbă versiunea sau încearcă din nou.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
@@ -1799,17 +1799,17 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
         <source>Help</source>
-        <translation type="unfinished">Ajutor</translation>
+        <translation>Ajutor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1838,17 +1838,17 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvează la:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
         <source>Name</source>
-        <translation type="unfinished">Nume</translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
@@ -1863,28 +1863,28 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Specifică o lume sau un server pentru a intra automat la pornire.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectează o țintă pentru a intra la pornire</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
         <source>World:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lume:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"/>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"/>
         <source>Server Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresa Serverului:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"/>
         <source>Server Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresa Serverului</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
@@ -1894,22 +1894,22 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation type="unfinished"></translation>
+        <translation>Va trebui sa le stergi manual daca este cazul.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="89"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicații</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="91"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>Altele...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="97"/>
@@ -1919,17 +1919,17 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="113"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (în folosire)</translation>
+        <translation>%1 (în folosire)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="180"/>
         <source>%1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="182"/>
         <source>%1 - Server %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Server %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="197"/>
@@ -1939,12 +1939,12 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="201"/>
         <source>world</source>
-        <translation type="unfinished"></translation>
+        <translation>lume</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="204"/>
         <source>server</source>
-        <translation type="unfinished"></translation>
+        <translation>server</translation>
     </message>
 </context>
 <context>
@@ -2135,32 +2135,32 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Enable</source>
-        <translation type="unfinished">Permite</translation>
+        <translation>Permite</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Image</source>
-        <translation type="unfinished">Imagine</translation>
+        <translation>Imagine</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Name</source>
-        <translation type="unfinished">Nume</translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Pack Format</source>
-        <translation type="unfinished">Formatul Pachetului</translation>
+        <translation>Formatul Pachetului</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Ultima Modificare</translation>
+        <translation>Ultima Modificare</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="78"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Nerecunoscut</translation>
+        <translation>Nerecunoscut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="104"/>
@@ -3401,7 +3401,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="256"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Analizăm răspunsul API de la CurseForge pentru &apos;%1&apos;...</translation>
+        <translation>Analizăm răspunsul API de la CurseForge pentru &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -3414,7 +3414,7 @@ Vă rugăm să încercați din nou.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation type="unfinished">Preparând modurile pentru CurseForge...</translation>
+        <translation>Preparând resursele pentru CurseForge...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -3453,12 +3453,12 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Not installed</source>
-        <translation type="unfinished">Nu este instalat</translation>
+        <translation>Nu este instalat</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
         <source>Unknown</source>
-        <translation type="unfinished">Necunoscut</translation>
+        <translation>Necunoscut</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
@@ -3543,7 +3543,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation type="unfinished"></translation>
+        <translation>Memoria recomandată de acest modpack trece peste 90% din RAM-ul systemului dumneavoastă—îl reducem de la %1 MiB la %2 MiB!</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -3629,7 +3629,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="556"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished">Pachet CurseForge</translation>
+        <translation>Pachet CurseForge</translation>
     </message>
 </context>
 <context>
@@ -3735,7 +3735,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation type="unfinished">Opțiuni de filtrare</translation>
+        <translation>Opțiuni de filtrare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -3796,7 +3796,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="229"/>
         <source>Error</source>
-        <translation type="unfinished">Eroare</translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="307"/>
@@ -4020,12 +4020,12 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="87"/>
@@ -4161,12 +4161,12 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="48"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -4237,7 +4237,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
@@ -4505,7 +4505,7 @@ Continuați cu prudență!</translation>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="49"/>
         <source>Other logs</source>
-        <translation type="unfinished">Alte jurnale</translation>
+        <translation>Alte loguri</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="53"/>
@@ -4725,7 +4725,7 @@ Continuați cu prudență!</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished">Folosiți Zink, un driver pentru Mesa OpenGL care implementează OpenGL pe deasupra lui Vulkan. Performața variază dependând pe situați. Notă: Dacă nu este nici-un driver Vulkan valabil, video va fi procesat în software (video rendering).</translation>
+        <translation>Folosiți Zink, un driver pentru Mesa OpenGL care implementează OpenGL pe deasupra lui Vulkan. Performața poate varia în funcție de situație. Notă: Dacă nu este nici-un driver Vulkan valabil, video va fi procesat în software (video rendering).</translation>
     </message>
     <message>
         <source>Use Zink</source>
@@ -4759,7 +4759,7 @@ Continuați cu prudență!</translation>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="unfinished">Setează un server pentru a intra la deschidere</translation>
+        <translation>Setează un server pentru a intra la deschidere</translation>
     </message>
     <message>
         <source>Server address:</source>
@@ -4926,7 +4926,7 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>VisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM a pornit</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
@@ -4961,17 +4961,17 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="78"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="86"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut extracta fișierul tar dat.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="94"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut deschide fișierul zip dat.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="99"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-au găsit nici un fișier în fișierul zip dat.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="131"/>
@@ -4984,7 +4984,7 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reîmprospătare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="214"/>
@@ -4994,44 +4994,44 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="215"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="279"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="281"/>
         <source>Adoptium</source>
-        <translation type="unfinished"></translation>
+        <translation>Adoptium</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="283"/>
         <source>Azul Zulu</source>
-        <translation type="unfinished"></translation>
+        <translation>Azul Zulu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="289"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="320"/>
         <source>Install Java</source>
-        <translation type="unfinished">Instalați Java</translation>
+        <translation>Instalați Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Nu s-a putut stabili tipul de descărcare Java!</translation>
+        <translation>Nu s-a putut stabili tipul de descărcare Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="316"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="327"/>
         <source>Error</source>
-        <translation type="unfinished">Eroare</translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="332"/>
         <source>Abort</source>
-        <translation type="unfinished">Renunță</translation>
+        <translation>Renunță</translation>
     </message>
 </context>
 <context>
