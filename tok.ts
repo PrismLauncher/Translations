@@ -1773,13 +1773,13 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>nasin lipu ni li ken (mi toki e lipu ilo e nimi linluwi):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP)</source>
         <oldsource>- Curseforge modpacks (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>kulupu namako pi lipu CurseForge (nasin ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
@@ -2606,7 +2606,7 @@ o luka e ilo wan tan lipu anpa. ken ante la sina alasa e ilo Java ante</translat
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="120"/>
         <source>Which account would you like to use?</source>
-        <translation type="unfinished"></translation>
+        <translation>sina wile kepeken e sona jan seme?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="144"/>
@@ -4005,7 +4005,7 @@ Reason:
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation>ilo open li ken ala kama jo e musi Manka li ken ala sin e musi lon ni: sina jo ala e sona jan.
-o pana e sona jan sina tan musi Manka anu tan kulupu Mojang</translation>
+o pana e sona jan sina tan musi Manka anu tan kulupu Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1850"/>
@@ -4058,12 +4058,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2256"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ni li pakala: &lt;br/&gt; - ken suli la ilo open li ken weka la ilo li toki ala lon tenpo pini &lt;br/&gt; - tenpo ni la o pini e ilo open o open e ona lon ma pona lon ala poki pi tenpo lili</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2263"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation type="unfinished"></translation>
+        <translation>poki sina pi ijo musi li jo e &quot;Rar$&quot; - kon ni la ilo open li open ala a!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2271"/>
@@ -4322,7 +4322,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;musi li pini anu pakala la ilo open li open sin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="218"/>
@@ -4839,7 +4839,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="244"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>namako &apos;%1&apos; li jo ala e sona sona. mi wile ken sona e nasin ni: mi ken sin e namako ni. ni la mi wile pana e sona sona tawa namako, la o toki e kulupu pi pana namako la mi ken lukin e ona tan sin pi namako ni.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="341"/>
@@ -5489,7 +5489,8 @@ Please update %1!</source>
         <location filename="src/launcher/net/PasteUpload.cpp" line="234"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>pakala: %1 li toki e nanpa pakala ni: %2
+toki pakala: %3</translation>
     </message>
 </context>
 <context>
