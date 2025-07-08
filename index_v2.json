@@ -227,12 +227,12 @@
             "untranslated" : 1211
         },
         "fi" : {
-            "file" : "d140eeeb41a2cb6e07a1abf7ae16b6a44bf19951.class",
-            "sha1" : "d140eeeb41a2cb6e07a1abf7ae16b6a44bf19951",
-            "size" : 374606,
+            "file" : "09eed73d8f9e297e95bdfcd9449aeb50d36445f4.class",
+            "sha1" : "09eed73d8f9e297e95bdfcd9449aeb50d36445f4",
+            "size" : 374673,
             "translated" : 2497,
-            "fuzzy" : 44,
-            "untranslated" : 82
+            "fuzzy" : 45,
+            "untranslated" : 81
         },
         "fil" : {
             "file" : "abf90934fbeb0a85082b0bfcae951e5a2366b67d.class",
@@ -259,12 +259,12 @@
             "untranslated" : 1265
         },
         "fur" : {
-            "file" : "e2c5eed2e8af39845a9aa4541af69056f17c99cd.class",
-            "sha1" : "e2c5eed2e8af39845a9aa4541af69056f17c99cd",
-            "size" : 374328,
-            "translated" : 2332,
+            "file" : "0eeee1fe97c36e2668b800396efcb3ee32fab38b.class",
+            "sha1" : "0eeee1fe97c36e2668b800396efcb3ee32fab38b",
+            "size" : 374943,
+            "translated" : 2336,
             "fuzzy" : 128,
-            "untranslated" : 163
+            "untranslated" : 159
         },
         "fy" : {
             "file" : "8f572771e36da10cb9db4f261172970586842e3f.class",
@@ -595,12 +595,12 @@
             "untranslated" : 231
         },
         "szl" : {
-            "file" : "8a5d6b65195b4134d371d4c0a88908173ee15e76.class",
-            "sha1" : "8a5d6b65195b4134d371d4c0a88908173ee15e76",
-            "size" : 61897,
-            "translated" : 642,
+            "file" : "e39e359992ba80541766d914ea75113e3519031a.class",
+            "sha1" : "e39e359992ba80541766d914ea75113e3519031a",
+            "size" : 64269,
+            "translated" : 663,
             "fuzzy" : 0,
-            "untranslated" : 1781
+            "untranslated" : 1760
         },
         "ta" : {
             "file" : "56c12511877e752941b5f48d278cb027d426d810.class",
