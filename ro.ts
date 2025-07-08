@@ -7003,7 +7003,7 @@ Motiv:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="540"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nu s-a putut deschide fișierul zip dat.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="558"/>
@@ -14785,7 +14785,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aspect</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
