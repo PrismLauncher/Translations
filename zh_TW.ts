@@ -10597,18 +10597,18 @@ Please update %1!</source>
 <context>
     <name>Modrinth::ModpackListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="354"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="357"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="355"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="358"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="354"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="355"/>
         <source>A network error occurred. Could not load modpacks.</source>
         <translation>發生網路錯誤。無法載入模組包。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="361"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="362"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -10829,32 +10829,32 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>ModrinthPackExportTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="57"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="58"/>
         <source>Searching for files...</source>
         <translation>正在搜尋檔案…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="78"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="79"/>
         <source>Could not search for files</source>
         <translation>找不到相關檔案</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="94"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="95"/>
         <source>Finding file hashes...</source>
         <translation>正在尋找檔案雜湊值…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="155"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="156"/>
         <source>Finding versions for hashes...</source>
         <translation>正在尋找版本雜湊值…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="191"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="192"/>
         <source>Failed to parse versions response: %1</source>
         <translation>無法解析版本回應：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="200"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"/>
         <source>Adding files...</source>
         <translation>正在新增檔案…</translation>
     </message>

@@ -9956,18 +9956,18 @@ Opdater venligst %1!</translation>
 <context>
     <name>Modrinth::ModpackListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="354"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="357"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="355"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="358"/>
         <source>Error</source>
         <translation>Fejl</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="354"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="355"/>
         <source>A network error occurred. Could not load modpacks.</source>
         <translation>Der opstod en netværksfejl. Modpacks kunne ikke indlæses.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="361"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="362"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -10168,32 +10168,32 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
 <context>
     <name>ModrinthPackExportTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="57"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="58"/>
         <source>Searching for files...</source>
         <translation>Søger efter filer...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="78"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="79"/>
         <source>Could not search for files</source>
         <translation>Kunne ikke søge efter filer</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="94"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="95"/>
         <source>Finding file hashes...</source>
         <translation>Finder fil hashes...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="155"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="156"/>
         <source>Finding versions for hashes...</source>
         <translation>Finder versioner for hashes...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="191"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="192"/>
         <source>Failed to parse versions response: %1</source>
         <translation>Kunne ikke parse version svar: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="200"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"/>
         <source>Adding files...</source>
         <translation>Tilføjer filer...</translation>
     </message>
