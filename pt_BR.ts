@@ -13297,7 +13297,7 @@ NOTA: Lembre-se de fazer uma cópia de segurança dos seus arquivos importantes 
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="273"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Ativo</translation>
+        <translation>Funcionando</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="275"/>
