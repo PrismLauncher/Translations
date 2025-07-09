@@ -7846,13 +7846,13 @@ Razão:
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
-        <translation>Ver registros</translation>
+        <translation>Ver logs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
-        <translation type="unfinished">Ver registros atuais e antigos do launcher</translation>
+        <translation>Ver logs atuais e antigos do launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
@@ -8638,7 +8638,7 @@ Para limpar a metadata de cache manualmente, vá em Pastas -&gt; Raiz do Launche
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
         <source> and its %n registered shortcut(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform> -e seu atalho registrado %n</numerusform>
             <numerusform> -e seus atalhos registrados %n</numerusform>
         </translation>
@@ -9332,7 +9332,7 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
-        <translation type="unfinished">Quando a janela do jogo fechar, fechar o launcher</translation>
+        <translation>Quando a janela do jogo fechar, fechar o launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
@@ -9461,12 +9461,12 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
         <source>When the game window opens, hide the launcher</source>
-        <translation type="unfinished">Quando a janela do jogo abrir, esconder o launcher</translation>
+        <translation>Quando a janela do jogo abrir, esconder o launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
         <source>&amp;Window Size:</source>
-        <translation type="unfinished">&amp;Tamanho da Janela:</translation>
+        <translation>&amp;Tamanho da Janela:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="189"/>
@@ -9481,17 +9481,17 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="222"/>
         <source>&amp;Console Window</source>
-        <translation type="unfinished">&amp;Janela do Console</translation>
+        <translation>&amp;Janela do Console</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="234"/>
         <source>When the game is launched, show the console window</source>
-        <translation type="unfinished">Quando o jogo for iniciado, mostrar janela do console</translation>
+        <translation>Quando o jogo for iniciado, mostrar janela do console</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="241"/>
         <source>When the game crashes, show the console window</source>
-        <translation type="unfinished">Quando o jogo crashar, mostrar janela do console</translation>
+        <translation>Quando o jogo crashar, mostrar janela do console</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="248"/>
@@ -9501,24 +9501,24 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="258"/>
         <source>&amp;Global Data Packs</source>
-        <translation type="unfinished">&amp;Pacotes de Dados Globais</translation>
+        <translation>&amp;Pacotes de Dados Globais</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
-        <translation type="unfinished">Habilitar instalação de pacotes de dados em todos os mundos se houver um apto mod instalado.
+        <translation>Habilitar instalação de pacotes de dados em todos os mundos se houver um apto mod instalado.
 Será bem provável que você deverá mudar o caminho do arquivo ‐ por favor, leia a documentação no site do mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
         <source>Folder Path</source>
-        <translation type="unfinished">Caminho da Pasta</translation>
+        <translation>Caminho da Pasta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"/>
         <source>datapacks</source>
-        <translation type="unfinished">pacotes de dados</translation>
+        <translation>pacotes de dados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
@@ -9528,12 +9528,12 @@ Será bem provável que você deverá mudar o caminho do arquivo ‐ por favor, 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="368"/>
         <source>Override &amp;Default Account</source>
-        <translation type="unfinished">Sobrescrever &amp;Conta Padrão</translation>
+        <translation>Sobrescrever &amp;Conta Padrão</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="413"/>
         <source>Enable Auto-&amp;join</source>
-        <translation type="unfinished">Habilitar entrada automática</translation>
+        <translation>Habilitar entrada automática</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="435"/>
@@ -9573,12 +9573,12 @@ Será bem provável que você deverá mudar o caminho do arquivo ‐ por favor, 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
         <source>&amp;GLFW library path:</source>
-        <translation type="unfinished">Caminho da biblioteca &amp;GLFW:</translation>
+        <translation>Caminho da biblioteca &amp;GLFW:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="657"/>
         <source>&amp;OpenAL library path:</source>
-        <translation type="unfinished">Caminho da biblioteca &amp;OpenAL:</translation>
+        <translation>Caminho da biblioteca &amp;OpenAL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="701"/>
@@ -9695,7 +9695,7 @@ Será bem provável que você deverá mudar o caminho do arquivo ‐ por favor, 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="547"/>
         <source>Select Global Data Packs Folder</source>
-        <translation type="unfinished">Selecionar Pasta de Pacotes de Dados Global</translation>
+        <translation>Selecionar Pasta de Pacotes de Dados Global</translation>
     </message>
 </context>
 <context>
@@ -11427,7 +11427,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="133"/>
         <source>Keep updating</source>
-        <translation type="unfinished">Manter atualizando</translation>
+        <translation>Manter atualizando</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="143"/>
@@ -11630,12 +11630,12 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
         <source>&amp;OK</source>
-        <translation type="unfinished">&amp;OK</translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="47"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Cancelar</translation>
+        <translation>&amp;Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="48"/>
@@ -12420,7 +12420,7 @@ Estado HTTP: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
         <source>Use S&amp;ystem Settings</source>
-        <translation type="unfinished">Usar Configurações do Sistema</translation>
+        <translation>Usar Configurações do Sistema</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
@@ -13291,7 +13291,7 @@ NOTA: Lembre-se de fazer uma cópia de segurança dos seus arquivos importantes 
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="271"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Pronto</translation>
+        <translation>Pronto</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="273"/>
@@ -13309,19 +13309,19 @@ NOTA: Lembre-se de fazer uma cópia de segurança dos seus arquivos importantes 
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="277"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Expirado</translation>
+        <translation>Expirado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="279"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Desabilitado</translation>
+        <translation>Desabilitado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="281"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Não encontrado</translation>
+        <translation>Não encontrado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="283"/>
@@ -13385,7 +13385,7 @@ Nome novo: %2</translation>
 %2 it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>A seguinte instância pode referenciar arquivos nesta instância:
 
 %1
@@ -13457,12 +13457,12 @@ Você quer prosseguir?</numerusform>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
         <source>Failed to create icon for application.</source>
-        <translation type="unfinished">Falha ao criar ícone para a aplicação.</translation>
+        <translation>Falha ao criar ícone para a aplicação.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished">O launcher está rodando como uma AppImage mal configurada? (a variável de ambiente $APPIMAGE está faltando)</translation>
+        <translation>O launcher está rodando como uma AppImage mal configurada? (a variável de ambiente $APPIMAGE está faltando)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
@@ -13480,7 +13480,7 @@ Você quer prosseguir?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
         <source>Failed to create %1 shortcut!</source>
-        <translation type="unfinished">Falha ao criar atalho %1!</translation>
+        <translation>Falha ao criar atalho %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
@@ -13490,12 +13490,12 @@ Você quer prosseguir?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="181"/>
         <source>Created a shortcut to this %1 on your desktop!</source>
-        <translation type="unfinished">Um atalho para esta %1 foi criado na sua área de trabalho!</translation>
+        <translation>Um atalho para esta %1 foi criado na sua área de trabalho!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="192"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation type="unfinished">Não consegui encontrar a pasta de aplicativos?!</translation>
+        <translation>Não consegui encontrar a pasta de aplicativos?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="202"/>
@@ -13505,7 +13505,7 @@ Você quer prosseguir?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="211"/>
         <source>Created a shortcut to this %1 in your applications folder!</source>
-        <translation type="unfinished">Atalho para este %1 criado na sua pasta de aplicações!</translation>
+        <translation>Atalho para este %1 criado na sua pasta de aplicações!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="235"/>
@@ -13515,50 +13515,50 @@ Você quer prosseguir?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="244"/>
         <source>Created a shortcut to this %1!</source>
-        <translation type="unfinished">Atalho criado para esta %1!</translation>
+        <translation>Atalho criado para esta %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
         <source>Network error: %1</source>
-        <translation type="unfinished">Erro de rede: %1</translation>
+        <translation>Erro de rede: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished">Erro: %1 retornou um código de status inesperado %2 %3</translation>
+        <translation>Erro: %1 retornou um código de status inesperado %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished">Falha ao analisar resposta do servidor hastebin: esperava um JSON, porém recebi uma resposta inválida. Erro:%1</translation>
+        <translation>Falha ao analisar resposta do servidor hastebin: esperava um JSON, porém recebi uma resposta inválida. Erro:%1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished">Erro: %1 retornou uma resposta malformada</translation>
+        <translation>Erro: %1 retornou uma resposta malformada</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished">Falha ao analisar resposta dos servidores mclogs: esperava um JSON, porém recebi uma resposta inválida. Erro: %1</translation>
+        <translation>Falha ao analisar resposta dos servidores mclogs: esperava um JSON, porém recebi uma resposta inválida. Erro: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished">Erro: %1 retornou um erro: %2</translation>
+        <translation>Erro: %1 retornou um erro: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished">Falha ao analisar resposta dos servidores pasteGG: esperava um JSON, porém recebi uma resposta inválida. Erro: %1</translation>
+        <translation>Falha ao analisar resposta dos servidores pasteGG: esperava um JSON, porém recebi uma resposta inválida. Erro: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">Erro: %1 retornou um código de erro: %2
+        <translation>Erro: %1 retornou um código de erro: %2
 Mensagem de erro: %3</translation>
     </message>
     <message>
@@ -13569,7 +13569,7 @@ Mensagem de erro: %3</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data packs</source>
-        <translation type="unfinished">Pacotes de dados</translation>
+        <translation>Pacote de dados</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackIndex.cpp" line="148"/>
@@ -13601,13 +13601,13 @@ Mensagem de erro: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="37"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished">pacotes de dados</translation>
+        <translation>pacotes de dados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation type="unfinished">pacote de dados</translation>
+        <translation>pacote de dados</translation>
     </message>
 </context>
 <context>
@@ -14071,7 +14071,7 @@ Você tem certeza de que quer fazer isso?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="660"/>
         <source>Override Columns Visibility</source>
-        <translation type="unfinished">Sobrescrever Visibilidade das Colunas</translation>
+        <translation>Sobrescrever Visibilidade das Colunas</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="673"/>
@@ -15178,7 +15178,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
         <source>Preview Elytra</source>
-        <translation type="unfinished">Visualizar Élitro</translation>
+        <translation>Visualizar Élitro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
@@ -16015,7 +16015,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished">Selecione tema e ícones para usar</translation>
+        <translation>Selecione tema e ícones para usar</translation>
     </message>
 </context>
 <context>
@@ -17109,12 +17109,12 @@ Caminho canônico: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
         <source>Data Packs</source>
-        <translation type="unfinished">Pacotes de Dados</translation>
+        <translation>Pacotes de Dados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
         <source>Manage data packs inside the world.</source>
-        <translation type="unfinished">Organizar pacotes de dados dentro de um mundo.</translation>
+        <translation>Organizar pacotes de dados dentro de um mundo.</translation>
     </message>
     <message>
         <source>Datapacks</source>
@@ -17222,12 +17222,12 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="224"/>
         <source>Manage Data Packs</source>
-        <translation type="unfinished">Organizar Pacotes de Dados</translation>
+        <translation>Organizar Pacotes de Dados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="231"/>
         <source>Data packs for %1</source>
-        <translation type="unfinished">Pacotes de dados para %1</translation>
+        <translation>Pacotes de dados para %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
