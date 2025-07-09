@@ -2253,7 +2253,7 @@ Chemin canonique&#xa0;: %1</translation>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation type="unfinished">
-Avertissement : Cette ressource est liée directement à d&apos;autres ressources. Le fait de l&apos;éditer modifiera également l&apos;original.</translation>
+Avertissement&#xa0;: Cette ressource est liée directement à d&apos;autres ressources. Le fait de l&apos;éditer modifiera également l&apos;original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"/>
