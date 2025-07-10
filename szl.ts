@@ -3250,11 +3250,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="unfinished"></translation>
+        <translation>Pamiyńć</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimalny przydział pamiyńci:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
@@ -3972,7 +3972,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="136"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimalny przydział pamiyńci:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -4032,7 +4032,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="117"/>
         <source>Memor&amp;y</source>
-        <translation type="unfinished"></translation>
+        <translation>Pamiyńć</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="129"/>
@@ -4182,7 +4182,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimalny przydział pamiyńci:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
