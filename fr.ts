@@ -3211,17 +3211,17 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Les profileurs sont accessibles via le menu déroulant.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
         <source>J&amp;Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>J&amp;Profileur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
         <source>&amp;VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;VisualVM</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
