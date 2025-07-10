@@ -52,7 +52,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation type="unfinished">&amp;Microsoft Doğrulama</translation>
+        <translation>&amp;Microsoft Kimlik Doğrulama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="228"/>
@@ -820,7 +820,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Klasörü Aç</translation>
+        <translation>Klasörü Aç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
@@ -850,7 +850,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished">&amp;İkonlar:</translation>
+        <translation>&amp;İkonlar:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
@@ -929,7 +929,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="702"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Günlük uzunluğu %1 satırı aştığı için bu günlük görüntülenemiyor.</translation>
+        <translation>Günlük uzunluğu %1 satırı aştığı için bu günlük görüntülenemiyor.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="899"/>
@@ -1970,7 +1970,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="89"/>
         <source>Applications</source>
-        <translation type="unfinished">Başvurular</translation>
+        <translation type="unfinished">Uygulamalar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="91"/>
@@ -2206,7 +2206,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Image</source>
-        <translation type="unfinished">Resim</translation>
+        <translation>Görsel</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
@@ -2233,7 +2233,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished">Veri paketi format kimliği ve tasarlandığı Minecraft sürümleri.</translation>
+        <translation>Veri paketi format kimliği ve tasarlandığı Minecraft sürümleri.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="109"/>
@@ -2685,7 +2685,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
         <source> MiB</source>
-        <translation type="unfinished"> MiB</translation>
+        <translation> MiB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
@@ -5528,7 +5528,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
         <source>Open Java &amp;Downloader</source>
-        <translation type="unfinished"></translation>
+        <translation>Java İndiricisi&apos;ni aç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
@@ -6170,12 +6170,12 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
         <source>Instance Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil Sıralama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="105"/>
         <source>Instance Renaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil Yeniden Adlandırılması</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
@@ -6536,12 +6536,12 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlar için mod sağlayıcıları (Modrinth veya CurseForge gibi) tarafından sağlanan sürüm bilgilerini saklayın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="392"/>
         <source>Keep track of mod metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod meta verilerini takip et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
@@ -6556,12 +6556,12 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="419"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni bir mod paketi profili oluştururken mevcut profili güncellemeyi öner.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="422"/>
         <source>Suggest to update an existing instance during modpack installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod paketi kurulumu sırasında mevcut profili güncellemeyi öner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="432"/>
@@ -7563,13 +7563,13 @@ Sebep:
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
-        <translation type="unfinished">Günlükleri yükle</translation>
+        <translation>Günlükleri aç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
-        <translation type="unfinished">Başlatıcı günlüklerini seçili günlük sağlayıcısına yükle</translation>
+        <translation>Mevcut ve eski başlatıcı günlüklerini gör</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="694"/>
@@ -8543,13 +8543,14 @@ Lütfen bu kaynağı tekrar yüklemeye çalışmadan önce yeni bir örnek oluş
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1207"/>
         <source>Failed to undo trashing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Profili silme işlemi geri alınamadı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1208"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bazı profiller ve kısayollar geri yüklenemedi.
+Elle geri yüklemek için çöp kutunuzu kontrol edin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
@@ -8583,7 +8584,9 @@ Meta veri önbelleğini manuel olarak temizlemek için Klasörler -&gt; Launcher
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;%2&apos;yi silmek üzeresiniz.
+Bu kalıcı olabilir ve profili tamamen siler.
+Emin misiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
