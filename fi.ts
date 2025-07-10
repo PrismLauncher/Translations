@@ -5399,12 +5399,12 @@ Vahvista että enimmäismuistivaraus on alempi.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="298"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enimmäismuistivarauksesi on lähellä järjestelmän muistikapasiteetin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enimmäismuistivarauksesi alittaa vähimmäismuistivarauksen.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
@@ -6152,12 +6152,12 @@ Sinun tarvitsee ehkä korjata modisi, koska peli jatkaa silti lokin kirjoittamis
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>Updater</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivittäjä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="174"/>
         <source>How Often?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuinka usein?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="187"/>
@@ -6172,17 +6172,17 @@ Sinun tarvitsee ehkä korjata modisi, koska peli jatkaa silti lokin kirjoittamis
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="193"/>
         <source> hours</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> tuntia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="196"/>
         <source>Every </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Joka </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="363"/>
         <source>Mods and Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Modit ja Modipaketit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="372"/>
