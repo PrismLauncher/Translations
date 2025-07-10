@@ -33,28 +33,28 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>הערה: כנראה יהיה צריך לשנות או למחוק את הכתובת בסיס לאחר שינוי סוג שירות הדבקות</translation>
+        <translation>הערה: כנראה יהיה צריך לשנות או למחוק את הכתובת בסיס לאחר שינוי סוג שירות הדבקות.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>&amp;API Keys</source>
-        <translation>ממשק תכנות יישומים</translation>
+        <translation>מפתחות API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation>&amp;אימות של מייקרוסופט</translation>
+        <translation>חיבור Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="228"/>
         <source>Mod&amp;rinth</source>
-        <translation>מוד</translation>
+        <translation>Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="250"/>
         <source>Use None</source>
-        <translation>לא להשתמש באף אחד</translation>
+        <translation>אף אחד</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="286"/>
@@ -64,7 +64,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="341"/>
         <source>&amp;Technic</source>
-        <translation>טכניק</translation>
+        <translation>Technic</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -73,7 +73,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>הערה: אתה כנראה לא תצטרך להגדיר זאת אם הכניסה דרך האימות של מייקרוסופט כבר עובד.</translation>
+        <translation>הערה: סביר להניח שלא יהיה צורך להגדיר את זה אם חיבור Microsoft כבר עובד.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -82,11 +82,11 @@
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>הזן כאן מזהה לקוח מותאם אישית בשביל אימות של מייקרוסופט.</translation>
+        <translation>הזנה של מזהה לקוח בשביל Microsoft נעשת כאן.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>&amp; מודרינט&apos; API</translation>
+        <translation>Modrinth API</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -95,7 +95,7 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>הזן כאן אות API מותאם אישים בשביל מודרינט&apos;.</translation>
+        <translation>הזנה של טוקן API בשביל Modrinth נעשת כאן.</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -108,11 +108,11 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="358"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;הערה: צריך להגדיר את זה רק אם תרצו לגשת למידע פרטי&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;הערה: צריך להגדיר זאת רק אם רצוי גישה למידע פרטי&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>הזן כאן מזהה לקוח מותאם אישית (GUID) עבור Technic.</translation>
+        <translation>הזנה של מזהה לקוח GUID בשביל Technic נעשת כאן.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -121,12 +121,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>User Agent</source>
-        <translation>סוכן משתמש</translation>
+        <translation>User Agent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="154"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>הקש כאן את הסוכן המשמש המותאם אישית. המחרוזת המיוחדת $LAUNCHER_VER תוחלף בגרסה של המשגר.</translation>
+        <translation>הזנה של User Agent נעשת כאן. המחרוזת המיוחדת $LAUNCHER_VER תוחלף עם גרסת המפעיל.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
