@@ -13402,7 +13402,7 @@ Devam etmek istiyor musunuz?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
-        <translation>Hastebin sunucusundan gelen yanıt ayrıştırılamadı: JSON bekleniyordu fakat geçersiz bir yanıt alındı. Hata:%1</translation>
+        <translation>Hastebin sunucusundan gelen yanıt ayrıştırılamadı: JSON bekleniyordu fakat geçersiz bir yanıt alındı. Hata: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
@@ -13414,7 +13414,7 @@ Devam etmek istiyor musunuz?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
-        <translation>Mclogs sunucusundan gelen yanıt ayrıştırılamadı: JSON bekleniyordu fakat geçersiz bir yanıt alındı. Hata:%1</translation>
+        <translation>Mclogs sunucusundan gelen yanıt ayrıştırılamadı: JSON bekleniyordu fakat geçersiz bir yanıt alındı. Hata: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
@@ -13424,7 +13424,7 @@ Devam etmek istiyor musunuz?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
-        <translation>pasteGG sunucusundan gelen yanıt ayrıştırılamadı: JSON bekleniyordu fakat geçersiz bir yanıt alındı. Hata:%1</translation>
+        <translation>pasteGG sunucusundan gelen yanıt ayrıştırılamadı: JSON bekleniyordu fakat geçersiz bir yanıt alındı. Hata: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
@@ -13436,12 +13436,12 @@ Hata mesajı: %3</translation>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
         <source>Invalid path to VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM&apos;ye geçersiz dizin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Veri paketleri</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackIndex.cpp" line="148"/>
@@ -13464,7 +13464,7 @@ Hata mesajı: %3</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="180"/>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>veri paketleri</translation>
     </message>
 </context>
 <context>
@@ -13473,13 +13473,13 @@ Hata mesajı: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="37"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>veri paketleri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation type="unfinished">data paketi</translation>
+        <translation>veri paketi</translation>
     </message>
 </context>
 <context>
@@ -15050,7 +15050,7 @@ Emin misin?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
         <source>Preview Elytra</source>
-        <translation type="unfinished"></translation>
+        <translation>Elytra&apos;yı önizle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
@@ -15887,7 +15887,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Kullanılacak temayı ve simgeleri seçin</translation>
     </message>
 </context>
 <context>
@@ -16817,12 +16817,12 @@ Lütfen Mojang veya Minecraft hesabınızı ekleyin.</translation>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="8"/>
         <source>Launcher Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>İstemci Günlükleri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="12"/>
         <source>View Launcher Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>İstemci Günlüklerine Bak</translation>
     </message>
 </context>
 <context>
@@ -16981,12 +16981,12 @@ Kanonik Yol: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
         <source>Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Veri Paketleri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
         <source>Manage data packs inside the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dünyanın içindeki veri paketlerini yönetin.</translation>
     </message>
     <message>
         <source>Datapacks</source>
@@ -17094,12 +17094,12 @@ Emin misin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="224"/>
         <source>Manage Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Veri Paketlerini Yönetin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="231"/>
         <source>Data packs for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 için veri paketleri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
