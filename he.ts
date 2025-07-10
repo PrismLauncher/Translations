@@ -13,12 +13,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>הדבק שירות &amp; סוג</translation>
+        <translation>סוג שירות הדבקות</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>בסיס &amp; כתובת אתר (URL)</translation>
+        <translation>כתובת בסיס</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -33,7 +33,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>הערה: אתה כנראה רוצה לשנות או למחוק את כתובת האתר הבסיסית אחרי שינוי סוג שירות ההדבקה.</translation>
+        <translation>הערה: כנראה יהיה צריך לשנות או למחוק את הכתובת בסיס לאחר שינוי סוג שירות הדבקות</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
