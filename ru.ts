@@ -49,7 +49,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Обратите внимание: возможно, вам захочется изменить или очистить базовую ссылку после изменения типа службы вставки.</translation>
+        <translation>Обратите внимание: возможно, вам захочется изменить или очистить базовую ссылку после изменения типа сервиса отправки логов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
