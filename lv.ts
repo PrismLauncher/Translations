@@ -14342,7 +14342,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Redzēt sīklietu tēmu mapi.</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
@@ -14354,7 +14354,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Redzēt kaķu paku mapi.</translation>
     </message>
     <message>
         <source>Refresh all</source>
@@ -14386,7 +14386,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Izskats</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
