@@ -474,17 +474,17 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
         <source>User name of the account.</source>
-        <translation>অ্যাকাউন্টের ব্যবহারকারীর নাম</translation>
+        <translation>অ্যাকাউন্টের ব্যবহারকারীর নাম।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="363"/>
         <source>Current status of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>অ্যাকাউন্টের বর্তমান অবস্থা।</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>অক্ষম</translation>
     </message>
 </context>
 <context>
@@ -499,40 +499,40 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;সেট ডিফল্ট</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;না ডিফল্ট</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;স্কিন ম্যানেজ করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>স্কিন ম্যানেজ করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;মাইক্রোসফ্ট যোগ করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;রিফ্রেশ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
         <source>Refresh the account tokens</source>
-        <translation type="unfinished"></translation>
+        <translation>অ্যাকাউন্ট টোকেন রিফ্রেশ করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
