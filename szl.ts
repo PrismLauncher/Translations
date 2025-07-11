@@ -1479,7 +1479,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="258"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Ôdświyż</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
@@ -1519,7 +1519,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Niysztandardowe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="117"/>
@@ -1817,7 +1817,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
@@ -1832,17 +1832,17 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
         <source>JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
         <source>CSV</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Niysztandardowe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
@@ -2098,7 +2098,7 @@ Je żeś tego pewny?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="255"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatwiyrdź wychrōniynie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="269"/>
@@ -3829,7 +3829,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="119"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Ôdświyż</translation>
     </message>
     <message>
         <source>&amp;Auto-detect...</source>
@@ -3907,7 +3907,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatwiyrdź Wychrōniynie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="113"/>
@@ -6193,7 +6193,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1427"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatwiyrdź Wychrōniynie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1428"/>
@@ -7530,7 +7530,7 @@ Na zicher chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="285"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatwiyrdź wychrōniynie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="286"/>
@@ -8454,7 +8454,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="287"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatwiyrdź Wychrōniynie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="288"/>
@@ -10651,7 +10651,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobier Pakety</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
@@ -10747,7 +10747,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="218"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatwiyrdź wychrōniynie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="219"/>
@@ -10757,7 +10757,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobier pakety</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
@@ -11130,7 +11130,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="521"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatwiyrdź Wychrōniynie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
@@ -11311,17 +11311,17 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="177"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Przistōmp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="182"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Ôdświyż</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Serwery</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="605"/>
@@ -11331,7 +11331,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="736"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatwiyrdź wychrōniynie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="737"/>
@@ -11383,7 +11383,7 @@ Na zicher tego chcesz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobier Pakety</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
@@ -11479,7 +11479,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="215"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatwiyrdź wychrōniynie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="216"/>
@@ -11549,7 +11549,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="33"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="39"/>
@@ -11699,7 +11699,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="343"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatwiyrdź Wychrōniynie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="344"/>
@@ -12065,7 +12065,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobier Pakety</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
@@ -12166,7 +12166,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="223"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatwiyrdź wychrōniynie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="224"/>
@@ -12176,7 +12176,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobier pakety</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
@@ -12598,7 +12598,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatwiyrdź wychrōniynie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="281"/>
@@ -12970,7 +12970,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Przistōmp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
@@ -13000,7 +13000,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="133"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Ôdświyż</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="138"/>
@@ -13093,7 +13093,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="191"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatwiyrdź Wychrōniynie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="192"/>
