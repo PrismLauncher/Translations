@@ -15945,7 +15945,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="41"/>
         <source>A new version of %1 is available!</source>
-        <translation>Elérhető a %1 új verziója!</translation>
+        <translation>Elérhető a(z) %1 új verziója!</translation>
     </message>
 </context>
 <context>
@@ -16094,7 +16094,7 @@ Válts a következő Java verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation>Nyissa meg a példány Java beállításait a Java verzió módosításához, vagy tiltsa le a Java kompatibilitás ellenőrzését, ha tudja, mit csinál.</translation>
+        <translation>Nyisd meg a példány Java-beállításait a Java-verzió módosításához, vagy tiltsd le a Java kompatibilitás ellenőrzését, ha tudod mit csinálsz.</translation>
     </message>
 </context>
 <context>
@@ -16225,7 +16225,7 @@ Válts a következő Java verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
         <source>Add a mod into the Minecraft jar file.</source>
-        <translation>Adjon hozzá egy modot a Minecraft jar fájlba.</translation>
+        <translation>Adj hozzá egy modot a Minecraft jar fájlba.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
@@ -16297,7 +16297,7 @@ Válts a következő Java verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
         <source>Remove selected component from the instance.</source>
-        <translation>Távolítsa el a kiválasztott összetevőt a példányból.</translation>
+        <translation>A kiválasztott összetevő eltávolítása a példányból.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
@@ -16312,7 +16312,7 @@ Válts a következő Java verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"/>
         <source>Revert the selected component to default.</source>
-        <translation>Állítsa vissza a kiválasztott összetevőt az alapértelmezettre.</translation>
+        <translation>A kiválasztott összetevő visszaállítása az alapértelmezettre.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
@@ -16372,7 +16372,7 @@ Válts a következő Java verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="243"/>
         <source>Import existing component JSON files.</source>
-        <translation>Importálja a meglévő JSON-összetevő-fájlokat.</translation>
+        <translation>A meglévő JSON-összetevő-fájlok importálása.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="189"/>
@@ -16463,7 +16463,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
         <source>Select jar</source>
-        <translation>Válassza ki a jar-t</translation>
+        <translation>Válaszd ki a jar-t</translation>
     </message>
     <message>
         <source>Minecraft.jar replacement (*.jar)</source>
