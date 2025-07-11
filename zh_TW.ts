@@ -6188,12 +6188,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
         <source>Instance Sorting</source>
-        <translation>實例排序排序</translation>
+        <translation>實例排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="105"/>
         <source>Instance Renaming</source>
-        <translation type="unfinished"></translation>
+        <translation>實例重新命名</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
@@ -6203,7 +6203,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
         <source>Always rename the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>一律重新命名資料夾</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="129"/>
@@ -6213,7 +6213,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>Updater</source>
-        <translation type="unfinished"></translation>
+        <translation>更新程式</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="174"/>
@@ -7814,13 +7814,13 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
-        <translation type="unfinished">上傳記錄檔</translation>
+        <translation>查看記錄檔</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
-        <translation type="unfinished">上傳啟動器記錄檔至選擇的記錄檔服務供應商</translation>
+        <translation>查看目前及先前的啟動器記錄檔</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
@@ -9418,12 +9418,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
         <source>&amp;Window Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>視窗大小 (&amp;W)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="189"/>
         <source>×</source>
-        <translation type="unfinished"></translation>
+        <translation>×</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="196"/>
@@ -9479,22 +9479,22 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="368"/>
         <source>Override &amp;Default Account</source>
-        <translation type="unfinished"></translation>
+        <translation>覆蓋預設帳號 (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="413"/>
         <source>Enable Auto-&amp;join</source>
-        <translation type="unfinished"></translation>
+        <translation>啟用自動加入 (&amp;J)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="435"/>
         <source>Singleplayer world:</source>
-        <translation type="unfinished"></translation>
+        <translation>單人遊戲世界：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="475"/>
         <source>Override Mod Download &amp;Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>覆蓋模組下載的載入器 (&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
@@ -9524,12 +9524,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
         <source>&amp;GLFW library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>GLFW 程式庫路徑 (&amp;G)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="657"/>
         <source>&amp;OpenAL library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenAL 程式庫路徑 (&amp;O)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="701"/>
@@ -9646,7 +9646,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="547"/>
         <source>Select Global Data Packs Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇全域資料包資料夾</translation>
     </message>
 </context>
 <context>
@@ -11576,12 +11576,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>確定 (&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="47"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消 (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="48"/>
@@ -12366,7 +12366,7 @@ HTTP 狀態碼：%2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
         <source>Use S&amp;ystem Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>使用系統設定 (&amp;Y))</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
@@ -13463,7 +13463,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished">錯誤：%1 回傳了意外的狀態代碼 %2 %3</translation>
+        <translation>錯誤：%1 回傳了意外狀態碼 %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
