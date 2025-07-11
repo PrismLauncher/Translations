@@ -2358,7 +2358,7 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation>Az összes kiválasztott adatcsomag naprakész! :)</translation>
+        <translation>Minden kiválasztott adatcsomag naprakész! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
@@ -15807,7 +15807,7 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>A cica a háttérben jelenik majd meg, és alapértelmezés szerint nem látható. Csak akkor látható, ha megnyomja a Cica gombot az eszköztáron.</translation>
+        <translation>A cica a háttérben jelenik majd meg, és alapértelmezés szerint nem látható. Csak akkor látható, ha megnyomod a Cicagombot az eszköztáron.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
@@ -15815,7 +15815,7 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation>Cicák mappájának megtekintése.</translation>
+        <translation>Cicák mappa megtekintése.</translation>
     </message>
     <message>
         <source>Refresh all</source>
@@ -15830,11 +15830,11 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation>Válassza ki a használni kívánt témát</translation>
+        <translation>Válaszd ki a használni kívánt témát</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Tipp: A cica a háttérben jelenik majd meg, és alapértelmezés szerint nem látható. Csak akkor látható, ha megnyomja a Cica gombot az eszköztáron.</translation>
+        <translation>Tipp: A cica a háttérben jelenik majd meg, és alapértelmezés szerint nem látható. Csak akkor látható, ha megnyomod a Cicagombot az eszköztáron.</translation>
     </message>
     <message>
         <source> Preview:</source>
