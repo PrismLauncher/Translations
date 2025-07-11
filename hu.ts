@@ -15807,7 +15807,7 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>A cica a háttérben jelenik majd meg, és alapértelmezés szerint nem látható. Csak akkor látható, ha megnyomod a Cicagombot az eszköztáron.</translation>
+        <translation>A cica a háttérben fog megjelenni, és alapértelmezés szerint nem látható. Csak akkor válik láthatóvá, ha megnyomod a Cicagombot az eszköztáron.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
@@ -15834,7 +15834,7 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Tipp: A cica a háttérben jelenik majd meg, és alapértelmezés szerint nem látható. Csak akkor látható, ha megnyomod a Cicagombot az eszköztáron.</translation>
+        <translation>Tipp: A cica a háttérben fog megjelenni, és alapértelmezés szerint nem látható. Csak akkor válik láthatóvá, ha megnyomod a Cicagombot az eszköztáron.</translation>
     </message>
     <message>
         <source> Preview:</source>
@@ -15920,7 +15920,7 @@ Biztos vagy ebben?</translation>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="43"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
-        <translation>A(z) %1 verzió már elérhető - Önnek %2 van. Szeretné most letölteni?</translation>
+        <translation>A(z) %1 verzió már elérhető - neked %2 van. Szeretnéd most letölteni?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
@@ -15930,7 +15930,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
         <source>Skip This Version</source>
-        <translation>Hagyd ki ezt a verziót</translation>
+        <translation>Verzió kihagyása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="129"/>
@@ -15940,12 +15940,12 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="142"/>
         <source>Install Update</source>
-        <translation>Telepítse a frissítést</translation>
+        <translation>Frissítés telepítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="41"/>
         <source>A new version of %1 is available!</source>
-        <translation>Elérhető a(z) %1 új verziója!</translation>
+        <translation>Elérhető a %1 új verziója!</translation>
     </message>
 </context>
 <context>
