@@ -15022,7 +15022,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
         <source>All selected shader packs are up-to-date! :)</source>
-        <translation>所選的光影包皆已更新至最新版本！ :)</translation>
+        <translation>所選光影包皆已更新至最新版本！ :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
@@ -15863,7 +15863,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="179"/>
         <source>All selected texture packs are up-to-date! :)</source>
-        <translation>所選的紋理包皆已更新至最新版本！:)</translation>
+        <translation>所選紋理包皆已更新至最新版本！:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
