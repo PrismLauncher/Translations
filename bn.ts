@@ -469,12 +469,12 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>অ্যাকাউন্টের সাথে যুক্ত Minecraft ব্যবহারকারীর নাম</translation>
+        <translation>অ্যাকাউন্টের সাথে যুক্ত Minecraft ব্যবহারকারীর নাম।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
         <source>User name of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>অ্যাকাউন্টের ব্যবহারকারীর নাম</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="363"/>
