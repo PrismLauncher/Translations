@@ -1696,7 +1696,7 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="93"/>
         <source>Reading file list for new version...</source>
-        <translation>mi lukin e kulupu lipu li alasa e nanpa sin...</translation>
+        <translation>mi alasa e nanpa sin tan kulupu lipu...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="106"/>
