@@ -797,7 +797,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation>دیدن فولدر پک های گربه</translation>
+        <translation>دیدن فولدر پک های گربه.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
@@ -819,17 +819,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;پک گربه:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation type="unfinished"></translation>
+        <translation>بارگذاری مجدد همه</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>تم:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
@@ -839,53 +839,53 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>فونت کنسول:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="215"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="238"/>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>مناسب</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="243"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>پرکردن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="248"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>کشش</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="256"/>
         <source>Cat Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>شفافیت گربه</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="311"/>
         <source>Opaque</source>
-        <translation type="unfinished"></translation>
+        <translation>مات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="334"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>شفاف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>پیش نمایش</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ارور] اووووووووووو! یک ارور ترسناک!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
         <source>[ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ERROR] یک ارور ترسناک!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="263"/>
