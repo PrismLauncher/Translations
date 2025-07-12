@@ -28,7 +28,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="308"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="351"/>
         <source>Use Default</source>
-        <translation type="unfinished"></translation>
+        <translation>استفاده پیشفرض</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -38,7 +38,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>&amp;API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;کیلیدهای API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -54,7 +54,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="250"/>
         <source>Use None</source>
-        <translation type="unfinished"></translation>
+        <translation>استفاده هیچی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="286"/>
