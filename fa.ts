@@ -38,7 +38,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>&amp;API Keys</source>
-        <translation>&amp;کیلیدهای API</translation>
+        <translation>&amp;کیلید های API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -789,7 +789,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="55"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>ظاهر</translation>
     </message>
 </context>
 <context>
@@ -797,7 +797,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>دیدن فولدر پک های گربه</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
