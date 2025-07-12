@@ -16686,7 +16686,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation>A Java verzió alternatív neve</translation>
+        <translation>A Java-verzió alternatív neve</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
@@ -16927,7 +16927,7 @@ Kanonikus elérési út: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="146"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
-        <translation>Távolítsa el a világ ikont, hogy a játék a következő betöltéskor újra generálja.</translation>
+        <translation>Távolítsd el a világ ikont, hogy a játék a következő betöltéskor újra generálja.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
