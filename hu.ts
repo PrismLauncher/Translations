@@ -16927,7 +16927,7 @@ Kanonikus elérési út: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="146"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
-        <translation>Távolítsd el a világ ikont, hogy a játék a következő betöltéskor újra generálja.</translation>
+        <translation>Távolítsd el a világ ikont, hogy a játék a következő betöltéskor újragenerálja.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
@@ -16973,12 +16973,12 @@ Akarod folytatni?</translation>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation>Nyissa meg a világ adatcsomagok mappáját</translation>
+        <translation>Világ adatcsomagok mappa megnyitása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>
         <source>Open World in MCEdit</source>
-        <translation>Nyissa meg a világot az MCEdit-ben</translation>
+        <translation>Világ megnyitása az MCEdit-ben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="335"/>
@@ -16990,7 +16990,7 @@ Akarod folytatni?</translation>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>Nincs beállítva az MCEdit, vagy áthelyezték.
-Ezt a globális beállításokban tudja beállítani.</translation>
+Ezt a globális beállításokban tudod beállítani.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="342"/>
@@ -17002,12 +17002,12 @@ Ezt a globális beállításokban tudja beállítani.</translation>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>Az MCEdit nem indult el.
-Lehet, hogy újra kell telepítenie.</translation>
+Lehet, hogy újra kell telepíteni.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
         <source>Select a Minecraft world zip</source>
-        <translation>Válassza ki a Minecraft világ zipjét</translation>
+        <translation>Válaszd ki a Minecraft világ zipjét</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
@@ -17024,7 +17024,7 @@ Lehet, hogy újra kell telepítenie.</translation>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>A Minecraft futása alatt álló világ megváltoztatása potenciálisan nem biztonságos.
-Folytatni akarja?</translation>
+Folytatni akarod?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="195"/>
@@ -17061,7 +17061,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
         <source>Enter a new name for the copy.</source>
-        <translation>Adjon meg egy új nevet a másolat számára.</translation>
+        <translation>Adj meg egy új nevet a másolat számára.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="450"/>
@@ -17071,7 +17071,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
         <source>Enter a new world name.</source>
-        <translation>Adjon meg egy új világnevet.</translation>
+        <translation>Adj meg egy új világnevet.</translation>
     </message>
 </context>
 <context>
@@ -17110,7 +17110,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
         <source>Got authorization to access %1</source>
-        <translation>Engedélyt kapott a(z) %1 eléréséhez</translation>
+        <translation>Engedély megszerezve a(z) %1 eléréséhez</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="104"/>
@@ -17125,12 +17125,12 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Ez a Microsoft-fiók nem rendelkezik XBox Live profillal. Előbb vegye meg a játékot a %1-en.</translation>
+        <translation>Ez a Microsoft-fiók nem rendelkezik XBox Live profillal. Előbb vedd meg a játékot a %1-en.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>Az XBox Live nem érhető el az Ön országában. Letiltottak.</translation>
+        <translation>Az XBox Live nem érhető el az országodban. Letiltottak.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -17159,7 +17159,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="152"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation>Ez a Microsoft-fiók jelenleg korlátozott, és gyámja nem adott engedélyt az online játékra. Jelentkezzen be ide: %1, és kérje meg gyámját, hogy módosítsa az engedélyeit.</translation>
+        <translation>Ez a Microsoft-fiók jelenleg korlátozott, és gyámja nem adott engedélyt az online játékra. Jelentkezz be ide: %1, és kérd meg a gyámodat, hogy módosítsa az engedélyedet.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="159"/>
