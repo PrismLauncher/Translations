@@ -7475,7 +7475,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="166"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="255"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobiyranie zastawiōne bez używŏcza.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
@@ -10687,7 +10687,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="188"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobiyranie zastawiōne bez używŏcza.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="109"/>
@@ -11419,7 +11419,7 @@ Na zicher tego chcesz?</translation>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobiyranie zastawiōne bez używŏcza.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="106"/>
@@ -12106,7 +12106,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="193"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobiyranie zastawiōne bez używŏcza.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="114"/>
