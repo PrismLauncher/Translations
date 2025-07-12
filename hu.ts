@@ -16487,7 +16487,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="328"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation>Egyes összetevőket nem lehetett importálni. A részletekért ellenőrizze a naplókat</translation>
+        <translation>Egyes összetevőket nem lehetett importálni. A részletekért ellenőrizd a naplókat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
@@ -16534,7 +16534,7 @@ This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
         <translation>A(z) &quot;%1&quot; visszaállítására készülsz.
-Ez végleges, és teljesen visszaállítja a beállításait.
+Ez végleges, és teljesen visszaállítja a beállításaidat.
 
 Biztos vagy ebben?</translation>
     </message>
@@ -16686,13 +16686,13 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation>A java verzió alternatív neve</translation>
+        <translation>A Java verzió alternatív neve</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation>A java főverziója</translation>
+        <translation>A Java főverziója</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
