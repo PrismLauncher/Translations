@@ -2374,7 +2374,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="204"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation>您即将删除 %1 数据包的中繼資料。您确定吗？</translation>
+        <translation>您即将删除 %1 数据包的中繼資料。
+您确定吗？</translation>
     </message>
 </context>
 <context>
