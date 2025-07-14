@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwŏga: Prŏwdopodobnie niy musisz tego zmiyniać, jeźli logowanie bez uwierzitelnianie Microsoft funkcjōniyruje sprŏwnie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -92,7 +92,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="350"/>
         <source>User Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>Agent używŏcza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="359"/>
@@ -239,7 +239,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="820"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Znŏd żech zaszperowane mody</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="821"/>
@@ -788,7 +788,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod udostympnianiŏ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="354"/>
@@ -871,7 +871,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="95"/>
         <source>Working...</source>
-        <translation type="unfinished"></translation>
+        <translation>Robiã...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
@@ -954,7 +954,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobier Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
@@ -2558,7 +2558,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="504"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Znŏd żech zaszperowane mody</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="505"/>
@@ -2670,7 +2670,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Ôpcyje filtrowaniŏ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -5220,7 +5220,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="116"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyślij</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="123"/>
@@ -8040,7 +8040,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Ôpcyje filtrowaniŏ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
@@ -8389,7 +8389,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="179"/>
         <source>&amp;Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wyślij</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="186"/>
@@ -8415,7 +8415,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyślij</translation>
     </message>
     <message>
         <source>Clean</source>
@@ -8509,7 +8509,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="60"/>
         <source>Other logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Inksze logi</translation>
     </message>
 </context>
 <context>
@@ -8913,13 +8913,13 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>ja</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>niy</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="776"/>
@@ -9126,7 +9126,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="49"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (używane)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="75"/>
@@ -9527,7 +9527,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="137"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (używane)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="99"/>
@@ -9580,7 +9580,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="152"/>
         <source>Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Feler: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="154"/>
@@ -9610,17 +9610,17 @@ Error message: %1</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="81"/>
         <source>Windows Vista</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Vista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="83"/>
         <source>Windows 9x</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
         <source>Windows 11</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 11</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
@@ -9678,7 +9678,7 @@ Error message: %1</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="76"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>dni</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="81"/>
@@ -9875,7 +9875,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
-        <translation>Zortuj podle wielości pobrań</translation>
+        <translation>Zortuj podle pobrań</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
@@ -10774,7 +10774,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Ôpcyje filtrowaniŏ</translation>
     </message>
 </context>
 <context>
@@ -11028,7 +11028,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="61"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyślij</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="66"/>
