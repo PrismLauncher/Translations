@@ -13302,7 +13302,7 @@ Vuoi procedere?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="244"/>
         <source>Created a shortcut to this %1!</source>
-        <translation>Scorciatoia a %1 creata!</translation>
+        <translation>Scorciatoia a questo %1 creata!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
@@ -13317,7 +13317,7 @@ Vuoi procedere?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile leggere la risposta del server di hastebin: richeisto un JSON ma ricevuto una risposta non valida. Errore: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
@@ -13329,7 +13329,7 @@ Vuoi procedere?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile leggere la risposta del server di mclogs: richeisto un JSON ma ricevuto una risposta non valida. Errore: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
@@ -13339,7 +13339,7 @@ Vuoi procedere?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile leggere la risposta del server di pasteGG: richeisto un JSON ma ricevuto una risposta non valida. Errore: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
@@ -13351,18 +13351,18 @@ Messaggio d&apos;errore: %3</translation>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
         <source>Invalid path to VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>Percorso di VisualVM non valido</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Datapack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackIndex.cpp" line="148"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackManifest.cpp" line="190"/>
         <source> for %1</source>
-        <translation type="unfinished"></translation>
+        <translation> per %1</translation>
     </message>
 </context>
 <context>
@@ -13379,7 +13379,7 @@ Messaggio d&apos;errore: %3</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="180"/>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>datapack</translation>
     </message>
 </context>
 <context>
@@ -13388,7 +13388,7 @@ Messaggio d&apos;errore: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="37"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>datapack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
