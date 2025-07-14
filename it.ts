@@ -12222,7 +12222,7 @@ Stato HTTP: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
         <source>Use S&amp;ystem Settings</source>
-        <translation>Usa le I&amp;mpostanzioni di sistema</translation>
+        <translation>Usa le I&amp;mpostazioni di sistema</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
@@ -12423,12 +12423,12 @@ Procedere con il troncamento?</translation>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
         <source>Failed to upload logs!</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile caricare i log!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
         <source>Logs upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Caricamento dei log interrotto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
@@ -12731,7 +12731,7 @@ Questo messaggio verrà visualizzato finché non rimuoverai tale parametro da qu
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;eseguibile di Java selezionato non ha funzionato.&lt;br /&gt;Premi &apos;Rileva&apos; o scegli il percorso all&apos;eseguibile Java.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
@@ -13120,22 +13120,22 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="97"/>
         <source>Cannot rename instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile rinominare l&apos;istanza</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"/>
         <source>New instance root (%1) already exists. &lt;br /&gt;Only the metadata will be renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>La nuova cartella dell&apos;istanza (%1) esiste già. &lt;br /&gt;Verranno rinominato solo i metadati.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
         <source>&amp;Remember my choice</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ricorda la mia scelta</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="73"/>
         <source>Rename instance folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Rinomina la cartella dell&apos;istanza</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="74"/>
@@ -13143,17 +13143,20 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Vuoi anche rinominare la cartella dell&apos;istanza?
+
+Vecchio nome: %1
+Nuovo nome: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="92"/>
         <source>Renaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Rinominando</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>C&apos;è stato un errore nei seguenti cambi di nome: &lt;br/&gt; - Vecchia cartella dell&apos;istanza: %1&lt;br/&gt; - Nuova cartella dell&apos;istanza: %2&lt;br/&gt;Sono stati rinominati solo i metadati.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
@@ -13169,9 +13172,21 @@ New name: %2</source>
 %2 it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>La seguente istanza potrebbe contenere riferimenti a file in quest&apos;istanza:
+
+%1
+
+%2 potrebbe rompere l&apos;altra istanza, 
+
+Vuoi procedere?</numerusform>
+            <numerusform>Le seguenti istanze potrebbero contenere riferimenti a file in quest&apos;instanza:
+
+%1
+
+%2 potrebbere rompere le altre istanze, 
+
+Vuoi procedere?</numerusform>
         </translation>
     </message>
     <message>
