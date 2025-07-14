@@ -13659,13 +13659,14 @@ Per favore aggiorna %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"/>
         <source>No versions available</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna versione disponibile</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="433"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna versione risponibile di &apos;%1&apos;.
+L&apos;autore potrebbe aver bloccato i launcher di terze parti.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="540"/>
@@ -13853,7 +13854,7 @@ Sei sicuro di volerlo fare?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="660"/>
         <source>Override Columns Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Sovrascrivi la visibilità delle colonne</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="673"/>
@@ -14960,7 +14961,7 @@ Sei sicuro/a?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
         <source>Preview Elytra</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteprima dell&apos;Elytra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
