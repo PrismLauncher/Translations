@@ -2936,12 +2936,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
         <source>View the homepages of all selected items.</source>
-        <translation>عرض القوائم الرئيسية لكل الاغراض المحددة</translation>
+        <translation>عرض القوائم الرئيسية لكل الاغراض المحددة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>التحقق من وجود &amp;تحديثات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="132"/>
@@ -2960,7 +2960,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>أنت على وشك إزالة ٪ 1 من الاغراض.
+قد يكون هذا دائمًا وسيرحلون من الملف
+
+هل أنت متأكد؟؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="248"/>
@@ -2968,7 +2971,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>أنت على وشك إزالة الملف &quot;%1&quot;
+قد يكون هذا دائمًا وسيختفي من الملف الأصلي
+
+هل أنت متأكد؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="255"/>
@@ -2978,29 +2984,31 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="269"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>تأكيد الحذف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="270"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا أزلت هذا المورد بينما اللعبة تعمل فقد تعطل لعبتك
+هل أنت متأكد أنك تريد فعل هذا؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="290"/>
         <source>Confirm disable</source>
-        <translation type="unfinished"></translation>
+        <translation>تأكيد التعطيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="291"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا قمت بتعطيل هذا المورد بينما اللعبة تُديره قد تعطل لعبتك
+هل أنت متأكد أنك تريد فعل هذا؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="356"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> تم تحميل 1%، 2% مُحدد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="358"/>
