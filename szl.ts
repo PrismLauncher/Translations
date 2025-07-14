@@ -12263,7 +12263,10 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="unfinished"></translation>
+        <translation>%1:
+%2 przełożōne
+%3 niysprecyzowane
+Wrŏz: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="391"/>
@@ -12283,7 +12286,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation></translation>
+        <translation>Stōn ukōńczyniŏ je procyntym w połni przełożōnych wyrażyń, niy bez wrachowowanie tych autōmatycznie dopołniōnych.</translation>
     </message>
 </context>
 <context>
@@ -12291,7 +12294,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="14"/>
         <source>Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Przistympnŏ Aktualizacyjŏ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="73"/>
