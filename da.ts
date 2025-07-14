@@ -1953,17 +1953,17 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="197"/>
         <source>instance</source>
-        <translation type="unfinished"></translation>
+        <translation>instans</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="201"/>
         <source>world</source>
-        <translation type="unfinished"></translation>
+        <translation>verden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="204"/>
         <source>server</source>
-        <translation type="unfinished"></translation>
+        <translation>server</translation>
     </message>
 </context>
 <context>
@@ -1991,22 +1991,22 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Overskriv &amp;Globale Indstillinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kommando Før Start</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>P&amp;ost-exit Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommando Efter Lukning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
         <source>&amp;Wrapper Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Indpakningskommando</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
@@ -2154,48 +2154,48 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Enable</source>
-        <translation type="unfinished">Aktiver</translation>
+        <translation>Aktivér</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Image</source>
-        <translation type="unfinished">Billede</translation>
+        <translation>Billede</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Name</source>
-        <translation type="unfinished">Navn</translation>
+        <translation>Navn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Pack Format</source>
-        <translation type="unfinished">Pakke Format</translation>
+        <translation>Pakkeformat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Sidst Ændret</translation>
+        <translation>Sidst Ændret</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="78"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Ikke genkendt</translation>
+        <translation>Ikke genkendt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="104"/>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Datapakkens format-ID samt de Minecraft versioner, den var designed til.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="109"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Advarsel: Denne resource er symbolsk forbundet fra andre steder. Redigering vil også ændre originalen.
-Kanonisk sti: %1</translation>
+Kanonisk Sti: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="116"/>
@@ -2207,17 +2207,17 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Er denne datapakke aktiveret? (Gælder kun for ZIPs)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
         <source>The name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Navnet på datapakken.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="161"/>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>Dato og tiden for, hvornår denne datapakke sidst blev ændret (eller tilføjet).</translation>
     </message>
 </context>
 <context>
@@ -2230,22 +2230,22 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Download datapakker fra online mod-platforme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prøv at etjekke eller opdatere alle valgte datapakker (alle datapakker, hvis intet er valgt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ændr en datapakkes version.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
         <source>Download Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Download Datapakker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"/>
@@ -2262,14 +2262,14 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
         <source>Aborted</source>
-        <translation type="unfinished">Afbrudt</translation>
+        <translation>Afbrudt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Overførsel afbrudt af bruger.</translation>
+        <translation>Overførsel afbrudt af bruger.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="94"/>
