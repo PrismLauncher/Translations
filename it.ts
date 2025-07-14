@@ -7691,7 +7691,7 @@ Causa:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation>Crea una scorciatoia in una data cartella per lanciare l&apos;istanza selezionata</translation>
+        <translation>Crea una scorciatoia in una data cartella per lanciare l&apos;istanza selezionata.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
@@ -7757,13 +7757,13 @@ Causa:
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Vedi log</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Vedi log attuale e precedenti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
@@ -8486,13 +8486,14 @@ Per favore crea una nuova istanza prima di reinstallare questa risorsa.</transla
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1207"/>
         <source>Failed to undo trashing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile ripristinare l&apos;istanza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1208"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alcune istanze e scorciatoie non possono essere ripristinate.
+Controlla il tuo cestino per ripristinarle manualmente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
@@ -8504,12 +8505,12 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
         <source>Cannot Delete Running Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile eliminare un&apos;istanza in esecuzione</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;istanza è in esecuzione e non può essere eliminata. Interrompi l&apos;istanza prima di provare ad eliminarla.</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
@@ -8525,7 +8526,9 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Stai per eliminare &quot;%1&quot;%2.
+Ciò è permanente ed eliminerà completamente l&apos;istanza.
+Sei sicuro/a?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
