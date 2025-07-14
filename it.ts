@@ -13192,27 +13192,27 @@ Vuoi procedere?</numerusform>
     <message>
         <location filename="src/launcher/GZip.cpp" line="201"/>
         <source>error handling file</source>
-        <translation>Errore nella gestione del file</translation>
+        <translation>errore nella gestione del file</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="203"/>
         <source>invalid compression level</source>
-        <translation type="unfinished"></translation>
+        <translation>livello di compressione non valido</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="205"/>
         <source>invalid or incomplete deflate data</source>
-        <translation type="unfinished"></translation>
+        <translation>dati deflate non validi o incompleti</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="207"/>
         <source>out of memory</source>
-        <translation type="unfinished"></translation>
+        <translation>troppo poca memoria</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="209"/>
         <source>zlib version mismatch!</source>
-        <translation type="unfinished"></translation>
+        <translation>versione di zlib in conflitto!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="65"/>
@@ -13244,7 +13244,7 @@ Vuoi procedere?</numerusform>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
         <source>Failed to create icon for application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile creare l&apos;icona per l&apos;applicazione.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
