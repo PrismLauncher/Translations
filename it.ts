@@ -13184,7 +13184,7 @@ Vuoi procedere?</numerusform>
 
 %1
 
-%2 potrebbere rompere le altre istanze, 
+%2 potrebbe rompere le altre istanze, 
 
 Vuoi procedere?</numerusform>
         </translation>
@@ -13192,7 +13192,7 @@ Vuoi procedere?</numerusform>
     <message>
         <location filename="src/launcher/GZip.cpp" line="201"/>
         <source>error handling file</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore nella gestione del file</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="203"/>
