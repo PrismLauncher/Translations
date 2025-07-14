@@ -4271,7 +4271,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
         <source>Select the language to use in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ôbier gŏdka używanŏ w %1</translation>
     </message>
 </context>
 <context>
@@ -12283,7 +12283,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation>Ôbier gŏdka używanŏ w %1</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
