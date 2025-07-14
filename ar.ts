@@ -3008,12 +3008,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="356"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation> تم تحميل 1%، 2% مُحدد</translation>
+        <translation> .( تم تحميل 1%، 2% مُحدد)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="358"/>
         <source> (%1 installed)</source>
-        <translation type="unfinished"></translation>
+        <translation> .(1% مُحمل)</translation>
     </message>
 </context>
 <context>
