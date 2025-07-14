@@ -3073,7 +3073,7 @@ Er du sikker på at du fortsætte?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="50"/>
         <source>&amp;Text Editor</source>
-        <translation>&amp; Tekstredigering</translation>
+        <translation>&amp;Tekstredigering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="65"/>
@@ -3086,12 +3086,12 @@ Er du sikker på at du fortsætte?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
         <source>Used to edit component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bruges til at redigere komponent JSON filer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
         <source>&amp;MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="127"/>
@@ -3103,22 +3103,22 @@ Er du sikker på at du fortsætte?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
         <source>&amp;Profilers</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Profilører</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Profilører er tilgængelige igennem Launch-dropdownmenuen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
         <source>J&amp;Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>J&amp;Profilør</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
         <source>&amp;VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;VisualVM</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
@@ -3171,24 +3171,25 @@ Er du sikker på at du fortsætte?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="130"/>
         <source>VisualVM Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM Eksekverbar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
         <source>Error while checking VisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under verificering af VisualVM-installation:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM setup lader til at være OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
         <source>Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst Editor</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
@@ -3244,7 +3245,7 @@ Er du sikker på at du fortsætte?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
         <source>Tools</source>
-        <translation type="unfinished">Værktøjer</translation>
+        <translation>Værktøjer</translation>
     </message>
 </context>
 <context>
