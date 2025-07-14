@@ -13267,7 +13267,7 @@ Vuoi procedere?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
         <source>Failed to create %1 shortcut!</source>
-        <translation>Impossible creare la scorciatoia %1!</translation>
+        <translation>Impossibile creare la scorciatoia %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
@@ -13277,22 +13277,22 @@ Vuoi procedere?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="181"/>
         <source>Created a shortcut to this %1 on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Scorciatoia a questo %1 creata sulla scrivania!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="192"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile trovare la cartella delle applicazioni?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="202"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile creare la cartella dell&apos;istanza nella cartella delle applicazioni!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="211"/>
         <source>Created a shortcut to this %1 in your applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Scorciatoia a questo %1 creata nella cartella delle applicazioni!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="235"/>
@@ -13302,7 +13302,7 @@ Vuoi procedere?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="244"/>
         <source>Created a shortcut to this %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Scorciatoia a %1 creata!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
