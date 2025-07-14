@@ -746,7 +746,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation>[გაფრთხილება] ნაკლებად საშიში შეცდომა</translation>
+        <translation>[გაფრთხილება] ნაკლებად საშიში შეცდომა.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"/>
