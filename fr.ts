@@ -2281,7 +2281,7 @@ Avertissement&#xa0;: Cette ressource est directement liée à une autre. L&apos;
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation type="unfinished">Télécharger des packs de données depuis des plateformes de mods en ligne</translation>
+        <translation>Télécharger des packs de données depuis des plateformes de mods en ligne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
@@ -2352,14 +2352,14 @@ Avertissement&#xa0;: Cette ressource est directement liée à une autre. L&apos;
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished">Mettre à jour les packs de données lorsque le jeu est lancé peut causer des duplications de pack et faire planter le jeu.
+        <translation>Mettre à jour les packs de données lorsque le jeu est lancé peut causer la duplication des packs et faire planter le jeu.
 Les vieux fichiers peuvent ne pas être supprimés s&apos;ils sont en utilisation.
 Êtes-vous sûr de vouloir continuer&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"/>
         <source>The data pack updater was aborted!</source>
-        <translation type="unfinished">le programme de mise à jour des packs de données a été interrompu&#x202f;!</translation>
+        <translation>Le programme de mise à jour des packs de données a été interrompu&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
@@ -3189,7 +3189,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
         <source>Used to edit component JSON files.</source>
-        <translation type="unfinished">Utilisé pour modifier le fichier JSON des composants.</translation>
+        <translation>Utilisé pour modifier le fichier JSON des composants.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
@@ -3211,7 +3211,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation type="unfinished">Les profileurs sont accessibles via le menu déroulant.</translation>
+        <translation>Les profileurs sont accessibles depuis le menu déroulant &quot;Launch&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
@@ -3287,7 +3287,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>La configuration de VisualVM semble correcte.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
