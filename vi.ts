@@ -1909,12 +1909,12 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation>Chọn 1 thế giới mà bạn muốn tự động tham gia khi mở trò chơi</translation>
+        <translation>Chọn 1 thế giới mà bạn muốn tự động tham gia khi mở trò chơi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn đối tượng tham gia khi mở trò chơi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
