@@ -3184,12 +3184,12 @@ Er du sikker på at du fortsætte?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation>VisualVM setup lader til at være OK</translation>
+        <translation>VisualVM-opsætning lader til at være OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
         <source>Text Editor</source>
-        <translation>Tekst Editor</translation>
+        <translation>Teksteditor</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
