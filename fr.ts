@@ -3287,12 +3287,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation>La configuration de VisualVM semble correcte.</translation>
+        <translation>La configuration de VisualVM semble correcte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
         <source>Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Éditeur de texte</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
@@ -3646,7 +3646,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation type="unfinished"></translation>
+        <translation>La mémoire recommandée du modpack dépasse 90 % de la RAM de votre système, réduction de %1 Mio à %2 Mio&#x202f;!</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -5072,7 +5072,7 @@ Veuillez vérifier que la valeur mémoire maximale est plus basse.</translation>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>VisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM a été lancé</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
@@ -5296,7 +5296,7 @@ Veuillez vérifier que la valeur mémoire maximale est plus basse.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Installations</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
@@ -5536,22 +5536,22 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
         <source>&amp;Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Détecter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
         <source>&amp;Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Parcourir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
         <source>Test S&amp;ettings</source>
-        <translation type="unfinished"></translation>
+        <translation>Tester les P&amp;aramètres</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
         <source>Open Java &amp;Downloader</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir Java et l&apos;installeur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
