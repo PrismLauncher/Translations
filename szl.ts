@@ -8419,11 +8419,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Clean</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypucuj</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Ôdświyż</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="39"/>
@@ -8747,7 +8747,7 @@ StdErr:%2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="109"/>
         <source>version name</source>
-        <translation type="unfinished"></translation>
+        <translation>miano versyje</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="110"/>
@@ -9224,7 +9224,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="136"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Pōmiń</translation>
     </message>
 </context>
 <context>
