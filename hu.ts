@@ -375,7 +375,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="140"/>
         <source>About %1</source>
-        <translation>A %1 névjegye</translation>
+        <translation>A(z) %1 névjegye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
@@ -7758,7 +7758,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="646"/>
         <source>&amp;About %1</source>
-        <translation>&amp;Az %1 névjegye</translation>
+        <translation>&amp;A(z) %1 névjegye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
@@ -7968,7 +7968,7 @@ Indok:
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>A %1 &amp;súgó</translation>
+        <translation>%1 &amp;súgó</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -8546,7 +8546,7 @@ A metaadat gyorsítótár manuális törléséhez nyomd meg a Mappák -&gt; Laun
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation>A(z) &quot;%1&quot; %2 példány törlésére készülsz.
+        <translation>A(z) &quot;%1&quot;%2 példány törlésére készülsz.
 Ez végleges lehet, és teljesen törli a példányt.
 
 Biztos vagy ebben?</translation>
