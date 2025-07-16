@@ -375,7 +375,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="140"/>
         <source>About %1</source>
-        <translation>A(z) %1 névjegye</translation>
+        <translation>%1 névjegye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
@@ -7758,7 +7758,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="646"/>
         <source>&amp;About %1</source>
-        <translation>&amp;A(z) %1 névjegye</translation>
+        <translation>%1 &amp;névjegye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
@@ -9376,7 +9376,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="241"/>
         <source>When the game crashes, show the console window</source>
-        <translation>Játék összeomlásakor a konzol ablak megjelenítése</translation>
+        <translation>Játék összeomlásakor jelenjen meg a konzol ablak</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="248"/>
