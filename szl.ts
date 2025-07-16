@@ -2040,7 +2040,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="209"/>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmiyń wersyjõ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
@@ -7548,7 +7548,7 @@ Je żeś pewny, iże tego chcesz?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="71"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="160"/>
         <source>Download Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobier mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="100"/>
@@ -7578,7 +7578,7 @@ Je żeś pewny, iże tego chcesz?</translation>
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobier mody</translation>
     </message>
     <message>
         <source>Add file</source>
@@ -7610,7 +7610,7 @@ Je żeś pewny, iże tego chcesz?</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmiyń wersyjõ</translation>
     </message>
     <message>
         <source>Change mod version</source>
@@ -8423,7 +8423,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Ôdświyż</translation>
+        <translation>Zaladuj zaś</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="39"/>
@@ -12445,12 +12445,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaladuj zaś</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="115"/>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmiyń wersyjõ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="118"/>
