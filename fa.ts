@@ -49,7 +49,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="228"/>
         <source>Mod&amp;rinth</source>
-        <translation>ماد</translation>
+        <translation>ماد رینت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="250"/>
@@ -64,11 +64,11 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="341"/>
         <source>&amp;Technic</source>
-        <translation type="unfinished"></translation>
+        <translation>تکنیک</translation>
     </message>
     <message>
         <source>API Keys</source>
-        <translation>کلید های API</translation>
+        <translation>&lt;head/&gt;کلید های API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -145,7 +145,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>یک URL سفارشی برای متا در اینجا وارد کنید.</translation>
+        <translation type="unfinished">یک URL دلخواه برای متا در اینجا وارد کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="257"/>
