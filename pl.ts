@@ -8946,7 +8946,7 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation>Wczytaj metę dla %1:%2</translation>
+        <translation>Wczytaj metadane dla %1:%2</translation>
     </message>
 </context>
 <context>
