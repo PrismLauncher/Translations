@@ -12781,7 +12781,7 @@ Komunikat błędu: %1</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation>Nie można było odczytać %1:%2</translation>
+        <translation>Nie można otworzyć %1 aby przeczytać: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
