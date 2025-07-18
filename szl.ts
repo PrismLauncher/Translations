@@ -3422,7 +3422,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj Zink</translation>
     </message>
     <message>
         <source>Legacy settings</source>
@@ -6705,7 +6705,7 @@ This can be updated only using a file in %1 format
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sztartnij Minecrafta &amp;zmaksymalizowanego</translation>
     </message>
     <message>
         <source>Window &amp;height:</source>
@@ -6794,7 +6794,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj Zink</translation>
     </message>
     <message>
         <source>Game time</source>
