@@ -47,12 +47,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation type="unfinished"></translation>
+        <translation>資源伺服</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您在下載資源時遇到問題，可以將此設轉為另一個伺服器。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -1132,12 +1132,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在從 %1 獲取資源包…</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
