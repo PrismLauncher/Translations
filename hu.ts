@@ -43,12 +43,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Erőforrásszerver</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezt beállíthatod egy másik szerverre is, ha problémáid vannak az erőforrások letöltésével.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -1107,7 +1107,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation>Forráslista frissítése...</translation>
+        <translation>Erőforrásindex frissítése...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
@@ -1123,34 +1123,34 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
         <source>Failed to read the assets index!</source>
-        <translation>Nem sikerült a forráslista olvasása!</translation>
+        <translation>Nem sikerült az erőforrásindex olvasása!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Erőforrásfájlok beszerzése innen: %1…</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Forrásfájlok beszerzése a Mojangtól...</translation>
+        <translation>Erőforrásfájlok beszerzése a Mojangtól...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>Nem sikerült letölteni a következő forráslistákat:
+        <translation>Nem sikerült letölteni a következő erőforrásindexet:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="101"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>Nem sikerült letölteni a következő forrásokat:
+        <translation>Nem sikerült letölteni a következő erőforrásokat:
 %1</translation>
     </message>
 </context>
@@ -11907,12 +11907,12 @@ A frissítő nem tud tovább haladni, amíg ezt a problémát meg nem oldod.</tr
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="765"/>
         <source>No Valid Release Assets</source>
-        <translation>Nincs érvényes kiadási eszköz</translation>
+        <translation>Nincsenek érvényes kiadási erőforrások</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation>A Github kiadás %1 nem rendelkezik érvényes eszközökkel ezen a platformon: %2</translation>
+        <translation>A GitHub %1 kiadásához nincs érvényes erőforrás a(z) %2 platformon</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"/>
@@ -12658,7 +12658,7 @@ Hibaüzenet: %1</translation>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="312"/>
         <source>Assets for %1</source>
-        <translation>Assetek a követlezőhöz: %1</translation>
+        <translation>Erőforrások a következőhöz: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="78"/>
