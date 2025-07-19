@@ -44,7 +44,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished">Anda boleh menetapkan pelayan/server yang lain jika anda menghadapi masalah mengenai memuat turun aset.</translation>
+        <translation>Anda boleh menetapkan pelayan/server yang lain jika anda menghadapi masalah mengenai memuat turun aset.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
