@@ -43,7 +43,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation>Erőforrásszerver</translation>
+        <translation>Erőforrás (Assets) szerver</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
