@@ -55,12 +55,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Cервер Ассетов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы можете настроить это на другой сервер, если у вас возникнут проблемы с загрузкой ассетов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -1148,12 +1148,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Получение файлов ресурсов от %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
