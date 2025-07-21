@@ -39,12 +39,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidôr des risorsis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu puedis configurâlu suntun altri servidôr se tu âs problemis tal discjariâ lis risorsis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -896,7 +896,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daûr a otignî i files des risorsis di %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1225,7 +1225,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;La tô cartele configurade pes mods globâls e la cartele predefinide pai files discjariâts a son controladis in automatic pe presince di mods discjariadis e chestis, se a vegnin cjatadis, a vignaran copiadis te istance.&lt;/p&gt;&lt;p&gt;In câs, tu puedis strissinâ e molâ lis mods discjariadis sore di chest dialic opûr zontâ une cartele di tignî di voli, tal câs che no tu vedis discjariât lis mods intune posizion predefinide.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Fâs clic su &apos;Vierç chei che a mancjin&apos; par vierzi ducj i colegaments discjariâts tal navigadôr. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -1384,13 +1384,14 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
         <source>Multiple subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tantis sot-operazions falidis</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tantis sot operazions falidis
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
@@ -1633,12 +1634,12 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Cree colegament de istance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation type="unfinished"></translation>
+        <translation>Salve su:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
@@ -1653,17 +1654,17 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopre un account diviers di chel che al è predefinît.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
         <source>Override the default account</source>
-        <translation type="unfinished"></translation>
+        <translation>Passe sore dal account predefinît</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Specifiche un mont o un servidôr dulà jentrâ in automatic al inviament.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
