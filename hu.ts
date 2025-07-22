@@ -4261,22 +4261,22 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation>Válaszd ki azt a példányt, amelybe importálni szeretnéd ezt a forráscsomagot.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="45"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
         <translation>Válaszd ki azt a példányt, amelybe importálni szeretnéd ezt: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
         <translation>Fájl: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="48"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>Cancel</source>
         <translation>Mégsem</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -9709,66 +9709,81 @@ Valószínűleg meg kell változtatnod az elérési utat - lásd a mod weboldal�
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
+        <source>Show More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
         <source>LiteLoader</source>
         <translation>LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="137"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
+        <source>Babric</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="166"/>
+        <source>BTA (Babric)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="179"/>
         <source>Versions</source>
         <translation>Verziók</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="149"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="191"/>
         <source>Show all versions</source>
         <translation>Összes verzió megjelenítése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="165"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="207"/>
         <source>Environments</source>
         <translation>Környezetek</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="219"/>
         <source>Client</source>
         <translation>Kliens</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="184"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="226"/>
         <source>Server</source>
         <translation>Szerver</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="236"/>
         <source>Hide installed items</source>
         <translation>Telepített elemek elrejtése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="201"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="243"/>
         <source>Open source only</source>
         <translation>Csak nyílt forráskódú</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="208"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="250"/>
         <source>Release type</source>
         <translation>Kiadás típusa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="214"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="256"/>
         <source>Release</source>
         <translation>Kiadás</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="221"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="263"/>
         <source>Beta</source>
         <translation>Béta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="270"/>
         <source>Alpha</source>
         <translation>Alfa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="235"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="277"/>
         <source>Unknown</source>
         <translation>Ismeretlen</translation>
     </message>
@@ -12966,57 +12981,57 @@ MEGJEGYZÉS: Győződj meg róla, hogy a frissítés előtt biztonsági másolat
         <translation type="vanished">Egyedi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="296"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>Háttér cica (a MultiMC-ből)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="312"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11 (rajzolta: Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="313"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11 (flat edition, rajzolta: Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="299"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="314"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie (rajzolta: SympathyTea)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="32"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="25"/>
         <source>resource pack</source>
         <translation>forráscsomag</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="33"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="26"/>
         <source>texture pack</source>
         <translation>textúracsomag</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="34"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="27"/>
         <source>data pack</source>
         <translation>adatcsomag</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"/>
         <source>shader pack</source>
         <translation>shadercsomag</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="36"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="29"/>
         <source>world save</source>
         <translation>világ mentés</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="30"/>
         <source>mod</source>
         <translation>mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="31"/>
         <source>unknown</source>
         <translation>ismeretlen</translation>
     </message>

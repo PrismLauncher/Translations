@@ -4288,22 +4288,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>选择需要导入资源包的实例。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="45"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
         <translation>选择需要导入 %1 的实例。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
         <translation>文件：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="48"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
         <translation>确定</translation>
     </message>
@@ -9797,66 +9797,81 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
+        <source>Show More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
         <source>LiteLoader</source>
         <translation>LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="137"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
+        <source>Babric</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="166"/>
+        <source>BTA (Babric)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="179"/>
         <source>Versions</source>
         <translation>版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="149"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="191"/>
         <source>Show all versions</source>
         <translation>显示所有版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="165"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="207"/>
         <source>Environments</source>
         <translation>环境</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="219"/>
         <source>Client</source>
         <translation>客户端</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="184"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="226"/>
         <source>Server</source>
         <translation>服务器</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="236"/>
         <source>Hide installed items</source>
         <translation>隐藏已安装项目</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="201"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="243"/>
         <source>Open source only</source>
         <translation>仅开源</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="208"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="250"/>
         <source>Release type</source>
         <translation>发布类型</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="214"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="256"/>
         <source>Release</source>
         <translation>发布</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="221"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="263"/>
         <source>Beta</source>
         <translation>Beta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="270"/>
         <source>Alpha</source>
         <translation>Alpha</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="235"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="277"/>
         <source>Unknown</source>
         <translation>未知</translation>
     </message>
@@ -13077,57 +13092,57 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">自定义</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="296"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>背景猫（来自 MultiMC）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="312"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11（Ashtaka 绘）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="313"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11（扁平化版本，Ashtaka 绘）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="299"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="314"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie（SympathyTea 绘）</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="32"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="25"/>
         <source>resource pack</source>
         <translation>资源包</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="33"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="26"/>
         <source>texture pack</source>
         <translation>纹理包</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="34"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="27"/>
         <source>data pack</source>
         <translation>数据包</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"/>
         <source>shader pack</source>
         <translation>光影包</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="36"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="29"/>
         <source>world save</source>
         <translation>世界存档</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="30"/>
         <source>mod</source>
         <translation>Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="31"/>
         <source>unknown</source>
         <translation>未知</translation>
     </message>

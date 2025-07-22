@@ -4196,22 +4196,22 @@ Coba ulang lagi.</translation>
         <translation>Pilihlah instansi yang ingin Anda impor paket sumber daya ini ke.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="45"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
         <translation>Pilihlah instansi yang ingin Anda impor %1 ini ke.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
         <translation>Berkas: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="48"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>Cancel</source>
         <translation>Batalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
         <translation>OKE</translation>
     </message>
@@ -9344,66 +9344,81 @@ Kemungkinan besar kamu akan perlu mengubah path - silakan merujuk ke situs mod.<
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
+        <source>Show More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
         <source>LiteLoader</source>
         <translation>LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="137"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
+        <source>Babric</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="166"/>
+        <source>BTA (Babric)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="179"/>
         <source>Versions</source>
         <translation>Versi-versi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="149"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="191"/>
         <source>Show all versions</source>
         <translation>Tampilkan semua versi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="165"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="207"/>
         <source>Environments</source>
         <translation>Environmen-environmen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="219"/>
         <source>Client</source>
         <translation>Klien</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="184"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="226"/>
         <source>Server</source>
         <translation>Server</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="236"/>
         <source>Hide installed items</source>
         <translation>Sembunyikan barang-barang terinstal</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="201"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="243"/>
         <source>Open source only</source>
         <translation>Khusus sumber terbuka</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="208"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="250"/>
         <source>Release type</source>
         <translation>Jenis rilis</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="214"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="256"/>
         <source>Release</source>
         <translation>rilis</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="221"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="263"/>
         <source>Beta</source>
         <translation>Beta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="270"/>
         <source>Alpha</source>
         <translation>Alfa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="235"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="277"/>
         <source>Unknown</source>
         <translation>Tidak diketahui</translation>
     </message>
@@ -12358,57 +12373,57 @@ CATATAN: Pastikan Anda telah membackup instansi penting sebelum memperbarui, kar
         <translation type="obsolete">Kustom</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="296"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>Kucing latar belakang (dari MultiMC)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="312"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11 (digambar oleh Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="313"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11 (versi flat, digambar oleh Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="299"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="314"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie (digambar oleh SympathyTea)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="32"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="25"/>
         <source>resource pack</source>
         <translation>paket sumber daya</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="33"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="26"/>
         <source>texture pack</source>
         <translation>paket tekstur</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="34"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="27"/>
         <source>data pack</source>
         <translation>paket data</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"/>
         <source>shader pack</source>
         <translation>paket shader</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="36"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="29"/>
         <source>world save</source>
         <translation>simpanan dunia</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="30"/>
         <source>mod</source>
         <translation>mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="31"/>
         <source>unknown</source>
         <translation>tidak diketahui</translation>
     </message>

@@ -3685,22 +3685,22 @@ Please try again.</source>
         <translation>இந்த வளப் பொதியை நீங்கள் இறக்குமதி செய்ய விரும்பும் நிகழ்வைத் தேர்வுசெய்க.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="45"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
         <translation>இந்த %1 ஐ நீங்கள் இறக்குமதி செய்ய விரும்பும் உதாரணத்தைத் தேர்வுசெய்க.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
         <translation>கோப்பு: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="48"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>Cancel</source>
         <translation>ரத்துசெய்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
         <translation>சரி</translation>
     </message>
@@ -8164,66 +8164,81 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
+        <source>Show More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
         <source>LiteLoader</source>
         <translation>லிட்டிலோடர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="137"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
+        <source>Babric</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="166"/>
+        <source>BTA (Babric)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="179"/>
         <source>Versions</source>
         <translation>பதிப்புகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="149"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="191"/>
         <source>Show all versions</source>
         <translation>எல்லா பதிப்புகளையும் காட்டு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="165"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="207"/>
         <source>Environments</source>
         <translation>சூழல்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="219"/>
         <source>Client</source>
         <translation>கிளீன்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="184"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="226"/>
         <source>Server</source>
         <translation>சேவையகம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="236"/>
         <source>Hide installed items</source>
         <translation>நிறுவப்பட்ட உருப்படிகளை மறைக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="201"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="243"/>
         <source>Open source only</source>
         <translation>திறந்த மூல மட்டுமே</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="208"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="250"/>
         <source>Release type</source>
         <translation>வெளியீட்டு வகை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="214"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="256"/>
         <source>Release</source>
         <translation>வெளியீடு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="221"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="263"/>
         <source>Beta</source>
         <translation>பீட்டா</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="270"/>
         <source>Alpha</source>
         <translation>அகர</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="235"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="277"/>
         <source>Unknown</source>
         <translation>தெரியவில்லை</translation>
     </message>
@@ -10818,57 +10833,57 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>புதிய நிகழ்வை உருவாக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="296"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>பின்னணி பூனை (மல்டிம்சியிலிருந்து)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="312"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>ரோரி ஐடி 11 (அச்டகாவால் வரையப்பட்டது)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="313"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>ரோரி ஐடி 11 (தட்டையான பதிப்பு, அச்டகாவால் வரையப்பட்டது)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="299"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="314"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>TEAWIE (அனுதாபத்தால் வரையப்பட்டது)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="32"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="25"/>
         <source>resource pack</source>
         <translation>வள பேக்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="33"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="26"/>
         <source>texture pack</source>
         <translation>அமைப்பு பேக்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="34"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="27"/>
         <source>data pack</source>
         <translation>தரவு பேக்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"/>
         <source>shader pack</source>
         <translation>சேடர் பேக்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="36"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="29"/>
         <source>world save</source>
         <translation>உலக சேமிப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="30"/>
         <source>mod</source>
         <translation>மோட்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="31"/>
         <source>unknown</source>
         <translation>தெரியவில்லை</translation>
     </message>
