@@ -39,12 +39,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Strežnik s sredstvi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavite lahko drug strežnik, če imate težave s prenašanjem sredstev.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -60,7 +60,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Mod&amp;rinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod&amp;rinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"/>
@@ -70,12 +70,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="318"/>
         <source>&amp;CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="373"/>
         <source>&amp;Technic</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Technic</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -114,12 +114,12 @@
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID Technic odjemalca</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Opomba: to nastavite le, če želite dostopati do zasebnih podatkov.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
@@ -161,7 +161,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Opomba: to nastavite le, če želite dostopati do zasebnih podatkov. Za več informacij preberite &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentacijo&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -407,7 +407,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
@@ -419,7 +419,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Neznano</translation>
+        <translation>Neznano</translation>
     </message>
     <message>
         <source>Unchecked</source>
@@ -644,7 +644,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Pozdravljeni,
-Če ste novi, izberite gumb &quot;Dodaj Microsoft&quot; za dodati vaš Microsoft račun.</translation>
+Če ste tu novi, izberite gumb &quot;Dodaj Microsoft&quot;, da dodate svoj Microsoft račun.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
@@ -700,7 +700,7 @@ Prosimo nadgradi operaciski sistem in %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Do you really want to delete this account?</source>
-        <translation>Ali želite res izbrisati ta račun?</translation>
+        <translation>Ali res želite izbrisati ta račun?</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -788,17 +788,17 @@ Prosimo nadgradi operaciski sistem in %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogled mape s temami ikon.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Paket mačk:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponovno naloži vse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
@@ -808,7 +808,7 @@ Prosimo nadgradi operaciski sistem in %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation>&amp;Ikone</translation>
+        <translation>&amp;Ikone:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
@@ -839,7 +839,7 @@ Prosimo nadgradi operaciski sistem in %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="311"/>
         <source>Opaque</source>
-        <translation type="unfinished"></translation>
+        <translation>Neprosojno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="334"/>
@@ -874,7 +874,7 @@ Prosimo nadgradi operaciski sistem in %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[DEBUG] Skrivno sporočilo za razhroščevanje...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
@@ -887,7 +887,7 @@ Prosimo nadgradi operaciski sistem in %1.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="702"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta dnevnik ne more biti prikazan, saj je dolžina dnevnika presegla &amp;1 vrstic.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="908"/>
@@ -923,16 +923,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation>Posodobitev ni uspela
-Zagotovite se, da vaša namestitev deluje pred nadaljevanjem.
-Preverite Prism Launcher log v:
+        <translation>Poskus posodobitve ni uspel
+
+Preden nadaljujete, se prepričajte, da vaša namestitev deluje.
+Preverite dnevnik posodobitev za Prism Launcher na:
 %1
-za podrobnosti zadnje posodobitve.</translation>
+za podrobnosti o zadnji posodobitvi.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1103"/>
         <source>Update Failed</source>
-        <translation>Posodobitev neuspešna</translation>
+        <translation>Posodobitev ni uspela</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1127"/>
@@ -948,12 +949,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Posodobitev je bila uspešna
+
+Sedaj uporabljate %1 .
+Oglejte si dnevnik posodobitev za Prism Launcher na:
+%2
+za podrobnosti.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1135"/>
         <source>Update Succeeded</source>
-        <translation>Posodobitev uspešna</translation>
+        <translation>Posodobitev je bila uspešna</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1167"/>
@@ -962,7 +968,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Vaš direktorij /tmp je trenutno vpet z omogočeno zastavico &apos;noexec&apos;.
+Nekatere verzije Minecrafta se morda ne bodo zagnale.
+
+Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; ali nastavite JVM argument java.io.tmpdir na zapisljiv direktorij v datotečnem sistemu, kjer je zastavica &apos;exec&apos; nastavljena (npr. /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1173"/>
@@ -977,7 +987,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/Application.cpp" line="1956"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>Najdeni so bili stari podatki iz %1, vendar za %2 že imate prisotne podatke. Na žalost boste morali podatke preseliti sami. Ali želite da vas program ob naslednjem zagonu %2 opomni na neizvedene selitve podatkov?</translation>
+        <translation>Najdeni so bili stari podatki iz %1, vendar za %2 že imate prisotne podatke. Na žalost boste morali podatke preseliti sami. Ali želite, da vas program ob naslednjem zagonu %2 opomni na neizvedeno selitev podatkov?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1960"/>
@@ -1021,12 +1031,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridobivanje datotek sredstev iz %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1116,7 +1126,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="244"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>Ali ste prepričani, da želite vklopiti ta mod?</translation>
+        <translation>Ali ste prepričani, da želite omogočiti to modifikacijo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
@@ -1129,7 +1139,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Opozorilo: Ta funkcija je še vedno v izdelavi. Če naletite na težave z uvoženim paketom modov, gre morda za napako.</translation>
+        <translation>Opozorilo: Ta funkcija je še vedno v izdelavi. Če naletite na težave z uvoženim paketom modifikacij, gre morda za napako.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
@@ -1175,7 +1185,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="50"/>
         <source>Finished all authentication steps</source>
-        <translation>Končano z vsemi koraki potrditve</translation>
+        <translation>Vsi koraki overjanja so zaključeni</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="55"/>
@@ -1200,7 +1210,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Klic strežnika za overjanje je bil neuspešen.</translation>
+        <translation>Klic strežnika za overjanje je bil neuspešen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
@@ -1210,22 +1220,22 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">Med overjanjem je prišlo do napake.</translation>
+        <translation>Med overjanjem je prišlo do napake.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Overjanje neuspešno. Seja je potekla.</translation>
+        <translation>Overjanje ni uspelo. Seja je potekla.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">Overjanje neuspešno. Račun več ne obstaja.</translation>
+        <translation>Overjanje ni uspelo. Račun ne obstaja več.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
@@ -1248,27 +1258,27 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaš sistem (%1-%2) ni združljiv s samodejno namestitvijo Jave. Uporabila se bo privzeta pot Jave.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaše metainformacije so zastarele ali pa ne vsebujejo informacij, ki so potrebne, da se določi, katera namestitev Jave naj se uporabi. Uporabila se bo privzeta pot Jave.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Združljiva Java najdena na: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nobena združljiva različica Jave ni bila najdena (binarna datoteka ne obstaja). Uporabila se bo privzeta.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipa prenosa Jave ni bilo mogoče določiti!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
@@ -1278,12 +1288,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Za vaš operacijski sistem ni bila najdena nobena različica Jave: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nobena združljiva različica Jave ni bila najdena. Uporabila se bo privzeta.</translation>
     </message>
 </context>
 <context>
@@ -1291,12 +1301,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Opozorilo o novi funkciji!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
@@ -1307,12 +1317,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation>Omogoči avtomatsko prenašanje</translation>
+        <translation>Omogoči samodejno prenašanje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation>Oneomogoči avtomatsko prenašanje</translation>
+        <translation>Onemogoči samodejno prenašanje</translation>
     </message>
 </context>
 <context>
@@ -1337,7 +1347,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
         <source>Please download the missing mods.</source>
-        <translation>Prosim prenesite manjkajoče modifikacije.</translation>
+        <translation>Prosimo, prenesite manjkajoče modifikacije.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
