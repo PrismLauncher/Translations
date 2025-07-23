@@ -9720,12 +9720,12 @@ Valószínűleg meg kell változtatnod az elérési utat - lásd a mod weboldal�
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
         <source>Babric</source>
-        <translation type="unfinished"></translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="166"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished"></translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="179"/>
