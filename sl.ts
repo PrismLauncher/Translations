@@ -3857,7 +3857,7 @@ Prosimo, poskusite znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prebrskaj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
@@ -4249,7 +4249,7 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prebrskaj</translation>
     </message>
     <message>
         <source>Download Java</source>
@@ -4825,7 +4825,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prebrskaj</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
@@ -5092,7 +5092,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prebrskaj</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
@@ -5240,7 +5240,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prebrskaj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
@@ -5604,7 +5604,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="327"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="337"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prebrskaj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="277"/>
@@ -5848,7 +5848,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Orodja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
@@ -7749,7 +7749,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1049"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1054"/>
@@ -8164,7 +8164,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prebrskaj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="368"/>
@@ -8624,7 +8624,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potrdi izbris</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="128"/>
@@ -8768,7 +8768,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Preveri odvisnosti</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
@@ -8788,7 +8788,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spremeni različico</translation>
     </message>
     <message>
         <source>Change mod version</source>
@@ -8953,7 +8953,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ni nameščeno</translation>
     </message>
     <message>
         <source>New version: %1</source>
@@ -9036,7 +9036,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="143"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ni nameščeno</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="145"/>
@@ -9046,12 +9046,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Najdena ni bila nobena ustrezna različica tega vira. Za trenutno različico igre / nalagalnik modifikacij verjetno ne obstaja.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Najdena ni bila nobena ustrezna različica tega vira. Za trenutno različico igre verjetno ne obstaja.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="60"/>
@@ -9064,7 +9064,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Najdena ni bila nobena ustrezna različica te modifikacije. Za trenutno različico igre / nalagalnik modifikacij verjetno ne obstaja.</translation>
     </message>
 </context>
 <context>
@@ -9072,12 +9072,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="68"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> (različica %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="152"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ni indeksne datoteke.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="153"/>
@@ -12318,7 +12318,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="230"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ni nameščeno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="266"/>
@@ -13909,7 +13909,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="115"/>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spremeni različico</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="118"/>
