@@ -9569,12 +9569,12 @@ Valószínűleg meg kell változtatnod az elérési utat - lásd a mod weboldal�
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="67"/>
         <source>Show time &amp;playing this instance</source>
-        <translation>Példánnyal töltött idő megjelenítése</translation>
+        <translation>Példánnyal töltött &amp;idő megjelenítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="68"/>
         <source>&amp;Record time playing this instance</source>
-        <translation>Példánnyal töltött idő rögzítése</translation>
+        <translation>&amp;Példánnyal töltött idő rögzítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="73"/>
