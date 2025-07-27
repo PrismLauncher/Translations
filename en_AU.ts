@@ -39,12 +39,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Assets Server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">You can set this to another server if you have problems with downloading assets.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -1108,7 +1108,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Getting the assets files from %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -9204,7 +9204,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
         <source>Show More</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Show More</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
@@ -9214,12 +9214,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
         <source>Babric</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="166"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="179"/>
