@@ -59,12 +59,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation type="unfinished"></translation>
+        <translation>servidor de bienes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puedes hacer esto a otro servidor si tienes problemas con la descarga de los bienes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -680,8 +680,8 @@ Si acabas de llegar, puedes seleccionar los botones &quot;Añadir Microsoft&quot
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation>Bienvenido
-Si eres nuevo aquí, puedes seleccionar el botón &quot;Añadir Microsoft&quot; para vincular tu cuenta Microsoft.</translation>
+        <translation>Bienvenido/a
+Si eres nuevo aquí, puedes seleccionar el botón «Añadir Microsoft» para vincular tu cuenta Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
@@ -984,7 +984,7 @@ Compruebe el registro de actualización de Prism Launcher en:
 %7
 para más detalles sobre el último intento de actualización.
 
-Para borrar este bloqueo y continuar, seleccione &quot;Ignorar&quot; a continuación.</translation>
+Para borrar este bloqueo y continuar, selecciona «ignorar» a continuación.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1071"/>
@@ -1793,7 +1793,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation>Si &quot;copiar mundos&quot; es seleccionado, los datos del mundo serán copiados en lugar de enlazados, y no se compartirán entre instancias.</translation>
+        <translation>Si «copiar mundos» es seleccionado, los datos del mundo serán copiados en lugar de enlazados, y no se compartirán entre instancias.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
@@ -4989,7 +4989,7 @@ Asegúrese de que el valor máximo de memoria es inferior.</translation>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Haz clic en &quot;Añadir instancia&quot; para empezar.</translation>
+        <translation>Haz clic en «Añadir instancia» para empezar.</translation>
     </message>
 </context>
 <context>
@@ -5408,8 +5408,8 @@ Asegúrese de que el valor máximo de memoria es inferior.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="113"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation>Está a punto de eliminar la instalación de Java denominada «%1».
-¿Está usted seguro?</translation>
+        <translation>Estás a punto de eliminar la instalación de Java denominada «%1».
+¿Estás seguro/a?</translation>
     </message>
 </context>
 <context>
@@ -6372,7 +6372,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="399"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Advertencia&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: ¡Deshabilitar los metadatos de mods también puede deshabilitar futuras características de calidad de vida, como la actualización de mods!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Advertencia&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: ¡Deshabilitar los metadatos de los mods también puede deshabilitar futuras características de calidad de vida, como la actualización de mods!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Breeze Light</source>
@@ -6677,7 +6677,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>¿Estás seguro de que quieres usar esta ruta? Selecciona &quot;No&quot; para cerrar y no modificar la ruta de tu instancia.</translation>
+        <translation>¿Estás seguro/a de que quieres usar esta ruta? Selecciona «No» para cerrar y no modificar la ruta de tu instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="124"/>
@@ -8474,9 +8474,9 @@ This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
         <translation>Estás a punto de borrar &quot;%1&quot;.
-Esta acción es permanente y borrara completamente la instancia.
+Esta acción es permanente y borrará la instancia por completo.
 
-¿Estás seguro?</translation>
+¿Estás seguro/a?</translation>
     </message>
     <message>
         <source>There are linked instances</source>
@@ -8621,7 +8621,7 @@ Comprueba la papelera de reciclaje para restaurarlos manualmente.</translation>
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
         <translation>Error al borrar la caché de metadatos.
-Para borrar la caché de metadatos manualmente, pulse Carpetas (O) -&gt; Raíz del Launcher y, tras cerrar el Launcher, elimine la carpeta llamada «meta».
+Para borrar la caché de metadatos manualmente, pulsa Carpetas (O) -&gt; Raíz del Launcher y, tras cerrar el Launcher, elimina la carpeta llamada «meta».
 </translation>
     </message>
     <message>
@@ -8648,10 +8648,10 @@ Para borrar la caché de metadatos manualmente, pulse Carpetas (O) -&gt; Raíz d
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation>Está a punto de eliminar &quot;%1&quot;%2.
-Esto puede ser permanente y eliminará completamente la instancia.
+        <translation>Estás a punto de eliminar &quot;%1&quot;%2.
+Esto puede ser permanente y eliminará la instancia por completo.
 
-¿Está seguro?</translation>
+¿Estás seguro/a?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
@@ -11530,10 +11530,10 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation>Está a punto de borrar &quot;%1&quot;.
+        <translation>Estás a punto de borrar &quot;%1&quot;.
 Esto puede ser permanente y desaparecerá de la carpeta de registros.
 
-¿Está seguro?</translation>
+¿Estás seguro/a?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="415"/>
@@ -12105,7 +12105,7 @@ for details on the last update attempt.
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
         <translation>Esta instalación tiene un archivo de bloqueo de actualización presente en: %1
 
-Marca de tiempo: %2
+Marcador de tiempo: %2
 Actualización de la versión %3 a %4
 Ruta de instalación de destino: %5
 Ruta de datos: %6
@@ -12114,7 +12114,7 @@ Compruebe el registro de actualización de Prism Launcher en:
 %7
 para más detalles sobre el último intento de actualización.
 
-Para sobrescribir este bloqueo y proceder con esta actualización de todos modos, seleccione &quot;Ignorar&quot; a continuación.</translation>
+Para sobrescribir este bloqueo y proceder con esta actualización de todos modos, selecciona «ignorar» a continuación.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="917"/>
@@ -12596,10 +12596,10 @@ Estado de HTTP: %2</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Estas a punto de subir &quot;%1&quot; a &quot;%2&quot;.
-Deberías revisarlo de nuevo en caso de contener datos personales.
+        <translation>Estás a punto de subir &quot;%1&quot; a &quot;%2&quot;.
+Deberías revisarlo de nuevo por información personal.
 
-¿Estas seguro?</translation>
+¿Estás seguro/a?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="111"/>
@@ -12909,7 +12909,7 @@ There are dedicated boxes for these in the settings (Java tab, in the Memory gro
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
         <translation>Intentaste configurar la opción de memoria JVM manualmente (usando &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; o &quot;-Xms&quot;).
 Hay casillas dedicadas para estas configuraciones en las opciones (Pestaña Java, en el grupo &quot;Memoria&quot; en la parte superior).
-Este mensaje será mostrado hasta que las quites de los argumentos JVM.</translation>
+Este mensaje se mostrará hasta que las quites de los argumentos JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="53"/>
@@ -12921,7 +12921,7 @@ Este mensaje será mostrado hasta que las quites de los argumentos JVM.</transla
         <location filename="src/launcher/JavaCommon.cpp" line="58"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation>Has intentado pasar la versión requerida a la JVM (usando &quot;-version:xxx&quot;). Esto no es seguro y no se permite.
+        <translation>Has intentado pasar el argumento de la versión requerida a la JVM (usando &quot;-version:xxx&quot;). Esto no es seguro y no se permite.
 Se mostrará este mensaje hasta que lo quites de los argumentos de la JVM.</translation>
     </message>
     <message>
@@ -14944,10 +14944,10 @@ Versión instalada actualmente: %1</translation>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>Está a punto de eliminar &quot;%1&quot;.
+        <translation>Estás a punto de eliminar &quot;%1&quot;.
 Esto es permanente y el servidor desaparecerá de su lista para siempre (MUCHO TIEMPO).
 
-¿Está usted seguro?</translation>
+¿Estás seguro/a?</translation>
     </message>
 </context>
 <context>
@@ -15318,8 +15318,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="362"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
-        <translation>Está a punto de borrar &quot;%1&quot;.
-¿Está seguro?</translation>
+        <translation>Estás a punto de borrar &quot;%1&quot;.
+¿Estás seguro/a?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="379"/>
@@ -15654,17 +15654,17 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="87"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation>No se pudo encontrar &quot;version.json&quot; dentro de &quot;bin/modpack.jar&quot;, pero la versión de Minecraft es desconocida</translation>
+        <translation>No se pudo encontrar «version.json» dentro de «bin/modpack.jar», pero la versión de Minecraft es desconocida</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="101"/>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
-        <translation>No se pudo abrir &quot;forgeversion.properties&quot;</translation>
+        <translation>No se pudo abrir «forgeversion.properties»</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="115"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
-        <translation>¡&quot;forgeversion.properties&quot; no válido!</translation>
+        <translation>¡«forgeversion.properties» no válido!</translation>
     </message>
     <message>
         <source>Unable to find a &quot;version.json&quot;!</source>
@@ -15674,14 +15674,14 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="148"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
-        <translation>No se pudo entender &quot;version.json&quot;:
+        <translation>No se pudo entender «version.json»:
 falta inheritsFrom</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="204"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
-        <translation>No se pudo entender &quot;version.json&quot;:
+        <translation>No se pudo entender «version.json»:
 </translation>
     </message>
 </context>
@@ -16604,10 +16604,10 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation>Está a punto de eliminar &quot;%1&quot;.
+        <translation>Estás a punto de eliminar &quot;%1&quot;.
 Esto es permanente y eliminará por completo el componente personalizado.
 
-¿Está seguro?</translation>
+¿Estás seguro/a?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"/>
@@ -16712,9 +16712,9 @@ This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
         <translation>Estás a punto de revertir &quot;%1&quot;.
-Esto es permanente y revertirá completamente sus personalizaciones.
+Esto es permanente y revertirá sus personalizaciones por completo.
 
-¿Está seguro?</translation>
+¿Estás seguro/a?</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -17214,9 +17214,9 @@ The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>Estás a punto de borrar &quot;%1&quot;.
-El mundo puede desaparecer para siempre (POR MUCHO TIEMPO).
+El mundo puede desaparecer para siempre (MUCHO TIEMPO).
 
-¿Está usted seguro?</translation>
+¿Estás seguro/a?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="224"/>
