@@ -8219,7 +8219,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="55"/>
         <source>Minecraft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minecraft</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
@@ -8827,12 +8827,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">เปิด</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">รูปภาพ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
@@ -9910,7 +9910,7 @@ Please update %1!</source>
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ค้นหา</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="49"/>
@@ -12255,7 +12255,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">เปิด</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
@@ -12327,12 +12327,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">เปิด</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">รูปภาพ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
@@ -13788,12 +13788,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">เปิด</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">รูปภาพ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
