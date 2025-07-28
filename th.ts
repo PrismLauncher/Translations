@@ -4402,7 +4402,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation>หน่วยความจำ&amp;y</translation>
+        <translation>&amp;หน่วยความจำ</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
