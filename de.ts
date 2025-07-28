@@ -2418,8 +2418,8 @@ Sind Sie sicher, dass Sie das tun möchten?</translation>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="204"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation>Du bist dabei, die Metadaten von %1 Datenpaketen zu entfernen.
-Bist du sicher?</translation>
+        <translation>Du bist dabei, die Metadaten für %1 Datenpakete zu entfernen.
+Bist du dir sicher?</translation>
     </message>
 </context>
 <context>
@@ -9370,7 +9370,7 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"/>
         <source>Game &amp;Time</source>
-        <translation>Spiel&amp;zeit</translation>
+        <translation>Spiel &amp; Zeit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
