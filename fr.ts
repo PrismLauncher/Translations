@@ -2670,7 +2670,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Nom:</translation>
+        <translation>&amp;Nom:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
@@ -6248,7 +6248,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="187"/>
         <source>Set to 0 to only check on launch</source>
-        <translation type="unfinished">Mettre à 0 pour vérifier qu&apos;au lancement</translation>
+        <translation>Mettre à 0 pour ne vérifier qu&apos;au lancement</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="190"/>
@@ -7845,7 +7845,7 @@ Raison&#xa0;:
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
-        <translation type="unfinished">Mettre en ligne les journaux du launcher sur le fournisseur de journaux sélectionné</translation>
+        <translation type="unfinished">Voir les journaux d&apos;erreur courants et précédents</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
