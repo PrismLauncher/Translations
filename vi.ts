@@ -69,7 +69,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"/>
         <source>Use None</source>
-        <translation>Không sử dụng gì</translation>
+        <translation>Không sử dụng</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="318"/>
