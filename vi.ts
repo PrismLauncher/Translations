@@ -43,17 +43,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Tài nguyên máy chủ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có thể cài đặt điều này ở máy chủ khác Nếu bạn có vấn đề với việc tải tài nguyên.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>&amp;API Keys</source>
-        <translation>&amp;Mã API</translation>
+        <translation>&amp;Khóa API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="205"/>
@@ -812,29 +812,29 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished">Xem thư mục chứa chú mèo.</translation>
+        <translation>Xem thư mục chứa chú mèo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Mở thư mục</translation>
+        <translation>Mở thư mục</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished">Xem tiện ích của thư mục chủ đề.</translation>
+        <translation>Xem tiện ích của thư mục chủ đề.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished">Xem biểu tượng của thư mục chủ đề.</translation>
+        <translation>Xem biểu tượng của thư mục chủ đề.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cat Pack:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
@@ -849,7 +849,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished">&amp;Biểu tượng:</translation>
+        <translation>&amp;Biểu tượng:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
@@ -1128,12 +1128,12 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang lấy tài nguyên từ %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1485,12 +1485,12 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
         <source>Skip</source>
-        <translation type="unfinished">Bỏ qua</translation>
+        <translation>Bỏ qua</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Thư mục mods toàn cầu đã được cấu hình và thư mục tải xuống mặc định của bạn sẽ được tự động kiểm tra để tìm các mod đã tải xuống và chúng sẽ được sao chép vào các phiên bản nếu được tìm thấy.&lt;/p&gt;&lt;p&gt;Bạn có thể kéo và thả các mod đã tải xuống vào hộp thoại này hoặc thêm một thư mục để theo dõi nếu bạn không tải các mod về vị trí mặc định.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Nhấn &quot;Open Missing&quot; để mở tất cả các liên kết tải xuống trong trình duyệt.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -1965,7 +1965,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Máy tính</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="89"/>
@@ -1985,12 +1985,12 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="113"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (đang sử dụng)</translation>
+        <translation>%1 (đang sử dụng)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="180"/>
         <source>%1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="182"/>
@@ -2000,7 +2000,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="197"/>
         <source>instance</source>
-        <translation type="unfinished"></translation>
+        <translation>phiên bản</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="201"/>
@@ -2038,7 +2038,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ghi đè &amp;Cài đặt Toàn cục</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -2048,7 +2048,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>P&amp;ost-exit Command</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;ost-exit Command</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
@@ -2059,7 +2059,7 @@ Một số phiên bản Minecraft có thể không khởi động.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lệnh trước khi khởi chạy sẽ chạy trước khi bản cài đặt chạy, và lệnh sau khi thoát sẽ chạy sau khi bản cài đặt thoát.&lt;/p&gt;&lt;p&gt;Cả hai lệnh này sẽ được chạy trong thư mục làm việc của trình khởi chạy với biến môi trường bổ sung:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Tên của bản cài đặt&lt;/li&gt;&lt;li&gt;$INST_ID - ID của bản cài đặt (tên thư mục của nó)&lt;/li&gt;&lt;li&gt;$INST_DIR - đường dẫn tuyệt đối của bản cài đặt&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - đường dẫn tuyệt đối của Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java nhị phân được sử dụng để khởi chạy&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - tham số dòng lệnh được sử dụng để khởi chạy (cảnh báo: sẽ không hoạt động chính xác nếu đối số số chứa dấu cách)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Lệnh wrapper cho phép khởi chạy bằng chương trình wrapper bổ sung (như &apos;optirun&apos; trên Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lệnh &quot;Pre-launch&quot; chạy trước khi khởi tạo phiên bản và lệnh &quot;Post-exit&quot; chạy sau khi phiên bản thoát.&lt;/p&gt;&lt;p&gt;Cả hai lệnh này sẽ được chạy trong thư mục làm việc của trình khởi chạy với các biến môi trường bổ sung:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Tên của phiên bản&lt;/li&gt;&lt;li&gt;$INST_ID - ID của phiên bản (tên thư mục của nó)&lt;/li&gt;&lt;li&gt;$INST_DIR - đường dẫn tuyệt đối của phiên bản&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - đường dẫn tuyệt đối của Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - tệp nhị phân Java được sử dụng để khởi chạy&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - tham số dòng lệnh được sử dụng để khởi chạy (cảnh báo: sẽ không hoạt động chính xác nếu tham số chứa khoảng trắng)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Lệnh &quot;Wrapper&quot; cho phép khởi chạy bằng cách sử dụng một chương trình bao bọc bổ sung (như &apos;optirun&apos; trên Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -6257,7 +6257,7 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="267"/>
         <source>&amp;Skins:</source>
-        <translation>&amp;Skins:</translation>
+        <translation>&amp;Trang phục:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="369"/>
@@ -6417,7 +6417,7 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>Hiện bảng console khi trò chơi đang chạy (&amp;R)?</translation>
+        <translation>Hiện bảng console khi trò chơi &amp;đang chạy</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
@@ -6427,7 +6427,7 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>Mở console khi game gặp phải sự cố (&amp;C)?</translation>
+        <translation>Mở console khi game gặp phải &amp;sự cố</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
@@ -6979,7 +6979,7 @@ Lý do:
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="247"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="69"/>
         <source>Minecraft Log</source>
-        <translation>Minecraft Log</translation>
+        <translation>Nhật ký Minecraft</translation>
     </message>
 </context>
 <context>
@@ -9102,7 +9102,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
@@ -9200,7 +9200,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="73"/>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Cảnh báo&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Tùy chọn tối đa hóa không được hỗ trợ đầy đủ trên phiên bản Minecraft này.&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="135"/>
@@ -9307,7 +9307,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
@@ -10825,7 +10825,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="90"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="315"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Không thể hiển thị văn bản nhật ký này khi độ dài nhật ký vượt quá %1 dòng.</translation>
+        <translation>Không thể hiển thị văn bản nhật ký này khi độ dài nhật ký vượt quá %1 dòng.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"/>
@@ -11672,7 +11672,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="280"/>
         <source>The server responded with the following error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Máy chủ phản hồi với lỗi sau:</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
@@ -13211,7 +13211,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="40"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation type="unfinished">gói hình ảnh</translation>
+        <translation>texture pack</translation>
     </message>
 </context>
 <context>
@@ -14400,7 +14400,7 @@ Bạn có chắc?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="117"/>
         <source>Reset Skin</source>
-        <translation>Reset Skin</translation>
+        <translation>Khôi phục trang phục</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="131"/>
@@ -14495,7 +14495,7 @@ Bạn có chắc?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="300"/>
         <source>Reset skin</source>
-        <translation>Reset skin</translation>
+        <translation>Khôi phục skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="304"/>
@@ -15199,7 +15199,7 @@ Bạn có chắc?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished">Ngoại hình</translation>
+        <translation>Ngoại hình</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
