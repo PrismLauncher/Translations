@@ -884,12 +884,12 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="215"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="238"/>
         <source>Fit</source>
-        <translation>Ajustar</translation>
+        <translation>Encajar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="243"/>
         <source>Fill</source>
-        <translation>Rellenar</translation>
+        <translation>Llenar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="248"/>
