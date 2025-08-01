@@ -836,7 +836,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation>Ver la carpeta de los gatos.</translation>
+        <translation>Ver paquete de Gatos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
@@ -1152,12 +1152,12 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Obteniendo los archivos assets desde %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -9800,7 +9800,7 @@ Es muy probable que tengas que cambiar la ruta - consulta el sitio web del mod.<
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
         <source>Show More</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar más</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
@@ -9810,12 +9810,12 @@ Es muy probable que tengas que cambiar la ruta - consulta el sitio web del mod.<
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
         <source>Babric</source>
-        <translation type="unfinished"></translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="166"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished"></translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="179"/>
