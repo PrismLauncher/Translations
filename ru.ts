@@ -5581,7 +5581,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation>При включенном параметре лаунчер не будет предлагать выбрать версию Java, если она не найдена при запуске.</translation>
+        <translation>Если этот параметр включен, лаунчер не предложит вам выбрать версию Java, если она не найдена при запуске.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="156"/>
