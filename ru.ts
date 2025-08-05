@@ -14469,7 +14469,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="87"/>
         <source>Checking for updates</source>
-        <translation>Проверка обновлений</translation>
+        <translation>Проверяем обновления</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="108"/>
