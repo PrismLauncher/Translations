@@ -853,33 +853,37 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
         <translation>fonte de letra do console:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="215"/>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="238"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
+        <source>Cat Scaling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
         <source>Fit</source>
         <translation>Encaixar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="243"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="363"/>
         <source>Fill</source>
         <translation>Encher</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="248"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="368"/>
         <source>Stretch</source>
         <translation>Esticar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="256"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
         <translation>Opacidade do gato</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="311"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
         <source>Opaque</source>
         <translation>Opaco</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="334"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
         <source>Transparent</source>
         <translation>Transparente</translation>
     </message>
@@ -6048,7 +6052,7 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <translation>Definições de Atualização</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="224"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
         <translation>Verificar se há atualizações ao iniciar</translation>
@@ -6062,22 +6066,22 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <translation type="vanished">Nenhum canal selecionado.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="234"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
         <source>Folders</source>
         <translation>Pastas</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
         <source>I&amp;nstances:</source>
         <translation>I&amp;nstâncias:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="243"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="260"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="287"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="320"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="327"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="337"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="248"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="292"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="332"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="342"/>
         <source>Browse</source>
         <translation>Procurar</translation>
     </message>
@@ -6092,87 +6096,87 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <translation>Renomeação de Instância</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
-        <source>Ask what to do with the folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
         <source>Always rename the folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="129"/>
-        <source>Never rename the folder—only the displayed name</source>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
+        <source>Ask what to do</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
+        <source>Never rename the folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
         <source>Updater</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="174"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>How Often?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="187"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Set to 0 to only check on launch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="190"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>On Launch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="193"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="198"/>
         <source> hours</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="196"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
         <source>Every </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="277"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
         <source>&amp;Mods:</source>
         <translation>&amp;Mods:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="350"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
         <source>&amp;Icons:</source>
         <translation>&amp;Ícones:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="447"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="452"/>
         <source>Log History &amp;Limit:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="492"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
         <source>Tasks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="555"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="560"/>
         <source>Retry Limit:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="562"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="567"/>
         <source>Concurrent Download Limit:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="572"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="577"/>
         <source>HTTP Timeout:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="598"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="603"/>
         <source>Concurrent Task Limit:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6239,7 +6243,7 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <translation>Desativar utilização de metadados para mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="399"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Aviso&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Desativar metadados dos mods pode desativar algumas funcionalidades como atualizações de mods!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -6258,7 +6262,7 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <translation type="obsolete">Cores</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="294"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
         <source>&amp;Downloads:</source>
         <translation>&amp;Transferências:</translation>
     </message>
@@ -6295,12 +6299,12 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <translation type="vanished">Sempre</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="267"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
         <source>&amp;Skins:</source>
         <translation>&amp;Skins:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="369"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="374"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
         <translation>Quando ativo, iremos procurar não só a pasta de transferências mas também pastas dentro desta (por exemplo, na procura de mods bloqueados no CurseForge).</translation>
     </message>
@@ -6338,7 +6342,7 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <translation>Número de downloads simultâneos</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="569"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
         <source>Seconds to wait until the requests are terminated</source>
         <translation>Segundos para aguardar até que os pedidos sejam terminados</translation>
     </message>
@@ -6347,7 +6351,7 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <translation>Tempo de espera para pedidos HTTP</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="548"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
         <source>s</source>
         <translation>s</translation>
     </message>
@@ -6356,7 +6360,7 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <translation>Números de tentativas manuais</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="379"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
         <translation>Quando ativado, moverá os recursos bloqueados em vez de os copiar.</translation>
     </message>
@@ -6365,7 +6369,7 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <translation type="vanished">Mover recursos bloqueados</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="250"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Java:</source>
         <translation>&amp;Java:</translation>
     </message>
@@ -6390,63 +6394,63 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <translation>Ferramentas</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
         <translation>A barra de menu é mais amigável em interações baseadas em teclados.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
         <translation>&amp;Trocar barra de ferramentas por barra de menus</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="363"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>Mods and Modpacks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="372"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
         <source>Check &amp;subfolders for blocked mods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="382"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>Move blocked mods instead of copying them</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="392"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
         <source>Keep track of mod metadata</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="412"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="417"/>
         <source>Install dependencies automatically</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="419"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="422"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Suggest to update an existing instance during modpack installation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="432"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
         <source>Console</source>
         <translation>Consola</translation>
     </message>
@@ -6475,13 +6479,13 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <translation>&amp;Limite do histórico</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="482"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>&amp;Parar o registo no log quando ultrapassada a quantidade de linhas</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="463"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="468"/>
         <source> lines</source>
         <translation> linhas</translation>
     </message>
@@ -6491,22 +6495,22 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <translation>&amp;Fonte da consola</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="102"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
         <source>Instance Folder</source>
         <translation>Pasta da instância</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="110"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="101"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
         <translation>Estás a tentar especificar uma pasta de instância em que o caminho contém um &apos;!&apos;. O Java é conhecido por ter problemas com isto, as instâncias (provavelmente) não iniciarão!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="106"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
         <translation>Queres realmente usar este caminho? Selecionar &quot;não&quot; irá fechar este diálogo e o caminho da instância não será alterado.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="124"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
         <source>You&apos;re trying to specify an instance folder which was granted temporarily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
@@ -6521,32 +6525,32 @@ Isto é conhecido por causar problemas. Depois de reniciares o launcher talvez p
 Garantindo %1 acesso a essa pasta por via de Flatseal é recomendado.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="122"/>
         <source>Do you want to proceed anyway?</source>
         <translation>Queres proceder de qualquer maneira?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="136"/>
         <source>Icons Folder</source>
         <translation>Pasta dos ícones</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="147"/>
         <source>Mods Folder</source>
         <translation>Pasta dos mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="167"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="158"/>
         <source>Downloads Folder</source>
         <translation>Pasta de Transferências</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"/>
         <source>Java Folder</source>
         <translation>Pasta do Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
         <translation>Pasta de Skins</translation>
     </message>

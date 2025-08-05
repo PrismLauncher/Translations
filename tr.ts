@@ -869,33 +869,37 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
         <translation>Konsol Fontu:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="215"/>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="238"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
+        <source>Cat Scaling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
         <source>Fit</source>
         <translation>Uyumlu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="243"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="363"/>
         <source>Fill</source>
         <translation>Doldur</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="248"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="368"/>
         <source>Stretch</source>
         <translation>Uzat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="256"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
         <translation>Kedi Opaklığı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="311"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
         <source>Opaque</source>
         <translation>Opak</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="334"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
         <source>Transparent</source>
         <translation>Şeffaf</translation>
     </message>
@@ -6154,7 +6158,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation>Güncelleme Ayarları</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="224"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
         <translation>Başlangıçta güncellemeleri denetle</translation>
@@ -6168,22 +6172,22 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation type="vanished">Kanal seçilmedi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="234"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
         <source>Folders</source>
         <translation>Klasörler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
         <source>I&amp;nstances:</source>
         <translation>P&amp;rofiller:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="243"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="260"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="287"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="320"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="327"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="337"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="248"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="292"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="332"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="342"/>
         <source>Browse</source>
         <translation>Göz At</translation>
     </message>
@@ -6198,87 +6202,95 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation>Profil Yeniden Adlandırılması</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
         <source>Ask what to do with the folder</source>
-        <translation>Klasör ile ne yapılacağını sor.</translation>
+        <translation type="vanished">Klasör ile ne yapılacağını sor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
         <source>Always rename the folder</source>
         <translation>Klasörü her zaman yeniden adlandır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="129"/>
         <source>Never rename the folder—only the displayed name</source>
-        <translation>Klasörün adı asla değiştirilmeyecek — yalnızca görüntülenen ad</translation>
+        <translation type="vanished">Klasörün adı asla değiştirilmeyecek — yalnızca görüntülenen ad</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
+        <source>Ask what to do</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
+        <source>Never rename the folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
         <source>Updater</source>
         <translation>Güncelleyici</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="174"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>How Often?</source>
         <translation>Ne Sıklıkla?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="187"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Set to 0 to only check on launch</source>
         <translation>Sadece başlatıldığında kontrol etmek için 0 olarak ayarla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="190"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>On Launch</source>
         <translation>Başlatıldığında</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="193"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="198"/>
         <source> hours</source>
         <translation> saatler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="196"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
         <source>Every </source>
         <translation>Hepsi </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="277"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
         <source>&amp;Mods:</source>
         <translation>&amp;Modlar:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="350"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
         <source>&amp;Icons:</source>
         <translation>&amp;İkonlar:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="447"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="452"/>
         <source>Log History &amp;Limit:</source>
         <translation>Günlük Geçmişi &amp;Sınır:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="492"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
         <source>Tasks</source>
         <translation>Görevler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="555"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="560"/>
         <source>Retry Limit:</source>
         <translation>Deneme Limiti:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="562"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="567"/>
         <source>Concurrent Download Limit:</source>
         <translation>Eşzamanlı İndirme Limiti:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="572"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="577"/>
         <source>HTTP Timeout:</source>
         <translation>HTTP Zaman Aşımı:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="598"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="603"/>
         <source>Concurrent Task Limit:</source>
         <translation>Eşzamanlı Görev Limiti:</translation>
     </message>
@@ -6345,7 +6357,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation>Modlar için meta veri kullanmayı devre dışı bırak</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="399"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Uyarı&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Mod meta verisini devre dışı bırakmak, gelecek olan mod güncellemesi gibi yaşam kalitesini arttıracak özellikleri de devre dışı bırakabilir!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -6396,7 +6408,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation type="vanished">Rory ID 11 (düz versiyonu, Ashtaka çizdi)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="294"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
         <source>&amp;Downloads:</source>
         <translation>&amp;İndirilenler:</translation>
     </message>
@@ -6433,12 +6445,12 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation type="vanished">Her zaman</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="267"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
         <source>&amp;Skins:</source>
         <translation>&amp;Karakterler:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="369"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="374"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
         <translation>Etkinleştirildiğinde, indirilenler klasörüne ek olarak, alt klasörleri de kaynak ararken aranacaktır (örneğin, CurseForge&apos;da engellenen modları ararken).</translation>
     </message>
@@ -6476,7 +6488,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation>Eşzamanlı indirme sayısı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="569"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
         <source>Seconds to wait until the requests are terminated</source>
         <translation>İstekler sonlanana kadar beklenecek saniye</translation>
     </message>
@@ -6485,7 +6497,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation>HTTP istekleri için zaman aşımı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="548"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
         <source>s</source>
         <translation>sn</translation>
     </message>
@@ -6494,7 +6506,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation>El ile yeniden deneme sayısı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="379"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
         <translation>Aktif edildiğinde, engellenmiş kaynakları kopyalamak yerine taşıyacaktır.</translation>
     </message>
@@ -6503,7 +6515,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation type="vanished">Engellenmiş kaynakları taşı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="250"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Java:</source>
         <translation>&amp;Java:</translation>
     </message>
@@ -6528,63 +6540,63 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation>Aletler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
         <translation>Menü çubuğu klavye kullanımı için daha kolay.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
         <translation>&amp;Araç çubuğunu menü çubuğuyla değiştir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="363"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>Mods and Modpacks</source>
         <translation>Modlar ve Mod Paketleri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="372"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
         <source>Check &amp;subfolders for blocked mods</source>
         <translation>Engellenmiş modlar için alt klasörleri kontrol et</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="382"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>Move blocked mods instead of copying them</source>
         <translation>Engellenen modları kopyalamak yerine taşı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <translation>Modlar için mod sağlayıcıları (Modrinth veya CurseForge gibi) tarafından sağlanan sürüm bilgilerini saklayın.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="392"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
         <source>Keep track of mod metadata</source>
         <translation>Mod meta verilerini takip et</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
         <translation>Mod gereksinimlerini otomatik olarak algıla, yükle ve güncelle.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="412"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="417"/>
         <source>Install dependencies automatically</source>
         <translation>Gereksinimleri otomatik yükle</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="419"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
         <translation>Yeni bir mod paketi profili oluştururken mevcut profili güncellemeyi öner.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="422"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Suggest to update an existing instance during modpack installation</source>
         <translation>Mod paketi kurulumu sırasında mevcut profili güncellemeyi öner</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="432"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
         <source>Console</source>
         <translation>Konsol</translation>
     </message>
@@ -6613,13 +6625,13 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation>&amp;Geçmiş sınırı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="482"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>&amp;Kayıt taştığında kaydı durdur</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="463"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="468"/>
         <source> lines</source>
         <translation> satırlar</translation>
     </message>
@@ -6629,22 +6641,22 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation>Konsol yazı tipi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="102"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
         <source>Instance Folder</source>
         <translation>Profil Klasörü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="110"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="101"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
         <translation>Dizin yolunda en az bir &quot;!&quot; işareti içeren bir profil klasörü belirlemeye çalışıyorsunuz. Java, bunun gibi durumlarda sorun çıkarmasıyla bilinir; eğer durum buysa profiliniz (muhtemelen) başlamayacak!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="106"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
         <translation>Bu dizin yolunu kullanmak istediğinizden emin misiniz? &quot;Hayır&quot;ı seçmek, bu uyarıyı kapatacak ve profil dizin yolunu değiştirmeyecek.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="124"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
         <source>You&apos;re trying to specify an instance folder which was granted temporarily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
@@ -6659,32 +6671,32 @@ Bunun problemlere yol açtığı bilinmekte. Yeniden başlatmadan sonra başlat�
 Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="122"/>
         <source>Do you want to proceed anyway?</source>
         <translation>Hala devam etmek istiyor musun?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="136"/>
         <source>Icons Folder</source>
         <translation>Simgeler Klasörü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="147"/>
         <source>Mods Folder</source>
         <translation>Modlar Klasörü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="167"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="158"/>
         <source>Downloads Folder</source>
         <translation>İndirilenler Klasörü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"/>
         <source>Java Folder</source>
         <translation>Java Dosyaysı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
         <translation>Dış Görünümler Klasörü</translation>
     </message>

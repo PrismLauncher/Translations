@@ -865,33 +865,37 @@ Please update both your operating system and %1.</source>
         <translation>콘솔 글꼴:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="215"/>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="238"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
+        <source>Cat Scaling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
         <source>Fit</source>
         <translation>맞춤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="243"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="363"/>
         <source>Fill</source>
         <translation>채우기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="248"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="368"/>
         <source>Stretch</source>
         <translation>확대</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="256"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
         <translation>고양이 불투명도</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="311"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
         <source>Opaque</source>
         <translation>불투명함</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="334"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
         <source>Transparent</source>
         <translation>투명함</translation>
     </message>
@@ -6144,7 +6148,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>업데이트 설정</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="224"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
         <translation>자동으로 업데이트 확인</translation>
@@ -6158,22 +6162,22 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">선택된 채널이 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="234"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
         <source>Folders</source>
         <translation>폴더</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
         <source>I&amp;nstances:</source>
         <translation>인스턴스(&amp;N):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="243"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="260"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="287"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="320"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="327"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="337"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="248"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="292"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="332"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="342"/>
         <source>Browse</source>
         <translation>찾아보기</translation>
     </message>
@@ -6188,87 +6192,95 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>인스턴스 이름 바꾸기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
         <source>Ask what to do with the folder</source>
-        <translation>폴더로 할 작업 묻기</translation>
+        <translation type="vanished">폴더로 할 작업 묻기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
         <source>Always rename the folder</source>
         <translation>항상 폴더 이름 바꾸기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="129"/>
         <source>Never rename the folder—only the displayed name</source>
-        <translation>폴더의 이름을 바꾸지 않고 표시된 이름만 변경</translation>
+        <translation type="vanished">폴더의 이름을 바꾸지 않고 표시된 이름만 변경</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
+        <source>Ask what to do</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
+        <source>Never rename the folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
         <source>Updater</source>
         <translation>업데이터</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="174"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>How Often?</source>
         <translation>업데이트 확인 간격</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="187"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Set to 0 to only check on launch</source>
         <translation>실행 시에만 확인하려면 0으로 설정</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="190"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>On Launch</source>
         <translation>실행 시</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="193"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="198"/>
         <source> hours</source>
         <translation> 시간마다</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="196"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
         <source>Every </source>
         <translation>매 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="277"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
         <source>&amp;Mods:</source>
         <translation>모드(&amp;M):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="350"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
         <source>&amp;Icons:</source>
         <translation>아이콘(&amp;I):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="447"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="452"/>
         <source>Log History &amp;Limit:</source>
         <translation>로그 기록 제한(&amp;L):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="492"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
         <source>Tasks</source>
         <translation>작업</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="555"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="560"/>
         <source>Retry Limit:</source>
         <translation>재시도 제한:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="562"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="567"/>
         <source>Concurrent Download Limit:</source>
         <translation>동시 다운로드 제한:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="572"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="577"/>
         <source>HTTP Timeout:</source>
         <translation>HTTP 타임아웃:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="598"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="603"/>
         <source>Concurrent Task Limit:</source>
         <translation>동시 작업 제한:</translation>
     </message>
@@ -6335,7 +6347,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>모드 메타데이터 사용 안 함</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="399"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;경고&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: 모드 메타데이터를 비활성화하면 곧 추가될 모드 업데이트 같은 편리한 기능을 사용하지 못합니다! &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -6366,7 +6378,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">Rory ID 11 (Ashtaka가 그림)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="294"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
         <source>&amp;Downloads:</source>
         <translation>다운로드(&amp;D):</translation>
     </message>
@@ -6375,7 +6387,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="369"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="374"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
         <translation>이 기능을 활성화하면 리소스를 찾을 때 다운로드 폴더 외에 해당 하위 폴더도 검색됩니다(예: CurseForge에서 차단된 모드를 찾을 때).</translation>
     </message>
@@ -6421,7 +6433,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">항상</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="267"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
         <source>&amp;Skins:</source>
         <translation>스킨(&amp;S):</translation>
     </message>
@@ -6450,7 +6462,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>동시 다운로드 수</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="569"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
         <source>Seconds to wait until the requests are terminated</source>
         <translation>요청을 종료할 때까지 기다리는 시간(초)</translation>
     </message>
@@ -6459,7 +6471,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>HTTP 요청 제한 시간</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="548"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
         <source>s</source>
         <translation>초</translation>
     </message>
@@ -6468,7 +6480,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>수동 재시도 횟수</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="379"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
         <translation>이 기능을 활성화하면 차단된 리소스를 복사하는 대신 이동합니다.</translation>
     </message>
@@ -6477,7 +6489,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">차단된 리소스 이동</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="250"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Java:</source>
         <translation>Java(&amp;J):</translation>
     </message>
@@ -6502,63 +6514,63 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>도구</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
         <translation>메뉴 바는 키보드 기반 상호작용에 친화적입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
         <translation>도구 모음을 메뉴 바로 변경(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="363"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>Mods and Modpacks</source>
         <translation>모드 및 모드 팩</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="372"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
         <source>Check &amp;subfolders for blocked mods</source>
         <translation>차단된 모드가 있는지 하위 폴더 확인(&amp;S)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="382"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>Move blocked mods instead of copying them</source>
         <translation>차단된 모드를 복사하는 대신 이동</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <translation>모드 제공자(예: Modrinth 또는 CurseForge)가 모드를 위하여 제공한 버전 정보를 저장합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="392"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
         <source>Keep track of mod metadata</source>
         <translation>모드 메타데이터 추적</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
         <translation>모드 종속성을 자동으로 감지, 설치 및 업데이트합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="412"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="417"/>
         <source>Install dependencies automatically</source>
         <translation>종속성 자동 설치</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="419"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
         <translation>새 모드 팩 인스턴스를 만들 때, 대신 기존 인스턴스를 업데이트할 것을 제안합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="422"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Suggest to update an existing instance during modpack installation</source>
         <translation>모드 팩 설치 중 기존 인스턴스 업데이트 제안하기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="432"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
         <source>Console</source>
         <translation>콘솔</translation>
     </message>
@@ -6587,13 +6599,13 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>히스토리 길이 제한(&amp;H)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="482"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>로그가 오버플로될 때 로깅 멈추기(&amp;S)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="463"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="468"/>
         <source> lines</source>
         <translation> 줄</translation>
     </message>
@@ -6603,22 +6615,22 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>콘솔 창 글꼴(&amp;F)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="102"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
         <source>Instance Folder</source>
         <translation>인스턴스 폴더</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="110"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="101"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
         <translation>&apos;!&apos;를 포함하는 경로로 인스턴스 경로를 지정하려 하고 있습니다. 이 경우 Java가 문제를 일으켜 인스턴스가 시작하지 않을 수 있습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="106"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
         <translation>정말로 이 경로를 쓰시겠습니까? &quot;아니요&quot;를 선택하면 닫고 인스턴스 경로를 변경하지 않을 것입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="124"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
         <source>You&apos;re trying to specify an instance folder which was granted temporarily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
@@ -6633,32 +6645,32 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="122"/>
         <source>Do you want to proceed anyway?</source>
         <translation>그래도 계속하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="136"/>
         <source>Icons Folder</source>
         <translation>아이콘 폴더</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="147"/>
         <source>Mods Folder</source>
         <translation>모드 폴더</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="167"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="158"/>
         <source>Downloads Folder</source>
         <translation>다운로드 폴더</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"/>
         <source>Java Folder</source>
         <translation>Java 폴더</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
         <translation>스킨 폴더</translation>
     </message>

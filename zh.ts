@@ -873,33 +873,37 @@ Please update both your operating system and PolyMC.</source>
         <translation>控制台字体：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="215"/>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="238"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
+        <source>Cat Scaling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
         <source>Fit</source>
         <translation>适应</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="243"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="363"/>
         <source>Fill</source>
         <translation>填充</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="248"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="368"/>
         <source>Stretch</source>
         <translation>拉伸</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="256"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
         <translation>猫不透明度</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="311"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
         <source>Opaque</source>
         <translation>不透明度</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="334"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
         <source>Transparent</source>
         <translation>透明度</translation>
     </message>
@@ -6180,7 +6184,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>更新设置</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="224"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
         <translation>启动时检查更新</translation>
@@ -6194,22 +6198,22 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">未选择更新频道。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="234"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
         <source>Folders</source>
         <translation>公共文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
         <source>I&amp;nstances:</source>
         <translation>实例(&amp;N)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="243"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="260"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="287"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="320"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="327"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="337"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="248"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="292"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="332"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="342"/>
         <source>Browse</source>
         <translation>浏览</translation>
     </message>
@@ -6224,87 +6228,95 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>实例重命名</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
         <source>Ask what to do with the folder</source>
-        <translation>询问如何处理文件夹</translation>
+        <translation type="vanished">询问如何处理文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
         <source>Always rename the folder</source>
         <translation>总是重命名文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="129"/>
         <source>Never rename the folder—only the displayed name</source>
-        <translation>从不重命名文件夹——只修改显示名称</translation>
+        <translation type="vanished">从不重命名文件夹——只修改显示名称</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
+        <source>Ask what to do</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
+        <source>Never rename the folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
         <source>Updater</source>
         <translation>更新程序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="174"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>How Often?</source>
         <translation>多久检查一次？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="187"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Set to 0 to only check on launch</source>
         <translation>将其设置为 0 以仅在启动时进行检查</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="190"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>On Launch</source>
         <translation>启动时</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="193"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="198"/>
         <source> hours</source>
         <translation> 小时</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="196"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
         <source>Every </source>
         <translation>每 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="277"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
         <source>&amp;Mods:</source>
         <translation>Mod (&amp;M)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="350"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
         <source>&amp;Icons:</source>
         <translation>图标 (&amp;I)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="447"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="452"/>
         <source>Log History &amp;Limit:</source>
         <translation>日志行数上限 (&amp;L)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="492"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
         <source>Tasks</source>
         <translation>任务</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="555"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="560"/>
         <source>Retry Limit:</source>
         <translation>重试上限：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="562"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="567"/>
         <source>Concurrent Download Limit:</source>
         <translation>并发下载上限：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="572"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="577"/>
         <source>HTTP Timeout:</source>
         <translation>HTTP 超时：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="598"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="603"/>
         <source>Concurrent Task Limit:</source>
         <translation>并发任务上限：</translation>
     </message>
@@ -6371,7 +6383,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>停用 Mod 元数据</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="399"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;： 禁用 Mod 元数据可能也会禁用部分易用功能，例如 Mod 更新！&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -6426,7 +6438,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">Teawie（绘者：SympathyTea）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="294"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
         <source>&amp;Downloads:</source>
         <translation>下载 (&amp;D)：</translation>
     </message>
@@ -6463,12 +6475,12 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">总是</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="267"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
         <source>&amp;Skins:</source>
         <translation>皮肤 (&amp;S)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="369"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="374"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
         <translation>启用后，在查找资源时除了搜索下载文件夹本身，还会搜索其子文件夹（例如：在寻找 CurseForge 上被屏蔽的 Mod 时）。</translation>
     </message>
@@ -6506,7 +6518,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>并发下载数</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="569"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
         <source>Seconds to wait until the requests are terminated</source>
         <translation>等待请求终止的秒数</translation>
     </message>
@@ -6515,7 +6527,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>HTTP请求超时</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="548"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
         <source>s</source>
         <translation>秒</translation>
     </message>
@@ -6524,7 +6536,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>手动重试次数</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="379"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
         <translation>启用后，将会移动被屏蔽的资源，而不是复制它们。</translation>
     </message>
@@ -6533,7 +6545,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">移动被屏蔽的资源</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="250"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Java:</source>
         <translation>Java (&amp;J):</translation>
     </message>
@@ -6558,63 +6570,63 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>工具</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
         <translation>菜单栏对于键盘交互更加友好。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
         <translation>用菜单栏代替工具栏 (&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="363"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>Mods and Modpacks</source>
         <translation>Mod 和整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="372"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
         <source>Check &amp;subfolders for blocked mods</source>
         <translation>查看被屏蔽的 Mod 的子文件夹 (&amp;S)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="382"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>Move blocked mods instead of copying them</source>
         <translation>移动被屏蔽的 Mod 而非复制</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <translation>存储由 Mod 托管平台（如 Modrinth 或 CurseForge）提供的 Mod 版本信息。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="392"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
         <source>Keep track of mod metadata</source>
         <translation>跟踪 Mod 元数据</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
         <translation>自动检测、安装和更新 Mod 前置项。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="412"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="417"/>
         <source>Install dependencies automatically</source>
         <translation>自动安装前置项</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="419"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
         <translation>创建新的整合包实例时，提示可以更新现有的该整合包的实例（而不是创建新的实例）。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="422"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Suggest to update an existing instance during modpack installation</source>
         <translation>安装整合包时，提示可以更新现有的该整合包的实例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="432"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
         <source>Console</source>
         <translation>控制台</translation>
     </message>
@@ -6643,13 +6655,13 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>日志行数上限 (&amp;H)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="482"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>在日志到达上限时停止记录 (&amp;S)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="463"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="468"/>
         <source> lines</source>
         <translation> 行</translation>
     </message>
@@ -6659,22 +6671,22 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>控制台字体 (&amp;F)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="102"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
         <source>Instance Folder</source>
         <translation>实例文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="110"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="101"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
         <translation>你试图指定的实例文件夹路径包含至少一个“!”字符。在这种情况下，Java 会出现问题，实例（可能）无法启动！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="106"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
         <translation>确定要使用此路径吗？选择“否”将关闭窗口且不改变实例路径。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="124"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
         <source>You&apos;re trying to specify an instance folder which was granted temporarily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
@@ -6689,32 +6701,32 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 推荐通过 Flatseal 授予 %1 访问权限。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="122"/>
         <source>Do you want to proceed anyway?</source>
         <translation>你还想继续吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="136"/>
         <source>Icons Folder</source>
         <translation>图标文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="147"/>
         <source>Mods Folder</source>
         <translation>Mod 文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="167"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="158"/>
         <source>Downloads Folder</source>
         <translation>下载文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"/>
         <source>Java Folder</source>
         <translation>Java 文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
         <translation>皮肤文件夹</translation>
     </message>
