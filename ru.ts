@@ -45,7 +45,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="340"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="383"/>
         <source>Use Default</source>
-        <translation>Сервис &amp;Pastebin</translation>
+        <translation>Использовать по умолчанию</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -148,7 +148,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>User Agent</source>
-        <translation>Пользовательский агент</translation>
+        <translation type="unfinished">Пользовательский агент (User Agent)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
@@ -879,7 +879,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер котика</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
@@ -6276,12 +6276,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
         <source>Ask what to do</source>
-        <translation type="unfinished"></translation>
+        <translation>Спросить что делать дальше</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
         <source>Never rename the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Никогда не переименовывайте папку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
@@ -10882,7 +10882,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="271"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
-        <translation>Файл «%1» не содержит ссылку для скачивания. Это недопустимо для формата пакета.</translation>
+        <translation>У файла «%1» отсутствует ссылка для скачивания. Это недопустимо в пакетном формате.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="301"/>
