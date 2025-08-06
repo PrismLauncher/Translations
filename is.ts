@@ -29,7 +29,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="340"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="383"/>
         <source>Use Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota sjálfgefið</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -39,23 +39,23 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Eignaþjónn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Þú getur stillt þetta á annan netþjón ef þú átt í vandræðum með að hlaða niður eignum.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>&amp;API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;API lyklar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="205"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation type="unfinished">&amp;Microsoft Auðkenning</translation>
+        <translation>&amp;Microsoft auðkenning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -65,12 +65,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"/>
         <source>Use None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota ekkert</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="318"/>
         <source>&amp;CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="373"/>
@@ -114,16 +114,16 @@
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Technic notendaauðkenni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Athugið: þú þarft aðeins að stilla þetta á aðgang að einkagögnum .&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sláðu inn sérsniðið GUID notendaauðkenni fyrir Technic hér.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -161,7 +161,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Athugið: þú þarft aðeins að stilla þetta á aðgang að einkagögnum. Lestu &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; fyrir meiri upplýsingar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -582,12 +582,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stjórna skinnum</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Stjórna skinnum</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -716,7 +716,7 @@ Ef þú ert nýr hér geturðu valið hnappinn „Bæta við Microsoft“ til a�
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="90"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Allar útgáfur</translation>
     </message>
 </context>
 <context>
@@ -724,7 +724,7 @@ Ef þú ert nýr hér geturðu valið hnappinn „Bæta við Microsoft“ til a�
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="55"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Útlit</translation>
     </message>
 </context>
 <context>
@@ -732,119 +732,119 @@ Ef þú ert nýr hér geturðu valið hnappinn „Bæta við Microsoft“ til a�
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opna kattarpakkamöppu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Opna möppu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skoða möppu með þemum fyrir viðbætur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skoða möppu með táknmyndaþemum.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kattarpakki:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation type="unfinished"></translation>
+        <translation>Endurhlaða allt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Þema:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Táknmyndir:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stjórnborðsletur:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Kattarskölun</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Aðlaga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="363"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Fylla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="368"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Teygja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagnsæi kattar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
         <source>Opaque</source>
-        <translation type="unfinished"></translation>
+        <translation>Ógegnsætt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegnsætt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Forskoða</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[VILLA] ÚÚúúúÚÚÚúúúú! Hræðileg villa!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
         <source>[ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Villa] Hræðileg villa!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="263"/>
         <source>[INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[UPPLÝSINGAR] Skaðlaust skilaboð...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[AÐVÖRUN] Ekki svo hræðileg aðvörun.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[VILLULEIT] Leynilegt villuleitarskilaboð...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[BANVÆN VILLA] Hræðilega banvæn villa!</translation>
     </message>
 </context>
 <context>
@@ -852,7 +852,7 @@ Ef þú ert nýr hér geturðu valið hnappinn „Bæta við Microsoft“ til a�
     <message>
         <location filename="src/launcher/Application.cpp" line="702"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Get ekki birt þessa skrá þar sem lengd hennar fór yfir %1 línur.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="908"/>
@@ -1016,7 +1016,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sæki eignaskrár frá %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1179,7 +1179,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bíð...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="95"/>
@@ -1232,52 +1232,52 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjálfvirki Java vélbúnaðurinn greindi 32-bita uppsetningu á Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Engin samhæf útgáfa af Java var fundin. Nota sjálfgefnu útgáfuna.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kerfið þitt (%1-%2) er ekki samhæft við sjálfvirka Java uppsetningu. Nota sjálfgefnu Java slóðina.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lýsigögnin þín eru úrelt eða innihalda ekki nauðsynlegar upplýsingar til að ákvarða hvaða uppsetningu af Java ætti að nota. Nota sjálfgefna Java slóð.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Samhæft Java fannst á: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Engin samhæf útgáfa af Java fannst (tvíundarskráin er ekki til). Nota sjálfgefnu útgáfuna.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Gat ekki ákvarðað gerð Java niðurhals!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Setja upp Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Engar útgáfur af Java voru fundnar fyrir stýrikerfið þitt: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Engin samhæf útgáfa af Java fannst. Nota sjálfgefnu útgáfuna.</translation>
     </message>
 </context>
 <context>
@@ -1290,23 +1290,23 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Viðvörun um nýjan eiginleika!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Við höfum bætt við nýjum eiginleika sem sjálfvirkt halar niður réttri útgáfu af Java fyrir hverja útgáfu af Minecraft (hægt er að breyta þessu í stillingunum fyrir Java). Viltu kveikja eða slökkva á þessum eiginleika?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Virkja sjálfvirkt niðurhal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Slökkva á sjálfvirku niðurhali</translation>
     </message>
 </context>
 <context>
@@ -1348,7 +1348,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Sleppa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
@@ -1358,7 +1358,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
         <source>Blocked Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Bannaðar viðbætur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
@@ -1368,7 +1368,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
         <source>Watched Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaktaðar möppur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
@@ -1483,7 +1483,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gat ekki halað niður lýsigögnum fyrir %1 %2. Vinsamlegast breyttu um útgáfu eða reyndu aftur síðar.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
@@ -1507,18 +1507,19 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
         <source>Task failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkefni mistókst</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
         <source>Multiple subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Mörg undirverkefni mistókust</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mörg undirverkefni mistókust
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
@@ -1761,17 +1762,17 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Búa til flýtileið fyrir tilvik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista sem:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nafn:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
@@ -1781,17 +1782,17 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota annan aðgang en þann sem er sjálfgefinn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
         <source>Override the default account</source>
-        <translation type="unfinished"></translation>
+        <translation>Yfirskrifa sjálfgefinn aðgang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilgreindu heim eða netþjón til að sjálfvirkt tengjast við ræsingu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
