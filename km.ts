@@ -70,51 +70,51 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="318"/>
         <source>&amp;CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="373"/>
         <source>&amp;Technic</source>
-        <translation type="unfinished"></translation>
+        <translation>បច្ចេកទេស</translation>
     </message>
     <message>
         <source>API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>សេា API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>ចំណាំ៖ អ្នកប្រហែលជាមិនចាំបាច់កំណត់វាទេ ប្រសិនបើការចូលតាមរយៈ Microsoft Authentication ដំណើរការរួចហើយ។</translation>
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(លំនាំដេីម)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>បញ្ចូលលេខកូដអតិថិជនផ្ទាល់ខ្លួនសម្រាប់ការផ្ទៀងផ្ទាត់ Microsoft នៅទីនេះ។</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation type="unfinished"></translation>
+        <translation>API របស់ &amp;Modrinth</translation>
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="unfinished"></translation>
+        <translation>បញ្ចូលនិមិត្តសញ្ញា API សម្រាប់ Modrinth នៅទីនេះ។</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(គ្មាន)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>លេខ ID អតិថិជនបច្ចេកទេស</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ចំណាំ៖ អ្នកគ្រាន់តែកំណត់វាដើម្បីចូលប្រើទិន្នន័យឯកជនប៉ុណ្ណោះ។.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
