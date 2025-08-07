@@ -4171,7 +4171,7 @@ Vinsamlegast reyndu aftur.</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skoða</translation>
     </message>
     <message>
         <source>Download Java</source>
@@ -4751,7 +4751,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skoða</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
@@ -5010,7 +5010,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skoða</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
@@ -5158,7 +5158,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skoða</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
@@ -5522,7 +5522,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="332"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="342"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skoða</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
@@ -6047,7 +6047,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Afþjappa viðbótarpakka</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="107"/>
@@ -7261,7 +7261,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1015"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Niðurhal viðbótarpakka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1050"/>
@@ -7744,7 +7744,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1049"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1054"/>
@@ -8139,7 +8139,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skoða</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="368"/>
@@ -8945,7 +8945,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ekki sett upp</translation>
     </message>
     <message>
         <source>New version: %1</source>
@@ -9011,7 +9011,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="143"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ekki sett upp</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="145"/>
@@ -9021,12 +9021,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Engin gild útgáfa fannst fyrir þessa auðlind. Hún er líklega ekki tiltæk fyrir núverandi leikútgáfu / viðbótarhleðara.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Engin gild útgáfa fannst fyrir þessa auðlind. Hún er líklega ekki tiltæk fyrir núverandi leikútgáfu.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="60"/>
@@ -9039,7 +9039,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Engin gild útgáfa fannst fyrir þessa viðbót. Hún er líklega ekki tiltæk fyrir núverandi leikútgáfu / viðbótarhleðara.</translation>
     </message>
 </context>
 <context>
@@ -9047,23 +9047,24 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="68"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> .(útgáfa %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="152"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Engin vísiskrá.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="153"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Við gátum ekki fundið viðeigandi vísiskrá fyrir eldri úgáfuna. Þetta gæti valdið því að sumar skrárnar verði tvíteknar. Viltu halda áfram?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="197"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gat ekki endurnefnt yfirskriftamöppuna:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="210"/>
@@ -9114,7 +9115,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="301"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (Núverandi)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="313"/>
@@ -9124,7 +9125,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="393"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Veldu uppfærsluskrá</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="393"/>
@@ -9137,22 +9138,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="58"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Leita að skrám...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="79"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gat ekki leitað að skrám</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="95"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Finn skráarkóðunargildi…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="156"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Finn útgáfur fyrir kóðagildi...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="192"/>
@@ -9162,7 +9163,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bæti við skrám...</translation>
     </message>
 </context>
 <context>
@@ -9174,7 +9175,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Síunarvalkostir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
@@ -9202,7 +9203,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="87"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Raða eftir seinast uppfært</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="203"/>
@@ -9223,22 +9224,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="310"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ytri hlekkir:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="314"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vandamál: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="316"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="318"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Frumkóði: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="320"/>
@@ -9254,7 +9255,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Raða eftir heildarfjölda niðurhala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="288"/>
@@ -11073,7 +11074,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Raða eftir áherslu</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
@@ -11084,7 +11085,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Raða eftir seinast uppfært</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
@@ -11094,7 +11095,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
         <source>Sort by Author</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Raða eftir höfundi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
@@ -11704,22 +11705,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="241"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ytri hlekkir:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="245"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vandamál: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="247"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="249"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Frumkóði: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="251"/>
@@ -12186,7 +12187,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Síunarvalkostir</translation>
     </message>
 </context>
 <context>
@@ -12287,7 +12288,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="230"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ekki sett upp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="266"/>
@@ -13258,22 +13259,23 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="44"/>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sæki viðbótarpakka:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="49"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Niðurhal viðbótarpakka</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="64"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Afþjappa viðbótarpakka</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="71"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Get ekki opnað gefna viðbótarpakka zip skrá.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="99"/>
@@ -13315,7 +13317,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="138"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Afþjappa viðbótarpakka</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="181"/>
@@ -13941,7 +13943,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Setja upp hleðara</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
@@ -14269,7 +14271,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
