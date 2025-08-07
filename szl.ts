@@ -208,7 +208,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="672"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozpakowujã kōnfiguracyjõ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="678"/>
@@ -259,7 +259,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="922"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozpakowujã mody...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="994"/>
@@ -3183,7 +3183,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="186"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozpakowujã modpacki</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="156"/>
@@ -3611,13 +3611,13 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="69"/>
         <source>Extracting Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozpakowujã Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="71"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="84"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozpakowujã Java (Tyn proces niy ma pokazowany dlŏ archiw tar)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="74"/>
@@ -5011,7 +5011,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozpakowujã modpacki</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="107"/>
@@ -11845,7 +11845,7 @@ Je żeś pewny?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="64"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozpakowujã modpacki</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="71"/>
@@ -11891,7 +11891,7 @@ Je żeś pewny?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="138"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozpakowujã modpacki</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="181"/>
