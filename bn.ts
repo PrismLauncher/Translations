@@ -7,18 +7,18 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;পেস্টবিন পরিষেবা</translation>
+        <translation type="unfinished">&amp;পেস্টবিন সার্ভিস</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>পেস্ট পরিষেবা &amp; প্রকার</translation>
+        <translation>পেস্ট সার্ভিস &amp; টাইপ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>ভিত &amp;URL</translation>
+        <translation>বেস &amp; ইউআরএল (URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -29,48 +29,48 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="340"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="383"/>
         <source>Use Default</source>
-        <translation>ডিফল্ট ব্যবহার করুন</translation>
+        <translation>ডিফল্ট মোড</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>দ্রষ্টব্য: পেস্ট পরিষেবার ধরণ পরিবর্তন করার পরে আপনি সম্ভবত বেস URL পরিবর্তন বা সাফ করতে চান।</translation>
+        <translation>দ্রষ্টব্য: পেস্ট সার্ভিস পরিবর্তন করার পরে আপনি সম্ভবত বেস ইউআরএল (URL) পরিবর্তন বা ক্লিয়ার করতে চান।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation type="unfinished"></translation>
+        <translation>এস্সেটস সার্ভার</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>অ্যাসেটস ডাউনলোডে বাধা পেলে আপনি এটিকে অন্য সার্ভার নির্দিষ্ট করতে পারেন।</translation>
+        <translation>সম্পদ ডাউনলোড করতে সমস্যা হলে আপনি এটি অন্য সার্ভারে সেট করতে পারেন।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>&amp;API Keys</source>
-        <translation>&amp;API চাবি</translation>
+        <translation>&amp;এপিআই কী</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="205"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation type="unfinished">&amp;Microsoft প্রমাণীকরণ</translation>
+        <translation>&amp;মাইক্রোসফট অথেনটিকেশন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Mod&amp;rinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"/>
         <source>Use None</source>
-        <translation>কোনটাই ব্যবহার করবেন না</translation>
+        <translation>কোনটাই না</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="318"/>
         <source>&amp;CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;কার্সফোর্জ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="373"/>
@@ -79,12 +79,12 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>API চাবি</translation>
+        <translation>অপিয়াই কীস (API Keys)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished">দ্রষ্টব্য: যদি মাইক্রোসফ্ট প্রমাণীকরণের মাধ্যমে লগ ইন করা ইতিমধ্যেই কাজ করে তবে সম্ভবত আপনার এটি সেট করার দরকার নেই।</translation>
+        <translation>দ্রষ্টব্য: যদি মাইক্রোসফট অথেনটিকেশন মাধ্যমে লগ ইন করা ইতিমধ্যেই কাজ করে তবে সম্ভবত আপনার এটি সেট করার দরকার নেই।</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -93,15 +93,15 @@
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>এখানে মাইক্রোসফ্ট প্রমাণীকরণের জন্য একটি কাস্টম ক্লায়েন্ট আইডি লিখুন।</translation>
+        <translation>মাইক্রোসফ্ট অথেনটিকেশন এর জন্য কাস্টম ক্লায়েন্ট আইডি লিখুন।</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>&amp;Modrinth API</translation>
+        <translation>&amp;Modrinth অপিয়াই (API)</translation>
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>এখানে মড্রিন্থের জন্য একটি নতুন API টোকেন লিখুন।</translation>
+        <translation>এখানে Modrinth এর জন্য একটি নতুন API অপিয়াই (API) টোকেন লিখুন।</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -127,12 +127,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>User Agent</source>
-        <translation>ব্যবহারকারী এজেন্ট</translation>
+        <translation>ইউসার এজেন্ট</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>এখানে একটি নতুন ব্যবহারকারী এজেন্ট লিখুন। বিশেষ স্ট্রিং $LAUNCHER_VER লঞ্চারের সংস্করণ দিয়ে প্রতিস্থাপিত হবে।</translation>
+        <translation>এখানে একটি নতুন ইউসার এজেন্ট লিখুন। বিশেষ স্ট্রিং $LAUNCHER_VER লঞ্চারের সংস্করণ দিয়ে প্রতিস্থাপিত হবে।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -142,12 +142,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
         <source>Services</source>
-        <translation>সেবা</translation>
+        <translation>সার্ভিস</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>প্যাচড লাইব্রেরি বা অন্যান্য হ্যাক ব্যবহার করার জন্য আপনি এটি একটি তৃতীয় পক্ষের মেটাডেটা সার্ভারে সেট করতে পারেন।</translation>
+        <translation>প্যাচড লাইব্রেরি বা অন্যান্য হ্যাক ব্যবহার করার জন্য আপনি এটি একটি থার্ড-পার্টি পক্ষের মেটাডেটা সার্ভারে সেট করতে পারেন।</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -160,7 +160,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;কার্সফর্জ কোর API</translation>
+        <translation>&amp;কার্সফর্জ কোর অপিয়াই (API)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -170,11 +170,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>এখানে কার্সফর্জ -এর জন্য একটি নতুন API মান লিখুন।</translation>
+        <translation>এখানে কার্সফর্জ এর জন্য একটি নতুন API মান লিখুন।</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation>এপিআই সমুহ</translation>
+        <translation>অপিয়াইশ</translation>
     </message>
 </context>
 <context>
@@ -183,7 +183,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="121"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>প্যাক ম্যানিফেস্ট অপুর্ণ, বুঝতে পারিনিঃ
+        <translation>প্যাক ম্যানিফেস্ট বুঝতে পারিনি:
 </translation>
     </message>
     <message>
@@ -209,7 +209,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="331"/>
         <source>Unknown mod type: %1</source>
-        <translation>মডিফিকেশনের ধরণ সম্পর্কে অনিশ্চিতঃ %1</translation>
+        <translation>অজানা মোড টাইপ: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="374"/>
@@ -219,7 +219,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="387"/>
         <source>No loader version set for modpack!</source>
-        <translation>মডিফিকেশনপ্যাকের জন্য কোন লোডার সেট করা নেই!</translation>
+        <translation>মডপ্যাকের জন্য কোনও লোডার সংস্করণ সেট করা নেই!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
@@ -229,12 +229,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="633"/>
         <source>Downloading configs...</source>
-        <translation>কনফিগারেশন নামানো হচ্ছে..।</translation>
+        <translation>কন্ফিগস ডাউনলোড করা হচ্ছে..।</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Config download</source>
-        <translation>কনফিগারেশন নামানো হয়েছে</translation>
+        <translation>কন্ফিগস ডাউনলোড</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="675"/>
@@ -244,22 +244,22 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="681"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>প্যাক কনফিগারেশন খুলতে ব্যর্থ হয়েছে: %1!</translation>
+        <translation>প্যাক কনফিগারেশন খুলতে ব্যর্থ %1 !</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
         <source>Selecting optional mods...</source>
-        <translation>ঐচ্ছিক মডিফিকেশন নির্বাচন করা হচ্ছে..।</translation>
+        <translation>ঐচ্ছিক মোড নির্বাচন করা হচ্ছে..।</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"/>
         <source>Downloading mods...</source>
-        <translation>মডিফিকেশন নামানো হচ্ছে..।</translation>
+        <translation>মোড ডাউনলোড করা হচ্ছে..।</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Mod download</source>
-        <translation>মডিফিকেশন নামানো হয়েছে</translation>
+        <translation>মোড ডাউনলোড</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="743"/>
@@ -270,47 +270,47 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="823"/>
         <source>Blocked mods found</source>
-        <translation>প্রতিরোধ করা মডিফিকেশন পাওয়া গেছে</translation>
+        <translation>ব্লক করা মোডগুলি পাওয়া গেছে</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>নিম্নলিখিত ফাইলগুলি তৃতীয় পক্ষের লঞ্চারগুলির জন্য অপ্রাপ্য। &lt;br/&gt;এগুলি হাতে করে নামিয়ে করে উদাহরণে যুক্ত করতে হবে।</translation>
+        <translation>নিম্নলিখিত ফাইলগুলি তৃতীয় পক্ষের লঞ্চারগুলিতে ডাউনলোডের জন্য উপলব্ধ নয়।&lt;br/&gt;আপনাকে সেগুলি ম্যানুয়ালি ডাউনলোড করতে হবে এবং ইনস্ট্যান্সে যুক্ত করতে হবে।</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="880"/>
         <source>%1 out of %2 complete</source>
-        <translation>%2 এর মধ্যে %1 সম্পন্ন হয়েছে</translation>
+        <translation>% 2 এর মধ্যে % 1 সম্পন্ন হয়েছে</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="915"/>
         <source>Failed to extract mods...</source>
-        <translation>মডিফিকেশনসমূহ বের করতে ব্যর্থ হয়েছে..।</translation>
+        <translation>মোডগুলি বের করতে ব্যর্থ হয়েছে..।</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="925"/>
         <source>Extracting mods...</source>
-        <translation>মডিফিকেশন বের করা হচ্ছে..।</translation>
+        <translation>মোডগুলি বের করা হচ্ছে..।</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="997"/>
         <source>Installing modpack</source>
-        <translation>মডিফিকেশন প্যাক ইনস্টল করা হচ্ছে</translation>
+        <translation>মডপ্যাক ইনস্টল করা হচ্ছে</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1009"/>
         <source>Failed to create libraries component</source>
-        <translation>লাইব্রেরি উপাদান তৈরি করতে ব্যর্থ হয়েছে</translation>
+        <translation>লাইব্রেরি কম্পোনেন্ট তৈরি করতে ব্যর্থ হয়েছে</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1036"/>
         <source>Unknown loader type: </source>
-        <translation>অজানা লোডার ধরণ: </translation>
+        <translation>অজানা লোডার প্রকার: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1050"/>
         <source>Failed to create pack component</source>
-        <translation>প্যাক উপাদান তৈরি করতে ব্যর্থ হয়েছে</translation>
+        <translation>প্যাক কম্পোনেন্ট তৈরি করতে ব্যর্থ হয়েছে</translation>
     </message>
 </context>
 <context>
@@ -318,7 +318,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="107"/>
         <source>About</source>
-        <translation>সম্বন্ধ</translation>
+        <translation>সম্পর্কে</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
