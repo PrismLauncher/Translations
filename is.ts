@@ -2325,7 +2325,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
@@ -2349,7 +2349,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Yfirskrifa &amp;altækar stillingar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
@@ -2405,7 +2405,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="160"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stöðva</translation>
     </message>
 </context>
 <context>
@@ -2547,7 +2547,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="199"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stöðva</translation>
     </message>
 </context>
 <context>
@@ -2590,7 +2590,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sérsniðið</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
@@ -3837,7 +3837,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stöðva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"/>
@@ -4554,7 +4554,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="279"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="281"/>
@@ -4586,7 +4586,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="332"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stöðva</translation>
     </message>
 </context>
 <context>
@@ -4720,7 +4720,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="115"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Endurnýja</translation>
     </message>
     <message>
         <source>&amp;Auto-detect...</source>
@@ -4865,7 +4865,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
@@ -5409,7 +5409,7 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="299"/>
         <location filename="src/launcher/LaunchController.cpp" line="481"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stöðva</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="494"/>
@@ -6345,7 +6345,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
@@ -7217,7 +7217,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="857"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aðvaranir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="861"/>
@@ -7234,7 +7234,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/MainWindow.cpp" line="992"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1026"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stöðva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="981"/>
@@ -7569,7 +7569,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="200"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aðvaranir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
@@ -7584,7 +7584,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="208"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stöðva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="216"/>
@@ -8237,7 +8237,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="774"/>
         <source>Custom Commands</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sérsniðnar skipanir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="784"/>
@@ -8293,7 +8293,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
@@ -8467,17 +8467,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Virkja</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mynd</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seinast breytt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
@@ -8636,19 +8636,19 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="166"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="255"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Niðurhal stöðvað af notanda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="261"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aðvaranir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="186"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="271"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stöðva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="206"/>
@@ -8659,7 +8659,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Staðfesta uppfærslu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="212"/>
@@ -8863,11 +8863,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aðvaranir</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stöðva</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
@@ -9794,7 +9794,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
@@ -11564,12 +11564,12 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="159"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aðvaranir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="165"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stöðva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="166"/>
@@ -11869,12 +11869,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Virkja</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seinast breytt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
@@ -11941,17 +11941,17 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Virkja</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mynd</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seinast breytt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
@@ -11966,7 +11966,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="79"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Óþekkt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="108"/>
@@ -12011,7 +12011,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Pack Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pakkasnið</translation>
     </message>
     <message>
         <source>Last changed</source>
@@ -12042,7 +12042,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hala niður pökkum</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
@@ -12078,19 +12078,19 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="188"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Niðurhal stöðvað af notanda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="109"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="194"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aðvaranir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="123"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="204"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stöðva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="139"/>
@@ -12101,7 +12101,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="144"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Staðfesta uppfærslu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="145"/>
@@ -12222,14 +12222,14 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="113"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="204"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aðvaranir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="119"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="209"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="369"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stöðva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="120"/>
@@ -12499,7 +12499,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="393"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stöðva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
@@ -12711,7 +12711,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="182"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Endurnýja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
@@ -12775,7 +12775,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hala niður pökkum</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
@@ -12811,19 +12811,19 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Niðurhal stöðvað af notanda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="106"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="191"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aðvaranir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="120"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stöðva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"/>
@@ -12834,7 +12834,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="141"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Staðfesta uppfærslu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="142"/>
@@ -13207,7 +13207,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
@@ -13401,12 +13401,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Virkja</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mynd</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
@@ -13416,7 +13416,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seinast breytt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
@@ -13480,7 +13480,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hala niður pökkum</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
@@ -13521,19 +13521,19 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="193"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Niðurhal stöðvað af notanda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="114"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="199"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aðvaranir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="128"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="209"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stöðva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="144"/>
@@ -13544,7 +13544,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="149"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Staðfesta uppfærslu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="150"/>
@@ -14441,7 +14441,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="133"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Endurnýja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="138"/>
