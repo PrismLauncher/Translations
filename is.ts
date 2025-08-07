@@ -275,7 +275,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="823"/>
         <source>Blocked mods found</source>
-        <translation>Útilokaðir mods fundust</translation>
+        <translation>Bannaðar viðbætur fundust</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
@@ -1322,7 +1322,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="173"/>
         <source>All mods found</source>
-        <translation>Öll mods fundust</translation>
+        <translation>Allar viðbætur fundust</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
@@ -2938,7 +2938,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="50"/>
         <source>&amp;Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Textaritill</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="65"/>
@@ -2946,12 +2946,12 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="191"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="251"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Skoða</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
         <source>Used to edit component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notað til að breyta JSON einingaskrám.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
@@ -2968,12 +2968,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
         <source>&amp;Profilers</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Prófílstjórar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prófílstjórar eru aðgengilegir í gegnum fellivalmyndina ,,Ræsa&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
@@ -2987,16 +2987,16 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytri ritlar (sjálfgefinn ritill ef skilið eftir autt)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Textaritill:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytri tól</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3127,7 +3127,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sæki FML söfn...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
@@ -3137,17 +3137,17 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Afrita FML söfn inn í tilvikið...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mistókst að skapa FML safnmöppu inni í tilvikinu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mistókst að afrita Forge/FML safn: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="114"/>
@@ -3156,7 +3156,11 @@ Are you sure you want to do this?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mistókst að sækja eftirfarandi skrár:
+%1
+
+Ástæða: %2
+Vinsamlegast reyndu aftur.</translation>
     </message>
 </context>
 <context>
@@ -3177,7 +3181,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="44"/>
         <source>FTB App Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Innflutningur FTB forrits</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
@@ -3192,12 +3196,12 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="63"/>
         <source>Select FTBApp instances directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Veldu FTBApp tilvikamöppu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Athugið: Ef FTB tilvikin þín eru ekki á sjálfgefnum stað, veldu hann með því að nota hnappinn við hliðina á leit.</translation>
     </message>
 </context>
 <context>
@@ -3206,7 +3210,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="110"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="126"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3214,7 +3218,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Afrita skrár...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
@@ -3227,13 +3231,13 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="52"/>
         <source>Resolving mod IDs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Greini auðkenni viðbóta…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"/>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="147"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ógild gögn skiluð frá API.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="256"/>
@@ -3247,27 +3251,27 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Undirbý auðlindir fyrir CurseForge...</translation>
     </message>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sæki API-svar frá CurseForge fyrir &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="92"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Greini API-svarið frá CurseForge fyrir &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Engin gild útgáfa fannst fyrir þessa auðlind. Hún er líklega ekki tiltæk fyrir núverandi leikútgáfu / viðbótarhleðara.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Engin gild útgáfa fannst fyrir þessa auðlind. Hún er líklega ekki tiltæk fyrir núverandi leikútgáfu.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
@@ -3277,12 +3281,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ný uppfærsla er til fyrir auðlind, en ekki er hægt að sækja hana í gegnum CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekki sett upp</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
@@ -3291,15 +3295,15 @@ Please try again.</source>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Unidrbý viðbætur fyrir CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Engin gild útgáfa fannst fyrir þessa viðbót. Hún er líklega ekki tiltæk fyrir núverandi leikútgáfu / viðbótarhleðara.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ný uppfærsla er til fyrir viðbót, en ekki er hægt að sækja hana í gegnum CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3315,17 +3319,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="119"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> .(útgáfa %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Engin vísiskrá.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="250"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Við gátum ekki fundið viðeigandi vísiskrá fyrir eldri úgáfuna. Þetta gæti valdið því að sumar skrárnar verði tvíteknar. Viltu halda áfram?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="274"/>
@@ -3346,33 +3350,35 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="348"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Gat ekki endurnefnt yfirskriftamöppuna:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="353"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilgreinda yfirskriftamappan (%1) vantar. Kannski var viðbótarpakkinn þegar notaður áður?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="382"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Óþekktur viðbótahleðari í upplýsingaskrá: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="397"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dularfullir punktar aftast í Minecraft útgáfu fjarlægðir við innflutning pakkans.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ráðlagt minni fyrir viðbótarpakkann nær yfir 90% af vinnsluminninu þínu—minnkandi það frá %1 MiB í %2 MiB!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="469"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Get ekki greint viðbótarauðkenni:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="546"/>
@@ -3398,12 +3404,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="613"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Afrita bannaðar viðbætur...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="628"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Afrita bannaðar viðbætur (%1 af %2 afritað)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="605"/>
@@ -3421,12 +3427,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="493"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Núverandi)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="556"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>Veldu uppfærsluskrá</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="556"/>
@@ -3471,22 +3477,22 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="50"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Leita að skrám...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="71"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation>Gat ekki leitað að skrám</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="85"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Finn skráarkóðunargildi…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="167"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Finn útgáfur fyrir kóðagildi...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="218"/>
@@ -3497,12 +3503,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="238"/>
         <source>Finding project info from CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Finn verkefnisupplýsingar frá CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="318"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bæti við skrám...</translation>
     </message>
 </context>
 <context>
@@ -3525,7 +3531,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Síunarvalkostir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -3541,7 +3547,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Raða eftir áherslu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
@@ -3553,7 +3559,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Raða eftir seinast uppfært</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="85"/>
@@ -3565,19 +3571,19 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="86"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Raða eftir höfundi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="87"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Raða eftir heildarfjölda niðurhala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="223"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="241"/>
         <source>No version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Engin útgáfa er tiltæk!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="229"/>
@@ -3592,22 +3598,22 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="312"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytri hlekkir:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="316"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Vandamál: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="318"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="320"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Frumkóði: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -3616,7 +3622,7 @@ Please try again.</source>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="50"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mistókst að búa til möppu fyrir Minecraft tvíundaskrár.</translation>
     </message>
 </context>
 <context>
@@ -3648,7 +3654,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="71"/>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Lykill</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="73"/>
@@ -3669,32 +3675,32 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="91"/>
         <source>Survival</source>
-        <translation type="unfinished"></translation>
+        <translation>Lifun</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="93"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapandi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="95"/>
         <source>Adventure</source>
-        <translation type="unfinished"></translation>
+        <translation>Ævintýri</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="97"/>
         <source>Spectator</source>
-        <translation type="unfinished"></translation>
+        <translation>Áhorfandi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="102"/>
         <source>Unknown (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Óþekkt (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="104"/>
         <source>Undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>Óskilgreint</translation>
     </message>
 </context>
 <context>
@@ -3702,7 +3708,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"/>
         <source>Started process: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Byrjaði ferli: %1</translation>
     </message>
 </context>
 <context>
@@ -3710,13 +3716,13 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="58"/>
         <source>Get dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Sækja háðleika</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="196"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Netvilla kom upp. Gat ekki hlaðið inn háðleikum verkefnis: %1</translation>
     </message>
 </context>
 <context>
@@ -3724,12 +3730,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="12"/>
         <source>Getting skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sæki skinn.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="35"/>
         <source>Got skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Sótti skinn</translation>
     </message>
 </context>
 <context>
@@ -3737,22 +3743,22 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="14"/>
         <source>Pick icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Veldu táknmynd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Leita...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
         <source>Add Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Bæta við táknmynd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="75"/>
         <source>Remove Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjarlægja táknmynd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
@@ -3786,23 +3792,23 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Skoða</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>Eftirfarandi skráartegundir eru studdar (bæði fyrir staðværar skrár og vefslóðir):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- CurseForge viðbótarpakkar (ZIP / curseforge:// vefslóð)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modrinth viðbótarpakkar (ZIP og mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
@@ -3813,18 +3819,18 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Technic viðbótarpakkar (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
-        <translation type="unfinished"></translation>
+        <translation>Staðbundin skrá eða hlekkur að beinu niðurhali:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="56"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Flytja inn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="140"/>
@@ -3836,12 +3842,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Viðbótarpakkinn %1 er bannaður fyrir þriðja aðila! Vinsamlegast sæktu hann handvirkt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation type="unfinished"></translation>
+        <translation>Þessi slóð er ekki gildur viðbótarpakki !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
@@ -3851,7 +3857,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"/>
         <source>Supported files</source>
-        <translation type="unfinished"></translation>
+        <translation>Studdar skrár</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
@@ -3862,7 +3868,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
         <source>Choose modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Veldu viðbótarpakka</translation>
     </message>
     <message>
         <source>Zip (*.zip)</source>
@@ -3874,22 +3880,22 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation type="unfinished"></translation>
+        <translation>Veldu tilvik til að flytja inn í</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veldu tilvikið sem þú vilt flytja þennan auðlindapakka inn í.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veldu tilvikið sem þú vilt flytja þetta %1 inn í.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrá: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
@@ -3907,12 +3913,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="133"/>
         <source>License: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Leyfi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="140"/>
         <source>Report issues to: </source>
-        <translation type="unfinished"></translation>
+        <translation>Tilkynna vandamál til: </translation>
     </message>
 </context>
 <context>
@@ -3921,20 +3927,20 @@ Please try again.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Engar Java útgáfur eru tiltækar í lýsigögnunum eins og er.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Gat ekki hlaðið inn eða sótt listann af Java útgáfum!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Engin útgáfa af Java er tiltæk fyrir stýrikerfið þitt eins og er.</translation>
     </message>
 </context>
 <context>
@@ -3947,7 +3953,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="107"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
@@ -3982,7 +3988,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="150"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Setja upp hleðara</translation>
     </message>
 </context>
 <context>
@@ -4009,17 +4015,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="41"/>
         <source>Copying instance %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Afrita tilvik %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="146"/>
         <source>Instance folder copy failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mistókst að afrita tilvikamöppu.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="188"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afritun tilvikamöppu hefur verið stöðvuð.</translation>
     </message>
 </context>
 <context>
@@ -4028,22 +4034,23 @@ Please try again.</source>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="29"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Villa kom upp við að búa til nýtt tilvik:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="31"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Villa kom upp við að búa til nýtt tilvik.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="44"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjarlægi gamlar skrár sem stangast á…</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="60"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mistókst að fjarlægja gamlar skrár sem stangast á.</translation>
     </message>
 </context>
 <context>
@@ -4052,27 +4059,28 @@ Please try again.</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="86"/>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sæki viðbótarpakka:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="100"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation>Niðurhal viðbótarpakka</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="149"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Reyni að ákvarða tilvikstegund</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="186"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Afþjappa viðbótarpakka</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="156"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Get ekki opnað gefna viðbótarpakka zip skrá.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="183"/>
