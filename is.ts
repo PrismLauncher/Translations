@@ -13,12 +13,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Líma Þjónustu&amp;tegund</translation>
+        <translation>Líma þjónustu &amp; tegund</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>Grunn&amp;slóð</translation>
+        <translation>Grunn &amp;slóð</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Athugaðu: þú vilt líklega breyta eða hreinsa grunnslóðina eftir að þú hefur breytt tegundinni límþjónustu.</translation>
+        <translation>Athugið: þú vilt líklega breyta eða hreinsa grunnslóðina eftir að þú hefur breytt límþjónustutegundinni.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
@@ -84,16 +84,16 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Athugið: þú þarft sennilega ekki að stilla þetta ef innskráning með Microsoft Auðkenning virkar nú þegar.</translation>
+        <translation>Athugið: þú þarft sennilega ekki að stilla þetta ef innskráning með Microsoft auðkenningu virkar nú þegar.</translation>
     </message>
     <message>
         <source>(Default)</source>
-        <translation>(Sjálfgefinn)</translation>
+        <translation>(Sjálfgefið)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Sláðu inn sérsniðið auðkenni viðskiptavinar fyrir Microsoft Auðkenning hér.</translation>
+        <translation>Sláðu inn sérsniðið auðkenni viðskiptavinar fyrir Microsoft auðkenningu hér.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
@@ -110,7 +110,7 @@
     </message>
     <message>
         <source>(None)</source>
-        <translation>(Enginn)</translation>
+        <translation>(Ekkert)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
@@ -132,12 +132,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>User Agent</source>
-        <translation>Umboðsmannsnotandi</translation>
+        <translation>Notandaauðkenni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Sláðu inn sérsniðna umboðsmannsnotandi hér. Sérstaka strengnum $LAUNCHER_VER verður skipt út fyrir útgáfu ræsiforritsins.</translation>
+        <translation>Sláðu inn sérsniðið notandaauðkenni hér. Sérstaka strengnum $LAUNCHER_VER verður skipt út fyrir útgáfu ræsiforritsins.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -147,25 +147,25 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
         <source>Services</source>
-        <translation>Þjónusta</translation>
+        <translation>Þjónustur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Þú getur stillt þetta á þriðja aðila lýsigagnaþjónn til að nota pjatlað bókasöfn eða önnur járnsög.</translation>
+        <translation>Þú getur stillt þetta á utanaðkomandi lýsigagnaþjón til að nota uppfærð söfn eða aðrar brellur.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Sláðu inn sérsniðna vefslóð fyrir meta hér.</translation>
+        <translation>Sláðu inn sérsniðna vefslóð fyrir lýsigögn hér.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Athugið: þú þarft aðeins að stilla þetta á aðgang að einkagögnum. Lestu &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; fyrir meiri upplýsingar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Athugið: þú þarft aðeins að stilla þetta á aðgang að einkagögnum. Lestu &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;skjölun&lt;/a&gt; fyrir meiri upplýsingar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge Kjarni API</translation>
+        <translation>&amp;CurseForge Kjarna API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -179,7 +179,7 @@
     </message>
     <message>
         <source>APIs</source>
-        <translation>APIs</translation>
+        <translation>API</translation>
     </message>
 </context>
 <context>
@@ -188,43 +188,43 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="121"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Gat ekki skilið pakkann manifest
+        <translation>Gat ekki skilið pakkaupplýsingaskrá:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="343"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Mistókst að sækja staðbundna lýsigagnavísitölu fyrir %1</translation>
+        <translation>Mistókst að sækja staðbundinn lýsigagnavísi fyrir %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="153"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Mistókst að ná í staðbundinn lýsigagnavísitölu fyrir &apos;%1&apos; v%2</translation>
+        <translation>Mistókst að ná í staðbundinn lýsigagnavísi fyrir &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="143"/>
         <source>Unsupported installation mode</source>
-        <translation>Óstudduppsetningarhamur</translation>
+        <translation>Óstuddur uppsetningarhamur</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="184"/>
         <source>Deleting existing files...</source>
-        <translation>Er að eyða núverandi skrám...</translation>
+        <translation>Eyði núverandi skrám...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="331"/>
         <source>Unknown mod type: %1</source>
-        <translation>Óþekkt tegund breytinga: %1</translation>
+        <translation>Óþekkt viðbótartegund: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="374"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Mistókst að finna útgáfu fyrir %1 hleðslutæki</translation>
+        <translation>Mistókst að finna útgáfu fyrir %1 hleðara</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="387"/>
         <source>No loader version set for modpack!</source>
-        <translation>Engin hleðsluútgáfa sett fyrir modpack!</translation>
+        <translation>Engin hleðaraútgáfa stillt fyrir viðbótarpakka!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
@@ -244,7 +244,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="675"/>
         <source>Extracting configs...</source>
-        <translation>Er að draga út stillingar...</translation>
+        <translation>Afþjappa stillingum...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="681"/>
@@ -254,7 +254,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
         <source>Selecting optional mods...</source>
-        <translation>Er að velja valfrjáls mods...</translation>
+        <translation>Vel valfrjálsar viðbætur...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"/>
@@ -280,7 +280,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Eftirfarandi skrár eru ekki tiltækar til niðurhals í ræsiforritum þriðja aðila.&lt;br/&gt;Þú þarft að hlaða þeim niður handvirkt og bæta þeim við tilvikið.</translation>
+        <translation>Eftirfarandi skrár eru ekki tiltækar til niðurhals í utanaðkomandi ræsiforritum.&lt;br/&gt;Þú þarft að sækja þær handvirkt og bæta þeim við tilvikið.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="880"/>
@@ -290,32 +290,32 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="915"/>
         <source>Failed to extract mods...</source>
-        <translation>Mistókst að draga út mods...</translation>
+        <translation>Mistókst að afþjappa viðbótum...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="925"/>
         <source>Extracting mods...</source>
-        <translation>Er að draga út mods...</translation>
+        <translation>Afþjappa viðbótum...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="997"/>
         <source>Installing modpack</source>
-        <translation>Er að setja upp modpack</translation>
+        <translation>Set upp viðbótarpakka</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1009"/>
         <source>Failed to create libraries component</source>
-        <translation>Mistókst að búa til bókasafnshluta</translation>
+        <translation>Mistókst að búa til safneiningu</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1036"/>
         <source>Unknown loader type: </source>
-        <translation>Óþekkt tegund hleðslutækis: </translation>
+        <translation>Óþekkt hleðarategund: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1050"/>
         <source>Failed to create pack component</source>
-        <translation>Mistókst að búa til pakkahluta</translation>
+        <translation>Mistókst að búa til pakkaeiningu</translation>
     </message>
 </context>
 <context>
@@ -358,7 +358,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation>Inneignar</translation>
+        <translation>Þakkir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
