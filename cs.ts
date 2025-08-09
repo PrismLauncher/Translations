@@ -8683,7 +8683,7 @@ Opravdu?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1671"/>
         <source>Total playtime: %1</source>
-        <translation>Celková doba hraní. %1</translation>
+        <translation>Celková doba hraní: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="853"/>
