@@ -63,7 +63,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="205"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation type="unfinished">Microsoft Authenticatie</translation>
+        <translation>&amp;Microsoft Authenticatie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -859,7 +859,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Katten Schaling</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
@@ -2201,7 +2201,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="78"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Niet herkend</translation>
+        <translation>Niet herkend</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="104"/>
