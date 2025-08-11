@@ -855,7 +855,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukuran Kucing</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
@@ -6277,33 +6277,33 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
         <source>Ask what to do</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanyakan yang perlu dilakukan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
         <source>Never rename the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Jangan pernah menamai folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation>Menubar lebih ramah untuk interaksi berbasis keyboard.</translation>
+        <translation>Menubar lebih ramah untuk pengguna keyboard.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation>Ganti toolba&amp;r dengan menubar</translation>
+        <translation>&amp;Ganti toolbar dengan menubar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
         <source>Updater</source>
-        <translation>Pengupdate</translation>
+        <translation>Pembaharuan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>How Often?</source>
-        <translation>Seberapa sering?</translation>
+        <translation>Seberapa Sering?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
@@ -6318,12 +6318,12 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="198"/>
         <source> hours</source>
-        <translation> jam</translation>
+        <translation> . jam</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
         <source>Every </source>
-        <translation>Setiap </translation>
+        <translation>Setiap. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
@@ -6338,12 +6338,12 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation>Pindah mod yang diblokir dan bukan menyalinnya</translation>
+        <translation>Pindah mod yang diblokir daripada menyalinnya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation>Simpan informasi versi yang diberikan penyedia mod (seperti Modrinth atau CurseForge) untuk mod.</translation>
+        <translation>Simpan informasi versi yang diberikan penyedia mod (seperti Modrinth atau CurseForge) untuk semua mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
@@ -6363,7 +6363,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
-        <translation>Sarankan memperbarui instansi yang sudah ada, saat membuat sebuah instansi paket mod.</translation>
+        <translation>Sarankan untuk memperbarui instansi yang sudah ada daripada membuat instansi paket mod baru.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
@@ -6393,12 +6393,12 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="567"/>
         <source>Concurrent Download Limit:</source>
-        <translation>Batasan Unduhan Berulang kali:</translation>
+        <translation>Batasan Unduhan Berulang:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="577"/>
         <source>HTTP Timeout:</source>
-        <translation>Timeout HTTP:</translation>
+        <translation>Waktu habis HTTP:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="603"/>
