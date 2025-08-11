@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Введіть кастомний API токен для Modrinth.</translation>
+        <translation>Введіть власний API токен для Modrinth.</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -175,7 +175,7 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Введіть API ключ CurseForge тут.</translation>
+        <translation>Введіть власний API ключ CurseForge тут.</translation>
     </message>
     <message>
         <source>APIs</source>
@@ -234,7 +234,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="633"/>
         <source>Downloading configs...</source>
-        <translation>Завантаження конфігів...</translation>
+        <translation>Завантаження конфігурації...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
