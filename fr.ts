@@ -13594,7 +13594,7 @@ Message d&apos;erreur&#xa0;: %3</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="180"/>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Packs de donnés</translation>
     </message>
 </context>
 <context>
