@@ -50,7 +50,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished">Note&#xa0;: vous devriez peut-être changer ou effacer l&apos;URL de Base après avoir changé le type de service paste.</translation>
+        <translation>Note&#xa0;: vous devriez peut-être changer ou effacer l&apos;URL de Base après avoir changé le type de service collage.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
@@ -879,7 +879,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille du chat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
@@ -9578,7 +9578,7 @@ Il est préférable que vous changez le chemin du fichier - veuillez vous y réf
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
         <source>&amp;GLFW library path:</source>
-        <translation type="unfinished">&amp;GLFW chemin du libraire:</translation>
+        <translation>&amp;chemin des librairies GLFW:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="657"/>
@@ -13549,7 +13549,7 @@ Souhaitez-vous continuer&#x202f;?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished">Erreur&#xa0;: %1 a renvoyé une erreur&#xa0;: %2</translation>
+        <translation>Erreur: %1 a renvoyé une erreur: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
@@ -13560,8 +13560,8 @@ Souhaitez-vous continuer&#x202f;?</numerusform>
         <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">Erreur&#x202f;: %1 a renvoyé un code d&apos;erreur&#x202f;: %2
-Message d&apos;erreur&#x202f;: %3</translation>
+        <translation type="unfinished">Erreur&#xa0;: %1 a renvoyé un code d&apos;erreur&#xa0;: %2
+Message d&apos;erreur&#xa0;: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
@@ -13603,13 +13603,13 @@ Message d&apos;erreur&#x202f;: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="37"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Packs de donnés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation type="unfinished">pack de données</translation>
+        <translation>pack de données</translation>
     </message>
 </context>
 <context>
@@ -15180,7 +15180,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
         <source>Preview Elytra</source>
-        <translation type="unfinished"></translation>
+        <translation>Aperçu des élytres</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
@@ -16947,12 +16947,12 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="8"/>
         <source>Launcher Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Journal du launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="12"/>
         <source>View Launcher Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Voir le journal du launcher</translation>
     </message>
 </context>
 <context>
@@ -17111,12 +17111,12 @@ Chemin canonique : %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
         <source>Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Packs de Données</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
         <source>Manage data packs inside the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gérer les packs de donnés du monde.</translation>
     </message>
     <message>
         <source>Datapacks</source>
@@ -17229,7 +17229,7 @@ Ce monde pourrait disparaître pour toujours (C&apos;EST TRÈS LONG).
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="231"/>
         <source>Data packs for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Packs de données pour %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
