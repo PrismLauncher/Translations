@@ -2609,7 +2609,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
         <source>&amp;Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Phiên bản:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"/>
@@ -6377,12 +6377,12 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation type="unfinished"></translation>
+        <translation>Chuyển các mod bị chặn thay vì sao chép</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lưu trữ thông tin phiên bản cung cấp bởi các bên phát hành mod (như Modrinth hoặc CurseForge) cho các mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
@@ -8242,7 +8242,7 @@ Bạn có muốn tiếp tục?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
         <source>Cannot Delete Running Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể xóa phiên bản đang chạy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
@@ -12625,7 +12625,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="97"/>
         <source>Cannot rename instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể đặt lại tên phiên bản</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"/>
@@ -15223,7 +15223,7 @@ Bạn có chắc?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn chủ đề và biểu tượng dể sử dụng</translation>
     </message>
 </context>
 <context>
