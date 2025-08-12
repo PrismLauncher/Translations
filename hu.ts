@@ -9742,17 +9742,17 @@ Valószínűleg meg kell változtatnod az elérési utat - lásd a mod weboldal�
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Legacy Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
         <source>Ornithe</source>
-        <translation type="unfinished"></translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Rift</source>
-        <translation type="unfinished"></translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="200"/>
