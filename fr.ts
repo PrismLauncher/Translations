@@ -9830,7 +9830,7 @@ Il est préférable que vous changez le chemin du fichier - veuillez vous y réf
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Legacy Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
@@ -16032,7 +16032,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished">Sélectionner le thème et les icones à appliquer</translation>
+        <translation type="unfinished">Sélectionnez le thème et les icônes à utiliser</translation>
     </message>
 </context>
 <context>
