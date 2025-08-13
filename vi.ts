@@ -7212,7 +7212,7 @@ Lý do:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="199"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở %1 hoặc quét mã QR và nhập code tại trên nếu cần thiết.</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -7623,7 +7623,7 @@ Lý do:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tạo một lối tắt tại thư mục được chọn để khởi chạy phiên bản được chọn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="517"/>
@@ -8108,7 +8108,8 @@ Please create a new instance before attempting to install this resource again.</
         <location filename="src/launcher/ui/MainWindow.cpp" line="1208"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Một vài phiên bản và lối tắt không thể được khôi phục
+Vui lòng kiểm tra thùng rác để khôi phục các thư mục này.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1306"/>
@@ -8247,7 +8248,7 @@ Bạn có muốn tiếp tục?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Phiên bản được chọn đang chạy và không thể bị xóa. Vui lòng dừng phiên bản này trước khi xóa.</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
@@ -8262,7 +8263,10 @@ Bạn có muốn tiếp tục?</numerusform>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn chuẩn bị xóa &apos;%1&quot;%2
+Phiên bản này có thể sẽ bị xóa vĩnh viễn
+
+Bạn có chắc chắn không ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
@@ -8455,7 +8459,7 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="347"/>
         <source>Update Successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Cập nhật thành công</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="348"/>
@@ -9046,7 +9050,8 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cho phép cài đặt các gói dữ liệu trong tất cả các thế giới nếu mod khả dụng đã được cài đặt.
+Bạn có thể sẽ phải thay đổi đường dẫn - vui lòng tham khảo trang web của mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
@@ -9141,7 +9146,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="726"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation>Bật MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="733"/>
@@ -11686,7 +11691,8 @@ Chọn tên của bạn một cách cẩn thận:</translation>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="269"/>
         <source>Network Error: %1
 HTTP Status: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Lỗi mạng: %1
+Trạng thái HTTP: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="280"/>
@@ -12722,7 +12728,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="243"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Tạo Shortcut</translation>
+        <translation>Tạo lối tắt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
@@ -13144,7 +13150,7 @@ Vui lòng cập nhật %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"/>
         <source>No versions available</source>
-        <translation type="unfinished"></translation>
+        <translation>Không có phiên bản khả dụng</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="433"/>
