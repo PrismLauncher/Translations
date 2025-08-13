@@ -29,12 +29,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Usługa wklejania i jej &amp;typ</translation>
+        <translation>Usługa wklejania i &amp;typ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>Bazowy &amp;URL</translation>
+        <translation type="unfinished">Bazowy &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -50,7 +50,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Uwaga: prawdopodobnie należy zmienić lub wyczyścić Bazowy URL po zmianie typu usługi wklejania.</translation>
+        <translation>Uwaga: prawdopodobnie chcesz zmienić lub wyczyścić Bazę URL po zmianie typu usługi wklejania.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
@@ -60,7 +60,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>Możesz wybrać inny serwer, jeśli masz problemy z pobieraniem zasobów.</translation>
+        <translation type="unfinished">Możesz ustawić inny serwer, jeśli masz problemy z pobieraniem zasobów.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
