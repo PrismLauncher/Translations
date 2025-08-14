@@ -6195,7 +6195,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="560"></location>
         <source>Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Limiet voor opnieuw proberen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="567"></location>
