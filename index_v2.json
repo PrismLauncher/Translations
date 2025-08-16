@@ -51,12 +51,12 @@
             "untranslated" : 2473
         },
         "ca" : {
-            "file" : "be1c333c08cd7e92ee03415271ad7a4816ea4353.class",
-            "sha1" : "be1c333c08cd7e92ee03415271ad7a4816ea4353",
-            "size" : 211340,
+            "file" : "71ebace3c3b2cbcf3aea061e67c92bca5a29a837.class",
+            "sha1" : "71ebace3c3b2cbcf3aea061e67c92bca5a29a837",
+            "size" : 212325,
             "translated" : 1210,
-            "fuzzy" : 333,
-            "untranslated" : 1091
+            "fuzzy" : 344,
+            "untranslated" : 1080
         },
         "ca@valencia" : {
             "file" : "f402864ae3b9f11dc56fbf8f79addb5cf37d058a.class",
@@ -283,12 +283,12 @@
             "untranslated" : 2583
         },
         "gl" : {
-            "file" : "44741a662d3e7cfb166d9c81032c3328236d871f.class",
-            "sha1" : "44741a662d3e7cfb166d9c81032c3328236d871f",
-            "size" : 196774,
+            "file" : "fda66d2dd7555847ff44c4974caeb9e312f1e368.class",
+            "sha1" : "fda66d2dd7555847ff44c4974caeb9e312f1e368",
+            "size" : 198552,
             "translated" : 1183,
-            "fuzzy" : 372,
-            "untranslated" : 1079
+            "fuzzy" : 377,
+            "untranslated" : 1074
         },
         "grc" : {
             "file" : "da72a6347f5e56d8a284f36b8d18c557cb941aa1.class",
@@ -299,12 +299,12 @@
             "untranslated" : 1814
         },
         "he" : {
-            "file" : "4197b70a4b8d0eac26e271501b62850965aa6561.class",
-            "sha1" : "4197b70a4b8d0eac26e271501b62850965aa6561",
-            "size" : 98520,
-            "translated" : 742,
+            "file" : "4e6c11ab978bb79a3d26bc9fb6ae2f6c64bc53b5.class",
+            "sha1" : "4e6c11ab978bb79a3d26bc9fb6ae2f6c64bc53b5",
+            "size" : 98793,
+            "translated" : 744,
             "fuzzy" : 234,
-            "untranslated" : 1658
+            "untranslated" : 1656
         },
         "hi" : {
             "file" : "33bb2775017b13e2cf026d3dc75cf1dee70fa994.class",
