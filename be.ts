@@ -830,12 +830,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="368"></location>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Расцягнуць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"></location>
         <source>Cat Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Непразрыстасць Коціка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"></location>
@@ -845,12 +845,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"></location>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Празрысты</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"></location>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Папярэдні прагляд</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"></location>
