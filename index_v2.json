@@ -555,20 +555,20 @@
             "untranslated" : 439
         },
         "ru" : {
-            "file" : "2f714d49c477a748e5e22ccc7259a254ddbe3d02.class",
-            "sha1" : "2f714d49c477a748e5e22ccc7259a254ddbe3d02",
-            "size" : 392138,
-            "translated" : 2632,
-            "fuzzy" : 2,
+            "file" : "f46ce3250db5e1c8e8bbacbe06e480cf59320a46.class",
+            "sha1" : "f46ce3250db5e1c8e8bbacbe06e480cf59320a46",
+            "size" : 392156,
+            "translated" : 2633,
+            "fuzzy" : 1,
             "untranslated" : 0
         },
         "sk" : {
-            "file" : "604d9296a8e1eb8b7cf7717140e108d7ac386bc8.class",
-            "sha1" : "604d9296a8e1eb8b7cf7717140e108d7ac386bc8",
-            "size" : 208193,
-            "translated" : 1238,
-            "fuzzy" : 330,
-            "untranslated" : 1066
+            "file" : "77079b754128c077e9ee143bbf6c25eb8046a1d2.class",
+            "sha1" : "77079b754128c077e9ee143bbf6c25eb8046a1d2",
+            "size" : 214211,
+            "translated" : 1248,
+            "fuzzy" : 346,
+            "untranslated" : 1040
         },
         "sl" : {
             "file" : "e5f1a93252dfd161c259839ffc5d00f33ecd28e6.class",
