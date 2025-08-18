@@ -4,76 +4,76 @@
 <context>
     <name>APIPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"></location>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
         <translation>&amp;Pastebinサービス</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"></location>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
         <translation>ペーストサービスの種類(&amp;T)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"></location>
         <source>Base &amp;URL</source>
         <translation>ベース&amp;URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="125"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="157"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="179"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="224"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="340"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="383"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"></location>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="125"></location>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="157"></location>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="179"></location>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="224"></location>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="340"></location>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="383"></location>
         <source>Use Default</source>
         <translation>デフォルトを使用する</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"></location>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
         <translation>注: 貼り付けサービス タイプを変更した後は、ベース URL を変更またはクリアする必要がある可能性があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"></location>
         <source>Assets Server</source>
         <translation>assetsサーバー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"></location>
         <source>You can set this to another server if you have problems with downloading assets.</source>
         <translation>assetsのダウンロードに問題がある場合は他のサーバーに設定できます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"></location>
         <source>&amp;API Keys</source>
         <translation>&amp;API キー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="205"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="205"></location>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
         <translation>Microsoftの認証(&amp;M)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"></location>
         <source>Mod&amp;rinth</source>
         <translation>Modrinth</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"></location>
         <source>Use None</source>
         <translation>使用しない</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="318"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="318"></location>
         <source>&amp;CurseForge</source>
         <translation>CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="373"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="373"></location>
         <source>&amp;Technic</source>
         <translation>Technic</translation>
     </message>
@@ -82,7 +82,7 @@
         <translation>APIキー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"></location>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>注意：Microsoftアカウントによるログインがすでに機能している場合は、これを設定する必要はありません。</translation>
     </message>
@@ -117,7 +117,7 @@
         <translation>Technic LauncherのクライアントID</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"></location>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意：個人データにアクセスする場合にのみ設定する必要があります。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -130,27 +130,27 @@
         <translation>その他</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"></location>
         <source>User Agent</source>
         <translation>ユーザーエージェント</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"></location>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
         <translation>カスタムユーザーエージェントをここに入力してください。特殊な文字列 $LAUNCHER_VER はランチャーのバージョンに置き換えられます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"></location>
         <source>Meta&amp;data Server</source>
         <translation>メタデータ サーバー(&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"></location>
         <source>Services</source>
         <translation>サービス</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"></location>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
         <translation>サードパーティのメタデータサーバーを設定することで、パッチを適用したライブラリやその他のハックを使用することができます。</translation>
     </message>
@@ -159,7 +159,7 @@
         <translation>メタデータ用のカスタムURLをここに入力してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"></location>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意：この設定は、個人データにアクセスする場合にのみ設定する必要があります。詳細については、&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;ドキュメント&lt;/a&gt; をご覧ください。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -168,7 +168,7 @@
         <translation>&amp;CurseForge コアAPI</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"></location>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
         <translation>注意：CurseForgeがすでに機能している場合は、この設定を変更する必要はありません。</translation>
     </message>
@@ -185,84 +185,84 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="121"></location>
         <source>Could not understand pack manifest:
 </source>
         <translation>パックのマニフェストを解釈できませんでした：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="343"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="343"></location>
         <source>Failed to get local metadata index for %1</source>
         <translation>%1 のローカル メタデータインデックスの取得に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="153"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="153"></location>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
         <translation>&apos;%1&apos; v%2 のローカル メタデータインデックスの取得に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="143"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="143"></location>
         <source>Unsupported installation mode</source>
         <translation>非対応のインストールモードです</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="184"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="184"></location>
         <source>Deleting existing files...</source>
         <translation>既存ファイルを削除中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="331"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="331"></location>
         <source>Unknown mod type: %1</source>
         <translation>不明なModの種類：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="374"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="374"></location>
         <source>Failed to find version for %1 loader</source>
         <translation>%1ローダーのバージョンを見つけられませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="387"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="387"></location>
         <source>No loader version set for modpack!</source>
         <translation>ModパックにModローダーのバージョンが設定されていません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"></location>
         <source>Unknown or unsupported download type: %1</source>
         <translation>不明または非対応なダウンロードのタイプです：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="633"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="633"></location>
         <source>Downloading configs...</source>
         <translation>コンフィグをダウンロード中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"></location>
         <source>Config download</source>
         <translation>構成データのダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="675"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="675"></location>
         <source>Extracting configs...</source>
         <translation>コンフィグを展開中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="681"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="681"></location>
         <source>Failed to open pack configs %1!</source>
         <translation>パックのコンフィグを開くのに失敗しました %1！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"></location>
         <source>Selecting optional mods...</source>
         <translation>オプションのModを選択中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"></location>
         <source>Downloading mods...</source>
         <translation>Modをダウンロード中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"></location>
         <source>Mod download</source>
         <translation>Mod のダウンロード</translation>
     </message>
@@ -271,53 +271,53 @@
         <translation type="vanished">対応していないダウンロードのタイプです:%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="743"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="873"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="743"></location>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="873"></location>
         <source>Unknown download type: %1</source>
         <translation>不明なダウンロードのタイプです：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="823"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="823"></location>
         <source>Blocked mods found</source>
         <translation>ブロックされたModが見つかりました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"></location>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>以下のファイルはサードパーティのランチャーでのダウンロードができません。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="880"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="880"></location>
         <source>%1 out of %2 complete</source>
         <translation>%2のうち%1完了</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="915"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="915"></location>
         <source>Failed to extract mods...</source>
         <translation>Modの展開に失敗しました…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="925"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="925"></location>
         <source>Extracting mods...</source>
         <translation>Modを展開中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="997"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="997"></location>
         <source>Installing modpack</source>
         <translation>Modパックをインストール中</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1009"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1009"></location>
         <source>Failed to create libraries component</source>
         <translation>ライブラリコンポーネントの作成に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1036"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1036"></location>
         <source>Unknown loader type: </source>
         <translation>不明なModローダーの種類です： </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1050"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1050"></location>
         <source>Failed to create pack component</source>
         <translation>パックコンポーネントの作成に失敗しました</translation>
     </message>
@@ -325,12 +325,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="107"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="107"></location>
         <source>About</source>
         <translation>情報</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"></location>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;複数の起動構成を簡単に管理できるMinecraftのカスタムランチャーです。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -339,58 +339,58 @@
         <translation type="vanished">バージョン：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"></location>
         <source>Platform:</source>
         <translation>プラットフォーム：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"></location>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
         <translation>ビルド日時：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"></location>
         <source>Commit:</source>
         <translation>コミット：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"></location>
         <source>Channel:</source>
         <translation>チャンネル：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"></location>
         <source>Credits</source>
         <translation>クレジット</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"></location>
         <source>License</source>
         <translation>ライセンス</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"></location>
         <source>About Qt</source>
         <translation>Qtについて</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"></location>
         <source>Close</source>
         <translation>閉じる</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="140"></location>
         <source>About %1</source>
         <translation>%1について</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"></location>
         <source>Commit: %1</source>
         <translation>コミット：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"></location>
         <source>Build date: %1</source>
         <translation>ビルド日時：%1</translation>
     </message>
@@ -399,7 +399,7 @@
         <translation type="vanished">バージョン</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"></location>
         <source>Platform</source>
         <translation>プラットフォーム</translation>
     </message>
@@ -408,7 +408,7 @@
         <translation type="vanished">ビルドナンバー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="171"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="171"></location>
         <source>Channel</source>
         <translation>チャンネル</translation>
     </message>
@@ -431,19 +431,19 @@
         <translation type="vanished">オンライン</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"></location>
         <source>MSA</source>
         <comment>Account type</comment>
         <translation>MSA</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"></location>
         <source>Offline</source>
         <comment>Account type</comment>
         <translation>オフライン</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"></location>
         <source>Unknown</source>
         <comment>Account type</comment>
         <translation>不明</translation>
@@ -484,7 +484,7 @@
         <translation>不明</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"></location>
         <source>Type of the account (MSA or Offline)</source>
         <translation>アカウントのタイプ (MSAまたはオフライン)</translation>
     </message>
@@ -519,22 +519,22 @@
         <translation type="vanished">いいえ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="343"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="343"></location>
         <source>Username</source>
         <translation>ユーザー名</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"></location>
         <source>Account</source>
         <translation>アカウント</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="347"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="347"></location>
         <source>Type</source>
         <translation>タイプ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="349"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="349"></location>
         <source>Status</source>
         <translation>状態</translation>
     </message>
@@ -543,7 +543,7 @@
         <translation type="vanished">移行可能か?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"></location>
         <source>Minecraft username associated with the account.</source>
         <translation>アカウントに関連付けられたMinecraftのユーザー名。</translation>
     </message>
@@ -552,7 +552,7 @@
         <translation type="vanished">プロフィール</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"></location>
         <source>User name of the account.</source>
         <translation>アカウントのユーザー名。</translation>
     </message>
@@ -561,7 +561,7 @@
         <translation type="vanished">アカウントの種類 (Mojang / MSA)。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="363"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="363"></location>
         <source>Current status of the account.</source>
         <translation>現在のアカウントの状態。</translation>
     </message>
@@ -579,19 +579,19 @@
         <translation type="vanished">Mojangアカウントを追加(&amp;M)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="105"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="105"></location>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
         <translation>削除(&amp;V)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"></location>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
         <translation>デフォルトに設定(&amp;S)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"></location>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
         <translation>デフォルトなし(&amp;N)</translation>
@@ -611,40 +611,40 @@
         <translation type="vanished">現在使用中のスキンを削除し、デフォルトのスキンに戻す</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"></location>
         <source>&amp;Manage Skins</source>
         <translation>スキンの管理(&amp;M)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"></location>
         <source>Manage Skins</source>
         <translation>スキンの管理</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"></location>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
         <translation>Microsoftアカウントを追加(&amp;A)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"></location>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
         <translation>オフラインアカウントを追加(&amp;O)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"></location>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
         <translation>更新(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"></location>
         <source>Refresh the account tokens</source>
         <translation>アカウントのトークンを更新</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="59"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="59"></location>
         <source>Accounts</source>
         <translation>アカウント</translation>
     </message>
@@ -657,19 +657,19 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 初めて使う場合は、「追加」ボタンを押してあなたの Microsoft か Mojang のアカウントを追加して下さい。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"></location>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>ようこそ！
 初めての方は、「Microsoftアカウントを追加」ボタンを押して、Microsoftアカウントをリンクしてください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"></location>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>Microsoft認証のクライアントIDが設定されていません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="106"></location>
         <source>Context menu</source>
         <translation>コンテキストメニュー</translation>
     </message>
@@ -690,7 +690,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
         <translation type="vanished">Mojangのアカウントを使うにはメールアドレスとパスワードを入力してください.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"></location>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation>オフラインアカウントを追加する前にMinecraftを所有しているMicrosoftアカウントを追加する必要があります。&lt;br&gt;&lt;br&gt;アカウントを紛失した場合は、Microsoftに連絡し、サポートを受けてください。</translation>
     </message>
@@ -708,7 +708,7 @@ Please update both your operating system and %1.</source>
 OSと%1をアップデートしてください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
@@ -717,17 +717,17 @@ OSと%1をアップデートしてください。</translation>
         <translation type="vanished">オフラインのアカウントを追加する前に、Minecraftを所有しているMicrosoftまたはMojangのアカウントを追加する必要があります。&lt;br&gt;&lt;br&gt;アカウントを紛失した場合は、Microsoftに連絡してサポートを受けることができます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"></location>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>オフラインのアカウントを追加するには、ご希望のユーザー名を入力してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"></location>
         <source>Remove account?</source>
         <translation>アカウントを削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"></location>
         <source>Do you really want to delete this account?</source>
         <translation>本当にこのアカウントを削除しますか？</translation>
     </message>
@@ -782,7 +782,7 @@ OSと%1をアップデートしてください。</translation>
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="90"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="90"></location>
         <source>All Versions</source>
         <translation>すべてのバージョン</translation>
     </message>
@@ -790,7 +790,7 @@ OSと%1をアップデートしてください。</translation>
 <context>
     <name>AppearancePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="55"/>
+        <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="55"></location>
         <source>Appearance</source>
         <translation>外観</translation>
     </message>
@@ -798,119 +798,119 @@ OSと%1をアップデートしてください。</translation>
 <context>
     <name>AppearanceWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"></location>
         <source>View cat packs folder.</source>
         <translation>猫パックのフォルダーを開く。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"></location>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"></location>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"></location>
         <source>Open Folder</source>
         <translation>フォルダーを開く</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"></location>
         <source>View widget themes folder.</source>
         <translation>ウィジェットテーマのフォルダーを開く。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"></location>
         <source>View icon themes folder.</source>
         <translation>アイコンテーマのフォルダーを開く。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"></location>
         <source>&amp;Cat Pack:</source>
         <translation>&amp;Cat パック:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"></location>
         <source>Reload All</source>
         <translation>すべて再読み込み</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"></location>
         <source>Theme:</source>
         <translation>テーマ:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"></location>
         <source>&amp;Icons:</source>
         <translation>アイコン(&amp;I)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"></location>
         <source>Console Font:</source>
         <translation>コンソールフォント:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"></location>
         <source>Cat Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>猫の拡大方法</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"></location>
         <source>Fit</source>
         <translation>フィット</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="363"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="363"></location>
         <source>Fill</source>
         <translation>満たす</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="368"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="368"></location>
         <source>Stretch</source>
         <translation>伸縮</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"></location>
         <source>Cat Opacity</source>
         <translation>猫の不透明度</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"></location>
         <source>Opaque</source>
         <translation>不透明</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"></location>
         <source>Transparent</source>
         <translation>透明</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"></location>
         <source>Preview</source>
         <translation>プレビュー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"></location>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
         <translation>[エラー] うぉぉぉぉぉ！不気味なエラーです！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"></location>
         <source>[ERROR] A spooky error!</source>
         <translation>[エラー] 不気味なエラー！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="263"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="263"></location>
         <source>[INFO] A harmless message...</source>
         <translation>[情報] 無害なメッセージです…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"></location>
         <source>[WARN] A not so spooky warning.</source>
         <translation>[警告] それほど不気味ではない警告です。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"></location>
         <source>[DEBUG] A secret debugging message...</source>
         <translation>[デバッグ] 秘密のデバッグメッセージ…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"></location>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[致命的] 恐ろしい致命的なエラー！</translation>
     </message>
@@ -918,17 +918,17 @@ OSと%1をアップデートしてください。</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="702"/>
+        <location filename="src/launcher/Application.cpp" line="702"></location>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>ログの長さが %1 行を超えたため、このログを表示できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="908"/>
+        <location filename="src/launcher/Application.cpp" line="908"></location>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1054"/>
+        <location filename="src/launcher/Application.cpp" line="1054"></location>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -955,12 +955,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 このロックファイルを上書きしてアップデートを続行する場合は、以下の「無視」を選択してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1071"/>
+        <location filename="src/launcher/Application.cpp" line="1071"></location>
         <source>Update In Progress</source>
         <translation>アップデート中</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1095"/>
+        <location filename="src/launcher/Application.cpp" line="1095"></location>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -975,12 +975,12 @@ for details on the last update attempt.</source>
 のログを確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1103"/>
+        <location filename="src/launcher/Application.cpp" line="1103"></location>
         <source>Update Failed</source>
         <translation>アップデート失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1127"/>
+        <location filename="src/launcher/Application.cpp" line="1127"></location>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1001,12 +1001,12 @@ for details.</oldsource>
 のログを確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1135"/>
+        <location filename="src/launcher/Application.cpp" line="1135"></location>
         <source>Update Succeeded</source>
         <translation>アップデート成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1167"/>
+        <location filename="src/launcher/Application.cpp" line="1167"></location>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1027,32 +1027,32 @@ Minecraft のバージョンによっては起動しない場合があります�
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1173"/>
+        <location filename="src/launcher/Application.cpp" line="1173"></location>
         <source>Incompatible system configuration</source>
         <translation>システム構成に互換性がありません</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1547"/>
+        <location filename="src/launcher/Application.cpp" line="1547"></location>
         <source>Aborted</source>
         <translation>中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1956"/>
+        <location filename="src/launcher/Application.cpp" line="1956"></location>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 からの古いデータが見つかりましたが、%2 用のデータが既に存在しています。手動で移行する必要があります。次回 %2 を起動する際に保留中のデータ移行について通知しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1960"/>
+        <location filename="src/launcher/Application.cpp" line="1960"></location>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>あなたは以前 %1 を使用していたようです。データを %2 の新しい場所に移行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1966"/>
+        <location filename="src/launcher/Application.cpp" line="1966"></location>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>あなたは以前 %2 に %1 を使用していたようです。データを %3 の新しい場所に移行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2009"/>
+        <location filename="src/launcher/Application.cpp" line="2009"></location>
         <source>Migration failed! Reason: %1</source>
         <translation>次の理由で移行に失敗しました：%1</translation>
     </message>
@@ -1097,33 +1097,33 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>AssetUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"></location>
         <source>Updating assets index...</source>
         <translation>assetsインデックスを更新中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"></location>
         <source>Asset index for %1</source>
         <translation>%1 のassetインデックス</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="42"/>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="42"></location>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"></location>
         <source>Aborted</source>
         <translation>中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"></location>
         <source>Failed to read the assets index!</source>
         <translation>assetsインデックスの読み込みに失敗しました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"></location>
         <source>Mojang</source>
         <translation>Mojang</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"></location>
         <source>Getting the assets files from %1...</source>
         <translation>%1からassetsファイルを取得中...</translation>
     </message>
@@ -1132,14 +1132,14 @@ Minecraft のバージョンによっては起動しない場合があります�
         <translation>Mojangからassetsファイルを取得中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"></location>
         <source>Failed to download the assets index:
 %1</source>
         <translation>assetsインデックスのダウンロードに失敗しました：
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="101"></location>
         <source>Failed to download assets:
 %1</source>
         <translation>assetsのダウンロードに失敗しました：
@@ -1149,19 +1149,19 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>Atl::FilterModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"></location>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
         <translation>人気順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"></location>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
         <translation>名前順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"></location>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
         <translation>ゲームバージョン順</translation>
@@ -1170,42 +1170,42 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>AtlOptionalModDialog</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"></location>
         <source>Select Mods To Install</source>
         <translation>インストールするModを選択します</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"></location>
         <source>Install</source>
         <translation>インストール</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"></location>
         <source>Select Recommended</source>
         <translation>推奨を選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"></location>
         <source>Use Share Code</source>
         <translation>共有コードの使用</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"></location>
         <source>Clear All</source>
         <translation>すべてクリア</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"></location>
         <source>Select a share code</source>
         <translation>シェアコードを選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"></location>
         <source>Share code:</source>
         <translation>シェアコード：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="354"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="354"></location>
         <source>No share code specified!</source>
         <translation>シェアコードが指定されていません！</translation>
     </message>
@@ -1213,12 +1213,12 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>AtlOptionalModListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="244"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="244"></location>
         <source>Are you sure that you want to enable this mod?</source>
         <translation>このModを有効にしますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"></location>
         <source>Warning</source>
         <translation>警告</translation>
     </message>
@@ -1226,17 +1226,17 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>AtlPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"></location>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
         <translation>警告：これはまだ開発中の機能です。インポートしたModパックで問題が発生した場合、バグの可能性があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"></location>
         <source>Version selected:</source>
         <translation>バージョンの選択：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"></location>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
         <translation>検索とフィルター...</translation>
@@ -1265,22 +1265,22 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>AtlUserInteractionSupportImpl</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"></location>
         <source>No versions are currently available for Minecraft %1</source>
         <translation>現在、Minecraft %1 で利用可能なバージョンはありません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"></location>
         <source>No versions are currently available</source>
         <translation>現在利用可能なバージョンはありません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"></location>
         <source>Couldn&apos;t load or download the version lists!</source>
         <translation>バージョン一覧の読み込みまたはダウンロードに失敗しました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"></location>
         <source>Installing</source>
         <translation>インストール中</translation>
     </message>
@@ -1288,62 +1288,62 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>AuthFlow</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="50"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="50"></location>
         <source>Finished all authentication steps</source>
         <translation>すべての認証が完了</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="55"></location>
         <source>Initializing</source>
         <translation>初期化中</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"></location>
         <source>Waiting...</source>
         <translation>待機中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="95"></location>
         <source>Working...</source>
         <translation>処理中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"></location>
         <source>Authentication task succeeded.</source>
         <translation>認証に成功しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"></location>
         <source>Failed to contact the authentication server.</source>
         <translation>認証サーバーへの接続に失敗しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"></location>
         <source>Client ID has changed. New session needs to be created.</source>
         <translation>クライアントIDが変更されました。新しいセッションを作成する必要があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"></location>
         <source>Encountered an error during authentication.</source>
         <translation>認証中にエラーが発生しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"></location>
         <source>Failed to authenticate. The session has expired.</source>
         <translation>認証に失敗しました。セッションの有効期限が切れています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"></location>
         <source>Failed to authenticate. The account no longer exists.</source>
         <translation>認証に失敗しました。このアカウントは存在しません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"></location>
         <source>...</source>
         <translation>…</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"></location>
         <source>Unknown account task state: %1</source>
         <translation>不明なアカウントのタスクの状態：%1</translation>
     </message>
@@ -1351,52 +1351,52 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>AutoInstallJava</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"></location>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
         <translation>Javaの自動管理システムは32bit版のJavaを検出しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"></location>
         <source>No compatible Java version was found. Using the default one.</source>
         <translation>互換性のあるJavaのバージョンが見つかりませんでした。デフォルトのものを使用しています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"></location>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
         <translation>お使いのシステム (%1-%2) は Java の自動インストールに対応していません。既定の Java パスを使用しています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"></location>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
         <translation>メタ情報が古いか、Javaのインストールを判別するのに必要な情報がありません。デフォルトのJavaパスを使用しています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"></location>
         <source>Compatible Java found at: %1.</source>
         <translation>互換性のある Java が次の場所で見つかりました: %1。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"></location>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
         <translation>互換性のあるJavaバージョンが見つかりませんでした（バイナリファイルが存在しません）。デフォルトのものを使用しています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"></location>
         <source>Could not determine Java download type!</source>
         <translation>Javaのダウンロードの種類を判別できませんでした！</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"></location>
         <source>Install Java</source>
         <translation>Javaのインストール</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"></location>
         <source>No versions of Java were found for your operating system: %1-%2</source>
         <translation>お使いのOSに対応するJavaのバージョンは見つかりませんでした：%1-%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"></location>
         <source>No compatible version of Java was found. Using the default one.</source>
         <translation>互換性のあるJavaのバージョンが見つかりませんでした。デフォルトのものを使用しています。</translation>
     </message>
@@ -1404,28 +1404,28 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>AutoJavaWizardPage</name>
     <message>
-        <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
+        <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"></location>
         <source>Form</source>
         <translation>フォーム</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
+        <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"></location>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;新機能のお知らせ！&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
+        <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"></location>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
         <translation>Minecraftの各バージョンに適したJavaバージョンを自動的にダウンロードする機能を追加しました（Java設定で変更できます）。この機能を有効または無効にしますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
+        <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"></location>
         <source>Enable Auto-Download</source>
         <translation>自動ダウンロードを有効化</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
+        <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"></location>
         <source>Disable Auto-Download</source>
         <translation>自動ダウンロードを無効化</translation>
     </message>
@@ -1433,7 +1433,7 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>BaseProfiler</name>
     <message>
-        <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
+        <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"></location>
         <source>Profiler aborted</source>
         <translation>プロファイラは中断されました</translation>
     </message>
@@ -1441,73 +1441,73 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>BlockedModsDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="173"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="173"></location>
         <source>All mods found</source>
         <translation>すべてのModが見つかりました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"></location>
         <source>Please download the missing mods.</source>
         <translation>不足しているModをダウンロードしてください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"></location>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; %1 で見つかりました &lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="175"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"></location>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="175"></location>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"></location>
         <source>Skip</source>
         <translation>スキップ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"></location>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;設定済みのグローバルMODフォルダとデフォルトのダウンロードフォルダが自動的にスキャンされ、ダウンロード済みのMODが見つかった場合はインスタンスにコピーされます。&lt;/p&gt;&lt;p&gt;また、ダウンロードしたMODをこのダイアログにドラッグ＆ドロップしたり、既定の場所以外にMODをダウンロードした場合は監視フォルダを追加したりすることもできます。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;「不足MODを開く」をクリックすると、すべてのダウンロードリンクがブラウザで開きます。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"></location>
         <source>Blocked Mods</source>
         <translation>ブロックされたMod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"></location>
         <source>Open Missing</source>
         <translation>不足分をすべて開く</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"></location>
         <source>Watched Folders</source>
         <translation>監視フォルダ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"></location>
         <source>Add Download Folder</source>
         <translation>ダウンロードフォルダを追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"></location>
         <source>Select directory where you downloaded the mods</source>
         <translation>ダウンロードしたModを保存するディレクトリを選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"></location>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; 見つかりません &lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="159"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="159"></location>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
         <translation>%1：&lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;ハッシュ：%3 %4 &lt;/p&gt; &lt;br/&gt;</translation>
     </message>
@@ -1523,12 +1523,12 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>CapeChange</name>
     <message>
-        <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="55"></location>
         <source>Equipping cape</source>
         <translation>マントを装備しています</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="52"/>
+        <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="52"></location>
         <source>Removing cape</source>
         <translation>マントを外しています</translation>
     </message>
@@ -1536,7 +1536,7 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>CheckJava</name>
     <message>
-        <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
+        <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"></location>
         <source>Java checker library could not be found. Please check your installation.</source>
         <translation>Java checkerライブラリが見つかりませんでした。設定を確認してください。</translation>
     </message>
@@ -1544,32 +1544,32 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>ChooseProviderDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
+        <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"></location>
         <source>Choose a mod provider</source>
         <translation>Modの提供元を選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
+        <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"></location>
         <source>Skip this mod</source>
         <translation>このModをスキップ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
+        <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"></location>
         <source>Skip all</source>
         <translation>すべてスキップ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
+        <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"></location>
         <source>Confirm for all</source>
         <translation>すべて確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
+        <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"></location>
         <source>Confirm</source>
         <translation>確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
+        <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"></location>
         <source>Try to automatically use other providers if the chosen one fails</source>
         <translation>選択した提供元で失敗した場合、自動的に他の提供元を使用する</translation>
     </message>
@@ -1577,37 +1577,37 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>ComponentUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="188"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="188"></location>
         <source>Aborted</source>
         <translation>中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"></location>
         <source>Some component metadata load tasks failed.</source>
         <translation>一部コンポーネントのメタデータの読み込みに失敗しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"></location>
         <source>Conflicting requirements detected during dependency checking!</source>
         <translation>依存関係の確認中に要件の競合が見つかりました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="467"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="467"></location>
         <source>Instance has conflicting dependencies.</source>
         <translation>起動構成の依存関係に競合があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="473"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="473"></location>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
         <translation>起動構成の読込・確認中に未解決の依存関係が見つかりました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"></location>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
         <translation>%1 %2 のメタデータをダウンロードできませんでした。バージョンを変更するか、後でもう一度お試しください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"></location>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>リモートサーバーからコンポーネントのメタデータをダウンロードするタスクが失敗しました:
@@ -1617,7 +1617,7 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>ConcurrentTask</name>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="94"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="94"></location>
         <source>Failed to abort all running tasks.</source>
         <translation>実行中のタスクの中断に失敗しました。</translation>
     </message>
@@ -1626,44 +1626,44 @@ Minecraft のバージョンによっては起動しない場合があります�
         <translation>一つまたは複数のサブタスクが失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"></location>
         <source>Task failed</source>
         <translation>タスクが失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"></location>
         <source>Multiple subtasks failed</source>
         <translation>複数のサブタスクが失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"></location>
         <source>Multiple subtasks failed
 %1</source>
         <translation>複数のサブタスクが失敗しました
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"></location>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>%1 のタスクを実行中 (%3 の内 %2 が完了)</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"></location>
         <source>Please wait...</source>
         <translation>お待ちください...</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"></location>
         <source>Waiting for a task to start...</source>
         <translation>タスクの開始を待機中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="253"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="253"></location>
         <source>Executing 1 task:</source>
         <translation>1つのタスクを実行中：</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="255"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="255"></location>
         <source>Task finished.</source>
         <translation>タスク完了。</translation>
     </message>
@@ -1671,193 +1671,193 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>CopyInstanceDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"></location>
         <source>Copy Instance</source>
         <translation>起動構成の複製</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"></location>
         <source>Name</source>
         <translation>名前</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"></location>
         <source>&amp;Group</source>
         <translation>グループ(&amp;G)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"></location>
         <source>Select all</source>
         <translation>すべて選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"></location>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
         <translation>これを無効にした場合、Modローダー（例：Fabric、Quiltなど）は保持されますが、modsフォルダーとその設定は消去されます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"></location>
         <source>Instance Copy Options</source>
         <translation>起動構成のコピー設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"></location>
         <source>Copy mods</source>
         <translation>Modをコピー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"></location>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
         <translation>視野、最大フレームレートなどのゲーム内設定をコピーする。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"></location>
         <source>Copy game options</source>
         <translation>ゲーム内設定をコピー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"></location>
         <source>Copy saves</source>
         <translation>ワールドをコピー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"></location>
         <source>Advanced Copy Options</source>
         <translation>高度なコピー設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"></location>
         <source>Use symbolic or hard links instead of copying files.</source>
         <translation>ファイルをコピーする代わりにシンボリックリンクを使用します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"></location>
         <source>Symbolic and Hard Link Options</source>
         <translation>シンボリックリンク(またはハードリンク)の設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"></location>
         <source>Links are supported on most filesystems except FAT</source>
         <translation>リンクはFAT以外のほとんどのファイルシステムでサポートされています</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"></location>
         <source>Link each resource individually instead of linking whole folders at once</source>
         <translation>フォルダー全体ではなく、個別のファイルにリンクを作成する</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"></location>
         <source>Link files recursively</source>
         <translation>ファイルを再帰的にリンクする</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"></location>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
         <translation>「ワールドをコピー」が選択されている場合、ワールドのセーブデータをリンクするのではなくコピーし、起動構成の間で共有されることがなくなります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"></location>
         <source>Don&apos;t link saves</source>
         <translation>セーブデータをリンクしない</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"></location>
         <source>Use hard links instead of copying files.</source>
         <translation>ファイルをコピーする代わりにハードリンクを使用します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"></location>
         <source>Use hard links</source>
         <translation>ハードリンクを使用する</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"></location>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"></location>
         <source>Use symbolic links instead of copying files.</source>
         <translation>ファイルをコピーする代わりにシンボリックリンクを使用します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"></location>
         <source>Use symbolic links</source>
         <translation>シンボリックリンクを使用する</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"></location>
         <source>CoW (Copy-on-Write) Options</source>
         <translation>CoW(Copy-on-Write)設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"></location>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
         <translation>参照リンクでクローンされたファイルは、編集されるまでディスク容量を圧迫しません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"></location>
         <source>Clone instead of copying</source>
         <translation>コピーの代わりにクローンする</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"></location>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
         <translation>このファイルシステムまたはOSは参照リンクをサポートしていません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"></location>
         <source>Copy shader packs</source>
         <translation>シェーダーパックをコピー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"></location>
         <source>Copy servers</source>
         <translation>サーバーをコピー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"></location>
         <source>Copy resource packs</source>
         <translation>リソースパックをコピー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"></location>
         <source>Keep play time</source>
         <translation>プレイ時間をコピー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"></location>
         <source>Copy screenshots</source>
         <translation>スクリーンショットをコピー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"></location>
         <source>No group</source>
         <translation>グループなし</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"></location>
         <source>Reflinks are supported on %1</source>
         <translation>%1は参照リンクをサポートしています</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="98"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="98"></location>
         <source>Reflinks aren&apos;t supported on %1</source>
         <translation>%1は参照リンクをサポートしていません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"></location>
         <source>On Windows, symbolic links may require admin permission to create.</source>
         <translation>Windowsでは、シンボリックリンクの作成時に管理者権限が要求される可能性があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"></location>
         <source>Help</source>
         <translation>ヘルプ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"></location>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -1865,7 +1865,7 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>CoreModFolderPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="85"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="85"></location>
         <source>Core mods</source>
         <translation>コアMod</translation>
     </message>
@@ -1873,7 +1873,7 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>CreateGameFolders</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="14"/>
+        <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="14"></location>
         <source>Couldn&apos;t create the main game folder</source>
         <translation>メインゲームフォルダを作成できませんでした</translation>
     </message>
@@ -1881,118 +1881,118 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>CreateShortcutDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"></location>
         <source>Create Instance Shortcut</source>
         <translation>起動構成のショートカットを作成</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"></location>
         <source>Save To:</source>
         <translation>保存先:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"></location>
         <source>Name:</source>
         <translation>名前:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"></location>
         <source>Name</source>
         <translation>名前</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"></location>
         <source>Use a different account than the default specified.</source>
         <translation>デフォルトで指定されたアカウント以外を使用する。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"></location>
         <source>Override the default account</source>
         <translation>デフォルトアカウントを上書き</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"></location>
         <source>Specify a world or server to automatically join on launch.</source>
         <translation>起動時に自動で参加するワールドまたはサーバーを指定します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"></location>
         <source>Select a target to join on launch</source>
         <translation>起動時に参加するターゲットを選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"></location>
         <source>World:</source>
         <translation>ワールド:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"/>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"></location>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"></location>
         <source>Server Address:</source>
         <translation>サーバーアドレス:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"></location>
         <source>Server Address</source>
         <translation>サーバーアドレス</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"></location>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
         <translation>注意:ショートカットが作成後に移動された場合、インスタンスを削除してもショートカットは削除されません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"></location>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
         <translation>その場合は、手動で削除する必要があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"></location>
         <source>Desktop</source>
         <translation>デスクトップ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="89"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="89"></location>
         <source>Applications</source>
         <translation>アプリケーション</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="91"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="91"></location>
         <source>Other...</source>
         <translation>その他...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="97"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="97"></location>
         <source>%1 [%2] - Last Played: %3</source>
         <translation>%1 [%2] - 最終プレイ日時: %3</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="113"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="113"></location>
         <source>%1 (in use)</source>
         <translation>%1 (使用中)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="180"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="180"></location>
         <source>%1 - %2</source>
         <translation>%1 - %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="182"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="182"></location>
         <source>%1 - Server %2</source>
         <translation>%1 - サーバー %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="197"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="197"></location>
         <source>instance</source>
         <translation>起動構成</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="201"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="201"></location>
         <source>world</source>
         <translation>ワールド</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="204"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="204"></location>
         <source>server</source>
         <translation>サーバー</translation>
     </message>
@@ -2020,27 +2020,27 @@ Minecraft のバージョンによっては起動しない場合があります�
         <translation>Wrapperコマンド(&amp;W)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"></location>
         <source>Override &amp;Global Settings</source>
         <translation>グローバル設定を上書き(&amp;G)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"></location>
         <source>&amp;Pre-launch Command</source>
         <translation>起動前コマンド(&amp;P)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"></location>
         <source>P&amp;ost-exit Command</source>
         <translation>終了後コマンド(&amp;O)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"></location>
         <source>&amp;Wrapper Command</source>
         <translation>Wrapperコマンド(&amp;W)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"></location>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;起動前コマンドは起動構成の起動前に実行され、終了後コマンドは起動構成の終了後に実行されます。&lt;/p&gt;&lt;p&gt;両方とも、追加の環境変数を使用してランチャーの作業フォルダーで実行されます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 起動構成の名前&lt;/li&gt;&lt;li&gt;$INST_ID - 起動構成の ID（フォルダー名）&lt;/li&gt;&lt;li&gt;$INST_DIR - 起動構成の絶対パス&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftのフォルダーの絶対パス&lt;/li&gt;&lt;li&gt;$INST_JAVA - 起動に使用される Java バイナリ&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 起動に使用されるコマンドライン パラメータ（警告：引数にスペースが含まれていると正しく機能しません）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper コマンドにより、追加のラッパー プログラム（Linux の「optirun」など）を使用して起動できます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -2056,17 +2056,17 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>CustomPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="58"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="58"></location>
         <source>Filter</source>
         <translation>フィルター</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"></location>
         <source>Releases</source>
         <translation>通常のリリース</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"></location>
         <source>Snapshots</source>
         <translation>スナップショット</translation>
     </message>
@@ -2075,78 +2075,78 @@ Minecraft のバージョンによっては起動しない場合があります�
         <translation type="vanished">古いスナップショット</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="91"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="91"></location>
         <source>Betas</source>
         <translation>ベータ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="101"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="101"></location>
         <source>Alphas</source>
         <translation>アルファ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="111"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="111"></location>
         <source>Experiments</source>
         <translation>実験的なバージョン</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="258"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"></location>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="258"></location>
         <source>Refresh</source>
         <translation>再読み込み</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"></location>
         <source>Mod Loader</source>
         <translation>Modローダー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="182"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="182"></location>
         <source>None</source>
         <translation>なし</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="195"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="195"></location>
         <source>NeoForge</source>
         <translation>NeoForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="205"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="205"></location>
         <source>Forge</source>
         <translation>Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="215"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="215"></location>
         <source>Fabric</source>
         <translation>Fabric</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="225"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="225"></location>
         <source>Quilt</source>
         <translation>Quilt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="235"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="235"></location>
         <source>LiteLoader</source>
         <translation>LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"></location>
         <source>Custom</source>
         <translation>カスタム</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="117"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="117"></location>
         <source>No Minecraft version is selected.</source>
         <translation>Minecraftのバージョンが選択されていません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="123"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="123"></location>
         <source>No mod loader is selected.</source>
         <translation>Modローダーが選択されていません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"></location>
         <source>No versions are currently available for Minecraft %1</source>
         <translation>現在、Minecraft %1 で利用可能なバージョンはありません</translation>
     </message>
@@ -2154,28 +2154,28 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>DataMigrationTask</name>
     <message>
-        <location filename="src/launcher/DataMigrationTask.cpp" line="23"/>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="23"></location>
         <source>Scanning files...</source>
         <translation>ファイルをスキャン中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/DataMigrationTask.cpp" line="41"/>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="41"></location>
         <source>Failed to scan source path.</source>
         <translation>元のファイルパスのスキャンに失敗しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/DataMigrationTask.cpp" line="54"/>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="54"></location>
         <source>Copying %1…</source>
         <translation>%1 をコピー中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/DataMigrationTask.cpp" line="66"/>
-        <location filename="src/launcher/DataMigrationTask.cpp" line="84"/>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="66"></location>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="84"></location>
         <source>Aborted</source>
         <translation>中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="75"></location>
         <source>Some paths could not be copied!</source>
         <translation>いくつかのファイルパスがコピーできませんでした！</translation>
     </message>
@@ -2183,44 +2183,44 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>DataPackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"></location>
         <source>Enable</source>
         <translation>有効</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"></location>
         <source>Image</source>
         <translation>画像</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"></location>
         <source>Name</source>
         <translation>名前</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"></location>
         <source>Pack Format</source>
         <translation>パックフォーマット</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"></location>
         <source>Last Modified</source>
         <translation>更新日時</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="78"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="78"></location>
         <source>Unrecognized</source>
         <translation>認識不能</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="104"/>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="104"></location>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"></location>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>データパックのフォーマットIDと、それが対応するMinecraftのバージョンです。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="109"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="109"></location>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -2229,24 +2229,24 @@ Canonical Path: %1</source>
 絶対パス：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="116"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="116"></location>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 警告：このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"></location>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
         <translation>データパックは有効ですか？（ZIPファイルの場合のみ有効）</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"></location>
         <source>The name of the data pack.</source>
         <translation>データパックの名前です。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="161"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="161"></location>
         <source>The date and time this data pack was last changed (or added).</source>
         <translation>このデータパックが最後に変更（または追加）された日時です。</translation>
     </message>
@@ -2254,81 +2254,81 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 <context>
     <name>DataPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"></location>
         <source>Download Packs</source>
         <translation>パックをダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"></location>
         <source>Download data packs from online mod platforms</source>
         <translation>オンラインのModプラットフォームからデータパックをダウンロードします</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"></location>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
         <translation>選択したすべてのデータパックをチェックまたは更新します（何も選択されていない場合はすべてのデータパックが対象）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"></location>
         <source>Change a data pack&apos;s version.</source>
         <translation>データパックのバージョンを変更します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"></location>
         <source>Download Data Packs</source>
         <translation>データパックをダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="242"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"></location>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"></location>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="169"></location>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"></location>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="242"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"></location>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"></location>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"></location>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"></location>
         <source>Aborted</source>
         <translation>中止されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"></location>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"></location>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"></location>
         <source>Download stopped by user.</source>
         <translation>ユーザーによってダウンロードが中断されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="94"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="179"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="252"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="94"></location>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="179"></location>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="252"></location>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="108"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="189"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="262"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="108"></location>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="189"></location>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="262"></location>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"></location>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"></location>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
         <translation>メタデータが無効になっているため、データパックのアップデートは利用できません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="129"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="129"></location>
         <source>Confirm Update</source>
         <translation>アップデートの確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="130"></location>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -2337,37 +2337,37 @@ Are you sure you want to do this?</source>
 本当に続行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"></location>
         <source>The data pack updater was aborted!</source>
         <translation>データパックのアップデーターが中止されました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"></location>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>「%1」は最新です！ :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"></location>
         <source>All data packs are up-to-date! :)</source>
         <translation>すべてのデータパックは最新です！ :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"></location>
         <source>All selected data packs are up-to-date! :)</source>
         <translation>選択したすべてのデータパックは最新です！ :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"></location>
         <source>Update checker</source>
         <translation>アップデート確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"></location>
         <source>Confirm Removal</source>
         <translation>削除の確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="204"></location>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
         <translation>%1個のデータパックのメタデータを削除しようとしています。
@@ -2421,29 +2421,29 @@ Are you sure?</source>
         <translation>Modにメタデータがあるかどうかを確認中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"></location>
         <source>Checking if resources have metadata...</source>
         <translation>リソースにメタデータがあるかどうかを確認中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"></location>
         <source>Requesting metadata information from %1...</source>
         <translation>%1 のメタデータを取得中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"></location>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
         <translation>%1 から &apos;%2&apos; のメタデータを取得中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="332"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"></location>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="332"></location>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
         <translation>Modrinthからの &apos;%1&apos; のAPIレスポンスを解析中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="393"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="461"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="393"></location>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="461"></location>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>CurseForgeからの &apos;%1&apos; のAPIレスポンスを解析中…</translation>
     </message>
@@ -2451,12 +2451,12 @@ Are you sure?</source>
 <context>
     <name>EntitlementsStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
+        <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"></location>
         <source>Determining game ownership.</source>
         <translation>ゲームの所有権を確認しています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
+        <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"></location>
         <source>Got entitlements</source>
         <translation>資格を取得しました</translation>
     </message>
@@ -2464,7 +2464,7 @@ Are you sure?</source>
 <context>
     <name>EnvironmentVariables</name>
     <message>
-        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"></location>
         <source>Form</source>
         <translation>フォーム</translation>
     </message>
@@ -2473,32 +2473,32 @@ Are you sure?</source>
         <translation>環境変数(&amp;E)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"></location>
         <source>Name</source>
         <translation>名前</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="110"/>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="110"></location>
         <source>Value</source>
         <translation>値</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="50"/>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="50"></location>
         <source>&amp;Add</source>
         <translation>追加(&amp;A)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"></location>
         <source>Override &amp;Global Settings</source>
         <translation>グローバル設定を上書き(&amp;G)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"></location>
         <source>&amp;Remove</source>
         <translation>削除(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="77"/>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="77"></location>
         <source>&amp;Clear</source>
         <translation>クリア(&amp;R)</translation>
     </message>
@@ -2513,12 +2513,12 @@ Are you sure?</source>
 <context>
     <name>ExportInstanceDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"></location>
         <source>Export Instance</source>
         <translation>起動構成をエクスポート</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="136"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="136"></location>
         <source>Export %1</source>
         <translation>%1 をエクスポート</translation>
     </message>
@@ -2531,28 +2531,28 @@ Are you sure?</source>
         <translation type="vanished">このファイルはすでに存在します。上書きしますか?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="90"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="90"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"></location>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="148"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="148"></location>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="148"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="148"></location>
         <source>Unable to export instance</source>
         <translation>起動構成をエクスポートできません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="160"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="160"></location>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
@@ -2619,27 +2619,27 @@ Are you sure?</source>
         <translation type="obsolete">概要</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="20"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="20"></location>
         <source>&amp;Description</source>
         <translation>説明(&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"></location>
         <source>&amp;Name:</source>
         <translation>名前(&amp;N)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"></location>
         <source>&amp;Version:</source>
         <translation>バージョン(&amp;V):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"></location>
         <source>&amp;Author:</source>
         <translation>作者(&amp;A):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="76"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="76"></location>
         <source>&amp;Summary</source>
         <translation>概要(&amp;S)</translation>
     </message>
@@ -2653,27 +2653,27 @@ Are you sure?</source>
         <translation>バージョン(&amp;V)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"></location>
         <source>&amp;Options</source>
         <translation>オプション(&amp;O)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="135"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="135"></location>
         <source>&amp;Recommended Memory:</source>
         <translation>推奨メモリ(&amp;R):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"></location>
         <source> MiB</source>
         <translation> MiB</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"></location>
         <source>&amp;Files</source>
         <translation>ファイル(&amp;F)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="209"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="209"></location>
         <source>&amp;Mark disabled files as optional</source>
         <translation>無効化されたファイルをオプションにする(&amp;M)</translation>
     </message>
@@ -2682,7 +2682,7 @@ Are you sure?</source>
         <translation type="obsolete">バージョン</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="54"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="54"></location>
         <source>1.0.0</source>
         <translation>1.0.0</translation>
     </message>
@@ -2691,12 +2691,12 @@ Are you sure?</source>
         <translation type="obsolete">ファイル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="50"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="50"></location>
         <source>Export Modrinth Pack</source>
         <translation>Modrinthパックをエクスポート</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="59"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="59"></location>
         <source>Export CurseForge Pack</source>
         <translation>CurseForgeパックをエクスポート</translation>
     </message>
@@ -2705,48 +2705,48 @@ Are you sure?</source>
         <translation>作者(&amp;A)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="123"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="123"></location>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="163"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"></location>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="163"></location>
         <source>Export %1</source>
         <translation>%1 をエクスポート</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="157"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="157"></location>
         <source>Modrinth pack</source>
         <translation>Modrinthのパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="164"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="164"></location>
         <source>CurseForge pack</source>
         <translation>CurseForgeパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="191"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="191"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="193"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="193"></location>
         <source>Task aborted</source>
         <translation>タスクは中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="193"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="193"></location>
         <source>The task has been aborted by the user.</source>
         <translation>タスクはユーザーによって中断されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="199"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="199"></location>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
@@ -2754,52 +2754,52 @@ Are you sure?</source>
 <context>
     <name>ExportToModListDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"></location>
         <source>Export Pack to ModList</source>
         <translation>Modリストのエクスポート</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"></location>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"></location>
         <source>HTML</source>
         <translation>HTML</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"></location>
         <source>Markdown</source>
         <translation>Markdown</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"></location>
         <source>Plaintext</source>
         <translation>プレーンテキスト</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"></location>
         <source>JSON</source>
         <translation>JSON</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"></location>
         <source>CSV</source>
         <translation>CSV</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"></location>
         <source>Custom</source>
         <translation>カスタム</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"></location>
         <source>Template</source>
         <translation>テンプレート</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"></location>
         <source>This text supports the following placeholders:
 {name}     - Mod name
 {mod_id}   - Mod ID
@@ -2814,71 +2814,71 @@ Are you sure?</source>
 {authors}  - Modの作者</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"></location>
         <source>Optional Info</source>
         <translation>追加情報</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="105"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="133"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="105"></location>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="133"></location>
         <source>Version</source>
         <translation>バージョン</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="112"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="140"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="112"></location>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="140"></location>
         <source>Authors</source>
         <translation>作者名</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="119"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="119"></location>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"></location>
         <source>URL</source>
         <translation>URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="126"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="154"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="126"></location>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="154"></location>
         <source>Filename</source>
         <translation>ファイル名</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="173"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="173"></location>
         <source>Format</source>
         <translation>フォーマット</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="183"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="183"></location>
         <source>Result</source>
         <translation>結果</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="212"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="212"></location>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
         <translation>これはModのメタデータから取得されます。確実に利用するためには、起動構成でアップデートを実行してメタデータを更新してください。アップデートのインストールは必要ありません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="226"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="226"></location>
         <source>Copy</source>
         <translation>コピー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="68"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="68"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"></location>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="165"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="165"></location>
         <source>Export %1</source>
         <translation>%1 をエクスポート</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="166"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="166"></location>
         <source>File</source>
         <translation>ファイル</translation>
     </message>
@@ -2886,12 +2886,12 @@ Are you sure?</source>
 <context>
     <name>ExternalResourcesPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="35"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="35"></location>
         <source>Filter:</source>
         <translation>フィルター：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="74"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="74"></location>
         <source>Actions</source>
         <translation>アクション</translation>
     </message>
@@ -2904,7 +2904,7 @@ Are you sure?</source>
         <translation>追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"></location>
         <source>&amp;Remove</source>
         <translation>削除(&amp;R)</translation>
     </message>
@@ -2913,7 +2913,7 @@ Are you sure?</source>
         <translation>選択したものを削除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"></location>
         <source>&amp;Enable</source>
         <translation>有効化(&amp;E)</translation>
     </message>
@@ -2922,108 +2922,108 @@ Are you sure?</source>
         <translation>選択したものを有効化</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"></location>
         <source>&amp;Disable</source>
         <translation>無効化(&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"></location>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
         <translation>選択したものすべてを有効にします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"></location>
         <source>&amp;Add File</source>
         <translation>ファイルを追加(&amp;A)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"></location>
         <source>Add a locally downloaded file.</source>
         <translation>手動でダウンロードしたModファイルを追加します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"></location>
         <source>Remove all selected items.</source>
         <translation>選択したものすべてを削除します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"></location>
         <source>Disable all selected items.</source>
         <translation>選択したものすべてを無効にします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"></location>
         <source>View &amp;Configs</source>
         <translation>Configを開く(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"></location>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
         <translation>ファイルマネージャーでconfigフォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="149"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="149"></location>
         <source>View &amp;Folder</source>
         <translation>フォルダーを開く(&amp;F)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"></location>
         <source>Open the folder in the system file manager.</source>
         <translation>ファイルマネージャーでフォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"></location>
         <source>&amp;Download</source>
         <translation>ダウンロード(&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"></location>
         <source>Download resources from online mod platforms.</source>
         <translation>オンラインのModプラットフォームからリソースをダウンロードします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="174"></location>
         <source>Try to check or update all selected resources (all resources if none are selected).</source>
         <translation>選択したすべてのリソースのアップデートを確認します（未選択の場合はすべて）。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"></location>
         <source>Reset Update Metadata</source>
         <translation>アップデート用のメタデータをリセット</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"></location>
         <source>Verify Dependencies</source>
         <translation>依存関係を検証</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="198"></location>
         <source>Export List</source>
         <translation>リストをエクスポート</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"></location>
         <source>Export resource&apos;s metadata to text.</source>
         <translation>リソースのメタデータをテキストにエクスポートします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="209"></location>
         <source>Change Version</source>
         <translation>バージョンを変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"></location>
         <source>Change a resource&apos;s version.</source>
         <translation>リソースのバージョンを変更します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"></location>
         <source>View Homepage</source>
         <translation>ホームページを開く</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"></location>
         <source>View the homepages of all selected items.</source>
         <translation>選択したものすべてのホームページを開きます。</translation>
     </message>
@@ -3032,7 +3032,7 @@ Are you sure?</source>
         <translation>新しいリソースをダウンロード中</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"></location>
         <source>Check for &amp;Updates</source>
         <translation>更新を確認(&amp;U)</translation>
     </message>
@@ -3070,18 +3070,18 @@ Are you sure?</source>
         <translation type="obsolete">選択したModのメタデータを削除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="132"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="132"></location>
         <source>Context menu</source>
         <translation>コンテキストメニュー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="213"></location>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>%1 を選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="243"></location>
         <source>You are about to remove %1 items.
 This may be permanent and they will be gone from the folder.
 
@@ -3092,7 +3092,7 @@ Are you sure?</source>
 本当に削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="248"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="248"></location>
         <source>You are about to remove the folder &quot;%1&quot;.
 This may be permanent and it will be gone from the parent folder.
 
@@ -3103,41 +3103,41 @@ Are you sure?</source>
 本当に削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="255"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="255"></location>
         <source>Confirm Removal</source>
         <translation>削除の確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="269"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="269"></location>
         <source>Confirm Delete</source>
         <translation>削除の確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="270"></location>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>ゲームの実行中にリソースを削除すると、ゲームがクラッシュする可能性があります。
 本当に削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="290"></location>
         <source>Confirm disable</source>
         <translation>無効化の確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="291"></location>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>ゲームの実行中にリソースを無効にすると、ゲームがクラッシュする可能性があります。
 本当に無効化しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="356"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="356"></location>
         <source> (%1 installed, %2 selected)</source>
         <translation> (インストール済み %1 個, 選択済み %2 個)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="358"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="358"></location>
         <source> (%1 installed)</source>
         <translation> (インストール済み %1 個)</translation>
     </message>
@@ -3145,57 +3145,57 @@ Are you sure you want to do this?</source>
 <context>
     <name>ExternalToolsPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="44"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="44"></location>
         <source>&amp;Editors</source>
         <translation>エディタ(&amp;E)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="50"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="50"></location>
         <source>&amp;Text Editor</source>
         <translation>テキストエディタ(&amp;T)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="65"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="112"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="191"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="251"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="65"></location>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="112"></location>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="191"></location>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="251"></location>
         <source>Browse</source>
         <translation>参照</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"></location>
         <source>Used to edit component JSON files.</source>
         <translation>コンポーネントのJSONファイルを編集するために使用します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"></location>
         <source>&amp;MCEdit</source>
         <translation>MCEdit(&amp;M)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="127"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="206"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="266"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="127"></location>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="206"></location>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="266"></location>
         <source>Check</source>
         <translation>チェック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"></location>
         <source>&amp;Profilers</source>
         <translation>プロファイラ(&amp;P)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"></location>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
         <translation>プロファイラは「起動」ドロップダウンメニューから利用できます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"></location>
         <source>J&amp;Profiler</source>
         <translation>JProfiler(&amp;P)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"></location>
         <source>&amp;VisualVM</source>
         <translation>VisualVM(&amp;V)</translation>
     </message>
@@ -3213,60 +3213,60 @@ Are you sure you want to do this?</source>
         <translation>外部ツール</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"></location>
         <source>JProfiler Folder</source>
         <translation>JProfiler フォルダー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="107"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="119"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="107"></location>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="119"></location>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"></location>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"></location>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"></location>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="107"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="119"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="107"></location>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="119"></location>
         <source>Error while checking JProfiler install:
 %1</source>
         <translation>エラー：JProfilerのインストールが確認できません
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"></location>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"></location>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"></location>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"></location>
         <source>JProfiler setup seems to be OK</source>
         <translation>JProfilerのセットアップが完了しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="130"></location>
         <source>VisualVM Executable</source>
         <translation>VisualVM 実行ファイル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"></location>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"></location>
         <source>Error while checking VisualVM install:
 %1</source>
         <translation>エラー：VisualVMのインストールが確認できません
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"></location>
         <source>VisualVM setup seems to be OK</source>
         <translation>VisualVMのセットアップが完了しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"></location>
         <source>Text Editor</source>
         <translation>テキストエディタ</translation>
     </message>
@@ -3285,25 +3285,25 @@ Are you sure you want to do this?</source>
         <translation>JVisualVMのセットアップが完了しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"></location>
         <source>MCEdit Application</source>
         <translation>MCEdit アプリケーション</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="162"></location>
         <source>MCEdit Folder</source>
         <translation>MCEdit フォルダー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"></location>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"></location>
         <source>Error while checking MCEdit install:
 %1</source>
         <translation>エラー：MCEditのインストールが確認できません
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"></location>
         <source>MCEdit setup seems to be OK</source>
         <translation>MCEditのセットアップが完了しました</translation>
     </message>
@@ -3312,17 +3312,17 @@ Are you sure you want to do this?</source>
         <translation>JSON エディター</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"></location>
         <source>Invalid</source>
         <translation>無効</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"></location>
         <source>The file chosen does not seem to be an executable</source>
         <translation>選択したファイルは実行可能ではないようです</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"></location>
         <source>Tools</source>
         <translation>ツール</translation>
     </message>
@@ -3330,7 +3330,7 @@ Are you sure you want to do this?</source>
 <context>
     <name>ExtractNatives</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="86"/>
+        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="86"></location>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
         <translation>Matoba Jar &apos;%1&apos; を &apos;%2&apos; に展開できませんでした</translation>
     </message>
@@ -3338,37 +3338,37 @@ Are you sure you want to do this?</source>
 <context>
     <name>FMLLibrariesTask</name>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"></location>
         <source>Checking for FML libraries...</source>
         <translation>FMLライブラリをチェック中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"></location>
         <source>Downloading FML libraries...</source>
         <translation>FMLライブラリをダウンロード中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"></location>
         <source>Aborted</source>
         <translation>中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"></location>
         <source>Copying FML libraries into the instance...</source>
         <translation>起動構成にFMLライブラリをコピー中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"></location>
         <source>Failed creating FML library folder inside the instance.</source>
         <translation>起動構成内にFMLライブラリフォルダを作成することができませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"></location>
         <source>Failed copying Forge/FML library: %1.</source>
         <translation>Forge/FMLライブラリのコピーに失敗しました：%1。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="114"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="114"></location>
         <source>Failed to download the following files:
 %1
 
@@ -3384,12 +3384,12 @@ Please try again.</source>
 <context>
     <name>FTBImportAPP::FilterModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="139"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="139"></location>
         <source>Sort by Name</source>
         <translation>名前順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="140"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="140"></location>
         <source>Sort by Game Version</source>
         <translation>ゲームバージョン順</translation>
     </message>
@@ -3397,12 +3397,12 @@ Please try again.</source>
 <context>
     <name>FTBImportAPP::ImportFTBPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="44"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="44"></location>
         <source>FTB App Import</source>
         <translation>FTB Appからインポート</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"></location>
         <source>Search and filter...</source>
         <translation>検索とフィルター…</translation>
     </message>
@@ -3411,13 +3411,13 @@ Please try again.</source>
         <translation type="vanished">検索</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="63"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"></location>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="63"></location>
         <source>Select FTBApp instances directory</source>
         <translation>FTBApp起動構成フォルダーを選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"></location>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>注意：FTBの起動構成がデフォルトの場所にない場合は、検索の横にあるボタンで選択してください。</translation>
     </message>
@@ -3425,8 +3425,8 @@ Please try again.</source>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="110"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="126"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="110"></location>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="126"></location>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -3434,12 +3434,12 @@ Please try again.</source>
 <context>
     <name>FTBImportAPP::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
+        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"></location>
         <source>Copying files...</source>
         <translation>ファイルをコピー中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
+        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"></location>
         <source>Copying settings...</source>
         <translation>設定をコピー中…</translation>
     </message>
@@ -3447,18 +3447,18 @@ Please try again.</source>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="52"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="52"></location>
         <source>Resolving mod IDs...</source>
         <translation>Mod IDを解決中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"/>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="147"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"></location>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="147"></location>
         <source>Invalid data returned from the API.</source>
         <translation>APIから無効なデータが送信されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="256"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="256"></location>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>CurseForgeからの &apos;%1&apos; のAPIレスポンスを解析中…</translation>
     </message>
@@ -3470,7 +3470,7 @@ Please try again.</source>
 <context>
     <name>FlameCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"></location>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
         <translation>CurseForgeのリソースを準備中…</translation>
@@ -3485,37 +3485,37 @@ Please try again.</source>
         <translation>CurseForgeから &apos;%1&apos; のAPIレスポンスを取得中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="92"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="92"></location>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>CurseForgeからの &apos;%1&apos; のAPIレスポンスを解析中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"></location>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>このリソースに有効なバージョンが見つかりませんでした。現在のゲームバージョンとModローダーでは利用できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="101"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="101"></location>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>このリソースに有効なバージョンが見つかりませんでした。現在のゲームバージョンでは利用できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"></location>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>CurseForgeからの &apos;%1&apos; のAPIレスポンスを解析中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"></location>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
         <translation>リソースの新しいアップデートが利用可能ですが、CurseForgeからはダウンロードできません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"></location>
         <source>Not installed</source>
         <translation>インストールされていない</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"></location>
         <source>Unknown</source>
         <translation>不明</translation>
     </message>
@@ -3536,15 +3536,15 @@ Please try again.</source>
 <context>
     <name>FlameCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="114"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="336"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="114"></location>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="336"></location>
         <source>Could not understand pack manifest:
 </source>
         <translation>パックのマニフェストを解釈できませんでした：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="119"></location>
         <source> (version %1)</source>
         <translation> (バージョン %1)</translation>
     </message>
@@ -3553,54 +3553,54 @@ Please try again.</source>
         <translation type="obsolete">キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"></location>
         <source>No index file.</source>
         <translation>インデックスファイルがありません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="250"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="250"></location>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>現在のバージョン向けの適切なインデックスファイルが見つけられませんでした。これによりいくつかのファイルが重複する可能性があります。続行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="274"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="274"></location>
         <source>Failed to get local metadata index for %1</source>
         <translation>%1 のローカル メタデータインデックスの取得に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="307"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="307"></location>
         <source>Failed to find version for %1 loader</source>
         <translation>%1ローダーのバージョンを見つけられませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="312"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="312"></location>
         <source>No loader version set for modpack!</source>
         <translation>ModパックにModローダーのバージョンが設定されていません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="348"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="348"></location>
         <source>Could not rename the overrides folder:
 </source>
         <translation>上書き先のフォルダの名前を変更できませんでした：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="353"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="353"></location>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>指定されたoverridesフォルダ (%1) がありません。このModパックを以前に使用しませんでしたか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="382"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="382"></location>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>マニフェストに不明なModローダーがあります：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="397"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="397"></location>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>パックのインポート中にMinecraftバージョンからドットを削除しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"></location>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
         <translation>Modパックの推奨メモリがシステムのRAMの90%を超えているため、%1 MiBから%2 MiBに削減します！</translation>
     </message>
@@ -3609,40 +3609,40 @@ Please try again.</source>
         <translation type="vanished">ForgeのMinecraft %1 向けの推奨バージョンをインストールできませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="469"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="469"></location>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Mod IDを処理できません。
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="546"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="546"></location>
         <source>Blocked mods found</source>
         <translation>ブロックされたModが見つかりました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="547"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="547"></location>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>以下のファイルはサードパーティのランチャーでのダウンロードができません。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="569"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="569"></location>
         <source>Mod Download Flame</source>
         <translation>Modダウンロードフレーム</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="600"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="600"></location>
         <source>%1 out of %2 complete</source>
         <translation>%2のうち%1完了</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="613"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="613"></location>
         <source>Copying Blocked Mods...</source>
         <translation>ブロックされたModをコピー中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="628"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="628"></location>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>ブロックされたModをコピー中 (%2 のうち %1 が完了)</translation>
     </message>
@@ -3663,7 +3663,7 @@ Please try again.</source>
         <translation type="vanished">%1のパッケージタイプが認識できません</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="605"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="605"></location>
         <source>Downloading mods...</source>
         <translation>Modをダウンロード中…</translation>
     </message>
@@ -3671,22 +3671,22 @@ Please try again.</source>
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="431"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="431"></location>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;こんにちは！&lt;/h1&gt;&lt;h4&gt;パックIDが空のようです。これは古いバージョンのランチャーのバグによるものです。&lt;br/&gt;残念ながら、パックIDがないと正常にAPIリクエストを行うことはできません。&lt;br/&gt;&lt;br/&gt;この機能を動作させるには、内蔵のダウンローダーからModパックを再ダウンロードする必要があります。&lt;br/&gt;&lt;br/&gt;起動構成のアップデートを要求するだけなので、起動構成が失われることはありません！&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="493"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="493"></location>
         <source>%1 (Current)</source>
         <translation>%1 (現在)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="556"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="556"></location>
         <source>Choose update file</source>
         <translation>アップデートするファイルを選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="556"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="556"></location>
         <source>CurseForge pack</source>
         <translation>CurseForgeパック</translation>
     </message>
@@ -3734,38 +3734,38 @@ Please try again.</source>
 <context>
     <name>FlamePackExportTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="50"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="50"></location>
         <source>Searching for files...</source>
         <translation>ファイルを検索中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="71"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="71"></location>
         <source>Could not search for files</source>
         <translation>ファイルが見つかりませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="85"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="85"></location>
         <source>Finding file hashes...</source>
         <translation>ファイルハッシュを検索中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="167"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="167"></location>
         <source>Finding versions for hashes...</source>
         <translation>ハッシュのバージョンを検索中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="218"/>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="281"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="218"></location>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="281"></location>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>CurseForgeからの &apos;%1&apos; のAPIレスポンスを解析中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="238"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="238"></location>
         <source>Finding project info from CurseForge...</source>
         <translation>CurseForgeからプロジェクト情報を取得中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="318"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="318"></location>
         <source>Adding files...</source>
         <translation>ファイルを追加中…</translation>
     </message>
@@ -3777,7 +3777,7 @@ Please try again.</source>
 <context>
     <name>FlamePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="94"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="94"></location>
         <source>Version selected:</source>
         <translation>バージョンの選択：</translation>
     </message>
@@ -3786,18 +3786,18 @@ Please try again.</source>
         <translation type="vanished">検索</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"></location>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
         <translation>注意：CurseForgeのMod作者は、Prism Launcherのようなサードパーティツールからのダウンロードをブロックできます。そのため、Modパックをインストールするために、一部のModを手動でダウンロードする必要がある場合があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"></location>
         <source>Filter options</source>
         <translation>フィルター設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"></location>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
         <translation>検索とフィルター…</translation>
@@ -3811,74 +3811,74 @@ Please try again.</source>
         <translation type="vanished">CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"></location>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
         <translation>注目順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"></location>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
         <translation>人気順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"></location>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation>更新日順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="85"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="85"></location>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
         <translation>名前順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="86"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="86"></location>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
         <translation>作者順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="87"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="87"></location>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
         <translation>総ダウンロード数順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="223"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="223"></location>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="241"></location>
         <source>No version is available!</source>
         <translation>有効なバージョンがありません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="229"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="307"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="307"></location>
         <source> by </source>
         <translation> 作者： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="312"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="312"></location>
         <source>External links:</source>
         <translation>外部リンク：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="316"></location>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>バグ報告：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="318"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="318"></location>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="320"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="320"></location>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>ソースコード：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -3886,7 +3886,7 @@ Please try again.</source>
 <context>
     <name>FoldersTask</name>
     <message>
-        <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="50"/>
+        <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="50"></location>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
         <translation>Minecraftバイナリのフォルダの作成に失敗しました。</translation>
@@ -3929,12 +3929,12 @@ Please try again.</source>
 <context>
     <name>GameOptions</name>
     <message>
-        <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="71"/>
+        <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="71"></location>
         <source>Key</source>
         <translation>キー</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="73"></location>
         <source>Value</source>
         <translation>値</translation>
     </message>
@@ -3942,7 +3942,7 @@ Please try again.</source>
 <context>
     <name>GameOptionsPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="61"/>
+        <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="61"></location>
         <source>Game Options</source>
         <translation>ゲームオプション</translation>
     </message>
@@ -3950,32 +3950,32 @@ Please try again.</source>
 <context>
     <name>GameType</name>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="91"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="91"></location>
         <source>Survival</source>
         <translation>サバイバル</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="93"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="93"></location>
         <source>Creative</source>
         <translation>クリエイティブ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="95"></location>
         <source>Adventure</source>
         <translation>アドベンチャー</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="97"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="97"></location>
         <source>Spectator</source>
         <translation>スペクテイター</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="102"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="102"></location>
         <source>Unknown (%1)</source>
         <translation>不明 (%1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="104"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="104"></location>
         <source>Undefined</source>
         <translation>未定義</translation>
     </message>
@@ -3983,7 +3983,7 @@ Please try again.</source>
 <context>
     <name>GenericProfiler</name>
     <message>
-        <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"/>
+        <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"></location>
         <source>Started process: %1</source>
         <translation>開始されたプロセス：%1</translation>
     </message>
@@ -3991,12 +3991,12 @@ Please try again.</source>
 <context>
     <name>GetModDependenciesTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="58"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="58"></location>
         <source>Get dependencies</source>
         <translation>依存関係を取得</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="196"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="196"></location>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>ネットワークエラーが発生しました。プロジェクトの依存関係を読み込めませんでした：%1</translation>
@@ -4005,12 +4005,12 @@ Please try again.</source>
 <context>
     <name>GetSkinStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="12"/>
+        <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="12"></location>
         <source>Getting skin.</source>
         <translation>スキンを取得中。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="35"/>
+        <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="35"></location>
         <source>Got skin</source>
         <translation>スキンを取得しました</translation>
     </message>
@@ -4057,48 +4057,48 @@ Please try again.</source>
 <context>
     <name>IconPickerDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="14"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="14"></location>
         <source>Pick icon</source>
         <translation>アイコンを選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"></location>
         <source>Search...</source>
         <translation>検索...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"></location>
         <source>Add Icon</source>
         <translation>アイコンを追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="75"></location>
         <source>Remove Icon</source>
         <translation>アイコンを削除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"></location>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="87"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="87"></location>
         <source>Open Folder</source>
         <translation>フォルダーを開く</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="118"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="118"></location>
         <source>Select Icons</source>
         <extracomment>The title of the select icons open file dialog</extracomment>
         <translation>アイコンの選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="121"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="121"></location>
         <source>Icons %1</source>
         <translation>アイコン %1</translation>
     </message>
@@ -4106,83 +4106,83 @@ Please try again.</source>
 <context>
     <name>ImportPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"></location>
         <source>Browse</source>
         <translation>参照</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"></location>
         <source>The following file types are implemented (both for local files and URLs):</source>
         <translation>以下の種類のファイルに対応しています（ローカルファイルとダウンロードURL）：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"></location>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
         <translation>- CurseForgeのModパック（ZIP / curseforge:// URL）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"></location>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
         <translation>- ModrinthのModパック (ZIPまたはmrpack)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"></location>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
         <translation>- Prism Launcher、PolyMC、またはMultiMCでエクスポートされた起動構成 (ZIP)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"></location>
         <source>- Technic modpacks (ZIP)</source>
         <translation>- TechnicのModパック (ZIP)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"></location>
         <source>Local file or link to a direct download:</source>
         <translation>ローカルファイルへのパスまたはダウンロードの直リンク：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="56"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="56"></location>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
         <translation>インポート</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="140"/>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="140"></location>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"></location>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"></location>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Modパック %1 はサードパーティをブロックしています！ 手動でダウンロードしてください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"></location>
         <source>This url isn&apos;t a valid modpack !</source>
         <translation>このURLはModパックとして有効ではありません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"></location>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"></location>
         <source>Supported files</source>
         <translation>対応ファイル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"></location>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
         <translation>Modrinthのpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"></location>
         <source>Choose modpack</source>
         <translation>Modパックを選択</translation>
     </message>
@@ -4194,32 +4194,32 @@ Please try again.</source>
 <context>
     <name>ImportResourceDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"></location>
         <source>Choose instance to import to</source>
         <translation>インポートする起動構成を選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"></location>
         <source>Choose the instance you would like to import this resource pack to.</source>
         <translation>このリソースパックをインポートしたい起動構成を選択してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"></location>
         <source>Choose the instance you would like to import this %1 to.</source>
         <translation>この %1 をインポートしたい起動構成を選択してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"></location>
         <source>File: %1</source>
         <translation>ファイル：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"></location>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -4234,12 +4234,12 @@ Please try again.</source>
 <context>
     <name>InfoFrame</name>
     <message>
-        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="133"/>
+        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="133"></location>
         <source>License: %1</source>
         <translation>ライセンス：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="140"/>
+        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="140"></location>
         <source>Report issues to: </source>
         <translation>問題を報告： </translation>
     </message>
@@ -4247,20 +4247,20 @@ Please try again.</source>
 <context>
     <name>InstallJavaPage</name>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"></location>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
         <translation>現在、メタ情報内に利用できるJavaバージョンはありません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"></location>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"></location>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
         <translation>Javaのバージョンリストをロードまたはダウンロードできませんでした！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"></location>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
         <translation>現在、お使いのOSで利用可能なJavaのバージョンはありません。</translation>
@@ -4269,47 +4269,47 @@ Please try again.</source>
 <context>
     <name>InstallLoaderDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="101"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="101"></location>
         <source>&amp;Refresh</source>
         <translation>再読み込み(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="107"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="107"></location>
         <source>Ok</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"></location>
         <source>NeoForge</source>
         <translation>NeoForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"></location>
         <source>Forge</source>
         <translation>Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"></location>
         <source>Fabric</source>
         <translation>Fabric</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"></location>
         <source>Quilt</source>
         <translation>Quilt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="144"></location>
         <source>LiteLoader</source>
         <translation>LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="150"></location>
         <source>Install Loader</source>
         <translation>Modローダーをインストール</translation>
     </message>
@@ -4317,7 +4317,7 @@ Please try again.</source>
 <context>
     <name>InstallLoaderPage</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="44"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="44"></location>
         <source>No versions are currently available for Minecraft %1</source>
         <translation>現在、Minecraft %1 で利用可能なバージョンはありません</translation>
     </message>
@@ -4336,17 +4336,17 @@ Please try again.</source>
 <context>
     <name>InstanceCopyTask</name>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="41"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="41"></location>
         <source>Copying instance %1</source>
         <translation>起動構成 %1 をコピー中</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="146"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="146"></location>
         <source>Instance folder copy failed.</source>
         <translation>起動構成のフォルダのコピーに失敗しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="188"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="188"></location>
         <source>Instance folder copy has been aborted.</source>
         <translation>起動構成のフォルダのコピーは中断されました。</translation>
     </message>
@@ -4358,24 +4358,24 @@ Please try again.</source>
         <translation type="vanished">バージョン %1 からインスタンスを作成中</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="29"/>
+        <location filename="src/launcher/InstanceCreationTask.cpp" line="29"></location>
         <source>Error while creating new instance:
 %1</source>
         <translation>起動構成を作成中にエラーが発生しました：
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="31"/>
+        <location filename="src/launcher/InstanceCreationTask.cpp" line="31"></location>
         <source>Error while creating new instance.</source>
         <translation>起動構成を作成中にエラーが発生しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="44"/>
+        <location filename="src/launcher/InstanceCreationTask.cpp" line="44"></location>
         <source>Removing old conflicting files...</source>
         <translation>古い競合ファイルを削除中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="60"/>
+        <location filename="src/launcher/InstanceCreationTask.cpp" line="60"></location>
         <source>Failed to remove old conflicting files.</source>
         <translation>古い競合ファイルの削除に失敗しました。</translation>
     </message>
@@ -4383,35 +4383,35 @@ Please try again.</source>
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="86"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="86"></location>
         <source>Downloading modpack:
 %1</source>
         <translation>Modパックをダウンロード中：
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="100"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="100"></location>
         <source>Modpack download</source>
         <translation>Modパックのダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="149"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="149"></location>
         <source>Attempting to determine instance type</source>
         <translation>起動構成の種類を判別中</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="186"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="186"></location>
         <source>Extracting modpack</source>
         <translation>Modパックを展開中</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="156"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="156"></location>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>指定されたModパックのzipファイルを開けませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="183"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="261"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="183"></location>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="261"></location>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>アーカイブにはModパックが含まれていないようです。</translation>
     </message>
@@ -4420,7 +4420,7 @@ Please try again.</source>
         <translation type="vanished">Modパックの展開に失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="240"></location>
         <source>Could not fix permissions for %1</source>
         <translation>%1 の権限を修正できませんでした</translation>
     </message>
@@ -4487,7 +4487,7 @@ Please try again.</source>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="186"></location>
         <source>%1 Instance</source>
         <translation>起動構成 %1</translation>
     </message>
@@ -4503,12 +4503,12 @@ Please try again.</source>
         <translation type="vanished">Core mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstancePageProvider.h" line="49"/>
+        <location filename="src/launcher/InstancePageProvider.h" line="49"></location>
         <source>Other logs</source>
         <translation>その他のログ</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstancePageProvider.h" line="53"/>
+        <location filename="src/launcher/InstancePageProvider.h" line="53"></location>
         <source>Edit Instance (%1)</source>
         <translation>起動構成の編集 (%1)</translation>
     </message>
@@ -4766,7 +4766,7 @@ Please try again.</source>
         <translation>サーバーアドレス：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="55"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="55"></location>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
@@ -4822,12 +4822,12 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="953"/>
+        <location filename="src/launcher/InstanceList.cpp" line="953"></location>
         <source>Could not create staging folder</source>
         <translation>ステージングフォルダを作成できませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="971"/>
+        <location filename="src/launcher/InstanceList.cpp" line="971"></location>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>何度か再試行しましたが、起動構成をコミットできませんでした。何かによりブロックされているようです。</translation>
     </message>
@@ -4835,12 +4835,12 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>InstanceView</name>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"></location>
         <source>Welcome!</source>
         <translation>ようこそ！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"></location>
         <source>Click &quot;Add Instance&quot; to get started.</source>
         <translation>「起動構成を追加」を押して始めましょう。</translation>
     </message>
@@ -4848,27 +4848,27 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>InstanceWindow</name>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"></location>
         <source>Console window for </source>
         <translation>コンソールウィンドウ </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"></location>
         <source>Help</source>
         <translation>ヘルプ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"></location>
         <source>&amp;Launch</source>
         <translation>起動(&amp;L)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"></location>
         <source>&amp;Kill</source>
         <translation>強制終了(&amp;K)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"></location>
         <source>Ctrl+K</source>
         <translation>Ctrl+K</translation>
     </message>
@@ -4881,7 +4881,7 @@ Please make sure that the maximum memory value is lower.</source>
         <translation type="vanished">デモを起動</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"></location>
         <source>Close</source>
         <translation>閉じる</translation>
     </message>
@@ -4890,7 +4890,7 @@ Please make sure that the maximum memory value is lower.</source>
         <translation type="vanished">強制終了</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"></location>
         <source>Kill the running instance</source>
         <translation>実行中の起動構成を強制終了します</translation>
     </message>
@@ -4899,7 +4899,7 @@ Please make sure that the maximum memory value is lower.</source>
         <translation type="vanished">起動</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"></location>
         <source>Launch the instance</source>
         <translation>選択した起動構成を起動します</translation>
     </message>
@@ -4907,12 +4907,12 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>JProfiler</name>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="29"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="29"></location>
         <source>Listening on port: %1</source>
         <translation>ポート転送：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="35"></location>
         <source>Profiler aborted</source>
         <translation>プロファイラは中断されました</translation>
     </message>
@@ -4924,12 +4924,12 @@ Please make sure that the maximum memory value is lower.</source>
         <translation>JVisualVMを開始</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="27"></location>
         <source>VisualVM started</source>
         <translation>VisualVMが起動しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="33"></location>
         <source>Profiler aborted</source>
         <translation>プロファイラは中断されました</translation>
     </message>
@@ -4937,44 +4937,44 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>Java::ArchiveDownloadTask</name>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"></location>
         <source>Downloading Java</source>
         <translation>Javaをダウンロード中</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="69"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="69"></location>
         <source>Extracting Java</source>
         <translation>Javaを展開中</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="71"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="84"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="71"></location>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="84"></location>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
         <translation>Javaを展開中（tarアーカイブの進行状況は報告されません）</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="74"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="74"></location>
         <source>Unable to open supplied tar file.</source>
         <translation>提供されたtarファイルを開けません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="78"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="86"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="78"></location>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="86"></location>
         <source>Unable to extract supplied tar file.</source>
         <translation>提供されたtarファイルを展開できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="94"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="94"></location>
         <source>Unable to open supplied zip file.</source>
         <translation>提供されたzipファイルを開けません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="99"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="99"></location>
         <source>No files were found in the supplied zip file.</source>
         <translation>提供されたzipファイルにファイルが見つかりませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="131"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="131"></location>
         <source>Could not determine archive type!</source>
         <translation>アーカイブの種類を判別できませんでした！</translation>
     </message>
@@ -4982,54 +4982,54 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>Java::InstallDialog</name>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"></location>
         <source>&amp;Refresh</source>
         <translation>再読み込み(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="214"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="214"></location>
         <source>Download</source>
         <translation>ダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="215"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="215"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="279"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="279"></location>
         <source>Mojang</source>
         <translation>Mojang</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="281"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="281"></location>
         <source>Adoptium</source>
         <translation>Adoptium</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="283"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="283"></location>
         <source>Azul Zulu</source>
         <translation>Azul Zulu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="289"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="320"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="289"></location>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="320"></location>
         <source>Install Java</source>
         <translation>Javaのインストール</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"></location>
         <source>Could not determine Java download type!</source>
         <translation>Javaダウンロードの種類を判別できませんでした！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="316"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="327"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="316"></location>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="327"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="332"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="332"></location>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
@@ -5037,7 +5037,7 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>Java::ManifestDownloadTask</name>
     <message>
-        <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
+        <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"></location>
         <source>Downloading Java</source>
         <translation>Javaをダウンロード中</translation>
     </message>
@@ -5045,27 +5045,27 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>Java::SymlinkTask</name>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"></location>
         <source>Checking for Java binary path</source>
         <translation>Javaバイナリのパスを確認中</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"></location>
         <source>Searching for Java binary path</source>
         <translation>Javaバイナリのパスを検索中</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"></location>
         <source>Failed to find Java binary path</source>
         <translation>Javaバイナリのパスの検索に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"></location>
         <source>Collecting folders to symlink</source>
         <translation>シンボリックリンクするフォルダを収集中</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"></location>
         <source>Symlinking Java binary path</source>
         <translation>Javaバイナリのパスをシンボリックリンク中</translation>
     </message>
@@ -5073,7 +5073,7 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>JavaListLoadTask</name>
     <message>
-        <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="161"></location>
         <source>Detecting Java installations...</source>
         <translation>Javaのインストールを検出中...</translation>
     </message>
@@ -5148,22 +5148,22 @@ Please make sure that the maximum memory value is lower.</source>
         <translation>ダウンロード済みのJavaバージョン</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"></location>
         <source>Installations</source>
         <translation>起動構成</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"></location>
         <source>Download</source>
         <translation>ダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"></location>
         <source>Remove</source>
         <translation>削除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="115"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="115"></location>
         <source>Refresh</source>
         <translation>再読み込み</translation>
     </message>
@@ -5204,18 +5204,18 @@ Please make sure that the maximum memory value is lower.</source>
         <translation>Java互換性チェックをスキップ(&amp;S)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.h" line="59"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.h" line="59"></location>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"></location>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
         <translation>管理されているJavaバージョンはありません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"></location>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
         <translation>管理されたJavaリストをロードできませんでした！</translation>
@@ -5253,12 +5253,12 @@ Please make sure that the maximum memory value is lower.</source>
         <translation>メモリの最大割り当て量が最小割り当て量を下回っています</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"></location>
         <source>Confirm Deletion</source>
         <translation>削除の確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="113"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="113"></location>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
         <translation>「%1」という名前のJavaインストールを削除しようとしています。
@@ -5322,7 +5322,7 @@ Javaのバージョンは後で設定で変更できます。
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="228"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="228"></location>
         <source>Find Java executable</source>
         <translation>Javaランタイムを探します</translation>
     </message>
@@ -5331,7 +5331,7 @@ Javaのバージョンは後で設定で変更できます。
         <translation>メモリ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="245"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="245"></location>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>Minecraftに使用されるメモリの最大量です。</translation>
     </message>
@@ -5340,17 +5340,17 @@ Javaのバージョンは後で設定で変更できます。
         <translation>最小メモリ割り当て：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"></location>
         <source>Form</source>
         <translation>フォーム</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"></location>
         <source>Java Insta&amp;llation</source>
         <translation>Javaのインストール(&amp;L)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"></location>
         <source>Auto-&amp;detect Java version</source>
         <translation>Java自動検出</translation>
     </message>
@@ -5363,77 +5363,77 @@ Javaのバージョンは後で設定で変更できます。
         <translation type="vanished">テスト</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="120"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="120"></location>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
         <translation>Mojangが推奨するJavaビルドを自動的にダウンロードして選択します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="123"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="123"></location>
         <source>Auto-download &amp;Mojang Java</source>
         <translation>MojangのJavaを自動ダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"></location>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
         <translation>この機能を有効にすると、ランチャーは起動時にJavaバージョンが見つからなくても、Javaバージョンの選択を求めるメッセージを表示しなくなります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="156"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="156"></location>
         <source>Skip Java setup prompt on startup</source>
         <translation>起動時にJavaのセットアッププロンプトをスキップする</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"></location>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
         <translation>この機能を有効にすると、ランチャーは起動構成が選択されたJavaバージョンに対応しているかどうかのチェックを省略します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"></location>
         <source>&amp;Detect</source>
         <translation>検出(&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"></location>
         <source>&amp;Browse</source>
         <translation>参照(&amp;B)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"></location>
         <source>Test S&amp;ettings</source>
         <translation>設定をテスト(&amp;E)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"></location>
         <source>Open Java &amp;Downloader</source>
         <translation>Javaダウンローダーを開く(&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"></location>
         <source>Skip Java compatibility checks</source>
         <translation>Javaの互換性チェックをスキップする</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"></location>
         <source>Java &amp;Executable</source>
         <translation>Java実行ファイル(&amp;E)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"></location>
         <source>Memor&amp;y</source>
         <translation>メモリ(&amp;Y)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"></location>
         <source>Memory Notice</source>
         <translation>メモリに関する注意</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="204"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="204"></location>
         <source>(-XX:PermSize)</source>
         <translation>(-XX:PermSize)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="267"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="267"></location>
         <source>(-Xmx)</source>
         <translation>(-Xmx)</translation>
     </message>
@@ -5446,37 +5446,37 @@ Javaのバージョンは後で設定で変更できます。
         <translation>最大メモリ割り当て：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="280"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="280"></location>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>Minecraftの起動時に使用されるメモリの量です。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="302"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="302"></location>
         <source>&amp;PermGen Size:</source>
         <translation>PermGenサイズ(&amp;P):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"></location>
         <source>(-Xms)</source>
         <translation>(-Xms)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="319"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="319"></location>
         <source>Ma&amp;ximum Memory Usage:</source>
         <translation>最大メモリ使用量(&amp;X):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="329"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="329"></location>
         <source>M&amp;inimum Memory Usage:</source>
         <translation>最小メモリ使用量(&amp;I):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"></location>
         <source>Java Argumen&amp;ts</source>
         <translation>Javaの引数(&amp;T)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="217"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="217"></location>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>ロードされたJavaクラスを保存するために使用可能なメモリの量です。</translation>
     </message>
@@ -5497,17 +5497,17 @@ Javaのバージョンは後で設定で変更できます。
         <translation>Javaの自動検出</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"></location>
         <source>Select a Java version</source>
         <translation>Javaのバージョンを選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"></location>
         <source>Confirm Selection</source>
         <translation>選択の確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="278"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="278"></location>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
@@ -5516,17 +5516,17 @@ Please make sure that the maximum memory value is lower.</source>
 最大メモリ割り当て量が2048MiBより低いことを確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="295"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="295"></location>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>最大メモリ割り当て量がシステムメモリ容量を超えています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="298"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="298"></location>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
         <translation>最大メモリ割り当て量が、システムのメモリ容量に近いです。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"></location>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
         <translation>最大メモリ割りて量が、最小メモリ割り当て量を下回っています。</translation>
     </message>
@@ -5546,12 +5546,12 @@ Please make sure that the maximum memory value is lower.</source>
 <context>
     <name>JavaWizardPage</name>
     <message>
-        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="84"/>
+        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="84"></location>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
+        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"></location>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
         <translation>起動構成に割り当てるメモリ量と、JavaをPrism Launcherで自動管理するか手動で管理するかを選択してください。</translation>
@@ -5568,17 +5568,17 @@ Please select one of the following or browse for a java executable.</oldsource>
 <context>
     <name>JavaWizardWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"></location>
         <source>Download Java</source>
         <translation>Javaをダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"></location>
         <source>32-bit Java detected</source>
         <translation>32bit版のJavaが検出されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"></location>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
 %1 will not be able to start Minecraft.
 Do you wish to proceed?
@@ -5593,12 +5593,12 @@ Javaのバージョンは後で設定で変更できます。
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"></location>
         <source>No Java version selected</source>
         <translation>Javaのバージョンが選択されていません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"></location>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
 %1 will not be able to start Minecraft.
 Do you wish to proceed without a functional version of Java?
@@ -5613,77 +5613,77 @@ Javaのバージョンは後で設定で変更できます。
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="353"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="353"></location>
         <source>Find Java executable</source>
         <translation>Javaの実行可能ファイルを探す</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"></location>
         <source>Memory</source>
         <translation>メモリ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"></location>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>Minecraftに使用されるメモリの最大量です。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"></location>
         <source>Minimum memory allocation:</source>
         <translation>最小メモリ割り当て：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"></location>
         <source>Maximum memory allocation:</source>
         <translation>最大メモリ割り当て：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"></location>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>Minecraftの起動時に使用されるメモリの量です。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"></location>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>ロードされたJavaクラスを保存するために使用可能なメモリの量です。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"></location>
         <source>Browse</source>
         <translation>参照</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"></location>
         <source>Auto-download Mojang Java</source>
         <translation>MojangのJavaを自動ダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"></location>
         <source>Auto-detect Java version</source>
         <translation>Java バージョンの自動検出</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"></location>
         <source>Autodetect Java</source>
         <translation>Javaの自動検出</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"></location>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>最大メモリ割り当て量がシステムメモリ容量を超えています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"></location>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>最大メモリ割り当て量がシステムメモリ容量に近いです。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="521"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="521"></location>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>メモリの最大割り当て量が最小割り当て量を下回っています</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"></location>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
         <translation>32bit版のJavaでサポートされる最大割り当てを超過しています。</translation>
     </message>
@@ -5691,7 +5691,7 @@ Javaのバージョンは後で設定で変更できます。
 <context>
     <name>LanguagePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="53"/>
+        <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="53"></location>
         <source>Language</source>
         <translation>言語</translation>
     </message>
@@ -5699,12 +5699,12 @@ Javaのバージョンは後で設定で変更できます。
 <context>
     <name>LanguageSelectionWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
+        <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"></location>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
         <translation>あなたの言語がリストにないか、改善できる場合は&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;翻訳を手伝ってください！&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
+        <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"></location>
         <source>Use system locales</source>
         <translation>システムの言語を使用する</translation>
     </message>
@@ -5712,12 +5712,12 @@ Javaのバージョンは後で設定で変更できます。
 <context>
     <name>LanguageWizardPage</name>
     <message>
-        <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="43"/>
+        <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="43"></location>
         <source>Language</source>
         <translation>言語</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
+        <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"></location>
         <source>Select the language to use in %1</source>
         <translation>%1で使用する言語を選択してください</translation>
     </message>
@@ -5725,48 +5725,48 @@ Javaのバージョンは後で設定で変更できます。
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="70"/>
+        <location filename="src/launcher/LaunchController.cpp" line="70"></location>
         <source>No instance specified!</source>
         <translation>起動構成が指定されていません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="75"/>
+        <location filename="src/launcher/LaunchController.cpp" line="75"></location>
         <source>Invalid Java arguments specified. Please fix this first.</source>
         <translation>無効なJava引数が指定されました。修正してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="92"/>
+        <location filename="src/launcher/LaunchController.cpp" line="92"></location>
         <source>No Accounts</source>
         <translation>アカウントがありません</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="93"/>
+        <location filename="src/launcher/LaunchController.cpp" line="93"></location>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation>Minecraftをプレイするためには、MicrosoftまたはMojangのアカウントにログインする必要があります。Mojangアカウントはオフラインで使用することができます。アカウントマネージャーを開いてアカウントを追加しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="119"/>
+        <location filename="src/launcher/LaunchController.cpp" line="119"></location>
         <source>Which account would you like to use?</source>
         <translation>どのアカウントを利用しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="192"/>
+        <location filename="src/launcher/LaunchController.cpp" line="192"></location>
         <source>No account selected for launch.</source>
         <translation>起動用のアカウントが選択されていません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="316"/>
+        <location filename="src/launcher/LaunchController.cpp" line="316"></location>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
         <translation>ランチャーのクライアントIDが変更されました。&apos;%1&apos;を削除して再試行してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="326"/>
+        <location filename="src/launcher/LaunchController.cpp" line="326"></location>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>&apos;%1&apos;はサーバー上に存在しません。移行された可能性があります。その場合は、移行先の新しいアカウントを追加してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="343"/>
+        <location filename="src/launcher/LaunchController.cpp" line="343"></location>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation>&apos;%1&apos;は有効期限が切れているため再認証が必要です。このアカウントを再認証しますか？</translation>
     </message>
@@ -5775,42 +5775,42 @@ Javaのバージョンは後で設定で変更できます。
         <translation type="vanished">アカウントにログインしていません。パスワードを入力してログインし直してください。&lt;br /&gt; &lt;br /&gt;これはパスワードの変更などで発生します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="209"/>
+        <location filename="src/launcher/LaunchController.cpp" line="209"></location>
         <source>Continue launch?</source>
         <translation>起動を続行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="210"/>
+        <location filename="src/launcher/LaunchController.cpp" line="210"></location>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>%1 回試行しましたが、起動できませんでした。試行を続行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="160"/>
+        <location filename="src/launcher/LaunchController.cpp" line="160"></location>
         <source>Player name</source>
         <translation>プレイヤー名</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="153"/>
+        <location filename="src/launcher/LaunchController.cpp" line="153"></location>
         <source>Choose your offline mode player name.</source>
         <translation>オフラインモードでのプレイヤー名を入力してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="155"/>
+        <location filename="src/launcher/LaunchController.cpp" line="155"></location>
         <source>Choose your demo mode player name.</source>
         <translation>デモモードでのプレイヤー名を入力してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="278"/>
+        <location filename="src/launcher/LaunchController.cpp" line="278"></location>
         <source>Received undetermined session status during login.</source>
         <translation>ログイン中に不明のセッションステータスを受信しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="137"/>
+        <location filename="src/launcher/LaunchController.cpp" line="137"></location>
         <source>Play demo?</source>
         <translation>デモ版をプレイしますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="139"/>
+        <location filename="src/launcher/LaunchController.cpp" line="139"></location>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -5821,17 +5821,17 @@ Do you want to play the demo?</source>
 デモ版をプレイしますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="142"/>
+        <location filename="src/launcher/LaunchController.cpp" line="142"></location>
         <source>Play Demo</source>
         <translation>デモ版をプレイ</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="143"/>
+        <location filename="src/launcher/LaunchController.cpp" line="143"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="245"/>
+        <location filename="src/launcher/LaunchController.cpp" line="245"></location>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>起動が中止されました - アカウントがMinecraftを所有していません。</translation>
     </message>
@@ -5844,7 +5844,7 @@ Do you want to play the demo?</source>
         <translation>アカウントの有効期限が切れたため、手動でログインし直す必要があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="342"/>
+        <location filename="src/launcher/LaunchController.cpp" line="342"></location>
         <source>Account refresh failed</source>
         <translation>アカウントの更新に失敗</translation>
     </message>
@@ -5853,7 +5853,7 @@ Do you want to play the demo?</source>
         <translation>ランチャーのクライアント認証が変更されました。このアカウントを削除し、追加しなおしてください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="319"/>
+        <location filename="src/launcher/LaunchController.cpp" line="319"></location>
         <source>Client identification changed</source>
         <translation>クライアント認証が変更されました</translation>
     </message>
@@ -5862,12 +5862,12 @@ Do you want to play the demo?</source>
         <translation>このアカウントはもうサーバーに存在しません。 移行された可能性があります。この場合、移行したアカウントを追加してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="329"/>
+        <location filename="src/launcher/LaunchController.cpp" line="329"></location>
         <source>Account gone</source>
         <translation>アカウントが削除されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="336"/>
+        <location filename="src/launcher/LaunchController.cpp" line="336"></location>
         <source>Failed to launch.</source>
         <translation>起動に失敗しました。</translation>
     </message>
@@ -5880,34 +5880,34 @@ Do you want to play the demo?</source>
         <translation type="vanished">アカウントの有効期限が切れており，再ログインにも失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="367"/>
+        <location filename="src/launcher/LaunchController.cpp" line="367"></location>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>アカウントの有効期限が切れたため、再認証が必要です</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="377"/>
-        <location filename="src/launcher/LaunchController.cpp" line="434"/>
+        <location filename="src/launcher/LaunchController.cpp" line="377"></location>
+        <location filename="src/launcher/LaunchController.cpp" line="434"></location>
         <source>Error!</source>
         <translation>エラー！</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="377"/>
-        <location filename="src/launcher/LaunchController.cpp" line="378"/>
+        <location filename="src/launcher/LaunchController.cpp" line="377"></location>
+        <location filename="src/launcher/LaunchController.cpp" line="378"></location>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>起動構成のプロファイルをロードできませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="384"/>
+        <location filename="src/launcher/LaunchController.cpp" line="384"></location>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>ランチャーを起動構成にできませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="434"/>
+        <location filename="src/launcher/LaunchController.cpp" line="434"></location>
         <source>Profiler check for %1 failed: %2</source>
         <translation>%1 のプロファイラチェックが失敗しました：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="447"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"></location>
         <source>&amp;Launch</source>
         <translation>起動(&amp;L)</translation>
     </message>
@@ -5916,7 +5916,7 @@ Do you want to play the demo?</source>
         <translation type="vanished">プロファイラを開始できませんでした: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="441"/>
+        <location filename="src/launcher/LaunchController.cpp" line="441"></location>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5925,7 +5925,7 @@ Do you want to play the demo?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="445"/>
+        <location filename="src/launcher/LaunchController.cpp" line="445"></location>
         <source>Waiting.</source>
         <translation>待機中。</translation>
     </message>
@@ -5934,28 +5934,28 @@ Do you want to play the demo?</source>
         <translation type="vanished">起動</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="453"></location>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>プロファイラを開始できませんでした：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="454"/>
+        <location filename="src/launcher/LaunchController.cpp" line="454"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="299"/>
-        <location filename="src/launcher/LaunchController.cpp" line="481"/>
+        <location filename="src/launcher/LaunchController.cpp" line="299"></location>
+        <location filename="src/launcher/LaunchController.cpp" line="481"></location>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="494"/>
+        <location filename="src/launcher/LaunchController.cpp" line="494"></location>
         <source>Kill Minecraft?</source>
         <translation>Minecraftを強制終了しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="495"/>
+        <location filename="src/launcher/LaunchController.cpp" line="495"></location>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>これは起動構成の破損を引き起こす可能性があるので、Minecraftがフリーズした場合にのみ使用してください</translation>
     </message>
@@ -5971,14 +5971,14 @@ You may have to fix your mods because the game is still logging to files and lik
 ゲームがまだファイルにログインしていて、ハードドライブのスペースを危険なほどに浪費している可能性があるので、あなたの変更を修正する必要があるかもしれません!</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/LaunchTask.cpp" line="209"/>
+        <location filename="src/launcher/launch/LaunchTask.cpp" line="209"></location>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <translation>ログの長さが%1行を超えたため、ゲームログの表示を停止しました。
 ゲームはまだファイルにログを保存しており、ストレージの容量を浪費しているため、ログを出力しているModを修正する必要があるかもしれません!</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
+        <location filename="src/launcher/launch/LaunchTask.cpp" line="235"></location>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
         <translation>[Log4j 解析エラー] log4j ログイベントの解析に失敗しました: %1</translation>
     </message>
@@ -5986,18 +5986,18 @@ You may have to fix your mods because the game is still logging to files and lik
 <context>
     <name>LauncherLoginStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"></location>
         <source>Accessing Mojang services.</source>
         <translation>Mojangサービスにアクセス中。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"></location>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="62"></location>
         <source>Failed to get Minecraft access token: %1</source>
         <translation>Minecraftアクセストークンの取得に失敗しました：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="69"></location>
         <source>Failed to parse the Minecraft access token response.</source>
         <translation>Minecraftアクセストークンのレスポンスの解析に失敗しました。</translation>
     </message>
@@ -6013,7 +6013,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>アップデート設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"></location>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
         <translation>アップデートを自動で確認</translation>
@@ -6027,32 +6027,32 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">チャンネルが選択されていません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"></location>
         <source>Folders</source>
         <translation>フォルダ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"></location>
         <source>I&amp;nstances:</source>
         <translation>起動構成(&amp;N)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="248"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="292"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="332"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="342"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="248"></location>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"></location>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="292"></location>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"></location>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="332"></location>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="342"></location>
         <source>Browse</source>
         <translation>参照</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"></location>
         <source>Instance Sorting</source>
         <translation>起動構成の並び替え</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="105"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="105"></location>
         <source>Instance Renaming</source>
         <translation>起動構成の名前変更</translation>
     </message>
@@ -6061,7 +6061,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">フォルダ名を変更するか確認する</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"></location>
         <source>Always rename the folder</source>
         <translation>常にフォルダ名を変更する</translation>
     </message>
@@ -6070,87 +6070,87 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">フォルダ名は変更せず、表示名のみ変更する</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"></location>
         <source>Ask what to do</source>
-        <translation type="unfinished"></translation>
+        <translation>毎回確認する</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"></location>
         <source>Never rename the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>常にフォルダ名を変更しない</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"></location>
         <source>Updater</source>
         <translation>アップデーター</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"></location>
         <source>How Often?</source>
         <translation>確認頻度？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"></location>
         <source>Set to 0 to only check on launch</source>
         <translation>0に設定すると起動時にのみ確認します</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"></location>
         <source>On Launch</source>
         <translation>起動時</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="198"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="198"></location>
         <source> hours</source>
         <translation> 時間</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"></location>
         <source>Every </source>
         <translation>ごと </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"></location>
         <source>&amp;Mods:</source>
         <translation>Mod(&amp;M)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"></location>
         <source>&amp;Icons:</source>
         <translation>アイコン(&amp;I)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="452"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="452"></location>
         <source>Log History &amp;Limit:</source>
         <translation>Mod(&amp;M)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"></location>
         <source>Tasks</source>
         <translation>アイコン(&amp;I)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="560"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="560"></location>
         <source>Retry Limit:</source>
         <translation>ログ履歴の制限(&amp;L):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="567"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="567"></location>
         <source>Concurrent Download Limit:</source>
         <translation>同時ダウンロードの上限：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="577"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="577"></location>
         <source>HTTP Timeout:</source>
         <translation>HTTPタイムアウト：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="603"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="603"></location>
         <source>Concurrent Task Limit:</source>
         <translation>同時タスクの上限：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"></location>
         <source>&amp;Downloads:</source>
         <translation>ダウンロード(&amp;D)：</translation>
     </message>
@@ -6159,7 +6159,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="56"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="56"></location>
         <source>User Interface</source>
         <translation>ユーザーインターフェース</translation>
     </message>
@@ -6168,13 +6168,13 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>起動構成の並び順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"></location>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
         <translation>最後に起動した順(&amp;B)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"></location>
         <source>By &amp;name</source>
         <translation>名前順(&amp;N)</translation>
     </message>
@@ -6201,7 +6201,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>Modのメタデータを使用しない</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"></location>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：Modのメタデータを無効にすると、Modのアップデートなどの便利機能も無効化されます！&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -6243,12 +6243,12 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">常時</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"></location>
         <source>&amp;Skins:</source>
         <translation>スキン(&amp;S)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="374"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="374"></location>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
         <translation>有効にすると、リソースを検索する際に、ダウンロードフォルダに加え、サブフォルダも再帰的に検索します（例：CurseForgeのブロックされたModを探す場合など）。</translation>
     </message>
@@ -6286,7 +6286,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>同時ダウンロード数</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"></location>
         <source>Seconds to wait until the requests are terminated</source>
         <translation>リクエストが終了するまで待つ秒数</translation>
     </message>
@@ -6295,7 +6295,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>HTTPリクエストのタイムアウト</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"></location>
         <source>s</source>
         <translation>秒</translation>
     </message>
@@ -6304,7 +6304,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>手動リトライの回数</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"></location>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
         <translation>有効にすると、ブロックされたリソースをコピーではなく移動するようにします。</translation>
     </message>
@@ -6313,7 +6313,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">ブロックされたリソースを移動</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"></location>
         <source>&amp;Java:</source>
         <translation>Java(&amp;J)：</translation>
     </message>
@@ -6338,63 +6338,63 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>ツール</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"></location>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
         <translation>メニューバーによりキーボード操作がしやすくなります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"></location>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
         <translation>ツールバーをメニューバーに置き換える(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"></location>
         <source>Mods and Modpacks</source>
         <translation>ModとModパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"></location>
         <source>Check &amp;subfolders for blocked mods</source>
         <translation>サブフォルダ内もブロックされたModを検索する(&amp;S)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"></location>
         <source>Move blocked mods instead of copying them</source>
         <translation>ブロックされたModをコピーせずに移動する</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"></location>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <translation>ModrinthやCurseForgeなどのMod提供者から提供されるModのバージョン情報を保存します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"></location>
         <source>Keep track of mod metadata</source>
         <translation>Modのメタデータを保持する</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"></location>
         <source>Automatically detect, install, and update mod dependencies.</source>
         <translation>Modの依存関係を自動的に検出し、インストール、更新します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="417"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="417"></location>
         <source>Install dependencies automatically</source>
         <translation>依存関係を自動的にインストールする</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"></location>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
         <translation>新しいModパックの起動構成を作成する際に、代わりに既存の起動構成を更新することを提案します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"></location>
         <source>Suggest to update an existing instance during modpack installation</source>
         <translation>Modパックのインストール時に既存の起動構成の更新を提案する</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"></location>
         <source>Console</source>
         <translation>コンソール</translation>
     </message>
@@ -6423,13 +6423,13 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>履歴の上限(&amp;H)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"></location>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>ログが上限を超えたときにログの記録を停止する(&amp;S)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="468"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="468"></location>
         <source> lines</source>
         <translation> 行</translation>
     </message>
@@ -6439,22 +6439,22 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>コンソールのフォント(&amp;F)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"></location>
         <source>Instance Folder</source>
         <translation>起動構成のフォルダ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="101"></location>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
         <translation>起動構成のフォルダのファイルパスに一つ以上の「!」が含まれています。これによりJavaが問題を起こす可能性があり、起動構成は起動しない場合があります！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="106"></location>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
         <translation>本当にこのパスを使用しますか？Noを選択するとキャンセルされ、変更は行われません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"></location>
         <source>You&apos;re trying to specify an instance folder which was granted temporarily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
@@ -6469,32 +6469,32 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 Flatsealを使用して%1へのアクセスを取得することを推奨します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="122"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="122"></location>
         <source>Do you want to proceed anyway?</source>
         <translation>強制的に続行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="136"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="136"></location>
         <source>Icons Folder</source>
         <translation>アイコンフォルダ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="147"></location>
         <source>Mods Folder</source>
         <translation>Modフォルダ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="158"></location>
         <source>Downloads Folder</source>
         <translation>ダウンロードフォルダー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"></location>
         <source>Java Folder</source>
         <translation>Javaフォルダ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"></location>
         <source>Skins Folder</source>
         <translation>スキンのフォルダー</translation>
     </message>
@@ -6535,7 +6535,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
         <translation>ランチャー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="60"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="60"></location>
         <source>General</source>
         <translation>一般</translation>
     </message>
@@ -6543,30 +6543,30 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
 <context>
     <name>LauncherPartLaunch</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="76"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="76"></location>
         <source>Launcher library could not be found. Please check your installation.</source>
         <translation>ランチャーライブラリが見つかりませんでした。設定を確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="88"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="88"></location>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
         <translation>従来のランチャーライブラリが見つかりません。正しくインストールされているか確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="140"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="140"></location>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
         <translation>Wrapperのコマンド &quot;%1&quot; は見つかりませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="167"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="167"></location>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
         <translation>Minecraftを起動できませんでした！</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"></location>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="189"></location>
         <source>Game crashed.</source>
         <translation>ゲームがクラッシュしました。</translation>
     </message>
@@ -6574,13 +6574,13 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
 <context>
     <name>LegacyFTB::FilterModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="58"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="58"></location>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
         <translation>名前順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"></location>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
         <translation>ゲームバージョン順</translation>
@@ -6589,17 +6589,17 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
 <context>
     <name>LegacyFTB::ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="134"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="134"></location>
         <source>Public Modpack</source>
         <translation>公開Modパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="136"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="136"></location>
         <source>Third Party Modpack</source>
         <translation>サードパーティModパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="138"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="138"></location>
         <source>Private Modpack</source>
         <translation>プライベートModパック</translation>
     </message>
@@ -6607,17 +6607,17 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
 <context>
     <name>LegacyFTB::PackFetchTask</name>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="117"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="117"></location>
         <source>Public Packs</source>
         <translation>公開パック</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="121"></location>
         <source>Third Party Packs</source>
         <translation>サードパーティパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"></location>
         <source>Failed to download some pack lists: %1</source>
         <translation>いくつかのModパックリストのダウンロードが失敗しました：%1</translation>
     </message>
@@ -6625,7 +6625,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
 <context>
     <name>LegacyFTB::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="69"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="69"></location>
         <source>Downloading zip for %1</source>
         <translation>%1 のzipをダウンロードしています</translation>
     </message>
@@ -6634,28 +6634,28 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
         <translation type="vanished">%1 のzipをダウンロードしています (%2%)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"></location>
         <source>Extracting modpack</source>
         <translation>Modパックを展開中</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="107"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="107"></location>
         <source>Failed to open modpack file %1!</source>
         <translation>Modパックファイル %1 を開くのに失敗しました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="130"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="130"></location>
         <source>Installing modpack</source>
         <translation>Modパックをインストール中</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="136"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="136"></location>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
         <translation>展開したMinecraftの移動に失敗しました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="196"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="196"></location>
         <source>No installation method found!</source>
         <translation>インストール方法が見つかりませんでした！</translation>
     </message>
@@ -6667,7 +6667,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
 <context>
     <name>LegacyFTB::Page</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"></location>
         <source>Search and filter...</source>
         <translation>検索とフィルター…</translation>
     </message>
@@ -6676,32 +6676,32 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
         <translation type="vanished">検索</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="35"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="35"></location>
         <source>Public</source>
         <translation>公開パック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="62"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="62"></location>
         <source>3rd Party</source>
         <translation>サードパーティ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="89"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="89"></location>
         <source>Private</source>
         <translation>プライベートパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="108"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="108"></location>
         <source>Add pack</source>
         <translation>パックを追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="115"></location>
         <source>Remove selected pack</source>
         <translation>選択したパックを削除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="145"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="145"></location>
         <source>Version selected:</source>
         <translation>バージョンの選択：</translation>
     </message>
@@ -6710,49 +6710,49 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
         <translation type="vanished">FTB Legacy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="208"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"></location>
         <source>Task aborted</source>
         <translation>タスクは中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"></location>
         <source>The task has been aborted by the user.</source>
         <translation>タスクはユーザーによって中断されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"></location>
         <source>FTB private packs</source>
         <translation>FTB プライベートパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"></location>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
         <translation>コード %1のパック情報のダウンロードに失敗しました。
 今すぐ削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="349"></location>
         <source>Add FTB pack</source>
         <translation>FTB Modパックを追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="349"></location>
         <source>Enter pack code:</source>
         <translation>パックのコードを入力：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="364"></location>
         <source>Remove pack</source>
         <translation>パックを削除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="364"></location>
         <source>Are you sure you want to remove pack %1?</source>
         <translation>本当にパック %1 を削除しますか？</translation>
     </message>
@@ -6813,23 +6813,23 @@ Should it be removed now?</source>
 <context>
     <name>LibrariesTask</name>
     <message>
-        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
+        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"></location>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
         <translation>必要なライブラリファイルをダウンロード中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
+        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"></location>
         <source>Libraries for instance %1</source>
         <translation>起動構成 %1 のライブラリ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
+        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"></location>
         <source>Null jar is specified in the metadata, aborting.</source>
         <translation>メタデータにnull jarが指定されているため、中断します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="59"/>
+        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="59"></location>
         <source>Some artifacts marked as &apos;local&apos; are missing their files:
 %1
 
@@ -6842,12 +6842,12 @@ You&apos;ll have to correct this problem manually.</source>
 この問題は手動で修正する必要があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"></location>
         <source>Aborted</source>
         <translation>中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
+        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"></location>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
@@ -6872,14 +6872,14 @@ Reason:
 <context>
     <name>LocalResourceUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="44"/>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="44"></location>
         <source>Updating index for resource:
 %1</source>
         <translation>リソースのインデックスを更新中：
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="59"/>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="59"></location>
         <source>Invalid metadata</source>
         <translation>無効なメタデータ</translation>
     </message>
@@ -6887,74 +6887,74 @@ Reason:
 <context>
     <name>LogPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="60"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="60"></location>
         <source>Keep updating</source>
         <translation>更新し続ける</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="70"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="70"></location>
         <source>Wrap lines</source>
         <translation>行を折り返し</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="80"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="80"></location>
         <source>Color lines</source>
         <translation>行に色を付ける</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"></location>
         <source>Copy the whole log into the clipboard</source>
         <translation>クリップボードにログ全体をコピーします</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"></location>
         <source>&amp;Copy</source>
         <translation>コピー(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"></location>
         <source>Upload the log to the paste service configured in preferences</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
         <translation>設定されたペーストサービスにログをアップロードします</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="116"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="116"></location>
         <source>Upload</source>
         <translation>アップロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="123"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="123"></location>
         <source>Clear the log</source>
         <translation>ログをクリア</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="126"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="126"></location>
         <source>Clear</source>
         <translation>クリア</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="135"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="135"></location>
         <source>Search:</source>
         <translation>検索：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="142"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="142"></location>
         <source>Find</source>
         <translation>次を検索</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="152"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="152"></location>
         <source>Scroll all the way to bottom</source>
         <translation>一番下までスクロール</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="155"></location>
         <source>Bottom</source>
         <translation>一番下へ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="247"/>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="69"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="247"></location>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="69"></location>
         <source>Minecraft Log</source>
         <translation>Minecraftのログ</translation>
     </message>
@@ -6962,30 +6962,30 @@ Reason:
 <context>
     <name>LoggedProcess</name>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="96"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="96"></location>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
         <translation>Minecraftは終了コード %1 で終了しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="101"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="101"></location>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
         <translation>プロセスがクラッシュしました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="103"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="103"></location>
         <source>Process crashed with exitcode %1.</source>
         <translation>Minecraftは終了コード %1 でクラッシュしました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="108"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="108"></location>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
         <translation>Minecraftはユーザーによって強制終了されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="117"></location>
         <source>The process failed to start.</source>
         <translation>プロセスの起動に失敗しました。</translation>
     </message>
@@ -7008,22 +7008,22 @@ Reason:
 <context>
     <name>LoginWizardPage</name>
     <message>
-        <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"/>
+        <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"></location>
         <source>Form</source>
         <translation>フォーム</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
+        <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"></location>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Microsoftアカウントを追加&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
+        <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"></location>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
         <translation>Minecraftをプレイするには、少なくとも１つのMicrosoftアカウントにログインしている必要があります。今すぐログインしますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
+        <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"></location>
         <source>Add Microsoft account</source>
         <translation>Microsoftアカウントを追加する</translation>
     </message>
@@ -7031,27 +7031,27 @@ Reason:
 <context>
     <name>MMCZip::ExportToZipTask</name>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="470"/>
+        <location filename="src/launcher/MMCZip.cpp" line="470"></location>
         <source>Folder doesn&apos;t exist</source>
         <translation>フォルダーが存在していません</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="473"/>
+        <location filename="src/launcher/MMCZip.cpp" line="473"></location>
         <source>Could not create file</source>
         <translation>ファイルを作成できませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="481"/>
+        <location filename="src/launcher/MMCZip.cpp" line="481"></location>
         <source>Could not create:</source>
         <translation>作成できませんでした：</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="502"/>
+        <location filename="src/launcher/MMCZip.cpp" line="502"></location>
         <source>Could not read and compress %1</source>
         <translation>%1 を読み取って圧縮できませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="508"/>
+        <location filename="src/launcher/MMCZip.cpp" line="508"></location>
         <source>A zip error occurred</source>
         <translation>zipエラーが発生しました</translation>
     </message>
@@ -7059,38 +7059,38 @@ Reason:
 <context>
     <name>MMCZip::ExtractZipTask</name>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="540"/>
+        <location filename="src/launcher/MMCZip.cpp" line="540"></location>
         <source>Unable to open supplied zip file.</source>
         <translation>提供されたzipファイルを開けませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="558"/>
+        <location filename="src/launcher/MMCZip.cpp" line="558"></location>
         <source>Failed to enumerate files in archive</source>
         <translation>アーカイブ内のファイルを列挙できませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="561"/>
+        <location filename="src/launcher/MMCZip.cpp" line="561"></location>
         <source>Extracting empty archives seems odd...</source>
         <translation>空のアーカイブを展開するのは変です…</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="565"/>
+        <location filename="src/launcher/MMCZip.cpp" line="565"></location>
         <source>Failed to seek to first file in zip</source>
         <translation>zip内の最初のファイルの検索に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="605"/>
+        <location filename="src/launcher/MMCZip.cpp" line="605"></location>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
         <translation>%1 の展開は、実質的に対象パス %2 の外側であったため、キャンセルされました</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="611"/>
+        <location filename="src/launcher/MMCZip.cpp" line="611"></location>
         <source>Failed to extract file %1 to %2</source>
         <translation>ファイル %1 を %2 に展開できませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="625"/>
-        <location filename="src/launcher/MMCZip.cpp" line="636"/>
+        <location filename="src/launcher/MMCZip.cpp" line="625"></location>
+        <location filename="src/launcher/MMCZip.cpp" line="636"></location>
         <source>Could not fix permissions for %1</source>
         <translation>%1 の権限を修正できませんでした</translation>
     </message>
@@ -7098,37 +7098,37 @@ Reason:
 <context>
     <name>MSADeviceCodeStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="55"></location>
         <source>Logging in with Microsoft account(device code).</source>
         <translation>Microsoftアカウントにデバイスコードでログインしています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"></location>
         <source>Device authorization failed: %1</source>
         <translation>デバイスの認証に失敗：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"></location>
         <source>Failed to retrieve device authorization</source>
         <translation>デバイス認証の取得に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"></location>
         <source>Device authorization failed: required fields missing</source>
         <translation>デバイスの認証に失敗：必須項目がありません</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"></location>
         <source>Task aborted</source>
         <translation>タスクは中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"></location>
         <source>Device Access failed: %1</source>
         <translation>デバイスのアクセスに失敗：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"></location>
         <source>Got</source>
         <translation>取得済み</translation>
     </message>
@@ -7136,54 +7136,54 @@ Reason:
 <context>
     <name>MSALoginDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"></location>
         <source>Add Microsoft Account</source>
         <translation>Microsoftアカウントを追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="218"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"></location>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="218"></location>
         <source>Please wait...</source>
         <translation>お待ちください...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="231"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"></location>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="231"></location>
         <source>Status</source>
         <translation>状態</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"></location>
         <source>Sign in with Microsoft</source>
         <translation>Microsoftアカウントにサインイン</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="166"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="166"></location>
         <source>Or</source>
         <translation>または</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="347"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="347"></location>
         <source>CODE</source>
         <translation>コード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="360"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="360"></location>
         <source>Copy code to clipboard</source>
         <translation>クリップボードにコードをコピー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="398"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="398"></location>
         <source>Info</source>
         <translation>情報</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="76"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="76"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="199"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="199"></location>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>必要に応じて %1 を開くか、QRをスキャンして上記のコードを入力してください。</translation>
     </message>
@@ -7211,27 +7211,27 @@ Reason:
 <context>
     <name>MSAStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"></location>
         <source>Failed to refresh token.</source>
         <translation>トークンの更新に失敗しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"></location>
         <source>Logging in with Microsoft account.</source>
         <translation>Microsoftアカウントでログイン中。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"></location>
         <source>Microsoft user authentication failed - client identification has changed.</source>
         <translation>Microsoftユーザー認証に失敗しました。クライアント識別が変更されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="165"></location>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
         <translation>Microsoftユーザー認証に失敗 - リフレッシュトークンが空です。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"></location>
         <source>Got </source>
         <translation>取得済み </translation>
     </message>
@@ -7244,7 +7244,7 @@ Reason:
         <translation type="vanished">Microsoftユーザー認証に失敗しました。ユーザーが存在しません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="131"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="131"></location>
         <source>Microsoft user authentication failed.</source>
         <translation>Microsoftユーザー認証に失敗しました。</translation>
     </message>
@@ -7268,12 +7268,12 @@ Reason:
         <translation type="vanished">起動</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="341"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="341"></location>
         <source>Launch the selected instance.</source>
         <translation>選択した起動構成を起動します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="35"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="35"></location>
         <source>Main Toolbar</source>
         <translation>メインツールバー</translation>
     </message>
@@ -7282,7 +7282,7 @@ Reason:
         <translation type="vanished">インスタンスの追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="294"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="294"></location>
         <source>Add a new instance.</source>
         <translation>新しい起動構成を追加します。</translation>
     </message>
@@ -7301,27 +7301,27 @@ Reason:
         <translation type="vanished">Central Modsフォルダを開く(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="556"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="556"></location>
         <source>Open the central mods folder in a file browser.</source>
         <translation>ファイルブラウザでCentral Modsフォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="206"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="206"></location>
         <source>&amp;Accounts</source>
         <translation>アカウント(&amp;A)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="487"></location>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
         <translation>選択したフォルダーにショートカットを作成し、選択したインスタンスを起動します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="694"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="694"></location>
         <source>Folders</source>
         <translation>フォルダ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="697"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="697"></location>
         <source>Open one of the folders shared between instances.</source>
         <translation>起動構成間で共有されているフォルダの1つを開きます。</translation>
     </message>
@@ -7330,7 +7330,7 @@ Reason:
         <translation type="vanished">設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="319"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="319"></location>
         <source>Change settings.</source>
         <translation>設定を変更します。</translation>
     </message>
@@ -7339,7 +7339,7 @@ Reason:
         <translation type="vanished">バグを報告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="605"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="605"></location>
         <source>Open the bug tracker to report a bug with %1.</source>
         <translation>%1のバグを報告するためのバグトラッカーを開きます。</translation>
     </message>
@@ -7358,7 +7358,7 @@ Reason:
         <translation type="obsolete">Reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="638"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="638"></location>
         <source>Open %1 subreddit.</source>
         <translation>%1のsubredditを開きます。</translation>
     </message>
@@ -7367,17 +7367,17 @@ Reason:
         <translation type="obsolete">%1について</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="649"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="649"></location>
         <source>View information about %1.</source>
         <translation>%1に関する情報を表示します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="705"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="705"></location>
         <source>Help</source>
         <translation>ヘルプ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="708"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="708"></location>
         <source>Get help with %1 or Minecraft.</source>
         <translation>Minecraftまたは%1に関するヘルプ。</translation>
     </message>
@@ -7386,7 +7386,7 @@ Reason:
         <translation type="vanished">今すぐアップデート</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="305"></location>
         <source>Check for new updates for %1.</source>
         <translation>%1のアップデートを確認します。</translation>
     </message>
@@ -7395,7 +7395,7 @@ Reason:
         <translation type="vanished">ニャー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="259"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="259"></location>
         <source>It&apos;s a fluffy kitty :3</source>
         <translation>ふわふわの猫ちゃん :3</translation>
     </message>
@@ -7404,83 +7404,83 @@ Reason:
         <translation type="vanished">アカウントの管理</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="64"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="64"></location>
         <source>News Toolbar</source>
         <translation>お知らせのツールバー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="242"></location>
         <source>More news...</source>
         <translation>他のお知らせ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="245"></location>
         <source>Open the development blog to read more news about %1.</source>
         <translation>開発ブログを開いて%1に関するお知らせを読みます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="396"></location>
         <source>&amp;Edit...</source>
         <translation>編集(&amp;E)...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="410"></location>
         <source>&amp;Folder</source>
         <translation>フォルダー(&amp;F)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="449"></location>
         <source>E&amp;xport...</source>
         <translation>エクスポート(&amp;X)...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="421"></location>
         <source>Dele&amp;te</source>
         <translation>削除(&amp;T)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="435"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="435"></location>
         <source>Cop&amp;y...</source>
         <translation>複製(&amp;Y)...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="91"></location>
         <source>Instance Toolbar</source>
         <translation>起動構成のツールバー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="385"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="385"></location>
         <source>Change Icon</source>
         <translation>アイコンの変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="349"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="349"></location>
         <source>&amp;Kill</source>
         <translation>強制終了(&amp;K)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="338"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="338"></location>
         <source>&amp;Launch</source>
         <translation>起動(&amp;L)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="291"></location>
         <source>Add Instanc&amp;e...</source>
         <translation>起動構成を追加(&amp;E)...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="185"></location>
         <source>F&amp;olders</source>
         <translation>フォルダー(&amp;O)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="316"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="316"></location>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
         <translation>設定(&amp;N)...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="283"></location>
         <source>&amp;Undo Last Instance Deletion</source>
         <translation>最後の起動構成の削除を元に戻す(&amp;U)</translation>
     </message>
@@ -7493,17 +7493,17 @@ Reason:
         <translation type="vanished">ランチャーのフォルダを開く(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="660"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="660"></location>
         <source>&amp;Clear Metadata Cache</source>
         <translation>メタデータキャッシュを削除(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="663"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="663"></location>
         <source>Clear cached metadata</source>
         <translation>キャッシュされたメタデータをすべて削除します</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="683"></location>
         <source>Install to &amp;PATH</source>
         <translation>PATHに追加(&amp;P)</translation>
     </message>
@@ -7512,97 +7512,97 @@ Reason:
         <translation type="vanished">バグを報告…(&amp;B)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="624"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="624"></location>
         <source>&amp;Matrix Space</source>
         <translation>Matrixスペース(&amp;M)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="613"></location>
         <source>&amp;Discord Guild</source>
         <translation>Discordサーバー(&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="635"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="635"></location>
         <source>Sub&amp;reddit</source>
         <translation>Subreddit(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="646"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="646"></location>
         <source>&amp;About %1</source>
         <translation>%1について(&amp;A)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="302"></location>
         <source>&amp;Update...</source>
         <translation>更新(&amp;U)…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="256"></location>
         <source>&amp;Meow</source>
         <translation>にゃーん(&amp;M)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="330"></location>
         <source>&amp;Manage Accounts...</source>
         <translation>アカウント管理(&amp;M)...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="275"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="275"></location>
         <source>Lock Toolbars</source>
         <translation>ツールバーをロック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="594"></location>
         <source>Themes</source>
         <translation>テーマ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="139"></location>
         <source>&amp;File</source>
         <translation>ファイル(&amp;F)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="162"></location>
         <source>&amp;Edit</source>
         <translation>編集(&amp;E)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="171"></location>
         <source>&amp;View</source>
         <translation>表示(&amp;V)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="211"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="211"></location>
         <source>&amp;Help</source>
         <translation>ヘルプ(&amp;H)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="267"></location>
         <source>Status Bar</source>
         <translation>ステータスバー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="352"></location>
         <source>Kill the running instance.</source>
         <translation>実行中の起動構成を強制終了します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="452"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="452"></location>
         <source>Export the selected instance to supported formats.</source>
         <translation>選択した起動構成を対応するフォーマットでエクスポートします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="460"></location>
         <source>Prism Launcher (zip)</source>
         <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="468"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="468"></location>
         <source>Modrinth (mrpack)</source>
         <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="476"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="476"></location>
         <source>CurseForge (zip)</source>
         <translation>CurseForge (zip)</translation>
     </message>
@@ -7611,42 +7611,42 @@ Reason:
         <translation type="vanished">Modリスト</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="517"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="517"></location>
         <source>Close &amp;Window</source>
         <translation>ウィンドウを閉じる(&amp;W)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="520"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="520"></location>
         <source>Close the current window</source>
         <translation>現在のウィンドウを閉じます</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="735"></location>
         <source>&amp;Widget Themes</source>
         <translation>ウィジェットのテーマ(&amp;W)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="738"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="738"></location>
         <source>Open the widget themes folder in a file browser.</source>
         <translation>ファイルブラウザでウィジェットのテーマフォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="746"></location>
         <source>I&amp;con Theme</source>
         <translation>アイコンのテーマ(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="749"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="749"></location>
         <source>Open the icon theme folder in a file browser.</source>
         <translation>ファイルブラウザでアイコンのテーマフォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="757"></location>
         <source>Cat Packs</source>
         <translation>猫パック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="760"></location>
         <source>Open the cat packs folder in a file browser.</source>
         <translation>ファイルブラウザで猫パックフォルダを開きます。</translation>
     </message>
@@ -7675,48 +7675,48 @@ Reason:
         <translation type="vanished">ランチャーのルートフォルダーを開く (&amp;V)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="545"></location>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
         <translation>ファイルブラウザでランチャールートフォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="602"></location>
         <source>Report a Bug or Suggest a Feature</source>
         <translation>バグを報告 / 機能を提案</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="627"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="627"></location>
         <source>Open %1 Matrix space.</source>
         <translation>%1のMatrixスペースを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="686"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="686"></location>
         <source>Install a %1 symlink to /usr/local/bin</source>
         <translation>%1のシンボリックリンクを/usr/local/binに追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"></location>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>%1のヘルプ(&amp;H)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="727"></location>
         <source>Open the %1 wiki</source>
         <translation>%1のWikiを開きます</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="388"></location>
         <source>Change the selected instance&apos;s icon.</source>
         <translation>選択した起動構成のアイコンを変更します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="363"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="363"></location>
         <source>Rename</source>
         <translation>名前を編集</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="366"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="366"></location>
         <source>Rename the selected instance.</source>
         <translation>選択した起動構成の名前を変更します。</translation>
     </message>
@@ -7733,22 +7733,22 @@ Reason:
         <translation type="vanished">この起動構成をデモ版で起動します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="355"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="355"></location>
         <source>Ctrl+K</source>
         <translation>Ctrl+K</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="402"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="402"></location>
         <source>Ctrl+I</source>
         <translation>Ctrl+I</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="374"></location>
         <source>&amp;Change Group...</source>
         <translation>グループを変更(&amp;C)...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="380"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="380"></location>
         <source>Ctrl+G</source>
         <translation>Ctrl+G</translation>
     </message>
@@ -7757,17 +7757,17 @@ Reason:
         <translation type="vanished">Ctrl+E</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="261"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="261"></location>
         <source>Backspace</source>
         <translation>Backspace</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="441"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="441"></location>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="484"></location>
         <source>Create Shortcut</source>
         <translation>ショートカットを作成</translation>
     </message>
@@ -7776,80 +7776,80 @@ Reason:
         <translation>選択した起動構成のショートカットをデスクトップに作成します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="531"></location>
         <source>&amp;Instances</source>
         <translation>起動構成(&amp;I)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="534"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="534"></location>
         <source>Open the instances folder in a file browser.</source>
         <translation>ファイルブラウザで起動構成のフォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="542"></location>
         <source>Launcher &amp;Root</source>
         <translation>ランチャーのルートフォルダ(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="553"></location>
         <source>&amp;Central Mods</source>
         <translation>Central Mod(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="564"></location>
         <source>&amp;Skins</source>
         <translation>スキン(&amp;S)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="567"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="567"></location>
         <source>Open the skins folder in a file browser.</source>
         <translation>ファイルブラウザでスキンフォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="575"></location>
         <source>Instance Icons</source>
         <translation>起動構成のアイコン</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="578"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="578"></location>
         <source>Open the instance icons folder in a file browser.</source>
         <translation>ファイルブラウザで起動構成のアイコンフォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="586"></location>
         <source>Logs</source>
         <translation>ログ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="589"></location>
         <source>Open the logs folder in a file browser.</source>
         <translation>ファイルブラウザでログフォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="672"></location>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
         <translation>ログを共有</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="675"></location>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
         <translation>ランチャーの現在および過去のログを、共有サービスにアップロードして表示します</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="767"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="716"></location>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="767"></location>
         <source>Accounts</source>
         <translation>アカウント</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="768"></location>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="771"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="771"></location>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
         <translation>ファイルブラウザでJavaフォルダを開きます。組み込みのJavaダウンローダーが使用されている場合にのみ利用可能です。</translation>
@@ -7859,7 +7859,7 @@ Reason:
         <translation type="vanished">オフラインプレイ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1411"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1411"></location>
         <source>Confirm Deletion</source>
         <translation>削除の確認</translation>
     </message>
@@ -7886,7 +7886,7 @@ Are you sure?</oldsource>
         <translation type="vanished">インスタンスの編集</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="399"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="399"></location>
         <source>Change the instance settings, mods and versions.</source>
         <translation>起動構成の設定、Modやバージョンを変更します。</translation>
     </message>
@@ -7903,7 +7903,7 @@ Are you sure?</oldsource>
         <translation type="vanished">ワールドを表示</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="424"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="424"></location>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
         <translation>選択した起動構成を削除します。</translation>
@@ -7921,7 +7921,7 @@ Are you sure?</oldsource>
         <translation type="vanished">グループ変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="377"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="377"></location>
         <source>Change the selected instance&apos;s group.</source>
         <translation>選択した起動構成のグループを変更します。</translation>
     </message>
@@ -7947,7 +7947,7 @@ Are you sure?</oldsource>
         <translation type="vanished">インスタンスのフォルダ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="413"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="413"></location>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
         <translation>ファイルブラウザで選択した起動構成のルートフォルダを開きます。</translation>
     </message>
@@ -7969,7 +7969,7 @@ Are you sure?</oldsource>
         <translation type="vanished">インスタンスをコピー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="438"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="438"></location>
         <source>Copy the selected instance.</source>
         <translation>選択した起動構成をコピーします。</translation>
     </message>
@@ -7979,14 +7979,14 @@ Are you sure?</oldsource>
         <translation type="vanished"> on %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="379"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="453"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1618"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="379"></location>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="453"></location>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1618"></location>
         <source>No instance selected</source>
         <translation>起動構成が選択されていません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="380"></location>
         <source>Total playtime: 0s</source>
         <translation>総プレイ時間：0秒</translation>
     </message>
@@ -7995,13 +7995,13 @@ Are you sure?</oldsource>
         <translation type="vanished">プロファイル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="558"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="558"></location>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
         <translation>起動構成の作成(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="572"></location>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
         <translation>グループを削除(&amp;D)</translation>
@@ -8031,54 +8031,54 @@ Are you sure?</oldsource>
         <translation type="vanished">プロファイラーが正しくセットアップされていません。設定の、「外部ツール」に移動します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="495"></location>
         <source>No accounts added!</source>
         <translation>アカウントは追加されていません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="692"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="692"></location>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="506"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="506"></location>
         <source>No Default Account</source>
         <translation>デフォルトアカウントなし</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="509"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="509"></location>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="803"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="803"></location>
         <source>Loading news...</source>
         <translation>お知らせをロード中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="813"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="813"></location>
         <source>No news available.</source>
         <translation>お知らせはありません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="857"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="857"></location>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="861"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="861"></location>
         <source>Task aborted</source>
         <translation>タスクは中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="861"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="861"></location>
         <source>The task has been aborted by the user.</source>
         <translation>タスクはユーザーによって中断されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="865"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="992"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1026"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="865"></location>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="992"></location>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1026"></location>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
@@ -8091,28 +8091,28 @@ Please add your Microsoft or Mojang account.</oldsource>
 Microsoftアカウントを追加してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="981"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="981"></location>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>「%1」はサードパーティのランチャーでのダウンロードを無効化しています。手動でダウンロードしてください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1015"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1015"></location>
         <source>Modpack download</source>
         <translation>Modパックのダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1165"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1165"></location>
         <source>Group name</source>
         <translation>グループ名</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1165"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1187"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1165"></location>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1187"></location>
         <source>Enter a new group name.</source>
         <translation>グループ名を入力してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1177"></location>
         <source>Delete group</source>
         <translation>グループを削除</translation>
     </message>
@@ -8121,32 +8121,32 @@ Microsoftアカウントを追加してください。</translation>
         <translation type="vanished">%1 を削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1306"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1306"></location>
         <source>Instance not editable</source>
         <translation>起動構成は編集できません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1307"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1307"></location>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>この起動構成は編集できません。壊れている、形式が違う、または、古すぎます。詳細はログを確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1350"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1350"></location>
         <source>Successfully added %1 to PATH</source>
         <translation>正常に %1 をPATHに追加しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1351"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1351"></location>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 はPATHに追加されました。`%2`を実行することで起動できます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1354"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1354"></location>
         <source>Failed to add %1 to PATH</source>
         <translation>%1 のPATHへの追加に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1355"></location>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>%1 のPATHへの追加中にエラーが発生しました</translation>
     </message>
@@ -8213,61 +8213,61 @@ Do you wish to proceed?</source>
         <translation>ランチャーが間違った設定のAppImageとして実行されていませんか？（$APPIMAGE環境変数が見つかりません）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="576"></location>
         <source>&amp;Rename group</source>
         <translation>グループ名の変更(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1050"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1050"></location>
         <source>No instance!</source>
         <translation>起動構成がありません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1051"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1051"></location>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>リソースを追加できる起動構成がありません。
 このリソースを再度インストールしようとする前に、新しい起動構成を作成してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1177"></location>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>本当にグループ「%1」を削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1187"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1187"></location>
         <source>Rename group</source>
         <translation>グループ名の変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1196"></location>
         <source>Cannot rename group</source>
         <translation>グループ名を変更できません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1196"></location>
         <source>Cannot set empty name.</source>
         <translation>空の名前は設定できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1196"></location>
         <source>Group already exists. :/</source>
         <translation>グループ名はすでに存在します。(´・ω・｀)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1207"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1207"></location>
         <source>Failed to undo trashing instance</source>
         <translation>ごみ箱に移動した起動構成を元に戻せませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1208"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1208"></location>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>一部の起動構成とショートカットを復元できませんでした。
 ごみ箱を確認し、手動で復元してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1328"></location>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -8276,24 +8276,24 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1398"></location>
         <source>Cannot Delete Running Instance</source>
         <translation>実行中の起動構成を削除できません｡</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1399"></location>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>選択した起動構成は現在実行中であるため、削除できません。削除する前に起動構成を停止してください。</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1410"></location>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> 、および登録済みの%n個のショートカット</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1412"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1412"></location>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -8304,7 +8304,7 @@ Are you sure?</source>
 本当によろしいですか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1422"></location>
         <source>Deleting</source>
         <translation>削除中</translation>
     </message>
@@ -8321,51 +8321,51 @@ Are you sure?</source>
         <translation>ご利用のプラットフォームではサポートされていません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1624"></location>
         <source>Rename Instance</source>
         <translation>起動構成の名前を編集</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1636"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1636"></location>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>この起動構成は「!」を含んでおり、Javaが問題を起こします！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1637"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1637"></location>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>&lt;br/&gt;起動構成のフォルダを変更するか、&lt;br/&gt;%1のインストール場所を別の場所にしてください</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1645"></location>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>&lt;br/&gt;ランチャーは警告なしにOSにより削除される可能性があります。&lt;br/&gt;ランチャーを閉じ、一時的なディレクトリではない場所に展開してください</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1651"></location>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>起動構成のフォルダに「Rar$」が含まれています。ランチャーアーカイブを展開してください！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1657"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1657"></location>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>起動構成のフォルダが一時的なディレクトリ「%1」にあります！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1671"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1671"></location>
         <source>Total playtime: %1</source>
         <translation>総プレイ時間：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="853"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="966"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="980"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1021"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1327"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="853"></location>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="966"></location>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="980"></location>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1021"></location>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1327"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="616"></location>
         <source>Open %1 Discord guild.</source>
         <translation>%1のDiscordサーバーを開きます。</translation>
     </message>
@@ -8379,57 +8379,57 @@ Are you sure?</source>
 <context>
     <name>ManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"></location>
         <source>Pack information</source>
         <translation>パックの情報</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"></location>
         <source>Pack name:</source>
         <translation>パックの名前：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"></location>
         <source>Current version:</source>
         <translation>現在のバージョン：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"></location>
         <source>Provider information:</source>
         <translation>提供元の情報：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"></location>
         <source>Update to version:</source>
         <translation>指定バージョンに更新：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"></location>
         <source>Fetching versions...</source>
         <translation>バージョンを取得中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"></location>
         <source>Update from file</source>
         <translation>ファイルから更新</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"></location>
         <source>Changelog</source>
         <translation>更新履歴</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="186"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="186"></location>
         <source>No changelog available for this version!</source>
         <translation>このバージョンに有効な更新履歴がありません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="201"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="201"></location>
         <source>Reload page</source>
         <translation>ページを再読み込み</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="146"></location>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
@@ -8438,72 +8438,72 @@ This can be updated only using a file in %1 format
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="153"></location>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
         <translation>ウェブサイト：&lt;a href=%1&gt;%2&lt;/a&gt;    |    パックID：%3    |    バージョンID：%4</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="196"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="200"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="200"></location>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"></location>
         <source>Task aborted</source>
         <translation>タスクは中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"></location>
         <source>The task has been aborted by the user.</source>
         <translation>タスクはユーザーによって中断されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="208"></location>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="216"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="216"></location>
         <source>Update pack</source>
         <translation>パックを更新</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"></location>
         <source>Failed to search for available versions.</source>
         <translation>有効なバージョンが検索できませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="230"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="230"></location>
         <source>Failed to request changelog data for this modpack.</source>
         <translation>このModパックの更新履歴データのリクエストに失敗しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="232"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="232"></location>
         <source>Cannot update!</source>
         <translation>更新できません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="347"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="347"></location>
         <source>Update Successful</source>
         <translation>アップデート成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="348"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="348"></location>
         <source>The instance updated to pack version %1 successfully.</source>
         <translation>起動構成がパックバージョン %1 に正常に更新されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"></location>
         <source>Update Failed</source>
         <translation>アップデート失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="354"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="354"></location>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
         <translation>起動構成をパックバージョン %1 に更新できませんでした。詳細はランチャーのログを確認してください。</translation>
     </message>
@@ -8518,7 +8518,7 @@ This can be updated only using a file in %1 format
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="121"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="121"></location>
         <source>Loading local file</source>
         <translation>ローカルファイルを読み込み中</translation>
     </message>
@@ -8526,12 +8526,12 @@ This can be updated only using a file in %1 format
 <context>
     <name>Meta::Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <location filename="src/launcher/meta/Index.cpp" line="71"></location>
         <source>Name</source>
         <translation>名前</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="144"/>
+        <location filename="src/launcher/meta/Index.cpp" line="144"></location>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
         <translation>%1:%2 のメタ情報を読み込みます</translation>
@@ -8540,7 +8540,7 @@ This can be updated only using a file in %1 format
 <context>
     <name>Meta::VersionList</name>
     <message>
-        <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
+        <location filename="src/launcher/meta/VersionList.cpp" line="37"></location>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
         <translation>%1 のメタ情報を読み込みます</translation>
@@ -8560,8 +8560,8 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftAccount</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="125"/>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="140"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="125"></location>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="140"></location>
         <source>Aborted</source>
         <translation>中断されました</translation>
     </message>
@@ -8569,47 +8569,47 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="303"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="303"></location>
         <source>&amp;Launch</source>
         <translation>起動(&amp;L)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="305"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="305"></location>
         <source>Launch &amp;Offline</source>
         <translation>オフラインで起動(&amp;O)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"></location>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"></location>
         <source>Launch &amp;Demo</source>
         <translation>デモ版を起動(&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"></location>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="316"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="316"></location>
         <source>Profilers</source>
         <translation>プロファイラ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="326"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="326"></location>
         <source>&amp;No Profiler</source>
         <translation>プロファイラなし(&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1019"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1019"></location>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1022"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1022"></location>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -8618,22 +8618,22 @@ This can be updated only using a file in %1 format
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1024"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1024"></location>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1038"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1038"></location>
         <source>broken</source>
         <translation>破損</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1049"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1049"></location>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1054"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1054"></location>
         <source>, last played on %1 for %2</source>
         <translation>, 前回 %1 に %2 プレイ</translation>
     </message>
@@ -8646,12 +8646,12 @@ This can be updated only using a file in %1 format
         <translation type="vanished">, 最後のプレイ時間: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1061"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1061"></location>
         <source>, total played for %1</source>
         <translation>, 総プレイ時間：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1066"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1066"></location>
         <source>, has crashed.</source>
         <translation>, クラッシュしました。</translation>
     </message>
@@ -8659,7 +8659,7 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftLoadAndCheck</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
+        <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"></location>
         <source>Aborted</source>
         <translation>中断されました</translation>
     </message>
@@ -8820,7 +8820,7 @@ This can be updated only using a file in %1 format
         <translation>ゲームウィンドウが閉じた後にランチャーを終了する(&amp;Q)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="55"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="55"></location>
         <source>Minecraft</source>
         <translation>Minecraft</translation>
     </message>
@@ -8844,28 +8844,28 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftProfileStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="14"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="14"></location>
         <source>Fetching the Minecraft profile.</source>
         <translation>Minecraftのプロファイルを取得中。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="42"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="42"></location>
         <source>Account has no Minecraft profile.</source>
         <translation>このアカウントにはMinecraftのプロファイルがありません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="56"/>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="59"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="56"></location>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="59"></location>
         <source>Minecraft Java profile acquisition failed: %1</source>
         <translation>Minecraft Javaプロファイルの取得に失敗しました：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="65"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="65"></location>
         <source>Minecraft Java profile response could not be parsed</source>
         <translation>Minecraft Javaプロファイルのレスポンスの解析に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"></location>
         <source>Minecraft Java profile acquisition succeeded.</source>
         <translation>Minecraft Javaプロファイルの取得に成功しました。</translation>
     </message>
@@ -8900,42 +8900,42 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftSettingsWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="29"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="29"></location>
         <source>Open &amp;Global Settings</source>
         <translation>グローバル設定を開く(&amp;G)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"></location>
         <source>The settings here are overrides for global settings.</source>
         <translation>ここでの設定はグローバル設定を上書きします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"></location>
         <source>General</source>
         <translation>一般</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="73"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="73"></location>
         <source>Game &amp;Window</source>
         <translation>ゲームウィンドウ(&amp;W)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"></location>
         <source>When the game window closes, quit the launcher</source>
         <translation>ゲームウィンドウが閉じたときにランチャーを終了する</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"></location>
         <source>Start Minecraft maximized</source>
         <translation>Minecraftのウィンドウを起動時に最大化</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"></location>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
         <translation>ゲームは解像度のみをサポートします。最大化の動作を再現するために、現在の実装では最大ディスプレイサイズに近づけます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"></location>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;注意&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：最大化オプションは、すべてのMinecraftのバージョンで完全にサポートされるわけではありません。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -8948,27 +8948,27 @@ This can be updated only using a file in %1 format
         <translation type="vanished">ウィンドウの幅：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"></location>
         <source>Game &amp;Time</source>
         <translation>ゲームの時間(&amp;T)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"></location>
         <source>Show time spent &amp;playing instances</source>
         <translation>起動構成のプレイ時間を表示(&amp;P)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="344"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="344"></location>
         <source>&amp;Record time spent playing instances</source>
         <translation>起動構成のプレイ時間を記録する(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"></location>
         <source>Show the &amp;total time played across instances</source>
         <translation>すべての起動構成の合計プレイ時間を表示(&amp;T)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="358"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="358"></location>
         <source>Always show durations in &amp;hours</source>
         <translation>プレイ時間を常に「何時間」で表示(&amp;H)</translation>
     </message>
@@ -9001,37 +9001,37 @@ This can be updated only using a file in %1 format
         <translation type="vanished">ゲームウィンドウが閉じた後にランチャーを終了する</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"></location>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"></location>
         <source>Tweaks</source>
         <translation>詳細</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="588"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="588"></location>
         <source>&amp;Legacy Tweaks</source>
         <translation>レガシー設定(&amp;L)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="600"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="600"></location>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;現在は運営されていない古いオンラインサービスの使用をエミュレートします。&lt;/p&gt;&lt;p&gt;現在の修正点は、スキンとオンラインモードのサポートです。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="603"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="603"></location>
         <source>Enable online fixes (experimental)</source>
         <translation>オンライン修正を有効化（実験的）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="616"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="616"></location>
         <source>&amp;Native Libraries</source>
         <translation>&amp;ネイティブライブラリ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="681"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="681"></location>
         <source>Use system installation of OpenAL</source>
         <translation>システムにインストールされたOpenALを使用する</translation>
     </message>
@@ -9040,7 +9040,7 @@ This can be updated only using a file in %1 format
         <translation type="vanished">GLFWライブラリのパス(&amp;G)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"></location>
         <source>Use system installation of GLFW</source>
         <translation>システムにインストールされたGLFWを使用する</translation>
     </message>
@@ -9049,169 +9049,169 @@ This can be updated only using a file in %1 format
         <translation type="vanished">&amp;OpenALライブラリのパス</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"></location>
         <source>When the game window opens, hide the launcher</source>
         <translation>ゲームウィンドウが開いたときに、ランチャーを非表示にする</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"></location>
         <source>&amp;Window Size:</source>
         <translation>ウィンドウサイズ(&amp;W):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="189"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="189"></location>
         <source>×</source>
         <translation>×</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="196"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="196"></location>
         <source>pixels</source>
         <translation>ピクセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="222"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="222"></location>
         <source>&amp;Console Window</source>
         <translation>コンソールウィンドウ(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="234"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="234"></location>
         <source>When the game is launched, show the console window</source>
         <translation>ゲームの起動時にコンソールウィンドウを表示する</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="241"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="241"></location>
         <source>When the game crashes, show the console window</source>
         <translation>ゲームがクラッシュしたときにコンソールウィンドウを表示する</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="248"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="248"></location>
         <source>When the game quits, hide the console window</source>
         <translation>ゲーム終了時にコンソールウィンドウを非表示にする</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="258"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="258"></location>
         <source>&amp;Global Data Packs</source>
         <translation>グローバルデータパック(&amp;G)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"></location>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
         <translation>対応するModがインストールされている場合、すべてのワールドにまたがってデータパックをインストールできます。
 パスの変更が必要になる可能性が高いです - 詳しくはModのウェブサイトを参照してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"></location>
         <source>Folder Path</source>
         <translation>フォルダパス</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"></location>
         <source>datapacks</source>
         <translation>データパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"></location>
         <source>Browse</source>
         <translation>参照</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="368"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="368"></location>
         <source>Override &amp;Default Account</source>
         <translation>デフォルトアカウントを上書き(&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="413"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="413"></location>
         <source>Enable Auto-&amp;join</source>
         <translation>自動参加を有効化(&amp;J)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="435"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="435"></location>
         <source>Singleplayer world:</source>
         <translation>シングルプレイヤーワールド:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="475"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="475"></location>
         <source>Override Mod Download &amp;Loaders</source>
         <translation>Modダウンロードローダーを上書き(&amp;L)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"></location>
         <source>NeoForge</source>
         <translation>NeoForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"></location>
         <source>Forge</source>
         <translation>Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"></location>
         <source>Fabric</source>
         <translation>Fabric</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"></location>
         <source>Quilt</source>
         <translation>Quilt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"></location>
         <source>LiteLoader</source>
         <translation>LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"></location>
         <source>&amp;GLFW library path:</source>
         <translation>GLFWライブラリパス(&amp;G):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="657"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="657"></location>
         <source>&amp;OpenAL library path:</source>
         <translation>OpenALライブラリパス(&amp;O):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="701"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="701"></location>
         <source>&amp;Performance</source>
         <translation>&amp;パフォーマンス</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"></location>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Feral InteractiveのGameModeを有効にすると、ゲームのパフォーマンスが向上する可能性があります。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"></location>
         <source>Enable Feral GameMode</source>
         <translation>Feral GameModeを有効化</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="723"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="723"></location>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;MangoHudの高度なパフォーマンスオーバーレイを有効にします。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="726"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="726"></location>
         <source>Enable MangoHud</source>
         <translation>MangoHudを有効化</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="733"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="733"></location>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;プライマリーGPUの代わりに単体GPUを使用する。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="736"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="736"></location>
         <source>Use discrete GPU</source>
         <translation>外部GPUを使用</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="743"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="743"></location>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
         <translation>Vulkan上にOpenGLを実装したMesa OpenGLドライバーであるZinkを使用します。パフォーマンスは状況によって異なる場合があります。注意：適切なVulkanドライバーが見つからない場合は、ソフトウェア レンダリングが使用されます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="746"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="746"></location>
         <source>Use Zink</source>
         <translation>Zinkを使用</translation>
     </message>
@@ -9224,7 +9224,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation type="vanished">デフォルトアカウントを上書き(&amp;A)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="380"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="380"></location>
         <source>Account:</source>
         <translation>アカウント：</translation>
     </message>
@@ -9233,7 +9233,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation type="vanished">起動時に参加する先を設定(&amp;T)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="442"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="442"></location>
         <source>Server address:</source>
         <translation>サーバーアドレス：</translation>
     </message>
@@ -9242,48 +9242,48 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation type="vanished">シングルプレイのワールド</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="774"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="774"></location>
         <source>Custom Commands</source>
         <translation>カスタムコマンド</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="784"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="784"></location>
         <source>Environment Variables</source>
         <translation>環境変数</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="67"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="67"></location>
         <source>Show time &amp;playing this instance</source>
         <translation>この起動構成のプレイ時間を表示(&amp;P)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="68"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="68"></location>
         <source>&amp;Record time playing this instance</source>
         <translation>この起動構成のプレイ時間を記録(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="73"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="73"></location>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
         <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;注意&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：最大化オプションは、このMinecraftのバージョンでは完全にはサポートされていません。&lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="135"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="135"></location>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>Feral InteractiveのGameModeがシステム上に見つかりませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="140"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="140"></location>
         <source>MangoHud could not be found on your system.</source>
         <translation>MangoHudがシステム上に見つかりませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="208"/>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="215"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="208"></location>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="215"></location>
         <source>Path to %1 library file</source>
         <translation>%1ライブラリファイルへのパス</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="547"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="547"></location>
         <source>Select Global Data Packs Folder</source>
         <translation>グローバルデータパックのフォルダを選択</translation>
     </message>
@@ -9329,137 +9329,137 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation type="vanished">どのバージョンでも</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"></location>
         <source>Form</source>
         <translation>フォーム</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"></location>
         <source>Categories</source>
         <translation>カテゴリー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"></location>
         <source>Loaders</source>
         <translation>Modローダー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"></location>
         <source>NeoForge</source>
         <translation>NeoForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"></location>
         <source>Forge</source>
         <translation>Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"></location>
         <source>Fabric</source>
         <translation>Fabric</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"></location>
         <source>Quilt</source>
         <translation>Quilt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"></location>
         <source>Show More</source>
         <translation>表示を増やす</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"></location>
         <source>LiteLoader</source>
         <translation>LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"></location>
         <source>Babric</source>
-        <translation type="unfinished"></translation>
+        <translation>Babric</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="166"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="166"></location>
         <source>BTA (Babric)</source>
-        <translation type="unfinished"></translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"></location>
         <source>Legacy Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Legacy Fabric</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"></location>
         <source>Ornithe</source>
-        <translation type="unfinished"></translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"></location>
         <source>Rift</source>
-        <translation type="unfinished"></translation>
+        <translation>Rift</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="200"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="200"></location>
         <source>Versions</source>
         <translation>バージョン</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="212"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="212"></location>
         <source>Show all versions</source>
         <translation>すべてのバージョンを表示</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"></location>
         <source>Environments</source>
         <translation>環境</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="240"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="240"></location>
         <source>Client</source>
         <translation>クライアント</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="247"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="247"></location>
         <source>Server</source>
         <translation>サーバー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="257"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="257"></location>
         <source>Hide installed items</source>
         <translation>インストール済みのものを非表示</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="264"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="264"></location>
         <source>Open source only</source>
         <translation>オープンソースのみ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="271"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="271"></location>
         <source>Release type</source>
         <translation>リリースタイプ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="277"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="277"></location>
         <source>Release</source>
         <translation>リリース (通常)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="284"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="284"></location>
         <source>Beta</source>
         <translation>ベータ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="291"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="291"></location>
         <source>Alpha</source>
         <translation>アルファ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="298"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="298"></location>
         <source>Unknown</source>
         <translation>不明</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="128"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="128"></location>
         <source>All Versions</source>
         <translation>すべてのバージョン</translation>
     </message>
@@ -9467,12 +9467,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="88"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="88"></location>
         <source>Folder</source>
         <translation>フォルダー</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="90"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="90"></location>
         <source>File</source>
         <translation>ファイル</translation>
     </message>
@@ -9482,7 +9482,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation>不明</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="123"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="123"></location>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -9491,19 +9491,19 @@ Canonical Path: %1</source>
 絶対パス：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="129"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="129"></location>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 警告：このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"></location>
         <source>Name</source>
         <translation>名前</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"></location>
         <source>Version</source>
         <translation>バージョン</translation>
     </message>
@@ -9512,72 +9512,72 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation type="vanished">最終更新</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"></location>
         <source>Provider</source>
         <translation>提供元</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"></location>
         <source>Enable</source>
         <translation>有効</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"></location>
         <source>Image</source>
         <translation>画像</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"></location>
         <source>Last Modified</source>
         <translation>更新日時</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"></location>
         <source>Size</source>
         <translation>サイズ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"></location>
         <source>Side</source>
         <translation>サイド</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"></location>
         <source>Loaders</source>
         <translation>Modローダー</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"></location>
         <source>Release Type</source>
         <translation>リリースタイプ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"></location>
         <source>Minecraft Versions</source>
         <translation>Minecraftバージョン</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="179"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="179"></location>
         <source>Is the mod enabled?</source>
         <translation>Modが有効になっているか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="181"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="181"></location>
         <source>The name of the mod.</source>
         <translation>Modの名前。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="183"></location>
         <source>The version of the mod.</source>
         <translation>Modのバージョン。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="185"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="185"></location>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>Modが最後に変更または追加された日時。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"></location>
         <source>The source provider of the mod.</source>
         <translation>Modの提供元。</translation>
     </message>
@@ -9586,27 +9586,27 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>Modのダウンロード元。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="189"></location>
         <source>On what environment the mod is running.</source>
         <translation>Modが動作する環境。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="191"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="191"></location>
         <source>The mod loader.</source>
         <translation>Modローダー。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="193"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="193"></location>
         <source>The supported minecraft versions.</source>
         <translation>対応しているMinecraftのバージョン。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="195"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="195"></location>
         <source>The release type.</source>
         <translation>リリースの種類。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="197"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="197"></location>
         <source>The size of the mod.</source>
         <translation>Modのサイズ。</translation>
     </message>
@@ -9671,7 +9671,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>Modをダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="72"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="72"></location>
         <source>Download mods from online mod platforms</source>
         <translation>オンラインのModプラットフォームからModをダウンロードします</translation>
     </message>
@@ -9693,12 +9693,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>手動でダウンロードしたModファイルを追加します</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="84"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="84"></location>
         <source>Check for Updates</source>
         <translation>更新を確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"></location>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
         <translation>選択されたModの更新を確認します（未選択の場合はすべて）</translation>
@@ -9712,7 +9712,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>選択されたModの更新と依存関係を確認します（未選択の場合はすべて）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="106"></location>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
         <translation>Modのメタデータをテキストにエクスポートします。</translation>
@@ -9754,61 +9754,61 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation type="vanished">選択したModのメタデータを削除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="162"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="202"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="206"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="251"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="306"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="310"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"></location>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="162"></location>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="202"></location>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="206"></location>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="251"></location>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="306"></location>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="310"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="202"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="306"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"></location>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="202"></location>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="306"></location>
         <source>Please install a mod loader first!</source>
         <translation>先にModローダーをインストールしてください！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="166"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="255"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="166"></location>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"></location>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="255"></location>
         <source>Aborted</source>
         <translation>中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="166"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="255"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="166"></location>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="255"></location>
         <source>Download stopped by user.</source>
         <translation>ダウンロードがユーザーにより中止されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="261"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"></location>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="261"></location>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="186"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="186"></location>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="271"></location>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="206"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="310"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="206"></location>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="310"></location>
         <source>Mod updates are unavailable when metadata is disabled!</source>
         <translation>メタデータが無効化されているため、Modのアップデートは利用できません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"></location>
         <source>Confirm Update</source>
         <translation>アップデートの確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="212"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="212"></location>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -9820,73 +9820,73 @@ Are you sure you want to do this?</oldsource>
 本当に実行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"></location>
         <source>The mod updater was aborted!</source>
         <translation>Modのアップデートが中断されました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"></location>
         <source>All selected mods are up-to-date! :)</source>
         <translation>選択されたModはすべて最新です！ :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"></location>
         <source>Update checker</source>
         <translation>アップデート確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="285"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="285"></location>
         <source>Confirm Removal</source>
         <translation>削除の確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="286"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="286"></location>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
         <translation>%1 個のModのメタデータを削除しようとしています。
 本当によろしいですか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="236"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="236"></location>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>「%1」は最新です！ :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="71"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="160"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="71"></location>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="160"></location>
         <source>Download Mods</source>
         <translation>Modをダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="100"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="100"></location>
         <source>Change a mod&apos;s version.</source>
         <translation>Modのバージョンを変更します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="104"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="104"></location>
         <source>View the homepages of all selected mods.</source>
         <translation>選択したすべてのModのホームページを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"></location>
         <source>Confirm Delete</source>
         <translation>削除の確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="128"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="128"></location>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>ゲームの実行中にModを削除すると、ゲームがクラッシュする可能性があります。
 本当に削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"></location>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
         <translation>すべてのModは最新です！ :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="54"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="54"></location>
         <source>Mods</source>
         <translation>Mod</translation>
     </message>
@@ -9894,17 +9894,17 @@ Are you sure you want to do this?</source>
 <context>
     <name>ModMinecraftJar</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="53"></location>
         <source>Couldn&apos;t create the bin folder for Minecraft.jar</source>
         <translation>minecraft.jarのbinフォルダを作成できませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="58"/>
+        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="58"></location>
         <source>Couldn&apos;t remove stale jar file: %1</source>
         <translation>jarファイルを削除できませんでした：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="71"/>
+        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="71"></location>
         <source>Failed to create the custom Minecraft jar file.</source>
         <translation>カスタム Minecraft jar ファイルの作成に失敗しました。</translation>
     </message>
@@ -10134,18 +10134,18 @@ Are you sure you want to do this?</source>
 <context>
     <name>Modrinth::ModpackListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="355"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="358"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="355"></location>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="358"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="355"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="355"></location>
         <source>A network error occurred. Could not load modpacks.</source>
         <translation>ネットワークエラーが発生しました。Modパックを読み込めません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="362"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="362"></location>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -10164,32 +10164,32 @@ Please update %1!</source>
         <translation type="vanished">modの重複問題を防ぐため、無効化されたmodはアップデートされません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="32"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="32"></location>
         <source>Preparing resources for Modrinth...</source>
         <translation>Modrinthのリソースを準備しています...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="77"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="77"></location>
         <source>Parsing the API response from Modrinth...</source>
         <translation>ModrinthからのAPIレスポンスを解析中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="143"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="143"></location>
         <source>Not installed</source>
         <translation>未インストール</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="145"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="145"></location>
         <source>Unknown</source>
         <translation>不明</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"></location>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>このリソースに有効なバージョンが見つかりませんでした。現在のゲームバージョンとModローダーでは利用できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"></location>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>このリソースに有効なバージョンが見つかりませんでした。現在のゲームバージョンでは利用できません。</translation>
     </message>
@@ -10202,7 +10202,7 @@ Please update %1!</source>
         <translation type="vanished">このmodは空のダウンロードURLを持っています</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="60"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="60"></location>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>ModrinthからのAPIレスポンスを待機中…</translation>
     </message>
@@ -10210,7 +10210,7 @@ Please update %1!</source>
 <context>
     <name>ModrinthCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="68"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="68"></location>
         <source> (version %1)</source>
         <translation> (バージョン %1)</translation>
     </message>
@@ -10219,24 +10219,24 @@ Please update %1!</source>
         <translation type="obsolete">キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="152"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="152"></location>
         <source>No index file.</source>
         <translation>インデックスファイルがありません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="153"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="153"></location>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>より古いバージョン向けの適切なインデックスファイルが見つけられませんでした。これによりいくつかのファイルが重複する可能性があります。続行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="197"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="197"></location>
         <source>Could not rename the overrides folder:
 </source>
         <translation>上書きフォルダの名前を変更できませんでした：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="210"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="210"></location>
         <source>Could not rename the client overrides folder:
 </source>
         <translation>クライアント上書きフォルダの名前を変更できませんでした：
@@ -10247,28 +10247,28 @@ Please update %1!</source>
         <translation type="vanished">modダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="247"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="247"></location>
         <source>Mod Download Modrinth</source>
         <translation>ModrithからModをダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="259"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="259"></location>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
         <translation>任意の場所に繋がるパスを持ったファイルがあります（%1）。これはセキリュティ上のリスクがあり、許可されていません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="271"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="271"></location>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
         <translation>ファイル &quot;%1&quot; にダウンロードリンクがありません。パックの形式が無効です。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="301"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="325"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="301"></location>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="325"></location>
         <source>%1 out of %2 complete</source>
         <translation>%2のうち%1完了</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="306"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="306"></location>
         <source>Downloading mods...</source>
         <translation>Modをダウンロード中…</translation>
     </message>
@@ -10281,12 +10281,12 @@ Please update %1!</source>
         <translation type="vanished">このmodパックには任意追加のmodが含まれており、これらはダウンロードされますが、デフォルトで無効化されます！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="414"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="414"></location>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>%1のダウンロードURLは適切にフォーマットされていないURLです</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="474"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="474"></location>
         <source>Could not understand pack index:
 </source>
         <translation>パックのインデックスを解釈できませんでした：
@@ -10296,22 +10296,22 @@ Please update %1!</source>
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="301"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="301"></location>
         <source>%1 (Current)</source>
         <translation>%1 (現在)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="313"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="313"></location>
         <source>Fetching changelogs...</source>
         <translation>更新履歴を取得中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="393"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="393"></location>
         <source>Choose update file</source>
         <translation>アップデート用のファイルを選択してください</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="393"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="393"></location>
         <source>Modrinth pack</source>
         <translation>ModrinthのModパック</translation>
     </message>
@@ -10330,32 +10330,32 @@ Please update %1!</source>
 <context>
     <name>ModrinthPackExportTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="58"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="58"></location>
         <source>Searching for files...</source>
         <translation>ファイルを検索中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="79"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="79"></location>
         <source>Could not search for files</source>
         <translation>ファイルが見つかりませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="95"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="95"></location>
         <source>Finding file hashes...</source>
         <translation>ファイルハッシュを検索中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="156"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="156"></location>
         <source>Finding versions for hashes...</source>
         <translation>ハッシュのバージョンを検索中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="192"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="192"></location>
         <source>Failed to parse versions response: %1</source>
         <translation>バージョンのレスポンスの解析に失敗しました：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"></location>
         <source>Adding files...</source>
         <translation>ファイルを追加中...</translation>
     </message>
@@ -10379,12 +10379,12 @@ Please update %1!</source>
         <translation type="vanished">検索</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"></location>
         <source>Filter options</source>
         <translation>フィルター設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"></location>
         <source>Search and filter...</source>
         <translation>検索とフィルター…</translation>
     </message>
@@ -10393,86 +10393,86 @@ Please update %1!</source>
         <translation type="vanished">フィルター</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"></location>
         <source>Version selected:</source>
         <translation>バージョンの選択：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="83"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="83"></location>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
         <translation>関連性順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="85"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="85"></location>
         <source>Sort by Follows</source>
         <translation>フォロー数順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="87"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="87"></location>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation>更新日順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="203"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="263"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="203"></location>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="263"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="292"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="292"></location>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation>&lt;b&gt;このプロジェクトはアーカイブ状態です。作者がアーカイブを解除しない限り、アップデートを受け取ることはありません。&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="297"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="297"></location>
         <source>Donate information: </source>
         <translation>寄付情報： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="310"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="310"></location>
         <source>External links:</source>
         <translation>外部リンク：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="314"></location>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>issues：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="316"></location>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="318"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="318"></location>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>ソースコード：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="320"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="320"></location>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="86"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="86"></location>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
         <translation>最新順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"></location>
         <source>Sort by Total Downloads</source>
         <translation>総ダウンロード数順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="288"></location>
         <source> by </source>
         <translation> 作者： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="65"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="65"></location>
         <source>Modrinth</source>
         <translation>Modrinth</translation>
     </message>
@@ -10480,12 +10480,12 @@ Please update %1!</source>
 <context>
     <name>MultipleOptionsTask</name>
     <message>
-        <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="49"/>
+        <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="49"></location>
         <source>All attempts have failed!</source>
         <translation>すべての試みが失敗しました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="60"/>
+        <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="60"></location>
         <source>Attempting task %1 out of %2</source>
         <translation>%2 のうち %1 のタスクを試行中</translation>
     </message>
@@ -10514,29 +10514,29 @@ Please update %1!</source>
 <context>
     <name>Net::NetRequest</name>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="65"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="65"></location>
         <source>Requesting %1</source>
         <translation>%1 を取得中</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="142"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="142"></location>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="146"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="146"></location>
         <source>unknown</source>
         <translation>不明</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="148"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="148"></location>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1 /s (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="151"></location>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 B/秒</translation>
@@ -10558,12 +10558,12 @@ Please update %1!</source>
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="119"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="119"></location>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>NetJobのすべてのタスクの中断に失敗しました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="145"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="145"></location>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>%1 のタスクを実行中 (%3 の内 %2 が完了)</translation>
     </message>
@@ -10571,27 +10571,27 @@ Please update %1!</source>
 <context>
     <name>NewComponentDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="17"/>
+        <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="17"></location>
         <source>Add Empty Component</source>
         <translation>空のコンポーネントを追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
+        <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"></location>
         <source>Name</source>
         <translation>名前</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
+        <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"></location>
         <source>uid</source>
         <translation>UID</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="71"/>
+        <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="71"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="72"/>
+        <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="72"></location>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -10599,38 +10599,38 @@ Please update %1!</source>
 <context>
     <name>NewInstanceDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="189"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"></location>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="189"></location>
         <source>New Instance</source>
         <translation>新しい起動構成</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"></location>
         <source>&amp;Group:</source>
         <translation>グループ(&amp;G)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="56"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="56"></location>
         <source>&amp;Name:</source>
         <translation>名前(&amp;N)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="91"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="91"></location>
         <source>No group</source>
         <translation>グループなし</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="112"></location>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="118"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="118"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="124"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="124"></location>
         <source>Help</source>
         <translation>ヘルプ</translation>
     </message>
@@ -10638,7 +10638,7 @@ Please update %1!</source>
 <context>
     <name>NewsChecker</name>
     <message>
-        <location filename="src/launcher/news/NewsChecker.cpp" line="113"/>
+        <location filename="src/launcher/news/NewsChecker.cpp" line="113"></location>
         <source>Failed to load news RSS feed:
 %1</source>
         <translation>お知らせのRSSフィードの読み込みに失敗しました：
@@ -10648,23 +10648,23 @@ Please update %1!</source>
 <context>
     <name>NewsDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="14"/>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="14"></location>
         <source>News</source>
         <translation>お知らせ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"></location>
         <source>Close</source>
         <translation>閉じる</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="52"/>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"></location>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="52"></location>
         <source>Hide article list</source>
         <translation>記事一覧を非表示</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="50"/>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="50"></location>
         <source>Show article list</source>
         <translation>記事一覧を表示</translation>
     </message>
@@ -10672,14 +10672,14 @@ Please update %1!</source>
 <context>
     <name>NewsEntry</name>
     <message>
-        <location filename="src/launcher/news/NewsEntry.cpp" line="23"/>
-        <location filename="src/launcher/news/NewsEntry.cpp" line="51"/>
+        <location filename="src/launcher/news/NewsEntry.cpp" line="23"></location>
+        <location filename="src/launcher/news/NewsEntry.cpp" line="51"></location>
         <source>Untitled</source>
         <translation>無題</translation>
     </message>
     <message>
-        <location filename="src/launcher/news/NewsEntry.cpp" line="24"/>
-        <location filename="src/launcher/news/NewsEntry.cpp" line="52"/>
+        <location filename="src/launcher/news/NewsEntry.cpp" line="24"></location>
+        <location filename="src/launcher/news/NewsEntry.cpp" line="52"></location>
         <source>No content.</source>
         <translation>内容がありません。</translation>
     </message>
@@ -10687,7 +10687,7 @@ Please update %1!</source>
 <context>
     <name>NilModFolderPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="99"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="99"></location>
         <source>Nilmods</source>
         <translation>Nilmods</translation>
     </message>
@@ -10695,7 +10695,7 @@ Please update %1!</source>
 <context>
     <name>NotesPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="54"/>
+        <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="54"></location>
         <source>Notes</source>
         <translation>メモ</translation>
     </message>
@@ -10718,7 +10718,7 @@ Please update %1!</source>
 <context>
     <name>NullInstance</name>
     <message>
-        <location filename="src/launcher/NullInstance.h" line="52"/>
+        <location filename="src/launcher/NullInstance.h" line="52"></location>
         <source>Unknown instance type</source>
         <translation>不明な起動構成のタイプ</translation>
     </message>
@@ -10726,32 +10726,32 @@ Please update %1!</source>
 <context>
     <name>OfflineLoginDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="20"/>
+        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="20"></location>
         <source>Add Account</source>
         <translation>アカウントを追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
+        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"></location>
         <source>Username</source>
         <translation>ユーザー名</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
+        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"></location>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
         <translation>16 文字を超えるユーザー名は、LAN ゲームやオフラインモードのサーバーでは使用できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
+        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"></location>
         <source>Allow long usernames</source>
         <translation>長いユーザー名を許可する</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="12"/>
+        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="12"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="13"/>
+        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="13"></location>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -10770,32 +10770,32 @@ Please update %1!</source>
 <context>
     <name>OptionalModDialog</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="14"/>
+        <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="14"></location>
         <source>Select Optional Mods</source>
         <translation>オプションのModを選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="34"/>
+        <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="34"></location>
         <source>Select All</source>
         <translation>すべて選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="41"/>
+        <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="41"></location>
         <source>Deselect All</source>
         <translation>すべて選択解除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="61"/>
+        <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="61"></location>
         <source>Unchecked mods will be disabled.</source>
         <translation>チェックが入っていないModは無効になります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="47"/>
+        <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="47"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="48"/>
+        <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="48"></location>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -10807,82 +10807,82 @@ Please update %1!</source>
         <translation>次を検索</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="49"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="49"></location>
         <source>&amp;Find</source>
         <translation>検索(&amp;F)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="63"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="63"></location>
         <source>Scroll all the way to bottom</source>
         <translation>一番下までスクロール</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="66"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="66"></location>
         <source>&amp;Bottom</source>
         <translation>一番下(&amp;B)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="109"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="109"></location>
         <source>Delete the selected log</source>
         <translation>選択したログを削除します</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="112"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="112"></location>
         <source>&amp;Delete Selected</source>
         <translation>選択項目を削除(&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="119"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="119"></location>
         <source>Delete all the logs</source>
         <translation>すべてのログを削除します</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="122"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="122"></location>
         <source>Delete &amp;All</source>
         <translation>すべて削除(&amp;A)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="133"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="133"></location>
         <source>Keep updating</source>
         <translation>自動更新</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="143"></location>
         <source>Wrap lines</source>
         <translation>行を折り返し</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="153"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="153"></location>
         <source>Color lines</source>
         <translation>行に色を付ける</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="176"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="176"></location>
         <source>Copy the whole log into the clipboard</source>
         <translation>クリップボードにログ全体をコピーします</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="179"></location>
         <source>&amp;Copy</source>
         <translation>コピー(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="186"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="186"></location>
         <source>Upload the log to the paste service configured in preferences</source>
         <translation>設定された貼り付けサービスにログをアップロードします</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="189"></location>
         <source>&amp;Upload</source>
         <translation>アップロード(&amp;U)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="196"></location>
         <source>Reload the contents of the log from the disk</source>
         <translation>ディスクからログの内容を再読み込みします</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="199"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="199"></location>
         <source>&amp;Reload</source>
         <translation>再読み込み(&amp;R)</translation>
     </message>
@@ -10912,30 +10912,30 @@ Please update %1!</source>
         <translation>再読み込み</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="39"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="39"></location>
         <source>Search:</source>
         <translation>検索：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="90"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="315"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="90"></location>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="315"></location>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>ログの長さが %1 行を超えたため、このログを表示できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="404"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="445"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"></location>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="404"></location>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="445"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"></location>
         <source>Unable to open %1 for reading: %2</source>
         <translation>読み取りのために %1を開くことができません：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="270"></location>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
         <translation>ファイル %1 は大きすぎて開けません。巨大なファイルに対応したビューアで開いてください。</translation>
     </message>
@@ -10944,17 +10944,17 @@ Please update %1!</source>
         <translation>ファイル %1 は読み取れません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="337"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="337"></location>
         <source>The file (%1) encountered an error when reading: %2.</source>
         <translation>ファイル (%1) の読み取り中にエラーが発生しました: %2。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="389"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="389"></location>
         <source>Confirm Deletion</source>
         <translation>削除の確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="390"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="390"></location>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -10965,17 +10965,17 @@ Are you sure?</source>
 本当に削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="415"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="415"></location>
         <source>Confirm Cleanup</source>
         <translation>クリーンアップの確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="417"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="417"></location>
         <source>Are you sure you want to delete all log files?</source>
         <translation>本当にすべてのログファイルを削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="420"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="420"></location>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>本当に以下のファイルをすべて削除しますか？
@@ -10986,7 +10986,7 @@ Are you sure?</source>
         <translation type="vanished">本当に %1を削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="404"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="404"></location>
         <source>Unable to delete %1: %2</source>
         <translation>%1 を削除できません：%2</translation>
     </message>
@@ -11005,12 +11005,12 @@ Are you sure?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="447"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="447"></location>
         <source>Couldn&apos;t delete some files!</source>
         <translation>一部のファイルが削除できませんでした！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="450"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="450"></location>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>ファイルを削除できませんでした：
@@ -11024,17 +11024,17 @@ Are you sure?</source>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="354"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="354"></location>
         <source>Aborted</source>
         <translation>中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="578"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="578"></location>
         <source>Name</source>
         <translation>名前</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="580"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="580"></location>
         <source>Version</source>
         <translation>バージョン</translation>
     </message>
@@ -11046,17 +11046,17 @@ Are you sure?</source>
         <translation>閉じる</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
+        <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"></location>
         <source>&amp;OK</source>
         <translation>OK(&amp;O)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="47"/>
+        <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="47"></location>
         <source>&amp;Cancel</source>
         <translation>キャンセル(&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="48"/>
+        <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="48"></location>
         <source>Help</source>
         <translation>ヘルプ</translation>
     </message>
@@ -11100,22 +11100,22 @@ Error message: %3</source>
 <context>
     <name>PasteWizardPage</name>
     <message>
-        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
+        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"></location>
         <source>Form</source>
         <translation>フォーム</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
+        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"></location>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
         <translation>デフォルトのpasteサービスはmclo.gsに変更されました。設定をどうするか選択してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
+        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"></location>
         <source>Use new default service</source>
         <translation>新しいデフォルトのサービスを使用する</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
+        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"></location>
         <source>Keep previous settings</source>
         <translation>既存の設定を使い続ける</translation>
     </message>
@@ -11123,12 +11123,12 @@ Error message: %3</source>
 <context>
     <name>PixmapCache</name>
     <message>
-        <location filename="src/launcher/MTPixmapCache.h" line="124"/>
+        <location filename="src/launcher/MTPixmapCache.h" line="124"></location>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
         <translation>メモリ開放によるピクセルマップキャッシュミスの発生が速すぎてキャッシュサイズの制限に達したため、何も行われませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/MTPixmapCache.h" line="127"/>
+        <location filename="src/launcher/MTPixmapCache.h" line="127"></location>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
         <translation>メモリ開放によるピクセルマップキャッシュミスの発生が速すぎたため、次の大きさまでキャッシュサイズが増加しました</translation>
     </message>
@@ -11136,12 +11136,12 @@ Error message: %3</source>
 <context>
     <name>PostLaunchCommand</name>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="51"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="51"></location>
         <source>Running Post-Launch command: %1</source>
         <translation>Post-Launch コマンド：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="60"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="60"></location>
         <source>Post-Launch command failed with code %1.
 
 </source>
@@ -11150,7 +11150,7 @@ Error message: %3</source>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="76"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="76"></location>
         <source>Post-Launch command ran successfully.
 
 </source>
@@ -11162,12 +11162,12 @@ Error message: %3</source>
 <context>
     <name>PreLaunchCommand</name>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="51"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="51"></location>
         <source>Running Pre-Launch command: %1</source>
         <translation>起動前コマンドを実行中：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="59"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="59"></location>
         <source>Pre-Launch command failed with code %1.
 
 </source>
@@ -11176,7 +11176,7 @@ Error message: %3</source>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="75"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="75"></location>
         <source>Pre-Launch command ran successfully.
 
 </source>
@@ -11188,72 +11188,72 @@ Error message: %3</source>
 <context>
     <name>PrismExternalUpdater</name>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="94"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="94"></location>
         <source>Checking for updates...</source>
         <translation>アップデートを確認中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="144"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"></location>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="144"></location>
         <source>Update Check Failed</source>
         <translation>アップデートの確認に失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="124"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="124"></location>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
         <translation>5秒経過しても開始できませんでした。
 理由：%1。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"></location>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
         <translation>アップデーターが60秒間終了しませんでした。
 理由：%1。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"></location>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"></location>
         <source>No Update Available</source>
         <translation>利用可能なアップデートなし</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"></location>
         <source>You are running the latest version.</source>
         <translation>最新バージョンを使用中です。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"></location>
         <source>Update Check Error</source>
         <translation>アップデート確認のエラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="182"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="182"></location>
         <source>There was an error running the update check.</source>
         <translation>アップデートの確認中にエラーが発生しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="209"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="209"></location>
         <source>Unknown Update Error</source>
         <translation>アップデートの不明なエラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="210"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="210"></location>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
         <translation>アップデーターは不明な状態で終了しました。
 終了コード: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"></location>
         <source>StdOut: %1
 StdErr: %2</source>
         <translation>標準出力 (StdOut): %1
 標準エラー出力 (StdErr): %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"></location>
         <source>There are no new updates available.</source>
         <translation>新しいアップデートはありません。</translation>
     </message>
@@ -11261,108 +11261,108 @@ StdErr: %2</source>
 <context>
     <name>PrismUpdaterApp</name>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"></location>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
         <translation>アプリケーションのルートパスを自分で設定する（現在のディレクトリを指定するには「.」を使用）。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"></location>
         <source>directory</source>
         <translation>ディレクトリ</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="107"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="107"></location>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
         <translation>このバージョンを、インストールされているランチャーのバージョンとして使用します。（Windowsで標準出力を確実にキャプチャできないために提供されています）</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="108"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="108"></location>
         <source>installed launcher version</source>
         <translation>インストール済みのランチャーのバージョン</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="109"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="109"></location>
         <source>version name</source>
         <translation>バージョン名</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="110"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="110"></location>
         <source>Update from the specified repo.</source>
         <translation>指定したリポジトリからアップデートします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="110"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="110"></location>
         <source>github repo url</source>
         <translation>GitHubリポジトリのURL</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="112"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="112"></location>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
         <translation>アップデートが利用可能かのチェックだけをします。終了ステータスはtrueなら100、falseなら0です（エラーがあった場合は0以外）。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="113"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="113"></location>
         <source>Allow updating to pre-release releases</source>
         <translation>先行リリース版へのアップデートを許可する</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="114"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="114"></location>
         <source>Force an update, even if one is not needed.</source>
         <translation>必要がない場合でも強制的にアップデートします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="115"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="115"></location>
         <source>List available releases.</source>
         <translation>利用可能なリリースの一覧を表示します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="116"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="116"></location>
         <source>Log debug to console.</source>
         <translation>コンソールにデバッグログを表示する。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="117"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="117"></location>
         <source>Select the version to install with a GUI.</source>
         <translation>GUIでインストールするバージョンを指定します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="118"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="118"></location>
         <source>Allow the updater to downgrade to previous versions.</source>
         <translation>アップデーターが以前のバージョンにダウングレードできるようにする。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="129"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="129"></location>
         <source>MacOS Not Supported</source>
         <translation>macOSは非対応</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="129"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="129"></location>
         <source>The updater does not support installations on MacOS</source>
         <translation>アップデーターはmacOSでのインストールに対応していません</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="136"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="149"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="136"></location>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="149"></location>
         <source>Unsupported Installation</source>
         <translation>非対応のインストール</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="137"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="137"></location>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>アップデーターが間違った設定のAppImageとして実行されていませんか？（$APPIMAGE環境変数が見つかりません）</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="149"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="149"></location>
         <source>The updater can not find the main executable.</source>
         <translation>アップデーターがメインの実行ファイルを見つけられません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="266"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="266"></location>
         <source>The launcher data folder is not writable!</source>
         <translation>ランチャーデータのフォルダーに書き込むことはできません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="267"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="267"></location>
         <source>The updater couldn&apos;t create a log file - the data folder is not writable.
 
 Make sure you have write permissions to the data folder.
@@ -11377,12 +11377,12 @@ The updater cannot continue until you fix this problem.</source>
 この問題が解決するまで、アップデートを続行することはできません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="477"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="477"></location>
         <source>Updating flatpack not supported</source>
         <translation>Flatpackでのアップデートは非対応</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="477"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="477"></location>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
         <translation>Flatpak版のPrism Launcherを実行している場合、アップデートが利用可能かどうかを確認する以外の機能は利用できません。</translation>
     </message>
@@ -11395,111 +11395,111 @@ The updater cannot continue until you fix this problem.</source>
         <translation type="vanished">ポータブルではないLinuxのインストールは非対応です。システムパッケージマネージャーを使用してください</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="534"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="987"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="534"></location>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="987"></location>
         <source>Reading manifest from %1</source>
         <translation>%1からマニフェストを読込中</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="546"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="546"></location>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
         <translation>マニフェストが空です。%1の内容を元に最適な内容を生成しています</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="552"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="552"></location>
         <source>Installing the following to %1 :
  %2</source>
         <translation>%1 に以下をインストールしています:
  %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="556"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="563"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="556"></location>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="563"></location>
         <source>Installing from %1</source>
         <translation>%1からインストールしています</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="568"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="568"></location>
         <source>Installing %1 from %2</source>
         <translation>%2から%1をインストールしています</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="572"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="572"></location>
         <source>Failed copy %1 to %2</source>
         <translation>%1 から %2 へのコピーに失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="587"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1062"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="587"></location>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1062"></location>
         <source>File doesn&apos;t exist, ignoring: %1</source>
         <translation>ファイルが存在しないため無視します: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="600"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="600"></location>
         <source>There were errors installing the update.</source>
         <translation>アップデートのインストール中にエラーが発生しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="604"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="604"></location>
         <source>Update succeed.</source>
         <translation>アップデート成功。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="765"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="765"></location>
         <source>No Valid Release Assets</source>
         <translation>リリースのAssetsに有効なファイルがありません</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"></location>
         <source>Github release %1 has no valid assets for this platform: %2</source>
         <translation>GitHubリリース %1 のAssetsには、このプラットフォームで有効なファイルがありません：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"></location>
         <source>%1 portable: %2</source>
         <translation>%1 ポータブルか：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"></location>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"></location>
         <source>yes</source>
         <translation>はい</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"></location>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"></location>
         <source>no</source>
         <translation>いいえ</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="776"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="776"></location>
         <source>No version selected.</source>
         <translation>バージョンが選択されていません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="776"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="776"></location>
         <source>No version was selected.</source>
         <translation>バージョンが選択されていません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="783"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="783"></location>
         <source>Failed to Download</source>
         <translation>ダウンロードに失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="783"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="783"></location>
         <source>Failed to download the selected asset.</source>
         <translation>選択したAssetファイルのダウンロードに失敗しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="885"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="885"></location>
         <source>Update already in progress
 </source>
         <translation>アップデートはすでに進行中です
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="887"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="887"></location>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -11526,130 +11526,130 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
 このロックファイルを上書きしてアップデートを続行する場合は、以下の「無視」を選択してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="917"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="917"></location>
         <source>Update Aborted</source>
         <translation>アップデートは中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="917"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="917"></location>
         <source>The update attempt was aborted</source>
         <translation>アップデートの試行は中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="925"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="925"></location>
         <source>Updating from %1 to %2</source>
         <translation>%1から%2にアップデートしています</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="928"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="928"></location>
         <source>Updating portable install at %1</source>
         <translation>%1のポータブルインストールをアップデートしています</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="931"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="931"></location>
         <source>Running installer file at %1</source>
         <translation>%1にあるインストーラーファイルを実行しています</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"></location>
         <source>Process start result: %1</source>
         <translation>プロセスの開始結果：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="947"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="947"></location>
         <source>Backing up install</source>
         <translation>インストールをバックアップしています</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="968"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="968"></location>
         <source>Starting new updater at &apos;%1&apos;</source>
         <translation>&apos;%1&apos;で新規アップデートを開始しています</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="970"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="970"></location>
         <source>Failed to launch &apos;%1&apos; %2</source>
         <translation>起動に失敗 &apos;%1&apos; %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"></location>
         <source>Backing up:
   %1</source>
         <translation>バックアップ中：
   %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1030"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1037"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1030"></location>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1037"></location>
         <source>Backing up install at %1</source>
         <translation>%1のインストールをバックアップ中</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1042"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1042"></location>
         <source>Backing up and then removing %1</source>
         <translation>%1をバックアップして削除しています</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1046"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1046"></location>
         <source>Failed to backup %1 to %2</source>
         <translation>%1 から %2 へのバックアップに失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1049"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1049"></location>
         <source>Failed to remove %1</source>
         <translation>%1 を削除するのに失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1084"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1084"></location>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
         <translation>以下のファイルを &quot;%1&quot; に展開しました：
   %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1086"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1088"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1086"></location>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1088"></location>
         <source>Failed to extract %1 to %2</source>
         <translation>%1 を %2に展開できませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1095"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1095"></location>
         <source>Running: `%1 %2`</source>
         <translation>実行中：`%1 %2`</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"></location>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
         <translation>子プロセス &quot;%1 %2&quot; の起動に失敗しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1101"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1101"></location>
         <source>Failed extract archive</source>
         <translation>アーカイブの展開に失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1108"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1108"></location>
         <source>Child process &quot;%1 %2&quot; failed.</source>
         <translation>子プロセス &quot;%1 %2&quot; が失敗しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1110"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1110"></location>
         <source>Failed to extract archive</source>
         <translation>アーカイブの展開に失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1115"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1115"></location>
         <source>Unknown archive format for %1</source>
         <translation>%1 は不明なアーカイブ形式です</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1130"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1134"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1130"></location>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1134"></location>
         <source>Failed to Check Version</source>
         <translation>バージョンのチェックに失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1130"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1130"></location>
         <source>Failed to launch child process to read version.</source>
         <translation>バージョンを読み取るときの子プロセスの起動に失敗しました。</translation>
     </message>
@@ -11658,7 +11658,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <translation type="obsolete">バージョンを読み込むための子ランチャープロセスの起動に失敗しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1134"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1134"></location>
         <source>Child launcher process failed.</source>
         <translation>子プロセスのランチャーが失敗しました。</translation>
     </message>
@@ -11666,43 +11666,43 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
 <context>
     <name>ProfileSelectDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="14"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="14"></location>
         <source>Select an Account</source>
         <translation>アカウントを選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"></location>
         <source>Select a profile.</source>
         <translation>プロファイルを選択。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"></location>
         <source>Use as default?</source>
         <translation>デフォルトとして使用しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"></location>
         <source>Use as default for this instance only?</source>
         <translation>この起動構成でのみデフォルトとして使用しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="40"/>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="42"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="40"></location>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="42"></location>
         <source>Name</source>
         <translation>名前</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="49"></location>
         <source>%1 (in use)</source>
         <translation>%1 (使用中)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="75"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="76"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="76"></location>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -11710,12 +11710,12 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
 <context>
     <name>ProfileSetupDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="14"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="14"></location>
         <source>Choose Minecraft name</source>
         <translation>Minecraftの名前を選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="26"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="26"></location>
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
@@ -11724,49 +11724,49 @@ Choose your name carefully:</source>
 名前を慎重に決めてください：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="74"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="74"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="75"></location>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"></location>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
         <translation>名前が短すぎます。3文字以上、16文字以下である必要があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="183"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="183"></location>
         <source>Minecraft profile with name %1 already exists.</source>
         <translation>%1 の名前は既に使用されています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="185"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="185"></location>
         <source>The name %1 is not allowed.</source>
         <translation>%1 は許可されていない名前です。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="187"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="187"></location>
         <source>Unhandled profile name status: %1</source>
         <translation>未処理のプロフィール名の状態：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"></location>
         <source>Failed to check name availability.</source>
         <translation>名前の有効性の確認に失敗しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="269"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="269"></location>
         <source>Network Error: %1
 HTTP Status: %2</source>
         <translation>ネットワークエラー: %1
 HTTPステータス: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="280"/>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="280"></location>
         <source>The server responded with the following error:</source>
         <translation>サーバーは次のエラーを返しました：</translation>
     </message>
@@ -11778,17 +11778,17 @@ HTTPステータス: %2</translation>
 <context>
     <name>ProgressDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"></location>
         <source>Please wait...</source>
         <translation>お待ちください...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"></location>
         <source>Global Task Status...</source>
         <translation>グローバルタスクのステータス...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="59"/>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="59"></location>
         <source>Global Status Details...</source>
         <translation>グローバルステータスの詳細...</translation>
     </message>
@@ -11797,7 +11797,7 @@ HTTPステータス: %2</translation>
         <translation type="vanished">タスクステータス...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="136"/>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="136"></location>
         <source>Skip</source>
         <translation>スキップ</translation>
     </message>
@@ -11805,7 +11805,7 @@ HTTPステータス: %2</translation>
 <context>
     <name>ProjectItemDelegate</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="85"/>
+        <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="85"></location>
         <source>%1 [installed]</source>
         <translation>%1 [インストール済み]</translation>
     </message>
@@ -11813,17 +11813,17 @@ HTTPステータス: %2</translation>
 <context>
     <name>ProxyPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="32"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="32"></location>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
         <translation>これはランチャーにのみ適用されます。Minecraftはプロキシ設定を受け付けません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"></location>
         <source>Type</source>
         <translation>タイプ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="51"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="51"></location>
         <source>Uses your system&apos;s default proxy settings.</source>
         <translation>お使いのシステムのデフォルトのプロキシ設定を使用します。</translation>
     </message>
@@ -11832,57 +11832,57 @@ HTTPステータス: %2</translation>
         <translation>デフォルト(&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"></location>
         <source>Use S&amp;ystem Settings</source>
         <translation>システム設定を使用(&amp;Y)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"></location>
         <source>&amp;None</source>
         <translation>なし(&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"></location>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
         <translation>SOCKS5(&amp;S)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"></location>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
         <translation>HTTP(&amp;H)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="97"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="97"></location>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
         <translation>アドレスとポート(&amp;A)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="154"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="154"></location>
         <source>Authentication</source>
         <translation>認証</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="160"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="160"></location>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
         <translation>ユーザー名(&amp;U)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="173"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="173"></location>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
         <translation>パスワード(&amp;P)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="190"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="190"></location>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
         <translation>注意：プロキシのユーザー名とパスワードは、ランチャーの構成ファイル内にプレーン テキストで保存されます！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="57"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="57"></location>
         <source>Proxy</source>
         <translation>プロキシ</translation>
     </message>
@@ -11890,57 +11890,57 @@ HTTPステータス: %2</translation>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="47"/>
+        <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="47"></location>
         <source>Dark</source>
         <translation>ダーク</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="81"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="81"></location>
         <source>Windows Vista</source>
         <translation>Windows Vista</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="83"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="83"></location>
         <source>Windows 9x</source>
         <translation>Windows 9x系</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"></location>
         <source>Windows 11</source>
         <translation>Windows 11</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"></location>
         <source>System</source>
         <translation>システム</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="96"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="96"></location>
         <source>Widget style trying to look like your win32 theme</source>
         <translation>Win32テーマに似せたウィジェットスタイル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="98"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="98"></location>
         <source>Windows 9x inspired widget style</source>
         <translation>Windows 9x系にインスパイアされたウィジェットスタイル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="100"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="100"></location>
         <source>WinUI 3 inspired Qt widget style</source>
         <translation>WinUI 3にインスパイアされたQtウィジェットスタイル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="102"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="102"></location>
         <source>The default Qt widget style</source>
         <translation>デフォルトのQtウィジェットスタイル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="104"/>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="104"></location>
         <source>Your current system theme</source>
         <translation>現在のシステムテーマ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
+        <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"></location>
         <source>Bright</source>
         <translation>ライト</translation>
     </message>
@@ -11961,36 +11961,36 @@ HTTPステータス: %2</translation>
         <translation type="vanished">&lt;p&gt;&lt;a href=&quot;%1&quot;&gt;GitHubで変更点を見る&lt;/a&gt;ことができます。&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"></location>
         <source>Website</source>
         <translation>Webサイト</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="75"/>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="94"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="75"></location>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="94"></location>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
         <translation>%1 の開発者</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="102"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="102"></location>
         <source>With thanks to</source>
         <comment>About Credits</comment>
         <translation>謝辞</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="140"></location>
         <source>%1 (in use)</source>
         <translation>%1 (使用中)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="98"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="98"></location>
         <source>Confirm Upload</source>
         <translation>アップロードの確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="99"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="99"></location>
         <source>You are about to upload &quot;%1&quot; to %2.
 You should double-check for personal information.
 
@@ -12001,12 +12001,12 @@ Are you sure?</source>
 本当によろしいですか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="111"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="111"></location>
         <source>Confirm Truncation</source>
         <translation>切り捨てをする</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="112"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="112"></location>
         <source>The log has %1 lines, exceeding mclo.gs&apos; limit of %2.
 The launcher can keep the first %3 and last %4 lines, trimming the middle.
 
@@ -12021,18 +12021,18 @@ Proceed with truncation?</source>
 切り捨てを実行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="141"></location>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="151"></location>
         <source>Failed to upload logs!</source>
         <translation>ログのアップロードに失敗しました!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="144"></location>
         <source>Logs upload aborted</source>
         <translation>ログのアップロードが中止されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="145"></location>
         <source>The task has been aborted by the user.</source>
         <translation>タスクはユーザーによって中止されました。</translation>
     </message>
@@ -12051,58 +12051,58 @@ Error message: %1</source>
         <translation>アップロード失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="158"></location>
         <source>Upload finished</source>
         <translation>アップロード完了</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="159"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="159"></location>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;アップロードされたログへのリンク&lt;/a&gt; がクリップボードに保存されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="377"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="377"></location>
         <source>The specified file either doesn&apos;t exist or is not a proper executable.</source>
         <translation>指定されたファイルは存在しないか、適切な実行可能ファイルではありません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="381"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="381"></location>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
         <translation>指定されたJavaバイナリが正しく起動しませんでした。&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="391"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="391"></location>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
         <translation>指定されたJavaバイナリが予期しない結果を返しました：&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"></location>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
         <translation>Javaのテストに成功しました！&lt;br /&gt;プラットフォーム：%1&lt;br /&gt;Javaバージョン：%2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="81"/>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="81"></location>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"></location>
         <source>Java test success</source>
         <translation>Javaのテストに成功しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="91"/>
-        <location filename="src/launcher/JavaCommon.cpp" line="100"/>
-        <location filename="src/launcher/JavaCommon.cpp" line="107"/>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="91"></location>
+        <location filename="src/launcher/JavaCommon.cpp" line="100"></location>
+        <location filename="src/launcher/JavaCommon.cpp" line="107"></location>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"></location>
         <source>Java test failure</source>
         <translation>Javaのテストに失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="64"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="64"></location>
         <source>Minecraft Server</source>
         <translation>Minecraft サーバー</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="278"></location>
         <source>Patch is not loaded yet.</source>
         <translation>パッチはまだ読み込まれていません。</translation>
     </message>
@@ -12111,97 +12111,97 @@ Error message: %1</source>
         <translation type="vanished">processArguments が不明な値 &apos;%1&apos; にセットされています</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"></location>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation>このバージョン（%1）の &apos;minimumLauncherVersion&apos; 値は、%3（%2）でサポートされているよりも高いです。正しく動作しない可能性があります！</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="299"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="299"></location>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>ライブラリ %1 の名前が壊れているため処理できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"></location>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
         <translation>コンポーネントファイル %1 が存在しません。これは発生してはいけません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"></location>
         <source>Couldn&apos;t open %1 for reading: %2</source>
         <translation>%1 を読み取る際にファイルが開けませんでした：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"></location>
         <source>Couldn&apos;t parse %1 as json: %2</source>
         <translation>%1 をjsonとして解析できませんでした：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"></location>
         <source>Invalid component file version, expected %1</source>
         <translation>無効なコンポーネントファイルのバージョンです。バージョン%1が必要です</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"></location>
         <source>Couldn&apos;t parse %1 : bad file format</source>
         <translation>%1 を解析できませんでした：ファイル形式が不正です</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"></location>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
         <translation>コンポーネントの&apos;uid&apos;に不正な文字が含まれています！ これによりセキュリティ上の問題が発生する可能性があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="191"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="191"></location>
         <source>Version file has both &apos;+libraries&apos; and &apos;libraries&apos;. This is no longer supported.</source>
         <translation>バージョンファイルには &quot;+libraries&quot; と &quot;libraries&quot; の両方が含まれています。これはもうサポートされていません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="236"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="236"></location>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
         <translation>メインの jar ファイルに対するURLが特定できませんでした - Mojang がフォールバックとして使用していたサーバーを削除しました.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="269"></location>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
         <translation>バージョンファイルにサポートされていない要素 &quot;tweakers&quot; があります</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="272"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="272"></location>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
         <translation>バージョンファイルにサポートされていない要素 &quot;-libraries&quot; があります</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="275"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="275"></location>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
         <translation>バージョンファイルにサポートされていない要素 &quot;-tweakers&quot; があります</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="278"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="278"></location>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
         <translation>バージョンファイルにサポートされていない要素 &quot;-minecraftArguments&quot; があります</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="281"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="281"></location>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
         <translation>バージョンファイルにサポートされていない要素 &quot;+minecraftArguments&quot; があります</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="312"/>
+        <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="312"></location>
         <source>Assets for %1</source>
         <translation>%1 のassets</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="78"/>
+        <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="78"></location>
         <source>Invalid order file version, expected %1</source>
         <translation>無効なオーダーファイルのバージョンです。%1が必要です</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="115"/>
+        <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="115"></location>
         <source>Unable to open the version file %1: %2.</source>
         <translation>バージョンファイル %1 を開けません：%2。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="133"/>
+        <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="133"></location>
         <source>Unable to process the version file %1: %2 at line %3 column %4.</source>
         <translation>バージョンファイル %1 を処理できません：%2 %3行目 %4列目。</translation>
     </message>
@@ -12210,12 +12210,12 @@ Error message: %1</source>
         <translation type="vanished">バージョンファイル %1を処理できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="361"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="361"></location>
         <source>No profile (%1)</source>
         <translation>プロファイルなし (%1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="371"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="371"></location>
         <source>&lt;Offline&gt;</source>
         <translation>&lt;オフライン&gt;</translation>
     </message>
@@ -12236,50 +12236,50 @@ Roll back to previous version?</source>
 前のバージョンにロールバックしますか?</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="34"/>
+        <location filename="src/launcher/MMCTime.cpp" line="34"></location>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
         <translation>%1分 %2秒</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="37"/>
+        <location filename="src/launcher/MMCTime.cpp" line="37"></location>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
         <translation>%1時間 %2分</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="39"/>
+        <location filename="src/launcher/MMCTime.cpp" line="39"></location>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
         <translation>%1日 %2時間 %3分</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="76"/>
+        <location filename="src/launcher/MMCTime.cpp" line="76"></location>
         <source>days</source>
         <translation>日</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="81"/>
+        <location filename="src/launcher/MMCTime.cpp" line="81"></location>
         <source>h</source>
         <translation>時間</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="86"/>
+        <location filename="src/launcher/MMCTime.cpp" line="86"></location>
         <source>m</source>
         <translation>分</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="91"/>
+        <location filename="src/launcher/MMCTime.cpp" line="91"></location>
         <source>s</source>
         <translation>秒</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="96"/>
+        <location filename="src/launcher/MMCTime.cpp" line="96"></location>
         <source>ms</source>
         <translation>ミリ秒</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="48"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="48"></location>
         <source>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</source>
@@ -12291,36 +12291,36 @@ This message will be displayed until you remove them from the JVM arguments.</ol
 このメッセージは、JVM引数から上記のオプションが削除されるまで表示されます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="53"/>
-        <location filename="src/launcher/JavaCommon.cpp" line="62"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="53"></location>
+        <location filename="src/launcher/JavaCommon.cpp" line="62"></location>
         <source>JVM arguments warning</source>
         <translation>JVM引数の警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="58"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="58"></location>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
         <translation>必須なJavaバージョン引数をJVMに渡そうとしました（&quot;-version:xxx&quot;のように）。これは安全ではないため許可されていません。
 このメッセージはJVM引数からこれが削除されるまで表示されます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="71"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="71"></location>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
         <translation>Javaのテストに成功しました！&lt;br /&gt;プラットフォーム：%1&lt;br /&gt;Javaバージョン：%2&lt;br /&gt;Javaベンダー：%3&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="79"></location>
         <source>&lt;br /&gt;Warnings:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</source>
         <translation>&lt;br /&gt;警告：&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="89"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="89"></location>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
         <translation>指定されたJavaバイナリは、指定された引数では動作しませんでした：&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="97"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="97"></location>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
         <translation>指定されたJava実行ファイルは動作しませんでした。&lt;br /&gt;「検出」ボタンを押すか、Java実行ファイルのパスを設定してください。&lt;br /&gt;</translation>
     </message>
@@ -12330,26 +12330,26 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>指定されたJavaバイナリが動作しませんでした。&lt;br /&gt;自動検出機能を使用するか、Java実行ファイルへのパスを設定してください。&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="106"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="106"></location>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
         <translation>Java checkerライブラリが見つかりませんでした。設定を確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="155"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="155"></location>
         <source>Download of meta file %1</source>
         <translation>メタファイル %1 のダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/JsonFormat.cpp" line="133"/>
-        <location filename="src/launcher/meta/JsonFormat.cpp" line="145"/>
-        <location filename="src/launcher/meta/JsonFormat.cpp" line="157"/>
+        <location filename="src/launcher/meta/JsonFormat.cpp" line="133"></location>
+        <location filename="src/launcher/meta/JsonFormat.cpp" line="145"></location>
+        <location filename="src/launcher/meta/JsonFormat.cpp" line="157"></location>
         <source>Unknown format version!</source>
         <translation>不明なフォーマットのバージョンです！</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"></location>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"></location>
         <source>Empty path</source>
         <translation>空のパス</translation>
     </message>
@@ -12358,38 +12358,38 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>JVisualVMへのパスが無効です</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="91"></location>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"></location>
         <source>Path does not exist</source>
         <translation>パスは存在しません</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="95"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="95"></location>
         <source>Invalid JProfiler install</source>
         <translation>JProfilerのインストールが無効です</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="30"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="30"></location>
         <source>Path is empty</source>
         <translation>パスは空です</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="40"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="40"></location>
         <source>Path does not seem to be a MCEdit path</source>
         <translation>パスはMCEditのパスではないようです</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="58"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="58"></location>
         <source>No author(s)</source>
         <translation>作者なし</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="12"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="12"></location>
         <source>Change instance name</source>
         <translation>起動構成の名前を変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="13"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="13"></location>
         <source>The instance&apos;s name seems to include the old version. Would you like to update it?
 
 Old name: %1
@@ -12400,12 +12400,12 @@ New name: %2</source>
 変更後：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="31"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="31"></location>
         <source>Similar modpack was found!</source>
         <translation>同様のModパックが見つかりました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="32"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="32"></location>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
@@ -12414,12 +12414,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 注意：更新する場合、起動構成の大事なデータのバックアップを取ってください。パックの上書きによってワールドが破損したり、一部の設定が失われる可能性があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="38"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="38"></location>
         <source>Update existing instance</source>
         <translation>既存の起動構成を更新する</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="39"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="39"></location>
         <source>Create new instance</source>
         <translation>新しい起動構成を作成する</translation>
     </message>
@@ -12476,260 +12476,260 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">カスタム</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"></location>
         <source>Background Cat (from MultiMC)</source>
         <translation>背景猫 (MultiMCより)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="312"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="312"></location>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11 (Ashtaka作)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="313"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="313"></location>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11（フラット版、Ashtaka作）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="314"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="314"></location>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie (SympathyTea作)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ResourceType.cpp" line="25"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="25"></location>
         <source>resource pack</source>
         <translation>リソースパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ResourceType.cpp" line="26"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="26"></location>
         <source>texture pack</source>
         <translation>テクスチャーパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ResourceType.cpp" line="27"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="27"></location>
         <source>data pack</source>
         <translation>データパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"></location>
         <source>shader pack</source>
         <translation>シェーダーパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ResourceType.cpp" line="29"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="29"></location>
         <source>world save</source>
         <translation>ワールドのセーブデータ</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ResourceType.cpp" line="30"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="30"></location>
         <source>mod</source>
         <translation>Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ResourceType.cpp" line="31"/>
+        <location filename="src/launcher/modplatform/ResourceType.cpp" line="31"></location>
         <source>unknown</source>
         <translation>不明</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"></location>
         <source>Sort by Featured</source>
         <translation>注目順</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"></location>
         <source>Sort by Popularity</source>
         <translation>人気順</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"></location>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"></location>
         <source>Sort by Last Updated</source>
         <translation>更新順</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"></location>
         <source>Sort by Name</source>
         <translation>名前順</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"></location>
         <source>Sort by Author</source>
         <translation>作者順</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"></location>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"></location>
         <source>Sort by Downloads</source>
         <translation>総ダウンロード数順</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"></location>
         <source>Sort by Category</source>
         <translation>カテゴリー順</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="171"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="171"></location>
         <source>Sort by Game Version</source>
         <translation>ゲームバージョン順</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"></location>
         <source>Sort by Relevance</source>
         <translation>関連性順</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"></location>
         <source>Sort by Follows</source>
         <translation>フォロー数順</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"></location>
         <source>Sort by Newest</source>
         <translation>最新順</translation>
     </message>
     <message>
-        <location filename="src/launcher/filelink/FileLink.cpp" line="64"/>
+        <location filename="src/launcher/filelink/FileLink.cpp" line="64"></location>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
         <translation>PrismLauncherで使用されるWindows用のバッチMKLINKプログラム</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="163"/>
+        <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="163"></location>
         <source>Ungrouped</source>
         <translation>未グループ</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="102"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="102"></location>
         <source>An auto-updater for Prism Launcher</source>
         <translation>Prism Launcherの自動アップデートプログラム</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="344"/>
-        <location filename="src/launcher/MMCZip.cpp" line="355"/>
+        <location filename="src/launcher/MMCZip.cpp" line="344"></location>
+        <location filename="src/launcher/MMCZip.cpp" line="355"></location>
         <source>Could not fix permissions for %1</source>
         <translation>%1 の権限を修正できませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"></location>
         <source>item</source>
         <translation>項目</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"></location>
         <source>items</source>
         <translation>項目</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"></location>
         <source>No compatible version of %1 found for %2 %3</source>
         <translation>%2 %3 と互換性のある %1 のバージョンが見つかりません</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"></location>
         <source>No version list in metadata index for %1</source>
         <translation>%1 のメタデータインデックスにバージョンリストがありません</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"></location>
         <source>%1 is missing requirement %2 %3</source>
         <translation>%1 に必要な %2 %3 がありません</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"></location>
         <source>%1, a dependency of this component, has reported issues</source>
         <translation>このコンポーネントの依存関係である %1 から問題が報告されています</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"></location>
         <source>%1, a dependency of this component, is not the required version %2</source>
         <translation>このコンポーネントの依存関係である %1 はバージョン %2 を必要としていません</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"></location>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
         <translation>このコンポーネントの依存関係である %1 はバージョン %2 を推奨していません</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"></location>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
         <translation>%1 と %2 は一緒に動作しないことが知られています。どちらかを削除することをおすすめします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="267"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="267"></location>
         <source>Unchecked</source>
         <comment>Account status</comment>
         <translation>未チェック</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="269"></location>
         <source>Offline</source>
         <comment>Account status</comment>
         <translation>オフライン</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="271"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="271"></location>
         <source>Ready</source>
         <comment>Account status</comment>
         <translation>準備完了</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="273"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="273"></location>
         <source>Working</source>
         <comment>Account status</comment>
         <translation>処理中</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="275"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="275"></location>
         <source>Errored</source>
         <comment>Account status</comment>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="277"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="277"></location>
         <source>Expired</source>
         <comment>Account status</comment>
         <translation>期限切れ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="279"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="279"></location>
         <source>Disabled</source>
         <comment>Account status</comment>
         <translation>使用不可</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="281"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="281"></location>
         <source>Gone</source>
         <comment>Account status</comment>
         <translation>消滅</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="283"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="283"></location>
         <source>Unknown</source>
         <comment>Account status</comment>
         <translation>不明</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
-        <location filename="src/launcher/InstanceDirUpdate.cpp" line="97"/>
+        <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"></location>
+        <location filename="src/launcher/InstanceDirUpdate.cpp" line="97"></location>
         <source>Cannot rename instance</source>
         <translation>起動構成の名前を変更できません</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"/>
+        <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"></location>
         <source>New instance root (%1) already exists. &lt;br /&gt;Only the metadata will be renamed.</source>
         <translation>新しい起動構成のルート (%1) はすでに存在します。&lt;br /&gt;メタデータの名前のみが変更されます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
+        <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"></location>
         <source>&amp;Remember my choice</source>
         <translation>次回から表示しない(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceDirUpdate.cpp" line="73"/>
+        <location filename="src/launcher/InstanceDirUpdate.cpp" line="73"></location>
         <source>Rename instance folder</source>
         <translation>起動構成のフォルダ名変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceDirUpdate.cpp" line="74"/>
+        <location filename="src/launcher/InstanceDirUpdate.cpp" line="74"></location>
         <source>Would you also like to rename the instance folder?
 
 Old name: %1
@@ -12740,22 +12740,22 @@ New name: %2</source>
 新しい名前：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceDirUpdate.cpp" line="92"/>
+        <location filename="src/launcher/InstanceDirUpdate.cpp" line="92"></location>
         <source>Renaming</source>
         <translation>名前変更中</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
+        <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"></location>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
         <translation>以下の名前変更の実行時にエラーが発生しました：&lt;br/&gt;・古い起動構成のルート：%1&lt;br/&gt;・新しい起動構成のルート：%2&lt;br/&gt;メタデータの名前のみが変更されます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
+        <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"></location>
         <source>There are linked instances</source>
         <translation>リンクされた起動構成があります</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/InstanceDirUpdate.cpp" line="113"/>
+        <location filename="src/launcher/InstanceDirUpdate.cpp" line="113"></location>
         <source>The following instance(s) might reference files in this instance:
 
 %1
@@ -12774,177 +12774,177 @@ Do you wish to proceed?</source>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/GZip.cpp" line="201"/>
+        <location filename="src/launcher/GZip.cpp" line="201"></location>
         <source>error handling file</source>
         <translation>エラー処理ファイル</translation>
     </message>
     <message>
-        <location filename="src/launcher/GZip.cpp" line="203"/>
+        <location filename="src/launcher/GZip.cpp" line="203"></location>
         <source>invalid compression level</source>
         <translation>無効な圧縮レベル</translation>
     </message>
     <message>
-        <location filename="src/launcher/GZip.cpp" line="205"/>
+        <location filename="src/launcher/GZip.cpp" line="205"></location>
         <source>invalid or incomplete deflate data</source>
         <translation>無効または不完全なdeflateデータ</translation>
     </message>
     <message>
-        <location filename="src/launcher/GZip.cpp" line="207"/>
+        <location filename="src/launcher/GZip.cpp" line="207"></location>
         <source>out of memory</source>
         <translation>メモリ不足</translation>
     </message>
     <message>
-        <location filename="src/launcher/GZip.cpp" line="209"/>
+        <location filename="src/launcher/GZip.cpp" line="209"></location>
         <source>zlib version mismatch!</source>
         <translation>zlibバージョンが一致しません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="65"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="93"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="157"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="180"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="192"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="201"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="210"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="243"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="65"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="93"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="157"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="180"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="192"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="201"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="210"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="243"></location>
         <source>Create Shortcut</source>
         <translation>ショートカットを作成</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"></location>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation>ランチャーが一時的な展開フォルダ内にあるため、ショートカットを作成できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"></location>
         <source>Failed to create icon for application.</source>
         <translation>アプリケーションのアイコン作成に失敗しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"></location>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>ランチャーが間違った設定のAppImageとして実行されていませんか？（$APPIMAGE環境変数が見つかりません）</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"></location>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"></location>
         <source>Failed to create icon for shortcut.</source>
         <translation>ショートカット用のアイコンの作成に失敗しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"></location>
         <source>Not supported on your platform!</source>
         <translation>ご利用のプラットフォームではサポートされていません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"></location>
         <source>Failed to create %1 shortcut!</source>
         <translation>%1のショートカットの作成に失敗しました!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"></location>
         <source>Couldn&apos;t find desktop?!</source>
         <translation>デスクトップが見つかりません？！</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="181"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="181"></location>
         <source>Created a shortcut to this %1 on your desktop!</source>
         <translation>デスクトップに%1のショートカットを作成します!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="192"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="192"></location>
         <source>Couldn&apos;t find applications folder?!</source>
         <translation>アプリケーションのフォルダが見つかりませんか?!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="202"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="202"></location>
         <source>Failed to create instances folder in applications folder!</source>
         <translation>アプリケーションフォルダへの起動構成フォルダの作成に失敗しました!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="211"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="211"></location>
         <source>Created a shortcut to this %1 in your applications folder!</source>
         <translation>アプリケーションフォルダにこの%1のショートカットを作成しました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="235"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="235"></location>
         <source>Desktop Entries</source>
         <translation>デスクトップエントリ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="244"/>
+        <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="244"></location>
         <source>Created a shortcut to this %1!</source>
         <translation>この%1のショートカットを作成しました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="112"></location>
         <source>Network error: %1</source>
         <translation>ネットワークエラー：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="117"></location>
         <source>Error: %1 returned unexpected status code %2 %3</source>
         <translation>エラー：%1 が予期しないステータスコード %2 %3 を返しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="131"></location>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
         <translation>Hastebinサーバーからの応答の解析に失敗しました：JSONが期待されましたが、無効な応答を取得しました。エラー：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="141"></location>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="168"></location>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="197"></location>
         <source>Error: %1 returned a malformed response body</source>
         <translation>エラー：%1 が不正なレスポンスボディを返しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="152"></location>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
         <translation>mclogsサーバーからの応答の解析に失敗しました：JSONが期待されましたが、無効な応答を取得しました。エラー：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="163"></location>
         <source>Error: %1 returned an error: %2</source>
         <translation>エラー：%1 がエラーを返しました：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="179"></location>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
         <translation>paste.ggサーバーからの応答の解析に失敗しました：JSONが期待されましたが、無効な応答を取得しました。エラー：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="192"></location>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
         <translation>エラー：%1 がエラーコードを返しました：%2
 エラーメッセージ：%3</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="85"></location>
         <source>Invalid path to VisualVM</source>
         <translation>VisualVMへのパスが無効です</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"></location>
         <source>Data packs</source>
         <translation>データパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackIndex.cpp" line="148"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackManifest.cpp" line="190"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackIndex.cpp" line="148"></location>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackManifest.cpp" line="190"></location>
         <source> for %1</source>
         <translation> %1用</translation>
     </message>
@@ -12952,7 +12952,7 @@ Error message: %3</source>
 <context>
     <name>Resource</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="95"></location>
         <source>Unknown</source>
         <translation>不明</translation>
     </message>
@@ -12960,7 +12960,7 @@ Error message: %3</source>
 <context>
     <name>ResourceDownload::DataPackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="180"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="180"></location>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>データパック</translation>
@@ -12969,13 +12969,13 @@ Error message: %3</source>
 <context>
     <name>ResourceDownload::DataPackResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="37"/>
+        <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="37"></location>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
         <translation>データパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
+        <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"></location>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
         <translation>データパック</translation>
@@ -12984,7 +12984,7 @@ Error message: %3</source>
 <context>
     <name>ResourceDownload::ModDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="107"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="107"></location>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>Mod</translation>
@@ -12997,13 +12997,13 @@ Error message: %3</source>
 <context>
     <name>ResourceDownload::ModPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="46"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="46"></location>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
         <translation>Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"></location>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
         <translation>Mod</translation>
@@ -13020,70 +13020,70 @@ Error message: %3</source>
 <context>
     <name>ResourceDownload::ResourceDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="70"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="70"></location>
         <source>Review and confirm</source>
         <translation>確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="71"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="71"></location>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="96"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="96"></location>
         <source>Confirmation Needed</source>
         <translation>確認が必要</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="97"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="97"></location>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
         <translation>%1 個のリソースを選択済みです。
 本当にこのダイアログを閉じますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="131"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="131"></location>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
         <translation>選択した%1を確認する画面を開きます。（Ctrl+Enter）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="143"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="143"></location>
         <source>Confirm %1 to download</source>
         <translation>%1のダウンロードを確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="159"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="159"></location>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="165"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="165"></location>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="166"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="166"></location>
         <source>Checking for dependencies...</source>
         <translation>依存関係を確認中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"></location>
         <source>Change %1 version</source>
         <translation>%1のバージョンを変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"></location>
         <source>resources</source>
         <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>リソース</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="62"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="62"></location>
         <source>Download %1</source>
         <translation>%1をダウンロード</translation>
     </message>
@@ -13091,10 +13091,10 @@ Are you sure you want to close this dialog?</source>
 <context>
     <name>ResourceDownload::ResourceModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="215"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="239"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="458"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="462"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="215"></location>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="239"></location>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="458"></location>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="462"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
@@ -13103,28 +13103,28 @@ Are you sure you want to close this dialog?</source>
         <translation type="vanished">ネットワークエラーが発生しました。プロジェクト情報を読み込めませんでした:%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="216"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="216"></location>
         <source>A network error occurred. Could not load project versions: %1</source>
         <translation>ネットワークエラーが発生しました。%1のプロジェクトバージョンの読み込みに失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="239"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="239"></location>
         <source>A network error occurred. Could not load project info: %1</source>
         <translation>ネットワークエラーが発生しました。%1にあるプロジェクト情報の読み込みに失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="245"></location>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
         <translation>リクエストは不明な理由で中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="458"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="458"></location>
         <source>A network error occurred. Could not load mods.</source>
         <translation>ネットワーク エラーが発生しました。 Modを読み込めませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="463"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="463"></location>
         <source>API version too old!
 Please update %1!</source>
         <translation>APIのバージョンが古すぎます！
@@ -13134,7 +13134,7 @@ Please update %1!</source>
 <context>
     <name>ResourceDownload::ResourcePackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="127"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="127"></location>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>リソースパック</translation>
@@ -13143,13 +13143,13 @@ Please update %1!</source>
 <context>
     <name>ResourceDownload::ResourcePackResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="36"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="36"></location>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
         <translation>リソースパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="38"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="38"></location>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
         <translation>リソースパック</translation>
@@ -13158,128 +13158,128 @@ Please update %1!</source>
 <context>
     <name>ResourceDownload::ResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="112"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="112"></location>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
         <translation>%1を検索…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="113"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="274"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="113"></location>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="274"></location>
         <source>Select %1 for download</source>
         <translation>ダウンロードする%1として選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="218"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="218"></location>
         <source> by </source>
         <translation> 作者： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"></location>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation>&lt;b&gt;このプロジェクトはアーカイブ状態です。作者がアーカイブを解除しない限り、アップデートを受け取ることはできません。&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="228"></location>
         <source>Donate information: </source>
         <translation>寄付情報： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="241"></location>
         <source>External links:</source>
         <translation>外部リンク：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="245"></location>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Issues：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="247"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="247"></location>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="249"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="249"></location>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>ソースコード：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="251"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="251"></location>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="272"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="272"></location>
         <source>No version available for the selected pack</source>
         <translation>選択したパックの利用可能なバージョンはありません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="276"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="276"></location>
         <source>Deselect %1 for download</source>
         <translation>%1のダウンロードをキャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="304"></location>
         <source> [installed]</source>
         <comment>Mod version select</comment>
         <translation> [インストール済み]</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="311"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="311"></location>
         <source>No valid version found.</source>
         <translation>有効なバージョンが見つかりません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="312"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="312"></location>
         <source>Cannot select invalid version :(</source>
         <translation>無効なバージョンは選択できません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="336"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="336"></location>
         <source>Loading versions...</source>
         <translation>バージョン一覧を読込中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"></location>
         <source>No versions available</source>
         <translation>利用可能なバージョンはありません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="433"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="433"></location>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
         <translation>&apos;%1&apos; のバージョンは利用できません。
 作者がサードパーティ製のランチャーをブロックしている可能性があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="540"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="540"></location>
         <source>Reinstall</source>
         <translation>再インストール</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="541"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="541"></location>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="547"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="547"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="566"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="566"></location>
         <source>The resource was not found</source>
         <translation>リソースが見つかりませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"></location>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
         <translation>リソース</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="49"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="49"></location>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
         <translation>リソース</translation>
@@ -13288,7 +13288,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceDownload::ShaderPackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="163"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="163"></location>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>シェーダーパック</translation>
@@ -13297,13 +13297,13 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceDownload::ShaderPackResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="36"/>
+        <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="36"></location>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
         <translation>シェーダーパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="38"/>
+        <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="38"></location>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
         <translation>シェーダーパック</translation>
@@ -13312,7 +13312,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceDownload::TexturePackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="146"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="146"></location>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>テクスチャパック</translation>
@@ -13321,13 +13321,13 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceDownload::TexturePackResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="38"/>
+        <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="38"></location>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
         <translation>テクスチャパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="40"/>
+        <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="40"></location>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
         <translation>テクスチャパック</translation>
@@ -13336,12 +13336,12 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceDownloadTask</name>
     <message>
-        <location filename="src/launcher/ResourceDownloadTask.cpp" line="45"/>
+        <location filename="src/launcher/ResourceDownloadTask.cpp" line="45"></location>
         <source>Resource download</source>
         <translation>リソースのダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ResourceDownloadTask.cpp" line="46"/>
+        <location filename="src/launcher/ResourceDownloadTask.cpp" line="46"></location>
         <source>Downloading resource:
 %1</source>
         <translation>リソースをダウンロード中：
@@ -13351,7 +13351,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="492"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="492"></location>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -13360,34 +13360,34 @@ Canonical Path: %1</source>
 絶対パス：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="499"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="499"></location>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 警告：このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"></location>
         <source>Name</source>
         <translation>名前</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"></location>
         <source>Enable</source>
         <translation>有効</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"></location>
         <source>Last Modified</source>
         <translation>更新日時</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"></location>
         <source>Size</source>
         <translation>サイズ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"></location>
         <source>Provider</source>
         <translation>提供元</translation>
     </message>
@@ -13396,52 +13396,52 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation type="vanished">最終編集</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="528"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="528"></location>
         <source>Confirm toggle</source>
         <translation>切り替えの確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="529"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="529"></location>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>ゲームの実行中にリソースを有効化・無効化すると、ゲームがクラッシュする可能性があります。
 本当に実行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="561"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="561"></location>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>リソースが有効になっているか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="563"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="563"></location>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>リソースの名前。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="565"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="565"></location>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>リソースが最後に変更または追加された日時。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="567"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="567"></location>
         <source>The source provider of the resource.</source>
         <translation>リソースの提供元。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="569"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="569"></location>
         <source>The size of the resource.</source>
         <translation>リソースのサイズ。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="660"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="660"></location>
         <source>Override Columns Visibility</source>
         <translation>列の表示設定を上書き</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="673"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="673"></location>
         <source>Show / Hide Columns</source>
         <translation>列を表示/非表示</translation>
     </message>
@@ -13449,49 +13449,49 @@ Are you sure you want to do this?</source>
 <context>
     <name>ResourcePackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="159"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="159"></location>
         <source>Is the resource pack enabled?</source>
         <translation>リソースパックが有効になっているか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"></location>
         <source>Enable</source>
         <translation>有効</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"></location>
         <source>Image</source>
         <translation>画像</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"></location>
         <source>Last Modified</source>
         <translation>更新日時</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"></location>
         <source>Size</source>
         <translation>サイズ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"></location>
         <source>Provider</source>
         <translation>提供元</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="79"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="79"></location>
         <source>Unrecognized</source>
         <translation>認識不能</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="108"/>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="108"></location>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"></location>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>リソースパックのフォーマットIDと、それが対象として設計されたMinecraftのバージョン。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"></location>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -13500,29 +13500,29 @@ Canonical Path: %1</source>
 絶対パス：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="120"></location>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 警告：このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="168"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="168"></location>
         <source>The source provider of the resource pack.</source>
         <translation>リソースパックの提供元。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="170"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="170"></location>
         <source>The size of the resource pack.</source>
         <translation>リソースパックのサイズ。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"></location>
         <source>Name</source>
         <translation>名前</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"></location>
         <source>Pack Format</source>
         <translation>パックフォーマット</translation>
     </message>
@@ -13535,7 +13535,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>リソースパックが有効になっているか？ (ZIPのみ有効)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="161"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="161"></location>
         <source>The name of the resource pack.</source>
         <translation>リソースパックの名前。</translation>
     </message>
@@ -13544,7 +13544,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation type="vanished">リソース パックのバージョン。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="166"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="166"></location>
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation>リソースパックが最後に変更または追加された日時。</translation>
     </message>
@@ -13552,7 +13552,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 <context>
     <name>ResourcePackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"></location>
         <source>Resource packs</source>
         <translation>リソースパック</translation>
     </message>
@@ -13565,71 +13565,71 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>オンライン プラットフォームからリソースパックをダウンロードします</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"></location>
         <source>Download Packs</source>
         <translation>パックをダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"></location>
         <source>Download resource packs from online mod platforms</source>
         <translation>オンラインのModプラットフォームからリソースパックをダウンロードします</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"></location>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
         <translation>選択したすべてのリソースパックのアップデートを確認します（未選択の場合はすべて）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"></location>
         <source>Change a mod&apos;s version.</source>
         <translation>Modのバージョンを変更します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="139"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="184"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"></location>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="139"></location>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="184"></location>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="238"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="165"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"></location>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="165"></location>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="188"></location>
         <source>Aborted</source>
         <translation>中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"></location>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="188"></location>
         <source>Download stopped by user.</source>
         <translation>ダウンロードがユーザーによって中止されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="109"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="194"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="109"></location>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="194"></location>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="123"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="123"></location>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="204"></location>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="139"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="139"></location>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="238"></location>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
         <translation>メタデータが無効化されているため、リソースパックのアップデートは利用できません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="144"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="144"></location>
         <source>Confirm Update</source>
         <translation>アップデートの確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="145"></location>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -13638,37 +13638,37 @@ Are you sure you want to do this?</source>
 本当に実行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="165"></location>
         <source>The resource pack updater was aborted!</source>
         <translation>リソースパックのアップデートが中断されました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"></location>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>「%1」は最新です！ :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="172"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="172"></location>
         <source>All resource packs are up-to-date! :)</source>
         <translation>すべてのリソースパックは最新です！ :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"></location>
         <source>All selected resource packs are up-to-date! :)</source>
         <translation>選択されたすべてのリソースパックは最新です！ :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"></location>
         <source>Update checker</source>
         <translation>アップデート確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="218"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="218"></location>
         <source>Confirm Removal</source>
         <translation>削除の確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="219"></location>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
         <translation>%1 個のリソースパックのメタデータを削除しようとしています。
@@ -13682,12 +13682,12 @@ Are you sure?</source>
         <translation type="vanished">検索</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="69"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="69"></location>
         <source>Version selected:</source>
         <translation>バージョンの選択：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"></location>
         <source>Filter options</source>
         <translation>フィルター設定</translation>
     </message>
@@ -13695,161 +13695,161 @@ Are you sure?</source>
 <context>
     <name>ResourceUpdateDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="41"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="41"></location>
         <source>Confirm resources to update</source>
         <translation>アップデートするリソースの確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="52"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="52"></location>
         <source>You&apos;re about to update the following resources:</source>
         <translation>以下のリソースをアップデートしようとしています：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="53"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="53"></location>
         <source>Only resources with a check will be updated!</source>
         <translation>チェックが入っているリソースのみがアップデートされます！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="71"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="71"></location>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
         <translation>Modの名前：%1&lt;br&gt;ファイル名：%2&lt;br&gt;理由：%3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="74"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="74"></location>
         <source>Metadata generation failed</source>
         <translation>メタデータの生成に失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="75"></location>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
         <translation>以下のリソースのメタデータを生成できませんでした：&lt;br&gt;これらのリソース以外で続行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="87"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="87"></location>
         <source>Checking for updates</source>
         <translation>アップデートを確認中</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="108"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="195"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="341"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="357"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="108"></location>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="195"></location>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="341"></location>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="357"></location>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="113"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="204"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="113"></location>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="204"></location>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="119"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="209"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="369"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="119"></location>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="209"></location>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="369"></location>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="120"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="120"></location>
         <source>Checking for updates...</source>
         <translation>アップデートを確認中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="166"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="166"></location>
         <source>Mod name: %1</source>
         <translation>Modの名前：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="168"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="168"></location>
         <source>Reason: %1</source>
         <translation>理由：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="171"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="171"></location>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
         <translation>考えられる解決策：最新バージョンを手動で取得する：&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="176"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="176"></location>
         <source>Failed to check for updates</source>
         <translation>アップデートの確認に失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="177"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="177"></location>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
         <translation>以下のリソースのアップデートを確認または取得できませんでした。&lt;br&gt;これらのリソース以外で続行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="210"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="210"></location>
         <source>Checking for dependencies...</source>
         <translation>依存関係を確認しています...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="230"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="230"></location>
         <source>Not installed</source>
         <translation>未インストール</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="266"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="266"></location>
         <source>Looking for metadata</source>
         <translation>メタデータを検索中</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="311"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="311"></location>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>リソース「%1」のメタデータがありません。このModをアップデートするにはメタデータを生成する必要があります。これを行うには、アップデートするために使用するMod提供元を選択してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"></location>
         <source>Generating metadata...</source>
         <translation>メタデータを生成中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="423"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="423"></location>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>選択されたMod提供元で有効なバージョンが見つかりませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="434"></location>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
         <translation>すでにインストールされている可能性があるため、このModは無効化されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="440"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="440"></location>
         <source>Provider: %1</source>
         <translation>提供元：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="443"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="443"></location>
         <source>Old version: %1</source>
         <translation>現在のバージョン：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="446"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="446"></location>
         <source>New version: %1</source>
         <translation>新しいバージョン：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="450"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="450"></location>
         <source>New Version Type: %1</source>
         <translation>新しいバージョンのタイプ：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="456"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="456"></location>
         <source>Required by: %1</source>
         <translation>依存元：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="458"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="458"></location>
         <source>Required by:</source>
         <translation>依存元：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="472"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="472"></location>
         <source>Changelog of the latest version</source>
         <translation>最新バージョンの更新履歴</translation>
     </message>
@@ -13857,78 +13857,78 @@ Are you sure?</source>
 <context>
     <name>ReviewMessageBox</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="14"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="14"></location>
         <source>Back</source>
         <translation>戻る</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="24"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="24"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="25"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="25"></location>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="44"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="44"></location>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
         <translation>すでにインストールされている可能性があるため、このModは無効化されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"></location>
         <source>Filename: %1</source>
         <translation>ファイル名：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="55"></location>
         <source>This download will be placed in: %1</source>
         <translation>このダウンロードは次の場所に置かれます：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="62"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="62"></location>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
         <translation>このファイルは、おそらくローダーを必要とするため、通常とは異なるフォルダーの場所にダウンロードされます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"></location>
         <source>Provider: %1</source>
         <translation>提供元：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="73"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="73"></location>
         <source>Required by: %1</source>
         <translation>依存元：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="75"></location>
         <source>Required by:</source>
         <translation>依存元：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="90"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="90"></location>
         <source>Version Type: %1</source>
         <translation>バージョンタイプ：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="115"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="115"></location>
         <source>Confirm %1 selection</source>
         <translation>%1の選択を確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="117"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="117"></location>
         <source>You&apos;re about to download the following %1:</source>
         <translation>以下の%1をダウンロードしようとしています：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"></location>
         <source>Only %1 with a check will be downloaded!</source>
         <translation>チェックが入った%1のみがダウンロードされます！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"></location>
         <source>Toggle Dependencies</source>
         <translation>依存関係を切り替え</translation>
     </message>
@@ -13940,49 +13940,49 @@ Are you sure?</source>
 <context>
     <name>ScreenshotsPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="41"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="41"></location>
         <source>Actions</source>
         <translation>アクション</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="61"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="61"></location>
         <source>Upload</source>
         <translation>アップロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="66"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="66"></location>
         <source>Delete</source>
         <translation>削除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="71"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="71"></location>
         <source>Rename</source>
         <translation>名前を変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"></location>
         <source>View Folder</source>
         <translation>フォルダーを開く</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"></location>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"></location>
         <source>Copy Image</source>
         <translation>画像をコピー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"></location>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"></location>
         <source>Copy File(s)</source>
         <translation>ファイルをコピー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"></location>
         <source>Screenshots</source>
         <translation>スクリーンショット</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="311"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="311"></location>
         <source>Context menu</source>
         <translation>コンテキストメニュー</translation>
     </message>
@@ -14003,7 +14003,7 @@ Are you sure?</source>
 よろしいですか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="372"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="372"></location>
         <source>You are about to upload %1 screenshots to %2.
 You should double-check for personal information.
 
@@ -14014,7 +14014,7 @@ Are you sure?</source>
 本当によろしいですか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="377"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="377"></location>
         <source>You are about to upload the selected screenshot to %1.
 You should double-check for personal information.
 
@@ -14025,52 +14025,52 @@ Are you sure?</source>
 本当によろしいですか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="402"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="443"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="402"></location>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="443"></location>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"></location>
         <source>Failed to upload screenshots!</source>
         <translation>スクリーンショットのアップロードに失敗しました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"></location>
         <source>Unknown error</source>
         <translation>不明なエラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="461"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"></location>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="461"></location>
         <source>Upload finished</source>
         <translation>アップロード完了</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="393"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="393"></location>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="446"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"></location>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="446"></location>
         <source>Screenshots upload aborted</source>
         <translation>スクリーンショットのアップロードを中断しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="446"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"></location>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="446"></location>
         <source>The task has been aborted by the user.</source>
         <translation>タスクはユーザーによって中断されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="419"></location>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;アップロードされたスクリーンショットへのリンク&lt;/a&gt; がクリップボードに保存されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="462"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="462"></location>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;アップロードされたアルバムへのリンク&lt;/a&gt; がクリップボードに保存されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="510"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="510"></location>
         <source>You are about to delete %1 screenshots.
 This may be permanent and they will be gone from the folder.
 
@@ -14081,7 +14081,7 @@ Are you sure?</source>
 本当に削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="515"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="515"></location>
         <source>You are about to delete the selected screenshot.
 This may be permanent and it will be gone from the folder.
 
@@ -14092,7 +14092,7 @@ Are you sure?</source>
 本当に削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="521"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="521"></location>
         <source>Confirm Deletion</source>
         <translation>削除の確認</translation>
     </message>
@@ -14108,12 +14108,12 @@ Are you sure?</source>
 <context>
     <name>ScrollMessageBox</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="13"/>
+        <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="13"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="14"/>
+        <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="14"></location>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -14121,17 +14121,17 @@ Are you sure?</source>
 <context>
     <name>SelectReleaseAssetDialog</name>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"></location>
         <source>Version</source>
         <translation>バージョン</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"></location>
         <source>Published Date</source>
         <translation>公開日</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="123"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="123"></location>
         <source>Select a version to install.</source>
         <translation>インストールするバージョンを選択してください。</translation>
     </message>
@@ -14139,27 +14139,27 @@ Are you sure?</source>
 <context>
     <name>SelectReleaseDialog</name>
     <message>
-        <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
+        <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"></location>
         <source>Select Release to Install</source>
         <translation>インストールするリリースを選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
+        <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"></location>
         <source>Please select the release you wish to update to.</source>
         <translation>アップデート先のリリースを選択してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"></location>
         <source>Version</source>
         <translation>バージョン</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"></location>
         <source>Published Date</source>
         <translation>公開日</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="48"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="48"></location>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
@@ -14168,12 +14168,12 @@ Currently installed version: %1</source>
 現在のバージョン：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="61"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="61"></location>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -14185,7 +14185,7 @@ Currently installed version: %1</source>
         <translation type="vanished">タスクに1つ失敗しました!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/SequentialTask.cpp" line="53"/>
+        <location filename="src/launcher/tasks/SequentialTask.cpp" line="53"></location>
         <source>Executing task %1 out of %2</source>
         <translation>%2 のうち %1 のタスクを実行中</translation>
     </message>
@@ -14193,17 +14193,17 @@ Currently installed version: %1</source>
 <context>
     <name>ServersModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="288"></location>
         <source>Name</source>
         <translation>名前</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="290"></location>
         <source>Address</source>
         <translation>アドレス</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="292"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="292"></location>
         <source>Online</source>
         <translation>オンライン</translation>
     </message>
@@ -14215,87 +14215,87 @@ Currently installed version: %1</source>
 <context>
     <name>ServersPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="72"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="72"></location>
         <source>&amp;Name</source>
         <translation>名前(&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="85"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="85"></location>
         <source>Address</source>
         <translation>アドレス</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="98"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="98"></location>
         <source>Reso&amp;urces</source>
         <translation>リソースパック(&amp;U)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"></location>
         <source>Ask to download</source>
         <translation>ダウンロードするか尋ねる</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="114"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="114"></location>
         <source>Always download</source>
         <translation>常にダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="119"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="119"></location>
         <source>Never download</source>
         <translation>ダウンロードしない</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="130"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="130"></location>
         <source>Actions</source>
         <translation>アクション</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="157"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="157"></location>
         <source>Add</source>
         <translation>追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="162"></location>
         <source>Remove</source>
         <translation>削除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="167"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="167"></location>
         <source>Move Up</source>
         <translation>上へ移動</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="172"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="172"></location>
         <source>Move Down</source>
         <translation>下へ移動</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="177"></location>
         <source>Join</source>
         <translation>参加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="182"></location>
         <source>Refresh</source>
         <translation>再読み込み</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"></location>
         <source>Servers</source>
         <translation>サーバー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="605"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="605"></location>
         <source>Context menu</source>
         <translation>コンテキストメニュー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="736"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="736"></location>
         <source>Confirm Removal</source>
         <translation>削除の確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="737"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="737"></location>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
@@ -14309,27 +14309,27 @@ Are you sure?</source>
 <context>
     <name>SetupWizard</name>
     <message>
-        <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
+        <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"></location>
         <source>&amp;Next &gt;</source>
         <translation>次へ(&amp;N) &gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
+        <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"></location>
         <source>&lt; &amp;Back</source>
         <translation>&lt; 戻る(&amp;B)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
+        <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"></location>
         <source>&amp;Finish</source>
         <translation>完了(&amp;F)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
+        <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"></location>
         <source>&amp;Refresh</source>
         <translation>再読み込み(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
+        <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"></location>
         <source>%1 Quick Setup</source>
         <translation>%1 クイック セットアップ</translation>
     </message>
@@ -14337,7 +14337,7 @@ Are you sure?</source>
 <context>
     <name>ShaderPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"></location>
         <source>Shader packs</source>
         <translation>シェーダーパック</translation>
     </message>
@@ -14350,71 +14350,71 @@ Are you sure?</source>
         <translation>オンライン プラットフォームからシェーダーをダウンロードします</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"></location>
         <source>Download Packs</source>
         <translation>パックをダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"></location>
         <source>Download shader packs from online mod platforms</source>
         <translation>オンラインのModプラットフォームから、シェーダーパックをダウンロードします</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"></location>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
         <translation>選択したすべてのシェーダーパックのアップデートを確認します（未選択の場合はすべて）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"></location>
         <source>Change a shader pack&apos;s version.</source>
         <translation>シェーダーパックのバージョンを変更します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="96"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="181"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="96"></location>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"></location>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="181"></location>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="235"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="162"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"></location>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="162"></location>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"></location>
         <source>Aborted</source>
         <translation>中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"></location>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"></location>
         <source>Download stopped by user.</source>
         <translation>ダウンロードがユーザーにより中止されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="106"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="106"></location>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="191"></location>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="120"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="120"></location>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"></location>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"></location>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="235"></location>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
         <translation>メタデータが無効化されているため、シェーダーパックのアップデートは利用できません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="141"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="141"></location>
         <source>Confirm Update</source>
         <translation>アップデートの確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="142"></location>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -14423,37 +14423,37 @@ Are you sure you want to do this?</source>
 本当に実行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="162"></location>
         <source>The shader pack updater was aborted!</source>
         <translation>シェーダーパックのアップデートが中断されました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="166"></location>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>「%1」は最新です！ :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"></location>
         <source>All shader packs are up-to-date! :)</source>
         <translation>すべてのシェーダーパックは最新です！ :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"></location>
         <source>All selected shader packs are up-to-date! :)</source>
         <translation>選択されたすべてのシェーダーパックは最新です！ :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"></location>
         <source>Update checker</source>
         <translation>アップデート確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="215"></location>
         <source>Confirm Removal</source>
         <translation>削除の確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="216"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="216"></location>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
         <translation>%1 個のシェーダーパックのメタデータを削除しようとしています。
@@ -14463,7 +14463,7 @@ Are you sure?</source>
 <context>
     <name>SkinDelete</name>
     <message>
-        <location filename="src/launcher/minecraft/skins/SkinDelete.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/skins/SkinDelete.cpp" line="49"></location>
         <source>Deleting skin</source>
         <translation>スキンを削除中</translation>
     </message>
@@ -14471,32 +14471,32 @@ Are you sure?</source>
 <context>
     <name>SkinList</name>
     <message>
-        <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="294"/>
+        <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="294"></location>
         <source>Path is empty.</source>
         <translation>パスが空です。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="297"/>
+        <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="297"></location>
         <source>File doesn&apos;t exist.</source>
         <translation>ファイルが存在しません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="299"/>
+        <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="299"></location>
         <source>Not a file.</source>
         <translation>ファイルではありません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="301"/>
+        <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="301"></location>
         <source>File is not readable.</source>
         <translation>ファイルが読み取れません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="303"/>
+        <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="303"></location>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
         <translation>スキン画像は64x64または64x32ピクセルのPNGファイルでなければなりません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="307"></location>
         <source>Unable to copy file</source>
         <translation>ファイルをコピーできません</translation>
     </message>
@@ -14504,253 +14504,253 @@ Are you sure?</source>
 <context>
     <name>SkinManageDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="14"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="275"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="289"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="14"></location>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="275"></location>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="289"></location>
         <source>Skin Upload</source>
         <translation>スキンのアップロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="33"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="33"></location>
         <source>Model</source>
         <translation>モデル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="39"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="39"></location>
         <source>Classic</source>
         <translation>クラシック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="49"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="49"></location>
         <source>Slim</source>
         <translation>スリム</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"></location>
         <source>Cape</source>
         <translation>マント</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"></location>
         <source>Preview Elytra</source>
         <translation>エリトラのプレビュー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"></location>
         <source>Open Folder</source>
         <translation>フォルダーを開く</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="117"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="117"></location>
         <source>Reset Skin</source>
         <translation>スキンをリセット</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="131"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="131"></location>
         <source>Import URL</source>
         <translation>URLからインポート</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="138"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="138"></location>
         <source>Import user</source>
         <translation>ユーザーからインポート</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="145"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="145"></location>
         <source>Import File</source>
         <translation>ファイルをインポート</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"></location>
         <source>&amp;Delete Skin</source>
         <translation>スキンを削除(&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"></location>
         <source>Deletes selected skin</source>
         <translation>選択したスキンを削除します</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"></location>
         <source>Del</source>
         <translation>Del</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="178"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="178"></location>
         <source>&amp;Rename Skin</source>
         <translation>スキンの名前を変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"></location>
         <source>Rename selected skin</source>
         <translation>選択したスキンの名前を変更します</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="184"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="184"></location>
         <source>F2</source>
         <translation>F2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="103"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="103"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="104"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="104"></location>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="154"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="154"></location>
         <source>Select Skin Texture</source>
         <translation>スキンの画像を選択してください</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="160"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="160"></location>
         <source>Selected file is not a valid skin</source>
         <translation>選択されたファイルが有効なスキンではありません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="188"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="188"></location>
         <source>No Cape</source>
         <translation>マントなし</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="195"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="195"></location>
         <source>Download capes</source>
         <translation>マントをダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="272"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="272"></location>
         <source>Change skin</source>
         <translation>スキンを変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="275"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="275"></location>
         <source>Skin file does not exist!</source>
         <translation>スキンのファイルが存在しません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="289"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="289"></location>
         <source>Failed to upload skin!</source>
         <translation>スキンのアップロードに失敗しました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="300"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="300"></location>
         <source>Reset skin</source>
         <translation>スキンをリセット</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="304"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="304"></location>
         <source>Skin Delete</source>
         <translation>スキンの削除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="304"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="304"></location>
         <source>Failed to delete current skin!</source>
         <translation>現在のスキンの削除に失敗しました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="313"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="313"></location>
         <source>Context menu</source>
         <translation>コンテキストメニュー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="353"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="353"></location>
         <source>Delete error</source>
         <translation>削除エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="353"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="353"></location>
         <source>Can not delete skin that is in use.</source>
         <translation>使用中のスキンは削除できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="361"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="361"></location>
         <source>Confirm Deletion</source>
         <translation>削除の確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="362"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="362"></location>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
         <translation>「%1」を削除しようとしています。
 本当によろしいですか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="379"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="379"></location>
         <source>Invalid url</source>
         <translation>無効なURL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="383"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="383"></location>
         <source>Download skin</source>
         <translation>スキンをダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="392"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="392"></location>
         <source>URL is not a valid skin</source>
         <translation>URLのスキンは有効ではありません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="393"></location>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
         <translation>スキン画像は64x64または64x32ピクセルのPNGファイルでなければなりません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="394"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="394"></location>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
         <translation>スキンをダウンロードできません：&apos;%1&apos;。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="440"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="440"></location>
         <source>Download user skin</source>
         <translation>ユーザーのスキンをダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="458"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="458"></location>
         <source>failed to get user UUID</source>
         <translation>ユーザーのUUIDの取得に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="465"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="465"></location>
         <source>failed to get user profile</source>
         <translation>ユーザープロファイルの取得に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="469"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="469"></location>
         <source>failed to download skin</source>
         <translation>スキンのダウンロードに失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="479"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="493"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="479"></location>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="493"></location>
         <source>failed to parse get user UUID response</source>
         <translation>取得したユーザーUUIDのレスポンスの解析に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="488"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="488"></location>
         <source>user id is empty</source>
         <translation>ユーザーIDが空です</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="502"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="502"></location>
         <source>failed to parse get user profile response</source>
         <translation>取得したユーザープロファイルのレスポンスの解析に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="519"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="519"></location>
         <source>the skin is invalid</source>
         <translation>スキンが無効です</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="521"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="521"></location>
         <source>Username not found</source>
         <oldsource>Usename not found</oldsource>
         <translation>ユーザー名が見つかりません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="522"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="522"></location>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
         <translation>「%1」のスキンが見つかりませんでした。
@@ -14760,7 +14760,7 @@ Are you sure?</source>
 <context>
     <name>SkinUpload</name>
     <message>
-        <location filename="src/launcher/minecraft/skins/SkinUpload.cpp" line="66"/>
+        <location filename="src/launcher/minecraft/skins/SkinUpload.cpp" line="66"></location>
         <source>Uploading skin</source>
         <translation>スキンをアップロード</translation>
     </message>
@@ -14831,17 +14831,17 @@ Are you sure?</source>
 <context>
     <name>SubTaskProgressBar</name>
     <message>
-        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="20"/>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="20"></location>
         <source>Form</source>
         <translation>フォーム</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"></location>
         <source>Sub Task Status...</source>
         <translation>サブタスクの状態…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="69"/>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="69"></location>
         <source>Status Details</source>
         <translation>状態の詳細</translation>
     </message>
@@ -14872,12 +14872,12 @@ Are you sure?</source>
 <context>
     <name>TaskStepWrapper</name>
     <message>
-        <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
+        <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"></location>
         <source>Task aborted.</source>
         <translation>タスクは中断されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="44"/>
+        <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="44"></location>
         <source>Instance update failed because: %1
 
 </source>
@@ -14889,39 +14889,39 @@ Are you sure?</source>
 <context>
     <name>Technic::SingleZipPackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="44"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="44"></location>
         <source>Downloading modpack:
 %1</source>
         <translation>Modパックをダウンロード中：
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="49"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="49"></location>
         <source>Modpack download</source>
         <translation>Modパックのダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="64"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="64"></location>
         <source>Extracting modpack</source>
         <translation>Modパックを展開中</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="71"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="71"></location>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>指定されたModパックのzipファイルを開けませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="99"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="99"></location>
         <source>Failed to extract modpack</source>
         <translation>Modパックの展開に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="120"></location>
         <source>Could not fix permissions for %1</source>
         <translation>%1 のパーミッションを修正できませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="135"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="135"></location>
         <source>Instance import has been aborted.</source>
         <translation>起動構成のインポートが中断されました。</translation>
     </message>
@@ -14945,8 +14945,8 @@ Are you sure?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="71"/>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="73"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="71"></location>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="73"></location>
         <source>Resolving modpack files</source>
         <translation>Modパックのファイルを解決中</translation>
     </message>
@@ -14955,35 +14955,35 @@ Are you sure?</source>
         <translation type="vanished">Modパックをダウンロード中:</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="86"/>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="109"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="86"></location>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="109"></location>
         <source>Downloading modpack</source>
         <translation>Modパックをダウンロード中</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"></location>
         <source>Could not understand pack manifest:
 </source>
         <translation>パックのマニフェストを解釈できませんでした：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="138"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="138"></location>
         <source>Extracting modpack</source>
         <translation>Modパックを展開中</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="181"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="181"></location>
         <source>Failed to extract modpack</source>
         <translation>Modパックの展開に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="202"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="202"></location>
         <source>Could not fix permissions for %1</source>
         <translation>%1 のパーミッションを修正できませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="217"></location>
         <source>Instance import has been aborted.</source>
         <translation>起動構成のインポートが中断されました。</translation>
     </message>
@@ -14991,34 +14991,34 @@ Are you sure?</source>
 <context>
     <name>Technic::TechnicPackProcessor</name>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="58"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="58"></location>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
         <translation>&quot;bin/modpack.jar&quot; ファイルを開けません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="67"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="67"></location>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
         <translation>&quot;fmlversion.properties&quot; を開けません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="129"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"></location>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="129"></location>
         <source>Unable to open &quot;version.json&quot;!</source>
         <translation>&quot;version.json&quot; を開けません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="87"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="87"></location>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
         <translation>&quot;bin/modpack.jar&quot; 内に &quot;version.json&quot; が見つからない上、Minecraft のバージョンが不明です</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="101"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="101"></location>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
         <translation>&quot;forgeversion.properties&quot; を開けませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="115"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="115"></location>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
         <translation>&quot;forgeversion.properties&quot; が無効です！</translation>
     </message>
@@ -15027,14 +15027,14 @@ Are you sure?</source>
         <translation type="vanished">&quot;version.json&quot; が見つかりませんでした!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="148"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="148"></location>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
         <translation>&quot;version.json&quot; を解釈できませんでした：
 継承が正しくありません</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="204"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="204"></location>
         <source>Could not understand &quot;version.json&quot;:
 </source>
         <translation>&quot;version.json&quot; を解釈できませんでした：
@@ -15044,12 +15044,12 @@ inheritsFrom is missing</source>
 <context>
     <name>TechnicPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="66"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="66"></location>
         <source>Version selected:</source>
         <translation>バージョンの選択：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"></location>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
         <translation>検索とフィルター...</translation>
@@ -15059,13 +15059,13 @@ inheritsFrom is missing</source>
         <translation type="vanished">検索</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="215"/>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="267"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="215"></location>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="267"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="233"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="233"></location>
         <source> by </source>
         <translation> 作者： </translation>
     </message>
@@ -15077,13 +15077,13 @@ inheritsFrom is missing</source>
 <context>
     <name>TexturePackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"></location>
         <source>Is the texture pack enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>テクスチャーパックが有効になっているか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"></location>
         <source>The name of the texture pack.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>テクスチャーパックの名前。</translation>
@@ -15093,43 +15093,43 @@ inheritsFrom is missing</source>
         <translation type="vanished">テクスチャパックのバージョンです。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"></location>
         <source>The date and time this texture pack was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>テクスチャーパックが最後に変更または追加された日時。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"></location>
         <source>Enable</source>
         <translation>有効</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"></location>
         <source>Image</source>
         <translation>画像</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"></location>
         <source>Name</source>
         <translation>名前</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"></location>
         <source>Last Modified</source>
         <translation>更新日時</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"></location>
         <source>Size</source>
         <translation>サイズ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"></location>
         <source>Provider</source>
         <translation>提供元</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="87"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="87"></location>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -15138,19 +15138,19 @@ Canonical Path: %1</source>
 絶対パス：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="94"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="94"></location>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 警告：このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"></location>
         <source>The source provider of the texture pack.</source>
         <translation>テクスチャーパックの提供元。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="148"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="148"></location>
         <source>The size of the texture pack.</source>
         <translation>テクスチャーパックのサイズ。</translation>
     </message>
@@ -15173,7 +15173,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 <context>
     <name>TexturePackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="53"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="53"></location>
         <source>Texture packs</source>
         <translation>テクスチャーパック</translation>
     </message>
@@ -15186,76 +15186,76 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>オンライン プラットフォームからテクスチャーパックをダウンロードします</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"></location>
         <source>Download Packs</source>
         <translation>パックをダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"></location>
         <source>Download texture packs from online mod platforms</source>
         <translation>オンラインのModプラットフォームから、テクスチャパックをダウンロードします</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="59"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="59"></location>
         <source>Try to check or update all selected texture packs (all texture packs if none are selected)</source>
         <translation>選択したすべてのテクスチャーパックのアップデートを確認します（未選択の場合はすべて）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="73"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="73"></location>
         <source>Change a texture pack&apos;s version.</source>
         <translation>テクスチャーパックのバージョンを変更します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="77"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="77"></location>
         <source>View the homepages of all selected texture packs.</source>
         <translation>選択したすべてのテクスチャーパックのホームページを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="104"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="144"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="189"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="104"></location>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="144"></location>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="189"></location>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="243"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"></location>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"></location>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="193"></location>
         <source>Aborted</source>
         <translation>中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"></location>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="193"></location>
         <source>Download stopped by user.</source>
         <translation>ダウンロードがユーザーにより中止されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="114"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="199"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="114"></location>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="199"></location>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="128"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="128"></location>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="209"></location>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="144"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="144"></location>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="243"></location>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
         <translation>メタデータが無効化されているため、テクスチャパックのアップデートは利用できません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="149"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="149"></location>
         <source>Confirm Update</source>
         <translation>アップデートの確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="150"></location>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -15264,37 +15264,37 @@ Are you sure you want to do this?</source>
 本当に実行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"></location>
         <source>The texture pack updater was aborted!</source>
         <translation>テクスチャーパックのアップデートが中断されました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="174"></location>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>「%1」は最新です！ :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="177"></location>
         <source>All texture packs are up-to-date! :)</source>
         <translation>すべてのテクスチャーパックは最新です！ :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="179"></location>
         <source>All selected texture packs are up-to-date! :)</source>
         <translation>選択されたすべてのテクスチャーパックは最新です！ :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"></location>
         <source>Update checker</source>
         <translation>アップデート確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="223"></location>
         <source>Confirm Removal</source>
         <translation>削除の確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="224"></location>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
         <translation>%1 個のテクスチャーパックのメタデータを削除しようとしています。
@@ -15363,12 +15363,12 @@ Are you sure?</source>
         <translation>猫が背景に表示されますが、特に理由や機能はありません。見た目だけです。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"></location>
         <source>Appearance</source>
         <translation>外観</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"></location>
         <source>Select theme and icons to use</source>
         <translation>使用するテーマとアイコンを選択</translation>
     </message>
@@ -15376,7 +15376,7 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="375"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="375"></location>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -15387,22 +15387,22 @@ Are you sure?</source>
 全体 %4</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="391"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="391"></location>
         <source>Language</source>
         <translation>言語</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"></location>
         <source>Completeness</source>
         <translation>完成度</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"></location>
         <source>The native language name.</source>
         <translation>母国語での言語名。</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"></location>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>完成度は、完全に翻訳された文字列の割合です。自動的に推測されて要確認になっている文字列は含まれません。</translation>
     </message>
@@ -15425,43 +15425,43 @@ Are you sure?</source>
 <context>
     <name>UpdateAvailableDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="14"/>
+        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="14"></location>
         <source>Update Available</source>
         <translation>アップデートが利用可能</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="73"/>
+        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="73"></location>
         <source>A new version is available!</source>
         <translation>新しいバージョンが利用可能です！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
-        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="43"/>
+        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"></location>
+        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="43"></location>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
         <translation>バージョン %1 が利用可能になりました。現在のバージョンは %2 です。今すぐダウンロードしますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
+        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"></location>
         <source>Release Notes:</source>
         <translation>リリースノート：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
+        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"></location>
         <source>Skip This Version</source>
         <translation>このバージョンをスキップ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="129"/>
+        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="129"></location>
         <source>Remind Me Later</source>
         <translation>また後で</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="142"/>
+        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="142"></location>
         <source>Install Update</source>
         <translation>アップデートをインストール</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="41"/>
+        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="41"></location>
         <source>A new version of %1 is available!</source>
         <translation>新しいバージョンの%1が利用可能です！</translation>
     </message>
@@ -15505,7 +15505,7 @@ Are you sure?</source>
 <context>
     <name>VanillaCreationTask</name>
     <message>
-        <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="20"/>
+        <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="20"></location>
         <source>Creating instance from version %1</source>
         <translation>バージョン %1 から起動構成を作成中</translation>
     </message>
@@ -15596,7 +15596,7 @@ Are you sure?</source>
         <translation type="vanished">Minecraft 17w13a以降では、Java 8 を使用する必要があります</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="58"/>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="58"></location>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
@@ -15605,24 +15605,24 @@ The instance may not start due to this.</source>
 このため、起動構成が起動しない可能性があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"></location>
         <source>Java major version is incompatible. Things might break.</source>
         <translation>Javaのメジャーバージョンに互換性がありません。正常に動作しない場合があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"></location>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
         <translation>この起動構成は Java バージョン %1 と互換性がありません。
 この起動構成を次の Java バージョンのいずれかに切り替えてください：</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="84"/>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="84"></location>
         <source>Java version %1</source>
         <translation>Java バージョン %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"></location>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
         <translation>起動構成のJava設定から、Javaのバージョンを変更してください。あなたがJavaについて十分理解している場合は、Javaの互換性チェックを無効にすることも可能です。</translation>
     </message>
@@ -15630,7 +15630,7 @@ Please switch to one of the following Java versions for this instance:</source>
 <context>
     <name>VersionListView</name>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="46"/>
+        <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="46"></location>
         <source>No versions are currently available.</source>
         <translation>現在利用可能なバージョンがありません。</translation>
     </message>
@@ -15638,12 +15638,12 @@ Please switch to one of the following Java versions for this instance:</source>
 <context>
     <name>VersionPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="53"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="53"></location>
         <source>Filter:</source>
         <translation>フィルター：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="75"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="75"></location>
         <source>Actions</source>
         <translation>アクション</translation>
     </message>
@@ -15672,7 +15672,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <translation type="vanished">選択したパッケージが後に適用されるようにします.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="139"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="139"></location>
         <source>Remove</source>
         <translation>削除</translation>
     </message>
@@ -15681,7 +15681,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <translation type="vanished">選択したパッケージを起動構成から削除します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="147"></location>
         <source>Customize</source>
         <translation>カスタマイズ</translation>
     </message>
@@ -15690,7 +15690,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <translation type="vanished">選択したパッケージをカスタマイズ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="155"></location>
         <source>Edit</source>
         <translation>編集</translation>
     </message>
@@ -15699,7 +15699,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <translation type="vanished">選択したパッケージを編集します.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="163"></location>
         <source>Revert</source>
         <translation>リセット</translation>
     </message>
@@ -15748,32 +15748,32 @@ Please switch to one of the following Java versions for this instance:</source>
         <translation type="vanished">普通のMod (Forge Mod) を導入.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"></location>
         <source>Add to Minecraft.jar</source>
         <translation>minecraft.jarに追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"></location>
         <source>Add a mod into the Minecraft jar file.</source>
         <translation>minecraft.jar を直接編集する Mod を導入します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"></location>
         <source>Replace Minecraft.jar</source>
         <translation>minecraft.jarを置換</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"></location>
         <source>Add Agents</source>
         <translation>エージェントの追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="195"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="195"></location>
         <source>Add Java agents.</source>
         <translation>Java エージェントを追加します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="200"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="200"></location>
         <source>Add Empty</source>
         <translation>空のパッケージを追加</translation>
     </message>
@@ -15782,7 +15782,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <translation type="vanished">空のカスタムパッケージを追加します.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"></location>
         <source>Reload</source>
         <translation>再読み込み</translation>
     </message>
@@ -15795,163 +15795,163 @@ Please switch to one of the following Java versions for this instance:</source>
         <translation type="vanished">全てダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="115"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="115"></location>
         <source>Change Version</source>
         <translation>バージョンを変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="118"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="118"></location>
         <source>Change version of the selected component.</source>
         <translation>選択したコンポーネントのバージョンを変更します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"></location>
         <source>Move Up</source>
         <translation>上へ移動</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"></location>
         <source>Make the selected component apply sooner.</source>
         <translation>選択したコンポーネントを先に読み込みます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"></location>
         <source>Move Down</source>
         <translation>下へ移動</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"></location>
         <source>Make the selected component apply later.</source>
         <translation>選択したコンポーネントを後に読み込みます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"></location>
         <source>Remove selected component from the instance.</source>
         <translation>選択したコンポーネントを起動構成から削除します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"></location>
         <source>Customize selected component.</source>
         <translation>選択したコンポーネントを編集可能にします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"></location>
         <source>Edit selected component.</source>
         <translation>選択したコンポーネントを編集します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"></location>
         <source>Revert the selected component to default.</source>
         <translation>選択したコンポーネントを元に戻します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"></location>
         <source>Install Loader</source>
         <translation>Modローダーをインストール</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"></location>
         <source>Install a mod loader.</source>
         <translation>Modローダーをインストールします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"></location>
         <source>Add an empty custom component.</source>
         <translation>空のコンポーネントを追加します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"></location>
         <source>Reload all components.</source>
         <translation>すべてのコンポーネントを再読み込みします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="216"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="216"></location>
         <source>Download all</source>
         <translation>すべてダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"></location>
         <source>Download the files needed to launch the instance now.</source>
         <translation>起動構成の起動に必要なすべてのファイルをダウンロードします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"></location>
         <source>Open .minecraft</source>
         <translation>.minecraftを開く</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="227"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="227"></location>
         <source>Open the instance&apos;s .minecraft folder.</source>
         <translation>起動構成の .minecraft フォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"></location>
         <source>Open libraries</source>
         <translation>librariesを開く</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"></location>
         <source>Open the instance&apos;s local libraries folder.</source>
         <translation>起動構成のローカル libraries フォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"></location>
         <source>Import Components</source>
         <translation>コンポーネントのインポート</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="243"></location>
         <source>Import existing component JSON files.</source>
         <translation>既存のコンポーネント JSON ファイルをインポートします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="189"></location>
         <source>Context menu</source>
         <translation>コンテキストメニュー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="205"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="205"></location>
         <source>%1 possibly has issues.</source>
         <translation>%1 に問題がある可能性があります.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="208"></location>
         <source>%1 has issues!</source>
         <translation>%1 に問題があります！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="220"></location>
         <source>Error: </source>
         <translation>エラー： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="222"></location>
         <source>Warning: </source>
         <translation>警告： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="254"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="258"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="351"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="361"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="254"></location>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="258"></location>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"></location>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"></location>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="351"></location>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="361"></location>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"></location>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>起動構成のプロファイルを読み込めませんでした.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"></location>
         <source>Confirm Removal</source>
         <translation>削除の確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="281"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="281"></location>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and will completely remove the custom component.
 
@@ -15962,27 +15962,27 @@ Are you sure?</source>
 本当によろしいですか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"></location>
         <source>Couldn&apos;t remove file</source>
         <translation>ファイルを削除できませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"></location>
         <source>Select jar mods</source>
         <translation>Jar Modを選んでください</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"></location>
         <source>Minecraft.jar mods</source>
         <translation>minecraft.jarのMod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"></location>
         <source>Minecraft.jar replacement</source>
         <translation>minecraft.jarの置き換え</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"></location>
         <source>Java agents</source>
         <translation>Javaエージェント</translation>
     </message>
@@ -15991,7 +15991,7 @@ Are you sure?</source>
         <translation type="vanished">MinecraftのJar Mod (*.zip *.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"></location>
         <source>Select jar</source>
         <translation>Jarファイルを選択</translation>
     </message>
@@ -16000,27 +16000,27 @@ Are you sure?</source>
         <translation type="vanished">Minecraft.jarの置き換え (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="322"></location>
         <source>Select components</source>
         <translation>コンポーネントを選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="322"></location>
         <source>Components</source>
         <translation>コンポーネント</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"></location>
         <source>Failed to import components</source>
         <translation>コンポーネントのインポートに失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="328"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="328"></location>
         <source>Some components could not be imported. Check logs for details</source>
         <translation>一部のコンポーネントをインポートできませんでした。詳細についてはログを確認してください</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"></location>
         <source>Select agents</source>
         <translation>エージェントを選択</translation>
     </message>
@@ -16029,22 +16029,22 @@ Are you sure?</source>
         <translation type="vanished">Java エージェント (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="394"></location>
         <source>Change %1 version</source>
         <translation>%1のバージョンを変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="396"></location>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>現在利用可能な Intermediary Mappings のバージョンはありません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"></location>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>Intermediary Mappingsのバージョンリストの読み込みまたはダウンロードができませんでした！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="427"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="427"></location>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -16053,12 +16053,12 @@ Please add your Microsoft or Mojang account.</oldsource>
 Microsoftアカウントを追加してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="567"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="567"></location>
         <source>Confirm Reversion</source>
         <translation>元に戻す確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="568"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="568"></location>
         <source>You are about to revert &quot;%1&quot;.
 This is permanent and will completely revert your customizations.
 
@@ -16125,12 +16125,12 @@ Please add your Mojang or Minecraft account.</oldsource>
         <translation type="vanished">LiteLoaderのバージョンリストが読み込めませんでした!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="507"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="507"></location>
         <source>Error updating instance</source>
         <translation>起動構成のアップデート中にエラーが発生しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="60"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="60"></location>
         <source>Version</source>
         <translation>バージョン</translation>
     </message>
@@ -16138,109 +16138,109 @@ Please add your Mojang or Minecraft account.</oldsource>
 <context>
     <name>VersionProxyModel</name>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="110"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="110"></location>
         <source>Version</source>
         <translation>バージョン</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="112"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="112"></location>
         <source>Minecraft</source>
         <translation>Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="114"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="114"></location>
         <source>Branch</source>
         <translation>ブランチ</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="116"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="116"></location>
         <source>Type</source>
         <translation>タイプ</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="118"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="118"></location>
         <source>Architecture</source>
         <translation>アーキテクチャ</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="120"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="120"></location>
         <source>Path</source>
         <translation>パス</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="122"></location>
         <source>Java Name</source>
         <translation>Javaの名前</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="124"></location>
         <source>Major Version</source>
         <translation>メジャーバージョン</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="126"></location>
         <source>Released</source>
         <translation>リリース</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="131"></location>
         <source>The name of the version.</source>
         <translation>バージョン名。</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="133"></location>
         <source>Minecraft version</source>
         <translation>Minecraftのバージョン</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="135"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="135"></location>
         <source>The version&apos;s branch</source>
         <translation>バージョンのブランチ</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="137"></location>
         <source>The version&apos;s type</source>
         <translation>バージョンのタイプ</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="139"></location>
         <source>CPU Architecture</source>
         <translation>CPUアーキテクチャ</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="141"></location>
         <source>Filesystem path to this version</source>
         <translation>そのバージョンのファイルパス</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="143"></location>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
         <translation>Javaバージョンの別名</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="145"></location>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
         <translation>Javaのメジャーバージョン</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="147"></location>
         <source>Release date of this version</source>
         <translation>バージョンのリリース日</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="166"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="166"></location>
         <source>%1 (installed)</source>
         <translation>%1 (インストール済み)</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="194"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="194"></location>
         <source>Recommended</source>
         <translation>推奨</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="198"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="198"></location>
         <source>Latest</source>
         <translation>最新</translation>
     </message>
@@ -16248,27 +16248,27 @@ Please add your Mojang or Minecraft account.</oldsource>
 <context>
     <name>VersionSelectDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
+        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"></location>
         <source>Ok</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
+        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"></location>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
+        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"></location>
         <source>Choose Version</source>
         <translation>バージョンを選択してください</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="99"/>
+        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="99"></location>
         <source>Reloads the version list.</source>
         <translation>バージョンリストを再読み込みします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="100"/>
+        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="100"></location>
         <source>&amp;Refresh</source>
         <translation>再読み込み(&amp;R)</translation>
     </message>
@@ -16276,17 +16276,17 @@ Please add your Mojang or Minecraft account.</oldsource>
 <context>
     <name>VersionSelectWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"></location>
         <source>Search</source>
         <translation>検索</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"></location>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"></location>
         <source>List update failed:
 %1</source>
         <translation>リストの更新に失敗しました：
@@ -16296,12 +16296,12 @@ Please add your Mojang or Minecraft account.</oldsource>
 <context>
     <name>ViewLogWindow</name>
     <message>
-        <location filename="src/launcher/ui/ViewLogWindow.cpp" line="8"/>
+        <location filename="src/launcher/ui/ViewLogWindow.cpp" line="8"></location>
         <source>Launcher Logs</source>
         <translation>ランチャーのログ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/ViewLogWindow.cpp" line="12"/>
+        <location filename="src/launcher/ui/ViewLogWindow.cpp" line="12"></location>
         <source>View Launcher Logs</source>
         <translation>ランチャーのログを表示</translation>
     </message>
@@ -16309,7 +16309,7 @@ Please add your Mojang or Minecraft account.</oldsource>
 <context>
     <name>WideBar</name>
     <message>
-        <location filename="src/launcher/ui/widgets/WideBar.cpp" line="220"/>
+        <location filename="src/launcher/ui/widgets/WideBar.cpp" line="220"></location>
         <source>Customize toolbar actions</source>
         <translation>ツールバーのアクションをカスタマイズする</translation>
     </message>
@@ -16317,78 +16317,78 @@ Please add your Mojang or Minecraft account.</oldsource>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="202"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="202"></location>
         <source>This world is symbolically linked from elsewhere.</source>
         <translation>このワールドは他の場所からシンボリックリンクされています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="205"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="205"></location>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
 このワールドは他の場所とハードリンクされています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="220"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="220"></location>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>警告：このワールドは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
 絶対パス：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="225"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="225"></location>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>警告：このワールドは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="262"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="262"></location>
         <source>Name</source>
         <translation>名前</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="264"></location>
         <source>Game Mode</source>
         <translation>ゲームモード</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="266"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="266"></location>
         <source>Last Played</source>
         <translation>最後のプレイ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="269"></location>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation>サイズ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="272"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="272"></location>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
         <translation>情報</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="280"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="280"></location>
         <source>The name of the world.</source>
         <translation>ワールドの名前。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="282"></location>
         <source>Game mode of the world.</source>
         <translation>ワールドのゲームモード。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="284"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="284"></location>
         <source>Date and time the world was last played.</source>
         <translation>ワールドが最後にプレイされた日時。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="286"></location>
         <source>Size of the world on disk.</source>
         <translation>ディスク上のワールドのサイズ。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="288"></location>
         <source>Information and warnings about the world.</source>
         <translation>ワールドに関する情報と警告。</translation>
     </message>
@@ -16396,27 +16396,27 @@ Canonical Path: %1</source>
 <context>
     <name>WorldListPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="65"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="65"></location>
         <source>Actions</source>
         <translation>アクション</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="98"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="98"></location>
         <source>Add</source>
         <translation>追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"></location>
         <source>Join</source>
         <translation>参加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"></location>
         <source>Rename</source>
         <translation>名前を変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="113"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="113"></location>
         <source>Copy</source>
         <translation>コピー</translation>
     </message>
@@ -16425,47 +16425,47 @@ Canonical Path: %1</source>
         <translation type="vanished">削除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="118"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="118"></location>
         <source>Delete</source>
         <translation>削除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="123"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="123"></location>
         <source>MCEdit</source>
         <translation>MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="128"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="128"></location>
         <source>Copy Seed</source>
         <translation>シード値をコピー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="133"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="133"></location>
         <source>Refresh</source>
         <translation>再読み込み</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="138"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="138"></location>
         <source>View Folder</source>
         <translation>フォルダーを開く</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="143"></location>
         <source>Reset Icon</source>
         <translation>アイコンをリセット</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="146"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="146"></location>
         <source>Remove world icon to make the game re-generate it on next load.</source>
         <translation>ワールドのアイコンを削除し、次回の読み込み時に再生成させます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"></location>
         <source>Data Packs</source>
         <translation>データパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"></location>
         <source>Manage data packs inside the world.</source>
         <translation>ワールド内のデータパックを管理します。</translation>
     </message>
@@ -16478,12 +16478,12 @@ Canonical Path: %1</source>
         <translation>ワールド内のデータパックを管理します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="59"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="59"></location>
         <source>Worlds</source>
         <translation>ワールド</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="146"></location>
         <source>Context menu</source>
         <translation>コンテキストメニュー</translation>
     </message>
@@ -16506,63 +16506,63 @@ Do you want to continue?</source>
         <translation>ワールド データパック フォルダを開く</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"></location>
         <source>Open World in MCEdit</source>
         <translation>MCEditでワールドを開く</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="335"></location>
         <source>No MCEdit found or set up!</source>
         <translation>MCEditが見つからないか未設定です！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="336"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="336"></location>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>MCEditが設定されていないか、移動されたようです。
 グローバル設定で設定してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="342"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="342"></location>
         <source>MCEdit failed to start!</source>
         <translation>MCEditの起動に失敗しました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="343"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="343"></location>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>MCEditの起動に失敗しました。
 MCEditの再インストールが必要なようです。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"></location>
         <source>Select a Minecraft world zip</source>
         <translation>Minecraftのワールドを選択</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"></location>
         <source>Minecraft World Zip File</source>
         <translation>MinecraftのワールドのZipファイル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="429"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="429"></location>
         <source>Copy World</source>
         <translation>ワールドをコピー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="414"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="414"></location>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Minecraftの実行中にワールドに変更を加えるのは、安全でない可能性があります。
 本当に続行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="195"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="195"></location>
         <source>Confirm Deletion</source>
         <translation>削除の確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="196"></location>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -16573,33 +16573,33 @@ Are you sure?</source>
 本当に削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="224"></location>
         <source>Manage Data Packs</source>
         <translation>データパックを管理</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="231"></location>
         <source>Data packs for %1</source>
         <translation>%1のデータパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"></location>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"></location>
         <source>World name</source>
         <translation>ワールド名</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"></location>
         <source>Enter a new name for the copy.</source>
         <translation>コピーの新しいワールド名を入力してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="450"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="450"></location>
         <source>Rename World</source>
         <translation>ワールドの名前を変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"></location>
         <source>Enter a new world name.</source>
         <translation>新しいワールド名を入力してください。</translation>
     </message>
@@ -16607,63 +16607,63 @@ Are you sure?</source>
 <context>
     <name>XboxAuthorizationStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"></location>
         <source>Getting authorization to access %1 services.</source>
         <translation>%1 サービスにアクセスするための承認を取得しています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="66"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="66"></location>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation>%1 サービスの認証を取得できませんでした。エラー %2。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="69"></location>
         <source>Unknown STS error for %1 services: %2</source>
         <translation>%1 サービスの不明な STS エラー：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="73"></location>
         <source>Failed to get authorization for %1 services: %2</source>
         <translation>%1 サービスの認証を取得できませんでした：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="81"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="81"></location>
         <source>Could not parse authorization response for access to %1 services.</source>
         <translation>%1 サービスにアクセスするための認証レスポンスを解析できませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="87"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="87"></location>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
         <translation>サーバーは、応答で %1 ユーザー認証ハッシュを変更しました。なにか問題があるようです。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"></location>
         <source>Got authorization to access %1</source>
         <translation>%1 にアクセスする権限を取得しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="104"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="104"></location>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
         <translation>%1 認証エラーレスポンスをJSONとして解析できません：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="112"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="112"></location>
         <source>XErr element is missing from %1 authorization error response.</source>
         <translation>%1 認証エラーレスポンスにXErr要素がありません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"></location>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
         <translation>この Microsoft アカウントには XBox Live プロフィールがありません。最初に %1 でゲームを購入してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"></location>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
         <translation>XBox Live は、お住まいの国ではご利用いただけません。あなたはブロックされています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"></location>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
@@ -16672,32 +16672,32 @@ Please set up your account according to %1.</source>
 %1 に従ってアカウントを設定してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="137"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="137"></location>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
         <translation>このMicrosoftアカウントでプレイするには年齢の証明が必要です。年齢を証明するには %1 にログインしてください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="142"></location>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
         <translation>このMicrosoftアカウントはプレイ時間の上限に達しました。このMicrosoftアカウントへのログインはブロックされています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="146"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="146"></location>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
         <translation>このMicrosoftアカウントはXboxのコミュニティ基準に1つ以上違反したため、Xboxによって停止されており、使用できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="152"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="152"></location>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
         <translation>このMicrosoftアカウントは現在制限されており、保護者がオンラインプレイの許可を与えていません。%1 にログインして、保護者に許可を変更してもらってください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="159"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="159"></location>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
         <translation>このMicrosoftアカウントはXboxの利用規約に同意していません。ログインして同意してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="164"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="164"></location>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
@@ -16709,18 +16709,18 @@ Please set up your account according to %1.</source>
 <context>
     <name>XboxProfileStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="15"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="15"></location>
         <source>Fetching Xbox profile.</source>
         <translation>Xbox プロフィールを取得しています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="56"/>
-        <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="58"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="56"></location>
+        <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="58"></location>
         <source>Failed to retrieve the Xbox profile: %1</source>
         <translation>Xbox プロフィールの取得に失敗しました：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="65"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="65"></location>
         <source>Got Xbox profile</source>
         <translation>Xbox プロフィールを取得しました</translation>
     </message>
@@ -16728,23 +16728,23 @@ Please set up your account according to %1.</source>
 <context>
     <name>XboxUserStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="14"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="14"></location>
         <source>Logging in as an Xbox user.</source>
         <translation>Xbox ユーザーとしてログインします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"></location>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"></location>
         <source>XBox user authentication failed: %1</source>
         <translation>XBox ユーザー認証に失敗しました：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"></location>
         <source>XBox user authentication response could not be understood.</source>
         <translation>XBoxユーザー認証のレスポンスを解析できませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"></location>
         <source>Got Xbox user token</source>
         <translation>Xbox ユーザー トークンを取得しました</translation>
     </message>
