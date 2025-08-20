@@ -340,7 +340,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"></location>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Tek seferde Minecraft&apos;ın birden fazla profiline sahip olmanıza izin vererek, Minecraft&apos;ı daha kolay yönetmenizi sağlayan özelleştirilmiş bir başlatıcı.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Tek seferde Minecraft&apos;ta birden fazla profile sahip olmanıza izin vererek, Minecraft&apos;ı daha kolay yönetmenizi sağlayan özelleştirilmiş bir başlatıcı.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"></location>
@@ -1506,7 +1506,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"></location>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Yapılandırılmış genel modlar klasörünüz ve varsayılan indirme klasörünüz, indirilen modlar için otomatik olarak kontrol edilir ve bulunursa örneğe kopyalanır.&lt;/p&gt;&lt;p&gt;İsterseniz, indirilen modları bu pencereye sürükleyip bırakabilir veya modları varsayılan konuma indirmediyseniz izlemek üzere bir klasör ekleyebilirsiniz.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Tüm indirme bağlantılarını tarayıcıda açmak için &apos;Eksikleri Aç&apos; butonuna tıklayın.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Yapılandırılmış genel modlar klasörünüz ve varsayılan indirme klasörünüz, indirilen modlar için otomatik olarak kontrol edilir ve bulunursa profile kopyalanır.&lt;/p&gt;&lt;p&gt;İsterseniz, indirilen modları bu pencereye sürükleyip bırakabilir veya modları varsayılan konuma indirmediyseniz izlemek üzere bir klasör ekleyebilirsiniz.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Tüm indirme bağlantılarını tarayıcıda açmak için &apos;Eksikleri Aç&apos; butonuna tıklayın.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"></location>
@@ -1923,7 +1923,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"></location>
         <source>Create Instance Shortcut</source>
-        <translation>Örnek Kısayolu Oluştur</translation>
+        <translation>Profil Kısayolu Oluştur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"></location>
@@ -1979,7 +1979,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"></location>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation>Not: Eğer bir kısayol yaratıldıktan sonra taşınırsa, örneği silerken silinmeyecektir.</translation>
+        <translation>Not: Bir kısayol oluşturulduktan sonra taşınırsa, profil silinirken silinmez.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"></location>
@@ -2024,7 +2024,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="197"></location>
         <source>instance</source>
-        <translation>örnek</translation>
+        <translation>profil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="201"></location>
@@ -2899,7 +2899,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="212"></location>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation>Bu, modların meta verilerine bağlıdır. Kullanılabilir olduğundan emin olmak için örnek üzerinde bir güncelleme çalıştırın. Güncellemeleri yüklemek gerekli değildir.</translation>
+        <translation>Bu, modların meta verilerine bağlıdır. Kullanılabilir olduğundan emin olmak için profil üzerinde bir güncelleme çalıştırın. Güncellemeleri yüklemek gerekli değildir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="226"></location>
@@ -3458,12 +3458,12 @@ Lütfen tekrar deneyin.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"></location>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="63"></location>
         <source>Select FTBApp instances directory</source>
-        <translation>FTB uygulamasının kurulumlarının bulunduğu klasörü seçin</translation>
+        <translation>FTB uygulamasının profillerinin bulunduğu klasörü seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"></location>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Not: Eğer FTB kurulumları varsayılan konumda değilse, arama tuşunun yanında ki düğmeye basarak seçin.</translation>
+        <translation>Not: Eğer FTB profilleri varsayılan konumda değilse, arama tuşunun yanında ki düğmeye basarak seçin.</translation>
     </message>
 </context>
 <context>
@@ -4484,7 +4484,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="149"></location>
         <source>Attempting to determine instance type</source>
-        <translation>Örnek türü belirlenmeye çalışılıyor</translation>
+        <translation>Profil türü belirlenmeye çalışılıyor</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="186"></location>
@@ -4664,7 +4664,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Eğer açılırsa, başlatıcı bir oturumun seçili Java sürümüyle uyumlu olup olmadığına bakmaz.</translation>
+        <translation>Eğer açılırsa, başlatıcı bir profilin seçili Java sürümüyle uyumlu olup olmadığına bakmaz.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
@@ -4977,7 +4977,7 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"></location>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Başlamak için &quot;Profil Ekle &quot;ye tıklayın.</translation>
+        <translation>Başlamak için &quot;Profil Ekle&quot;ye tıklayın.</translation>
     </message>
 </context>
 <context>
@@ -5255,7 +5255,7 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation>Gerekli ana sürüme göre şu anki Minecraft örneğiyle uyumlu olan bir Java sürümünü otomatik olarak seçer.</translation>
+        <translation>Gerekli ana sürüme göre şu anki Minecraft profiliyle uyumlu olan bir Java sürümünü otomatik olarak seçer.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
@@ -5331,7 +5331,7 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Eğer açılırsa, başlatıcı bir oturumun seçili Java sürümüyle uyumlu olup olmadığına bakmaz.</translation>
+        <translation>Eğer aktifleştirilirse, başlatıcı bir profilin seçili Java sürümüyle uyumlu olup olmadığına bakmaz.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
@@ -5532,7 +5532,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"></location>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Eğer açılırsa, Prism Launcher bir oturumun seçili Java sürümüyle uyumlu olup olmadığına bakmaz.</translation>
+        <translation>Eğer aktifleştirilirse, Prism Launcher bir profilin seçili Java sürümüyle uyumlu olup olmadığına bakmaz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"></location>
@@ -5874,7 +5874,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="70"></location>
         <source>No instance specified!</source>
-        <translation>Belirtilen profil yok!</translation>
+        <translation>Profil belirtilmemiş!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"></location>
@@ -6199,7 +6199,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="105"></location>
         <source>Instance Renaming</source>
-        <translation>Profil Yeniden Adlandırılması</translation>
+        <translation>Profil Yeniden Adlandırma</translation>
     </message>
     <message>
         <source>Ask what to do with the folder</source>
@@ -6469,7 +6469,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>Yeni bir mod paketi örneği oluştururken, bunun yerine mevcut örneklerin güncellenmesini önermeyin.</translation>
+        <translation>Yeni bir mod paketi profili oluştururken, bunun yerine mevcut profillerin güncellenmesini önermeyin.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
@@ -6665,7 +6665,7 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation>Flatpak tarafından geçici olarak izin alan bir oturum dosyasını belirtmeye çalışıyosunuz.
+        <translation>Flatpak tarafından geçici olarak izin alan bir profil dosyasını belirtmeye çalışıyosunuz.
 Bunun problemlere yol açtığı bilinmekte. Yeniden başlatmadan sonra başlatıcı bozulabilir çünkü artık ordaki klasör yoluna izni olmayacak.
 
 Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
@@ -7549,7 +7549,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="534"></location>
         <source>Open the instances folder in a file browser.</source>
-        <translation>Profiller klasörünü bir dosya tarayıcısında açın.</translation>
+        <translation>Profillerin klasörünü dosya gezgininde açın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="542"></location>
@@ -7579,7 +7579,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="578"></location>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation>Profil simgeleri klasörünü bir dosya tarayıcısında açın.</translation>
+        <translation>Profil simgeleri klasörünü dosya gezgininde açın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="586"></location>
@@ -7611,7 +7611,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="697"></location>
         <source>Open one of the folders shared between instances.</source>
-        <translation>Profiller arasında paylaştırılan klasörlerden birisini aç.</translation>
+        <translation>Profiller arasında paylaşılan klasörlerden birini açın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"></location>
@@ -8544,8 +8544,8 @@ Emin misiniz?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1051"></location>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
-        <translation>Kaynağı eklemek için kullanılabilir örnek yok.
-Lütfen bu kaynağı tekrar yüklemeye çalışmadan önce yeni bir örnek oluşturun.</translation>
+        <translation>Kaynağı eklemek için kullanılabilir bir profil yok.
+Lütfen bu kaynağı tekrar yüklemeye çalışmadan önce yeni bir profil oluşturun.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"></location>
@@ -9337,7 +9337,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"></location>
         <source>Show the &amp;total time played across instances</source>
-        <translation>Örnekler arasında oynanan &amp;toplam süreyi göster</translation>
+        <translation>Profiller arasında oynanan &amp;toplam süreyi göster</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="358"></location>
@@ -16183,9 +16183,9 @@ Emin misiniz?</translation>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation>Azami bellek ayırımı desteklenen değeri aşıyor.
-Seçilmiş Java yüklemesi 32-bit ve 2048MiB bellekden daha fazla desteklemiyor.
-Örnek bu yüzden başlamayabilir.</translation>
+        <translation>Maksimum bellek ayrımı desteklenen değeri aşıyor.
+Seçilen Java yüklemesi 32 bittir ve 2048MiB RAM&apos;den fazlasını desteklemez.
+Profil bu nedenle başlatılamayabilir.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"></location>
