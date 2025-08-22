@@ -284,7 +284,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"></location>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>این ‌فایل‌ها در لانچرهای شخص ثالث برای دانلود در دسترس نیستند. باید به صورت دستی دانلود کرده و به نمونه اضافه کنید.</translation>
+        <translation>این ‌فایل‌ها در لانچرهای شخص ثالث برای دانلود در دسترس نیستند. باید به صورت دستی دانلود کرده و به اینستنس اضافه کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="880"></location>
@@ -294,22 +294,22 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="915"></location>
         <source>Failed to extract mods...</source>
-        <translation>شکست در استخراج مودها...</translation>
+        <translation>شکست در استخراج مادها...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="925"></location>
         <source>Extracting mods...</source>
-        <translation>درحال استخراج مودها...</translation>
+        <translation>درحال استخراج مادها...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="997"></location>
         <source>Installing modpack</source>
-        <translation>درحال نصب مودپک</translation>
+        <translation>درحال نصب مادپک</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1009"></location>
         <source>Failed to create libraries component</source>
-        <translation>ساخت مولفه کتاب ناموفق بود</translation>
+        <translation>ساخت کامپوننت لایبرری‌ها ناموفق بود</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1036"></location>
@@ -319,7 +319,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1050"></location>
         <source>Failed to create pack component</source>
-        <translation>ساخت مولفه پک ناموفق بود</translation>
+        <translation>ساخت کامپوننت پک ناموفق بود</translation>
     </message>
 </context>
 <context>
@@ -332,7 +332,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"></location>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;یک لانچر سفارشی که باعث می شود راحت تر بتوان ماینکرافت را مدیریت کرد، به طوری که بتوانید همزمان چندین نمایه را با هم در ماینکرافت داشته باشید&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;یک کاستوم لانچر که اجازه میده راحت تر Minecraft را مدیریت کرد، به توسط قابلیت داشتن چندین اینستنس Minecraft همزمان&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -341,7 +341,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"></location>
         <source>Platform:</source>
-        <translation>سکو:</translation>
+        <translation>پلتفرم:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"></location>
@@ -362,7 +362,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"></location>
         <source>Credits</source>
-        <translation>سازندگان</translation>
+        <translation>قدردانی‌ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"></location>
@@ -401,7 +401,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"></location>
         <source>Platform</source>
-        <translation>سکو</translation>
+        <translation>پلتفرم</translation>
     </message>
     <message>
         <source>Build Number</source>
@@ -456,7 +456,7 @@
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>درحال استفاده</translation>
+        <translation>درحال کار</translation>
     </message>
     <message>
         <source>Errored</source>
@@ -531,7 +531,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="347"></location>
         <source>Type</source>
-        <translation>نوع</translation>
+        <translation>تایپ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="349"></location>
@@ -545,7 +545,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"></location>
         <source>Minecraft username associated with the account.</source>
-        <translation>نام کاربری Minecraft با حساب کاربری پیوند خورده است.</translation>
+        <translation>نام کاربری Minecraft پیوند خورده با اکانت.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -554,7 +554,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"></location>
         <source>User name of the account.</source>
-        <translation>نام کاربر حساب.</translation>
+        <translation>نام کاربر اکانت.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -582,7 +582,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="105"></location>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation>حذف کردن</translation>
+        <translation>حذف&amp;کردن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"></location>
@@ -613,7 +613,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"></location>
         <source>&amp;Manage Skins</source>
-        <translation>مدیریت پوسته ها</translation>
+        <translation>مدیریت اسکین‌ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"></location>
