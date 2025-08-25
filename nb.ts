@@ -6589,7 +6589,11 @@ Vil du fjerne den?</translation>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Noen biter satt som  &apos;local&apos; mangler filene sine:
+%1
+
+Du må enter legge til filene, eller fjerne pakkene som avhenger av dem.
+Du må løse problemet manuelt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"></location>
