@@ -8185,7 +8185,7 @@ Den kan bare oppdateres med en fil i %1-formatet
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="302"></location>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Launch</translation>
+        <translation>&amp;Start</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"></location>
