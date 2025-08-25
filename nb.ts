@@ -807,12 +807,12 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"></location>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis widgetdraktmappen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"></location>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis ikondraktmappen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"></location>
@@ -822,12 +822,12 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"></location>
         <source>Reload All</source>
-        <translation>Last alle på nytt</translation>
+        <translation>Last inn alt på nytt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"></location>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Drakt:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"></location>
@@ -842,7 +842,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"></location>
         <source>Cat Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Katteskallering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"></location>
@@ -902,12 +902,12 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"></location>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[DEBUG] En hemmelig debug-melding...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"></location>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[FATAL] En skummel fatal feil!</translation>
     </message>
 </context>
 <context>
@@ -915,7 +915,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="700"></location>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke vise loggen siden den var lengre enn %1 linjer.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="906"></location>
@@ -1115,12 +1115,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"></location>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"></location>
         <source>Getting the assets files from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Henter ressursfiler fra %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1448,17 +1448,17 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"></location>
         <source>Skip</source>
-        <translation type="unfinished">Hopp over</translation>
+        <translation>Hopp over</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"></location>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mappen som er konfigurert som den globale modmappen og nedlasingsmappen din, blir automatisk sjekket, og hvis mods blir funnet, kopiert til instansen.&lt;/p&gt;&lt;p&gt;Du kan også dra nedlastede mods oppå denne meldingen, eller legge til en mappe som skal overvåkes hvis du ikke har lastet ned modsene til en standardlokasjon.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Klikk «Åpne manglende» for å åpne alle lenkene i nettleseren din. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"></location>
         <source>Blocked Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokkerte mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"></location>
@@ -1468,7 +1468,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"></location>
         <source>Watched Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Overvåkte mapper</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"></location>
@@ -1583,7 +1583,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"></location>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke laste ned metadata for %1 %2. Endre versjonen eller prøv igjen senere.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"></location>
@@ -1607,18 +1607,19 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"></location>
         <source>Task failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppgave mislyktes</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"></location>
         <source>Multiple subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Flere underoppgaver mislyktes</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"></location>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Flere underoppgaver mislyktes
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"></location>
@@ -1891,12 +1892,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"></location>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation>Spesifiser en verden eller server for automatisk innlogging ved oppstart</translation>
+        <translation>Spesifiser en verden eller server for automatisk innlogging ved oppstart.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"></location>
         <source>Select a target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Velg et mål å koble til ved oppstart</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"></location>
@@ -1917,12 +1918,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"></location>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Merk: Hvis en snarvei flyttes etter at den ble laget, vil den ikke slettes når instansen slettes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"></location>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du må slette dem manuelt i det tilfellet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"></location>
@@ -1932,12 +1933,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="89"></location>
         <source>Applications</source>
-        <translation>Applikasjon</translation>
+        <translation>Applikasjoner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="91"></location>
         <source>Other...</source>
-        <translation type="unfinished">Annet …</translation>
+        <translation>Annet...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="97"></location>
@@ -2005,12 +2006,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"></location>
         <source>&amp;Pre-launch Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Føroppstartskommando</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"></location>
         <source>P&amp;ost-exit Command</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;tteroppstartskommando</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"></location>
@@ -2163,39 +2164,39 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"></location>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Skru på</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"></location>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilde</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"></location>
         <source>Name</source>
-        <translation type="unfinished">Navn</translation>
+        <translation>Navn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"></location>
         <source>Pack Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakkeformat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"></location>
         <source>Last Modified</source>
-        <translation type="unfinished">Sist endret</translation>
+        <translation>Sist endret</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="78"></location>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke gjenkjent</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="104"></location>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"></location>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Datapakkeformat-ID-en, i tillegg til Minecraft-versjonen den ble designet for.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="109"></location>
@@ -2213,17 +2214,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"></location>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Er datapakken skrudd på? (Kun gyldig for ZIP-er)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"></location>
         <source>The name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Navnet til datapakken.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="161"></location>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>Tid og dato for denne datapakken ble sist endret (eller lagt til).</translation>
     </message>
 </context>
 <context>
@@ -2231,27 +2232,27 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"></location>
         <source>Download Packs</source>
-        <translation type="unfinished">Last ned pakker</translation>
+        <translation>Last ned pakker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"></location>
         <source>Download data packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Last ned datapakker fra modplattformer på nettet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"></location>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prøv å sjekke eller oppdatere alle valgte datapakker (alle sammen hvis ingen er valgt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"></location>
         <source>Change a data pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Endre en datapakkes versjon.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"></location>
         <source>Download Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Last ned datapakker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"></location>
@@ -2260,7 +2261,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"></location>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="242"></location>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"></location>
@@ -2268,66 +2269,68 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"></location>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"></location>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbrutt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"></location>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"></location>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"></location>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Nedlasting avbrutt av brukeren.</translation>
+        <translation>Nedlasting avbrutt av brukeren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="94"></location>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="179"></location>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="252"></location>
         <source>Warnings</source>
-        <translation type="unfinished">Advarsler</translation>
+        <translation>Advarsler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="108"></location>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="189"></location>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="262"></location>
         <source>Abort</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"></location>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"></location>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Datapakkeoppdateringer er utilgjengelig når metadata er skrudd av!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="129"></location>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekreft oppdatering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="130"></location>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Å oppdatere datapakker mens spillet kjører kan forårsake pakkedupliseringer og spillkrasj.
+De gamle filene kan ikke slettes siden de er i bruk.
+Er du sikker på at du vil gjøre dette?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"></location>
         <source>The data pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Datapakkeoppdateringen ble avbrutt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"></location>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>«%1» er oppdatert! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"></location>
         <source>All data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle datapakkene er oppdatert! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"></location>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle de valgte datapakkene er oppdatert! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"></location>
@@ -2337,13 +2340,14 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"></location>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekreft fjerning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="204"></location>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er iferd med å fjerne metadataene til %1 datapakker.
+Er du sikker?</translation>
     </message>
 </context>
 <context>
@@ -2558,17 +2562,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"></location>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Navn:</translation>
+        <translation>&amp;Navn:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"></location>
         <source>&amp;Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Versjon:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"></location>
         <source>&amp;Author:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Forfatter:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="76"></location>
@@ -2592,12 +2596,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="135"></location>
         <source>&amp;Recommended Memory:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Anbefalt minne:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"></location>
         <source> MiB</source>
-        <translation type="unfinished"></translation>
+        <translation> MiB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"></location>
@@ -3067,12 +3071,12 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="44"></location>
         <source>&amp;Editors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Redaktører</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="50"></location>
         <source>&amp;Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tekstredigeringsprogram</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="65"></location>
@@ -3085,12 +3089,12 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"></location>
         <source>Used to edit component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brukt for å redigere JSON-komponentfiler.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"></location>
         <source>&amp;MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="127"></location>
@@ -5894,7 +5898,7 @@ Det kan hende at du må fikse modsa dine, sia spellet logger fortsatt på filer 
     </message>
     <message>
         <source>Theme</source>
-        <translation>Tema</translation>
+        <translation>Drakt</translation>
     </message>
     <message>
         <source>Mods</source>
@@ -6589,7 +6593,7 @@ Vil du fjerne den?</translation>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation>Noen biter satt som  &apos;local&apos; mangler filene sine:
+        <translation>Noen biter satt som  «local» mangler filene sine:
 %1
 
 Du må enter legge til filene, eller fjerne pakkene som avhenger av dem.
@@ -7324,7 +7328,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="749"></location>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation>Åpne ikonmappe for tema i en filbehandler.</translation>
+        <translation>Åpne ikonmappen for drakten i en filbehandler.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"></location>
@@ -7374,7 +7378,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="594"></location>
         <source>Themes</source>
-        <translation>Tema</translation>
+        <translation>Drakter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"></location>
@@ -11259,7 +11263,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="104"></location>
         <source>Your current system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Din nåværende systemdrakt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"></location>
@@ -14343,7 +14347,7 @@ Are you sure?</source>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ikoner</translation>
     </message>
     <message>
         <source>View icon themes folder.</source>
@@ -14351,7 +14355,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Widgeter</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
@@ -14363,26 +14367,26 @@ Are you sure?</source>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation type="unfinished"></translation>
+        <translation>K&amp;att</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation type="unfinished">Vis kattepakkemappen.</translation>
+        <translation>Vis kattepakkemappen.</translation>
     </message>
     <message>
         <source>Refresh all</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppfrisk alle</translation>
     </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>WizardPage</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Velg drakten du vil bruke</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
@@ -14399,12 +14403,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"></location>
         <source>Appearance</source>
-        <translation type="unfinished">Utseende</translation>
+        <translation>Utseende</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"></location>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Velg drakt og ikoner du vil bruke</translation>
     </message>
 </context>
 <context>
