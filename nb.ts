@@ -1943,32 +1943,32 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="97"></location>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>1% [2%] - Sist spilt: 3%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="113"></location>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation>1% (i bruk)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="180"></location>
         <source>%1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>1% - 2%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="182"></location>
         <source>%1 - Server %2</source>
-        <translation type="unfinished"></translation>
+        <translation>1% - Server 2%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="197"></location>
         <source>instance</source>
-        <translation type="unfinished"></translation>
+        <translation>instans</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="201"></location>
         <source>world</source>
-        <translation type="unfinished"></translation>
+        <translation>verden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="204"></location>
@@ -1991,7 +1991,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>Forhåndsstart-kommando:</translation>
+        <translation>Forhåndsstartskommando:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
