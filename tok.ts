@@ -1216,7 +1216,7 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"></location>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="unfinished">o alasa lukin anu alasa sin e ijo ale pi wile sina (sina wile ala la ijo ale)</translation>
+        <translation>o alasa lukin anu alasa sin e ijo ale pi wile sina (sina wile e ijo ala la ijo ale)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="65"></location>
@@ -1242,7 +1242,7 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"></location>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="unfinished">ilo selo pi sitelen lipu (sina wile e ijo awen pi ilo sona la, o awen weka e ni)</translation>
+        <translation>ilo ante pi sitelen lipu (sina pana ala e ni la, ilo nanpa sina li toki e ona)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"></location>
@@ -1253,7 +1253,7 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"></location>
         <source>External Tools</source>
-        <translation type="unfinished">ilo selo</translation>
+        <translation>ilo ante</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"></location>
@@ -1711,7 +1711,7 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="129"></location>
         <source>Failed to process update lists...</source>
-        <translation type="unfinished"></translation>
+        <translation>mi ken ala sona e sin ilo</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="140"></location>
