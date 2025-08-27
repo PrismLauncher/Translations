@@ -5585,7 +5585,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"></location>
         <source>Java &amp;Executable</source>
-        <translation>Java &amp;Executable</translation>
+        <translation>&amp;Executable Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"></location>
@@ -5623,7 +5623,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="302"></location>
         <source>&amp;PermGen Size:</source>
-        <translation>Taille de PermGen:</translation>
+        <translation>Taille de PermGen&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"></location>
@@ -5633,12 +5633,12 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="319"></location>
         <source>Ma&amp;ximum Memory Usage:</source>
-        <translation>Usage Mémoire Maximal:</translation>
+        <translation>Utilisation mémoire maximale&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="329"></location>
         <source>M&amp;inimum Memory Usage:</source>
-        <translation>Usage Mémoire Minimal:</translation>
+        <translation>Utilisation mémoire minimale&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"></location>
@@ -6148,7 +6148,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"></location>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation>[Erreur d&apos;analyse Log4j] Échec d&apos;analyse de log4j, évènement de log: %1</translation>
+        <translation>[Erreur d&apos;analyse Log4j] Échec d&apos;analyse de log4j, évènement de log&#xa0;: %1</translation>
     </message>
 </context>
 <context>
@@ -6769,7 +6769,7 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
     </message>
     <message>
         <source>Launcher</source>
-        <translation>Lanceur</translation>
+        <translation>Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="60"></location>
@@ -7679,7 +7679,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="421"></location>
         <source>Dele&amp;te</source>
-        <translation>Dé&amp;truire</translation>
+        <translation>Suppri&amp;mer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="435"></location>
@@ -7718,7 +7718,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"></location>
         <source>Add Instanc&amp;e...</source>
-        <translation>Ajouter une Instanc&amp;e...</translation>
+        <translation>Ajouter une instanc&amp;e...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"></location>
@@ -7800,7 +7800,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="542"></location>
         <source>Launcher &amp;Root</source>
-        <translation>Lanceur &amp;Root</translation>
+        <translation>&amp;Racine du lanceur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="553"></location>
@@ -7862,12 +7862,12 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"></location>
         <source>&amp;Widget Themes</source>
-        <translation>&amp;Thèmes de Widget</translation>
+        <translation>&amp;Thèmes du lanceur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="738"></location>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation>Ouvrir le dossier des thèmes de widgets dans l&apos;explorateur de fichiers.</translation>
+        <translation>Ouvrir le dossier des thèmes du lanceur dans l&apos;explorateur de fichiers.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="746"></location>
@@ -7927,7 +7927,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="302"></location>
         <source>&amp;Update...</source>
-        <translation>Mise-à-&amp;jour...</translation>
+        <translation>Mise à &amp;jour...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"></location>
@@ -7937,7 +7937,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"></location>
         <source>&amp;Manage Accounts...</source>
-        <translation>&amp;Configurer les Comptes...</translation>
+        <translation>&amp;Configurer les comptes...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="275"></location>
@@ -9523,7 +9523,7 @@ Il est préférable que vous changez le chemin du fichier - veuillez vous y réf
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"></location>
         <source>datapacks</source>
-        <translation>paquet de données</translation>
+        <translation>packs de données</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"></location>
@@ -17126,12 +17126,12 @@ Chemin canonique : %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"></location>
         <source>Data Packs</source>
-        <translation>Packs de Données</translation>
+        <translation>Packs de données</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"></location>
         <source>Manage data packs inside the world.</source>
-        <translation>Gérer les packs de donnés du monde.</translation>
+        <translation>Gérer les datapacks du monde.</translation>
     </message>
     <message>
         <source>Datapacks</source>
@@ -17139,7 +17139,7 @@ Chemin canonique : %1</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation>Gérer les packs de données à l&apos;intérieur du monde.</translation>
+        <translation>Gérer les datapacks à l&apos;intérieur du monde.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="59"></location>
