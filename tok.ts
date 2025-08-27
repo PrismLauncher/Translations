@@ -920,7 +920,7 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="149"></location>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>%1 pali li lon (%2 li pini, %3 li ale)</translation>
+        <translation>pali %1 li lon (la ona %2 li pini, ona %3 li ale)</translation>
     </message>
 </context>
 <context>
@@ -4015,7 +4015,7 @@ o pana e sona jan sina tan musi Manka anu tan kulupu Mojang.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1850"></location>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>o pana e nimi pi kulupu sin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1872"></location>
@@ -7591,7 +7591,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="404"></location>
         <source>Enter a new name for the copy.</source>
-        <translation>o sitelen e nimi sin kepeken sama.</translation>
+        <translation>o pana e nimi pi ijo sama sin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="420"></location>
@@ -7601,7 +7601,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="427"></location>
         <source>Enter a new world name.</source>
-        <translation>o sitelen e nimi ma sin.</translation>
+        <translation>o pana e nimi pi ma sin.</translation>
     </message>
 </context>
 <context>
