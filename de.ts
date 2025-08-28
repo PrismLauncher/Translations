@@ -9852,12 +9852,12 @@ Du musst wahrscheinlich den Pfad ändern - berücksichtige hierzu die Mods Websi
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
         <source>Ornithe</source>
-        <translation type="unfinished"></translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Rift</source>
-        <translation type="unfinished"></translation>
+        <translation>Spalt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="200"/>
@@ -13441,7 +13441,7 @@ Neuer Name: %2</translation>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="92"/>
         <source>Renaming</source>
-        <translation>Wird umbenannt</translation>
+        <translation>Umbenennen</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
@@ -17320,7 +17320,7 @@ Bist Du Dir sicher?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="450"/>
         <source>Rename World</source>
-        <translation>Umbenennen</translation>
+        <translation>Welt umbenennen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
