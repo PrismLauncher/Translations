@@ -1568,7 +1568,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>Oppdaget motstridende krav under kontroll av nødvendige filer!</translation>
+        <translation>Fant motstridende krav under kontroll av nødvendige filer!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="467"/>
@@ -2203,13 +2203,16 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Advarsel: Denne ressursen er symbolsk lenket fra et annet sted. Å redigere den vil også endre originalen.
+Kanonisk sti: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="116"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Advarsel: Denne ressursen er hardlenket fra et annet sted. Å redigere den vil også endre originalen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"/>
@@ -2335,7 +2338,7 @@ Er du sikker på at du vil gjøre dette?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdateringssjekker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
@@ -3106,22 +3109,22 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
         <source>&amp;Profilers</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Profilere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Profilerene er tilgjengelige gjennom Start-rullegardinmenyen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
         <source>J&amp;Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>J&amp;Profiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
         <source>&amp;VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;VisualVM</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
@@ -3174,24 +3177,25 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="130"/>
         <source>VisualVM Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;VisualVM-program</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
         <source>Error while checking VisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Feil oppsto under VisualVM-installering:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM-oppsettet virker OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
         <source>Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstredigeringsprogram</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
@@ -3247,7 +3251,7 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
         <source>Tools</source>
-        <translation type="unfinished">Verktøy</translation>
+        <translation>Verktøy</translation>
     </message>
 </context>
 <context>
@@ -3517,7 +3521,7 @@ Prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation type="unfinished"></translation>
+        <translation>Den anbefalte mengden minne for modpacken er over 90% av systemminnet ditt — går ned fra %1 MiB til %2 MiB!</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -4360,7 +4364,7 @@ Prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="49"/>
         <source>Other logs</source>
-        <translation type="unfinished">Andre logger</translation>
+        <translation>Andre logger</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="53"/>
@@ -4773,7 +4777,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>VisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM startet</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
@@ -4831,7 +4835,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Oppdater</translation>
+        <translation>&amp;Oppfrisk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="214"/>
@@ -4922,7 +4926,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <source>Detecting Java installations...</source>
-        <translation>Oppdager Java-installasjoner …</translation>
+        <translation>Finner Java-installasjoner …</translation>
     </message>
 </context>
 <context>
@@ -4971,7 +4975,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Legg automatisk merke til Java-versjonen</translation>
+        <translation>Finn Java-versjonen automatisk</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
@@ -4997,7 +5001,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Installasjoner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
@@ -5022,7 +5026,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>%Oppdager automatisk …</translation>
+        <translation>&amp;Finner automatisk …</translation>
     </message>
     <message>
         <source>&amp;Test</source>
@@ -5089,7 +5093,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Din maksimale minnetildeling overskrider systemminnekapasiteten.</translation>
+        <translation>Din maksimale minneallokering overskrider systemminnekapasiteten.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
@@ -5124,7 +5128,7 @@ Er du sikker?</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation>32-biter Java oppdaga</translation>
+        <translation>32-biter Java funnet</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5175,7 +5179,7 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Skjema</translation>
+        <translation>Skjema</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
@@ -5213,62 +5217,62 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="156"/>
         <source>Skip Java setup prompt on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Hopp over Java-oppsettsmelding ved oppstart</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvis på, kommer ikke launcheren til å sjekke om en instans er kompatibel med den valgte Java-versjonen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
         <source>&amp;Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Finn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
         <source>&amp;Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bla gjennom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
         <source>Test S&amp;ettings</source>
-        <translation type="unfinished"></translation>
+        <translation>Test innstillinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
         <source>Open Java &amp;Downloader</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne Java-nedlaster</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished">Omgå Java-kompatibilitetskontroller</translation>
+        <translation>Hopp over Java-kompatibilitetssjekker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Java-kjørefil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">Minn&amp;e</translation>
+        <translation>Minn&amp;e</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
         <source>Memory Notice</source>
-        <translation type="unfinished"></translation>
+        <translation>Minneadvarsel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="204"/>
         <source>(-XX:PermSize)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-XX:PermSize)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="267"/>
         <source>(-Xmx)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xmx)</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
@@ -5282,22 +5286,22 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="302"/>
         <source>&amp;PermGen Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;PermGen-størrelse:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>(-Xms)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xms)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="319"/>
         <source>Ma&amp;ximum Memory Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalt minnebruk:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="329"/>
         <source>M&amp;inimum Memory Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimalt minnebruk:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
@@ -5307,7 +5311,7 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="217"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">Mengden minne som er tilgjengelig for å lagre lastede Java-klasser.</translation>
+        <translation>Mengden minne som er tilgjengelig for å lagre lastede Java-klasser.</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -5328,12 +5332,12 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
         <source>Select a Java version</source>
-        <translation type="unfinished">Velg en Java-versjon</translation>
+        <translation>Velg en Java-versjon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished">Bekreft valg</translation>
+        <translation>Bekreft valg</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="278"/>
@@ -5347,17 +5351,17 @@ Pass på at den maksimale minne verdien er lavere.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="295"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">Din maksimale minneallokering overskrider systemminnekapasiteten.</translation>
+        <translation>Din maksimale minneallokering overskrider systemminnekapasiteten.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="298"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Din maksimale minneallokering er nærme systemminnekapasiteten.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Din maksimale minneallokering er under den minimale minneallokeringen.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
@@ -5391,12 +5395,12 @@ Pass på at den maksimale minne verdien er lavere.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation type="unfinished">Last ned Java</translation>
+        <translation>Last ned Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation>32-biter Java oppdaget</translation>
+        <translation>32-biter Java funnet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
@@ -5406,7 +5410,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Du valgte en 32-biter installasjon av Java, men tildelinga er mer enn 2048MiB som det maksimale minnet.
+        <translation>Du valgte en 32-biter installasjon av Java, men tildelinga er mer enn 2048MiB som det maksimale minnet.
 %1 vil ikke kunne starte Minecraft.
 Vil du fortsette?
 
@@ -5416,7 +5420,7 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
         <source>No Java version selected</source>
-        <translation type="unfinished">Ingen Java-versjon valgt</translation>
+        <translation>Ingen Java-versjon valgt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
@@ -5426,7 +5430,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Enten så valgte ikke du en Java-versjon, eller valgte en som ikke fungerer.
+        <translation>Enten så valgte ikke du en Java-versjon, eller valgte en som ikke fungerer.
 %1 vil ikke kunne starte Minecraft.
 Ønsker du å fortsette uten en funksjonell Java-versjon?
 
@@ -5436,27 +5440,27 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="353"/>
         <source>Find Java executable</source>
-        <translation type="unfinished">Finn Java-kjørefil</translation>
+        <translation>Finn Java-kjørefil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>Memory</source>
-        <translation type="unfinished">Minne</translation>
+        <translation>Minne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">Den maksimale mengden minne Minecraft kan bruke.</translation>
+        <translation>Den maksimale mengden minne Minecraft kan bruke.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Minimum minne-allokering:</translation>
+        <translation>Minimum minne-allokering:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Maksimum minne-allokering:</translation>
+        <translation>Maksimal minne-allokering:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
@@ -5466,12 +5470,12 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">Mengden minne som er tilgjengelig for å lagre lastede Java-klasser.</translation>
+        <translation>Mengden minne som er tilgjengelig for å lagre lastede Java-klasser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
         <source>Browse</source>
-        <translation type="unfinished">Bla gjennom</translation>
+        <translation>Bla gjennom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
@@ -5486,27 +5490,27 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished">Autooppdag Java</translation>
+        <translation>Autooppdag Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Din maksimale minneallokering overskrider systemminnekapasiteten.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Din maksimale minneallokering nærmer seg systemminnekapasiteten.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="521"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Din maksimale minneallokering er mindre enn minimumsverdien</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished">Du overskrider den maksimale tildeltinga støtta av 32-bitersinstallasjonene av Java.</translation>
+        <translation>Du overskrider den maksimale tildeltinga støtta av 32-bitersinstallasjonene av Java.</translation>
     </message>
 </context>
 <context>
@@ -5599,7 +5603,7 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="343"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>«%1» er gått ut og må autentiseres på nytt. Vil du autentisere denne kontoen på nytt?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="160"/>
@@ -5783,8 +5787,8 @@ Vil du prøve demoen?</translation>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="209"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished">Slutta å se på spelleloggen sia loglengda gikk over %1 linjer.
-Det kan hende at du må fikse modsa dine, sia spellet logger fortsatt på filer og kaster sannsynligvis bort harddiskplass på et skyhøgd nivå!</translation>
+        <translation>Slutta å se på spillloggen siden logglengden gikk over %1 linjer.
+Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til filer og kaster sannsynligvis bort harddiskplass farlig fort!</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
@@ -5830,7 +5834,7 @@ Det kan hende at du må fikse modsa dine, sia spellet logger fortsatt på filer 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
         <source>Folders</source>
-        <translation type="unfinished">Mapper</translation>
+        <translation>Mapper</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
@@ -5929,7 +5933,7 @@ Det kan hende at du må fikse modsa dine, sia spellet logger fortsatt på filer 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="332"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="342"/>
         <source>Browse</source>
-        <translation type="unfinished">Bla gjennom</translation>
+        <translation>Bla gjennom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
@@ -5944,47 +5948,47 @@ Det kan hende at du må fikse modsa dine, sia spellet logger fortsatt på filer 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
         <source>Always rename the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Alltid gi mappen et nytt navn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
         <source>Ask what to do</source>
-        <translation type="unfinished"></translation>
+        <translation>Spør hva som skal gjøres</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
         <source>Never rename the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Aldri gi mappen et nytt navn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
         <source>Updater</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdaterer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>How Often?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvor ofte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Set to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Sett til 0 for å bare sjekke ved oppstart</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>On Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Ved oppstart</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="198"/>
         <source> hours</source>
-        <translation type="unfinished"></translation>
+        <translation> timer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
         <source>Every </source>
-        <translation type="unfinished"></translation>
+        <translation>Hver </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
@@ -5994,47 +5998,47 @@ Det kan hende at du må fikse modsa dine, sia spellet logger fortsatt på filer 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>Mods and Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods og modpacks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjekk undermapper for blokkerte mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Når på, vil den flytte blokkerte ressurser fremfor å kopiere dem.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="452"/>
         <source>Log History &amp;Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Logghistorikkgrense:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppgaver</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="560"/>
         <source>Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Begrensning for gjentatte forsøk:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="567"/>
         <source>Concurrent Download Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Begrensning for samtidige nedlastinger:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="577"/>
         <source>HTTP Timeout:</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP Timeout:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="603"/>
         <source>Concurrent Task Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Begrensning for samtidige oppgaver:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
@@ -6060,7 +6064,7 @@ Det kan hende at du må fikse modsa dine, sia spellet logger fortsatt på filer 
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>Slså av automatisk oppdaging, installasjon og oppdatering av nødvendige filer.</translation>
+        <translation>Slå av automatisk oppdaging, installasjon og oppdatering av nødvendige filer.</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
@@ -6072,7 +6076,7 @@ Det kan hende at du må fikse modsa dine, sia spellet logger fortsatt på filer 
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Diverse</translation>
+        <translation>Diverse</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
@@ -6134,27 +6138,27 @@ Det kan hende at du må fikse modsa dine, sia spellet logger fortsatt på filer 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytt blokkerte mods istedenfor å kopiere dem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagre versjonsinformasjon fra modtilbyderer (som Modrinth eller CurseForge) for mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
         <source>Keep track of mod metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Spor modmetadata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk finn, installer og oppdater nødvendige filer til mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="417"/>
         <source>Install dependencies automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer nødvendige filer automatisk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
@@ -8432,7 +8436,7 @@ Den kan bare oppdateres med en fil i %1-formatet
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fant sti automatisk: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
@@ -11602,12 +11606,12 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Den spesifiserte Java-kjørefilen fungerte ikke.&lt;br /&gt;Du bruke trykke «Finn», eller sett stien til Java-kjørefilen.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Den spesifiserte Java-kjørefilen fungerte ikke.&lt;br /&gt;Du bruke prøve å automatisk finne hvilken Java-versjon du trenger, eller sett stien til Java-kjørefilen.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
