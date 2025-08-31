@@ -301,7 +301,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="880"/>
         <source>%1 out of %2 complete</source>
-        <translation>%2 중 %1 완료</translation>
+        <translation>%1/&amp;2 완료</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="915"/>
@@ -1677,7 +1677,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>%1개의 작업 실행 중(%3 중 %2 완료)</translation>
+        <translation>%1개의 작업 실행 중(%2/%3 완료)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
@@ -3690,7 +3690,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="600"/>
         <source>%1 out of %2 complete</source>
-        <translation>%2 중 %1 완료</translation>
+        <translation>%1/%2 완료</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="613"/>
@@ -10719,7 +10719,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="301"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="325"/>
         <source>%1 out of %2 complete</source>
-        <translation>%2 중 %1 완료</translation>
+        <translation>%1/%2 완료</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="306"/>
@@ -10970,7 +10970,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="60"/>
         <source>Attempting task %1 out of %2</source>
-        <translation>%2개 중 %1번째 작업 시도 중</translation>
+        <translation>%1/%2개의 작업 시도 중</translation>
     </message>
 </context>
 <context>
@@ -11053,7 +11053,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="145"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>%1개의 작업 실행 중(%3 중 %2 완료)</translation>
+        <translation>%1개의 작업 실행 중(%2/%3 완료)</translation>
     </message>
 </context>
 <context>
@@ -14729,7 +14729,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="53"/>
         <source>Executing task %1 out of %2</source>
-        <translation>%2개 중 %1개의 작업 실행 중</translation>
+        <translation>%1/%2개의 작업 실행 중</translation>
     </message>
 </context>
 <context>
