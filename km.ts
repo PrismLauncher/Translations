@@ -549,12 +549,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>សួស្ដី!
+បើអ្នកបានប្រើប្រាស់ជាថ្មី អ្នកអាចចុច &quot;Add Microsoft&quot; ប៊ូតុងដើម្បីភ្ជាប់ជាមួយ Microsoft account។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="106"/>
         <source>Context menu</source>
-        <translation>Context មីនុយ</translation>
+        <translation type="unfinished">Context មីនុយ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
