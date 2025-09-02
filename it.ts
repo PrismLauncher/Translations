@@ -644,7 +644,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>Aggiorna</translation>
+        <translation>&amp;Aggiorna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
@@ -871,7 +871,7 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensionamento del gatto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
@@ -1149,7 +1149,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Scaricando i file di dati da %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -3455,7 +3455,7 @@ Per favore, prova di nuovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Nota: Se le istanze FTB non sono nel percorso predefinito, selezionalo usando il pulsante vicino alla ricerca.</translation>
+        <translation>Nota: Se le istanze FTB non sono nel percorso predefinito, seleziona quest&apos;ultimo usando il pulsante vicino alla ricerca.</translation>
     </message>
 </context>
 <context>
@@ -4359,7 +4359,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="101"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;Ricarica</translation>
+        <translation>&amp;Aggiorna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="107"/>
@@ -6473,7 +6473,7 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation>Quando abilitato, muove le risorse bloccate invece di copiarle.</translation>
+        <translation>Quando abilitato, sposta le risorse bloccate invece di copiarle.</translation>
     </message>
     <message>
         <source>Move blocked resources</source>
@@ -8568,7 +8568,7 @@ Sei sicuro/a?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
         <source>Deleting</source>
-        <translation>Eliminando</translation>
+        <translation>Eliminazione</translation>
     </message>
     <message>
         <source>Create instance Application</source>
@@ -8779,12 +8779,12 @@ Può essere aggiornato solo tramite file in formato %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="347"/>
         <source>Update Successful</source>
-        <translation>Aggiornamento eseguito</translation>
+        <translation>Aggiornamento riuscito</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="348"/>
         <source>The instance updated to pack version %1 successfully.</source>
-        <translation>L&apos;istanza è stata aggiornata alla versione del pack %1.</translation>
+        <translation>L&apos;istanza è stata aggiornata con successo alla versione %1 del pacchetto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
@@ -8794,7 +8794,7 @@ Può essere aggiornato solo tramite file in formato %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="354"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation>L&apos;instanza non ha potuto essere aggiornata alla versione del pack %1. Controlla i log del launcher per maggiori informazioni.</translation>
+        <translation>L&apos;istanza non è riuscita ad aggiornarsi alla versione %1 del pacchetto. Controllare i log del launcher per ulteriori informazioni.</translation>
     </message>
 </context>
 <context>
@@ -9229,7 +9229,7 @@ Può essere aggiornato solo tramite file in formato %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>Il gioco di base supporta solo risoluzione. Per simulare il comportamento di una finestra massimizzata, l&apos;implementazione corrente approssima le dimensioni massime dello schermo</translation>
+        <translation>Il gioco di base supporta solo risoluzione. Per simulare il comportamento di una finestra massimizzata, l&apos;implementazione corrente approssima le dimensioni massime dello schermo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
@@ -9543,7 +9543,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="67"/>
         <source>Show time &amp;playing this instance</source>
-        <translation>Mostra il tempo trascorso &amp;giocando l&apos;istanza</translation>
+        <translation>Mostra il tempo di &amp;gioco di questa istanza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="68"/>
@@ -9553,7 +9553,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="73"/>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
-        <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Attenzione&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: L&apos;opzione massimizza non è completamente supportata per questa versione di Minecraft&lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Attenzione&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: L&apos;opzione massimizzata non è completamente supportata su questa versione di Minecraft.&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="135"/>
@@ -9569,7 +9569,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="208"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="215"/>
         <source>Path to %1 library file</source>
-        <translation>Percorso per la libreria %1</translation>
+        <translation>Percorso del file di libreria %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="547"/>
@@ -9659,7 +9659,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
         <source>Loaders</source>
-        <translation>Loaders</translation>
+        <translation>Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
@@ -9694,12 +9694,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
         <source>Babric</source>
-        <translation type="unfinished"></translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="166"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished"></translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"/>
@@ -9709,12 +9709,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
         <source>Ornithe</source>
-        <translation type="unfinished"></translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Rift</source>
-        <translation type="unfinished"></translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="200"/>
@@ -9862,7 +9862,7 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Loaders</source>
-        <translation>Loaders</translation>
+        <translation>Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
@@ -11256,7 +11256,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="49"/>
         <source>&amp;Find</source>
-        <translation>&amp;Trova</translation>
+        <translation>&amp;Cerca</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="63"/>
@@ -11276,7 +11276,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="112"/>
         <source>&amp;Delete Selected</source>
-        <translation>Elimina selezionati</translation>
+        <translation>&amp;Cancella selezionato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="119"/>
@@ -11331,7 +11331,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="199"/>
         <source>&amp;Reload</source>
-        <translation>Ricarica</translation>
+        <translation>&amp;Ricarica</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -11355,7 +11355,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     </message>
     <message>
         <source>Reload</source>
-        <translation>Aggiorna</translation>
+        <translation>Ricarica</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="39"/>
@@ -13269,7 +13269,7 @@ Vuoi procedere?</numerusform>
     <message>
         <location filename="src/launcher/GZip.cpp" line="207"/>
         <source>out of memory</source>
-        <translation>troppo poca memoria</translation>
+        <translation>memoria esaurita</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="209"/>
@@ -16278,7 +16278,7 @@ Si prega di selezionare per questa istanza una versione fra le seguenti:</transl
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"/>
         <source>Reload</source>
-        <translation>Aggiorna</translation>
+        <translation>Ricarica</translation>
     </message>
     <message>
         <source>Reload all packages.</source>
