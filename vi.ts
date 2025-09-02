@@ -834,7 +834,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation>&amp;Cat Pack:</translation>
+        <translation>&amp;Gói Mèo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
@@ -849,7 +849,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation>B&amp;iểu tượng:</translation>
+        <translation>&amp;Biểu tượng:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
@@ -859,7 +859,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Tỉ lệ Mèo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
@@ -879,12 +879,12 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
-        <translation>Độ mờ của con mèo</translation>
+        <translation>Độ trong suốt của mèo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
         <source>Opaque</source>
-        <translation>Độ mờ</translation>
+        <translation>Độ đục</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
@@ -909,7 +909,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="263"/>
         <source>[INFO] A harmless message...</source>
-        <translation>[THÔNG TIN] Chỉ là một tin nhắn vô hại...</translation>
+        <translation>[INFO] Một tin nhắn vô hại...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
@@ -924,7 +924,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation>[THẢM KHỐC] Một đoạn lỗi THẢM KHỐC ĐÁNG SỢ!</translation>
+        <translation>[THẢM KHỐC] Một đoạn lỗi THẢM KHỐC khủng khiếp!</translation>
     </message>
 </context>
 <context>
@@ -953,18 +953,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>Bản cài này đang khóa việc thay đổi tệp ở %1
+        <translation>Bản cài đặt này có tệp khóa cập nhật tại %1
 
-Thời gian: %2
+Mốc thời gian: %2
 Đang cập nhật từ phiên bản %3 đến %4
-Đang cài ở %5
+Đang cài tại %5
 Chỗ dữ liệu: %6
-Lỗi này có thể là do việc cập nhật đã thất bại. Vui lòng kiểm tra bản cài của bạn vẫn có thể chạy được như bình thường trước khi tiếp tục.
-Kiểm tra tệp log cho việc câpx nhật Prism Launcher ở:
+Lỗi này có thể là do việc cập nhật đã thất bại. Vui lòng chắc chắn bản cài đặt của bạn vẫn có thể chạy được như bình thường trước khi tiếp tục.
+Kiểm tra tệp log cho việc cập nhật Prism Launcher ở:
 %7
 để biết thêm về lần thử cập nhật cuối.
 
-Để xóa bỏ khóa này và tiếp tục hãy chọn nút &quot;Kệ&quot; ở dưới.</translation>
+Để xóa bỏ khóa này và tiếp tục hãy chọn nút &quot;Bỏ Mặc&quot; ở dưới.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1069"/>
@@ -2057,7 +2057,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
         <source>&amp;Wrapper Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lệnh Wrapper</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
@@ -2276,7 +2276,7 @@ Cảnh báo: Tài nguyên này được liên kết cứng cùng với một nơ
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Tải xuống các gói</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
@@ -2286,7 +2286,7 @@ Cảnh báo: Tài nguyên này được liên kết cứng cùng với một nơ
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hãy thử kiểm tra hoặc cập nhật tất cả các gói dữ liệu đã được chọn (tất cả các gói dữ liệu nếu không có gói nào đã được chọn)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
@@ -2340,7 +2340,7 @@ Cảnh báo: Tài nguyên này được liên kết cứng cùng với một nơ
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tất cả các cập nhật gói dữ liệu không có sẵn khi metadata bị tắt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="129"/>
@@ -2359,7 +2359,7 @@ Bạn có chắc muốn tiếp tục?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"/>
         <source>The data pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Trình cập nhật gói tài nguyên đã bị huỷ!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
@@ -2369,17 +2369,17 @@ Bạn có chắc muốn tiếp tục?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tất cả các gói dữ liệu đang ở phiên bản mới nhất! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tất cả các gói dữ liệu được chọn đang ở phiên bản mới nhất! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
         <source>Update checker</source>
-        <translation type="unfinished">Kiểm tra cập nhật</translation>
+        <translation>Trình kiểm tra cập nhật</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
