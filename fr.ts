@@ -45,12 +45,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="340"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="383"/>
         <source>Use Default</source>
-        <translation>Utiliser la valeur par défaut</translation>
+        <translation>Utiliser par défault</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Note&#xa0;: vous devriez peut-être changer ou effacer l&apos;URL de Base après avoir changé le type de service collage.</translation>
+        <translation>Note: vous devriez peut-être changer ou effacer l&apos;URL de Base après avoir changé le type de service collage.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
@@ -9830,7 +9830,7 @@ Il est préférable que vous changez le chemin du fichier - veuillez vous y réf
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished">Fabric ancien</translation>
+        <translation>Ancienne fabrique</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
