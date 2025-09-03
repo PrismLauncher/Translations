@@ -50,7 +50,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Note: vous devriez peut-être changer ou effacer l&apos;URL de Base après avoir changé le type de service collage.</translation>
+        <translation>Note&#xa0;: vous devriez peut-être changer ou effacer l&apos;URL de Base après avoir changé le type de service collage.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
