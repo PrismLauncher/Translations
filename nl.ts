@@ -7241,7 +7241,7 @@ Reden:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
         <source>Got</source>
-        <translation type="unfinished"></translation>
+        <translation>Gekregen</translation>
     </message>
 </context>
 <context>
