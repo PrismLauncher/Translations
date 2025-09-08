@@ -6133,7 +6133,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>رد کردن دستور بروز رسانی</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -6141,55 +6141,55 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>تعداد عملیات های هم‌زمان</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>تعداد دانلود های هم‌زمان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation type="unfinished"></translation>
+        <translation>ثانیه صبر کردن تا درخواست ها متوقف شوند</translation>
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation type="unfinished"></translation>
+        <translation>تایم اوت برای درخواست های HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>ث</translation>
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation type="unfinished"></translation>
+        <translation>تعداد تلاش های مجدد دستی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>وقتی روشن است، منابع مسدود شده را به جای کپی کردن، انتقال می‌دهد.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>%جاوا:</translation>
     </message>
     <message>
         <source>Cat</source>
-        <translation type="unfinished"></translation>
+        <translation>گربه</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>شفافیت گربه را تنظیم می‌کند. 0% کاملا شفاف است و 100% کاملا واضح است.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>شفافیت</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -6198,33 +6198,33 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>نوار منو برای کار های سوار بر کیبورد راحت تر است.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>عوض کردن نواز ابزار با نوار منو</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>Mods and Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>ماد ها و بسته‌ماد ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>چک کردن &amp;subfolders برای ماد های مسدود شده</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation type="unfinished"></translation>
+        <translation>انتقال ماد های مسدود شده به جای کپی کردن آن‌ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>نگه‌داری اطلاعات ورژن ارائه شده توسط ارائه دهنده های ماد (مانند مادرینت و کرس‌فورج) برای ماد ها.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
