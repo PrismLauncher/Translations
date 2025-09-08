@@ -1004,7 +1004,7 @@ for details.</oldsource>
         <translation>Aktualizace byla úspěšná
 
 Nyní používáte verzi %1 .
-Pro podrobnosti se podívejte záznam spouštěče Prism zde:
+Pro podrobnosti se podívejte na protokol aplikace Prism Launcher:
 %2</translation>
     </message>
     <message>
@@ -2121,7 +2121,7 @@ Některé verze Minecraftu se nemusí spustit.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
         <source>Mod Loader</source>
-        <translation>Načítač módů</translation>
+        <translation>Mod loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="182"/>
