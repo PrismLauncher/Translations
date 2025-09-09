@@ -8385,7 +8385,7 @@ Den kan bare oppdateres med en fil i %1-formatet
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Generelt</translation>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
@@ -8492,7 +8492,7 @@ Den kan bare oppdateres med en fil i %1-formatet
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Generelt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="73"/>
