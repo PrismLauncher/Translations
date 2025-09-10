@@ -51,12 +51,12 @@
             "untranslated" : 2473
         },
         "ca" : {
-            "file" : "f0ce3296e4a30db27bea8088bd517aac5208c1f0.class",
-            "sha1" : "f0ce3296e4a30db27bea8088bd517aac5208c1f0",
-            "size" : 262632,
-            "translated" : 1394,
+            "file" : "86a721094bb12d900fbc77d737cec326739cb0bc.class",
+            "sha1" : "86a721094bb12d900fbc77d737cec326739cb0bc",
+            "size" : 272558,
+            "translated" : 1453,
             "fuzzy" : 415,
-            "untranslated" : 825
+            "untranslated" : 766
         },
         "ca@valencia" : {
             "file" : "f402864ae3b9f11dc56fbf8f79addb5cf37d058a.class",
