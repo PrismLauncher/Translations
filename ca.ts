@@ -977,7 +977,7 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.</source>
         <translation>Un intent d&apos;actualització ha fallat
 
-Si us plau assegura&apos;t que la teva instal·lació està en ordre abans de procedir
+Si us plau, assegura&apos;t que la teva instal·lació està en ordre abans de procedir
 Dona una ullada al registre d&apos;actualitzador de Prism Launcher a:·
 %1
 Per a obtenir més informació sobre l&apos;últim intent d&apos;actualització.</translation>
@@ -1402,7 +1402,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
         <source>Profiler aborted</source>
-        <translation>Perfil abordat</translation>
+        <translation>Analitzador aturat</translation>
     </message>
 </context>
 <context>
@@ -3110,7 +3110,7 @@ Esteu segur de fer-ho?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
         <source>J&amp;Profiler</source>
-        <translation>J&amp;Perfilador</translation>
+        <translation>J&amp;Profiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
@@ -4826,7 +4826,7 @@ Si us plau, assegura&apos;t que la memòria màxima és inferior.</translation>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation>Perfil avortat</translation>
+        <translation>Analitzador aturat</translation>
     </message>
 </context>
 <context>
@@ -4843,7 +4843,7 @@ Si us plau, assegura&apos;t que la memòria màxima és inferior.</translation>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation>Profiler avortat</translation>
+        <translation>Analitzador aturat</translation>
     </message>
 </context>
 <context>
@@ -5568,7 +5568,7 @@ Podràs canviar la versió de Java més tard a la configuració.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
         <source>Auto-detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Autodetectar versió de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
@@ -5614,7 +5614,7 @@ Podràs canviar la versió de Java més tard a la configuració.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilitzar regió del sistema</translation>
     </message>
 </context>
 <context>
@@ -5666,17 +5666,17 @@ Podràs canviar la versió de Java més tard a la configuració.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="316"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>La identificació del client del llançador ha canviat. Si us plau, elimina &apos;%1&apos; i prova de nou.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="326"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja no existeix &apos;%1&apos; als servidors. En el cas que sigui a causa d&apos;una migració, si us plau afegeix el nou compte al qual l&apos;hagis migrat.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="343"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; ha expirat i s&apos;ha de tornar a autenticar. Vols tornar a autenticar el compte?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -5685,12 +5685,12 @@ Podràs canviar la versió de Java més tard a la configuració.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="209"/>
         <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuar llançament?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="210"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut llançar després de %1 intents. Vols continuar intentant-ho?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="160"/>
@@ -5705,7 +5705,7 @@ Podràs canviar la versió de Java més tard a la configuració.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="155"/>
         <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escriu el teu nom pel mode demostració.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="278"/>
@@ -5782,7 +5782,7 @@ Vols jugar la demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="367"/>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>El compte ha expirat i s&apos;ha de tornar a autenticar</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="377"/>
@@ -5804,7 +5804,7 @@ Vols jugar la demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="434"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha fallat la comprovació de l&apos;analitzador a %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="447"/>
@@ -5880,7 +5880,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>[Error d&apos;anàlisi log4j] No s&apos;ha pogut analitzar el registre log4j: %1</translation>
     </message>
 </context>
 <context>
@@ -5949,57 +5949,57 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
         <source>Instance Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar instàncies</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="105"/>
         <source>Instance Renaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Canviar de nom instàncies</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
         <source>Always rename the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvia sempre el nom de la carpeta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
         <source>Ask what to do</source>
-        <translation type="unfinished"></translation>
+        <translation>Preguntar què fer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
         <source>Never rename the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>No canviar mai el nom de la carpeta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
         <source>Updater</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualitzador</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>How Often?</source>
-        <translation type="unfinished"></translation>
+        <translation>Amb quina freqüència?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Set to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Posa 0 per comprovar només al llançament</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>On Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Al llançament</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="198"/>
         <source> hours</source>
-        <translation type="unfinished"></translation>
+        <translation> hores</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
         <source>Every </source>
-        <translation type="unfinished"></translation>
+        <translation>Cada </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
@@ -6014,37 +6014,37 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="452"/>
         <source>Log History &amp;Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Límit de l&apos;historial de registres:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasques</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="560"/>
         <source>Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Límit d&apos;intents:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="567"/>
         <source>Concurrent Download Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Límit de descàrregues concurrents:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="577"/>
         <source>HTTP Timeout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Temps d&apos;espera del HTTP:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="603"/>
         <source>Concurrent Task Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Límit de tasques concurrents:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
         <source>&amp;Downloads:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Descàrregues:</translation>
     </message>
     <message>
         <source>...</source>
@@ -6101,18 +6101,18 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Desactiva l&apos;ús de metadades donades pels proveïdors de mods (com Modrinth o CurseForge) als mods.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Desactiva l&apos;ús de metadades als mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Atenció&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Desactivar les metadades dels mods pot afectar algunes característiques de comoditat com l&apos;actualització de mods!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Flat</source>
@@ -6133,46 +6133,46 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Update interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Interval d&apos;actualització</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Posa 0 per comprovar només al llançament</translation>
     </message>
     <message>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
         <source>&amp;Skins:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aspectes:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="374"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation type="unfinished"></translation>
+        <translation>Si s&apos;activa, a més de la carpeta de descàrregues, També es registraran les subcarpetes quan es busquin recursos (p. ex. quan es busquin mods blocats a CurseForge).</translation>
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprovar la carpeta de descàrregues recursivament</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Desactiva la detecció, instal·lació i actualització automàtiques de dependències de mods.</translation>
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactiva la gestió automàtica de dependències de mods</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quan es creï una nova instància d&apos;un paquet de mods, no es preguntarà si vols canviar una instància ja existent.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>Ometre el missatge d&apos;actualitzar un paquet de mods</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -6180,55 +6180,55 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Quantitat de tasques concurrents</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Quantitat de descàrregues concurrents</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation type="unfinished"></translation>
+        <translation>Segons d&apos;espera abans d&apos;aturar les sol·licituds</translation>
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation type="unfinished"></translation>
+        <translation>Temps d&apos;espera per sol·licituds HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation type="unfinished"></translation>
+        <translation>Quantitat d&apos;intents manuals</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si s&apos;activa, es retallaran recursos blocats en comptes de copiar-los.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Java:</translation>
     </message>
     <message>
         <source>Cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Gat</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>Estableix l&apos;opacitat de gat. 0% és completament transparent i 100% és opac.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacitat</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -6248,22 +6248,22 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>Mods and Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods i paquets de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprovar &amp;subcarpetes per a mods blocats</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation type="unfinished"></translation>
+        <translation>Retallar mods blocats en comptes de copiar-los</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Guarda informació de la versió donada pels proveïdors de mods (con Modrinth o CurseForge) dels mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
@@ -8480,7 +8480,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="325"/>
         <source>&amp;No Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sense analitzador</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1018"/>
