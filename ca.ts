@@ -6168,7 +6168,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>Quan es creï una nova instància d&apos;un paquet de mods, no es preguntarà si vols canviar una instància ja existent.</translation>
+        <translation>Quan es creï una nova instància d&apos;un paquet de mods, no es preguntarà si es vol actualitzar una instància ja existent.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
@@ -6268,27 +6268,27 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
         <source>Keep track of mod metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar metadades dels mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detecta, instal·la i actualitza automàticament dependències de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="417"/>
         <source>Install dependencies automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal·lar dependències automàticament</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quan es creï una nova instància d&apos;un paquet de mods, pregunta si es vol actualitzar una instància ja existent.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Suggest to update an existing instance during modpack installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Preguntar si es vol actualitzar una instància ja existent durant la instal·lació dels paquets de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
@@ -6383,37 +6383,37 @@ Es recomana que li donis permisos a PolyMC a través de Flatseal.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="158"/>
         <source>Downloads Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta de descàrregues</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"/>
         <source>Java Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta d&apos;aspectes</translation>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/ERROR] UUuuuUUUuuuuh! Un error esgarrifós!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/ERROR] Un error esgarrifós!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/WARN] Un avís no gaire esgarrifós.</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/DEBUG] Un missatge secret de depuració...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/FATAL] Un terrorífic error fatal!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -6429,12 +6429,12 @@ Es recomana que li donis permisos a PolyMC a través de Flatseal.</translation>
     </message>
     <message>
         <source>Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Llançador</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="60"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>General</translation>
     </message>
 </context>
 <context>
@@ -6442,12 +6442,12 @@ Es recomana que li donis permisos a PolyMC a través de Flatseal.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="76"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>No es pot trobar la biblioteca del llançador. Si us plau, comprova els arxius instal·lats.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="88"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha trobat la biblioteca heretada del llançador. Si us plau, comprova els arxius instal·lats.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="140"/>
@@ -6754,11 +6754,12 @@ Motiu:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualitzant índex de mods:
+%1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadades invàlides</translation>
     </message>
 </context>
 <context>
@@ -6767,12 +6768,13 @@ Motiu:
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="44"/>
         <source>Updating index for resource:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualitzant índex de recursos:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="59"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadades invàlides</translation>
     </message>
 </context>
 <context>
@@ -6790,7 +6792,7 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="80"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Línies de color</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -6906,17 +6908,17 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Afegir compte de Microsoft&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Per jugar a Minecraft, has de tenir com a mínim un compte de Microsoft iniciat. Vols iniciar una sessió ara?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegir compte de Microsoft</translation>
     </message>
 </context>
 <context>
@@ -6924,27 +6926,27 @@ Motiu:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="470"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>La carpeta no existeix</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="473"/>
         <source>Could not create file</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut crear el fitxer</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="481"/>
         <source>Could not create:</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut crear:</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="502"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut obrir i comprimir %1</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="508"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha produït un error zip</translation>
     </message>
 </context>
 <context>
@@ -6957,33 +6959,33 @@ Motiu:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="558"/>
         <source>Failed to enumerate files in archive</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;han pogut recopilar els fitxers del registre</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="561"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation type="unfinished"></translation>
+        <translation>És una mica estrany això d&apos;extreure registres buits...</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="565"/>
         <source>Failed to seek to first file in zip</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut buscar el primer arxiu del zip</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="605"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha cancel·lat l&apos;extracció de %1, perquè es troba fora de la ruta donada %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="611"/>
         <source>Failed to extract file %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut extreure el fitxer %1 a %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="625"/>
         <location filename="src/launcher/MMCZip.cpp" line="636"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;han pogut canviar els permisos de %1</translation>
     </message>
 </context>
 <context>
@@ -6991,22 +6993,22 @@ Motiu:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="55"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciant sessió amb el compte de Microsoft (codi de dispositiu).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut autoritzar el dispositiu: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
         <source>Failed to retrieve device authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut obtenir l&apos;autorització del dispositiu</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
         <source>Device authorization failed: required fields missing</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut autoritzar el dispositiu: falten camps obligatoris</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
@@ -7016,12 +7018,12 @@ Motiu:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
         <source>Device Access failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut accedir al dispositiu: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
         <source>Got</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtingut</translation>
     </message>
 </context>
 <context>
@@ -7046,27 +7048,27 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
         <source>Sign in with Microsoft</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar sessió amb Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="166"/>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>o</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="347"/>
         <source>CODE</source>
-        <translation type="unfinished"></translation>
+        <translation>CODI</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="360"/>
         <source>Copy code to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar codi al porta-retalls</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="398"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informació</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="76"/>
