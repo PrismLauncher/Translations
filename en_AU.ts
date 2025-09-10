@@ -2256,7 +2256,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="242"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
@@ -2264,7 +2264,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
         <source>Aborted</source>
-        <translation type="unfinished">Aborted</translation>
+        <translation>Aborted</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
@@ -2278,25 +2278,25 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="179"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="252"/>
         <source>Warnings</source>
-        <translation type="unfinished">Warnings</translation>
+        <translation>Warnings</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="108"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="189"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="262"/>
         <source>Abort</source>
-        <translation type="unfinished">Abort</translation>
+        <translation>Abort</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished">Data pack updates are unavailable when metadata is disabled!</translation>
+        <translation>Data pack updates are unavailable when metadata is disabled!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="129"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirm Update</translation>
+        <translation>Confirm Update</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="130"/>
@@ -2310,38 +2310,38 @@ Are you sure you want to do this?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"/>
         <source>The data pack updater was aborted!</source>
-        <translation type="unfinished">The data pack updater was aborted!</translation>
+        <translation>The data pack updater was aborted!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; is up-to-date! :)</translation>
+        <translation>&apos;%1&apos; is up-to-date! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation type="unfinished">All data packs are up-to-date! :)</translation>
+        <translation>All data packs are up-to-date! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation type="unfinished">All selected data packs are up-to-date! :)</translation>
+        <translation>All selected data packs are up-to-date! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
         <source>Update checker</source>
-        <translation type="unfinished">Update checker</translation>
+        <translation>Update checker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirm Removal</translation>
+        <translation>Confirm Removal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="204"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation type="unfinished">You are about to remove the metadata for %1 data packs.
+        <translation>You are about to remove the metadata for %1 data packs.
 Are you sure?</translation>
     </message>
 </context>
@@ -2461,7 +2461,7 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished">Override &amp;Global Settings</translation>
+        <translation>Override &amp;Global Settings</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
@@ -2601,17 +2601,17 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Name:</translation>
+        <translation>&amp;Name:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
         <source>&amp;Version:</source>
-        <translation type="unfinished">&amp;Version:</translation>
+        <translation>&amp;Version:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"/>
         <source>&amp;Author:</source>
-        <translation type="unfinished">&amp;Author:</translation>
+        <translation>&amp;Author:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="76"/>
@@ -2635,7 +2635,7 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="135"/>
         <source>&amp;Recommended Memory:</source>
-        <translation type="unfinished">&amp;Recommended Memory:</translation>
+        <translation>&amp;Recommended Memory:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
@@ -3569,7 +3569,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation type="unfinished">The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</translation>
+        <translation>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -4393,7 +4393,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="49"/>
         <source>Other logs</source>
-        <translation type="unfinished">Other logs</translation>
+        <translation>Other logs</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="53"/>
@@ -4814,7 +4814,7 @@ Please make sure that the maximum memory value is lower.</translation>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>VisualVM started</source>
-        <translation type="unfinished">VisualVM started</translation>
+        <translation>VisualVM started</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
@@ -5038,7 +5038,7 @@ Please make sure that the maximum memory value is lower.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
-        <translation type="unfinished">Installations</translation>
+        <translation>Installations</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
@@ -5285,17 +5285,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
         <source>&amp;Detect</source>
-        <translation type="unfinished">&amp;Detect</translation>
+        <translation>&amp;Detect</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
         <source>&amp;Browse</source>
-        <translation type="unfinished">&amp;Browse</translation>
+        <translation>&amp;Browse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
         <source>Test S&amp;ettings</source>
-        <translation type="unfinished">Test S&amp;ettings</translation>
+        <translation>Test S&amp;ettings</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
