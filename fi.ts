@@ -9922,32 +9922,32 @@ Päivitä %1!</translation>
         <translation type="obsolete">Pois käytössä olevia modeja ei päivitetä päällekkäisyyksien välttämiseksi!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="32"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="52"/>
         <source>Preparing resources for Modrinth...</source>
         <translation>Valmistellaan resursseja Modrinth:ille...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="77"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="113"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Jäsennetään Modrinth:in API-vastausta...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="143"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="179"/>
         <source>Not installed</source>
         <translation>Ei asennettu</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="145"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="181"/>
         <source>Unknown</source>
         <translation>Tuntematon</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="217"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Tätä resurssia varten ei löytynyt sopivaa versiota. Sitä ei luultavasti ole saatavilla nykyiselle peliversiolle / modilataajalle.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="220"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Tätä resurssia varten ei löytynyt sopivaa versiota. Sitä ei luultavasti ole saatavilla nykyiselle peliversiolle.</translation>
     </message>
@@ -9960,7 +9960,7 @@ Päivitä %1!</translation>
         <translation>Tälle modille ei löytynyt kelvollista versiota. Sitä ei luultavasti ole saatavilla nykyiselle peliversiolle / modilataajalle.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="60"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>Odotetaan Modrinth:in API-vastausta...</translation>
     </message>
@@ -13367,7 +13367,7 @@ Oletko varma?</translation>
         <translation>Ei voitu luoda metatietoja seuraaville resursseille:&lt;br&gt;Haluatko jatkaa ilman näitä resursseja?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="87"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="88"/>
         <source>Checking for updates</source>
         <translation>Tarkistetaan päivityksiä</translation>
     </message>
