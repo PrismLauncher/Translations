@@ -51,12 +51,12 @@
             "untranslated" : 2473
         },
         "ca" : {
-            "file" : "96c7aacc1fd7f30f8d35d48451389fd8b1222cf8.class",
-            "sha1" : "96c7aacc1fd7f30f8d35d48451389fd8b1222cf8",
-            "size" : 280585,
-            "translated" : 1500,
-            "fuzzy" : 421,
-            "untranslated" : 713
+            "file" : "fac28182bd4e4fe59bb0d862f08673bb4e3cf529.class",
+            "sha1" : "fac28182bd4e4fe59bb0d862f08673bb4e3cf529",
+            "size" : 315776,
+            "translated" : 1718,
+            "fuzzy" : 423,
+            "untranslated" : 493
         },
         "ca@valencia" : {
             "file" : "f402864ae3b9f11dc56fbf8f79addb5cf37d058a.class",
@@ -563,12 +563,12 @@
             "untranslated" : 0
         },
         "sk" : {
-            "file" : "738d28e0f92bc7141bdf85f166d49122a347707e.class",
-            "sha1" : "738d28e0f92bc7141bdf85f166d49122a347707e",
-            "size" : 227801,
-            "translated" : 1300,
-            "fuzzy" : 365,
-            "untranslated" : 969
+            "file" : "410664bbf0089f2afd11b86bfbf8b380f024879d.class",
+            "sha1" : "410664bbf0089f2afd11b86bfbf8b380f024879d",
+            "size" : 228848,
+            "translated" : 1315,
+            "fuzzy" : 355,
+            "untranslated" : 964
         },
         "sl" : {
             "file" : "e5f1a93252dfd161c259839ffc5d00f33ecd28e6.class",
@@ -643,12 +643,12 @@
             "untranslated" : 0
         },
         "uk" : {
-            "file" : "2c965e729ac32da0ac71ec5332288e2987fb7189.class",
-            "sha1" : "2c965e729ac32da0ac71ec5332288e2987fb7189",
-            "size" : 389342,
-            "translated" : 2630,
-            "fuzzy" : 0,
-            "untranslated" : 4
+            "file" : "3781e1035e5227d79601ed9d83fccdd2ffbb174e.class",
+            "sha1" : "3781e1035e5227d79601ed9d83fccdd2ffbb174e",
+            "size" : 389646,
+            "translated" : 2632,
+            "fuzzy" : 2,
+            "untranslated" : 0
         },
         "uz" : {
             "file" : "761865c9aa07a5b6836b06858f7c45d22cb2250e.class",
