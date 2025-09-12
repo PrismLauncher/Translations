@@ -165,7 +165,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: Només és necessari configurar-lo per accedir a dades privades. Llegeix la &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentació&lt;/a&gt; per a més informació.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: Només és necessari configurar-lo per accedir a dades privades. Llegeix la &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentació&lt;/a&gt; per a més informació.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -645,7 +645,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
         <source>Refresh the account tokens</source>
-        <translation>Refresca els &apos;token&apos; del compte</translation>
+        <translation>Actualitza les claus del compte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="59"/>
@@ -2030,7 +2030,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
         <source>Releases</source>
-        <translation>Versions publicades</translation>
+        <translation>Versions estables</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
@@ -3005,7 +3005,7 @@ This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
         <translation>Estàs a punt d&apos;eliminar %1 elements.
-L&apos;acció és permanent i els elements desapareixeran de la carpeta.
+L&apos;acció pot ser permanent i els elements desapareixeran de la carpeta.
 
 Estàs segur/a?</translation>
     </message>
@@ -3016,7 +3016,7 @@ This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
         <translation>Estàs a punt d&apos;eliminar la carpeta &quot;%1&quot;.
-L&apos;acció és permanent i desapareixerà de la carpeta arrel.
+L&apos;acció pot ser permanent i desapareixerà de la carpeta arrel.
 
 Estàs segur/a?</translation>
     </message>
@@ -5894,12 +5894,12 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="62"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation>Error en obtenir el token d&apos;accés de Minecraft: %1</translation>
+        <translation>Error en obtenir la clau d&apos;accés de Minecraft: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="69"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation>Fallida en processar la resposta del token d&apos;accés de Minecraft.</translation>
+        <translation>Fallida en processar la resposta de la clau d&apos;accés de Minecraft.</translation>
     </message>
 </context>
 <context>
@@ -7078,7 +7078,7 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="199"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre %1 o escaneja el QR i introdueix el codi si escau.</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -7090,11 +7090,11 @@ Motiu:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre %1 o escaneja el QR i introdueix el codi de sobre.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre %1 i introdueix el codi de sobre.</translation>
     </message>
 </context>
 <context>
@@ -7102,7 +7102,7 @@ Motiu:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
         <source>Failed to refresh token.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut actualitzar la clau.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
@@ -7117,7 +7117,7 @@ Motiu:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="165"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;autenticació de l&apos;usuari de Microsoft ha fallat - la clau d&apos;actualització és buida.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
@@ -7197,79 +7197,79 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="206"/>
         <source>&amp;Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Comptes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra d&apos;estat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea un accés directe a la carpeta escollida per llançar la instància escollida.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Instàncies</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="534"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre la carpeta d&apos;instàncies.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Arrel del llançador</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods &amp;centrals</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
         <source>&amp;Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aspectes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="567"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre la carpeta d&apos;aspectes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>Instance Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Icones de les instàncies</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="578"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre la carpeta de les icones de les instàncies.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Registres</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre la carpeta dels registres.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Veure registres</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Veure registres actuals i previs del llançador</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="694"/>
@@ -7284,32 +7284,32 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Temes d&apos;&amp;enginys</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="738"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre la carpeta de temes d&apos;enginys.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Temes d&apos;i&amp;cones</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="749"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre la carpeta de temes d&apos;icones.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquets de gats</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre la carpeta de paquets de gats.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
@@ -7320,7 +7320,7 @@ Motiu:
         <location filename="src/launcher/ui/MainWindow.ui" line="771"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Obre la carpeta de Java. Només està disponible si s&apos;utilitza el descarregador de Java integrat.</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -7414,41 +7414,41 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
         <source>Kill the running instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalitza la instància en execució.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Editar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Carpeta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;xportar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
         <source>Dele&amp;te</source>
-        <translation type="unfinished"></translation>
+        <translation>Esbo&amp;rrar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="435"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cop&amp;iar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear accés directe</translation>
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea un accés directe a l&apos;escriptori per llançar la instància escollida.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -7489,22 +7489,22 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Desfer darrera instància esborrada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="660"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Esborrar memòria cau de metadades</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="663"/>
         <source>Clear cached metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Esborrar memòria cau de metadades</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal·lar a &amp;PATH</translation>
     </message>
     <message>
         <source>Report a &amp;Bug...</source>
@@ -7548,12 +7548,12 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="275"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquejar barres d&apos;eines</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Temes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
@@ -7563,7 +7563,7 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Editar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
@@ -7582,22 +7582,22 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="452"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporta la instància escollida als formats compatibles.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
         <source>Prism Launcher (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="468"/>
         <source>Modrinth (mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="476"/>
         <source>CurseForge (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="517"/>
@@ -7612,22 +7612,22 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre la carpeta arrel del llançador.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Avisa d&apos;un error o fes un suggeriment</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="627"/>
         <source>Open %1 Matrix space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre l&apos;espai de Matrix %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="686"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear un enllaç simbòlic a /usr/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
@@ -7962,7 +7962,7 @@ Si us plau, afegeix un compte de Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="981"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>El paquet de mods, mod o recurs %1 està bloquejat a tercers! Si us plau, descarrega&apos;l manualment.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1015"/>
@@ -7992,32 +7992,32 @@ Si us plau, afegeix un compte de Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1306"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Instància no editable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1307"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>La instància no és editable. Pot estar corrupta, ser invàlida o massa vella. Revisa els registres per a més informació.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1350"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha afegit %1 a PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1351"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha afegit %1 a PATH. El pots inicialitzar executant `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1354"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut afegir %1 a PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Hi ha hagut un error en afegir %1 a PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1411"/>
@@ -8026,7 +8026,7 @@ Si us plau, afegeix un compte de Mojang o Minecraft.</translation>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Hi ha instàncies enllaçades</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -8036,9 +8036,21 @@ Si us plau, afegeix un compte de Mojang o Minecraft.</translation>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>La instància següent pot estar enllaçada a aquesta instància:
+
+%1
+
+Esborrar-la pot provocar que es corrompi l&apos;altra instància, 
+
+Vols continuar?</numerusform>
+            <numerusform>Les instàncies següents poden estar enllaçades a aquesta instància:
+
+%1
+
+Esborrar-la pot provocar que es corrompin les altres instàncies, 
+
+Vols continuar?</numerusform>
         </translation>
     </message>
     <message>
@@ -8054,7 +8066,10 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Estàs a punt d&apos;esborrar &quot;%1&quot;.
+Aquesta acció pot ser permanent i eliminar completament la instància.
+
+Vols continuar?</translation>
     </message>
     <message>
         <source>About to delete: %1
@@ -8068,107 +8083,111 @@ Estàs segur?</translation>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear enllaç directe de la instància</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut trobar l&apos;escriptori?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>El llançador es troba a la carpeta en què es va extreure, per tant, no es poden crear accessos directes.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrades de l&apos;escriptori</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha creat un enllaç directe d&apos;aquesta instància al teu escriptori!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut crear l&apos;enllaç directe de la instància!</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Estàs executant el llançador com una AppImage configurada de forma incorrecta? (Falta la variable d&apos;entorn $APPIMAGE)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
         <source>&amp;Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Canviar nom de grup</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1050"/>
         <source>No instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>No hi ha cap instància!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1051"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hi ha cap instància on afegir el recurs.
+Si us plau, crea una nova instància abans d&apos;instal·lar el recurs de nou.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>De veritat vols esborrar el grup &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1187"/>
         <source>Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Canviar de nom de grup</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
         <source>Cannot rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut canviar el nom del grup</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
         <source>Cannot set empty name.</source>
-        <translation type="unfinished"></translation>
+        <translation>No es pot posar un nom buit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
         <source>Group already exists. :/</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest grup ja existeix :/</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1207"/>
         <source>Failed to undo trashing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut desfer l&apos;eliminació de la instància</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1208"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;han pogut recuperar algunes instàncies i enllaços directes.
+Si us plau, revisa la paperera de reciclatge per fer-ho manualment.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut esborrar la memòria cau de metadades!
+Per fer-ho manualment, ves a Carpetes -&gt; Veure carpeta arrel del llançador, i, després de tancar el llançador, esborra la carpeta &quot;meta&quot;
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
         <source>Cannot Delete Running Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>No es pot esborrar una instància en execució</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>La instància escollida s&apos;està executant i no es pot esborrar. Si us plau, atura la instància abans d&apos;esborrar-la.</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
         <source> and its %n registered shortcut(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform> i el seu %n enllaç directe registrat</numerusform>
+            <numerusform> i els seus %n enllaços directes registrats</numerusform>
         </translation>
     </message>
     <message>
@@ -8177,32 +8196,35 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vols esborrar &quot;%1&quot;%2.
+L&apos;acció pot ser permanent i esborrar la instància.
+
+Vols continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>Esborrant</translation>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Creant instància d&apos;aplicació</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut crear la icona per a l&apos;aplicació.</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut crear la icona per a l&apos;enllaç directe.</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>No és compatible amb la teva plataforma!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha creat l&apos;enllaç directe d&apos;aquesta instància!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
@@ -8271,64 +8293,66 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informació del paquet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom del paquet:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Versió actual:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Informació del proveïdor:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualitzar a la versió:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
         <source>Fetching versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Reunint versions...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update from file</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualitzar des d&apos;un fitxer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Registre de canvis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="186"/>
         <source>No changelog available for this version!</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquesta versió no té registre de canvis!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="201"/>
         <source>Reload page</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualitzar pàgina</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="146"/>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Això és un paquet de mods local.
+Només pots actualitzar-lo amb un arxiu en format %1
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="153"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Pàgina web: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Identificador del paquet: %3    |    Identificador de la versió: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="196"/>
@@ -8358,32 +8382,32 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="216"/>
         <source>Update pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualitzar paquet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
         <source>Failed to search for available versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut buscar les versions disponibles.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="230"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut reunir el registre de canvis per a aquest paquet de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="232"/>
         <source>Cannot update!</source>
-        <translation type="unfinished"></translation>
+        <translation>No es pot actualitzar!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="347"/>
         <source>Update Successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualització completada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="348"/>
         <source>The instance updated to pack version %1 successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha actualitzat la instància a la versió %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
@@ -8393,7 +8417,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="354"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut actualitzar la instància a la versió %1. Si us plau, revisa els registres del llançador per a més detalls.</translation>
     </message>
 </context>
 <context>
@@ -8401,7 +8425,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="121"/>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Localitzant fitxer local</translation>
     </message>
 </context>
 <context>
@@ -8415,7 +8439,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Carregar meta per a %1:%2</translation>
     </message>
 </context>
 <context>
@@ -8424,7 +8448,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Carregar meta per a %1</translation>
     </message>
 </context>
 <context>
@@ -8467,12 +8491,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Llançar &amp;mode demostració</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
@@ -8492,7 +8516,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1021"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
-        <translation>&lt;ACCESS TOKEN&gt;</translation>
+        <translation>&lt;CLAU D&apos;ACCÉS&gt;</translation>
     </message>
     <message>
         <source>&lt;CLIENT TOKEN&gt;</source>
@@ -8516,7 +8540,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1053"/>
         <source>, last played on %1 for %2</source>
-        <translation type="unfinished"></translation>
+        <translation>, jugat per darrer cop el %1 durant %2</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -8568,11 +8592,11 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar temps jugat en hores</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificacions</translation>
     </message>
     <message>
         <source>Legacy settings</source>
@@ -8639,7 +8663,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Utilitza Zink, un controlador de Mesa OpenGL que implementa OpenGL per sobre de Vulkan. El rendiment pot variar segons la situació. Nota: si no hi ha controladors Vulkan compatibles, s&apos;usarà el renderitzat per programari.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
@@ -8703,7 +8727,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta detectada automàticament: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
@@ -8730,7 +8754,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="56"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="59"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut recopilar el perfil de Minecraft Java: %1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -8779,7 +8803,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="29"/>
         <source>Open &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrir configuració &amp;global</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
@@ -8794,12 +8818,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="73"/>
         <source>Game &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Finestra de joc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Quan es tanqui la finestra de joc, surt del llançador</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
@@ -8809,12 +8833,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>El joc base només accepta el mode finestra. Per simular el comportament maximitzat, la implementació aproxima la resolució màxima de la pantalla.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Avís&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: L&apos;opció de maximització pot no ser compatible amb totes les versions de Minecraft.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Window height:</source>
@@ -8827,7 +8851,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"/>
         <source>Game &amp;Time</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Temps de joc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
@@ -8842,12 +8866,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
         <source>Show the &amp;total time played across instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar el temps de joc &amp;total entre totes les instàncies</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="358"/>
         <source>Always show durations in &amp;hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra sempre els temps en &amp;hores</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
@@ -8877,12 +8901,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificacions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="588"/>
         <source>&amp;Legacy Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificacions &amp;heretades</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="600"/>
@@ -8897,7 +8921,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="616"/>
         <source>&amp;Native Libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteques &amp;natives</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="681"/>
@@ -8912,88 +8936,89 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
         <source>When the game window opens, hide the launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Quan s&apos;obri la finestra de joc, amaga el llançador</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
         <source>&amp;Window Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mida de la &amp;finestra:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="189"/>
         <source>×</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">×</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="196"/>
         <source>pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>píxels</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="222"/>
         <source>&amp;Console Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Finestra de la &amp;consola</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="234"/>
         <source>When the game is launched, show the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>Quan es llenci el joc, mostra la finestra de la consola</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="241"/>
         <source>When the game crashes, show the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>Quan el joc s&apos;aturi inesperadament, mostra la finestra de la consola</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="248"/>
         <source>When the game quits, hide the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>Quan es tanqui el joc, amaga la finestra de la consola</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="258"/>
         <source>&amp;Global Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquets de dades &amp;global</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
-        <translation type="unfinished"></translation>
+        <translation>Permet instal·lar paquets de dades a tots els mons si hi ha un mod compatible.
+Probablement, hauràs de canviar la ruta. Si us plau, comprova-ho a la web del mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
         <source>Folder Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta de la carpeta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"/>
         <source>datapacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquets de dades</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="368"/>
         <source>Override &amp;Default Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobreescriure compte &amp;predeterminat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="413"/>
         <source>Enable Auto-&amp;join</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar &amp;unió automàtica</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="435"/>
         <source>Singleplayer world:</source>
-        <translation type="unfinished"></translation>
+        <translation>Món un jugador:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="475"/>
         <source>Override Mod Download &amp;Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobreescriure &amp;carregadors de descàrregues de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
@@ -9023,17 +9048,17 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
         <source>&amp;GLFW library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta de la biblioteca &amp;GLFW:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="657"/>
         <source>&amp;OpenAL library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta de la biblioteca &amp;OpenAL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="701"/>
         <source>&amp;Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rendiment</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
@@ -9098,17 +9123,17 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="67"/>
         <source>Show time &amp;playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar temps de &amp;joc d&apos;aquesta instància</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="68"/>
         <source>&amp;Record time playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Guarda el temps jugat d&apos;aquesta instància</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="73"/>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Avís&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: L&apos;opció de maximització no és completament compatible amb aquesta versió de Minecraft.&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="135"/>
@@ -9129,7 +9154,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="547"/>
         <source>Select Global Data Packs Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Escull la carpeta global de paquets de dades</translation>
     </message>
 </context>
 <context>
@@ -9193,12 +9218,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Categories</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregadors</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
@@ -9223,7 +9248,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
         <source>Show More</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra més</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
@@ -9233,82 +9258,82 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
         <source>Babric</source>
-        <translation type="unfinished"></translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="166"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished"></translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabric heretat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
         <source>Ornithe</source>
-        <translation type="unfinished"></translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Rift</source>
-        <translation type="unfinished"></translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="200"/>
         <source>Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="212"/>
         <source>Show all versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra totes les versions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
         <source>Environments</source>
-        <translation type="unfinished"></translation>
+        <translation>Entorns</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="240"/>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Client</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="247"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="257"/>
         <source>Hide installed items</source>
-        <translation type="unfinished"></translation>
+        <translation>Amagar elements instal·lats</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="264"/>
         <source>Open source only</source>
-        <translation type="unfinished"></translation>
+        <translation>Només codi obert</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="271"/>
         <source>Release type</source>
-        <translation type="unfinished"></translation>
+        <translation>Estat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="277"/>
         <source>Release</source>
-        <translation type="unfinished"></translation>
+        <translation>Versió estable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="284"/>
         <source>Beta</source>
-        <translation type="unfinished"></translation>
+        <translation>Beta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="291"/>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation>Alfa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="298"/>
@@ -9340,7 +9365,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="unfinished"></translation>
+        <translation>D&apos;on s&apos;ha descarregat el mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="123"/>
@@ -9375,7 +9400,7 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Proveïdor</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
@@ -9400,22 +9425,22 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Entorn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregadors</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Release Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Estat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Minecraft Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versions de Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="179"/>
@@ -9440,32 +9465,32 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
         <source>The source provider of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>El proveïdor del mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="189"/>
         <source>On what environment the mod is running.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;entorn en què s&apos;executa el mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="191"/>
         <source>The mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>El carregador del mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="193"/>
         <source>The supported minecraft versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les versions compatibles de Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="195"/>
         <source>The release type.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;estat del mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="197"/>
         <source>The size of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>La mida del mod.</translation>
     </message>
 </context>
 <context>
@@ -9529,11 +9554,11 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>Add file</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegir fitxer</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegir un fitxer descarregat</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
@@ -9541,19 +9566,19 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Intentar actualitzar i comprovar les dependències de tots els mods escollits (tots si no s&apos;ha escollit cap)</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablir metadades de l&apos;actualització</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Esborrar metadades del mod</translation>
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Anar a la pàgina principal del mod</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -9561,7 +9586,7 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="unfinished"></translation>
+        <translation>Canviar la versió del mod</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
@@ -9569,11 +9594,11 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Visitar les pàgines dels mods</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Visitar les pàgines del mods escollits</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="72"/>
@@ -9600,19 +9625,19 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="84"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar actualitzacions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Buscar actualitzacions dels mods escollits (tots si no s&apos;ha escollit cap)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="106"/>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Exporta les metadades del mod a text.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
@@ -9623,7 +9648,8 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="128"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esborrar mods mentre el joc s&apos;executa, pot provocar aturades inesperades.
+De veritat que vols continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
@@ -9672,7 +9698,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="206"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="310"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;actualització de mods no estan disponibles si les metadades estan desactivades!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
@@ -9687,17 +9713,19 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Actualitzar mods mentre el joc s&apos;executa pot provocar duplicacions de mods i aturades inesperades.
+Pot ser que els fitxers antics no s&apos;esborrin, perquè estan en ús.
+De veritat que vols continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
         <source>The mod updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;actualitzador de mods s&apos;ha aturat!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tots els mods escollits estan actualitzats! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
@@ -9713,7 +9741,8 @@ Are you sure you want to do this?</oldsource>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="286"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estàs a punt d&apos;esborrar les metadades de %1 mods.
+Vols continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="236"/>
@@ -9724,23 +9753,23 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="71"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="160"/>
         <source>Download Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarregar mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="100"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvia la versió d&apos;un mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="104"/>
         <source>View the homepages of all selected mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veure la pàgina principal de tots els mods escollits.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Tots els mods estan actualitzats! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="54"/>
@@ -9836,31 +9865,31 @@ Si us plau, actualitza %1!</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar mods per actualitzar</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estàs a punt d&apos;actualitzar els següents mods:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Només s&apos;actualitzaran els mods escollits!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom del mod: %1&lt;br&gt;Nom del fitxer: %2&lt;br&gt;Raó: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;han pogut crear les metadades</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;han pogut crear les metadades dels següents mods:&lt;br&gt;Vols continuar sense aquests mods?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscant actualitzacions</translation>
     </message>
     <message>
         <source>Error</source>
@@ -9876,24 +9905,24 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscant actualitzacions...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom del mod: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Raó: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Possible solució: descarregar la darrera versió manualment:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut buscar actualitzacions</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
@@ -11131,7 +11160,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="113"/>
         <source>Allow updating to pre-release releases</source>
-        <translation type="unfinished"></translation>
+        <translation>Permetre actualitzar a versió no estables</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="114"/>
@@ -11141,7 +11170,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="115"/>
         <source>List available releases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra les versions estables.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="116"/>
@@ -16371,7 +16400,7 @@ Configureu el vostre compte segons %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>
         <source>Got Xbox user token</source>
-        <translation>S&apos;ha obtingut el token d&apos;usuari de l&apos;Xbox</translation>
+        <translation>S&apos;ha obtingut la clau d&apos;usuari de Xbox</translation>
     </message>
 </context>
 <context>
