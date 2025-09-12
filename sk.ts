@@ -2217,7 +2217,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Identifikátor formátu dátového balíka, ako aj verzie Minecraftu, pre ktoré bol určený.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="109"/>
@@ -2590,7 +2590,7 @@ Naozaj chcete vykonať túto akciu?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Názov:</translation>
+        <translation>&amp;Názov:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
@@ -2667,12 +2667,12 @@ Naozaj chcete vykonať túto akciu?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="123"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
@@ -2825,7 +2825,7 @@ Naozaj chcete vykonať túto akciu?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="68"/>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
@@ -2960,7 +2960,7 @@ Naozaj chcete vykonať túto akciu?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="198"/>
         <source>Export List</source>
-        <translation type="unfinished">Exportovať zoznam</translation>
+        <translation>Exportovať zoznam</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
@@ -2970,7 +2970,7 @@ Naozaj chcete vykonať túto akciu?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="209"/>
         <source>Change Version</source>
-        <translation type="unfinished">Zmeniť Verziu</translation>
+        <translation>Zmeniť Verziu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
@@ -2985,7 +2985,7 @@ Naozaj chcete vykonať túto akciu?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
         <source>View the homepages of all selected items.</source>
-        <translation type="unfinished">Zobraziť domovské stránky všetkých označených položiek.</translation>
+        <translation>Zobraziť domovské stránky všetkých označených položiek.</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -3425,7 +3425,7 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation type="unfinished">Príprava módov pre CurseForge.</translation>
+        <translation>Príprava módov pre CurseForge.</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -3454,7 +3454,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Spracovanie API odpovede z CurseForge pre &apos;%1&apos;...</translation>
+        <translation>Spracovanie API odpovede z CurseForge pre &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
@@ -3469,7 +3469,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
         <source>Unknown</source>
-        <translation type="unfinished">Neznámy</translation>
+        <translation>Neznámy</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
@@ -5566,7 +5566,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Prehľadávať</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
@@ -5576,7 +5576,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
         <source>Auto-detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaticky zistiť verziu Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
@@ -5586,7 +5586,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaše maximálne pridelenie pamäte presahuje kapacitu systémovej pamäte.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
@@ -5674,7 +5674,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="316"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifikácia klienta spustáča sa zmenila. Prosím odstráňte &apos;%1&apos; a skúste to znovu.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="326"/>
