@@ -9797,7 +9797,7 @@ Sigurado ka ba dito?</translation>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="90"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="315"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hindi maipapakita ang log dahil lumalagpas sa %1 mga linya ang haba ng log.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="337"/>
