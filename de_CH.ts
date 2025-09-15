@@ -29,7 +29,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="340"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="383"/>
         <source>Use Default</source>
-        <translation type="unfinished">Benutze Standard</translation>
+        <translation>Standard bruche</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -39,17 +39,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Resource server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kasch de server ändere wend problem mitem abelade vo resource hesch.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>&amp;API Keys</source>
-        <translation type="unfinished">API</translation>
+        <translation>API Schlüssel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="205"/>
@@ -65,7 +65,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"/>
         <source>Use None</source>
-        <translation type="unfinished">Benutze keinen</translation>
+        <translation>Bruch kei</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="318"/>
