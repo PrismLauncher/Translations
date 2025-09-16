@@ -1915,7 +1915,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="85"/>
         <source>Core Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Modyfikacje rdzeniowe</translation>
     </message>
 </context>
 <context>
@@ -2986,7 +2986,7 @@ Jesteś pewien?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="59"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyszukaj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
@@ -4688,7 +4688,7 @@ Postępuj ostrożnie!</translation>
         <location filename="src/launcher/InstancePageProvider.h" line="49"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">Inne logi</translation>
+        <translation>Inne logi</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="53"/>
@@ -7220,7 +7220,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="158"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyszukaj</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -7833,7 +7833,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More News...</source>
-        <translation type="unfinished"></translation>
+        <translation>Więcej wiadomości...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
@@ -8850,12 +8850,12 @@ Jesteś pewien?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacje Paczki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa paczki:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
@@ -8880,7 +8880,7 @@ Jesteś pewien?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizuj z pliku</translation>
     </message>
     <message>
         <source>Update from file</source>
@@ -8943,7 +8943,7 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
         <source>Update Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizuj paczkę</translation>
     </message>
     <message>
         <source>Update pack</source>
@@ -11586,7 +11586,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyszukaj</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -12551,7 +12551,7 @@ Status HTTP: %2</translation>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
         <source>Use s&amp;ystem settings</source>
         <oldsource>Use S&amp;ystem Settings</oldsource>
-        <translation type="unfinished">Użyj ustawień &amp;systemowych</translation>
+        <translation>Użyj ustawień &amp;systemowych</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
@@ -13495,7 +13495,7 @@ Nowa nazwa: %2</translation>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="92"/>
         <source>Renaming</source>
-        <translation>Zmienianie nazwy</translation>
+        <translation>Zmiana nazwy</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
@@ -13708,7 +13708,7 @@ Wiadomość błędu: %3</translation>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data Packs</source>
         <oldsource>Data packs</oldsource>
-        <translation type="unfinished">Paczki danych</translation>
+        <translation>Paczki danych</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
@@ -14447,7 +14447,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Paczki zasobów</translation>
     </message>
 </context>
 <context>
@@ -15248,7 +15248,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Paczki shaderów</translation>
     </message>
 </context>
 <context>
@@ -16591,7 +16591,7 @@ Dla tej instancji przełącz się na jedną z następujących wersji Javy:</tran
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="48"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyszukaj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="108"/>
