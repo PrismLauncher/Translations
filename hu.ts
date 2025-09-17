@@ -2970,7 +2970,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="59"/>
         <source>Search</source>
-        <translation type="unfinished">Keresés</translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
@@ -4622,7 +4622,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/InstancePageProvider.h" line="49"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">Egyéb naplók</translation>
+        <translation>Egyéb naplók</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="53"/>
@@ -7133,7 +7133,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="158"/>
         <source>Search</source>
-        <translation type="unfinished">Keresés</translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -7737,7 +7737,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More News...</source>
-        <translation type="unfinished"></translation>
+        <translation>További hírek...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
@@ -8721,12 +8721,12 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Csomag információk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Csomag neve:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
@@ -8751,7 +8751,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítés fájlból</translation>
     </message>
     <message>
         <source>Update from file</source>
@@ -8814,7 +8814,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
         <source>Update Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Csomag frissítése</translation>
     </message>
     <message>
         <source>Update pack</source>
@@ -11424,7 +11424,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
         <source>Search</source>
-        <translation type="unfinished">Keresés</translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -12378,7 +12378,7 @@ HTTP állapot: %2</translation>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
         <source>Use s&amp;ystem settings</source>
         <oldsource>Use S&amp;ystem Settings</oldsource>
-        <translation type="unfinished">&amp;Rendszerbeállítások használata</translation>
+        <translation>&amp;Rendszerbeállítások használata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
@@ -13511,7 +13511,7 @@ Hibaüzenet: %3</translation>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data Packs</source>
         <oldsource>Data packs</oldsource>
-        <translation type="unfinished">Adatcsomagok</translation>
+        <translation>Adatcsomagok</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
@@ -14250,7 +14250,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Forráscsomagok</translation>
     </message>
 </context>
 <context>
@@ -15051,7 +15051,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Shadercsomagok</translation>
     </message>
 </context>
 <context>
@@ -16374,7 +16374,7 @@ Válts a következő Java verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="48"/>
         <source>Search</source>
-        <translation type="unfinished">Keresés</translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="108"/>
