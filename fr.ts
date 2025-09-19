@@ -161,7 +161,7 @@
         <translation>Serveur de &amp;Métadonnées</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
         <source>Services</source>
         <translation>Services</translation>
     </message>
@@ -660,7 +660,7 @@
         <translation>Actualiser les jetons du compte</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="59"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
         <source>Accounts</source>
         <translation>Comptes</translation>
     </message>
@@ -822,7 +822,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
 <context>
     <name>AppearancePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="55"/>
+        <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="54"/>
         <source>Appearance</source>
         <translation>Apparence</translation>
     </message>
@@ -1064,27 +1064,27 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
         <translation>Configuration de système incompatible</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1545"/>
+        <location filename="src/launcher/Application.cpp" line="1542"/>
         <source>Aborted</source>
         <translation>Annulé</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1954"/>
+        <location filename="src/launcher/Application.cpp" line="1951"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Des anciennes données de %1 ont été trouvés, cependant vous avez déjà des données existantes pour %2. Malheuresement, vous devrez faire la migration par vous même. Souhaitez-vous recevoir un rappel de la migration des données en attente la prochaine fois que vous démarrerez %2&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1958"/>
+        <location filename="src/launcher/Application.cpp" line="1955"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Il semblerai que vous avez utilisé %1 auparavant. Désirez-vous migrer vos données vers le nouvel emplacement %2&#x202f;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1964"/>
+        <location filename="src/launcher/Application.cpp" line="1961"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Il semblerait que vous avez utilisé %1 sur %2 auparavant. Désirez-vous migrer vos données vers le nouvel emplacement de %3&#x202f;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2008"/>
+        <location filename="src/launcher/Application.cpp" line="2005"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migration échouée&#x202f;! Raison&#xa0;: %1</translation>
     </message>
@@ -1995,52 +1995,52 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
         <translation>Si c&apos;est le cas, vous devrez les supprimer manuellement.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="86"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="85"/>
         <source>Desktop</source>
         <translation>Bureau</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="89"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="88"/>
         <source>Applications</source>
         <translation>Applications</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="91"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="90"/>
         <source>Other...</source>
         <translation>Autre…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="97"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="96"/>
         <source>%1 [%2] - Last Played: %3</source>
         <translation>%1 [%2] - Dernièrement jouer&#xa0;: %3</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="113"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="112"/>
         <source>%1 (in use)</source>
         <translation>%1 (en cours d&apos;utilisation)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="180"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="179"/>
         <source>%1 - %2</source>
         <translation>%1 - %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="182"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="181"/>
         <source>%1 - Server %2</source>
         <translation>%1 - Serveur %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="197"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="196"/>
         <source>instance</source>
         <translation>instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="201"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="200"/>
         <source>world</source>
         <translation>monde</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="204"/>
+        <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="203"/>
         <source>server</source>
         <translation>serveur</translation>
     </message>
@@ -2231,44 +2231,44 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
 <context>
     <name>DataPackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
         <source>Enable</source>
         <translation>Activer</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
         <source>Image</source>
         <translation>Image</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
         <source>Pack Format</source>
         <translation>Format du pack</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
         <source>Last Modified</source>
         <translation>Dernière modification</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="78"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="77"/>
         <source>Unrecognized</source>
         <translation>Non reconnu</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="104"/>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="103"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="158"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>L&apos;ID du pack de données ainsi que les versions de Minecraft qui ont été conçu pour.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="109"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="108"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -2277,24 +2277,24 @@ Avertissement&#xa0;: Cette ressource est symboliquement liée à une autre resso
 Chemin canonique&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="116"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="115"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 Avertissement&#xa0;: Cette ressource est directement liée à une autre. L&apos;éditer modifiera également l&apos;original.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
         <translation>Le pack de données est-il actif&#x202f;? (Uniquement disponible pour les ZIPs)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="155"/>
         <source>The name of the data pack.</source>
         <translation>Le nom du pack de données.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="161"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="160"/>
         <source>The date and time this data pack was last changed (or added).</source>
         <translation>La date et l&apos;heure de la dernière modification (ou de la création) de ce pack de données.</translation>
     </message>
@@ -3378,7 +3378,7 @@ Are you sure you want to do this?</source>
         <translation>Le fichier choisi ne semble pas être un exécutable</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="53"/>
         <source>Tools</source>
         <translation>Outils</translation>
     </message>
@@ -3453,7 +3453,7 @@ Veuillez réessayer.</translation>
 <context>
     <name>FTBImportAPP::ImportFTBPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="44"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="43"/>
         <source>FTB App Import</source>
         <translation>Importation de l&apos;app FTB</translation>
     </message>
@@ -4030,12 +4030,10 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
 <context>
     <name>GameOptions</name>
     <message>
-        <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="71"/>
         <source>Key</source>
         <translation>Clé</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="73"/>
         <source>Value</source>
         <translation>Valeur</translation>
     </message>
@@ -4043,7 +4041,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
 <context>
     <name>GameOptionsPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="61"/>
+        <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="60"/>
         <source>Game Options</source>
         <translation>Options de jeu</translation>
     </message>
@@ -4244,7 +4242,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
         <translation>Fichier local ou lien vers un téléchargement direct&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="56"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="55"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
         <translation>Importer</translation>
@@ -4665,13 +4663,13 @@ Procéder avec prudence!</translation>
         <translation type="vanished">Mods principaux</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstancePageProvider.h" line="49"/>
+        <location filename="src/launcher/InstancePageProvider.h" line="48"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
         <translation>Autres journaux</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstancePageProvider.h" line="53"/>
+        <location filename="src/launcher/InstancePageProvider.h" line="52"/>
         <source>Edit Instance (%1)</source>
         <translation>Modifier l&apos;instance (%1)</translation>
     </message>
@@ -4945,7 +4943,7 @@ Procéder avec prudence!</translation>
         <translation>Adresse du serveur&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="55"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
         <source>Settings</source>
         <translation>Paramètres</translation>
     </message>
@@ -5383,7 +5381,7 @@ Veuillez vérifier que la valeur mémoire maximale est plus basse.</translation>
         <translation>&amp;Passer les vérifications de compatibilité de Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.h" line="59"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
@@ -5870,7 +5868,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
 <context>
     <name>LanguagePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="53"/>
+        <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="52"/>
         <source>Language</source>
         <translation>Langue</translation>
     </message>
@@ -6781,7 +6779,7 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
         <translation>Launcher</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="60"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
         <source>General</source>
         <translation>Général</translation>
     </message>
@@ -7207,7 +7205,7 @@ Raison&#xa0;:
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="246"/>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="69"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="68"/>
         <source>Minecraft Log</source>
         <translation>Journal de Minecraft</translation>
     </message>
@@ -8997,47 +8995,47 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="302"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="301"/>
         <source>&amp;Launch</source>
         <translation>&amp;Lancer</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="303"/>
         <source>Launch &amp;Offline</source>
         <translation>Lancer en mode &amp;Hors-ligne</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="305"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="305"/>
         <source>Launch &amp;Demo</source>
         <translation>Lancer &amp;Démo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
         <source>Profilers</source>
         <translation>Profileurs</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="325"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="324"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;Sans profileur</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1018"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1017"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1021"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1020"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -9046,22 +9044,22 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1023"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1022"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1037"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1036"/>
         <source>broken</source>
         <translation>endommagée</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1048"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1047"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1053"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1052"/>
         <source>, last played on %1 for %2</source>
         <translation>, joué pour la dernière fois le %1 pour %2</translation>
     </message>
@@ -9074,12 +9072,12 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
         <translation type="vanished">, joué pour la dernière fois pendant %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1060"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1059"/>
         <source>, total played for %1</source>
         <translation>, joué en tout pendant %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1065"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1064"/>
         <source>, has crashed.</source>
         <translation>, a cessé de fonctionner.</translation>
     </message>
@@ -9260,7 +9258,7 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
         <translation>&amp;Quitter le lanceur après que la fenêtre de jeu se ferme</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="55"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
         <source>Minecraft</source>
         <translation>Minecraft</translation>
     </message>
@@ -9944,12 +9942,12 @@ Il est préférable que vous changez le chemin du fichier - veuillez vous y réf
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="88"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="86"/>
         <source>Folder</source>
         <translation>Dossier</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="90"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="88"/>
         <source>File</source>
         <translation>Fichier</translation>
     </message>
@@ -9959,7 +9957,7 @@ Il est préférable que vous changez le chemin du fichier - veuillez vous y réf
         <translation>Inconnu</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="123"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -9968,19 +9966,19 @@ Avertissement : Cette ressource est symboliquement liée à une autre ressource.
 Chemin canonique : %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="129"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="127"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 Avertissement : Cette ressource est liée directement à d&apos;autres ressources. Le fait de l&apos;éditer modifiera également l&apos;original.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Version</source>
         <translation>Version</translation>
     </message>
@@ -9989,72 +9987,72 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
         <translation type="vanished">Dernière modification</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Provider</source>
         <translation>Fournisseur</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Enable</source>
         <translation>Activer</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Image</source>
         <translation>Image</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Last Modified</source>
         <translation>Dernière modification</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Size</source>
         <translation>Taille</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Side</source>
         <translation>Côté</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Loaders</source>
         <translation>Loaders</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Release Type</source>
         <translation>Type de sortie</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Minecraft Versions</source>
         <translation>Versions de Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="179"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="177"/>
         <source>Is the mod enabled?</source>
         <translation>Le mod est-il activé&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="181"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="179"/>
         <source>The name of the mod.</source>
         <translation>Le nom du mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="181"/>
         <source>The version of the mod.</source>
         <translation>La version du mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="185"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="183"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>La date et l&apos;heure à laquelle ce mod a été modifié (ou ajouté) pour la dernière fois.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="185"/>
         <source>The source provider of the mod.</source>
         <translation>Le fournisseur source du mod.</translation>
     </message>
@@ -10063,27 +10061,27 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
         <translation>D&apos;où le mod a été téléchargé.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
         <source>On what environment the mod is running.</source>
         <translation>L&apos;environnement dans lequel le mod s’exécute.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="191"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="189"/>
         <source>The mod loader.</source>
         <translation>Le mod loader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="193"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="191"/>
         <source>The supported minecraft versions.</source>
         <translation>Versions Minecraft Compatible.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="195"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="193"/>
         <source>The release type.</source>
         <translation>Le type de version.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="197"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="195"/>
         <source>The size of the mod.</source>
         <translation>La taille du mod.</translation>
     </message>
@@ -10698,18 +10696,18 @@ Veuillez mettre à jour %1 !</translation>
 <context>
     <name>Modrinth::ModpackListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="316"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="319"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="317"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="320"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="317"/>
         <source>A network error occurred. Could not load modpacks.</source>
         <translation>Une erreur de réseau s&apos;est produite. Impossible de charger les modpacks.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="323"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="324"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -11089,7 +11087,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
         <translation>Discord&#xa0;: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="66"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="65"/>
         <source>Modrinth</source>
         <translation>Modrinth</translation>
     </message>
@@ -11321,7 +11319,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
 <context>
     <name>NotesPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="54"/>
+        <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="53"/>
         <source>Notes</source>
         <translation>Notes</translation>
     </message>
@@ -12528,7 +12526,7 @@ Status HTTP&#xa0;: %2</translation>
         <translation>Remarque&#x202f;: le nom d&apos;utilisateur et le mot de passe du proxy sont stockés en texte brut à l&apos;intérieur du fichier de configuration du launcher&#x202f;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="57"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="56"/>
         <source>Proxy</source>
         <translation>Proxy</translation>
     </message>
@@ -12754,7 +12752,7 @@ Message d&apos;erreur&#xa0;: %1</translation>
         <translation>Vérification de Java échouée</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="64"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="65"/>
         <source>Minecraft Server</source>
         <translation>Serveur Minecraft</translation>
     </message>
@@ -14137,49 +14135,49 @@ Are you sure you want to do this?</source>
 <context>
     <name>ResourcePackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="159"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
         <source>Is the resource pack enabled?</source>
         <translation>Le pack de ressources est-il activé ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Enable</source>
         <translation>Activer</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Image</source>
         <translation>Image</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Last Modified</source>
         <translation>Dernière modification</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Size</source>
         <translation>Taille</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Provider</source>
         <translation>Fournisseur</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="79"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="78"/>
         <source>Unrecognized</source>
         <translation>Non reconnu</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="108"/>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="107"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>L&apos;ID de format du pack de ressources, ainsi que les versions de Minecraft pour lesquelles il a été conçu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="112"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -14188,29 +14186,29 @@ Avertissement : Cette ressource est symboliquement liée à une autre ressource.
 Chemin canonique : %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="119"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 Avertissement : Cette ressource est liée directement à d&apos;autres ressources. Le fait de l&apos;éditer modifiera également l&apos;original.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="168"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
         <source>The source provider of the resource pack.</source>
         <translation>Le fournisseur source du resource pack.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="170"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="169"/>
         <source>The size of the resource pack.</source>
         <translation>La taille du pack de ressources.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Pack Format</source>
         <translation>Format du pack</translation>
     </message>
@@ -14223,7 +14221,7 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
         <translation>Le pack de ressources est-il activé&#xa0;? (Valide seulement pour les ZIP)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="161"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
         <source>The name of the resource pack.</source>
         <translation>Le nom du pack de ressources.</translation>
     </message>
@@ -14232,7 +14230,7 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
         <translation type="vanished">La version du pack de ressources.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="166"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation>La date et l&apos;heure à laquelle ce pack de ressources à été dernièrement modifié (ou ajouté).</translation>
     </message>
@@ -14561,73 +14559,73 @@ Are you sure?</source>
         <translation type="vanished">Seuls les mods cochés seront téléchargés !</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="14"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="12"/>
         <source>Back</source>
         <translation>Retour</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="24"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="22"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="25"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="23"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="44"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="42"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
         <translation>Ce mod a été désactivé car il est peut être déjà installé.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="46"/>
         <source>Filename: %1</source>
         <translation>Nom du fichier&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="53"/>
         <source>This download will be placed in: %1</source>
         <translation>Ce téléchargement sera placé dans&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="62"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="60"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
         <translation>Ce fichier va être téléchargé dans un dossier différent de celui par défaut, probablement dû au fait que le chargeur le requiert.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="64"/>
         <source>Provider: %1</source>
         <translation>Fournisseur&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="73"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="71"/>
         <source>Required by: %1</source>
         <translation>Requis par&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="73"/>
         <source>Required by:</source>
         <translation>Requis par&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="90"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="88"/>
         <source>Version Type: %1</source>
         <translation>Type de version&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="115"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="113"/>
         <source>Confirm %1 selection</source>
         <translation>Confirmer la sélection de %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="117"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="115"/>
         <source>You&apos;re about to download the following %1:</source>
         <translation>Vous êtes sur le point de télécharger les %1 suivant&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="116"/>
         <source>Only %1 with a check will be downloaded!</source>
         <translation>Seuls les %1 cochés seront téléchargés&#x202f;!</translation>
     </message>
@@ -14681,7 +14679,7 @@ Are you sure?</source>
         <translation>Copier le(s) fichier(s)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="68"/>
         <source>Screenshots</source>
         <translation>Captures d&apos;écran</translation>
     </message>
@@ -14897,17 +14895,17 @@ Version actuellement installée : %1</translation>
 <context>
     <name>ServersModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="291"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="292"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="293"/>
         <source>Online</source>
         <translation>En ligne</translation>
     </message>
@@ -14989,17 +14987,17 @@ Version actuellement installée : %1</translation>
         <translation>Serveurs</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="605"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="606"/>
         <source>Context menu</source>
         <translation>Menu contextuel</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="736"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="737"/>
         <source>Confirm Removal</source>
         <translation>Confirmer la suppression</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="737"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="738"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
@@ -15785,13 +15783,13 @@ inheritsFrom est manquant</translation>
 <context>
     <name>TexturePackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Le pack de textures est-il activé ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Le nom du pack de textures.</translation>
@@ -15801,43 +15799,43 @@ inheritsFrom est manquant</translation>
         <translation type="vanished">La version du pack de textures.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>La date et l&apos;heure à laquelle ce pack de textures à été dernièrement modifié (ou ajouté).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Enable</source>
         <translation>Activer</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Image</source>
         <translation>Image</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Last Modified</source>
         <translation>Dernière modification</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Size</source>
         <translation>Taille</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Provider</source>
         <translation>Fournisseur</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="87"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="83"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -15846,19 +15844,19 @@ Avertissement : Cette ressource est symboliquement liée à une autre ressource.
 Chemin canonique : %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="94"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="90"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 Avertissement : Cette ressource est liée directement à d&apos;autres ressources. Le fait de l&apos;éditer modifiera également l&apos;original.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The source provider of the texture pack.</source>
         <translation>Le fournisseur source du pack de textures.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="148"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The size of the texture pack.</source>
         <translation>Taille du pack de textures.</translation>
     </message>
@@ -16144,7 +16142,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
-        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="43"/>
+        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="42"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
         <translation>La version %1 est maintenant disponible - vous avez la %2 . Voulez-vous la télécharger maintenant ?</translation>
     </message>
@@ -16169,7 +16167,7 @@ Are you sure?</source>
         <translation>Installer la mise à jour</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="41"/>
+        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="40"/>
         <source>A new version of %1 is available!</source>
         <translation>Une nouvelle version de %1 est disponible !</translation>
     </message>
@@ -17192,7 +17190,7 @@ Chemin canonique : %1</translation>
         <translation>Gérer les datapacks à l&apos;intérieur du monde.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="59"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
         <source>Worlds</source>
         <translation>Mondes</translation>
     </message>
