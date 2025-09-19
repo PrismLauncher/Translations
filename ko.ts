@@ -1898,12 +1898,12 @@ Some versions of Minecraft may not launch.
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation>코어 모드</translation>
+        <translation>핵심 모드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="85"/>
         <source>Core Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>핵심 모드</translation>
     </message>
 </context>
 <context>
@@ -2974,7 +2974,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="59"/>
         <source>Search</source>
-        <translation type="unfinished">검색</translation>
+        <translation>검색</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
@@ -4621,7 +4621,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/InstancePageProvider.h" line="48"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">다른 로그</translation>
+        <translation>다른 로그</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="52"/>
@@ -7089,7 +7089,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="57"/>
         <source>Wrap lines</source>
-        <translation>자동 줄바꿈</translation>
+        <translation>자동 줄 바꿈</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="67"/>
@@ -7129,7 +7129,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="158"/>
         <source>Search</source>
-        <translation type="unfinished">검색</translation>
+        <translation>검색</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -7602,16 +7602,16 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="64"/>
         <source>News Toolbar</source>
-        <translation>뉴스 도구 모음</translation>
+        <translation>소식 도구 모음</translation>
     </message>
     <message>
         <source>More news...</source>
-        <translation>뉴스 더 보기...</translation>
+        <translation>소식 더 보기...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation>개발 블로그를 열어 %1에 대한 더 많은 뉴스를 볼 수 있습니다.</translation>
+        <translation>개발 블로그를 열어 %1에 대한 더 많은 소식을 볼 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
@@ -7733,7 +7733,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More News...</source>
-        <translation type="unfinished"></translation>
+        <translation>소식 더 보기...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
@@ -8322,12 +8322,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="803"/>
         <source>Loading news...</source>
-        <translation>뉴스를 불러오는 중...</translation>
+        <translation>소식을 불러오는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="813"/>
         <source>No news available.</source>
-        <translation>뉴스가 없습니다.</translation>
+        <translation>소식이 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="857"/>
@@ -8718,12 +8718,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack Information</source>
-        <translation type="unfinished"></translation>
+        <translation>팩 정보</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>팩 이름:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
@@ -8748,7 +8748,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update From File</source>
-        <translation type="unfinished"></translation>
+        <translation>파일에서 업데이트</translation>
     </message>
     <message>
         <source>Update from file</source>
@@ -8811,7 +8811,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
         <source>Update Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>팩 업데이트</translation>
     </message>
     <message>
         <source>Update pack</source>
@@ -11160,7 +11160,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/news/NewsChecker.cpp" line="113"/>
         <source>Failed to load news RSS feed:
 %1</source>
-        <translation>뉴스 RSS 피드를 불러오지 못했습니다:
+        <translation>소식 RSS 피드를 불러오지 못했습니다:
 %1</translation>
     </message>
 </context>
@@ -11169,7 +11169,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="14"/>
         <source>News</source>
-        <translation>뉴스</translation>
+        <translation>새 소식</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
@@ -11180,12 +11180,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="52"/>
         <source>Hide article list</source>
-        <translation>뉴스 숨기기</translation>
+        <translation>목록 숨기기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="50"/>
         <source>Show article list</source>
-        <translation>뉴스 보이기</translation>
+        <translation>목록 보이기</translation>
     </message>
 </context>
 <context>
@@ -11368,7 +11368,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="135"/>
         <source>Wrap lines</source>
-        <translation>자동 줄바꿈</translation>
+        <translation>자동 줄 바꿈</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="145"/>
@@ -11408,7 +11408,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
         <source>Search</source>
-        <translation type="unfinished">검색</translation>
+        <translation>검색</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -12361,7 +12361,7 @@ HTTP 상태: %2</translation>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
         <source>Use s&amp;ystem settings</source>
         <oldsource>Use S&amp;ystem Settings</oldsource>
-        <translation type="unfinished">시스템 설정 사용(&amp;Y)</translation>
+        <translation>시스템 설정 사용(&amp;Y)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
@@ -13503,7 +13503,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data Packs</source>
         <oldsource>Data packs</oldsource>
-        <translation type="unfinished">데이터 팩</translation>
+        <translation>데이터 팩</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
@@ -14242,7 +14242,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>리소스 팩</translation>
     </message>
 </context>
 <context>
@@ -15043,7 +15043,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>셰이더 팩</translation>
     </message>
 </context>
 <context>
@@ -16386,7 +16386,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="48"/>
         <source>Search</source>
-        <translation type="unfinished">검색</translation>
+        <translation>검색</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="108"/>
