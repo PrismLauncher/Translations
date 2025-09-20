@@ -1923,7 +1923,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="85"/>
         <source>Core Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Core-Mods</translation>
     </message>
 </context>
 <context>
@@ -7827,7 +7827,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More News...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehr Neuigkeiten...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
@@ -8828,7 +8828,7 @@ Fortfahren?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Pack-Informationen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
