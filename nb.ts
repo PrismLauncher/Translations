@@ -1850,7 +1850,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="85"/>
         <source>Core Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Kjernemods</translation>
     </message>
 </context>
 <context>
@@ -1891,7 +1891,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
         <source>Override the default account</source>
-        <translation type="unfinished"></translation>
+        <translation>Overstyr standardkontoen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
@@ -2005,7 +2005,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Overstyr &amp;Globale Innstillinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -2469,7 +2469,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Overstyr &amp;Globale Innstillinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
@@ -2873,7 +2873,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="59"/>
         <source>Search</source>
-        <translation type="unfinished">Søk</translation>
+        <translation>Søk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
@@ -4371,7 +4371,7 @@ Prøv på nytt.</translation>
         <location filename="src/launcher/InstancePageProvider.h" line="48"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">Andre logger</translation>
+        <translation>Andre logger</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="52"/>
@@ -5950,7 +5950,7 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="105"/>
         <source>Instance Renaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Instansomdøping</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
@@ -6175,7 +6175,7 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Suggest to update an existing instance during modpack installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Foreslå å oppdatere en eksisterende instans under modpackinnstallasjon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
@@ -6703,7 +6703,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="158"/>
         <source>Search</source>
-        <translation type="unfinished">Søk</translation>
+        <translation>Søk</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -7241,7 +7241,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More News...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mer nyheter...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
@@ -7343,7 +7343,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;kondrakt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="749"/>
@@ -7363,7 +7363,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="771"/>
@@ -7383,7 +7383,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mjau</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
@@ -7393,7 +7393,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="275"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Lås verktøylinjer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
@@ -7403,7 +7403,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
@@ -7448,7 +7448,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="517"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Lukk &amp;Vindu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="520"/>
@@ -7468,7 +7468,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="627"/>
         <source>Open %1 Matrix space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne Matrix-rommet %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="686"/>
@@ -7484,7 +7484,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne %1-wikien</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
@@ -7519,17 +7519,17 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="380"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="261"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilbake</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="441"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
@@ -7544,7 +7544,7 @@ Grunn:
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="767"/>
         <source>Accounts</source>
-        <translation type="unfinished">Kontoer</translation>
+        <translation>Kontoer</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -7598,7 +7598,7 @@ Er du sikker?</translation>
         <location filename="src/launcher/ui/MainWindow.ui" line="424"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished">Vis verdenene i denne instansen.</translation>
+        <translation>Slett den valgte instansen.</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -7686,7 +7686,7 @@ Er du sikker?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="558"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished">Opprett instans</translation>
+        <translation>Opprett instans</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
@@ -7710,7 +7710,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="692"/>
         <source>Ctrl+%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="506"/>
@@ -7720,7 +7720,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="509"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="803"/>
@@ -7740,19 +7740,19 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="861"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Oppgave avbrutt</translation>
+        <translation>Oppgave avbrutt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="861"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Oppgaven ble avbrutt av brukeren.</translation>
+        <translation>Oppgaven ble avbrutt av brukeren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="865"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="992"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1026"/>
         <source>Abort</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="981"/>
@@ -7767,7 +7767,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1050"/>
         <source>No instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen instans!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1051"/>
@@ -7805,7 +7805,7 @@ Please check your trashbin to manually restore them.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1306"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Instans kan ikke redigeres</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1307"/>
@@ -7858,11 +7858,11 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Lag snarvei til instans</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke finne skrivebordet?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
@@ -7874,7 +7874,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke lage ikon til applikasjonen.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
@@ -7882,15 +7882,15 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagde en snarvei til denne instansen på skrivebordet ditt!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagde en snarvei til denne instansen!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke lage snarvei til instans!</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
@@ -7899,42 +7899,42 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
         <source>&amp;Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Omdøp gruppe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er du sikker på at du vil slette gruppen «%1»?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1187"/>
         <source>Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Omdøp gruppe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
         <source>Cannot rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan ikke omdøpe gruppe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
         <source>Cannot set empty name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan ikke sette navnet til å være tomt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
         <source>Group already exists. :/</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppen finnes allerede. :/</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
         <source>Cannot Delete Running Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan ikke slette en instans som kjører</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den valgte instansen kjører for øyeblikket og kan derfor ikke slettes. Avslutt instansen før du prøver å slette den.</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
@@ -7955,20 +7955,20 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>Sletter</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke lage ikon til snarveien.</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke støttet på din plattform!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
         <source>Rename Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Omdøp instans</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1636"/>
@@ -7998,7 +7998,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1671"/>
         <source>Total playtime: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Total spilletid: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="853"/>
@@ -8012,7 +8012,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
         <source>Open %1 Discord guild.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne Discord-serveren %1.</translation>
     </message>
     <message>
         <source>Couldn&apos;t create folder for update downloads:
@@ -8025,26 +8025,26 @@ Are you sure?</source>
     <name>ManagedPackPage</name>
     <message>
         <source>Pack information</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakkeinformasjon</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakkenavn:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakkeinformasjon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakkenavn:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nåværende versjon:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
@@ -8054,7 +8054,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdater til versjon:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
@@ -8064,26 +8064,26 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdater fra fil</translation>
     </message>
     <message>
         <source>Update from file</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdater fra fil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Endringslogg</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="186"/>
         <source>No changelog available for this version!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen endringslogg er tilgjengelig for denne versjonen!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="201"/>
         <source>Reload page</source>
-        <translation type="unfinished"></translation>
+        <translation>Last inn side på nytt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="144"/>
@@ -8102,36 +8102,36 @@ Den kan bare oppdateres med en fil i %1-formatet
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="194"/>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="198"/>
         <source>Warnings</source>
-        <translation type="unfinished">Advarsler</translation>
+        <translation>Advarsler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="201"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Oppgave avbrutt</translation>
+        <translation>Oppgave avbrutt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="201"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Oppgaven ble avbrutt av brukeren.</translation>
+        <translation>Oppgaven ble avbrutt av brukeren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="206"/>
         <source>Abort</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
         <source>Update Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdater pakke</translation>
     </message>
     <message>
         <source>Update pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdater pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="225"/>
