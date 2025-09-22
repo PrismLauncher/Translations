@@ -819,7 +819,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation>&amp;Cat Pack:</translation>
+        <translation>&amp;Πακέτο γάτας:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
@@ -874,42 +874,42 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαφανής</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Προεπισκόπηση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ΣΦΑΛΜΑ] ΟΟοοοοοΟΟΟοοοοο! Ένας τρομακτικό σφάλμα!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
         <source>[ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ΣΦΑΛΜΑ] Ένα τρομακτικό σφάλμα!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="263"/>
         <source>[INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[ΠΛΗΡΟΦΟΡΙΕΣ] Ένα άκακο μήνυμα...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[ΠΡΟΕΙΔΟΠΟΙΗΣΗ] Μια όχι και τόσο τρομακτική προειδοποίηση.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[ΕΛΕΓΧΟΣ ΣΦΑΛΜΑΤΩΝ] Ένα κρυφό μήνυμα ελέγχου σφαλμάτων...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ΜΟΙΡΑΙΟ] Ένα τρομοκρατικό μοιραίο σφάλμα!</translation>
     </message>
 </context>
 <context>
@@ -917,7 +917,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="700"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν μπορεί να γίνει η αεικόνηση της καταγραφής διότι το μήκος ξεπέρασε τις %1 γραμμές.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="906"/>
@@ -1009,7 +1009,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Η διεύθυνση /tmp σας είναι τοποθετημένη με την λειτουργεία &apos;noexec&apos;.
+Κάποιες εκδοχές του Minecraft ενδέχεται να μην λειτουργήσουν.
+
+Μπόρει να λύσεις το πρόβλημα με την επανατοποθέτηση του /tmp ως &apos;exec&apos; ή ρυθμίζοντας τη μεταβλητή java.io.tmpdir JVM σε ένα φάκελο με άδειες εγραφής σε ένα σύστημα αρχείων όπου η μεταβλητή &apos;exec&apos; είναι τοποθετημένη (π.χ  /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -1082,7 +1086,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Παραλαμβάνοντας τα αρχεία προσόντων απο %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
