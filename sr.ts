@@ -1073,8 +1073,9 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
-        <source>Getting the assets files from %1...</source>
-        <translation>Uzimanje assets fajlova od &amp;1...</translation>
+        <source>Getting the asset files from %1...</source>
+        <oldsource>Getting the assets files from %1...</oldsource>
+        <translation type="unfinished">Uzimanje assets fajlova od &amp;1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>

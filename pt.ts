@@ -1132,8 +1132,9 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
-        <source>Getting the assets files from %1...</source>
-        <translation>A obter os ficheiros de ativos de %1...</translation>
+        <source>Getting the asset files from %1...</source>
+        <oldsource>Getting the assets files from %1...</oldsource>
+        <translation type="unfinished">A obter os ficheiros de ativos de %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>

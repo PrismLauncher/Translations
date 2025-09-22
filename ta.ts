@@ -904,8 +904,9 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
-        <source>Getting the assets files from %1...</source>
-        <translation>சொத்து கோப்புகளை %1 இலிருந்து பெறுதல் ...</translation>
+        <source>Getting the asset files from %1...</source>
+        <oldsource>Getting the assets files from %1...</oldsource>
+        <translation type="unfinished">சொத்து கோப்புகளை %1 இலிருந்து பெறுதல் ...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>

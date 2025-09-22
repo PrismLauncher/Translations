@@ -1119,8 +1119,9 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
-        <source>Getting the assets files from %1...</source>
-        <translation>Henter ressursfiler fra %1...</translation>
+        <source>Getting the asset files from %1...</source>
+        <oldsource>Getting the assets files from %1...</oldsource>
+        <translation type="unfinished">Henter ressursfiler fra %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -12102,12 +12103,12 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kunne ikke lage ikon til snarveien.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ikke støttet på din plattform!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
@@ -12117,7 +12118,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kunne ikke finne skrivebordet?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="181"/>

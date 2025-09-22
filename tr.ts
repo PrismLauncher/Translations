@@ -1148,8 +1148,9 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
-        <source>Getting the assets files from %1...</source>
-        <translation>İçerik dosyaları %1&apos;den alınıyor...</translation>
+        <source>Getting the asset files from %1...</source>
+        <oldsource>Getting the assets files from %1...</oldsource>
+        <translation type="unfinished">İçerik dosyaları %1&apos;den alınıyor...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>

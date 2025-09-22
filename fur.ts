@@ -899,8 +899,9 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
-        <source>Getting the assets files from %1...</source>
-        <translation>Daûr a otignî i files des risorsis di %1...</translation>
+        <source>Getting the asset files from %1...</source>
+        <oldsource>Getting the assets files from %1...</oldsource>
+        <translation type="unfinished">Daûr a otignî i files des risorsis di %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>

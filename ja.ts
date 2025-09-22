@@ -1124,8 +1124,9 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
-        <source>Getting the assets files from %1...</source>
-        <translation>%1からassetsファイルを取得中...</translation>
+        <source>Getting the asset files from %1...</source>
+        <oldsource>Getting the assets files from %1...</oldsource>
+        <translation type="unfinished">%1からassetsファイルを取得中...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>

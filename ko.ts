@@ -1144,8 +1144,9 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
-        <source>Getting the assets files from %1...</source>
-        <translation>%1에서 애셋 파일을 가져오는 중...</translation>
+        <source>Getting the asset files from %1...</source>
+        <oldsource>Getting the assets files from %1...</oldsource>
+        <translation type="unfinished">%1에서 애셋 파일을 가져오는 중...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>

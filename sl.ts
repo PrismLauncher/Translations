@@ -1039,8 +1039,9 @@ Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; 
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
-        <source>Getting the assets files from %1...</source>
-        <translation>Pridobivanje datotek sredstev iz %1...</translation>
+        <source>Getting the asset files from %1...</source>
+        <oldsource>Getting the assets files from %1...</oldsource>
+        <translation type="unfinished">Pridobivanje datotek sredstev iz %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>

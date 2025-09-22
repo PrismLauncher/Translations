@@ -954,7 +954,8 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
-        <source>Getting the assets files from %1...</source>
+        <source>Getting the asset files from %1...</source>
+        <oldsource>Getting the assets files from %1...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

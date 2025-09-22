@@ -1095,8 +1095,9 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
-        <source>Getting the assets files from %1...</source>
-        <translation>Recuperăm fișierele de resurse dela %1...</translation>
+        <source>Getting the asset files from %1...</source>
+        <oldsource>Getting the assets files from %1...</oldsource>
+        <translation type="unfinished">Recuperăm fișierele de resurse dela %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
