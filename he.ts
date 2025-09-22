@@ -840,7 +840,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>ערכת נושא:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
@@ -928,7 +928,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="700"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">%1</translation>
+        <translation>לא ניתן להציג יומן רישום זה מכיוון שגודל יומן הרישום עולה על %1 שורות.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="906"/>
