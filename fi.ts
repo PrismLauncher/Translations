@@ -12931,7 +12931,7 @@ Päivitä %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"/>
         <source>No versions available</source>
-        <translation type="unfinished">Ei versioita saatavilla</translation>
+        <translation>Versioita ei saatavilla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="433"/>
