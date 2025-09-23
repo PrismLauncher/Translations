@@ -16590,7 +16590,7 @@ Dla tej instancji przełącz się na jedną z następujących wersji Javy:</tran
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="48"/>
         <source>Search</source>
-        <translation>Wyszukaj</translation>
+        <translation>Szukaj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="108"/>
