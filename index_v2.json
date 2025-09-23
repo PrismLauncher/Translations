@@ -414,8 +414,8 @@
             "file" : "446e6f7c41d3d9c971155596becae1f59f099e38.class",
             "sha1" : "446e6f7c41d3d9c971155596becae1f59f099e38",
             "size" : 302348,
-            "translated" : 2645,
-            "fuzzy" : 1,
+            "translated" : 2646,
+            "fuzzy" : 0,
             "untranslated" : 0
         },
         "kxm" : {
@@ -678,8 +678,8 @@
             "file" : "64049df5fa821a5fa8329de68ec860fbfcd15ac0.class",
             "sha1" : "64049df5fa821a5fa8329de68ec860fbfcd15ac0",
             "size" : 273654,
-            "translated" : 2645,
-            "fuzzy" : 1,
+            "translated" : 2646,
+            "fuzzy" : 0,
             "untranslated" : 0
         },
         "zh_TW" : {
