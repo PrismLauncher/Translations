@@ -1150,7 +1150,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished">İçerik dosyaları %1&apos;den alınıyor...</translation>
+        <translation>İçerik dosyaları %1&apos;den alınıyor...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1912,7 +1912,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="85"/>
         <source>Core Mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Core Modları</translation>
     </message>
 </context>
 <context>
@@ -2983,7 +2983,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="59"/>
         <source>Search</source>
-        <translation type="unfinished">Ara</translation>
+        <translation>Ara</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
@@ -4632,7 +4632,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <location filename="src/launcher/InstancePageProvider.h" line="48"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">Diğer sistem kayıtları</translation>
+        <translation>Diğer sistem kayıtları</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="52"/>
@@ -7160,7 +7160,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="158"/>
         <source>Search</source>
-        <translation type="unfinished">Ara</translation>
+        <translation>Ara</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -7546,7 +7546,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More News...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daha Fazla Haber...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
@@ -8757,12 +8757,12 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paket Hakkında</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paket İsmi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
@@ -8787,7 +8787,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update From File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dosya İle Güncelle</translation>
     </message>
     <message>
         <source>Update from file</source>
