@@ -14433,7 +14433,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skatīt ikona tēmas mapi.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
