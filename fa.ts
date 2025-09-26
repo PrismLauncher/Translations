@@ -12253,7 +12253,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="243"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ساخت شرت‌کات</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>

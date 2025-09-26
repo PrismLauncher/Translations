@@ -4057,7 +4057,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Բազմազան</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
@@ -5511,7 +5511,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Բազմազան</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
@@ -7655,7 +7655,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Բազմազան</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
