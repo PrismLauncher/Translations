@@ -44,7 +44,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>درصورت وجود مشکل در دانلود asset ها میتونی سرور رو تغییر بدی</translation>
+        <translation>درصورت وجود مشکل در دانلود asset ها میتونی سرور رو تغییر بدی.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -60,7 +60,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Mod&amp;rinth</source>
-        <translation>ماد رینت</translation>
+        <translation>مودرینس</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"/>
@@ -14619,7 +14619,7 @@ Are you sure?</source>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation>&amp;آیکن ها</translation>
+        <translation>&amp;آیکون ها</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
