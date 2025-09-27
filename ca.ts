@@ -11027,12 +11027,12 @@ Missatge de l&apos;error: %3</translation>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="124"/>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Les fallades de memòria cau de pixmaps per desnonament han succeït molt de pressa. S&apos;ha arribat a la capacitat màxima de la memòria cau, no es farà res</translation>
     </message>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation type="unfinished"></translation>
+        <translation>Les fallades de memòria cau de pixmaps per desnonament han succeït molt de pressa. S&apos;incrementarà la memòria cau a</translation>
     </message>
 </context>
 <context>
@@ -11144,18 +11144,20 @@ Motiu: %1.</translation>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="210"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;actualitzador ha sortit amb una condició desconeguda.
+Codi de sortida: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
         <source>StdOut: %1
 StdErr: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>StdOut: %1
+StdErr: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
         <source>There are no new updates available.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hi ha actualitzacions disponibles.</translation>
     </message>
 </context>
 <context>
@@ -11163,12 +11165,12 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilitzar una ruta personalitzada com a l&apos;arrel de l&apos;aplicació (posa &apos;.&apos; per indicar la carpeta actual).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>carpeta</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="107"/>
