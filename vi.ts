@@ -12789,7 +12789,7 @@ Bạn có muốn tiếp tục không?</numerusform>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="243"/>
         <source>Create Shortcut</source>
-        <translation>Tạo lối tắt</translation>
+        <translation>Tạo Shortcut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
