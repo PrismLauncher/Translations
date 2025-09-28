@@ -1774,27 +1774,27 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation>بسته های سایه (شیدرپک) را کپی کنید</translation>
+        <translation>رونویسی از شیدر پک‌ها (Shader Packs)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation>کپی سرور ها</translation>
+        <translation>رونویسی از سرور‌ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation>بسته های منابع (ریسورس پک)را کپی کنید</translation>
+        <translation>رونویسی از بسته‌های منابع (Resource Packs)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
         <source>Keep play time</source>
-        <translation>مدت زمان بازی کردن را نگه دار</translation>
+        <translation>نگهداری مدت زمان بازی کردن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation>کپی عکس های گرفته شده از صفحه</translation>
+        <translation>رونویسی عکس‌های گرفته شده از صفحه</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
@@ -1814,7 +1814,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation>روی ویندوز برای بوجود آوردن لینک های نمادین ممکن است نیاز به اجازه های ادمین داشته باشید</translation>
+        <translation>روی ویندوز برای بوجود آوردن لینک های نمادین ممکن است نیاز به اجازه های ادمین داشته باشید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
