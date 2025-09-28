@@ -29,7 +29,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="340"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="383"/>
         <source>Use Default</source>
-        <translation type="unfinished"></translation>
+        <translation>पूर्वनिर्धारित इस्तेमाल करे</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation type="unfinished"></translation>
+        <translation>संपत्तियों का सर्वर</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
@@ -55,7 +55,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="205"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation type="unfinished">&amp;माइक्रोसॉफ्ट प्रमाणीकरण</translation>
+        <translation>&amp;Microsoft प्रमाणीकरण</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -79,12 +79,12 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>एपीआई कीज़</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>नोट: यदि Microsoft प्रमाणीकरण के माध्यम से लॉग इन करना पहले से ही काम करता है, तो आपको संभवतः इसे सेट करने की आवश्यकता नहीं है।</translation>
+        <translation>ध्यान दे : अगर Microsoft प्रमाणीकरण पहले से ही काम करता है, तो आपको शायद इसे सेट करने की आवश्यकता नहीं है।।</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -93,11 +93,11 @@
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>यहां Microsoft प्रमाणीकरण के लिए एक कस्टम क्लाइंट आईडी दर्ज करें।</translation>
+        <translation>Microsoft प्रमाणीकरण के लिए यहाँ एक कस्टम क्लाइंट आईडी दर्ज करें।।</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>&amp;मोड्रिंथ एपीआई</translation>
+        <translation>&amp;मोड्रिंथ API</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>यहां मॉड्रिंथ के लिए एक कस्टम एपीआई टोकन दर्ज करें।</translation>
+        <translation>यहां Modrinth के लिए एक कस्टम एपीआई टोकन दर्ज करें।</translation>
     </message>
     <message>
         <source>(None)</source>
