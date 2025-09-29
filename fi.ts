@@ -2154,7 +2154,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
         <source>Image</source>
-        <translation type="unfinished">Kuva</translation>
+        <translation>Kuva</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
@@ -8946,7 +8946,7 @@ SInun on myös todennäköisesti vaihdettava polkua - saat lisätietoja modin ne
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="413"/>
         <source>Enable Auto-&amp;join</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä Automaattista &amp;Liittymistä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="435"/>
@@ -8976,7 +8976,7 @@ SInun on myös todennäköisesti vaihdettava polkua - saat lisätietoja modin ne
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"/>
         <source>Quilt</source>
-        <translation>Täkki</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
@@ -8986,12 +8986,12 @@ SInun on myös todennäköisesti vaihdettava polkua - saat lisätietoja modin ne
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
         <source>&amp;GLFW library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;GLFW-kirjaston polku:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="657"/>
         <source>&amp;OpenAL library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OpenAL-kirjaston polku:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="701"/>
