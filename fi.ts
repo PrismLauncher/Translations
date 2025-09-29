@@ -1081,7 +1081,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation>Ladataan palasien tiedostoja %1...:sta</translation>
+        <translation>Ladataan palasien tiedostoja %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1531,7 +1531,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>Yritä käyttää automaattisesti muita palveluntarjoajia, jos valittu palveluntarjoaja ei toimi.</translation>
+        <translation>Yritä käyttää automaattisesti muita palveluntarjoajia, jos valittu ei toimi.</translation>
     </message>
 </context>
 <context>
@@ -2328,7 +2328,7 @@ Oletko varma, että haluat tehdä näin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Vahvista poistaminen</translation>
+        <translation>Vahvista poistaminen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="204"/>
