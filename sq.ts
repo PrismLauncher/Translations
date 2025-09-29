@@ -667,7 +667,7 @@ Nese jeni i ri ketu, ju mundeni te selektoni &quot;Shto Microsoft&quot; buton qe
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Shkallëzimi i maces</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
@@ -777,7 +777,7 @@ Për të fshirë këtë bllokim dhe për të vazhduar, zgjidhni &quot;Injoro&quo
     <message>
         <location filename="src/launcher/Application.cpp" line="1069"/>
         <source>Update In Progress</source>
-        <translation type="unfinished">Perditesim Ne Vazhdim.</translation>
+        <translation>Shkallëzimi i maces</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1093"/>
@@ -787,10 +787,12 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished">Një përpjekje për përditësim dështoi
+        <translation>Një përpjekje për përditësim dështoi.
 
-Ju lutemi sigurohuni që instalimi juaj të jetë në gjendje pune përpara se të vazhdoni.
-Kontrolloni regjistrin e përditësimit të Prism Launcher në:
+Ju lutemi sigurohuni që instalimi juaj të jetë në gjendje të rregullt përpara se të vazhdoni.
+
+Kontrolloni regjistrin e përditësuesit të Prism Launcher te:
+
 %1
 
 për detaje mbi përpjekjen e fundit për përditësim.</translation>
@@ -896,7 +898,7 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>mojäng</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
