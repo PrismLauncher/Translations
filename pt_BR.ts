@@ -1005,7 +1005,7 @@ para obter detalhes sobre a última tentativa de atualização.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1101"/>
         <source>Update Failed</source>
-        <translation>Atualização falhou</translation>
+        <translation>Atualização Falhou</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1125"/>
@@ -1043,7 +1043,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>Seu diretório /tmp está atualmente montado com o sinalizador &apos;noexec&apos; habilitado.
 Algumas versões do Minecraft podem não iniciar.
 
-Você pode resolver esse problema remontando /tmp como &apos;exec&apos; ou definindo o argumento java.io.tmpdir JVM para um diretório gravável em um sistema de arquivos onde o sinalizador &apos;exec&apos; está definido (por exemplo, /home/user/.local/tmp)
+Você pode resolver esse problema remontando /tmp como &apos;exec&apos; ou definindo o argumento de JVM java.io.tmpdir para um diretório gravável em um sistema de arquivos onde o sinalizador &apos;exec&apos; está definido (por exemplo, /home/user/.local/tmp)
 </translation>
     </message>
     <message>
@@ -1067,22 +1067,22 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/Application.cpp" line="1951"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>Dados antigos do %1 foram encontrados, mas você já tem dados existentes para o %2. Infelizmente, você terá de migrar manualmente. Você quer ser lembrado de dados pendentes de migração da próxima vez que você iniciar %2?</translation>
+        <translation>Dados antigos de %1 foram encontrados, mas você já tem dados existentes para %2. Infelizmente, você terá de migrar manualmente. Você quer ser lembrado de dados pendentes de migração da próxima vez que iniciar %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1955"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation>Parece que você usou o %1 anteriormente. Você gostaria de migrar seus dados para a nova localização do %2?</translation>
+        <translation>Parece que você usou %1 anteriormente. Você gostaria de migrar seus dados para a nova localização de %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1961"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation>Parece que você usou o %1 em %2 anteriormente. Você gostaria de migrar seus dados para a nova localização do %3?</translation>
+        <translation>Parece que você usou %1 em %2 anteriormente. Você gostaria de migrar seus dados para a nova localização de %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="2005"/>
         <source>Migration failed! Reason: %1</source>
-        <translation>Falha na migração! Razão: %1</translation>
+        <translation>Falha na migração! Motivo: %1</translation>
     </message>
 </context>
 <context>
@@ -1154,7 +1154,7 @@ Algumas versões do Minecraft podem não iniciar.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished">Obtendo os arquivos de ativos de %1...</translation>
+        <translation>Obtendo os arquivos de recursos de %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1171,7 +1171,7 @@ Algumas versões do Minecraft podem não iniciar.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="101"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>Falha ao baixar os recursos:
+        <translation>Falha ao baixar recursos:
 %1</translation>
     </message>
 </context>
@@ -1201,7 +1201,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>Selecionar mods para instalar</translation>
+        <translation>Selecione Mods Para Instalar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -1211,17 +1211,17 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation>Selecionar recomendados</translation>
+        <translation>Selecionar Recomendados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation>Usar código de compartilhamento</translation>
+        <translation>Usar Código de Compartilhamento</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation>Apagar tudo</translation>
+        <translation>Apagar Tudo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
@@ -1244,7 +1244,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="244"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>Tem certeza de que quer ativar este mod?</translation>
+        <translation>Tem certeza que deseja ativar este mod?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
@@ -1310,7 +1310,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation>Não se pôde carregar ou baixar a lista de versões!</translation>
+        <translation>Não foi possível carregar ou baixar a lista de versões!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
@@ -1323,7 +1323,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="50"/>
         <source>Finished all authentication steps</source>
-        <translation>Todas as etapas de autenticação foram concluídas</translation>
+        <translation>Todas as etapas de autenticação concluídas</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="55"/>
@@ -1368,12 +1368,12 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation>Falha ao autenticar. A conta não existe.</translation>
+        <translation>Falha ao autenticar. A conta não existe mais.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
@@ -1401,7 +1401,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation>Seus Metadados estão desatualizadas ou não possuem as informações necessárias para determinar qual instalação do Java deve ser usada. Usando o caminho Java padrão.</translation>
+        <translation>Seus metadados estão desatualizados ou não possuem as informações necessárias para determinar qual instalação do Java deve ser usada. Usando o caminho Java padrão.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
@@ -1511,7 +1511,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Suas pastas de mods global configurada e padrão de downloads foram automaticamente verificadas para mods baixados e serão copiados para a instância, se encontrada.&lt;/p&gt;&lt;p&gt;Alternativamente, você pode arrastar e soltar os mods baixados nesta caixa de diálogo ou adicionar uma pasta para ver se você não baixou os mods para a localização padrão.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Clique &apos;Abrir Não Encontrados&apos; para abrir todos os links de download no seu navegador. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Suas pastas de mods global configurada e padrão de downloads foram automaticamente verificadas para mods baixados e serão copiados para a instância, se encontrados.&lt;/p&gt;&lt;p&gt;Alternativamente, você pode arrastar os mods baixados para esta caixa de diálogo ou adicionar uma pasta para ser observada caso não tenha baixado os mods na localização padrão.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Clique &apos;Abrir Não Encontrados&apos; para abrir todos os links de download no seu navegador. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -1521,17 +1521,17 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
-        <translation>Abrir os que faltam</translation>
+        <translation>Abrir Não Encontrados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
         <source>Watched Folders</source>
-        <translation>Pastas Visualizadas</translation>
+        <translation>Pastas Monitoradas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
         <source>Add Download Folder</source>
-        <translation>Adicione a Pasta de Download</translation>
+        <translation>Adicione a Pasta de Downloads</translation>
     </message>
     <message>
         <source>Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;br/&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.</source>
@@ -1545,7 +1545,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Não encontrado &lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Não Encontrado &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="159"/>
@@ -1558,11 +1558,11 @@ Algumas versões do Minecraft podem não iniciar.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;As suas pastas configuradas de mods globais e de downloads padrão são automaticamente verificadas e os mods encontrados serão copiados para a instância.&lt;/p&gt;&lt;p&gt;Opcionalmente, você pode arrastar os mods baixados para esta janela ou adicionar uma pasta para ser observada se você baixou os mods em uma pasta não padrão.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;As suas pastas configuradas de mods globais e de downloads padrão são automaticamente verificadas e os mods encontrados serão copiados para a instância.&lt;/p&gt;&lt;p&gt;Alternativamente, você pode arrastar os mods baixados para esta caixa de diálogo ou adicionar uma pasta para ser observada caso não tenha baixado os mods na localização padrão.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation>Pastas monitoradas:</translation>
+        <translation>Pastas Monitoradas:</translation>
     </message>
 </context>
 <context>
@@ -1583,7 +1583,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Não se pôde achar o verificador de Java. Verifique a sua instalação.</translation>
+        <translation>A biblioteca de verificação do Java não foi encontrada. Verifique a sua instalação.</translation>
     </message>
 </context>
 <context>
@@ -1678,13 +1678,13 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
         <source>Multiple subtasks failed</source>
-        <translation>Multiplas subtarefas falharam</translation>
+        <translation>Múltiplas subtarefas falharam</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation>Multiplas subtarefas falharam
+        <translation>Múltiplas subtarefas falharam
 %1</translation>
     </message>
     <message>
@@ -1695,12 +1695,12 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
         <source>Please wait...</source>
-        <translation>Por Favor, aguarde...</translation>
+        <translation>Por favor, aguarde...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
         <source>Waiting for a task to start...</source>
-        <translation>Esperando a tarefa iniciar...</translation>
+        <translation>Esperando tarefa para iniciar...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="253"/>
@@ -1718,7 +1718,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation>Copiar instância</translation>
+        <translation>Copiar Instância</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
@@ -1743,7 +1743,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation>Opções de cópia de instância</translation>
+        <translation>Opções de Cópia de Instância</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
@@ -1768,7 +1768,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
         <source>Advanced Copy Options</source>
-        <translation>Opções avançadas de cópia</translation>
+        <translation>Opções Avançadas de Cópia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
@@ -1778,7 +1778,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation>Opções de links simbólicos e físicos</translation>
+        <translation>Opções de Links Simbólicos e Físicos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
@@ -1834,7 +1834,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation>Os arquivos clonados com reflinks não ocupam espaço extra até que sejam modificados.</translation>
+        <translation>Arquivos clonados com reflinks não ocupam espaço extra até que sejam modificados.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
@@ -1849,7 +1849,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation>Copiar packs de shaders</translation>
+        <translation>Copiar pacotes de shaders</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
@@ -1859,7 +1859,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation>Copiar texturas</translation>
+        <translation>Copiar pacotes de texturas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
@@ -1916,7 +1916,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="85"/>
         <source>Core Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods Principais</translation>
     </message>
 </context>
 <context>
@@ -1924,7 +1924,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="14"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation>Não se pôde criar a pasta principal do jogo</translation>
+        <translation>Não foi possível criar a pasta principal do jogo</translation>
     </message>
 </context>
 <context>
@@ -1937,7 +1937,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation>Salvar para:</translation>
+        <translation>Salvar Em:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
@@ -1967,7 +1967,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation>Selecione um lugar para entrar ao iniciar</translation>
+        <translation>Selecione local para entrar ao iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
@@ -2013,7 +2013,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="96"/>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation>%1[%2] - jogado pela última vez: %3</translation>
+        <translation>%1[%2] - Jogado pela última vez: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="112"/>
@@ -2056,12 +2056,12 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>C&amp;omando pós-saída:</translation>
+        <translation>Comando p&amp;ós-saída:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>Comando de &amp;Pré-lançamento:</translation>
+        <translation>Comando de &amp;Pré-inicialização:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
@@ -2071,28 +2071,28 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation>Sobrescrever &amp;Configurações Globais</translation>
+        <translation>Sobrescrever Configurações &amp;Globais</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation>&amp;Comandos Pré-inicialização</translation>
+        <translation>Comandos de &amp;Pré-Inicialização</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>P&amp;ost-exit Command</source>
-        <translation>Comandos após terminar</translation>
+        <translation>Comandos P&amp;ós-Saída</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
         <source>&amp;Wrapper Command</source>
-        <translation>Comando de wrapper</translation>
+        <translation>Comando de &amp;Wrapper</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;O comando de pré-inicialização roda antes da execução da instância, e o de pós-saída roda após a instância acabar a executação.&lt;/p&gt;&lt;p&gt;Ambos serão rodados na pasta de trabalho do iniciador com variáveis adicionais de ambiente:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME — Nome da instância&lt;/li&gt;&lt;li&gt;$INST_ID — ID da instância (nome da pasta)&lt;/li&gt;&lt;li&gt;$INST_DIR — Caminho absoluto da instância (o nome da pasta)&lt;/li&gt;&lt;li&gt;$INST_MC_DIR — Caminho absoluto do Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA — Binário do Java usado na inicialização&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS — Parâmetros de linha de comando usados na inicialização (aviso: estes argumentos não funcionam corretamente ao terem espaços)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Comandos de wrapper permitem o uso de um programa adicional junto da instância (como o &apos;optirun&apos; no Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;O comando de pré-inicialização é executado antes da inicialização da instância, e o de pós-saída roda após a instância fechar.&lt;/p&gt;&lt;p&gt;Ambos serão rodados na pasta de trabalho do iniciador com variáveis adicionais de ambiente:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nome da instância&lt;/li&gt;&lt;li&gt;$INST_ID - ID da instância (nome da pasta)&lt;/li&gt;&lt;li&gt;$INST_DIR - caminho absoluto da instância&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - caminho absoluto do Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - binário do Java usado na inicialização&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - parâmetros de linha de comando usados na inicialização (aviso: estes argumentos não funcionarão corretamente se contiverem espaços)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Comandos de wrapper permitem o uso de um programa adicional junto da instância (como o &apos;optirun&apos; no Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2112,7 +2112,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
         <source>Releases</source>
-        <translation>Lançamentos</translation>
+        <translation>Edições</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
@@ -2147,7 +2147,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
         <source>Mod Loader</source>
-        <translation>Carregador de mods</translation>
+        <translation>Carregador de Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="182"/>
@@ -2249,7 +2249,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
         <source>Pack Format</source>
-        <translation>Formato do pacote</translation>
+        <translation>Formato do Pacote</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
@@ -2297,7 +2297,7 @@ Aviso: Este recurso está fisicamente ligado a algo em outro lugar. Editá-lo ir
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="160"/>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation>Data e hora mais recente que este pacote de dados foi modificado/adicionado.</translation>
+        <translation>Data e hora mais recente que este pacote de dados foi modificado (ou adicionado).</translation>
     </message>
 </context>
 <context>
@@ -2325,7 +2325,7 @@ Aviso: Este recurso está fisicamente ligado a algo em outro lugar. Editá-lo ir
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
         <source>Download Data Packs</source>
-        <translation>Baixar pacotes de dados</translation>
+        <translation>Baixar Pacotes de Dados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"/>
@@ -2342,7 +2342,7 @@ Aviso: Este recurso está fisicamente ligado a algo em outro lugar. Editá-lo ir
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
         <source>Aborted</source>
-        <translation>Interrompido</translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
@@ -2363,18 +2363,18 @@ Aviso: Este recurso está fisicamente ligado a algo em outro lugar. Editá-lo ir
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="189"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="262"/>
         <source>Abort</source>
-        <translation>Interromper</translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation>Atualizar de pacote de dados é impossível quando os metadados estão desabilitados!</translation>
+        <translation>Atualização de pacote de dados é impossível quando os metadados estão desabilitados!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="129"/>
         <source>Confirm Update</source>
-        <translation>Confirmar atualização</translation>
+        <translation>Confirmar Atualização</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="130"/>
@@ -2388,7 +2388,7 @@ Tem certeza que quer fazer isso?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"/>
         <source>The data pack updater was aborted!</source>
-        <translation>A atualização do pacote de dados foi interrompida!</translation>
+        <translation>A atualização do pacote de dados foi abortada!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
@@ -2420,7 +2420,7 @@ Tem certeza que quer fazer isso?</translation>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
         <translation>Você está prestes a remover os metadados de %1 pacotes de dados.
-Tem certeza de que quer fazer isso?</translation>
+Tem certeza que quer fazer isso?</translation>
     </message>
 </context>
 <context>
@@ -2482,7 +2482,7 @@ Tem certeza de que quer fazer isso?</translation>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>Pedindo informação de metadados de %1 a &apos;%2&apos;...</translation>
+        <translation>Pedindo informação de metadados a %1 de &apos;%2&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
@@ -2502,7 +2502,7 @@ Tem certeza de que quer fazer isso?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
         <source>Determining game ownership.</source>
-        <translation>Confirmando aquisição do jogo.</translation>
+        <translation>Confirmando titularidade do jogo.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
@@ -2519,7 +2519,7 @@ Tem certeza de que quer fazer isso?</translation>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation>Variáv&amp;eis de ambiente</translation>
+        <translation>Variáveis de ambi&amp;ente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2539,7 +2539,7 @@ Tem certeza de que quer fazer isso?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation>Sobrescrever &amp;Configurações Globais</translation>
+        <translation>Sobrescrever Configurações &amp;Globais</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
@@ -2556,7 +2556,7 @@ Tem certeza de que quer fazer isso?</translation>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation>Variável de ambiente</translation>
+        <translation>Variáveis de Ambiente</translation>
     </message>
 </context>
 <context>
@@ -2564,7 +2564,7 @@ Tem certeza de que quer fazer isso?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation>Exportar instância</translation>
+        <translation>Exportar Instância</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="136"/>
@@ -2987,7 +2987,7 @@ Tem certeza de que quer fazer isso?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="59"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Pesquisar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
@@ -4673,7 +4673,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <location filename="src/launcher/InstancePageProvider.h" line="48"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">Outros registros</translation>
+        <translation>Outros Registros</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="52"/>
@@ -7205,7 +7205,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="158"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Pesquisar</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -7818,7 +7818,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More News...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais Notícias…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
@@ -8827,12 +8827,12 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informações do Pacote</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do Pacote:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
@@ -8857,7 +8857,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizar a partir do Arquivo</translation>
     </message>
     <message>
         <source>Update from file</source>
@@ -8920,7 +8920,7 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
         <source>Update Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizar Pacote</translation>
     </message>
     <message>
         <source>Update pack</source>
@@ -11566,7 +11566,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Pesquisar</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -12519,7 +12519,7 @@ Estado HTTP: %2</translation>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
         <source>Use s&amp;ystem settings</source>
         <oldsource>Use S&amp;ystem Settings</oldsource>
-        <translation type="unfinished">Usar Configurações do Sistema</translation>
+        <translation>Usar configurações do sistema</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
@@ -13669,7 +13669,7 @@ Mensagem de erro: %3</translation>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data Packs</source>
         <oldsource>Data packs</oldsource>
-        <translation type="unfinished">Pacote de dados</translation>
+        <translation>Pacote de Dados</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
@@ -14408,7 +14408,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacotes de Recursos</translation>
     </message>
 </context>
 <context>
@@ -15209,7 +15209,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacotes de Shader</translation>
     </message>
 </context>
 <context>
@@ -15295,7 +15295,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="117"/>
         <source>Reset Skin</source>
-        <translation>Redefinir skin</translation>
+        <translation>Redefinir Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="131"/>
@@ -16552,7 +16552,7 @@ Por favor, troque para uma das seguintes versões do Java para esta instância:<
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="48"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Pesquisar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="108"/>
