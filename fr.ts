@@ -6487,7 +6487,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation>Vérifier le dossier de téléchargements de manière récurrente</translation>
+        <translation>Vérifier le dossier de téléchargements de manière récursive</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
