@@ -780,7 +780,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation>папку</translation>
+        <translation>праглядзець папку з тэмамі віджэтаў</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
