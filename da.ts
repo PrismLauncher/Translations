@@ -1469,7 +1469,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dine konfigurerede mapper til globale mods og standard downloads bliver automatisk tjekket for de hentede mods, som derefter kopieres til instansen, hvis de findes.&lt;/p&gt;&lt;p&gt; Du kan også trække og slippe de hentede mods her, eller tilføje en mappe, der skal overvåges, hvis du ikke har hentet modsene til standardplaceringen.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; Klik på “Åben manglende” for at åbne alle downloadlinks i browseren.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -5947,7 +5947,7 @@ Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsy
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>[Log4j Parse Error] Kunne ikke fortolke Log4j-loghændelse: %1</translation>
     </message>
 </context>
 <context>
@@ -6092,7 +6092,7 @@ Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsy
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="567"/>
         <source>Concurrent Download Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalt antal samtidige downloads:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="577"/>
@@ -6102,7 +6102,7 @@ Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsy
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="603"/>
         <source>Concurrent Task Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalt antal samtidige opgaver:</translation>
     </message>
     <message>
         <source>Move the data to new location (will restart the launcher)</source>
@@ -8203,9 +8203,9 @@ For at rydde metadatacachen manuelt, skal du trykke på Mapper -&gt; Vis Launche
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
         <source> and its %n registered shortcut(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform> og dens registrerede genvej %n</numerusform>
+            <numerusform> og dens %n registrerede genveje</numerusform>
         </translation>
     </message>
     <message>
@@ -9014,7 +9014,8 @@ Dette kan kun opdateres med en fil i %1 format
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gør det muligt at installere datapakker på tværs af alle verdener, hvis der er installeret et kompatibelt mod.
+Du skal sandsynligvis ændre stien - se mod’ets hjemmeside for vejledning.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
@@ -9029,7 +9030,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
         <source>Browse</source>
-        <translation type="unfinished">Gennemse</translation>
+        <translation>Gennemse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="368"/>
@@ -9054,27 +9055,27 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
@@ -9307,7 +9308,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Legacy Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
@@ -10720,7 +10721,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="125"/>
         <source>Keep updating</source>
-        <translation type="unfinished">Fortsæt opdatering</translation>
+        <translation>Fortsæt opdatering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="135"/>
@@ -10765,7 +10766,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
         <source>Search</source>
-        <translation type="unfinished">Søg</translation>
+        <translation>Søg</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -12134,7 +12135,7 @@ Denne meddelelse vil blive vist indtil du fjerner denne fra JVM argumenterne.</t
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Den angivne Java-binærfil virkede ikke.&lt;br /&gt;Du bør trykke på “Registrér” eller angive stien til Java-eksekverbaren.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
@@ -12581,7 +12582,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/GZip.cpp" line="205"/>
         <source>invalid or incomplete deflate data</source>
-        <translation type="unfinished"></translation>
+        <translation>ugyldige eller ufuldstændige deflate-data</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="207"/>
@@ -12612,12 +12613,12 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="243"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Opret Genvej</translation>
+        <translation>Opret Genvej</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished">launcheren er i den mappe den blev udtrukket fra, og den kan derfor ikke oprette genveje.</translation>
+        <translation>launcheren er i den mappe den blev udtrukket fra, og den kan derfor ikke oprette genveje.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
@@ -12628,7 +12629,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished">Launcher kører som forkert konfigureret AppImage? ($APPIMAGE miljøvariabel mangler)</translation>
+        <translation>Launcher kører som forkert konfigureret AppImage? ($APPIMAGE miljøvariabel mangler)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
@@ -12636,12 +12637,12 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished">Kunne ikke oprette ikon til genvej.</translation>
+        <translation>Kunne ikke oprette ikon til genvej.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished">Ikke understøttet på din platform!</translation>
+        <translation>Ikke understøttet på din platform!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
@@ -12651,7 +12652,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished">Kunne ikke finde skrivebordet?!</translation>
+        <translation>Kunne ikke finde skrivebordet?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="181"/>
@@ -12661,22 +12662,22 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="192"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation type="unfinished">Kunne du ikke finde applikationsmappen?</translation>
+        <translation>Kunne ikke finde programmappen?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="202"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation type="unfinished">Kunne ikke oprette instansmappe i applikationsmappen!</translation>
+        <translation>Kunne ikke oprette instansmappe i applikationsmappen!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="211"/>
         <source>Created a shortcut to this %1 in your applications folder!</source>
-        <translation type="unfinished">Oprettede en genvej til denne %1 i din programmappe!</translation>
+        <translation>Oprettede en genvej til denne %1 i din programmappe!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="235"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished">Skrivebord Indgange</translation>
+        <translation>Skrivebordsgenveje</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="244"/>
@@ -12686,45 +12687,45 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
         <source>Network error: %1</source>
-        <translation type="unfinished">Netværksfejl: %1</translation>
+        <translation>Netværksfejl: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished">Fejl: %1 svarede med en ikke forventet status kode %2 %3</translation>
+        <translation>Fejl: %1 svarede med en ikke forventet status kode %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke fortolke svaret fra Hastebin-serveren: forventede JSON, men modtog et ugyldigt svar. Fejl: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished">Fejl: %1 svarede med en misdannet response body</translation>
+        <translation>Fejl: %1 returnerede et ugyldigt eller misdannet svarindhold</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke fortolke svaret fra mclogs-serveren: forventede JSON, men modtog et ugyldigt svar. Fejl: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished">Fejl: %1 svarede med en fejl: %2</translation>
+        <translation>Fejl: %1 svarede med en fejl: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke fortolke svaret fra pasteGG-serveren: forventede JSON, men modtog et ugyldigt svar. Fejl: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">Fejl: %1 svarede med en fejlkode: %2
+        <translation>Fejl: %1 svarede med en fejlkode: %2
 Fejlmeddelelse: %3</translation>
     </message>
     <message>
@@ -12773,7 +12774,7 @@ Fejlmeddelelse: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation type="unfinished">data pakke</translation>
+        <translation>datapakke</translation>
     </message>
 </context>
 <context>
@@ -14220,7 +14221,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Shader-pakker</translation>
     </message>
 </context>
 <context>
@@ -15002,7 +15003,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished">Udseende</translation>
+        <translation>Udseende</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
@@ -15309,7 +15310,7 @@ Skift venligst til én af følgende Java-versioner for denne instans:</translati
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="48"/>
         <source>Search</source>
-        <translation type="unfinished">Søg</translation>
+        <translation>Søg</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="108"/>
@@ -15763,12 +15764,12 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="8"/>
         <source>Launcher Logs</source>
-        <translation type="unfinished">Launcher Logs</translation>
+        <translation>Launcher-logfiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="12"/>
         <source>View Launcher Logs</source>
-        <translation type="unfinished">Vis Launcher Logs</translation>
+        <translation>Vis Launcher-logfiler</translation>
     </message>
 </context>
 <context>
