@@ -1877,7 +1877,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation>Su Windows, i collegamenti simbolici potrebbero richiedere un permesso di admin per creare.</translation>
+        <translation>Su Windows, creare collegamenti simbolici potrebbe richiedere permessi di Amministratore.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
@@ -1940,7 +1940,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation>Utilizza un account diverso da quello attualmente predefinito.</translation>
+        <translation>Utilizza un account diverso da quello predefinito.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
@@ -6498,7 +6498,7 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>Imposta l&apos;opacità. 0% è completamente trasparente e 100% è completamente opaco.</translation>
+        <translation>Imposta l&apos;opacità del gatto. 0% è completamente trasparente e 100% è completamente opaco.</translation>
     </message>
     <message>
         <source>Opacity</source>
