@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Сервис &amp;Pastebin</translation>
+        <translation>&amp;Сервис Pastebin</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1158,7 +1158,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished">Получение файлов ресурсов от %1...</translation>
+        <translation>Получение файлов активов из %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
