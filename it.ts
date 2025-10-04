@@ -6498,7 +6498,7 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>Imposta l&apos;opacità del gatto. 0% è completamente trasparente e 100% è completamente opaco.</translation>
+        <translation>Imposta l&apos;opacità. 0% è completamente trasparente e 100% è completamente opaco.</translation>
     </message>
     <message>
         <source>Opacity</source>
