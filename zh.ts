@@ -1582,7 +1582,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>未找到 Java 检查器库，请检查 Java 是否正确安装。</translation>
+        <translation>未找到 Java 检查器库，请检查是否正确安装。</translation>
     </message>
 </context>
 <context>
