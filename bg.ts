@@ -4801,7 +4801,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="279"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="281"/>
@@ -5789,7 +5789,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Икони:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
@@ -10145,7 +10145,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="314"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не може да се покаже този лог, тъй като дължината на лога надхвърли %1 реда.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -10953,7 +10953,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="136"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пропусни</translation>
     </message>
 </context>
 <context>
@@ -14141,7 +14141,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отворете папката с теми за икони.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
@@ -14149,7 +14149,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отворете папката с теми за уиджети.</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
@@ -14161,7 +14161,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отворете папката с котешки пакети.</translation>
     </message>
     <message>
         <source>Refresh all</source>
@@ -14193,7 +14193,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Изглед</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
