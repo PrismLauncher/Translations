@@ -7,18 +7,18 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Pastebin Услуга</translation>
+        <translation>Пейстбин услуга</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Услуга за поставяне и тип</translation>
+        <translation>Тип на пейстбин услуга</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>Базов &amp;URL адрес</translation>
+        <translation>Базов URL адрес</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -34,22 +34,22 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Забележка: най-вероятно ще трябва да смените или изчистите базовият URL след промяната на типа на услугата за поставяне.</translation>
+        <translation>Забележка: Вероятно ще искате да промените или изчистите базовия URL, след като промените типа на пейстбин услугата.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Сървър за Aктиви</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Можете да зададете друг сървър, ако имате проблеми с изтеглянето на активи.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>&amp;API Keys</source>
-        <translation>&amp;API Ключove</translation>
+        <translation>API Ключove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="205"/>
@@ -84,7 +84,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Забележка: вероятно не е необходимо да задавате това, ако влизането чрез Microsoft автентикация работи.</translation>
+        <translation>Забележка: Вероятно не е нужно да настройвате това, ако влизането чрез удостоверяване на Microsoft вече работи.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -93,11 +93,11 @@
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Въведете персонализиран клиентски идентификатор за Microsoft автентикация тук.</translation>
+        <translation>Въведете тук персонализиран клиентски идентификатор за удостоверяване на Microsoft.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>&amp;Modrinth API</translation>
+        <translation>Modrinth API</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Въведене персонализиран API токен за Modrinth тук.</translation>
+        <translation>Въведете тук персонализиран API токен за Modrinth.</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation type="unfinished">Технически Клиент ИД</translation>
+        <translation>Клиентски идентификатор за Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -123,7 +123,7 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Въведете собствен GUID клиентски идентификатор за Technic тук.</translation>
+        <translation>Въведете тук персонализиран GUID клиентски идентификатор за Technic.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -132,12 +132,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>User Agent</source>
-        <translation>Потребителски агент</translation>
+        <translation>Потребителски Aгент</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>въведете персонализиран потребителски агент тук. Специалният низ $LAUNCHER_VER ще бъде заменен с версията на стартовия панел.</translation>
+        <translation>Въведете тук персонализиран Потребителски Aгент. Специалният низ $LAUNCHER_VER ще бъде заменен с версията на лаунчера.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -152,30 +152,30 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Можете да зададете това на сървър за метаданни на трета страна, за да използвате библиотеки с корекции или други хакове.</translation>
+        <translation>Можете да настроите това към сървър за метаданни на трета страна, за да използвате пачнати библиотеки или други хакове.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Въведете персонализиран URL за мета тук.</translation>
+        <translation>Въведете тук персонализиран URL за метаданни.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Забележка: трябва да зададете това, само ако желаете да имате достъп до частни данни. Прочетете &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;документацията&lt;/a&gt; за повече информация.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Забележка: трябва да зададете това само за достъп до лични данни. Прочетете &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;документацията&lt;/a&gt; за повече информация.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>API на CurseForge Core</translation>
+        <translation>Основен API на CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Забележка: вероятно не е необходимо да задавате това, ако CurseForge вече работи.</translation>
+        <translation>Забележка: Вероятно не е нужно да настройвате това, ако CurseForge вече работи.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Въведете персонализиран API ключ за CurseForge тук.</translation>
+        <translation>Въведете тук персонализиран API ключ за CurseForge.</translation>
     </message>
     <message>
         <source>APIs</source>
@@ -188,23 +188,23 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="121"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Нямаше възможност да се разбере манифестът на пакета:
+        <translation>Неуспешно разчитане на манифеста на пакета:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="343"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Неуспешно получаване на индекс на локални метаданни за %1</translation>
+        <translation>Неуспешно извличане на локалния индекс с метаданни за %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="153"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>не успя да получи локален индекс на метаданни за „%1“ v%2</translation>
+        <translation>Неуспешно извличане на локалния индекс с метаданни за &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="143"/>
         <source>Unsupported installation mode</source>
-        <translation>Неподдържан режим на инсталиране</translation>
+        <translation>Неподдържан инсталационен режим</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="184"/>
@@ -219,17 +219,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="374"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Неуспешно намиране на версия за зареждач %1</translation>
+        <translation>Неуспешно намиране на версия за %1 лоудър</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="387"/>
         <source>No loader version set for modpack!</source>
-        <translation>Няма зададена версия на зареждащия модул за modpack!</translation>
+        <translation>Не е зададена версия на лоудъра за модпака!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Неизвестен или неподдържан тип изтегляне: %1</translation>
+        <translation>Неизвестен или неподдържан тип на изтегляне: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="633"/>
@@ -239,7 +239,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Config download</source>
-        <translation>Изтегляне на конфигурации</translation>
+        <translation>Изтегляне на конфигурация</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="675"/>
@@ -249,22 +249,22 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="681"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>Неуспешно отваряне на конфигурациите за пакета %1!</translation>
+        <translation>Неуспешно отваряне на конфигурации за пакет %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
         <source>Selecting optional mods...</source>
-        <translation>Избиране на опционални модове...</translation>
+        <translation>Избиране на незадължителни модове...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"/>
         <source>Downloading mods...</source>
-        <translation>Изтегляне на модификациите...</translation>
+        <translation>Изтегляне на модове...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Mod download</source>
-        <translation>Изтегляне на модификация</translation>
+        <translation>Изтегляне на мод</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -274,52 +274,52 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="743"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="873"/>
         <source>Unknown download type: %1</source>
-        <translation>неизвестен тип изтегляне: %1</translation>
+        <translation>Неизвестен тип на изтегляне: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="823"/>
         <source>Blocked mods found</source>
-        <translation>Засечени са блокирани модове</translation>
+        <translation>Намерени са блокирани модове</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Следните файлове не са налични за изтегляне в лаунчери на трети страни.&lt;br/&gt;Ще трябва да ги изтеглите ръчно и да ги добавите към инстанцията.</translation>
+        <translation>Следните файлове не са налични за изтегляне в лаунчъри на трети страни.&lt;br/&gt;Ще трябва да ги изтеглите ръчно и да ги добавите към инстанцията.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="880"/>
         <source>%1 out of %2 complete</source>
-        <translation>%1 от %2 готово</translation>
+        <translation>Завършени %1 от %2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="915"/>
         <source>Failed to extract mods...</source>
-        <translation>Неуспешно извличание на модификации...</translation>
+        <translation>Неуспешно извличане на модове...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="925"/>
         <source>Extracting mods...</source>
-        <translation>Извличане на модификации...</translation>
+        <translation>Извличане на модове...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="997"/>
         <source>Installing modpack</source>
-        <translation>Инсталиране на пакет с модификации</translation>
+        <translation>Инсталиране на модпак</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1009"/>
         <source>Failed to create libraries component</source>
-        <translation>Неуспешно създаване на компонент на библиотеки</translation>
+        <translation>Неуспешно създаване на библиотечен компонент</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1036"/>
         <source>Unknown loader type: </source>
-        <translation>Непознат вид зареждач: </translation>
+        <translation>Неизвестен тип лоудър: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1050"/>
         <source>Failed to create pack component</source>
-        <translation>Неуспешно създаване на компонент на пакета</translation>
+        <translation>Неуспешно създаване на пакетен компонент</translation>
     </message>
 </context>
 <context>
@@ -327,12 +327,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="107"/>
         <source>About</source>
-        <translation>Относно</translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Персонализиран стартер, който прави управлението на Minecraft по-лесно, като ви позволява да имате няколко копия на Minecraft наведнъж.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Персонализиран лаунчър, който улеснява управлението на Minecraft, като ви позволява да имате множество инстанции на Minecraft едновременно.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -382,17 +382,17 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="140"/>
         <source>About %1</source>
-        <translation>Около 1%</translation>
+        <translation>За %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
         <source>Commit: %1</source>
-        <translation>Предаване на съхранение: 1%</translation>
+        <translation>Въведение: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
         <source>Build date: %1</source>
-        <translation>Дата на версия: 1%</translation>
+        <translation>Дата на версията: %1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -436,7 +436,7 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>Не отметнато</translation>
+        <translation>Немаркиран</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -451,12 +451,12 @@
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>Работейки</translation>
+        <translation>Работи</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Грешка</translation>
+        <translation>С грешка</translation>
     </message>
     <message>
         <source>Expired</source>
@@ -466,7 +466,7 @@
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>Изключен</translation>
+        <translation>Деактивиран</translation>
     </message>
     <message>
         <source>Gone</source>
@@ -476,7 +476,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>Типа на профила (MSA или Офлайн)</translation>
+        <translation>Тип на акаунта (МСА или Офлайн)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -540,12 +540,12 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Minecraft потребителско име е свързано с акаунта.</translation>
+        <translation>Потребителско име в Minecraft, свързано с акаунта.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
         <source>User name of the account.</source>
-        <translation>Потребителско име на акаунт.</translation>
+        <translation>Потребителско име на акаунта.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -573,7 +573,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="105"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation>&amp;Премахни</translation>
+        <translation>Прем&amp;ахни</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"/>
@@ -585,7 +585,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>&amp;Няма по подразбиране</translation>
+        <translation>&amp;Няма по Подразбиране</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
@@ -627,17 +627,17 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>&amp;Обнови</translation>
+        <translation>&amp;Опресни</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
         <source>Refresh the account tokens</source>
-        <translation>Обнови токенът на акаунта</translation>
+        <translation>Опресни токените на акаунта</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
         <source>Accounts</source>
-        <translation>Профили</translation>
+        <translation>Акаунти</translation>
     </message>
     <message>
         <source>Welcome!
@@ -651,13 +651,13 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation>Здрасти!
-Ако си нов тук, може да избереш &quot;Добави Microsoft&quot; бутона за да свържеш твоят Microsoft профил.</translation>
+        <translation>Добре дошли!
+Ако сте нови тук, можете да изберете бутона &quot;Добави Microsoft&quot;, за да свържете вашия Microsoft акаунт</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Не е зададен клиентски ID за удостоверяване.</translation>
+        <translation>Не е зададен клиентски идентификатор за удостоверяване на Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="106"/>
@@ -691,7 +691,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Трябва да добавиш Microsoft профил който има Minecraft преди да добавиш офлайн профил.&lt;br&gt;&lt;br&gt; Ако си загубил профила контактувай с Microsoft за помощ.</translation>
+        <translation>Трябва да добавите Microsoft акаунт, който притежава Minecraft, преди да можете да добавите офлайн акаунт.&lt;br&gt;&lt;br&gt;Ако сте изгубили акаунта си, можете да се свържете с Microsoft за поддръжка.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -718,17 +718,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Моля въведете име за офлайн акаунт.</translation>
+        <translation>Моля, въведете вашето желано потребителско име, за да добавите вашия офлайн акаунт.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Remove account?</source>
-        <translation>Премахни профил?</translation>
+        <translation>Премахване на акаунта?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Do you really want to delete this account?</source>
-        <translation>Наистина ли искаш да изтриеш този профил?</translation>
+        <translation>Наистина ли искате да изтриете този акаунт?</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -783,7 +783,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="90"/>
         <source>All Versions</source>
-        <translation>Всички версии</translation>
+        <translation>Всички Версии</translation>
     </message>
 </context>
 <context>
@@ -791,7 +791,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="54"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Изглед</translation>
     </message>
 </context>
 <context>
@@ -799,119 +799,119 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отворете папката с котешки пакети.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Отвори папка</translation>
+        <translation>Отворете папка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отворете папката с теми за уиджети.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отворете папката с теми за икони.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Котешки пакет:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation type="unfinished"></translation>
+        <translation>Презаредете всичко</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Тема:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Икони:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Конзолен шрифт:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Maщаб на котка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Вместете</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="363"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Запълнете</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="368"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Разтегнете</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Прозрачност на котка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
         <source>Opaque</source>
-        <translation type="unfinished"></translation>
+        <translation>Непрозрачно</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Прозрачно</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Преглед</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ГРЕШКА] Ууууууууу! Призрачна грешка!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
         <source>[ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ГРЕШКА] Призрачна грешка!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="263"/>
         <source>[INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[ИНФО] Безвредно съобщение...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[ВНИМ] Не чак толкова призрачно предупреждение.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[ДЕБЪГ] Тайно дебъг съобщение...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ФАТАЛНО] Ужасяваща фатална грешка!</translation>
     </message>
 </context>
 <context>
@@ -919,7 +919,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="700"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не може да се покаже този лог, тъй като дължината на лога надхвърли %1 реда.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="906"/>
@@ -940,17 +940,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>Тази инсталация има наличен файл с заключване за актуализация на: %1
+        <translation>Тази инсталация има заключващ файл за актуализация, наличен в: %1
 
-Времеви маркер: %2
-Актуализация от версия %3 на версия %4
-Целева пътека за инсталация: %5
-Пътека към данните: %6
-Това вероятно означава, че опитa за актуализация е провален. Моля, уверете се, че инсталацията ви работи коректно, преди да продължите.
-За подробности относно последния опит за актуализация проверете лога на актуализатора на Prism Launcher на:
+Времева марка: %2
+Актуализиране от версия %3 до %4
+Целеви път за инсталиране: %5
+Път до данните: %6
+Това вероятно означава, че опитът за актуализация е неуспешен. Моля, уверете се, че инсталацията ви е в работно състояние, преди да продължите.
+Проверете лога на актуализатора на Prism Launcher на адрес:
 %7
+за подробности относно последния опит за актуализация.
 
-За да изтриете този файл със заключване и да продължите, изберете &quot;Игнорирай&quot; по-долу.</translation>
+За да изтриете това заключване и да продължите, изберете „Игнорирай“ по-долу.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1069"/>
@@ -965,17 +966,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation>Актуализацията се провали. 
+        <translation>Опитът за актуализация е неуспешен
 
-Моля, уверете се, че инсталацията ви работи коректно, преди да продължите. 
-Проверете лога на актуализатора на Prism Launcher във/в: 
+Моля, уверете се, че инсталацията ви е в работно състояние, преди да продължите.
+Проверете лога на актуализатора на Prism Launcher на адрес:
 %1
-за подробности за последния опит за актуализация.</translation>
+за подробности относно последния опит за актуализация.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1101"/>
         <source>Update Failed</source>
-        <translation>Актуализацията се провали</translation>
+        <translation>Актуализацията е неуспешна</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1125"/>
@@ -991,17 +992,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation>Актуализацията бе успешна.
+        <translation>Актуализацията е успешна
 
-Вие вече използвате версия %1.
-Проверете записите на актуализатора на Prism Launcher на:
-%1
+Сега работите с %1.
+Проверете лога на актуализатора на Prism Launcher на адрес:
+%2
 за подробности.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1133"/>
         <source>Update Succeeded</source>
-        <translation>Актуализацията завърши успешно</translation>
+        <translation>Актуализацията е успешна</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1165"/>
@@ -1013,7 +1014,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>Вашата директория /tmp в момента е монтирана с активиран флаг &apos;noexec&apos;.
 Някои версии на Minecraft може да не стартират.
 
-Може да решите този проблем, като ремонтирате /tmp с флаг &apos;exec&apos; или зададете JVM аргумента java.io.tmpdir на директория с възможност за запис в файловата система, в която е зададен флагът &apos;exec&apos; (например, /home/user/.local/tmp)
+Можете да решите този проблем, като ремонтирате /tmp като &apos;exec&apos; или като зададете аргумента на JVM java.io.tmpdir на директория за запис във файлова система, където е зададен флагът &apos;exec&apos; (напр. /home/user/.local/tmp)
 </translation>
     </message>
     <message>
@@ -1032,22 +1033,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1542"/>
         <source>Aborted</source>
-        <translation>Аборт</translation>
+        <translation>Прекратено</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1951"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>Стари данни от %1 са намерени, но вече имате съществуващи данни от %2. За жалост ще трябва да мигрирате. Искате ли да бъдете напомнени за предстоящото мигриране на вашите данни при следващият старт на %2?</translation>
+        <translation>Намерени са стари данни от %1, но вече имате съществуващи данни за %2. За съжаление, ще трябва да мигрирате сами. Искате ли да ви бъде напомнено за предстоящата миграция на данни следващия път, когато стартирате %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1955"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation>Изглежда сте ползвали %1 преди. Искате ли да мигрирате вашите данни към новото местоположение на %2?</translation>
+        <translation>Изглежда, че преди сте използвали %1. Искате ли да мигрирате данните си към новото местоположение на %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1961"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation>Изглежда сте ползвали %1 на %2 преди. Искате ли да мигрирате вашите данни към новото местоположение на %3?</translation>
+        <translation>Изглежда, че преди сте използвали %1 на %2. Искате ли да мигрирате данните си към новото местоположение на %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="2005"/>
@@ -1060,51 +1061,51 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation>Актуализиране на информационния индекс...</translation>
+        <translation>Актуализиране на индекса на активите...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
         <source>Asset index for %1</source>
-        <translation>Индекс на средства за %1</translation>
+        <translation>Индекс на активите за %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="42"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
         <source>Aborted</source>
-        <translation>Прекъснато</translation>
+        <translation>Прекратено</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
         <source>Failed to read the assets index!</source>
-        <translation>Не може да се види информационен индекс!</translation>
+        <translation>Неуспешно четене на индекса на активите!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Вземане на файловете с активи от %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Получавате информационните файлове от Mojang...</translation>
+        <translation>Вземане на файловете с активи от Mojang...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>Неуспешно получаване на информационния индекс:
+        <translation>Неуспешно изтегляне на индекса на активите:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="101"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>Неуспешно сваляне на средства
+        <translation>Неуспешно изтегляне на активи:
 %1</translation>
     </message>
 </context>
@@ -1120,13 +1121,13 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Сортиране по име</translation>
+        <translation>Сортирай по име</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>Сортиране по версия</translation>
+        <translation>Сортирай по версия на играта</translation>
     </message>
 </context>
 <context>
@@ -1144,7 +1145,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation>Избери препоръчителни</translation>
+        <translation>Избери Препоръчани</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
@@ -1154,7 +1155,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation>Изчисти всички</translation>
+        <translation>Изчисти всичко</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
@@ -1169,7 +1170,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="354"/>
         <source>No share code specified!</source>
-        <translation>Не е избран код за споделяне!</translation>
+        <translation>Не е посочен код за споделяне!</translation>
     </message>
 </context>
 <context>
@@ -1190,7 +1191,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Внимание: Тази функционалност все още бива разработвана. Ако попаднете на проблеми с инсталирания модпак, възможно е да има програмна грешка.</translation>
+        <translation>Предупреждение: Това все още е в процес на разработка.Ако срещнете проблеми с импортирания модпак, това може да е грешка (бъг).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
@@ -1201,7 +1202,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Търси и филтрирай...</translation>
+        <translation>Търсене и филтриране...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -1217,17 +1218,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>Към момента не са налични версии за Minecraft %1</translation>
+        <translation>Понастоящем няма налични версии за Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation>Няма налични версии към момента</translation>
+        <translation>Понастоящем няма налични версии</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation>Не можаха да се заредят или изтеглят списъците с версии!</translation>
+        <translation>Не можа да зареди или изтегли списъците с версии!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
@@ -1240,52 +1241,52 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="50"/>
         <source>Finished all authentication steps</source>
-        <translation>Завършени всички стъпки за удостоверяване</translation>
+        <translation>Завършени са всички стъпки за удостоверяване</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="55"/>
         <source>Initializing</source>
-        <translation>Инициализация</translation>
+        <translation>Инициализиране</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"/>
         <source>Waiting...</source>
-        <translation>Очакване...</translation>
+        <translation>Изчакване...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="95"/>
         <source>Working...</source>
-        <translation>Зареждане...</translation>
+        <translation>Работи...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
         <source>Authentication task succeeded.</source>
-        <translation>Автентикацията е успешна.</translation>
+        <translation>Задачата за удостоверяване е успешна.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
         <source>Failed to contact the authentication server.</source>
-        <translation>Неуспешно свързване към сървър за автентикация.</translation>
+        <translation>Неуспешен опит за връзка със сървъра за удостоверяване.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation>Клиентското ID бе променено. Нова сесия трябва да бъде стартирана.</translation>
+        <translation>Идентификацията на клиента е променена. Трябва да се създаде нова сесия.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
         <source>Encountered an error during authentication.</source>
-        <translation>Попаднахме на грешка по време на удостоверяване.</translation>
+        <translation>Възникна грешка по време на удостоверяване.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation>Неуспешна аутентикация. Сесията е изтекла.</translation>
+        <translation>Неуспешно удостоверяване. Сесията е изтекла.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation>Неуспешна аутентикация. Акаунта вече не съществува.</translation>
+        <translation>Неуспешно удостоверяване. Акаунтът вече не съществува.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
@@ -1295,7 +1296,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>Unknown account task state: %1</source>
-        <translation>Неизвестно състояние на акаунт: %1</translation>
+        <translation>Неизвестно състояние на задачата за акаунт: %1</translation>
     </message>
 </context>
 <context>
@@ -1303,37 +1304,37 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation>Автоматичният механизъм за Java откри 32-битова инсталация на Java.</translation>
+        <translation>Автоматичният Java механизъм откри 32-битова инсталация на Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation>Не беше открита съвместима версия на Java. Използва се версията по подразбиране.</translation>
+        <translation>Не беше намерена съвместима версия на Java. Използва се версията по подразбиране.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation>Вашата система (%1-%2) не е съвместима с автоматичната инсталация на Java. Използва се пътят за Java по подразбиране.</translation>
+        <translation>Вашата система (%1-%2) не е съвместима с автоматичното инсталиране на Java. Използва се локацията на Java по подразбиране.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation>Вашата мета информация е остаряла или не съдържа необходимата информация, за да се определи коя инсталация на Java трябва да се използва. Използва се пътят за Java по подразбиране.</translation>
+        <translation>Вашата мета информация е остаряла или не съдържа необходимата информация, за да се определи коя инсталация на Java трябва да се използва. Използва се локацията на Java по подразбиране.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
         <source>Compatible Java found at: %1.</source>
-        <translation>Намерена е съвместима версия на Java в: %1.</translation>
+        <translation>Намерена е съвместима Java на адрес: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation>Не беше открита съвместима версия на Java (бинарният файл не съществува). Използва се версията по подразбиране.</translation>
+        <translation>Не беше намерена съвместима версия на Java (бинарният файл не съществува). Използва се версията по подразбиране.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
         <source>Could not determine Java download type!</source>
-        <translation>Не беше възможно да се определи типът на изтегляне на Java!</translation>
+        <translation>Не можа да се определи типът за изтегляне на Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
@@ -1343,12 +1344,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation>Не бяха намерени версии на Java за вашата операционна система: %1-%2</translation>
+        <translation>Не са намерени версии на Java за вашата операционна система: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation>Не беше намерена съвместима версия на Java. Използва се стандартната версия.</translation>
+        <translation>Не беше намерена съвместима версия на Java. Използва се версията по подразбиране.</translation>
     </message>
 </context>
 <context>
@@ -1361,13 +1362,13 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Ново уведомление за функция!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Сигнал за нова функция!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation>Добавихме функция за автоматично изтегляне на правилната версия на Java за всяка версия на Minecraft (това може да бъде променено в настройките на Java). Искате ли да активирате или деактивирате тази функция?</translation>
+        <translation>Добавихме функция за автоматично изтегляне на правилната версия на Java за всяка версия на Minecraft (това може да бъде променено в настройките на Java). Бихте ли искали да активирате или деактивирате тази функция?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -1385,7 +1386,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
         <source>Profiler aborted</source>
-        <translation>Профилът е прекратен</translation>
+        <translation>Профилирането е прекратено</translation>
     </message>
 </context>
 <context>
@@ -1419,37 +1420,37 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропусни</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Вашата конфигурирана глобална папка за модове и папката за изтегляния по подразбиране се проверяват автоматично за изтеглените модове и те ще бъдат копирани в инстанцията, ако бъдат намерени.&lt;/p&gt;&lt;p&gt;По желание можете да плъзнете и пуснете изтеглените модове върху този диалогов прозорец или да добавите папка за наблюдение, ако не сте изтеглили модовете на място по подразбиране.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Кликнете върху „Отвори липсващите“, за да отворите всички линкове за изтегляне в браузъра.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
         <source>Blocked Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Блокирани модове</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
-        <translation>Отвори липсващи</translation>
+        <translation>Отвори липсващите</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
         <source>Watched Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Наблюдавани папки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
         <source>Add Download Folder</source>
-        <translation>Добави папка за изтеглени фаилове</translation>
+        <translation>Добавяне на папка за изтегляне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Изберете папката съдържаща изтеглените модове</translation>
+        <translation>Изберете директория, където сте изтеглили модовете</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
@@ -1463,11 +1464,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Конфигурираната глобална папка с модове и папката по подразбиране за изтегляне се проверяват автоматично за изтеглените модове и ако бъдат намерени, те ще бъдат копирани в инстанцията.&lt;/p&gt;&lt;p&gt;По желание можете да плъзнете и пуснете изтеглените модове в този диалогов прозорец или да добавите папка, която да наблюдавате, ако не сте изтеглили модовете на място по подразбиране.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Вашата конфигурирана глобална папка за модове и папката за изтегляния по подразбиране се проверяват автоматично за изтеглените модове и те ще бъдат копирани в инстанцията, ако бъдат намерени.&lt;/p&gt;&lt;p&gt;По желание можете да плъзнете и пуснете изтеглените модове върху този диалогов прозорец или да добавите папка за наблюдение, ако не сте изтеглили модовете на място по подразбиране.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation>Следвани папки:</translation>
+        <translation>Наблюдавани папки:</translation>
     </message>
 </context>
 <context>
@@ -1488,7 +1489,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Не беше намерена библиотека за проверка на Java. Моля, проверете инсталацията си.</translation>
+        <translation>Библиотеката за проверка на Java не може да бъде намерена. Моля, проверете инсталацията си.</translation>
     </message>
 </context>
 <context>
@@ -1496,7 +1497,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation>Изберете доставчик на мод</translation>
+        <translation>Изберете доставчик на модове</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
@@ -1521,7 +1522,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>Опитай се автоматично да използваш други доставчици, ако избраният е неуспешен</translation>
+        <translation>Опитай автоматично да използваш други доставчици, ако избраният се провали</translation>
     </message>
 </context>
 <context>
@@ -1529,32 +1530,32 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="188"/>
         <source>Aborted</source>
-        <translation>Отказано</translation>
+        <translation>Прекратено</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation>Задачата за зареждане на метаданни за някои компоненти не се изпълни успешно.</translation>
+        <translation>Някои задачи за зареждане на метаданни за компоненти се провалиха.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>Конфликтни изисквания открити по време на проверката на зависимостите!</translation>
+        <translation>Открити са конфликтни изисквания по време на проверката на зависимостите!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="467"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>Инстанцията има конфликтни изисквания.</translation>
+        <translation>Инстанцията има конфликтни зависимости.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="473"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>Инстанцията има нерешени зависимости при зареждане/проверка за стартиране.</translation>
+        <translation>Инстанцията има неразрешени зависимости по време на зареждане/проверка за стартиране.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не можа да се изтеглят метаданни за %1 %2. Моля, променете версията или опитайте отново по-късно.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
