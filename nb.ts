@@ -1121,7 +1121,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished">Henter ressursfiler fra %1...</translation>
+        <translation>Henter ressursfiler fra %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -5895,7 +5895,7 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorteringtype i instanslisten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
