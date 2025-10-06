@@ -166,8 +166,8 @@
             "file" : "9090ee9a9e909cce67fd2bce325b868efb40a873.class",
             "sha1" : "9090ee9a9e909cce67fd2bce325b868efb40a873",
             "size" : 372964,
-            "translated" : 2645,
-            "fuzzy" : 1,
+            "translated" : 2646,
+            "fuzzy" : 0,
             "untranslated" : 0
         },
         "en_NZ" : {
@@ -595,12 +595,12 @@
             "untranslated" : 1890
         },
         "sv" : {
-            "file" : "3d8651a5e76be8657e619b244e8639b042d3aabb.class",
-            "sha1" : "3d8651a5e76be8657e619b244e8639b042d3aabb",
-            "size" : 345213,
-            "translated" : 2276,
-            "fuzzy" : 121,
-            "untranslated" : 249
+            "file" : "2c7ff738cbc7b47cd0d4fe4af175df432e3567ef.class",
+            "sha1" : "2c7ff738cbc7b47cd0d4fe4af175df432e3567ef",
+            "size" : 346343,
+            "translated" : 2286,
+            "fuzzy" : 123,
+            "untranslated" : 237
         },
         "szl" : {
             "file" : "9d3726b9e88955f68e3ba19d33b8d26067ce9926.class",
