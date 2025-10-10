@@ -59,7 +59,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation>servidor de bienes</translation>
+        <translation>Servidor de recursos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
@@ -1162,7 +1162,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished">Obteniendo los archivos assets desde %1...</translation>
+        <translation>Obteniendo archivos de recursos desde %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1179,7 +1179,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="101"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>No se pudieron descargar los recursos:
+        <translation>Error al descargar los recursos:
 %1</translation>
     </message>
 </context>
@@ -1859,7 +1859,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation>Copiar resource packs</translation>
+        <translation>Copiar paquetes de recursos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
@@ -3471,7 +3471,7 @@ Por favor, inténtelo de nuevo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="63"/>
         <source>Select FTBApp instances directory</source>
-        <translation>Seleccione el directorio de instancias FTBApp</translation>
+        <translation>Selecciona el directorio de instancias FTBApp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
@@ -4283,7 +4283,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
         <source>Choose modpack</source>
-        <translation>Seleccione un modpack</translation>
+        <translation>Selecciona un modpack</translation>
     </message>
     <message>
         <source>Zip (*.zip)</source>
@@ -4300,7 +4300,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>Seleccione la instancia a la que desea importar este Resorce Pack.</translation>
+        <translation>Selecciona la instancia a la que deseas importar este paquete de recursos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
@@ -5670,7 +5670,7 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
         <source>Select a Java version</source>
-        <translation>Seleccione una versión de Java</translation>
+        <translation>Selecciona una versión de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
@@ -5725,7 +5725,7 @@ Asegúrese de que el valor máximo de memoria es inferior.</translation>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation>Por favor, seleccione cuánta memoria asignar a las instancias y si Prism Launcher debe gestionar Java automática o manualmente.</translation>
+        <translation>Por favor, selecciona cuánta memoria asignar a las instancias y si Prism Launcher debe gestionar Java automática o manualmente.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -9965,7 +9965,7 @@ Es muy probable que tengas que cambiar la ruta - consulta el sitio web del mod.<
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Advertencia: Este recurso está enlazado simbólicamente desde otro lugar. Si lo edita, también modificará el original.
+Advertencia: Este recurso está enlazado simbólicamente desde otro lugar. Si lo editas, también se modificará el original.
 Ruta canónica: %1</translation>
     </message>
     <message>
@@ -9973,7 +9973,7 @@ Ruta canónica: %1</translation>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también modificará el original.</translation>
+Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también se modificará el original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
@@ -11403,12 +11403,12 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="14"/>
         <source>Select Optional Mods</source>
-        <translation>Seleccione Mods Opcionales</translation>
+        <translation>Selecciona mods opcionales</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="34"/>
         <source>Select All</source>
-        <translation>Seleccione Todo</translation>
+        <translation>Seleccionar todo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="41"/>
@@ -11977,7 +11977,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="117"/>
         <source>Select the version to install with a GUI.</source>
-        <translation>Seleccione la versión para instalar con una GUI.</translation>
+        <translation>Selecciona la versión para instalar con una GUI.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="118"/>
@@ -12101,12 +12101,12 @@ El actualizador no puede continuar hasta que solucione este problema.</translati
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="765"/>
         <source>No Valid Release Assets</source>
-        <translation>No hay activos de liberación válidos</translation>
+        <translation>No hay recursos de lanzamiento válidos</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation>La versión de Github %1 no tiene activos válidos para esta plataforma: %2</translation>
+        <translation>La versión de GitHub %1 no tiene recursos válidos para esta plataforma: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"/>
@@ -12143,7 +12143,7 @@ El actualizador no puede continuar hasta que solucione este problema.</translati
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="783"/>
         <source>Failed to download the selected asset.</source>
-        <translation>No se ha podido descargar el asset seleccionado.</translation>
+        <translation>No se ha podido descargar el recurso seleccionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="885"/>
@@ -13183,7 +13183,7 @@ NOTA: Asegúrese de hacer una copia de seguridad de los datos importantes de su 
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="25"/>
         <source>resource pack</source>
-        <translation>Resource Pack</translation>
+        <translation>resource pack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="26"/>
@@ -13863,7 +13863,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="113"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="274"/>
         <source>Select %1 for download</source>
-        <translation>Seleccione %1 para descargar</translation>
+        <translation>Selecciona %1 para descargar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="218"/>
@@ -14052,7 +14052,7 @@ El autor probablemente bloqueó los launchers de terceros.</translation>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Advertencia: Este recurso está enlazado simbólicamente desde otro lugar. Si lo edita, también modificará el original.
+Advertencia: Este recurso está enlazado simbólicamente desde otro lugar. Si lo editas, también se modificará el original.
 Ruta canónica: %1</translation>
     </message>
     <message>
@@ -14060,7 +14060,7 @@ Ruta canónica: %1</translation>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también modificará el original.</translation>
+Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también se modificará el original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
@@ -14184,7 +14184,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>El ID de formato del pack de recursos, así como las versiones de Minecraft para las que se diseñó.</translation>
+        <translation>El ID de formato del paquete de recursos, así como las versiones de Minecraft para las que se diseñó.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="112"/>
@@ -14192,7 +14192,7 @@ Are you sure you want to do this?</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Advertencia: Este recurso está enlazado simbólicamente desde otro lugar. Si lo edita, también modificará el original.
+Advertencia: Este recurso está enlazado simbólicamente desde otro lugar. Si lo editas, también se modificará el original.
 Ruta canónica: %1</translation>
     </message>
     <message>
@@ -14200,17 +14200,17 @@ Ruta canónica: %1</translation>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también modificará el original.</translation>
+Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también se modificará el original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
         <source>The source provider of the resource pack.</source>
-        <translation>Proveedor de origen del resource pack.</translation>
+        <translation>Proveedor de origen del paquete de recursos.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="169"/>
         <source>The size of the resource pack.</source>
-        <translation>El tamaño del resource pack.</translation>
+        <translation>El tamaño del paquete de recursos.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
@@ -14228,12 +14228,12 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>¿Está el pack de recursos habilitado? (Sólo válido para ZIPs)</translation>
+        <translation>¿Está el paquete de recursos habilitado? (Solo válido para archivos ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
         <source>The name of the resource pack.</source>
-        <translation>El nombre del resource pack.</translation>
+        <translation>El nombre del paquete de recursos.</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -14242,7 +14242,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation>La fecha y la hora en la que este resource pack se modificó por última vez (o se creó).</translation>
+        <translation>La fecha y la hora en la que este paquete de recursos se modificó por última vez (o se creó).</translation>
     </message>
 </context>
 <context>
@@ -14257,7 +14257,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>Descargar resource packs de plataformas en línea</translation>
+        <translation>Descargar paquetes de recursos de plataformas en línea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -14267,12 +14267,12 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download resource packs from online mod platforms</source>
-        <translation>Descarga resource packs de plataformas de mods en línea</translation>
+        <translation>Descarga paquetes de recursos de plataformas de mods en línea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
-        <translation>Intentar comprobar o actualizar todos los resource packs seleccionados (todos los resource packs si no hay ninguno seleccionado)</translation>
+        <translation>Intentar comprobar o actualizar todos los paquetes de recursos seleccionados (todos los paquetes de recursos si no hay ninguno seleccionado)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
@@ -14292,7 +14292,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="165"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="188"/>
         <source>Aborted</source>
-        <translation>Abortado</translation>
+        <translation>Cancelado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
@@ -14316,7 +14316,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="139"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="238"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
-        <translation>¡Las actualizaciones de los resource packs no están disponibles cuando los metadatos están desactivados!</translation>
+        <translation>¡Las actualizaciones de los paquetes de recursos no están disponibles cuando los metadatos están desactivados!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="144"/>
@@ -14328,29 +14328,29 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Actualizar los resource packs mientras el juego está en marcha puede provocar la duplicación de resource packs y el bloqueo del juego.
+        <translation>Actualizar los paquetes de recursos mientras el juego está en marcha puede provocar la duplicación de los paquetes y el bloqueo del juego.
 Es posible que los archivos antiguos no se eliminen, ya que están en uso.
 ¿Estás seguro de que quieres hacerlo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="165"/>
         <source>The resource pack updater was aborted!</source>
-        <translation>¡El actualizador de resource packs fue abortado!</translation>
+        <translation>¡El actualizador de paquetes de recursos fue interrumpido!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation>¡&apos;%1&apos; está actualizado! :)</translation>
+        <translation>¡&quot;%1&quot; está actualizado! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="172"/>
         <source>All resource packs are up-to-date! :)</source>
-        <translation>¡Todos los resource packs están actualizados! :)</translation>
+        <translation>¡Todos los paquetes de recursos están actualizados! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
         <source>All selected resource packs are up-to-date! :)</source>
-        <translation>¡Todos los resource packs seleccionados están actualizados! :)</translation>
+        <translation>¡Todos los paquetes de recursos seleccionados están actualizados! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
@@ -14366,7 +14366,7 @@ Es posible que los archivos antiguos no se eliminen, ya que están en uso.
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="219"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
-        <translation>Está a punto de eliminar los metadatos de %1 resource packs.
+        <translation>Está a punto de eliminar los metadatos de %1 paquetes de recursos.
 ¿Está seguro?</translation>
     </message>
     <message>
@@ -14500,7 +14500,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="311"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>El recurso &apos;%1&apos; aún no tiene metadatos. Necesitamos generarlos para poder rastrear información relevante sobre cómo actualizar este mod. Para ello, seleccione un proveedor de mods que podamos utilizar para buscar actualizaciones para este mod.</translation>
+        <translation>El recurso &quot;%1&quot; aún no tiene metadatos. Necesitamos generarlos para poder rastrear información relevante sobre cómo actualizar este mod. Para ello, selecciona un proveedor de mods que podamos utilizar para buscar actualizaciones para este mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"/>
@@ -14845,7 +14845,7 @@ Esto puede ser permanente y desaparecerá de la carpeta.
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="123"/>
         <source>Select a version to install.</source>
-        <translation>Seleccione la versión que desea instalar.</translation>
+        <translation>Selecciona la versión que desea instalar.</translation>
     </message>
 </context>
 <context>
@@ -14853,12 +14853,12 @@ Esto puede ser permanente y desaparecerá de la carpeta.
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation>Seleccione la versión que desea instalar</translation>
+        <translation>Selecciona la versión que deseas instalar</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation>Seleccione la versión que desea actualizar.</translation>
+        <translation>Selecciona la versión que deseas actualizar.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
@@ -14875,7 +14875,7 @@ Esto puede ser permanente y desaparecerá de la carpeta.
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation>Seleccione una versión para instalar.
+        <translation>Selecciona una versión para instalar.
 
 Versión instalada actualmente: %1</translation>
     </message>
@@ -15850,7 +15850,7 @@ falta inheritsFrom</translation>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Advertencia: Este recurso está enlazado simbólicamente desde otro lugar. Si lo edita, también modificará el original.
+Advertencia: Este recurso está enlazado simbólicamente desde otro lugar. Si lo editas, también se modificará el original.
 Ruta canónica: %1</translation>
     </message>
     <message>
@@ -15858,7 +15858,7 @@ Ruta canónica: %1</translation>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también modificará el original.</translation>
+Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también se modificará el original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
@@ -16064,7 +16064,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation>Seleccione el tema que desea utilizar</translation>
+        <translation>Selecciona el tema que deseas utilizar</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
@@ -16746,7 +16746,7 @@ Esto es permanente y eliminará por completo el componente personalizado.
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Select agents</source>
-        <translation>Seleccione agentes</translation>
+        <translation>Selecciona agentes</translation>
     </message>
     <message>
         <source>Java agents (*.jar)</source>
