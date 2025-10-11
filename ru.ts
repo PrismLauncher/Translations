@@ -25,7 +25,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>&amp;Сервис и тип отправки логов</translation>
+        <translation>Вставить службу и тип</translation>
     </message>
     <message>
         <source>Base URL</source>
