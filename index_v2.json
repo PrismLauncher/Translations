@@ -3,12 +3,12 @@
     "version" : 2,
     "languages" : {
         "af" : {
-            "file" : "5d57b91857b380a22906c51d9c9058078208a338.class",
-            "sha1" : "5d57b91857b380a22906c51d9c9058078208a338",
-            "size" : 30,
-            "translated" : 0,
-            "fuzzy" : 0,
-            "untranslated" : 2646
+            "file" : "cac016d9f46e16d149d308ca8e048ce178e07777.class",
+            "sha1" : "cac016d9f46e16d149d308ca8e048ce178e07777",
+            "size" : 1185,
+            "translated" : 6,
+            "fuzzy" : 1,
+            "untranslated" : 2639
         },
         "ar" : {
             "file" : "c651907282882c25490167ec8a1f3d592843835d.class",
