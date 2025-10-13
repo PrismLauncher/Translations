@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neeg ag: jy sal waarskynlik die &quot;Base URL&quot; wil verander or verwyder na jy die tipe &quot;paste service&quot; verander.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
@@ -44,7 +44,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jy kan dié na &apos;n ander bediener stel as jy probleme het met bates wat nie aflaai nie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -142,7 +142,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Dienste</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
@@ -165,7 +165,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neem ag: jy hoef waarskynlik nie die te stel as CurseForge reeds werk nie.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -353,12 +353,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisensie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer oor Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
@@ -368,7 +368,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="140"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Omtrent %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
