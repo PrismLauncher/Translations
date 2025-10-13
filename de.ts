@@ -1162,7 +1162,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished">Dateien werden von %1 geladen…</translation>
+        <translation>Ressourcendateien werden von %1 abgerufen...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -8859,7 +8859,7 @@ Fortfahren?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Mit Datei updaten</translation>
     </message>
     <message>
         <source>Update from file</source>
