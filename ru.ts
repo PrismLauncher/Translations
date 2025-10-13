@@ -104,7 +104,7 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation>(По умолчанию)</translation>
+        <translation>h(По умолчанию)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
