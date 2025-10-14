@@ -8708,7 +8708,7 @@ Are you sure you want to do this?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="246"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Provera ažuriranja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="287"/>
@@ -8724,7 +8724,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="238"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&apos;%1&apos; je ažuriran! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="71"/>
@@ -12096,7 +12096,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&apos;%1&apos; je ažuriran! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="172"/>
@@ -12111,7 +12111,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Provera ažuriranja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="218"/>
@@ -12833,7 +12833,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="166"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&apos;%1&apos; je ažuriran! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"/>
@@ -12848,7 +12848,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Provera ažuriranja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="215"/>
@@ -13543,7 +13543,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="174"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&apos;%1&apos; je ažuriran! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="177"/>
@@ -13558,7 +13558,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Provera ažuriranja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="223"/>
@@ -13608,7 +13608,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pogledaj cat packs folder.</translation>
     </message>
     <message>
         <source>Refresh all</source>
