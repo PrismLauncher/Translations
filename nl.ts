@@ -1101,7 +1101,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished">De onderdeel bestanden worden opgehaald vanuit %1...</translation>
+        <translation>Bezig met de asset-bestanden ophalen bij %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1863,7 +1863,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="85"/>
         <source>Core Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Kernmods</translation>
     </message>
 </context>
 <context>
@@ -2296,7 +2296,7 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook het 
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Downloaden gestopt door gebruiker.</translation>
+        <translation>Download gestopt door gebruiker.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="94"/>
