@@ -2177,7 +2177,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="242"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
@@ -2518,7 +2518,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="191"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="193"/>
@@ -3370,7 +3370,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="600"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 allan o %2 gorffenedig</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="613"/>
@@ -3543,7 +3543,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="203"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="286"/>
@@ -3786,7 +3786,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
@@ -4552,7 +4552,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="316"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="327"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="332"/>
@@ -7458,7 +7458,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="194"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="198"/>
@@ -8512,7 +8512,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="308"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="312"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="148"/>
@@ -8740,7 +8740,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -8859,7 +8859,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="317"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="320"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="317"/>
@@ -8972,7 +8972,7 @@ Please update %1!</source>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="300"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="324"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 allan o %2 gorffenedig</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="305"/>
@@ -9091,7 +9091,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="153"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="220"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="261"/>
@@ -9539,7 +9539,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="403"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="444"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -11112,7 +11112,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="279"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anabl</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="281"/>
@@ -11458,7 +11458,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="159"/>
@@ -11500,7 +11500,7 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="405"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="409"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="213"/>
@@ -11959,7 +11959,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="184"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="238"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
@@ -12111,7 +12111,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="357"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="113"/>
@@ -12692,7 +12692,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="181"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="235"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
@@ -13268,7 +13268,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="215"/>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="267"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="233"/>
@@ -13388,7 +13388,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="189"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="243"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"/>
@@ -13901,7 +13901,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="361"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
@@ -14171,7 +14171,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
