@@ -37,12 +37,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="340"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="383"/>
         <source>Use Default</source>
-        <translation>Gebruik Standaard</translation>
+        <translation>Standaard gebruiken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Let op: waarschijnlijk wilt u de Basis URL veranderen of leeg maken nadat u de plak dienst type hebt veranderd.</translation>
+        <translation>Let op: waarschijnlijk wilt u de basis-URL veranderen of leeg maken nadat u de plak dienst type hebt veranderd.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
@@ -57,7 +57,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>&amp;API Keys</source>
-        <translation>API sleutels</translation>
+        <translation>API-sleutels</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="205"/>
@@ -590,7 +590,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="105"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation>Verwijder</translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"/>
@@ -736,7 +736,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Remove account?</source>
-        <translation>Verwijder account?</translation>
+        <translation>Account verwijderen?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -2003,43 +2003,43 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>Commando na afsluiten:</translation>
+        <translation>P&amp;ost-exit opdracht:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>&amp;Pre-start commando:</translation>
+        <translation>&amp;Pre-launch opdracht:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>Wrapper commando:</translation>
+        <translation>Wrapper opdracht:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation>Overschrijf &amp;Globale Instellingen</translation>
+        <translation>&amp;Globale instellingen overschrijven</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation>&amp;Pre-start commando</translation>
+        <translation>&amp;Pre-launch opdracht</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>P&amp;ost-exit Command</source>
-        <translation>Commando na afsluiten</translation>
+        <translation>P&amp;ost-exit opdracht</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
         <source>&amp;Wrapper Command</source>
-        <translation>Wrappercommando</translation>
+        <translation>Wrapper opdracht</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Het pre-start wordt uitgevoerd vóórdat de instantie wordt gestart en het commando na afsluiten wordt uitgevoerd wanneer de instantie wordt beëindigd.&lt;/p&gt;&lt;p&gt;Beide worden in de launcher&apos;s werkmap uitgevoerd met extra omgevingsvariabelen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Naam van de instantie&lt;/li&gt;&lt;li&gt;$INST_ID - ID van de instantie (de mapnaam)&lt;/li&gt;&lt;li&gt;$INST_DIR - het absolute pad van de instantie&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - het absolute pad van Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java binary die gebruikt wordt bij het starten&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters die voor het starten gebruikt worden&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Het wrapper-commando zorgt ervoor dat er gestart kan worden met gebruik van een extra wrapper programma (zoals &apos;optirun&apos; op Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;De pre-launch opdracht wordt uitgevoerd voordat de instantie wordt gestart en de post-exit opdracht wordt uitgevoerd nadat ze afgesloten wordt.&lt;/p&gt;&lt;p&gt;Beide worden uitgevoerd in de werkmap van de launcher met extra omgevingsvariabelen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Naam van de instantie&lt;/li&gt;&lt;li&gt;$INST_ID - ID van de instantie (de mapnaam&lt;/li&gt;&lt;li&gt;$INST_DIR - het absolute pad van de instantie&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - het absolute pad van Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary die gebruikt wordt bij het starten&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - opdrachtregelparameters die worden gebruikt voor het starten (waarschuwing: werkt niet correct als argumenten spaties bevatten)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Met de wrapper-opdracht kan worden gestart met gehulp van een extra wrapperprogramma (zoals &apos;optirun&apos; op Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2089,7 +2089,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="258"/>
         <source>Refresh</source>
-        <translation>Verversen</translation>
+        <translation>Vernieuwen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
@@ -3038,7 +3038,7 @@ Weet u dat zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Check for &amp;Updates</source>
-        <translation>Controleren op &amp;Updates</translation>
+        <translation>Controleren op &amp;updates</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
@@ -5901,12 +5901,12 @@ Wilt u de demo spelen?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="143"/>
         <source>Cancel</source>
-        <translation>Annulleren</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="245"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Start geannulleerd - account niet in bezit van Minecraft.</translation>
+        <translation>Starten geannuleerd - account niet in bezit van Minecraft.</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -5919,7 +5919,7 @@ Wilt u de demo spelen?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>Account refresh failed</source>
-        <translation>Account verversen is mislukt</translation>
+        <translation>Account vernieuwen is mislukt</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
@@ -6087,7 +6087,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation>Automatisch voor updates controleren</translation>
+        <translation>Automatisch op updates controleren</translation>
     </message>
     <message>
         <source>Up&amp;date Channel:</source>
@@ -6391,11 +6391,11 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation>Aantal paralelle taken</translation>
+        <translation>Aantal parallelle taken</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation>Aantal paralelle downloads</translation>
+        <translation>Aantal parallelle downloads</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -7633,7 +7633,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
         <source>Check for new updates for %1.</source>
-        <translation>Controleer op nieuwe %1 updates.</translation>
+        <translation>Controleren op nieuwe updates voor %1.</translation>
     </message>
     <message>
         <source>Meow</source>
@@ -11382,7 +11382,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="47"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;Annulleer</translation>
+        <translation>&amp;Annuleren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="48"/>
@@ -16606,7 +16606,7 @@ Voeg uw Mojang of Minecraft-account toe.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
         <source>Cancel</source>
-        <translation>Annulleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
@@ -16793,7 +16793,7 @@ Canoniek Pad: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="133"/>
         <source>Refresh</source>
-        <translation>Verversen</translation>
+        <translation>Vernieuwen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="138"/>
