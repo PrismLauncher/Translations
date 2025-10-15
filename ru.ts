@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Базовый URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -50,12 +50,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Примечание: возможно, вам потребуется изменить или очистить базовый URL-адрес после изменения типа сервиса публикации логов.</translation>
+        <translation>Примечание: скорее всего вам потребуется сменить или очистить базовый URL после изменения типа сервиса публикации логов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation>Cервер Ресурсов</translation>
+        <translation>Cервер ресурсов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
@@ -65,13 +65,13 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>&amp;API Keys</source>
-        <translation>APIPage</translation>
+        <translation>Ключи API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="205"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation>Аутентификация &amp;Microsoft</translation>
+        <translation>Аутентификация с помощью &amp;Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -104,12 +104,12 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation>h(По умолчанию)</translation>
+        <translation>(По умолчанию)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Введите здесь пользовательский идентификатор клиента для входа через Microsoft.</translation>
+        <translation>Введите свой идентификатор клиента для входа с помощью Microsoft.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
@@ -122,11 +122,11 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Введите здесь API-токен для Modrinth.</translation>
+        <translation>Введите здесь токен API для Modrinth.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(Нет)</translation>
+        <translation>(Не использовать)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
@@ -139,7 +139,7 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Введите здесь пользовательский GUID идентификатор клиента для Technic.</translation>
+        <translation>Введите здесь свой GUID идентификатор клиента для Technic.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -153,7 +153,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Введите здесь имя стороннего пользовательского агента. Спецстрока $LAUNCHER_VER заменяется на версию лаунчера.</translation>
+        <translation>Введите здесь имя своего пользовательского агента. Спецстрока $LAUNCHER_VER заменяется на версию лаунчера.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -168,7 +168,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Можно установить этот параметр для стороннего сервера метаданных, чтобы использовать исправленные библиотеки или другие хаки.</translation>
+        <translation>Можно установить этот параметр для стороннего сервера метаданных, чтобы использовать другие библиотеки.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -181,7 +181,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge API Ядра</translation>
+        <translation>&amp;CurseForge Core API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -255,7 +255,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Config download</source>
-        <translation>Загрузка настроек</translation>
+        <translation>Скачивание настроек</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="675"/>
