@@ -1134,7 +1134,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished">Отримуємофайли активів з %1...</translation>
+        <translation>Отримуємо файли ассетів з %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -4595,7 +4595,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/InstancePageProvider.h" line="48"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">Інші журнали</translation>
+        <translation>Інші журнали</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="52"/>
