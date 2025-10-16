@@ -13932,7 +13932,7 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Probeer alle geselecteerde resource packs te controleren of bij te werken (alle resource packs als er geen zijn geselecteerd)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
