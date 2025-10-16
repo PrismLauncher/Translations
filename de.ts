@@ -16567,7 +16567,7 @@ Bitte wechsel zu einer der folgenden Java-Versionen für diese Instanz:</transla
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="48"/>
         <source>Search</source>
-        <translation type="unfinished">Suchen</translation>
+        <translation>Suchen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="108"/>
