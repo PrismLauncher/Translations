@@ -17195,7 +17195,7 @@ Please set up your account according to %1.</source>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation>Автентифікація XSTS завершилася з нерозпізнаною помилкою (помилками):
+        <translation>Аутентифікація XSTS завершилася з нерозпізнаною помилкою (помилками):
 
 %1</translation>
     </message>
