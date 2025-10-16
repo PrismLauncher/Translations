@@ -4721,7 +4721,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">المشغل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
@@ -7159,12 +7159,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="349"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ايقاف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="338"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">المشغل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
@@ -8182,7 +8182,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="301"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">المشغل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="303"/>
@@ -11572,7 +11572,7 @@ Roll back to previous version?</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="81"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ه</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="86"/>
