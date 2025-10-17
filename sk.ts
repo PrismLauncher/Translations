@@ -60,7 +60,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Mod&amp;rinth</source>
-        <translation>Mod&amp;rinth</translation>
+        <translation>Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"/>
@@ -1126,7 +1126,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished">Získavanie herných súborov z %1...</translation>
+        <translation>Získavanie herných súborov z %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -2741,7 +2741,7 @@ Naozaj chcete vykonať túto akciu?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation>Plaintext</translation>
+        <translation>Obyčajný text</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
@@ -4493,7 +4493,7 @@ Prosím skúste to znova.</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation>Pamäť</translation>
+        <translation>Pamä&amp;ť</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
@@ -4645,7 +4645,7 @@ Prosím skúste to znova.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povoliť pokročilý výkonnostný overlay MangoHud-u.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povoliť pokročilý výkonnostné prekrytie MangoHudu.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
@@ -5154,7 +5154,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="unfinished">Potvrdiť výber</translation>
+        <translation>Potvrdiť výber</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
@@ -5348,7 +5348,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">Pamäť</translation>
+        <translation>Pamä&amp;ť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
@@ -5435,7 +5435,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">Vybrali ste 32-bitovú verziu Javy.
+        <translation>Vybrali ste 32-bitovú verziu Javy.
 Táto inštalácia nepodporuje viac ako 2048MiB pamäte RAM.
 Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     </message>
@@ -5456,7 +5456,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished">Vaše maximálne pridelenie pamäti sa blíži ku kapacite systémovej pamäti.</translation>
+        <translation>Vaše maximálne pridelenie pamäti sa blíži ku kapacite systémovej pamäti.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
@@ -5494,12 +5494,12 @@ Zvoľte si prosím jedno z nasledujúcich alebo vyhľadajte spustiteľný súbor
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation type="unfinished">Stiahnuť Javu</translation>
+        <translation>Stiahnuť Javu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished">Zistená 32-bitová Java</translation>
+        <translation>Zistená 32-bitová Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
@@ -5509,7 +5509,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Bola vybraná 32-bitová inštalácia Javy, ale pridelili ste viac ako 2048MiB maximálnej pamäte.
+        <translation>Bola vybraná 32-bitová inštalácia Javy, ale pridelili ste viac ako 2048MiB maximálnej pamäte.
 %1 nebude môcť spustiť Minecraft.
 Naozaj chcete pokračovať?
 
@@ -5519,7 +5519,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
         <source>No Java version selected</source>
-        <translation type="unfinished">Nie je zvolená verzia Javy</translation>
+        <translation>Nie je zvolená verzia Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
@@ -5529,7 +5529,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Verzia Javy nebola vybraná alebo ste vybrali verziu Javy, ktorá nefunguje.
+        <translation>Verzia Javy nebola vybraná alebo ste vybrali verziu Javy, ktorá nefunguje.
 %1 nebude môcť spustiť Minecraft.
 Naozaj chcete pokračovať bez funkčnej verzie Javy?
 
@@ -5539,37 +5539,37 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="353"/>
         <source>Find Java executable</source>
-        <translation type="unfinished">Nájsť Java spúštač</translation>
+        <translation>Nájsť Javu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>Memory</source>
-        <translation type="unfinished">Pamäť</translation>
+        <translation>Pamäť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">Maximálna veľkosť pamäte, ktorú môže Minecraft použiť.</translation>
+        <translation>Maximálna veľkosť pamäte, ktorú môže Minecraft použiť.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Minimálna alokovaná pamäť:</translation>
+        <translation>Minimálna alokovaná pamäť:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Maximálna alokovaná pamäť:</translation>
+        <translation>Maximálna alokovaná pamäť:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">Veľkosť pamäte, s ktoru sa Minecraft spustí.</translation>
+        <translation>Veľkosť pamäte, s ktorou sa Minecraft spustí.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">Veľkosť použiteľnej pamäte na ukladanie Java tried.</translation>
+        <translation>Veľkosť použiteľnej pamäte na ukladanie Java tried.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
@@ -5579,7 +5579,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">Automaticky stiahnuť Mojang Java</translation>
+        <translation>Automaticky stiahnuť Mojang Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
@@ -5599,17 +5599,17 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished">Vaše maximálne pridelenie pamäti sa blíži ku kapacite systémovej pamäti.</translation>
+        <translation>Vaše maximálne pridelenie pamäti sa blíži ku kapacite systémovej pamäti.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="521"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">Vaše maximálne pridelenie pamäti je menšie ako minimálna hodnota</translation>
+        <translation>Vaše maximálne pridelenie pamäti je menšie ako minimálna hodnota</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished">Presahujete maximálne pridelenie pamäte podpované 32-bitovými inštaláciami Javy.</translation>
+        <translation>Presahujete maximálne pridelenie pamäte podporované 32-bitovými inštaláciami Javy.</translation>
     </message>
 </context>
 <context>
@@ -5687,12 +5687,12 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="326"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; dlhšie neexistuje na serveroch. Možno to bolo migrované, v takom prípade prosíme aby ste pridali nové konto na ktoré ste migrovali.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="343"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>&quot;%1&quot; dlhšie neexistuje na serveroch. Možno to bolo migrované, v takom prípade prosíme aby ste pridali nové konto na ktoré ste migrovali.</translation>
+        <translation>&quot;%1&quot; dlhšie neexistuje na serveroch. Možno to bolo migrované, v takom prípade prosíme aby ste pridali nové konto na ktoré ste migrovali?</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -5798,7 +5798,7 @@ Chcete si zahrať demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="367"/>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>Vypršala platnosť konta a musí byť znovu overené.</translation>
+        <translation>Vypršala platnosť konta a musí byť znovu overené</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="377"/>
@@ -6188,11 +6188,11 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pri vytváraní novej inštancie mod packu vypnite aktualizáciu existujúcich inštancií.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>Preskočiť výzvu na aktualizáciu modpacku</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -6200,20 +6200,20 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet súbežných úloh</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet súbežných sťahovaní</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekundy čakania na ukončenie požiadaviek</translation>
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation type="unfinished"></translation>
+        <translation>Časový limit pre HTTP požiadavku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -6222,17 +6222,17 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet manuálnych pokusov</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ak je povolené, blokované zdroje sa presunú namiesto ich kopírovania.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Java:</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -6240,11 +6240,11 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavte priehľadnosť mačky. 0% je úplne priehľadná a 100% je úplne viditeľná.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Priehľadnosť</translation>
     </message>
     <message>
         <source>%</source>
@@ -6268,7 +6268,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>Mods and Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Módy a modpacky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
@@ -6322,22 +6322,22 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="unfinished">Zobraziť konzolu počas hry?</translation>
+        <translation>Zobraziť konzolu počas &amp;hry</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Automaticky zavrieť konzolu po zavretí hry?</translation>
+        <translation>Automaticky zavrieť konzolu po zavretí hry</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="unfinished">Zobraziť konzolu keď hra spadne?</translation>
+        <translation>Zobraziť konzolu keď hra &amp;spadne</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="unfinished">Limit histórie</translation>
+        <translation>&amp;Limit histórie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -6353,7 +6353,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="unfinished">Písmo konzoly</translation>
+        <translation>Písmo &amp;konzoly</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -6476,7 +6476,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished">Nepodarilo sa spustiť minecraft!</translation>
+        <translation>Nepodarilo sa spustiť Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7354,12 +7354,12 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="349"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished">&amp;Ukončiť</translation>
+        <translation>&amp;Ukončiť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="338"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Spustiť</translation>
+        <translation>&amp;Spustiť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
@@ -7664,7 +7664,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="355"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="402"/>
@@ -8284,7 +8284,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="206"/>
         <source>Abort</source>
-        <translation>Prerušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
