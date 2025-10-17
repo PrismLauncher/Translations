@@ -1630,7 +1630,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
         <source>Please wait...</source>
-        <translation>Vent …</translation>
+        <translation>Vent litt …</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
@@ -2978,7 +2978,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Check for &amp;Updates</source>
-        <translation>Sjekk for &amp;Oppdateringer</translation>
+        <translation>Sjekk for &amp;oppdateringer</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
@@ -3735,7 +3735,7 @@ Prøv på nytt.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation>Sorter etter Totalt Antall Nedlastinger</translation>
+        <translation>Sorter etter totalt antall nedlastinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="198"/>
@@ -6088,11 +6088,11 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation>Antal samtidige oppgaver</translation>
+        <translation>Antall samtidige oppgaver</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation>Antall parallele nedlastinger</translation>
+        <translation>Antall parallelle nedlastinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -6110,7 +6110,7 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation>Antal nye manualforsøk</translation>
+        <translation>Antall nye manuelle forsøk</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -6917,7 +6917,7 @@ Grunn:
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="218"/>
         <source>Please wait...</source>
-        <translation>Vent …</translation>
+        <translation>Vent litt …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
@@ -9868,7 +9868,7 @@ Oppdater %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="85"/>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Sorter etter Totalt Antall Nedlastinger</translation>
+        <translation>Sorter etter totalt antall nedlastinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="86"/>
@@ -11150,7 +11150,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation>Vent …</translation>
+        <translation>Vent litt …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
