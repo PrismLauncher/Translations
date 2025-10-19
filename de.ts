@@ -7215,7 +7215,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="158"/>
         <source>Search</source>
-        <translation type="unfinished">Suchen</translation>
+        <translation>Suchen</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -12534,7 +12534,7 @@ HTTP Status: %2</translation>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
         <source>Use s&amp;ystem settings</source>
         <oldsource>Use S&amp;ystem Settings</oldsource>
-        <translation type="unfinished">S&amp;ystemeinstellungen verwenden</translation>
+        <translation>S&amp;ystemeinstellungen verwenden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
@@ -15224,7 +15224,7 @@ Sind Sie sicher?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation type="unfinished">Shaderpakete</translation>
+        <translation>Shaderpakete</translation>
     </message>
 </context>
 <context>
