@@ -829,7 +829,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation>Geef map met icoonthema&apos;s weer.</translation>
+        <translation>Map met pictogramthema&apos;s weergeven.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
@@ -2201,7 +2201,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
         <source>Last Modified</source>
-        <translation>Laatst Gewijzigd</translation>
+        <translation>Laatst gewijzigd</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="77"/>
