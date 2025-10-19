@@ -9957,7 +9957,7 @@ Oppdater %1!</translation>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="65"/>
         <source>Requesting %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ber om %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="142"/>
