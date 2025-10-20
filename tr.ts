@@ -3173,24 +3173,22 @@ Are you sure you want to do this?</source>
 Bunu yapmak istediğinize emin misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="290"/>
         <source>Confirm disable</source>
         <translation>Devre dışı bırakmayı onayla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="291"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Oyun çalışırken bu kaynağı devre dışı bırakırsanız oyununuz çökebilir.
 Bunu yapmak istediğinize emin misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="356"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="346"/>
         <source> (%1 installed, %2 selected)</source>
         <translation> (%1 tane yüklenmiş, %2 tane seçilmiş)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="358"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="348"/>
         <source> (%1 installed)</source>
         <translation> (%1 tane yüklenmiş)</translation>
     </message>
@@ -13955,7 +13953,7 @@ Geliştirici muhtemelen üçüncü taraf başlatıcılarını engelledi.</transl
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="492"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="504"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -13964,7 +13962,7 @@ Uyarı: Bu kaynak başka bir yerden sembolik olarak bağlanmıştır. Bunu düze
 Kanonik Yol: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="499"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="511"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -14000,52 +13998,52 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
         <translation type="vanished">En son düzenlenen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="528"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="259"/>
         <source>Confirm toggle</source>
         <translation>Geçişi onayla</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="529"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="260"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Oyun çalışırken bu kaynağı etkinleştirir/devre dışı bırakırsanız oyununuz çökebilir.
 Bunu yapmak istediğinizden emin misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="561"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="562"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Kaynak etkin mi?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="563"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="564"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Kaynağın ismi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="565"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="566"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Bu kaynagın en son değiştirildiği (veya eklendiği) tarih ve zaman.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="567"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="568"/>
         <source>The source provider of the resource.</source>
         <translation>Kaynağın sağlayıcısı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="569"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The size of the resource.</source>
         <translation>Kaynağın boyutu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="660"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="661"/>
         <source>Override Columns Visibility</source>
         <translation>Kolon Görülebilirliğinin Üstünü Yaz</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="673"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="674"/>
         <source>Show / Hide Columns</source>
         <translation>Sütunları Göster / Gizle</translation>
     </message>

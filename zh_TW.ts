@@ -3161,24 +3161,22 @@ Are you sure you want to do this?</source>
 您確定要這樣做嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="290"/>
         <source>Confirm disable</source>
         <translation>確定停用</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="291"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>如果您在遊戲執行時停用這個資源，可能會導致遊戲崩潰。
 您確定要這樣做嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="356"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="346"/>
         <source> (%1 installed, %2 selected)</source>
         <translation> （已安裝 %1 個、已選取 %2 個）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="358"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="348"/>
         <source> (%1 installed)</source>
         <translation> （已安裝 %1 個）</translation>
     </message>
@@ -14027,7 +14025,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="492"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="504"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -14036,7 +14034,7 @@ Canonical Path: %1</source>
 原始路徑：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="499"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="511"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -14072,52 +14070,52 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation type="vanished">最後修改</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="528"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="259"/>
         <source>Confirm toggle</source>
         <translation>確定開關</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="529"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="260"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>在遊戲執行時啟用或停用這項資源，遊戲可能會崩潰。
 您確定要這樣做嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="561"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="562"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>外部資源已啟用？</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="563"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="564"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>資源名稱。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="565"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="566"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>這個資源上次修改（或加入）的日期與時間。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="567"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="568"/>
         <source>The source provider of the resource.</source>
         <translation>資源的來源託管平台。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="569"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The size of the resource.</source>
         <translation>資源的檔案大小。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="660"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="661"/>
         <source>Override Columns Visibility</source>
         <translation>覆蓋欄位顯示</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="673"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="674"/>
         <source>Show / Hide Columns</source>
         <translation>顯示或隱藏欄</translation>
     </message>
