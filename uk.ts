@@ -7,18 +7,18 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Сервіс Pastebin</translation>
+        <translation>&amp;Служба Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Сервіс вставки та вводу</translation>
+        <translation>Служба Вставлення й Уведення</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>Базове покликання</translation>
+        <translation>Основне Покликання (URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -29,12 +29,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="340"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="383"/>
         <source>Use Default</source>
-        <translation>Використовувати стандартні</translation>
+        <translation>Використовувати Усталене</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Примітка: ймовірно, ви захочете змінити або очистити URL-адресу після зміни сервісу.</translation>
+        <translation>Примітка: ймовірно, ви захочете змінити чи очистити покликання (URL) після зміни служби.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
@@ -44,12 +44,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>Ви можете встановити це на інший сервер, якщо у вас виникли проблеми із завантаженням ресурсів.</translation>
+        <translation>Ви можете встановити це на инший сервер, якщо у вас виникли проблеми з завантаженням ресурсів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>&amp;API Keys</source>
-        <translation>&amp;API ключі</translation>
+        <translation>&amp;API Ключі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="205"/>
@@ -60,17 +60,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Mod&amp;rinth</source>
-        <translation>Mod&amp;rinth</translation>
+        <translation>Модринт (Mod&amp;rinth)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"/>
         <source>Use None</source>
-        <translation>Нічого</translation>
+        <translation>Ніц</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="318"/>
         <source>&amp;CurseForge</source>
-        <translation>&amp;CurseForge</translation>
+        <translation>&amp;КерсФордж (CurseForge)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="373"/>
@@ -147,12 +147,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
         <source>Services</source>
-        <translation>Сервіси</translation>
+        <translation>Служби</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Ви можете поставити це на сторонній сервер метаданих для використання пролатаних бібліотек або інших гаків.</translation>
+        <translation>Ви можете поставити це на сторонній сервер метаданих для використання пролатаних бібліотек або инших гаків.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -234,22 +234,22 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="633"/>
         <source>Downloading configs...</source>
-        <translation>Завантаження конфігурації...</translation>
+        <translation>Завантаження конфіґурації...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Config download</source>
-        <translation>Завантаження конфігурації</translation>
+        <translation>Завантаження конфіґурації</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="675"/>
         <source>Extracting configs...</source>
-        <translation>Розпакування конфігурацій...</translation>
+        <translation>Розпакування конфіґурацій...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="681"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>Не вдалося відкрити пакунок конфігурацій %1!</translation>
+        <translation>Не вдалося відкрити пакунок конфіґурацій %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
@@ -279,12 +279,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="823"/>
         <source>Blocked mods found</source>
-        <translation>Знайдено заблоковані моди</translation>
+        <translation>Знайдено забльоковані моди</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Наступні файли недоступні для завантаження у сторонніх запускачах.&lt;br/&gt;Вам потрібно буде завантажити їх вручну й додати до збірки.</translation>
+        <translation>Наступні файли недоступні для завантаження у сторонніх запускачах.&lt;br/&gt;Вам потрібно буде завантажити їх уручну та додати до збірки.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="880"/>
@@ -341,7 +341,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
         <source>Platform:</source>
-        <translation>Платформа:</translation>
+        <translation>Плятформа:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
@@ -401,7 +401,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Platform</source>
-        <translation>Платформа</translation>
+        <translation>Плятформа</translation>
     </message>
     <message>
         <source>Build Number</source>
@@ -423,7 +423,7 @@
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Офлайн</translation>
+        <translation>Офляйн</translation>
     </message>
     <message>
         <source>Online</source>
@@ -440,7 +440,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation>Офлайн</translation>
+        <translation>Офляйн</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
@@ -466,7 +466,7 @@
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation>Термін дії закінчився</translation>
+        <translation>Термін дії сплив</translation>
     </message>
     <message>
         <source>Disabled</source>
@@ -486,7 +486,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>Тип аккаунту (MSA або офлайн)</translation>
+        <translation>Тип облікового запису (MSA чи офляйн)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -521,7 +521,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="343"/>
         <source>Username</source>
-        <translation>Ім&apos;я користувача</translation>
+        <translation>Ім&apos;я Користувача</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"/>
@@ -545,7 +545,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Ім&apos;я користувача Minecraft пов’язаний з обліковим записом.</translation>
+        <translation>Ім&apos;я користувача Minecraft пов’язане з обліковим записом.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -582,19 +582,19 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="105"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation>Видалити акаунт</translation>
+        <translation>Видалити обліковий запис</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>Встановити як стандартний</translation>
+        <translation>&amp;Усталити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>Не застосовувати за замовчуванням</translation>
+        <translation>&amp;Нема Усталеного</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
@@ -613,24 +613,24 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation>&amp;Керувати скінами</translation>
+        <translation>&amp;Керування Скинами</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation>Керувати скінами</translation>
+        <translation>Керування Скинами</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>Додати Mi&amp;crosoft</translation>
+        <translation>Додати Обліковий Запис Mi&amp;crosoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>Додати &amp;оффлайн-акаунт</translation>
+        <translation>Додати &amp;Офляйновий Обліковий Запис</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
@@ -661,7 +661,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Вітаємо!
-Якщо ви тут нові, ви можете вибрати кнопку &quot;Add Microsoft&quot; щоби прив&apos;язати свій акаунт Microsoft.</translation>
+Якщо ви тут нові, ви можете вибрати кнопку &quot;Додати Обліковий Запис Microsoft&quot; щоби прив&apos;язати свій обліковий запис Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
@@ -700,7 +700,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Вам потрібно додати Microsoft акаунт, на якому є куплений Minecraft перед додаванням офлайн акаунту.&lt;br&gt;&lt;br&gt;Якщо ви втратили свій акаунт, ви можете зв&apos;язатися з Microsoft для підтримки.</translation>
+        <translation>Вам потрібно додати обліковий запис Microsoft, на якому є куплений Minecraft перед додаванням офляйн облікового запису.&lt;br&gt;&lt;br&gt;Якщо ви втратили свій обліковий запис, ви можете зв&apos;язатися з Microsoft для отримання технічної підтримки.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -727,7 +727,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Будь ласка, введіть бажане ім’я користувача, щоб додати автономний обліковий запис.</translation>
+        <translation>Будь ласка, введіть бажане ім’я користувача, щоб додати офляйновий обліковий запис.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -792,7 +792,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="90"/>
         <source>All Versions</source>
-        <translation>Всі версії</translation>
+        <translation>Усі Версії</translation>
     </message>
 </context>
 <context>
@@ -808,34 +808,34 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation>Переглянути папку з наборами котів.</translation>
+        <translation>Переглянути теку з наборами котиків.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation>Відкрити теку</translation>
+        <translation>Відкрити Теку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation>Переглянути папку тем віджетів.</translation>
+        <translation>Переглянути теку тем віджетів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation>Переглянути папку тем піктограм.</translation>
+        <translation>Переглянути теку тем іконок.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation>&amp;Котячий набір:</translation>
+        <translation>&amp;Котонабори:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation>Перезавантажити всі</translation>
+        <translation>Перезавантажити Все</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
@@ -850,12 +850,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation>Шрифт консолі:</translation>
+        <translation>Шрифт Консоли:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation>Масштабування кота</translation>
+        <translation>Масштабування Кота</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
@@ -870,12 +870,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="368"/>
         <source>Stretch</source>
-        <translation>Розтянути</translation>
+        <translation>Розтягнути</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
-        <translation>Непрозорість кота</translation>
+        <translation>Непрозорість Кота</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
@@ -928,7 +928,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="700"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation>Неможливо відобразити цей журнал, оскільки довжина журналу перевищила %1 рядків.</translation>
+        <translation>Неможливо відобразити цей звіт, оскільки довжина звіту перевищила %1 рядків.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="906"/>
@@ -949,23 +949,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>Ця інсталяція має файл блокування оновлень в: %1
+        <translation>Ця інсталяція має файл бльокування оновлень в: %1
 
 Час: %2
 Оновлення з версії %3 до %4
 Цільовий шлях встановлення: %5
 Шлях до даних: %6
-Скоріше за все, це означає, що спроба оновлення завершилася невдало. Будь ласка, переконайтеся, що ваша інсталяція працює належним чином, перш ніж продовжити.
-Перевірте журнал оновлень Prism Launcher в: 
+Скоріше за все, це означає, що спроба оновлення завершилася невдало. Будь ласка, переконайтеся, що ваша інсталяція працює належним чином, перш аніж продовжити.
+Перевірте звіт оновлень Prism Launcher в: 
 %7
-за подробицями про останню спробу оновлення.
+щоби побачити подробиці послідньої спроби оновлення.
 
-Щоб зняти це блокування і продовжити, натисніть &quot;Ігнорувати&quot; нижче.</translation>
+Щоб зняти це бльокування та продовжити, натисніть &quot;Іґнорувати&quot; нижче.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1069"/>
         <source>Update In Progress</source>
-        <translation>Оновлення в прогресі</translation>
+        <translation>Виконується Оновлення</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1093"/>
@@ -977,10 +977,10 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.</source>
         <translation>Спроба оновлення не вдалася
 
-Будь ласка, переконайтеся, що ваша інсталяція працює належним чином, перш ніж продовжити.
-Перевірте журнал оновлень Prism Launcher в: 
+Будь ласка, переконайтеся, що ваша інсталяція працює належним чином, перш аніж продовжити.
+Перевірте звіт оновлень Prism Launcher в: 
 %1
-за подробицями про останню спробу оновлення.</translation>
+щоби побачити подробиці послідньої спроби оновлення.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1101"/>
@@ -1001,17 +1001,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation>Оновлення встановлено успішно
+        <translation>Оновлення встановлено
 
 Зараз ви використовуєте %1 .
-Перевірте журнал оновлень Prism Launcher в: 
+Перевірте звіт оновлень Prism Launcher в: 
 %2
-за подробицями.</translation>
+щоби побачити подробиці послідньої спроби оновлення.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1133"/>
         <source>Update Succeeded</source>
-        <translation>Оновлення встановлено успішно</translation>
+        <translation>Оновлення Встановлено</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1165"/>
@@ -1020,10 +1020,10 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation>Ваша тека /tmp наразі змонтована з увімкненим прапором ‘noexec’.
+        <translation>Ваша тека /tmp наразі змонтована з увімкненим прапорцем ‘noexec’.
 Деякі версії Minecraft можуть не запускатися.
 
-Ви можете вирішити цю проблему, перемонтувавши /tmp з прапором ‘exec’ або встановивши аргумент JVM java.io.tmpdir у записувану теку у файловій системі, де встановлено прапор ‘exec’ (наприклад, /home/user/.local/tmp)
+Ви можете вирішити цю проблєму, перемонтувавши /tmp з прапорцем ‘exec’ або встановивши арґумент JVM java.io.tmpdir у записувану теку у файловій системі, де встановлено прапорець ‘exec’ (наприклад, /home/user/.local/tmp)
 </translation>
     </message>
     <message>
@@ -1037,7 +1037,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1171"/>
         <source>Incompatible system configuration</source>
-        <translation>Несумісні налаштування системи</translation>
+        <translation>Несумісні системні налаштування</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1542"/>
@@ -1161,19 +1161,19 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>Сортувати за популярністю</translation>
+        <translation>Упорядкувати за Популярністю</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Сортувати за назвою</translation>
+        <translation>Упорядкувати за Назвою</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>Сортувати за версією гри</translation>
+        <translation>Упорядкувати за Версією Гри</translation>
     </message>
 </context>
 <context>
@@ -1181,7 +1181,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>Оберіть моди для встановлення</translation>
+        <translation>Оберіть Моди Для Встановлення</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -1196,7 +1196,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation>Використати спільний код</translation>
+        <translation>Використати Код Спільного Доступу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
@@ -1308,7 +1308,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="55"/>
         <source>Initializing</source>
-        <translation>Ініціалізація</translation>
+        <translation>Ініціялізація</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"/>
@@ -1745,7 +1745,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation>Використовувати символічні або жорсткі посилання замість копіювання файлів.</translation>
+        <translation type="unfinished">Використовувати символічні або тісні посилання замість копіювання файлів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
@@ -1760,17 +1760,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation>Пов&apos;язати кожен ресурс окремо, замість того, щоб пов&apos;язувати всі папки одразу</translation>
+        <translation type="unfinished">Пов&apos;язати кожен ресурс окремо, замість того, щоб пов&apos;язувати всі папки одразу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
         <source>Link files recursively</source>
-        <translation>Пов&apos;язати файли рекурсивно</translation>
+        <translation type="unfinished">Пов&apos;язати файли рекурсивно</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation>Якщо вибрано &quot;копіювати збереження&quot;, дані збережень світу буде скопійовано, а не зв&apos;язано, а отже, вони не будуть спільними для різних збірок.</translation>
+        <translation>Якщо вибрано &quot;копіювати збереження&quot;, дані збережень світу буде скопійовано, а не зв&apos;язано, а отже, вони не будуть спільними для ріжних збірок.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
@@ -1791,12 +1791,12 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Use symbolic links instead of copying files.</source>
-        <translation>Використовувати символічні посилання замість копіювання файлів.</translation>
+        <translation>Використовувати символьні посилання замість копіювання файлів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
         <source>Use symbolic links</source>
-        <translation>Використовувати символічні посилання</translation>
+        <translation>Використовувати символьні посилання</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
@@ -1841,7 +1841,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation>Скопіюйте знімки екрану</translation>
+        <translation>Скопіюйте знятки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
@@ -1851,17 +1851,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
         <source>Reflinks are supported on %1</source>
-        <translation>Рефлінки підтримуються на %1</translation>
+        <translation type="unfinished">Рефлінки підтримуються на %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="98"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation>Рефлінки не підтримуються на %1</translation>
+        <translation type="unfinished">Рефлінки не підтримуються на %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation>На Windows для створення символічних посилань потрібні права адміністратора.</translation>
+        <translation>На Windows для створення символьних посилань потрібні права адміністратора.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
@@ -1904,7 +1904,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation>Сворити ярлик екземпляра</translation>
+        <translation>Сворити Ярлик Збірки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
@@ -1975,12 +1975,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="88"/>
         <source>Applications</source>
-        <translation>Додатки</translation>
+        <translation>Застосунки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="90"/>
         <source>Other...</source>
-        <translation>Інше...</translation>
+        <translation>Инше...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="96"/>
@@ -2005,7 +2005,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="196"/>
         <source>instance</source>
-        <translation>екземпляр</translation>
+        <translation>збірка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="200"/>
@@ -2043,17 +2043,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation>Перевизначення та Глобальні Налаштування</translation>
+        <translation>Підпорядкування та Загальні Налаштування</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation>&amp;Команда перед запуском</translation>
+        <translation>&amp;Команда перед Запуском</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>P&amp;ost-exit Command</source>
-        <translation>Команда після виходу</translation>
+        <translation>Команда по Виходу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
@@ -2064,14 +2064,14 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Команда перед запуском виконується перед стартом збірки, а після завершення процесу гри виконується команда після виходу. &lt;/p&gt;&lt;p&gt;Обидві команди будуть виконуватись в робочій теці лаунчера з додатковими змінними середовища:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Назва збірки&lt;/li&gt;&lt;li&gt;$INST_ID - ID збірки (назва її каталогу)&lt;/li&gt;&lt;li&gt;$INST_DIR - абсолютний шлях збірки&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - абсолютний шлях Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - програма java, використовувана при запускові&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - аргументи командного рядка, використовувані при запускові&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Команда обгортки дозволяє запускати Java, використовуючи зовнішню програму-обгортку (наприклад &apos;optirun&apos; на Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Команда перед запуском виконується перед запуском збірки, а після завершення процесу гри виконується команда після виходу. &lt;/p&gt;&lt;p&gt;Обидві команди будуть виконуватись в робочій теці запускача з додатковими змінними середовища:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Назва збірки&lt;/li&gt;&lt;li&gt;$INST_ID - ID збірки (назва її каталогу)&lt;/li&gt;&lt;li&gt;$INST_DIR - абсолютний шлях збірки&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - абсолютний шлях Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - програма джава (java), використовувана при запускові&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - арґументи командного рядка, використовувані при запускові&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Команда обгортки дозволяє запускати Джава (Java), використовуючи зовнішню програму-обгортку (наприклад &apos;optirun&apos; на Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation>Користувацькі команди</translation>
+        <translation>Користувацькі Команди</translation>
     </message>
 </context>
 <context>
@@ -2129,22 +2129,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="195"/>
         <source>NeoForge</source>
-        <translation>NeoForge</translation>
+        <translation>Неофордж (NeoForge)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="205"/>
         <source>Forge</source>
-        <translation>Forge</translation>
+        <translation>Фордж (Forge)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="215"/>
         <source>Fabric</source>
-        <translation>Fabric</translation>
+        <translation>Фабрик (Fabric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="225"/>
         <source>Quilt</source>
-        <translation>Quilt</translation>
+        <translation>Квилт (Quilt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="235"/>
@@ -2821,7 +2821,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
         <source>Template</source>
-        <translation>Шаблон</translation>
+        <translation>Шабльон</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
@@ -3413,12 +3413,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="139"/>
         <source>Sort by Name</source>
-        <translation>Сортувати за назвою</translation>
+        <translation>Упорядкувати за Назвою</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="140"/>
         <source>Sort by Game Version</source>
-        <translation>Сортувати за версією гри</translation>
+        <translation>Упорядкувати за Версією Гри</translation>
     </message>
 </context>
 <context>
@@ -3877,37 +3877,37 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation>Сортувати за рекомендованим</translation>
+        <translation>Упорядкувати за Рекомендованим</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>Сортувати за популярністю</translation>
+        <translation>Упорядкувати за Популярністю</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>Сортувати за останнім оновленням</translation>
+        <translation>Упорядкувати за Останнім Оновленням</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Сортувати за назвою</translation>
+        <translation>Упорядкувати за Назвою</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation>Сортувати за автором</translation>
+        <translation>Упорядкувати за Автором</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation>Сортувати за кількістю завантажень</translation>
+        <translation>Упорядкувати за Кількістю Завантажень</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="198"/>
@@ -4068,12 +4068,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="12"/>
         <source>Getting skin.</source>
-        <translation>Отримання скіну.</translation>
+        <translation>Отримання скину.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="35"/>
         <source>Got skin</source>
-        <translation>Скін успішно отримано</translation>
+        <translation>Скин успішно отримано</translation>
     </message>
 </context>
 <context>
@@ -4710,7 +4710,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation>Налаштування консолі</translation>
+        <translation>Налаштування Консоли</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
@@ -4725,15 +4725,15 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>Показувати вікно консолі після аварії гри</translation>
+        <translation>Показувати вікно консоли, якщо гра зазнає краху</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation>Закривати запускач після відкриття вікна гри</translation>
+        <translation>Закривати запускач по відкриттю вікна гри</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation>Виходити із запускача після закриття вікна гри</translation>
+        <translation>Виходити з запускача по закриттю вікна гри</translation>
     </message>
     <message>
         <source>Custom commands</source>
@@ -4781,15 +4781,15 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Override default account</source>
-        <translation>Перевизначити типічний аккаунт</translation>
+        <translation>Підпорядкувати усталений обліковий запис</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Аккаунт:</translation>
+        <translation>Обліковий Запис:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Інше</translation>
+        <translation>Инше</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
@@ -4821,15 +4821,15 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Користуватися зовнішньою відеокартою</translation>
+        <translation>Користуватися зовнішньою (дискретною) відеокартою</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>Використовуйте Zink, драйвер Mesa OpenGL, який реалізує OpenGL поверх Vulkan. Продуктивність може змінюватися залежно від ситуації. Примітка: Якщо відповідний драйвер Vulkan не знайдено, буде використано програмний рендеринг.</translation>
+        <translation>Використовувати Zink, драйвер Mesa OpenGL, який реалізує OpenGL поверх Vulkan. Продуктивність може змінюватися в залежності від ситуації. Примітка: якщо відповідний драйвер Vulkan не знайдено, використовуватиметься проґрамний рендеринґ.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Використовуйте Zink</translation>
+        <translation>Використовувати Zink</translation>
     </message>
     <message>
         <source>Legacy settings</source>
@@ -4838,23 +4838,23 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Емулює використання старих онлайн-сервісів, які більше не працюють.&lt;/p&gt;&lt;p&gt;Сучасні виправлення дозволяють: використовувати скіни та онлайн режим&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Емулює використання старих онляйн-служб, котрі більше не працюють.&lt;/p&gt;&lt;p&gt;Поточні виправлення дозволяють: використовувати скини та онляйн режим&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Увімкнути онлайн виправлення (експериментально)</translation>
+        <translation>Увімкнути онляйн виправлення (експериментально)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation>Перевизначити глобальні налаштування часу гри</translation>
+        <translation>Підпорядкувати загальні налаштування часу гри</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation>Показати час, витрачений на гру в цей екземпляр</translation>
+        <translation>Показати час, витрачений на гру в цій збірці</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation>Записувати час, витрачений на гру в цей екземпляр</translation>
+        <translation>Записувати час, витрачений на гру в цій збірці</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
@@ -5994,7 +5994,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="367"/>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>Обліковий запис закінчився і потребує повторної аутентифікації</translation>
+        <translation>Обліковий запис закінчився і потребує повторної автентифікації</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="377"/>
@@ -6100,7 +6100,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Accessing Mojang services.</source>
-        <translation>З&apos;єднання зі службами Mojang.</translation>
+        <translation>З&apos;єднання зі службами Моджанґ (Mojang).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
@@ -6161,7 +6161,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
         <source>Instance Sorting</source>
-        <translation>Сортування Збірок</translation>
+        <translation>Упорядкування Збірок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="105"/>
@@ -6229,12 +6229,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
         <source>&amp;Icons:</source>
-        <translation>&amp;Значки:</translation>
+        <translation>&amp;Іконки:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="452"/>
         <source>Log History &amp;Limit:</source>
-        <translation>Історія журналу та обмеження:</translation>
+        <translation>Історія Звіту й Обмеження:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
@@ -6273,7 +6273,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="56"/>
         <source>User Interface</source>
-        <translation>Інтерфейс користувача</translation>
+        <translation>Користувацька Оболонка</translation>
     </message>
     <message>
         <source>Launcher notifications</source>
@@ -6285,7 +6285,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation>Режим сортування збірок</translation>
+        <translation>Режим упорядкування збірок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -6390,7 +6390,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
         <source>&amp;Skins:</source>
-        <translation>&amp;Скіни:</translation>
+        <translation>&amp;Скини:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="374"/>
@@ -6412,7 +6412,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>При створені новогї збірки, не пропонувати оновити уже існуючі натомість.</translation>
+        <translation>При створені нової збірки, не пропонувати оновити вже існуючі натомість.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
@@ -6420,7 +6420,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Різне</translation>
+        <translation>Ріжне</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
@@ -6451,7 +6451,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation>Якщо увімкнено, заблоковані ресурси буде переміщено, а не скопійовано.</translation>
+        <translation>Якщо увімкнено, забльоковані ресурси буде переміщено, а не скопійовано.</translation>
     </message>
     <message>
         <source>Move blocked resources</source>
@@ -6468,7 +6468,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>Встановіть рівень прозорості котика. При 0% він буде повністю прозорим, 100% – не буде прозорим взагалі.</translation>
+        <translation>Встановіть рівень прозорости котика. При 0% він буде повністю прозорим, 100% – буде повністю непрозорим.</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -6485,7 +6485,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation>Панель меню зручніша для взаємодії з клавіатури.</translation>
+        <translation>З панеллю меню зручніше взаємодіяти набірницею.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
@@ -6501,17 +6501,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation>Перевірте &amp;підпапки на наявність заблокованих модів</translation>
+        <translation>Перевірити &amp;підтеки на наявність забльокованих модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation>Перемістіть заблоковані моди замість того, щоб копіювати їх</translation>
+        <translation>Перемістити забльоковані моди замість того, щоби копіювати їх</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation>Зберігайте інформацію про версії, надану постачальниками модів (як-от Modrinth чи CurseForge) для модів.</translation>
+        <translation>Зберігати дані про версії, надану постачальниками модів (як-от Modrinth чи CurseForge) для модів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
@@ -6521,7 +6521,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
-        <translation>Автоматично знаходити, встановлювати і оновлювати модові залежності.</translation>
+        <translation>Автоматично знаходити, встановлювати й оновлювати модові залежності.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="417"/>
@@ -6531,12 +6531,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
-        <translation>При створенні нового екземпляра модпаку рекомендується оновити існуючий екземпляр замість цього.</translation>
+        <translation>Рекомендувати при створенні нової збірки оновить уже існуючу збірку.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Suggest to update an existing instance during modpack installation</source>
-        <translation>Запропонувати оновити існуючий екземпляр під час установки модпака</translation>
+        <translation>Запропонувати оновить існуючу збірку під час установлення пакунку модифікацій</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
@@ -6545,7 +6545,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Console Settings</source>
-        <translation>Налаштування консолі</translation>
+        <translation>Налаштування Консоли</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
@@ -6560,18 +6560,18 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>Показувати вікно консолі після &amp;аварійного завершення гри</translation>
+        <translation>Показувати вікно консоли, коли гра зазнає &amp; краху</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation>&amp;Ліміт журналу</translation>
+        <translation>&amp;Ліміт Звіту</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation>Припинити запис &amp;журналу при його переповненні</translation>
+        <translation>Припинити запис &amp;звіту при перевищенні ліміту</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="468"/>
@@ -6581,17 +6581,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>&amp;Шрифт консолі</translation>
+        <translation>&amp;Шрифт консоли</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
         <source>Instance Folder</source>
-        <translation>Тека збірки</translation>
+        <translation>Тека Збірки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="101"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>Ви намагаєтеся вказати шлях до теки, яка містить у своєму шляху принаймні один символ &apos;!&apos;. Це може викликати проблеми із Java, і ваші збірки (ймовірно) не запустяться!</translation>
+        <translation>Ви намагаєтеся вказати шлях до теки, яка містить у своєму шляху принаймні один символ &apos;!&apos;. Це може викликати проблеми із Джава (Java), та ваші збірки (ймовірно) не запустяться!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="106"/>
@@ -6609,7 +6609,7 @@ This is known to cause problems. After a restart the launcher might break, becau
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation>Ви намагаєтеся вказати теку збірки, яка була тимчасово надана через Flatpak.
-Відомо, що це викликає проблеми. Після перезапуску програма запуску може зламатися, оскільки вона більше не матиме доступу до цього каталогу.
+Відомо, що це викликає проблеми. Після перезапуску проґрама запуску може зламатися, оскільки вона більше не матиме доступу до цього каталогу.
 
 Рекомендується надати %1 доступ до нього через Flatseal.</translation>
     </message>
@@ -6621,12 +6621,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="136"/>
         <source>Icons Folder</source>
-        <translation>Тека значків</translation>
+        <translation>Тека Іконок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="147"/>
         <source>Mods Folder</source>
-        <translation>Тека модів</translation>
+        <translation>Тека Модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="158"/>
@@ -6636,12 +6636,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"/>
         <source>Java Folder</source>
-        <translation>Папка Java</translation>
+        <translation>Тека Джава (Java)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
-        <translation>Папка скінів</translation>
+        <translation>Тека Скинів</translation>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
@@ -6722,13 +6722,13 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="58"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Сортувати за назвою</translation>
+        <translation>Упорядкувати за Назвою</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>Сортувати за версією гри</translation>
+        <translation>Упорядкувати за Версією Гри</translation>
     </message>
 </context>
 <context>
@@ -7110,7 +7110,7 @@ Reason:
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="246"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="68"/>
         <source>Minecraft Log</source>
-        <translation>Журнал Minecraft</translation>
+        <translation>Звіт Minecraft</translation>
     </message>
 </context>
 <context>
@@ -7728,12 +7728,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
         <source>&amp;Skins</source>
-        <translation>&amp;Скіни</translation>
+        <translation>&amp;Скини</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="567"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation>Відкрити теку скінів у переглядачеві файлів.</translation>
+        <translation>Відкрити теку скинів у переглядачеві файлів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
@@ -8993,7 +8993,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Увімкнути онлайн виправлення (експериментально)</translation>
+        <translation>Увімкнути онляйн виправлення (експериментально)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
@@ -9316,7 +9316,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="603"/>
         <source>Enable online fixes (experimental)</source>
-        <translation>Увімкнути онлайн-виправлення (експериментально)</translation>
+        <translation>Увімкнути онляйн-виправлення (експериментально)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="616"/>
@@ -10819,18 +10819,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation>Спершу найрелевантніше</translation>
+        <translation>Упорядкувати за Слушністю</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="86"/>
         <source>Sort by Follows</source>
-        <translation>Сортувати за підписками</translation>
+        <translation>Упорядкувати за Підписками</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="88"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>Сортувати за останнім оновленням</translation>
+        <translation>Упорядкувати за Останнім Оновленням</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="153"/>
@@ -10877,12 +10877,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="87"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
-        <translation>Спершу найновіше</translation>
+        <translation>Упорядкувати за Новістю</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="85"/>
         <source>Sort by Total Downloads</source>
-        <translation>Сортувати за кількістю завантажень</translation>
+        <translation>Упорядкувати за Кількістю Завантажень</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="261"/>
@@ -12987,59 +12987,59 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
         <source>Sort by Featured</source>
-        <translation>Сортувати за Рекомендованим</translation>
+        <translation>Упорядкувати за Рекомендованим</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
         <source>Sort by Popularity</source>
-        <translation>Сортувати за Популярністю</translation>
+        <translation>Упорядкувати за Популярністю</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
-        <translation>Сортувати за Останнім Оновленням</translation>
+        <translation>Упорядкувати за Останнім Оновленням</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
         <source>Sort by Name</source>
-        <translation>Сортувати за Назвою</translation>
+        <translation>Упорядкувати за Назвою</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
         <source>Sort by Author</source>
-        <translation>Сортувати за Автором</translation>
+        <translation>Упорядкувати за Автором</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
-        <translation>Сортувати за Завантаженнями</translation>
+        <translation>Упорядкувати за Завантаженнями</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
         <source>Sort by Category</source>
-        <translation>Сортувати за Катеґоріями</translation>
+        <translation>Упорядкувати за Катеґоріями</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="171"/>
         <source>Sort by Game Version</source>
-        <translation>Сортувати за Версією Гри</translation>
+        <translation>Упорядкувати за Версією Гри</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
         <source>Sort by Relevance</source>
-        <translation>Сортувати за Релевантністю</translation>
+        <translation>Упорядкувати за Слушністю</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Follows</source>
-        <translation>Сортувати за Підписками</translation>
+        <translation>Упорядкувати за Підписками</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Newest</source>
-        <translation>Сортувати за Новістю</translation>
+        <translation>Упорядкувати за Новістю</translation>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="64"/>
@@ -14459,7 +14459,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="68"/>
         <source>Screenshots</source>
-        <translation>Знімок екрану</translation>
+        <translation>Знятки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="311"/>
@@ -16929,7 +16929,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="128"/>
         <source>Copy Seed</source>
-        <translation>Копіювати Сім&apos;я Світу</translation>
+        <translation>Копіювати Зерно Світу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="133"/>
