@@ -486,7 +486,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>Тип облікового запису (MSA чи офляйн)</translation>
+        <translation>Тип облікового запису (Обліковий Запис Майкрософт чи офляйн)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -1138,7 +1138,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Отримання файлів ресурсів від Mojang...</translation>
+        <translation>Отримання файлів ресурсів від Моджанґ (Mojang)...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1366,52 +1366,52 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation>Автоматичний механізм Java виявив 32-розрядну установку Java.</translation>
+        <translation>Автоматичний механізм Джава (Java) виявив 32-розрядне встановлення Джава (Java).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation>Не знайдено сумісної версії Java. Використовуватиметься стандартна версія.</translation>
+        <translation>Не знайдено сумісної версії Джава (Java). Використовуватиметься усталена версія.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation>Ваша система (%1-%2) не сумісна з автоматичним встановленням Java. Буде використано стандартний шлях до Java.</translation>
+        <translation>Ваша система (%1-%2) не сумісна з автоматичним встановленням Джава (Java). Використовуватимемо штандартний шлях до Джава (Java).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation>Ваша мета-інформація застаріла або не містить інформації, необхідної для визначення того, яку інсталяцію Java слід використовувати. Використання стандартного шляху до Java.</translation>
+        <translation>Ваша мета-інформація застаріла або не містить інформації, необхідної для визначення того, яку інсталяцію Джава (Java) слід використовувати. Використовуємо штандартний шлях до Джави (Java).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
         <source>Compatible Java found at: %1.</source>
-        <translation>Сумісна версія Java знайдена у: %1.</translation>
+        <translation>Сумісна версія Джава (Java) знайдена у: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation>Жодної сумісної версії Java не знайдено (двійковий файл не існує). Використовуватиметься стандартна версія.</translation>
+        <translation>Жодної сумісної версії Джава (Java) не знайдено (двійковий файл не існує). Використовуватимемемо усталену версію.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
         <source>Could not determine Java download type!</source>
-        <translation>Не вдалося визначити тип завантаження Java!</translation>
+        <translation>Не вдалося визначити тип завантаження Джава (Java)!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
         <source>Install Java</source>
-        <translation>Встановити Java</translation>
+        <translation>Установити Джава (Java)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation>Не знайдено версій Java для вашої операційної системи: %1-%2</translation>
+        <translation>Не знайдено версій Джава (Java) для вашої операційної системи: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation>Сумісної версії Java не знайдено. Використовується стандартна версія.</translation>
+        <translation>Сумісної версії Джава (Java) не знайдено. Використовується усталена версія.</translation>
     </message>
 </context>
 <context>
@@ -1430,17 +1430,17 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation>Ми додали функцію автоматичного завантаження правильної версії Java для кожної версії Minecraft (це можна змінити в налаштуваннях Java). Хочете увімкнути чи вимкнути цю функцію?</translation>
+        <translation>Ми додали функцію автоматичного завантаження правильної версії Джава (Java) для кожної версії Minecraft (це можна змінити в налаштуваннях Java). Хочете ввімкнути чи вимкнути цю функцію?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation>Увімкнути автозавантаження</translation>
+        <translation>Увімкнути Автозавантаження</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation>Вимкнути автозавантаження</translation>
+        <translation>Вимкнути Автозавантаження</translation>
     </message>
 </context>
 <context>
@@ -1491,32 +1491,32 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Виконується автоматична перевірка налаштованої глобальної папки з модами та папки із завантаженнями на наявність завантажених модів і у разі виявлення ці моди копіюються в інстант.&lt;/p&gt;&lt;p&gt;Також можна перетягнути завантажені моди в це діалогове вікно або не додати папку, додати папку замовчуванням.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Натисніть кнопку «Відкрити відсутні», щоб відкрити всі посилання для завантаження в браузері. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Виконується автоматична перевірка загальної теки з модами та усталеної теки завантажень, на наявність завантажених модів. Якщо їх знайдемо, то вони будуть скопійовані до збірки.&lt;/p&gt;&lt;p&gt;Також можна перетягнути завантажені моди в це діяльоґове вікно або вказати иншу теку для перевірки.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Натисніть кнопку «Відкрити Відсутні», щоб відкрити всі покликання для завантаження в бравзерові. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
         <source>Blocked Mods</source>
-        <translation>Заблоковані моди</translation>
+        <translation>Забльоковані Моди</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
-        <translation>Данні відсутні</translation>
+        <translation type="unfinished">Дані Відсутні</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
         <source>Watched Folders</source>
-        <translation>Переглянуті папки</translation>
+        <translation>Переглянуті Теки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
         <source>Add Download Folder</source>
-        <translation>Додати теку для завантаження</translation>
+        <translation>Додати Теку для Завантаження</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Виберіть теку, в яку ви завантажили моди</translation>
+        <translation>Виберіть теку, в котру ви завантажили моди</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
@@ -1555,7 +1555,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Бібліотеку перевірки Java не знайдено. Перевірте вашу інсталяцію.</translation>
+        <translation>Бібліотеку перевірки Джава (Java) не знайдено. Перевірте вашу інсталяцію.</translation>
     </message>
 </context>
 <context>
@@ -1588,7 +1588,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>Намагатися використовувати інші джерела в разі якщо обране не працюватиме</translation>
+        <translation>Намагатися використовувати инші джерела, якщо обране не працюватиме</translation>
     </message>
 </context>
 <context>
@@ -1606,12 +1606,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>Виявлені конфліктуючі вимоги під час перевірки залежностей!</translation>
+        <translation>Виявлені конфліктні вимоги під час перевірки залежностей!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="467"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>Збірка має конфліктуючі залежності.</translation>
+        <translation>Збірка має конфліктні залежності.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="473"/>
@@ -1636,11 +1636,11 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="94"/>
         <source>Failed to abort all running tasks.</source>
-        <translation>Не вдалося припинити усі діючі процеси.</translation>
+        <translation>Не вдалося припинити усі активні процеси.</translation>
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation>Не вдалося виконати одну або більше підзадач</translation>
+        <translation>Не вдалося виконати одну чи більше підзадач</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1710,12 +1710,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Вимкнення цієї опції збереже завантажувач модів (наприклад, Fabric, Quilt і т.д.), але видалить теку модів та їх конфігурації.</translation>
+        <translation>Вимкнення цієї опції збереже завантажувач модів (наприклад, Fabric, Quilt і т.д.), але видалить теку модів та їхні конфіґурації.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation>Налаштування копіювання збірки</translation>
+        <translation>Налаштування Копіювання Збірки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
@@ -1806,7 +1806,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation>Файли, клоновані завдяки рефлінкам, не займають місце, поки вони не будуть змінені.</translation>
+        <translation type="unfinished">Файли, клоновані завдяки рефлінкам, не займають місце, поки вони не будуть змінені.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
@@ -1924,12 +1924,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation>Використовувати обліковий запис відмінний від стандартного.</translation>
+        <translation>Використовувати обліковий запис відмінний від усталеного.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
         <source>Override the default account</source>
-        <translation>Перевизначити обліковий запис за замовчуванням</translation>
+        <translation>Підпорядкувать усталений обліковий запис</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
@@ -2718,12 +2718,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="50"/>
         <source>Export Modrinth Pack</source>
-        <translation>Експорт збірки Modrinth</translation>
+        <translation>Експорт Збірки Модринт (Modrinth)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="59"/>
         <source>Export CurseForge Pack</source>
-        <translation>Експорт збірки CurseForge</translation>
+        <translation>Експорт Збірки КерсФордж (CurseForge)</translation>
     </message>
     <message>
         <source>&amp;Author</source>
@@ -2748,12 +2748,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="157"/>
         <source>Modrinth pack</source>
-        <translation>Збірка Modrinth</translation>
+        <translation>Збірка Модринт (Modrinth)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="164"/>
         <source>CurseForge pack</source>
-        <translation>збірка CurseForge</translation>
+        <translation>збірка КерсФордж (CurseForge)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="191"/>
@@ -2781,7 +2781,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation>Експортувати пакунок до ModList</translation>
+        <translation>Експортувати Пакунок до ModList</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
@@ -2831,12 +2831,12 @@ Are you sure?</source>
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation>Цей текст підтримує наступні плейсхолдери:
-{name}     - Назва мода
-{mod_id}   - ID мода
-{url}      - URL мода
-{version}  - Версія мода
-{authors}  - Автори мода</translation>
+        <translation>Цей текст підтримує наступні шабльони:
+{name}     - Назва моду
+{mod_id}   - ID моду
+{url}      - Покликання моду
+{version}  - Версія моду
+{authors}  - Автори моду</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -2999,7 +2999,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
         <source>Open the folder in the system file manager.</source>
-        <translation>Відкрити папку у системному файловому менеджері.</translation>
+        <translation>Відкрити теку в системнім переглядачеві файлів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
@@ -3009,7 +3009,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="155"/>
         <source>Download resources from online mod platforms.</source>
-        <translation>Завантажити ресурси з онлайн-платформ модів.</translation>
+        <translation>Завантажити ресурси з онляйн платформ модів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="166"/>
@@ -3446,7 +3446,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Примітка: Якщо ваші екземпляри FTB не знаходяться в розташуванні за замовчуванням, виберіть його за допомогою кнопки поруч з пошуком.</translation>
+        <translation>Примітка: Якщо ваші збірки FTB не перебувають в усталеній локації, виберіть їх за допомогою кнопки, що поруч із &quot;пошуком&quot;.</translation>
     </message>
 </context>
 <context>
@@ -3487,7 +3487,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="256"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Розбір відповіді API від CurseForge для ‘%1’…</translation>
+        <translation>Розбір відповіди API від КерсФордж (CurseForge) для ‘%1’…</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -3500,7 +3500,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation>Підготовка ресурсів для CurseForge...</translation>
+        <translation>Підготовка ресурсів для КерсФордж (CurseForge)...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -3509,17 +3509,17 @@ Please try again.</source>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>Отримуємо відповідь API від CurseForge для &apos;%1&apos;...</translation>
+        <translation>Отримуємо відповідь API від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="92"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Розбір API відповіді від CurseForge для &apos;%1&apos;...</translation>
+        <translation>Розбір API відповіди від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Не знайдено дійсної версії для цього ресурсу. Ймовірно, він недоступний для поточної версії гри / модлоадера.</translation>
+        <translation>Не знайдено дійсної версії для цього ресурсу. Ймовірно, він недоступний для поточної версії гри / завантажувача модів.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="101"/>
@@ -3529,12 +3529,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Розбір відповіді API від CurseForge для &apos;%1&apos;...</translation>
+        <translation>Розбір відповіди API від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation>Для цього ресурсу доступна нова версія, але її неможливо завантажити за допомогою CurseForge.</translation>
+        <translation>Для цього ресурсу доступна нова версія, але її неможливо завантажити за допомогою КерсФордж (CurseForge).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
@@ -3548,7 +3548,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Підготовка модів для CurseForge...</translation>
+        <translation>Підготовка модів для КерсФордж (CurseForge)...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -3557,7 +3557,7 @@ Please try again.</source>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>Доступна нова версія моду, але ЇЇ не можливо завантажити через CurseForge.</translation>
+        <translation>Доступна нова версія моду, але ЇЇ не можливо завантажити через КерсФордж (CurseForge).</translation>
     </message>
 </context>
 <context>
@@ -3639,7 +3639,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="382"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>Невідомий завантажувач модів в маніфесті: %1</translation>
+        <translation>Невідомий завантажувач модів у маніфесті: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="397"/>
@@ -3649,7 +3649,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation>Рекомендована пам&apos;ять модпаку перевищує 90% вашої системної оперативної пам&apos;яті — зменшуючи її з %1 МіБ до %2 МіБ!</translation>
+        <translation>Рекомендована пам&apos;ять пакунку модифікацій перевищує 90% вашої системної оперативної пам&apos;яти — зменшуючи її з %1 МіБ до %2 МіБ!</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -3665,7 +3665,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="546"/>
         <source>Blocked mods found</source>
-        <translation>Знайдено заблоковані моди</translation>
+        <translation>Знайдено забльоковані моди</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="547"/>
@@ -3686,12 +3686,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="613"/>
         <source>Copying Blocked Mods...</source>
-        <translation>Копіювання модових блоків...</translation>
+        <translation>Копіювання Забльокованих Модів...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="628"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>Копіювання заблокованих модів (%1 з %2 виконано)</translation>
+        <translation>Копіювання Забльокованих Модів (%1 з %2 виконано)</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -3720,7 +3720,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="407"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Хей!&lt;/h1&gt;&lt;h4&gt;Схоже, що твій ID пакету пустий. Це сталося через помилку в старших версіях запускача.&lt;br/&gt;Нажаль, ми не можемо зробити правильні запити до API без цієї інформації.&lt;br/&gt;&lt;br/&gt;Тож, щоб ця функція працювала правильно, треба перезавантажити збірку з вбудованого завантажувача.&lt;br/&gt;&lt;br/&gt;Але не хвилюйтеся, воно запитає вас оновити цю збірку, тому ви не втратите її!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Хей!&lt;/h1&gt;&lt;h4&gt;Схоже, що твій ID Пакунку пустий. Це сталося через помилку в старших версіях запускача.&lt;br/&gt;Нажаль, ми не можемо зробити правильні запити до API без цієї інформації.&lt;br/&gt;&lt;br/&gt;Тож, щоби ця функція працювала правильно, треба перезавантажити збірку з убудованого завантажувача.&lt;br/&gt;&lt;br/&gt;Але не хвилюйтеся, вас попросять оновити цю збірку, тому ви не втратите її!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="447"/>
@@ -3735,7 +3735,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="511"/>
         <source>CurseForge pack</source>
-        <translation>Збірка CurseForge</translation>
+        <translation>Збірка КерсФордж (CurseForge)</translation>
     </message>
 </context>
 <context>
@@ -3797,23 +3797,23 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="85"/>
         <source>Finding file hashes...</source>
-        <translation>Пошук хешів файлів...</translation>
+        <translation>Пошук гешів файлів...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="167"/>
         <source>Finding versions for hashes...</source>
-        <translation>Пошук версій для хешів...</translation>
+        <translation>Пошук версій для гешів...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="218"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="281"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Розбір відповіді API від CurseForge для &apos;%1&apos;...</translation>
+        <translation>Розбір відповіди API від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="238"/>
         <source>Finding project info from CurseForge...</source>
-        <translation>Знаходимо інформацію про проєкт з CurseForge...</translation>
+        <translation>Знаходимо інформацію про проєкт з КерсФордж (CurseForge)...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="318"/>
@@ -3852,12 +3852,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Примітка: CurseForge дозволяє творцям блокувати доступ до сторонніх інструментів, таких як Prism Launcher. Таким чином, вам може знадобитися вручну завантажити деякі моди, щоб мати можливість встановити збірку.</translation>
+        <translation>Примітка: КерсФордж (CurseForge) дозволяє творцям бльокувати доступ до сторонніх інструментів, таких як Prism Launcher. Таким чином, вам може знадобитися вручну завантажити деякі моди, щоби мати можливість установити збірку.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation>Параметри фільтра</translation>
+        <translation>Параметри фільтру</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -4201,7 +4201,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
-        <translation>Локальний файл, або пряме посилання для завантаження:</translation>
+        <translation>Локальний файл, або пряме покликання для завантаження:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="55"/>
@@ -4219,12 +4219,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>Збірка %1 заблокована для третіх осіб! Будь ласка, завантажте її вручну.</translation>
+        <translation>Збірка %1 забльокована для третіх осіб! Будь ласка, завантажте її вручну.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation>Цей URL не є дійсним модпаком!</translation>
+        <translation>Цей покликання не є дійсним пакунком модифікацій!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
@@ -4240,12 +4240,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation>Збірка Modrinth</translation>
+        <translation>Збірка Модринт (Modrinth)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
         <source>Choose modpack</source>
-        <translation>Виберіть мод-пак</translation>
+        <translation>Виберіть пакунок модифікацій</translation>
     </message>
     <message>
         <source>Zip (*.zip)</source>
@@ -4257,17 +4257,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation>Виберіть екземпляр для імпорту</translation>
+        <translation>Виберіть збірку, в котру ви хочете імортувати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>Виберіть збірку у котру ви хочете імпортувати цей ресурс пак.</translation>
+        <translation>Виберіть збірку в котру ви хочете імпортувати цей пакунок ресурсів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation>Виберіть збірку у котру ви хочете імпортувати цей %1.</translation>
+        <translation>Виберіть збірку в котру ви хочете імпортувати цей %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
@@ -4302,7 +4302,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="140"/>
         <source>Report issues to: </source>
-        <translation>Повідомити про проблему: </translation>
+        <translation>Повідомити про проблєму: </translation>
     </message>
 </context>
 <context>
@@ -4311,20 +4311,20 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation>Наразі в метаданих немає доступних версій Java.</translation>
+        <translation>Наразі в метаданих немає доступних версій Джава (Java).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation>Не вдалося завантажити або скачати списки версій Java!</translation>
+        <translation>Не вдалося завантажити чи інсталювати списки версій Джава (Java)!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation>Наразі для вашої ОС немає доступних версій Java.</translation>
+        <translation>Наразі для вашої ОС немає доступних версій Джава (Java).</translation>
     </message>
 </context>
 <context>
@@ -4347,17 +4347,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
         <source>NeoForge</source>
-        <translation>NeoForge</translation>
+        <translation>НеоФордж (NeoForge)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
         <source>Forge</source>
-        <translation>Forge</translation>
+        <translation>Фордж (Forge)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
         <source>Fabric</source>
-        <translation>Fabric</translation>
+        <translation>Фабрик (Fabric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
@@ -4809,7 +4809,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Увімкнути розширений оверлей продуктивності MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Увімкнути розширений оверлей продуктивности MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
@@ -4817,11 +4817,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Користуватися зовнішньою відеокартою замість головної.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Користуватися зовнішньою (дискретною) відеокартою замість головної.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Користуватися зовнішньою (дискретною) відеокартою</translation>
+        <translation>Використовувати зовнішньою (дискретною) відеокартою</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
@@ -4884,27 +4884,27 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Виберіть версію Java</translation>
+        <translation>Виберіть версію Джава (Java)</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Підтвердити вибір</translation>
+        <translation>Підтвердити Вибір</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Ви вибрали 32-бітну версію Java.
-Ця інсталяція не підтримує більше 2048MiB оперативної пам&apos;яті.
-Будь ласка, переконайтеся, що максимальне значення пам&apos;яті є меншим.</translation>
+        <translation>Ви вибрали 32-бітну версію Джава (Java).
+Ця інсталяція не підтримує більше 2048MiB оперативної пам&apos;яти.
+Будь ласка, переконайтеся, що максимальне значення пам&apos;яти є меншим.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Пошук виконуваного файлу Java</translation>
+        <translation>Пошук виконуваного файлу Джава (Java)</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Максимальне виділення пам&apos;яті менше мінімального значення</translation>
+        <translation>Максимальне виділення пам&apos;яти менше мінімального значення</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -4912,11 +4912,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Ваша кількість виділеної пам&apos;яті перевищує кількість пам&apos;яті, встановленої у вашу систему.</translation>
+        <translation>Максимальне виділення пам&apos;яти перевищує кількість пам&apos;яти, доступній вашій системі.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Максимальне виділення пам&apos;яті наближається до обсягу пам&apos;яті в системі.</translation>
+        <translation>Максимальна виділена кількість пам&apos;яти наближається до обсягу пам&apos;яти в системі.</translation>
     </message>
 </context>
 <context>
@@ -4924,7 +4924,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="953"/>
         <source>Could not create staging folder</source>
-        <translation>Не вдалося створити проміжну папку</translation>
+        <translation>Не вдалося створити проміжну теку</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="971"/>
@@ -4942,7 +4942,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Натисніть &quot;Додати збірку&quot;, щоб почати.</translation>
+        <translation>Натисніть &quot;Додати збірку&quot;, щоби почати.</translation>
     </message>
 </context>
 <context>
@@ -4950,7 +4950,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
         <source>Console window for </source>
-        <translation>Вікно консолі для </translation>
+        <translation>Вікно консоли для </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
@@ -4992,7 +4992,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Kill the running instance</source>
-        <translation>Зупинити дану збірку</translation>
+        <translation>Зупинити запущену збірку</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -5039,18 +5039,18 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation>Завантаження Java</translation>
+        <translation>Завантаження Джава (Java)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="69"/>
         <source>Extracting Java</source>
-        <translation>Розпакування Java</translation>
+        <translation>Розпакування Джава (Java)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="71"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="84"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Розпакування Java (Прогрес не відображається для архівів tar)</translation>
+        <translation>Розпакування Джава (Java) (Поступ не відображається для архівів tar)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="74"/>
@@ -5139,7 +5139,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation>Завантаження Java</translation>
+        <translation>Завантаження Джава (Java)</translation>
     </message>
 </context>
 <context>
@@ -5147,27 +5147,27 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation>Перевірка шляху до виконуваного файлу Java</translation>
+        <translation>Перевірка шляху до виконуваного файлу Джава (Java)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation>Пошук шляху до виконуваного файлу Java</translation>
+        <translation>Пошук шляху до виконуваного файлу Джава (Java)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation>Не вдалося знайти шлях до виконуваного файлу Java</translation>
+        <translation>Не вдалося знайти шлях до виконуваного файлу Джава (Java)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation>Збирання папок для створення символічних посилань</translation>
+        <translation>Збирання тек для створення символьних посилань</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation>Створення символічного посилання для шляху до виконуваного файлу Java</translation>
+        <translation>Створення символьного посилання для шляху до виконуваного файлу Джава (Java)</translation>
     </message>
 </context>
 <context>
@@ -5175,7 +5175,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <source>Detecting Java installations...</source>
-        <translation>Пошук встановлених Java інсталяцій...</translation>
+        <translation>Пошук встановлених інсталяцій Джава (Java)...</translation>
     </message>
 </context>
 <context>
@@ -6555,7 +6555,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation>&amp;Автоматично закривати консоль при виході із гри</translation>
+        <translation>&amp;Автоматично закривати консоль по виходу з гри</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
@@ -8587,7 +8587,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1637"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>У вас є два варіанти: &lt;br/&gt; - змінити теку збірки в налаштуваннях &lt;br/&gt; - перемістити цю інсталяцію %1 до іншої теки</translation>
+        <translation>У вас є два варіянта: &lt;br/&gt; - змінити теку збірки в налаштуваннях &lt;br/&gt; - перемістити цю інсталяцію %1 до иншої теки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
