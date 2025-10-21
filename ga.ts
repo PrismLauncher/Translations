@@ -732,7 +732,7 @@ Más duine nua thú anseo, is féidir leat an cnaipe &quot;Cuir Microsoft leis&q
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[MARFACH] Earráid mharfach scanrúil!</translation>
     </message>
 </context>
 <context>
@@ -745,7 +745,7 @@ Más duine nua thú anseo, is féidir leat an cnaipe &quot;Cuir Microsoft leis&q
     <message>
         <location filename="src/launcher/Application.cpp" line="906"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Socruithe</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1052"/>
@@ -766,7 +766,7 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1069"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonrú Ar Siúl</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1093"/>
@@ -781,7 +781,7 @@ for details on the last update attempt.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1101"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip Ar Nuashonrú</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1125"/>
@@ -802,7 +802,7 @@ for details.</oldsource>
     <message>
         <location filename="src/launcher/Application.cpp" line="1133"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonrú Rathúil</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1165"/>
@@ -816,7 +816,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/Application.cpp" line="1171"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Cumraíocht chórais neamh-chomhoiriúnach</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1542"/>
@@ -831,7 +831,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/Application.cpp" line="1955"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Is cosúil gur úsáid tú %1 roimhe seo. Ar mhaith leat do chuid sonraí a aistriú go dtí an suíomh nua %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1961"/>
@@ -849,7 +849,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation type="unfinished"></translation>
+        <translation>Innéacs sócmhainní á nuashonrú…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
@@ -880,7 +880,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag fáil na gcomhad sócmhainní ó Mojang...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -901,19 +901,19 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sórtáil de réir Éileamh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sórtáil de réir Ainm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sórtáil de réir Leagan Cluiche</translation>
     </message>
 </context>
 <context>
@@ -921,42 +921,42 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh Móid le Suiteáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Suiteáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh Molta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Úsáid Comhroinnt Cód</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Glan Uile</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh cód comhroinnte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Comhroinn cód:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="354"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Níor sonraíodh aon chód comhroinnte!</translation>
     </message>
 </context>
 <context>
@@ -964,12 +964,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="244"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>An bhfuil tú cinnte gur mian leat an mod seo a chumasú?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Rabhadh</translation>
     </message>
 </context>
 <context>
@@ -977,18 +977,18 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rabhadh: Tá an obair seo fós ar siúl. Má bhíonn fadhbanna agat leis an modpack allmhairithe, d&apos;fhéadfadh gur fabht atá ann.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan roghnaithe:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Cuardach agus scagadh...</translation>
     </message>
 </context>
 <context>
@@ -1001,12 +1001,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl aon leaganacha ar fáil faoi láthair</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir na liostaí leaganacha a luchtú ná a íoslódáil!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
