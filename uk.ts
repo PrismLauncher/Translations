@@ -49,7 +49,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>&amp;API Keys</source>
-        <translation>&amp;API Ключі</translation>
+        <translation>&amp;Ключі Ядер (API)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="205"/>
@@ -79,25 +79,25 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>API Ключі</translation>
+        <translation>Ключі Ядер (API)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Примітка: скоріш за все, вам не потрібно змінювати це, якщо вхід до облікового запису Microsoft вже працює.</translation>
+        <translation>Примітка: скорше за все, вам не потрібно змінювати це, якщо вхід до облікового запису Microsoft вже працює.</translation>
     </message>
     <message>
         <source>(Default)</source>
-        <translation>(Стандартний)</translation>
+        <translation>(Усталено)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Введіть тут власний ідентифікатор клієнта для автентифікації Microsoft.</translation>
+        <translation>Уведіть тут власний ідентифікатор клієнта для автентифікації Microsoft.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>&amp;API Модринт (Modrinth)</translation>
+        <translation>&amp;Ядро (API) Модринт (Modrinth)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Введіть власний API токен для Модринту (Modrinth).</translation>
+        <translation>Введіть власний токен ядра (API) для Модринту (Modrinth).</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>Ідентифікатор клієнта Technic</translation>
+        <translation>Ідентифікатор Клієнта Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -123,7 +123,7 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Введіть тут власний ідентифікатор клієнта GUID для Technic.</translation>
+        <translation>Введіть тут власний Ідентифікатор клієнта GUID для Technic.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -137,7 +137,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Введіть спеціяльний Користувацький Аґент тут. Рядкова змінна $LAUNCHER_VER буде замінена версією запускача.</translation>
+        <translation>Введіть спеціяльний Користувацький Аґент тут. Рядкова змінна $ЗАПУСКАЧ_ВЕР ($LAUNCHER_VER) буде замінена версією запускача.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -156,16 +156,16 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Введіть своє покликання (URL) метаданих тут.</translation>
+        <translation>Введіть своє покликання метаданих тут.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примітка: вам потрібно налаштувати це лише для доступу до приватних даних. Прочитайте &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;документацію&lt;/a&gt; для отримання додаткової інформації.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примітка: вам потрібно налаштувати це лише для доступу до приватних даних. Прочитайте &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;документацію&lt;/a&gt; для отримання додаткових відомостей.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge Ядро API</translation>
+        <translation>&amp;Ядро (API) КерсФордж (CurseForge)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -175,11 +175,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Введіть власний API ключ КерсФордж (CurseForge) тут.</translation>
+        <translation>Введіть власний ключ Ядра (API) КерсФордж (CurseForge) тут.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation>API</translation>
+        <translation>Ядра (API)</translation>
     </message>
 </context>
 <context>
@@ -727,7 +727,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Будь ласка, введіть бажане ім’я користувача, щоб додати офляйновий обліковий запис.</translation>
+        <translation>Будь ласка, введіть бажане ім’я користувача, щоби додати офляйновий обліковий запис.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -960,7 +960,7 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 %7
 щоби побачити подробиці послідньої спроби оновлення.
 
-Щоб підпорядкувати це бльокування та продовжити, натисніть &quot;Іґнорувати&quot; нижче.</translation>
+Щоби підпорядкувати це бльокування та продовжити, натисніть &quot;Іґнорувати&quot; нижче.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1069"/>
@@ -1491,7 +1491,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Виконується автоматична перевірка загальної теки з модами та усталеної теки завантажень, на наявність завантажених модів. Якщо їх знайдемо, то вони будуть скопійовані до збірки.&lt;/p&gt;&lt;p&gt;Також можна перетягнути завантажені моди в це діяльоґове вікно або вказати иншу теку для перевірки.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Натисніть кнопку «Відкрити Відсутні», щоб відкрити всі покликання для завантаження в бравзерові. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Виконується автоматична перевірка загальної теки з модами та усталеної теки завантажень, на наявність завантажених модів. Якщо їх знайдемо, то вони будуть скопійовані до збірки.&lt;/p&gt;&lt;p&gt;Також можна перетягнути завантажені моди в це діяльоґове вікно або вказати иншу теку для перевірки.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Натисніть кнопку «Відкрити Відсутні», щоб одкрити всі покликання для завантаження в бравзерові. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -1745,7 +1745,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation type="unfinished">Використовувати символічні або тісні посилання замість копіювання файлів.</translation>
+        <translation>Використовувати символьні чи жорсткі посилання замість копіювання файлів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
@@ -1760,12 +1760,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation type="unfinished">Пов&apos;язати кожен ресурс окремо, замість того, щоб пов&apos;язувати всі папки одразу</translation>
+        <translation>Пов&apos;язати кожен ресурс окремо, замість того, щоби пов&apos;язувати всі теки одразу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
         <source>Link files recursively</source>
-        <translation type="unfinished">Пов&apos;язати файли рекурсивно</translation>
+        <translation>Пов&apos;язати файли рекурсивно</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
@@ -1851,12 +1851,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
         <source>Reflinks are supported on %1</source>
-        <translation type="unfinished">Рефлінки підтримуються на %1</translation>
+        <translation>Рефланки підтримуються на %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="98"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation type="unfinished">Рефлінки не підтримуються на %1</translation>
+        <translation>Рефланки не підтримуються на %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
@@ -2460,13 +2460,13 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="332"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>Перевірка відповіди API від Модринт (Modrinth) для &apos;%1&apos;...</translation>
+        <translation>Перевірка відповіди Ядра (API) від Модринту (Modrinth) для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="393"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="461"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Розбір відповіди API від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
+        <translation>Розбір відповіди Ядра (API) від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -2880,7 +2880,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="212"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation>Це залежить від метаданих модів. Щоб переконатися що він доступний, запустіть оновлення збірки. Встановлювати оновлення не обов&apos;язково.</translation>
+        <translation>Це залежить від метаданих модів. Щоби переконатися що він доступний, запустіть оновлення збірки. Встановлювати оновлення не обов&apos;язково.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="226"/>
@@ -3228,7 +3228,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation>Зовнішній редактор (залиште пустим, щоб використовувати системний редактор)</translation>
+        <translation>Зовнішній редактор (залиште пустим, щоби використовувати системний редактор)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
@@ -3482,12 +3482,12 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"/>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="147"/>
         <source>Invalid data returned from the API.</source>
-        <translation>З API повернулись невірні данні.</translation>
+        <translation>З Ядра (API) повернулись невірні данні.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="256"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Розбір відповіди API від КерсФордж (CurseForge) для ‘%1’…</translation>
+        <translation>Розбір відповіди Ядра (API) від КерсФордж (CurseForge) для ‘%1’…</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -3509,12 +3509,12 @@ Please try again.</source>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>Отримуємо відповідь API від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
+        <translation>Отримуємо відповідь Ядра (API) від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="92"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Розбір API відповіди від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
+        <translation>Розбір відповіди Ядра (API) від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="98"/>
@@ -3529,7 +3529,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="178"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Розбір відповіди API від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
+        <translation>Розбір відповіди Ядра (API) від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
@@ -3720,7 +3720,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="407"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Хей!&lt;/h1&gt;&lt;h4&gt;Схоже, що твій ID Пакунку пустий. Це сталося через помилку в старших версіях запускача.&lt;br/&gt;Нажаль, ми не можемо зробити правильні запити до API без цієї інформації.&lt;br/&gt;&lt;br/&gt;Тож, щоби ця функція працювала правильно, треба перезавантажити збірку з убудованого завантажувача.&lt;br/&gt;&lt;br/&gt;Але не хвилюйтеся, вас попросять оновити цю збірку, тому ви не втратите її!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Хей!&lt;/h1&gt;&lt;h4&gt;Схоже, що твій ID Пакунку пустий. Це сталося через помилку в старших версіях запускача.&lt;br/&gt;Нажаль, ми не можемо зробити правильні запити до Ядра (API) без цієї інформації.&lt;br/&gt;&lt;br/&gt;Тож, щоби ця функція працювала правильно, треба перезавантажити збірку з убудованого завантажувача.&lt;br/&gt;&lt;br/&gt;Але не хвилюйтеся, вас попросять оновити цю збірку, тому ви не втратите її!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="447"/>
@@ -3808,7 +3808,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="218"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="281"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Розбір відповіди API від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
+        <translation>Розбір відповіди Ядра (API) від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="238"/>
@@ -4801,7 +4801,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Увімкніть GameMode Feral Interactive, щоб потенційно покращити ігрову продуктивність.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Увімкніть GameMode Feral Interactive, щоби потенційно покращити ігрову продуктивність.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
@@ -5928,7 +5928,7 @@ You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
         <translation>Цей обліковий запис не є власником Minecraft.
-Вам потрібно спочатку придбати гру, щоб грати в неї.
+Вам потрібно спочатку придбати гру, щоби грати в неї.
 
 Ви хочете зіграти в демо?</translation>
     </message>
@@ -6032,7 +6032,7 @@ Do you want to play the demo?</source>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>Запуск гри призупинено до тих пір, поки ви не натиснете кнопку. Це добрий час, щоб налаштувати профайлер, оскільки сервер профайлеру зараз працює.
+        <translation>Запуск гри призупинено до тих пір, поки ви не натиснете кнопку. Це добрий час, щоби налаштувати профайлер, оскільки сервер профайлеру зараз працює.
 
 %1</translation>
     </message>
@@ -6204,7 +6204,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Set to 0 to only check on launch</source>
-        <translation>Встановити значення 0, щоб перевіряти лише під час запуску</translation>
+        <translation>Встановити значення 0, щоби перевіряти лише під час запуску</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
@@ -7493,7 +7493,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="605"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation>Відкрити засіб відстеження помилок, щоб повідомити про помилку в %1.</translation>
+        <translation>Відкрити засіб відстеження помилок, щоби повідомити про помилку в %1.</translation>
     </message>
     <message>
         <source>Open %1 Matrix space</source>
@@ -7571,7 +7571,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation>Відкрити блоґ розробки, щоб прочитати більше новин про %1.</translation>
+        <translation>Відкрити блоґ розробки, щоби прочитати більше новин про %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
@@ -8504,7 +8504,7 @@ Please create a new instance before attempting to install this resource again.</
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>Деякі збірки та ярлики не вдалося відновити.
-Перевірте ваш кошик, щоб відновити їх вручну.</translation>
+Перевірте ваш кошик, щоб одновити їх уручну.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
@@ -8512,7 +8512,7 @@ Please check your trashbin to manually restore them.</source>
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
         <translation>Очищення кешу метаданих не вдалося!
-Щоб вручну очистити кеш метаданих, натисніть Теки -&gt; Переглянути кореневу теку запускача, а потім після закриття запускача видаліть теку з назвою &quot;meta&quot;
+Щоби вручну очистити кеш метаданих, натисніть Теки -&gt; Переглянути кореневу теку запускача, а потім після закриття запускача видаліть теку з назвою &quot;meta&quot;
 </translation>
     </message>
     <message>
@@ -9023,7 +9023,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; Увімкніть Feral Interactive&apos;s GameMode, щоб потенційно покращити ігрову продуктивність. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; Увімкніть Feral Interactive&apos;s GameMode, щоби потенційно покращити ігрову продуктивність. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
@@ -9578,7 +9578,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="548"/>
         <source>Select Global Data Packs Folder</source>
-        <translation>Вибрати Глобальну Папку для Пакунків Даних</translation>
+        <translation>Вибрати Загальну Теку для Пакунків Даних</translation>
     </message>
 </context>
 <context>
@@ -9708,7 +9708,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"/>
         <source>Legacy Fabric</source>
-        <translation>Застарілий Фабрик (Legacy Fabric)</translation>
+        <translation>Fabric(Застарілий)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
@@ -10382,7 +10382,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>Наразі мод &quot;%1&quot; не має метаданих. Ми повинні зґенерувати їх, щоб відстежувати необхідну інформацію щодо того як він має оновлюватись. Оберіть, будь ласка, надавач модів, котрий використовуватиметься для перевірки оновлень вашого моду.</translation>
+        <translation>Наразі мод &quot;%1&quot; не має метаданих. Ми повинні зґенерувати їх, щоби відстежувати необхідну інформацію щодо того як він має оновлюватись. Оберіть, будь ласка, надавач модів, котрий використовуватиметься для перевірки оновлень вашого моду.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
@@ -10535,7 +10535,7 @@ Please update %1!</source>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>Версія API дуже стара!
+        <translation>Версія Ядра (API) дуже стара!
 Будь ласка, поновіть %1!</translation>
     </message>
 </context>
@@ -10557,7 +10557,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="113"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation>Обробка відповіди від API Модринту (Modrinth)...</translation>
+        <translation>Обробка відповіди Ядра (API) від Модринту (Modrinth)...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="179"/>
@@ -10590,7 +10590,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation>Очікуємо на відповідь від API Модринту (Modrinth)...</translation>
+        <translation>Очікуємо на відповідь від Ядра (API) Модринту (Modrinth)...</translation>
     </message>
 </context>
 <context>
@@ -11950,7 +11950,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
 %7
 щоби побачити подробиці послідньої спроби оновлення.
 
-Щоб підпорядкувати це бльокування та продовжити, натисніть &quot;Іґнорувати&quot; нижче.</translation>
+Щоби підпорядкувати це бльокування та продовжити, натисніть &quot;Іґнорувати&quot; нижче.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="917"/>
@@ -11960,7 +11960,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="917"/>
         <source>The update attempt was aborted</source>
-        <translation>Спроба оновлення була перервана.</translation>
+        <translation>Спроба оновлення перервана</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="925"/>
@@ -12146,7 +12146,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation>Вам потрібно зробити ще один крок, щоб мати можливість грати Minecraft на цьому обліковому записі.
+        <translation>Вам потрібно зробити ще один крок, щоби мати можливість грати Minecraft на цьому обліковому записі.
 
 Виберіть собі підхоже ім&apos;я:</translation>
     </message>
@@ -13591,7 +13591,7 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="410"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation>Версія API дуже стара!
+        <translation>Версія Ядра (API) дуже стара!
 Будь ласка, оновіть %1!</translation>
     </message>
 </context>
@@ -14268,7 +14268,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="311"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>Для ресурсу &apos;%1&apos; ще немає метаданих. Нам потрібно їх створити, щоб відстежувати інформацію про те, як оновити цей мод. Для цього, будь ласка, виберіть постачальника мода, якого ми можемо використовувати для перевірки оновлень цього мода.</translation>
+        <translation>Для ресурсу &apos;%1&apos; ще немає метаданих. Нам потрібно їх створити, щоби відстежувати інформацію про те, як оновити цей мод. Для цього, будь ласка, виберіть постачальника мода, якого ми можемо використовувати для перевірки оновлень цього мода.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"/>
@@ -14370,7 +14370,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="60"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>Цей файл буде завантажено не в усталену теку, скоріше за все, через те, що завантажувач цього вимагає.</translation>
+        <translation>Цей файл буде завантажено не в усталену теку, скорше за все, через те, що завантажувач цього вимагає.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="64"/>
@@ -14992,7 +14992,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="275"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="289"/>
         <source>Skin Upload</source>
-        <translation>Завантаження Скину</translation>
+        <translation>Вивантажити Скин</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="33"/>
@@ -15382,22 +15382,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="49"/>
         <source>Modpack download</source>
-        <translation type="unfinished">Завантажити пакунки модифікацій</translation>
+        <translation>Завантажити пакунки модифікацій</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="64"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Розпакування пакунку модифікацій</translation>
+        <translation>Розпакування пакунку модифікацій</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="71"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="unfinished">Не вдалося відкрити вибраний zip-файл пакунку модифікацій.</translation>
+        <translation>Не вдалося відкрити вибраний zip-файл пакунку модифікацій.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="99"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished">Не вдалося розпакувати пакунок модифікацій</translation>
+        <translation>Не вдалося розпакувати пакунок модифікацій</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="120"/>
@@ -15432,7 +15432,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="71"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="73"/>
         <source>Resolving modpack files</source>
-        <translation type="unfinished">Розв’язання файлів пакунку модифікацій</translation>
+        <translation>Розв’язання файлів пакунку модифікацій</translation>
     </message>
     <message>
         <source>Downloading modpack:</source>
@@ -15442,7 +15442,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="86"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="109"/>
         <source>Downloading modpack</source>
-        <translation type="unfinished">Завантаження пакунку модів</translation>
+        <translation>Завантаження пакунку модифікацій</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
@@ -15454,12 +15454,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="138"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Розпакування пакунку модифікацій</translation>
+        <translation>Розпакування пакунку модифікацій</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="181"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished">Не вдалося розпакувати пакунок модифікацій</translation>
+        <translation>Не вдалося розпакувати пакунок модифікацій</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="202"/>
@@ -16112,7 +16112,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation>Перейдіть в налаштування Джави (Java) в збірці, щоб змінити версію Джави (Java) або вимкнути перевірку сумісности Джави (Java), якщо ви знаєте, що робите.</translation>
+        <translation>Перейдіть в налаштування Джави (Java) в збірці, щоби змінити версію Джави (Java) або вимкнути перевірку сумісности Джави (Java), якщо ви знаєте, що робите.</translation>
     </message>
 </context>
 <context>
@@ -16304,7 +16304,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="119"/>
         <source>Make the selected component apply sooner.</source>
-        <translation>Зробіть так, щоб вибраний компонент застосовувався раніше.</translation>
+        <translation>Зробити так, щоби вибраний компонент застосовувався раніше.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="124"/>
@@ -16314,7 +16314,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="127"/>
         <source>Make the selected component apply later.</source>
-        <translation>Зробіть так, щоб вибраний компонент був застосований пізніше.</translation>
+        <translation>Зробити так, щоби вибраний компонент був застосований пізніше.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="135"/>
@@ -17166,7 +17166,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="137"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation>Цей обліковий запис Microsoft вимагає підтвердження повноліття для гри. Будь ласка, увійдіть до %1, щоб підтвердити свій вік.</translation>
+        <translation>Цей обліковий запис Microsoft вимагає підтвердження повноліття для гри. Будь ласка, увійдіть до %1, щоби підтвердити свій вік.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="142"/>
