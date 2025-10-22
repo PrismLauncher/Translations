@@ -264,7 +264,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="994"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalujã modpacka</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1006"/>
@@ -5021,7 +5021,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="130"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalujã modpacka</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="136"/>
@@ -5060,12 +5060,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="108"/>
         <source>Add pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Przidej paket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="115"/>
         <source>Remove selected pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Wychrōń ôbrany paket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="145"/>
@@ -5190,22 +5190,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="60"/>
         <source>Keep updating</source>
-        <translation type="unfinished"></translation>
+        <translation>Dycki aktualizuj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="70"/>
         <source>Wrap lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawijej sznōrze</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="80"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Koloruj sznōrze</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Skopiyruj cołki log do skrytki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
@@ -5245,18 +5245,18 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="152"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Jedź na sōm spodek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="155"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Spodek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="247"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="69"/>
         <source>Minecraft Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Log Minecraft</translation>
     </message>
 </context>
 <context>
@@ -8334,7 +8334,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="63"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Jedź na sōm spodek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="66"/>
@@ -8364,17 +8364,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="133"/>
         <source>Wrap lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawijej sznōrze</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="143"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Koloruj sznōrze</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="166"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Skopiyruj cołki log do skrytki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="169"/>
