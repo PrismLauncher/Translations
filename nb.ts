@@ -8048,7 +8048,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Leverandørinformasjon:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
@@ -8096,7 +8096,7 @@ Den kan bare oppdateres med en fil i %1-formatet
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="151"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Nettside: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pakke-ID: %3    |    Versjons-ID: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="194"/>
@@ -8135,7 +8135,7 @@ Den kan bare oppdateres med en fil i %1-formatet
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="225"/>
         <source>Failed to search for available versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klarte ikke søke etter tilgjengelige versjoner.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="228"/>
