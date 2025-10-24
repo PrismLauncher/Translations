@@ -1501,7 +1501,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
-        <translation type="unfinished">Дані Відсутні</translation>
+        <translation>Відкрити відсутнє</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
@@ -16262,7 +16262,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
         <source>Add Empty</source>
-        <translation type="unfinished">Додати Порожнє</translation>
+        <translation>Додати порожній</translation>
     </message>
     <message>
         <source>Add an empty custom package.</source>
