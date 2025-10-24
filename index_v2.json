@@ -74,6 +74,14 @@
             "fuzzy" : 0,
             "untranslated" : 2303
         },
+        "ceb" : {
+            "file" : "3c25cfc5cf4f33cc8d16b04f71c64e3527ae6ece.class",
+            "sha1" : "3c25cfc5cf4f33cc8d16b04f71c64e3527ae6ece",
+            "size" : 24,
+            "translated" : 0,
+            "fuzzy" : 0,
+            "untranslated" : 2646
+        },
         "ckb" : {
             "file" : "b54ccc4a232ba42ae861f6723a073b1573784b39.class",
             "sha1" : "b54ccc4a232ba42ae861f6723a073b1573784b39",
