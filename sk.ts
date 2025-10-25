@@ -6173,7 +6173,7 @@ Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do 
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekurzívne skontrolujte priečinok so stiahnutými súbormi</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
@@ -6378,7 +6378,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Pokúšate sa zadať priečinok inštancie, ktorý bol dočasne povolený prostredníctvom Flatpaku.
+Je známe, že to spôsobuje problémy. Po reštarte môže spúšťač zlyhať, pretože už nebude mať prístup k tomuto adresáru.
+
+Odporúča sa udeliť %1 prístup k nemu prostredníctvom Flatsealu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="122"/>
@@ -6457,12 +6460,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="76"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Knižnicu spúšťača sa nepodarilo nájsť. Skontrolujte si inštaláciu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="88"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa nájsť staršiu knižnicu spúšťača. Skontrolujte si inštaláciu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="140"/>
@@ -6577,7 +6580,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hľadať a filtrovať...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -6932,12 +6935,12 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ak chcete hrať Minecraft, musíte mať prihlásený aspoň jeden účet Microsoft. Chcete sa teraz prihlásiť?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridajte konto Microsoft</translation>
     </message>
 </context>
 <context>
@@ -6945,27 +6948,27 @@ Dôvod:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="470"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Priečinok neexistuje</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="473"/>
         <source>Could not create file</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa vytvoriť súbor</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="481"/>
         <source>Could not create:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa vytvoriť:</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="502"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa prečítať a skomprimovať %1</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="508"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyskytla sa chyba zipsu</translation>
     </message>
 </context>
 <context>
@@ -6978,33 +6981,33 @@ Dôvod:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="558"/>
         <source>Failed to enumerate files in archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa vymenovať súbory v archíve</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="561"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozbalovanie prázdnych archívov sa zdá zvláštne...</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="565"/>
         <source>Failed to seek to first file in zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa vyhľadať prvý súbor v zip súbore</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="605"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrakcia %1 bola zrušená, pretože sa nachádzala mimo cieľovej cesty %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="611"/>
         <source>Failed to extract file %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa extrahovať súbor %1 do %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="625"/>
         <location filename="src/launcher/MMCZip.cpp" line="636"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa opraviť povolenia pre %1</translation>
     </message>
 </context>
 <context>
@@ -7012,17 +7015,17 @@ Dôvod:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="55"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation type="unfinished"></translation>
+        <translation>Prihlásenie pomocou účtu Microsoft (device code).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorizácia zariadenia zlyhala: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
         <source>Failed to retrieve device authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa načítať autorizáciu zariadenia</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
@@ -7324,7 +7327,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Priečinok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
@@ -7369,7 +7372,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation>Priečinky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="316"/>
