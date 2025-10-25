@@ -1596,7 +1596,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation>Kon de metadata voor %1 %2 niet downloaded. Verander alstublieft de versie of probeer het later opnieuw.</translation>
+        <translation>Metadata voor %1 %2 kon niet worden gedownload. Wijzig de versie of probeer later opnieuw.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
@@ -14060,12 +14060,12 @@ Weet je het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="52"/>
         <source>You&apos;re about to update the following resources:</source>
-        <translation type="unfinished"></translation>
+        <translation>Je staat op het punt de volgende bronnen bij te werken:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="53"/>
         <source>Only resources with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Alleen bronnen met een vinkje worden bijgewerkt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="71"/>
@@ -14080,7 +14080,7 @@ Weet je het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="75"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er konden geen metagegevens worden gegenereerd voor de volgende bronnen:&lt;br&gt;Wil je doorgaan zonder deze bronnen?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="88"/>
@@ -14138,7 +14138,7 @@ Weet je het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="177"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>De volgende bronnen konden niet worden gecontroleerd op updates of worden opgehaald:&lt;br&gt;Wil je doorgaan zonder deze bronnen?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="210"/>
@@ -14158,7 +14158,7 @@ Weet je het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="311"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>De bron &apos;%1&apos; heeft nog geen metadata. We moeten deze genereren om relevante informatie over het updaten van deze mod bij te houden. Selecteer hiervoor een modprovider die we kunnen gebruiken om te controleren op updates voor deze mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"/>
