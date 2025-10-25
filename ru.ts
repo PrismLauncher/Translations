@@ -148,7 +148,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>User Agent</source>
-        <translation>Пользовательский агент</translation>
+        <translation>Пользовательский агент (User Agent)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
@@ -181,7 +181,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge Core API</translation>
+        <translation>Базовый API &amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -8948,7 +8948,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
         <source>Update Pack</source>
-        <translation>Обновить сборку</translation>
+        <translation>Обновить Сборку</translation>
     </message>
     <message>
         <source>Update pack</source>
