@@ -145,7 +145,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Voer een aangepaste gebruikers-ID hier in. De speciale tekst $LAUNCHER_VER zal vervangen worden met de versie van de launcher.</translation>
+        <translation>Voer hier een aangepaste useragent in. De speciale tekst $LAUNCHER_VER wordt vervangen door de versie van de launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -212,17 +212,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="143"/>
         <source>Unsupported installation mode</source>
-        <translation>Niet ondersteund installatiemodus</translation>
+        <translation>Niet-ondersteunde installatiemodus</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="184"/>
         <source>Deleting existing files...</source>
-        <translation>Bezig met aanwezige bestanden verwijderen...</translation>
+        <translation>Bestaande bestanden verwijderen...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="331"/>
         <source>Unknown mod type: %1</source>
-        <translation>Onbekend mod type: %1</translation>
+        <translation>Onbekend modtype: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="374"/>
@@ -1051,7 +1051,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/Application.cpp" line="1951"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>Er zijn oude gegevens van %1 gevonden, maar u hebt al bestaande gegevens voor %2. U zult helaas zelf moeten migreren. Wilt u de volgende keer dat u %2 start, herinnerd worden aan de hangende gegevensmigratie?</translation>
+        <translation>Er zijn oude gegevens van %1 gevonden, maar u hebt al bestaande gegevens voor %2. Helaas moet u zelf migreren. Wilt u de volgende keer dat u %2 start, herinnerd worden aan de openstaande gegevensmigratie?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1955"/>
@@ -2039,7 +2039,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;De pre-launch opdracht wordt uitgevoerd voordat de instantie wordt gestart en de post-exit opdracht wordt uitgevoerd nadat ze afgesloten wordt.&lt;/p&gt;&lt;p&gt;Beide worden uitgevoerd in de werkmap van de launcher met extra omgevingsvariabelen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Naam van de instantie&lt;/li&gt;&lt;li&gt;$INST_ID - ID van de instantie (de mapnaam&lt;/li&gt;&lt;li&gt;$INST_DIR - het absolute pad van de instantie&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - het absolute pad van Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary die gebruikt wordt bij het starten&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - opdrachtregelparameters die worden gebruikt voor het starten (waarschuwing: werkt niet correct als argumenten spaties bevatten)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Met de wrapper-opdracht kan worden gestart met gehulp van een extra wrapperprogramma (zoals &apos;optirun&apos; op Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;De pre-launch opdracht wordt uitgevoerd voordat de instantie wordt gestart en de post-exit opdracht wordt uitgevoerd nadat ze afgesloten wordt.&lt;/p&gt;&lt;p&gt;Beide worden uitgevoerd in de werkmap van de launcher met extra omgevingsvariabelen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Naam van de instantie&lt;/li&gt;&lt;li&gt;$INST_ID - ID van de instantie (de mapnaam)&lt;/li&gt;&lt;li&gt;$INST_DIR - Het absolute pad van de instantie&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Het absolute pad van Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary die gebruikt wordt bij het starten&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Opdrachtregelparameters die worden gebruikt voor het starten (waarschuwing: werkt niet correct als argumenten spaties bevatten)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Met de wrapper-opdracht kan worden gestart met behulp van een extra wrapperprogramma (zoals &apos;optirun&apos; op Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2181,7 +2181,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
         <source>Enable</source>
-        <translation>Zet aan</translation>
+        <translation>Inschakelen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
@@ -2229,7 +2229,7 @@ Canoniek Pad: %1</translation>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook het origineel veranderen.</translation>
+Waarschuwing: deze bron is ergens anders hard gekoppeld. Als u deze bewerkt, wordt ook het origineel gewijzigd.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
@@ -2252,7 +2252,7 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook het 
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation>Installeer Packs</translation>
+        <translation>Pakketten downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
@@ -2355,7 +2355,7 @@ Weet je zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
         <source>Update checker</source>
-        <translation type="unfinished">Update verifieerder</translation>
+        <translation>Update-controle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
@@ -2806,12 +2806,12 @@ Weet u dat zeker?</translation>
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation>Deze tekst ondersteund de volgende :
-{name}     -modnaam
-{mod_id}   - mod-ID
-{url}      - mod-URL
-{version}  - modversie
-{authors}  - modauteurs</translation>
+        <translation>Deze tekst ondersteunt de volgende placeholders:
+{name}     - Mod-naame
+{mod_id}   - Mod-ID
+{url}      - Mod URL
+{version}  - Mod versie
+{authors}  - Mod auteurs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -5455,7 +5455,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="156"/>
         <source>Skip Java setup prompt on startup</source>
-        <translation>Sla Java setup prompt over bij opstarten</translation>
+        <translation>Java-installatieprompt bij opstarten overslaan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
@@ -5676,8 +5676,8 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Je hebt geen Java-versie geselecteerd, of een versie die niet werkt.
-%1 zal niet in staat zijn om Minecraft te starten.
+        <translation>Je hebt geen Java-versie geselecteerd of je selecteerde een versie die niet werkt.
+%1 zal Minecraft niet kunnen starten.
 Wil je doorgaan zonder een functionele Java-versie?
 
 Je kan de Java-versie later in de instellingen wijzigen.
@@ -7483,12 +7483,12 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>Instance Icons</source>
-        <translation>Instantie Iconen</translation>
+        <translation>Instantie-pictogrammen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="578"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation>Open de instantie iconen map in een bestanden browser.</translation>
+        <translation>De map met instantie-pictogrammen openen in een bestandsverkenner.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
@@ -7535,12 +7535,12 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
         <source>I&amp;con Theme</source>
-        <translation>&amp;Icoon Thema</translation>
+        <translation>P&amp;ictogramthema</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="749"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation>Open de icoon thema map in een bestanden browser.</translation>
+        <translation>De pictogramthema-map openen in een bestandsverkenner.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
@@ -7727,7 +7727,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
         <source>F&amp;olders</source>
-        <translation>Mappen (&amp;O)</translation>
+        <translation>&amp;Mappen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="316"/>
@@ -7953,7 +7953,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
         <source>&amp;Change Group...</source>
-        <translation>&amp;Verander Groep...</translation>
+        <translation>Groep veranderen...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="380"/>
@@ -8128,7 +8128,7 @@ Reden:
         <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation>&amp;Verwijder groep</translation>
+        <translation>Groep &amp;verwijderen</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
@@ -8367,7 +8367,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
         <source>&amp;Rename group</source>
-        <translation>&amp;Hernoem groep</translation>
+        <translation>&amp;Naam van groep wijzigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1050"/>
@@ -8384,17 +8384,17 @@ Maak a.u.b. een nieuwe instantie aan voor deze bron opnieuw proberen te installe
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation>Weet u zeker dat u de groep &apos;%1&apos; wil verwijderen?</translation>
+        <translation>Weet je zeker dat je de groep &apos;%1&apos; wilt verwijderen?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1187"/>
         <source>Rename group</source>
-        <translation>Hernoem groep</translation>
+        <translation>Naam van groep wijzigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
         <source>Cannot rename group</source>
-        <translation>Kan groep niet hernoemen</translation>
+        <translation>Kan naam van groep niet wijzigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
@@ -8451,10 +8451,10 @@ Om de metadata handmatig op te ruimen, druk op Mappen -&gt; Bekijk Launcher Root
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation>Je staat op het punt om &quot;%1&quot;%2 te verwijderen.
-Dit kan permanent zijn en gaat de instantie volledig verwijderen.
+        <translation>Je staat op het punt om “%1”%2 te verwijderen.
+Dit kan permanent zijn en zal de instantie volledig verwijderen.
 
-Weet u zeker?</translation>
+Weet je het zeker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
@@ -8471,7 +8471,7 @@ Weet u zeker?</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation>Het maken van een icoon voor de snelkoppeling is mislukt.</translation>
+        <translation>Het maken van een pictogram voor de snelkoppeling is mislukt.</translation>
     </message>
     <message>
         <source>Desktop Entries (*.desktop)</source>
@@ -8563,7 +8563,7 @@ Weet u zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack Name:</source>
-        <translation>Pack-naam:</translation>
+        <translation>Packnaam:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
@@ -8651,7 +8651,7 @@ Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
         <source>Update Pack</source>
-        <translation>Pack bijwerken</translation>
+        <translation>Pakket bijwerken</translation>
     </message>
     <message>
         <source>Update pack</source>
@@ -9103,7 +9103,7 @@ Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="73"/>
         <source>Game &amp;Window</source>
-        <translation>Spel &amp;Venster</translation>
+        <translation>Spel&amp;venster</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
@@ -9136,27 +9136,27 @@ Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"/>
         <source>Game &amp;Time</source>
-        <translation>Spel &amp;Tijd</translation>
+        <translation>Speel&amp;tijd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished">Toon bestede tijd aan spelen van &amp;instanties</translation>
+        <translation>Tijd besteed aan het spelen van instanties weergeven</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="344"/>
         <source>&amp;Record time spent playing instances</source>
-        <translation>&amp;Registreer tijd besteed aan het spelen van instances</translation>
+        <translation>Recordtijd besteed aan het spelen van instanties</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
         <source>Show the &amp;total time played across instances</source>
-        <translation>Toon de &amp;totaal gespeelde tijd over alle instanties</translation>
+        <translation>&amp;Totale speeltijd van alle instanties weergeven</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="358"/>
         <source>Always show durations in &amp;hours</source>
-        <translation>Toon duraties altijd in uren</translation>
+        <translation>Tijdsduur altijd in uren weergeven</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
@@ -9451,7 +9451,7 @@ Je gaat hoogst waarschijnlijk het pad moeten veranderen - kijk hiervoor naar de 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="548"/>
         <source>Select Global Data Packs Folder</source>
-        <translation>Selecteer globale datapackmap</translation>
+        <translation>Globale map selecteren voor gegevenspakketten</translation>
     </message>
 </context>
 <context>
@@ -11153,7 +11153,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
         <source>&amp;Delete Selected</source>
-        <translation>&amp;Verwijder geselecteerde</translation>
+        <translation>&amp;Geselecteerde verwijderen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="111"/>
@@ -12357,7 +12357,7 @@ Doorgaan met Inkorting?</translation>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
         <source>Failed to upload logs!</source>
-        <translation>Logs uploaden is mislukt!</translation>
+        <translation>Logbestanden uploaden is mislukt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
@@ -13126,7 +13126,7 @@ Wenst u door te gaan?</numerusform>
     <message>
         <location filename="src/launcher/GZip.cpp" line="201"/>
         <source>error handling file</source>
-        <translation>Er is een fout opgelopen bij het handelen van het bestand</translation>
+        <translation>fout bij verwerken van bestand</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="203"/>
@@ -13191,7 +13191,7 @@ Wenst u door te gaan?</numerusform>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished">Het maken van een icoon voor de snelkoppeling is mislukt.</translation>
+        <translation>Het maken van een pictogram voor de snelkoppeling is mislukt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
@@ -13986,7 +13986,9 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Het bijwerken van bronpakketten terwijl het spel actief is, kan leiden tot duplicatie van pakketten en het vastlopen van het spel.
+De oude bestanden worden mogelijk niet verwijderd omdat ze in gebruik zijn.
+Weet je zeker dat je dit wilt doen?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="165"/>
@@ -14022,7 +14024,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="219"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Je staat op het punt om de metadata voor %1 bronpakketten te verwijderen.
+Weet je het zeker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
@@ -14052,7 +14055,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="41"/>
         <source>Confirm resources to update</source>
-        <translation type="unfinished"></translation>
+        <translation>Bronnen om bij te werken bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="52"/>
@@ -15492,7 +15495,7 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The source provider of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>De bronprovider van de texture pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
@@ -15604,7 +15607,9 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Het bijwerken van texture packs terwijl het spel actief is, kan leiden tot duplicatie van pakketten en het vastlopen van het spel.
+De oude bestanden worden mogelijk niet verwijderd omdat ze in gebruik zijn.
+Weet je zeker dat je dit wilt doen?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
@@ -15656,7 +15661,7 @@ Bent u zeker?</translation>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation>Map met icoonthema&apos;s weergeven.</translation>
+        <translation>Map met pictogramthema&apos;s weergeven.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
@@ -15713,7 +15718,7 @@ Bent u zeker?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation>Selecteer thema en icoontjes om te gebruiken</translation>
+        <translation>Selecteer thema en pictogrammen om te gebruiken</translation>
     </message>
 </context>
 <context>
@@ -16524,7 +16529,7 @@ Voeg uw Mojang of Minecraft-account toe.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
         <source>Major Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Belangrijke versie</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
@@ -16571,7 +16576,7 @@ Voeg uw Mojang of Minecraft-account toe.</translation>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>De belangrijke java-versie</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
