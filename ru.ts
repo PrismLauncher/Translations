@@ -9117,7 +9117,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1052"/>
         <source>, last played on %1 for %2</source>
-        <translation type="unfinished">, в последний раз играли %1 в течение %2</translation>
+        <translation>, в последний раз играли %1 в течение %2</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
