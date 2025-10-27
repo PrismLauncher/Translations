@@ -9422,7 +9422,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="54"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Τροποποιήσεις</translation>
     </message>
     <message>
         <source>Download mods</source>
@@ -11663,7 +11663,7 @@ Roll back to previous version?</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="81"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Η</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="86"/>
