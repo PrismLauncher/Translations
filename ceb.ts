@@ -602,7 +602,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="90"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanang Hubad</translation>
     </message>
 </context>
 <context>
@@ -980,7 +980,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Piniling hubad:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
@@ -2243,7 +2243,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
         <source>&amp;Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hubad (&amp;V)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"/>
@@ -2262,7 +2262,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Hubad (&amp;V)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2421,7 +2421,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="105"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="133"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Hubad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="112"/>
@@ -2597,7 +2597,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilisdi ang Hubad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="204"/>
@@ -3108,7 +3108,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="119"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (hubad nga %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
@@ -3271,7 +3271,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="94"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Piniling hubad:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
@@ -4086,7 +4086,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Pagpili og bersiyon sa Java</translation>
+        <translation>Pagpili og hubad sa Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
@@ -4405,11 +4405,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation>Awtomatikong mopili sa bersiyon sa Java nga mobagay sa kasamtang nga pananglitan sa Minecraft, gibase sa kinahanglan nga dakong bersiyon.</translation>
+        <translation>Awtomatikong mopili sa hubad sa Java nga mobagay sa kasamtang nga pananglitan sa Minecraft, gibase sa kinahanglan nga dakong hubad.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Kanunayng pagpamati og bersiyon sa Java</translation>
+        <translation>Kanunayng pagpamati og hubad sa Java</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
@@ -4430,7 +4430,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation>Pagkarganug og Mga Bersiyon sa Java</translation>
+        <translation>Pagkarganug og Mga Hubad sa Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -4497,7 +4497,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Pagpili og bersiyon sa Java</translation>
+        <translation>Pagpili og hubad sa Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
@@ -4546,7 +4546,7 @@ Are you sure?</source>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation>Walay piniling bersiyon sa Java</translation>
+        <translation>Walay piniling hubad sa Java</translation>
     </message>
     <message>
         <source>Download Java</source>
@@ -4567,7 +4567,7 @@ You can change the Java version in the settings later.
 Dili masugdan sa %1 ang Minecraft.
 Gusto nimo ipadayon?
 
-Mahimo nimong mausab ang bersiyon sa Java sa mga himutangan sa pagkaunya.
+Mahimo nimong mausab ang hubad sa Java sa mga himutangan sa pagkaunya.
 </translation>
     </message>
     <message>
@@ -4577,11 +4577,11 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Wala ka mopili og bersiyon sa Java o nipili sa wala mogana.
+        <translation>Wala ka mopili og hubad sa Java o nipili sa wala mogana.
 Dili masugdan sa %1 ang Minecraft.
-Gusto nimo ipadayon nga walay moganang bersiyon sa Java?
+Gusto nimo ipadayon nga walay moganang hubad sa Java?
 
-Mahimo nimong mausab ang bersiyon sa Java sa mga himutangan sa pagkaunya.
+Mahimo nimong mausab ang hubad sa Java sa mga himutangan sa pagkaunya.
 </translation>
     </message>
     <message>
@@ -4615,7 +4615,7 @@ Mahimo nimong mausab ang bersiyon sa Java sa mga himutangan sa pagkaunya.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
         <source>Auto-&amp;detect Java version</source>
-        <translation>Kanunayng pagpamati og bersiyon sa Java (&amp;D)</translation>
+        <translation>Kanunayng pagpamati og hubad sa Java (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="120"/>
@@ -4741,7 +4741,7 @@ Mahimo nimong mausab ang bersiyon sa Java sa mga himutangan sa pagkaunya.
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Kanunayng pagpamati og bersiyon sa Java</translation>
+        <translation>Kanunayng pagpamati og hubad sa Java</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
@@ -4750,7 +4750,7 @@ Mahimo nimong mausab ang bersiyon sa Java sa mga himutangan sa pagkaunya.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
         <source>Select a Java version</source>
-        <translation>Pagpili og bersiyon sa Java</translation>
+        <translation>Pagpili og hubad sa Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
@@ -4830,13 +4830,13 @@ You can change the Java version in the settings later.
 Dili masugdan sa %1 ang Minecraft.
 Gusto nimo ipadayon?
 
-Mahimo nimong mausab ang bersiyon sa Java sa mga himutangan sa pagkaunya.
+Mahimo nimong mausab ang hubad sa Java sa mga himutangan sa pagkaunya.
 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
         <source>No Java version selected</source>
-        <translation>Walay piniling bersiyon sa Java</translation>
+        <translation>Walay piniling hubad sa Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
@@ -4846,11 +4846,11 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Wala ka mopili og bersiyon sa Java o nipili sa wala mogana.
+        <translation>Wala ka mopili og hubad sa Java o nipili sa wala mogana.
 Dili masugdan sa %1 ang Minecraft.
-Gusto nimo ipadayon nga walay moganang bersiyon sa Java?
+Gusto nimo ipadayon nga walay moganang hubad sa Java?
 
-Mahimo nimong mausab ang bersiyon sa Java sa mga himutangan sa pagkaunya.
+Mahimo nimong mausab ang hubad sa Java sa mga himutangan sa pagkaunya.
 </translation>
     </message>
     <message>
@@ -4901,7 +4901,7 @@ Mahimo nimong mausab ang bersiyon sa Java sa mga himutangan sa pagkaunya.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
         <source>Auto-detect Java version</source>
-        <translation>Kanunayng pagpamati og bersiyon sa Java</translation>
+        <translation>Kanunayng pagpamati og hubad sa Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
@@ -5835,7 +5835,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="145"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Piniling hubad:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="208"/>
@@ -6725,7 +6725,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="399"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation>Usba ang mga gusto sa pananglitan, mga kausaban ug mga bersiyon.</translation>
+        <translation>Usba ang mga gusto sa pananglitan, mga kausaban ug mga hubad.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="424"/>
@@ -7165,7 +7165,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasamtangang hubad:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
@@ -7175,7 +7175,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagpasibo sa hubad nga:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
@@ -8017,12 +8017,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="200"/>
         <source>Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Hubad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="212"/>
         <source>Show all versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagpakita sa tanang hubad:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
@@ -8077,7 +8077,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="128"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanang Hubad</translation>
     </message>
 </context>
 <context>
@@ -8113,7 +8113,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Hubad</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
@@ -8158,7 +8158,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Minecraft Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Minecraft nga Hubad</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="177"/>
@@ -8173,7 +8173,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="181"/>
         <source>The version of the mod.</source>
-        <translation>Ang bersiyon sa kausaban.</translation>
+        <translation>Ang hubad sa kausaban.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="183"/>
@@ -8354,7 +8354,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="100"/>
         <source>Change a mod&apos;s version.</source>
-        <translation>Ilisdan ang bersiyon sa kausaban.</translation>
+        <translation>Ilisdan ang hubad sa kausaban.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="104"/>
@@ -8411,11 +8411,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilisdi ang Hubad</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation>Ilisdan ang bersiyan sa kausaban</translation>
+        <translation>Ilisdan ang hubad sa kausaban</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
@@ -8545,7 +8545,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga daang hubad:</translation>
     </message>
     <message>
         <source>Not installed</source>
@@ -8553,7 +8553,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga bag-ong hubad:</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
@@ -8644,7 +8644,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="67"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (hubad nga %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="151"/>
@@ -8851,7 +8851,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Piniling hubad:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="65"/>
@@ -9337,7 +9337,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="580"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Hubad</translation>
     </message>
 </context>
 <context>
@@ -9567,12 +9567,12 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="108"/>
         <source>installed launcher version</source>
-        <translation>pagtaud nga bersiyon sa tiglansad</translation>
+        <translation>pagtaud nga hubad sa tiglansad</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="109"/>
         <source>version name</source>
-        <translation type="unfinished"></translation>
+        <translation>ngalan sa hubad</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="110"/>
@@ -9749,7 +9749,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="776"/>
         <source>No version selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Walay piniling hubad.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="776"/>
@@ -11116,7 +11116,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilisdi ang hubad nga %1</translation>
     </message>
 </context>
 <context>
@@ -11190,7 +11190,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilisdi ang hubad nga %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
@@ -11349,12 +11349,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="336"/>
         <source>Loading versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagkarga og mga hubad...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"/>
         <source>No versions available</source>
-        <translation type="unfinished"></translation>
+        <translation>Walay mga hubad nga magamit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="433"/>
@@ -11664,7 +11664,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
         <source>Change a mod&apos;s version.</source>
-        <translation>Ilisdi ang bersiyon sa kausaban.</translation>
+        <translation>Ilisdi ang hubad sa kausaban.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
@@ -11772,7 +11772,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="69"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Piniling hubad:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
@@ -11914,12 +11914,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="443"/>
         <source>Old version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Daang hubad nga: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="446"/>
         <source>New version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bag-ong hubad nga: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="450"/>
@@ -11998,7 +11998,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="88"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Matang sa Hubad: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="113"/>
@@ -12171,7 +12171,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Hubad</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
@@ -12199,7 +12199,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Hubad</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
@@ -12969,7 +12969,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="66"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Piniling hubad:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"/>
@@ -13316,7 +13316,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
         <source>Skip This Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Lab-aki Ning Hubad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="129"/>
@@ -13365,12 +13365,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="84"/>
         <source>Java version %1</source>
-        <translation>Java bersiyong %1</translation>
+        <translation>%1 nga hubad sa Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation>Pag-adto sa mga himutangan sa Java sa pananglitan aron malisdan ang bersiyon sa Java nimo o mahunong ang pagsulay sa pagkabagay sa Java kung nahibalo ka sa imong gibuhat.</translation>
+        <translation>Pag-adto sa mga himutangan sa Java sa pananglitan aron malisdan ang hubad sa Java nimo o mahunong ang pagsulay sa pagkabagay sa Java kung nahibalo ka sa imong gibuhat.</translation>
     </message>
 </context>
 <context>
@@ -13450,7 +13450,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="108"/>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilisdi ang Hubad:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="48"/>
@@ -13674,7 +13674,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="394"/>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilisdi ang %1 nga hubad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="396"/>
@@ -13716,7 +13716,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="60"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Hubad</translation>
     </message>
 </context>
 <context>
@@ -13724,7 +13724,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="110"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Hubad</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="112"/>
@@ -13759,7 +13759,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
         <source>Major Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Dakong Hubad</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
@@ -13774,7 +13774,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
         <source>Minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft nga hubad</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="135"/>
@@ -13784,7 +13784,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
         <source>The version&apos;s type</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang matang sa hubad</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
@@ -13806,7 +13806,7 @@ Are you sure?</source>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation>Ang dakong bersiyon sa Java</translation>
+        <translation>Ang dakong hubad sa Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
@@ -13844,7 +13844,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
         <source>Choose Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagpili og Hubad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="99"/>
