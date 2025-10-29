@@ -3169,7 +3169,7 @@ Palihug sa pagsulay pag-usab.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation>Ang gisugyot nga memory sa putos sa kausaban nilapas sa 90% sa RAM sa imong sistem—gipagamyan gikan sa %1</translation>
+        <translation>Ang gisugyot nga memory sa putos sa kausaban nilapas sa 90% sa RAM sa imong sistem—gipagamyan gikan sa %1 haplukot nahimong %2 haplukot!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="469"/>
