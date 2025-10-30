@@ -25,7 +25,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>APIPage</translation>
+        <translation>&amp;Тип сервиса отправки логов</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -55,12 +55,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation>Cервер ресурсовAssets Server</translation>
+        <translation>Cервер ресурсов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вы можете указать другой сервер, если у вас возникнут проблемы с загрузкой ресурсов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -1158,7 +1158,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation>Получение файлов активов из %1...</translation>
+        <translation>Получение файлов ресурсов от %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
