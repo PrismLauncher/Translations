@@ -515,7 +515,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>&amp;Walay Sinugdanan</translation>
+        <translation>&amp;Walai ang Sinugdanan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
@@ -1606,7 +1606,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="14"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation>Dili mabuhat ang limbasan sa punoang dula</translation>
+        <translation>Dili mahimo ang limbasan sa punoang dula</translation>
     </message>
 </context>
 <context>
@@ -6429,7 +6429,7 @@ Panabot:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More News...</source>
-        <translation>Dugang Balita...</translation>
+        <translation>Dugang nga Balita...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
@@ -7136,7 +7136,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>More news...</source>
-        <translation>Dugang balita...</translation>
+        <translation>Dugang nga balita...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
