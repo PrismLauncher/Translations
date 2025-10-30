@@ -1679,7 +1679,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ako je &quot;Kopiraj spremljeno&quot; selektirano save svijeta će biti kopiran umjesto povezan te samim time nije dijeljen međi instancama.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
@@ -1715,7 +1715,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteke klonirana s reflinkovima ne zauzimaju više prostora dok se ne modificiraju.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
@@ -1775,7 +1775,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomoć</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
@@ -1797,7 +1797,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="85"/>
         <source>Core Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Jezgreni modovi</translation>
     </message>
 </context>
 <context>
@@ -1813,7 +1813,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stvori prečicu instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
@@ -1848,7 +1848,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odaberi metu za spajanje pri pokretanju</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
@@ -14581,7 +14581,9 @@ Molimo postavite svoj račun prema %1.</translation>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>XSTS autentikacija završila s nepoznatim greškama:
+
+%1</translation>
     </message>
 </context>
 <context>
