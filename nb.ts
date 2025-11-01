@@ -12102,7 +12102,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Startprogrammet er i mappen som den ble pakket ut fra, og den kan derfor ikke lage snarveier.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
@@ -12161,7 +12161,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="235"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skrivebordsoppføringer</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="244"/>
