@@ -6246,7 +6246,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Du prøver å spesifisere en instansmappe som %1 har fått tilgang til midlertidig via Flatpak.
+Dette kan forårsake problemer. Etter en omstart får ikke %1 tilgang til den mappen lenger.
+
+Det anbefales å gi %1 tilgang til mappen via Flatseal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="122"/>
@@ -7879,7 +7882,7 @@ Vil du fortsette?</numerusform>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Startprogrammet er i mappen som den ble pakket ut fra, og den kan derfor ikke lage snarveier.</translation>
     </message>
     <message>
         <source>Create instance Application</source>
@@ -7891,7 +7894,7 @@ Vil du fortsette?</numerusform>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrivebordsoppføringer</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
