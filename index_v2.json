@@ -659,11 +659,11 @@
             "untranslated" : 0
         },
         "uk" : {
-            "file" : "c8ce25809dee83b91d7b60058b1da3c9e16f9241.class",
-            "sha1" : "c8ce25809dee83b91d7b60058b1da3c9e16f9241",
-            "size" : 395540,
-            "translated" : 2646,
-            "fuzzy" : 0,
+            "file" : "6a74c28e55dbfc497e9be489f921a825ae43ef78.class",
+            "sha1" : "6a74c28e55dbfc497e9be489f921a825ae43ef78",
+            "size" : 395462,
+            "translated" : 2610,
+            "fuzzy" : 36,
             "untranslated" : 0
         },
         "uz" : {
