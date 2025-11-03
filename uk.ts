@@ -60,17 +60,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Mod&amp;rinth</source>
-        <translation>Модринт (Mod&amp;rinth)</translation>
+        <translation type="unfinished">Пошук модів(Mod&amp;rinth)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"/>
         <source>Use None</source>
-        <translation>Ніц</translation>
+        <translation type="unfinished">Нічого</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="318"/>
         <source>&amp;CurseForge</source>
-        <translation>&amp;КерсФордж (CurseForge)</translation>
+        <translation type="unfinished">&amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="373"/>
@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>Ключі Ядер (API)</translation>
+        <translation type="unfinished">Ключі (API)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -127,17 +127,17 @@
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Ріжне</translation>
+        <translation type="unfinished">Різне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>User Agent</source>
-        <translation>Користувацький Аґент</translation>
+        <translation type="unfinished">Користувацький Агент</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Введіть спеціяльний Користувацький Аґент тут. Рядкова змінна $ЗАПУСКАЧ_ВЕР ($LAUNCHER_VER) буде замінена версією запускача.</translation>
+        <translation type="unfinished">Введіть спеціяльний Користувацький Агент тут. Рядкова змінна $ЗАПУСКАЧ_ВЕР ($LAUNCHER_VER) буде замінена версією запускача.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -152,7 +152,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Ви можете поставити це на сторонній сервер метаданих для використання пролатаних бібліотек або инших гаків.</translation>
+        <translation type="unfinished">Ви можете встановити це на сторонній сервер метаданих, щоб використовувати виправлені бібліотеки або інші обхідні рішення.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -165,12 +165,12 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;Ядро (API) КерсФордж (CurseForge)</translation>
+        <translation>&amp; CurseForge (API) Ядро</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Примітка: вам, ймовірно, не потрібно змінювати це, якщо КерсФордж (CurseForge) вже працює.</translation>
+        <translation>Примітка: вам, ймовірно, не потрібно змінювати це, якщо (CurseForge) вже працює.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -188,7 +188,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="121"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Не вдалося зрозуміти маніфест пакунку:
+        <translation type="unfinished">Не вдалося розпізнати маніфест пакета:
 </translation>
     </message>
     <message>
@@ -204,7 +204,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="143"/>
         <source>Unsupported installation mode</source>
-        <translation>Непідтримуваний режим установлення</translation>
+        <translation type="unfinished">Непідтримуваний режим інсталяції</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="184"/>
@@ -234,22 +234,22 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="633"/>
         <source>Downloading configs...</source>
-        <translation>Завантаження конфіґурації...</translation>
+        <translation type="unfinished">Завантаження конфігурацій…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="634"/>
         <source>Config download</source>
-        <translation>Завантаження конфіґурації</translation>
+        <translation type="unfinished">Завантаження конфігурацій</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="675"/>
         <source>Extracting configs...</source>
-        <translation>Розпакування конфіґурацій...</translation>
+        <translation type="unfinished">Розпакування конфігурацій...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="681"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>Не вдалося відкрити пакунок конфіґурацій %1!</translation>
+        <translation type="unfinished">Не вдалося відкрити пакунок конфігурацій %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
@@ -279,12 +279,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="823"/>
         <source>Blocked mods found</source>
-        <translation>Знайдено забльоковані моди</translation>
+        <translation type="unfinished">Виявлено заблоковані моди</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Наступні файли недоступні для завантаження у сторонніх запускачах.&lt;br/&gt;Вам потрібно буде завантажити їх уручну та додати до збірки.</translation>
+        <translation type="unfinished">Наступні файли недоступні для завантаження у сторонніх запускачах.&lt;br/&gt;Вам потрібно буде завантажити їх в ручну та додати до збірки.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="880"/>
@@ -327,7 +327,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="107"/>
         <source>About</source>
-        <translation>Про проґраму</translation>
+        <translation type="unfinished">Про програму</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
@@ -341,7 +341,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
         <source>Platform:</source>
-        <translation>Плятформа:</translation>
+        <translation type="unfinished">Платформа:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
@@ -401,7 +401,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Platform</source>
-        <translation>Плятформа</translation>
+        <translation type="unfinished">Платформа</translation>
     </message>
     <message>
         <source>Build Number</source>
@@ -423,7 +423,7 @@
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Офляйн</translation>
+        <translation type="unfinished">Офлайн</translation>
     </message>
     <message>
         <source>Online</source>
@@ -440,7 +440,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation>Офляйн</translation>
+        <translation type="unfinished">Офлайн</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
@@ -486,7 +486,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>Тип облікового запису (Обліковий Запис Майкрософт чи офляйн)</translation>
+        <translation type="unfinished">Тип облікового запису (Обліковий Запис Майкрософт чи офлайн)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -613,24 +613,24 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation>&amp;Керування Скинами</translation>
+        <translation type="unfinished">&amp;Керування Скінами</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation>Керування Скинами</translation>
+        <translation type="unfinished">Керування Скінами</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>Додати Обліковий Запис Mi&amp;crosoft</translation>
+        <translation type="unfinished">Додати Обліковий Запис Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>Додати &amp;Офляйновий Обліковий Запис</translation>
+        <translation type="unfinished">Додати &amp;Офлайновий Обліковий Запис</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
@@ -660,8 +660,8 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation>Вітаємо!
-Якщо ви тут нові, ви можете вибрати кнопку &quot;Додати Обліковий Запис Microsoft&quot; щоби прив&apos;язати свій обліковий запис Microsoft.</translation>
+        <translation type="unfinished">Ласкаво просимо!
+Якщо ви тут вперше, можете натиснути кнопку &quot;Додати бліковий запис Microsoft&quot;, щоб прив’язати свій обліковий запис Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
@@ -700,7 +700,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Вам потрібно додати обліковий запис Microsoft, на якому є куплений Minecraft перед додаванням офляйн облікового запису.&lt;br&gt;&lt;br&gt;Якщо ви втратили свій обліковий запис, ви можете зв&apos;язатися з Microsoft для отримання технічної підтримки.</translation>
+        <translation type="unfinished">Вам потрібно додати обліковий запис Microsoft, на якому є куплений Minecraft перед додаванням офлайн облікового запису.&lt;br&gt;&lt;br&gt;Якщо ви втратили свій обліковий запис, ви можете зв&apos;язатися з Microsoft для отримання технічної підтримки.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -727,7 +727,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Будь ласка, введіть бажане ім’я користувача, щоби додати офляйновий обліковий запис.</translation>
+        <translation type="unfinished">Будь ласка, введіть бажане ім’я користувача, щоби додати офлайновий обліковий запис.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -830,7 +830,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation>&amp;Котонабори:</translation>
+        <translation type="unfinished">&amp;Набір котів:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
@@ -850,7 +850,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation>Шрифт Консоли:</translation>
+        <translation type="unfinished">Шрифт Консолі:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
@@ -920,7 +920,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation>[Фатально] Жахлива смертельна помилка!</translation>
+        <translation type="unfinished">[ФАТАЛЬНА ПОМИЛКА] Жахлива критична помилка!</translation>
     </message>
 </context>
 <context>
@@ -949,18 +949,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>Ця інсталяція має файл бльокування оновлень за адресою: %1
+        <translation type="unfinished">Ця інсталяція має файл блокування оновлення за адресою: %1
 
 Мітка часу: %2
 Оновлення з версії %3 до %4
 Цільовий шлях встановлення: %5
 Шлях до даних: %6
-Це, ймовірно, означає, що попередня спроба оновлення завершилася невдало. Будь ласка, переконайтеся, що ваша інсталяція працює належним чином, перш аніж продовжити.
+Ймовірно, попередня спроба оновлення завершилася невдало. Будь ласка, переконайтеся, що ваша інсталяція працює належним чином, перш ніж продовжити.
 Перевірте звіт оновлень Prism Launcher за адресою: 
 %7
-щоби побачити подробиці послідньої спроби оновлення.
+щоб побачити подробиці останньої спроби оновлення.
 
-Щоби підпорядкувати це бльокування та продовжити, натисніть &quot;Іґнорувати&quot; нижче.</translation>
+Щоб видалити це блокування та продовжити, виберіть «Ігнорувати» нижче.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1069"/>
@@ -975,12 +975,12 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation>Спроба оновлення не вдалася
+        <translation type="unfinished">Спроба оновлення не вдалася
 
 Будь ласка, переконайтеся, що ваша інсталяція працює належним чином, перш аніж продовжити.
 Перевірте звіт оновлень Prism Launcher в: 
 %1
-щоби побачити подробиці послідньої спроби оновлення.</translation>
+щоб побачити подробиці останньої спроби оновлення.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1101"/>
@@ -1001,12 +1001,12 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation>Оновлення встановлено
+        <translation type="unfinished">Оновлення встановлено
 
 Зараз ви використовуєте %1 .
 Перевірте звіт оновлень Prism Launcher в: 
 %2
-щоби побачити подробиці послідньої спроби оновлення.</translation>
+щоб побачити подробиці останньої спроби оновлення.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1133"/>
@@ -1020,10 +1020,10 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation>Ваша тека /tmp наразі змонтована з увімкненим прапорцем ‘noexec’.
+        <translation type="unfinished">Ваша тека /tmp наразі змонтована з увімкненим прапорцем ‘noexec’.
 Деякі версії Minecraft можуть не запускатися.
 
-Ви можете вирішити цю проблєму, перемонтувавши /tmp з прапорцем ‘exec’ або встановивши арґумент JVM java.io.tmpdir у записувану теку у файловій системі, де встановлено прапорець ‘exec’ (наприклад, /home/user/.local/tmp)
+Ви можете вирішити цю проблєму, перемонтувавши /tmp з прапорцем ‘exec’ або встановивши аргумент JVM java.io.tmpdir у записувану теку у файловій системі, де встановлено прапорець ‘exec’ (наприклад, /home/user/.local/tmp)
 </translation>
     </message>
     <message>
