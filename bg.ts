@@ -7569,7 +7569,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="857"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Предупреждения</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="861"/>
@@ -7933,7 +7933,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="198"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Предупреждения</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="201"/>
@@ -8863,13 +8863,16 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Внимание: Този ресурс е символично свързан от друго място. Редактирането му ще промени и оригинала.
+Каноничен път: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="127"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Внимание: Този ресурс е свързан чрез твърда връзка другаде. Редактирането му ще промени и оригинала.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
@@ -8893,17 +8896,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Активирай</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Снимка</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Последна промяна</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
@@ -9143,13 +9146,13 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="168"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="257"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Изтеглянето беше спряно от потребителя.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="174"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="263"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Предупреждения</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="188"/>
@@ -9166,7 +9169,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Потвърди актуализацията</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="214"/>
@@ -9318,7 +9321,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Предупреждения</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -12087,7 +12090,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="159"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Предупреждения</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="165"/>
@@ -12376,13 +12379,16 @@ The author likely blocked third-party launchers.</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Внимание: Този ресурс е символично свързан от друго място. Редактирането му ще промени и оригинала.
+Каноничен път: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="511"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Внимание: Този ресурс е свързан чрез твърда връзка другаде. Редактирането му ще промени и оригинала.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
@@ -12392,12 +12398,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Активирай</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Последна промяна</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
@@ -12464,17 +12470,17 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Активирай</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Снимка</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Последна промяна</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
@@ -12489,7 +12495,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="78"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Неразпознато</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="107"/>
@@ -12503,13 +12509,16 @@ Are you sure you want to do this?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Внимание: Този ресурс е символично свързан от друго място. Редактирането му ще промени и оригинала.
+Каноничен път: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="119"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Внимание: Този ресурс е свързан чрез твърда връзка другаде. Редактирането му ще промени и оригинала.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
@@ -12534,7 +12543,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Pack Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Формат на пакета</translation>
     </message>
     <message>
         <source>Last changed</source>
@@ -12600,13 +12609,13 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="188"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Изтеглянето беше спряно от потребителя.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="109"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="194"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Предупреждения</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="123"/>
@@ -12623,7 +12632,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="144"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Потвърди актуализацията</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="145"/>
@@ -12749,7 +12758,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="113"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="204"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Предупреждения</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="119"/>
@@ -13341,13 +13350,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Изтеглянето беше спряно от потребителя.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="106"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="191"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Предупреждения</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="120"/>
@@ -13364,7 +13373,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="141"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Потвърди актуализацията</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="142"/>
@@ -13933,12 +13942,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Активирай</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Снимка</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
@@ -13948,7 +13957,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Последна промяна</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
@@ -13965,13 +13974,16 @@ inheritsFrom is missing</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Внимание: Този ресурс е символично свързан от друго място. Редактирането му ще промени и оригинала.
+Каноничен път: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="90"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Внимание: Този ресурс е свързан чрез твърда връзка другаде. Редактирането му ще промени и оригинала.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
@@ -14053,13 +14065,13 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="193"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Изтеглянето беше спряно от потребителя.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="114"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="199"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Предупреждения</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="128"/>
@@ -14076,7 +14088,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="149"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Потвърди актуализацията</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="150"/>

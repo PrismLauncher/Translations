@@ -15707,7 +15707,7 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Informácie</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="281"/>

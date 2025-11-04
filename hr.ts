@@ -2558,7 +2558,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="157"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modrinth paket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="164"/>
@@ -9011,7 +9011,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="369"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modrinth paket</translation>
     </message>
 </context>
 <context>
@@ -9130,7 +9130,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opcije za filtriranje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
@@ -12070,7 +12070,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opcije za filtriranje</translation>
     </message>
 </context>
 <context>
