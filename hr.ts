@@ -2700,12 +2700,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="165"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvezi %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="166"/>
@@ -2734,19 +2734,19 @@ Are you sure?</source>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Makni odabrani objekt</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Omogući odabrani objekt</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Onemogući odabrani objekt</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzmi nove resurse</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
@@ -2762,32 +2762,32 @@ Are you sure?</source>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Izvezi modlistu</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvezi metapodatke modova u tekst</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>&amp;Remove</source>
-        <translation>&amp;Izbriši</translation>
+        <translation type="unfinished">&amp;Izbriši</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Omogući</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Onemogući</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="117"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Omogući sve selektirane objekte.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="59"/>
@@ -2797,27 +2797,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
         <source>&amp;Add File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Dodaj Datoteku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="95"/>
         <source>Add a locally downloaded file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj lokalno preuzetu datoteku.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="106"/>
         <source>Remove all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Makni sve odabrane objekte.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
         <source>Disable all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogući sve odabrane objekte.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pregled i Konfiguracija</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
