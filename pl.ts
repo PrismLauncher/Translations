@@ -29,7 +29,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Usługa wklejania i &amp;typ</translation>
+        <translation>&amp;Typ usługi wklejania</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
@@ -50,7 +50,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Uwaga: prawdopodobnie chcesz zmienić lub wyczyścić Bazę URL po zmianie typu usługi wklejania.</translation>
+        <translation>Uwaga: prawdopodobnie chcesz zmienić lub wyczyścić bazowy URL po zmianie typu usługi wklejania.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
@@ -130,7 +130,7 @@
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>ID Technic Client</translation>
+        <translation>ID klientu Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -168,7 +168,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Tutaj możesz wskazać serwer metadanych, z którego pobierane będą poprawione biblioteki i inne poprawki.</translation>
+        <translation>Tutaj możesz wskazać inny serwer metadanych, z którego pobierane będą poprawione biblioteki i inne poprawki.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -13480,7 +13480,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
 
 Old name: %1
 New name: %2</source>
-        <translation>Czy chciałbyś też zmienić nazwę folderu instancji?
+        <translation>Chciałbyś również zmienić nazwę folderu instancji?
 
 Stara nazwa: %1
 Nowa nazwa: %2</translation>
@@ -13711,17 +13711,17 @@ Wiadomość błędu: %3</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>%1 Developers</source>
-        <translation type="unfinished">Twórcy %1</translation>
+        <translation>Twórcy %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>MultiMC Developers</source>
-        <translation type="unfinished">Twórcy MultiMC</translation>
+        <translation>Twórcy MultiMC</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="56"/>
         <source>With special thanks to</source>
-        <translation type="unfinished"></translation>
+        <translation>Specjalne podziękowania dla</translation>
     </message>
 </context>
 <context>
