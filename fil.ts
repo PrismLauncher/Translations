@@ -376,27 +376,27 @@
         <translation>I-sara</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="75"/>
         <source>About %1</source>
         <translation>Tungkol sa %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="91"/>
         <source>Platform</source>
         <translation>Plataporma</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="96"/>
         <source>Commit: %1</source>
         <translation>I-pagawa: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
         <source>Build date: %1</source>
         <translation>Petsa ng paggawa: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="171"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="106"/>
         <source>Channel</source>
         <translation>Pinagmulan</translation>
     </message>
@@ -10880,20 +10880,16 @@ HTTP Status: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>Website</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="75"/>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="94"/>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
         <translation>Mga Developer ng %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="102"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
         <translation>Na may pasasalamat sa</translation>
@@ -11616,6 +11612,21 @@ Mensahe ng Error: %3</translation>
     <message>
         <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
         <source> for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
+        <source>%1 Developers</source>
+        <translation type="unfinished">Mga Developer ng %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
+        <source>MultiMC Developers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="56"/>
+        <source>With special thanks to</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

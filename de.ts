@@ -396,22 +396,22 @@
         <translation>Schließen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="75"/>
         <source>About %1</source>
         <translation>Über %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="91"/>
         <source>Platform</source>
         <translation>Plattform</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="96"/>
         <source>Commit: %1</source>
         <translation>Änderung: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
         <source>Build date: %1</source>
         <translation>Build-Datum: %1</translation>
     </message>
@@ -420,7 +420,7 @@
         <translation type="vanished">Build-Nummer</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="171"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="106"/>
         <source>Channel</source>
         <translation>Kanal</translation>
     </message>
@@ -12669,13 +12669,10 @@ HTTP Status: %2</translation>
         <translation type="vanished">MultiMC-Entwickler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>Website</source>
         <translation>Webseite</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="75"/>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="94"/>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
@@ -12688,7 +12685,6 @@ HTTP Status: %2</translation>
         <translation type="vanished">%1 Mitwirkende</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="102"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
         <translation>Mit Dank an</translation>
@@ -13688,6 +13684,21 @@ Fehlermeldung: %3</translation>
         <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
         <source> for %1</source>
         <translation> für %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
+        <source>%1 Developers</source>
+        <translation type="unfinished">%1 Entwickler</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
+        <source>MultiMC Developers</source>
+        <translation type="unfinished">MultiMC-Entwickler</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="56"/>
+        <source>With special thanks to</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -388,22 +388,22 @@
         <translation>关闭</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="75"/>
         <source>About %1</source>
         <translation>关于 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="91"/>
         <source>Platform</source>
         <translation>平台</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="96"/>
         <source>Commit: %1</source>
         <translation>提交：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
         <source>Build date: %1</source>
         <translation>构建日期：%1</translation>
     </message>
@@ -412,7 +412,7 @@
         <translation type="vanished">内部版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="171"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="106"/>
         <source>Channel</source>
         <translation>通道</translation>
     </message>
@@ -12613,13 +12613,10 @@ HTTP 状态码：%2</translation>
         <translation type="obsolete">开发人员</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>Website</source>
         <translation>网站</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="75"/>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="94"/>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
@@ -12632,7 +12629,6 @@ HTTP 状态码：%2</translation>
         <translation type="vanished">%1 贡献者</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="102"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
         <translation>感谢</translation>
@@ -13625,6 +13621,21 @@ Error message: %3</source>
         <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
         <source> for %1</source>
         <translation> 适配版本 %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
+        <source>%1 Developers</source>
+        <translation type="unfinished">%1 开发人员</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
+        <source>MultiMC Developers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="56"/>
+        <source>With special thanks to</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

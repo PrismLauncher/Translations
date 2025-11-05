@@ -372,27 +372,27 @@
         <translation>மூடு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="75"/>
         <source>About %1</source>
         <translation>சுமார் %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="91"/>
         <source>Platform</source>
         <translation>இயங்குதளம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="96"/>
         <source>Commit: %1</source>
         <translation>கமிட்: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
         <source>Build date: %1</source>
         <translation>உருவாக்க தேதி: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="171"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="106"/>
         <source>Channel</source>
         <translation>வாய்க்கால்</translation>
     </message>
@@ -10605,20 +10605,16 @@ HTTP நிலை: %2</translation>
         <translation>Minecraft சேவையகம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>Website</source>
         <translation>வலைத்தளம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="75"/>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="94"/>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
         <translation>%1 உருவாக்குபவர்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="102"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
         <translation>நன்றி</translation>
@@ -11373,6 +11369,21 @@ Error message: %3</source>
         <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
         <source> for %1</source>
         <translation> %1 க்கு</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
+        <source>%1 Developers</source>
+        <translation type="unfinished">%1 உருவாக்குபவர்கள்</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
+        <source>MultiMC Developers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="56"/>
+        <source>With special thanks to</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
