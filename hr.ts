@@ -2433,7 +2433,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="136"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Izvezi %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="148"/>
@@ -2553,7 +2553,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="163"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Izvezi %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="157"/>
