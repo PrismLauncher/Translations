@@ -367,27 +367,27 @@
         <translation>Siere</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="80"/>
         <source>About %1</source>
         <translation>Informazions su %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="91"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="96"/>
         <source>Platform</source>
         <translation>Plateforme</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="96"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
         <source>Commit: %1</source>
         <translation>Commit: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="106"/>
         <source>Build date: %1</source>
         <translation>Date di compilazion: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="106"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="111"/>
         <source>Channel</source>
         <translation>Canâl</translation>
     </message>
@@ -864,7 +864,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
         <translation>Al somee che tu vedis za doprât %1 su %2. Desideristu migrâ i tiei dâts te gnove posizion di %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2005"/>
+        <location filename="src/launcher/Application.cpp" line="2007"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrazion falide! Motîf: %1</translation>
     </message>
@@ -4655,7 +4655,7 @@ Tu puedis cambiâ version di Java tes impostazions plui indevant.
         <translation>Memorie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="245"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>La cuantitât massime di memorie che Minecraft al pues doprâ.</translation>
     </message>
@@ -4747,17 +4747,17 @@ Tu puedis cambiâ version di Java tes impostazions plui indevant.
         <translation>Memor&amp;ie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="345"/>
         <source>Memory Notice</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="204"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
         <source>(-XX:PermSize)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="267"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="260"/>
         <source>(-Xmx)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4770,27 +4770,27 @@ Tu puedis cambiâ version di Java tes impostazions plui indevant.
         <translation>Assegnazion massime di memorie:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="280"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>La cuantitât di memorie par inviâ Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="302"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="295"/>
         <source>&amp;PermGen Size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="305"/>
         <source>(-Xms)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="319"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>Ma&amp;ximum Memory Usage:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="329"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="322"/>
         <source>M&amp;inimum Memory Usage:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4800,7 +4800,7 @@ Tu puedis cambiâ version di Java tes impostazions plui indevant.
         <translation>Parame&amp;tris di java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="217"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="210"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>La cuantitât di memorie disponibile par memorizâ lis classis di Java cjariadis.</translation>
     </message>
@@ -5899,7 +5899,7 @@ Al è conseât di concedii l&apos;acès a %1 midiant Flatseal.</translation>
         <translation>Impussibil spostâ Minecraft dispacât!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="196"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="200"/>
         <source>No installation method found!</source>
         <translation>Nissun metodi di instalazion cjatât!</translation>
     </message>

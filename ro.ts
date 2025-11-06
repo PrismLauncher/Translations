@@ -380,17 +380,17 @@
         <translation>Închide</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="80"/>
         <source>About %1</source>
         <translation>Despre %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="96"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
         <source>Commit: %1</source>
         <translation>Commit: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="106"/>
         <source>Build date: %1</source>
         <translation>Data compilării: %1</translation>
     </message>
@@ -399,7 +399,7 @@
         <translation type="vanished">Versiune</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="91"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="96"/>
         <source>Platform</source>
         <translation>Platformă</translation>
     </message>
@@ -408,7 +408,7 @@
         <translation type="vanished">Numărul Build-ului</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="106"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="111"/>
         <source>Channel</source>
         <translation>Canal</translation>
     </message>
@@ -1060,7 +1060,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
         <translation>Se pare că ați folosit deja %1 pe %2 înainte. Doriți să vă migrați datele în noua locație a lui %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2005"/>
+        <location filename="src/launcher/Application.cpp" line="2007"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrarea a eșuat! Motiv: %1</translation>
     </message>
@@ -5375,7 +5375,7 @@ Puteți schimba versiunea de Java din setări ulterior.
         <translation>Memorie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="245"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>Cantitatea maximă de memorie pe care o poate folosi Minecraft.</translation>
     </message>
@@ -5467,17 +5467,17 @@ Puteți schimba versiunea de Java din setări ulterior.
         <translation type="unfinished">Memor&amp;ie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="345"/>
         <source>Memory Notice</source>
         <translation>Notificare memorie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="204"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
         <source>(-XX:PermSize)</source>
         <translation>(-XX:PermSize)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="267"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="260"/>
         <source>(-Xmx)</source>
         <translation>(-Xmx)</translation>
     </message>
@@ -5486,27 +5486,27 @@ Puteți schimba versiunea de Java din setări ulterior.
         <translation>Memoria maximă alocată:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="280"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>Cantitatea de memorie cu care pornește Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="302"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="295"/>
         <source>&amp;PermGen Size:</source>
         <translation>&amp;PermGen Size:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="305"/>
         <source>(-Xms)</source>
         <translation>(-Xms)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="319"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>Ma&amp;ximum Memory Usage:</source>
         <translation>Utilizare memorie ma&amp;ximă:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="329"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="322"/>
         <source>M&amp;inimum Memory Usage:</source>
         <translation>Utilizare memorie m&amp;inimă:</translation>
     </message>
@@ -5516,7 +5516,7 @@ Puteți schimba versiunea de Java din setări ulterior.
         <translation>Argumen&amp;te Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="217"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="210"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>Cantitatea de memorie valabilă pentru a stoca clasele Java încărcate.</translation>
     </message>
@@ -6667,7 +6667,7 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
         <translation type="unfinished">Nu s-a putut muta Minecraft-ul dezarhivat!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="196"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="200"/>
         <source>No installation method found!</source>
         <translation>Nu s-a găsit nicio metodă de instalare!</translation>
     </message>

@@ -384,22 +384,22 @@
         <translation>Chiudi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="80"/>
         <source>About %1</source>
         <translation>Informazioni su %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="91"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="96"/>
         <source>Platform</source>
         <translation>Piattaforma</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="96"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
         <source>Commit: %1</source>
         <translation>Commetti: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="106"/>
         <source>Build date: %1</source>
         <translation>Data di compilazione: %1</translation>
     </message>
@@ -408,7 +408,7 @@
         <translation type="vanished">Numero build</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="106"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="111"/>
         <source>Channel</source>
         <translation>Canale</translation>
     </message>
@@ -1076,7 +1076,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
         <translation>Sembra che hai già usato %1 su %2. Vuoi migrare i tuoi dati nella nuova location di %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2005"/>
+        <location filename="src/launcher/Application.cpp" line="2007"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrazione fallita! Motivo: %1</translation>
     </message>
@@ -5461,7 +5461,7 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
         <translation>Memoria</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="245"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>La quantità massima di memoria che Minecraft può usare.</translation>
     </message>
@@ -5553,17 +5553,17 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
         <translation>&amp;Memoria</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="345"/>
         <source>Memory Notice</source>
         <translation>Avviso di memoria</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="204"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
         <source>(-XX:PermSize)</source>
         <translation>(-XX:PermSize)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="267"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="260"/>
         <source>(-Xmx)</source>
         <translation>(-Xmx)</translation>
     </message>
@@ -5576,27 +5576,27 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
         <translation>Allocazione massima di memoria:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="280"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>La quantità di memoria usata per avviare Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="302"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="295"/>
         <source>&amp;PermGen Size:</source>
         <translation>&amp;Dimensione PermGen:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="305"/>
         <source>(-Xms)</source>
         <translation>(-Xms)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="319"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>Ma&amp;ximum Memory Usage:</source>
         <translation>Ut&amp;ilizzo Massimo Memoria:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="329"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="322"/>
         <source>M&amp;inimum Memory Usage:</source>
         <translation>U&amp;tilizzo Minimo Memoria:</translation>
     </message>
@@ -5606,7 +5606,7 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
         <translation>Argomenti Ja&amp;va</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="217"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="210"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>La quantità di memoria disponibile per memorizzare le classi di Java.</translation>
     </message>
@@ -6836,7 +6836,7 @@ Concedere l&apos;accesso a %1 con Flatseal è raccomandato.</translation>
         <translation>Impossibile spostare Minecraft scompattato!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="196"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="200"/>
         <source>No installation method found!</source>
         <translation>Nessun metodo di installazione trovato!</translation>
     </message>

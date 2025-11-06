@@ -376,27 +376,27 @@
         <translation>I-sara</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="80"/>
         <source>About %1</source>
         <translation>Tungkol sa %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="91"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="96"/>
         <source>Platform</source>
         <translation>Plataporma</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="96"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
         <source>Commit: %1</source>
         <translation>I-pagawa: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="106"/>
         <source>Build date: %1</source>
         <translation>Petsa ng paggawa: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="106"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="111"/>
         <source>Channel</source>
         <translation>Pinagmulan</translation>
     </message>
@@ -1030,7 +1030,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
         <translation>Mukhang ginamit mo na ang %1 sa %2 noon. Nais mo bang ilipat ang iyong data sa bagong lokasyon ng %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2005"/>
+        <location filename="src/launcher/Application.cpp" line="2007"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Nabigo ang pag lipat! Dahilan: %1</translation>
     </message>
@@ -4951,7 +4951,7 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
         <translation>Memorya</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="245"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>Yung pinaka-malaking amount ng memory na pwedeng gamitin ng Minecraft.</translation>
     </message>
@@ -5043,17 +5043,17 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
         <translation type="unfinished">Memor&amp;y</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="345"/>
         <source>Memory Notice</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="204"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
         <source>(-XX:PermSize)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="267"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="260"/>
         <source>(-Xmx)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5062,27 +5062,27 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
         <translation>Pinakamalaking memory allocation:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="280"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>Yung amount ng memory na nasa pag-start ng Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="302"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="295"/>
         <source>&amp;PermGen Size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="305"/>
         <source>(-Xms)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="319"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>Ma&amp;ximum Memory Usage:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="329"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="322"/>
         <source>M&amp;inimum Memory Usage:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5092,7 +5092,7 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="217"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="210"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>Yung amount ng memory na available para i-store ang mga loaded Java classes.</translation>
     </message>
@@ -6183,7 +6183,7 @@ Inirerekomenda ang pagbibigay ng %1 ng access dito gamit ng Flatseal.</translati
         <translation type="unfinished">Hindi ma-move ang unzipped na Minecraft!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="196"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="200"/>
         <source>No installation method found!</source>
         <translation>Walang nahanap na install method!</translation>
     </message>
