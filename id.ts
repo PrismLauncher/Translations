@@ -12911,7 +12911,7 @@ Pesan kesalahan: %3</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>MultiMC Developers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pengembang MultiMC</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="56"/>
