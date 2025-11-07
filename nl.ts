@@ -381,7 +381,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
         <source>Close</source>
-        <translation>Sluit</translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="80"/>
@@ -621,35 +621,35 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation>Beheer skins</translation>
+        <translation>Skins beheren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation>Beheer Skins</translation>
+        <translation>Skins beheren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>Voeg Microsoft toe</translation>
+        <translation>Microsoft toevoegen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>Voeg offline toe</translation>
+        <translation>Offline tovoegen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>Ververs</translation>
+        <translation>Vernieuwen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
         <source>Refresh the account tokens</source>
-        <translation>Ververs de account-tokens</translation>
+        <translation>De account-tokens vernieuwen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -669,7 +669,7 @@ Als u hier nieuw bent, kunt u op de knop &quot;Toevoegen&quot; klikken om uw Moj
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Welkom!
-Als je hier nieuw bent, kun je de &quot;Voeg Microsoft toe&quot; knop kiezen om je Microsoft account te linken.</translation>
+Als je hier nieuw bent, kun je de knop &quot;Microsoft toevoegen&quot; kiezen om je Microsoft-account te koppelen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
@@ -2046,7 +2046,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation>Aangepaste commando&apos;s</translation>
+        <translation>Aangepaste opdrachten</translation>
     </message>
 </context>
 <context>
@@ -7463,7 +7463,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
         <source>Launcher &amp;Root</source>
-        <translation>Launcher &amp;Root</translation>
+        <translation>Hoofdmap van launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
@@ -7869,7 +7869,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation>Open de launchers root map in een bestanden browser.</translation>
+        <translation>De hoofdmap van de launcher openen in een bestandsverkenner.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
@@ -8068,7 +8068,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="413"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation>Open de hoofdmap van de geselecteerde instantie in een bestandsbrowser.</translation>
+        <translation>De hoofdmap van de geselecteerde instantie openen in een bestandsverkenner.</translation>
     </message>
     <message>
         <source>Export Instance</source>
@@ -8423,8 +8423,8 @@ A.u.b. controleer uw prullenbak voor ze manueel te herstellen.</translation>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation>Metadata cache opruiming gefaald!
-Om de metadata handmatig op te ruimen, druk op Mappen -&gt; Bekijk Launcher Root Map, en na de launcher te sluiten verwijder de map genaamd &quot;meta&quot;
+        <translation>Metadata cache opruiming mislukt!
+Om de metadata-cache handmatig op te ruimen, druk je op Mappen -&gt; Hoofdmap van launcher weergeven. Verwijder na het sluiten van de launcher de map &quot;meta&quot;
 </translation>
     </message>
     <message>
@@ -11590,7 +11590,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation>Gebruik een aangepast pad als applicatie root (gebruik &apos;.&apos; voor huidige map).</translation>
+        <translation>Gebruik een aangepast pad als hoofdmap van de applicatie (gebruik &apos;.&apos; voor huidige map).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
@@ -13086,7 +13086,7 @@ Nieuwe naam: %2</translation>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation>Er is een fout gebeurt tijdens het uitvoeren van de volgende hernoem operatie:&lt;br/&gt;- Oude instantie root: %1&lt;br/&gt; - Nieuwe instantie root: %2&lt;br/&gt; Enkel de metadate is hernoemd.</translation>
+        <translation>Er is een fout opgetreden tijdens het uitvoeren van de volgende hernoem-opdracht:&lt;br/&gt;- Oude instantie hoofdmap: %1&lt;br/&gt; - Nieuwe instantie hoofdmap: %2&lt;br/&gt; Enkel de metadata is hernoemd.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
