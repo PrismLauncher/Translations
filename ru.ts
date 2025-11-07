@@ -60,7 +60,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished">Вы можете указать другой сервер, если у вас возникнут проблемы с загрузкой ресурсов.</translation>
+        <translation>Вы можете указать другой сервер, если у вас возникнут проблемы с загрузкой ресурсов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -13735,17 +13735,17 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>%1 Developers</source>
-        <translation type="unfinished">Разработчики %1</translation>
+        <translation>Разработчики %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>MultiMC Developers</source>
-        <translation type="unfinished">Разработчики MultiMC</translation>
+        <translation>Разработчики MultiMC</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="56"/>
         <source>With special thanks to</source>
-        <translation type="unfinished"></translation>
+        <translation>Особая благодарность</translation>
     </message>
 </context>
 <context>
