@@ -1220,7 +1220,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="354"/>
         <source>No share code specified!</source>
-        <translation>Không một mã chia sẻ được chỉ rõ!</translation>
+        <translation>Mã chia sẻ chưa được chỉ rõ!</translation>
     </message>
 </context>
 <context>
@@ -12922,12 +12922,12 @@ Tin nhắn báo lỗi: %3</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>MultiMC Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>Những nhà phát triển MultiMC</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="56"/>
         <source>With special thanks to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Với lời cảm ơn đặc biệt tới</translation>
     </message>
 </context>
 <context>
