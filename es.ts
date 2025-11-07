@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Servicio Pastebin</translation>
+        <translation>&amp;Servicio de Pastebin</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -38,7 +38,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>&amp;URL base</translation>
+        <translation>&amp;URL Base</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -208,7 +208,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="121"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>No se pudo entender el manifest del paquete:
+        <translation>No se pudo comprender el manifiesto del modpack:
 </translation>
     </message>
     <message>
@@ -239,12 +239,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="374"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Error al encontrar la versión para el cargador %1</translation>
+        <translation>Error al encontrar la versión para el loader %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="387"/>
         <source>No loader version set for modpack!</source>
-        <translation>¡No se ha establecido una versión del cargador para el paquete de mods!</translation>
+        <translation>¡No se ha establecido una versión del loader para el modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
@@ -269,7 +269,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="681"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>¡No se pudo abrir las configuraciones del paquete %1!</translation>
+        <translation>¡No se pudo abrir las configuraciones del modpack %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
@@ -299,7 +299,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="823"/>
         <source>Blocked mods found</source>
-        <translation>Se han encontrado modificadores bloqueados</translation>
+        <translation>Se han encontrado mods bloqueados</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
@@ -324,7 +324,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="997"/>
         <source>Installing modpack</source>
-        <translation>Instalando paquete de mods</translation>
+        <translation>Instalando modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1009"/>
@@ -334,7 +334,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1036"/>
         <source>Unknown loader type: </source>
-        <translation>Tipo de cargador desconocido: </translation>
+        <translation>Tipo de loader desconocido: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1050"/>
@@ -836,7 +836,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation>Ver carpeta de paquetes de gatos.</translation>
+        <translation>Ver carpeta de dibujos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
@@ -858,7 +858,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation>&amp;Packs de Gatos:</translation>
+        <translation>&amp;Dibujos:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
@@ -1859,7 +1859,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation>Copiar paquetes de recursos</translation>
+        <translation>Copiar resource packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
@@ -2147,7 +2147,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
         <source>Mod Loader</source>
-        <translation>Cargador de Mods</translation>
+        <translation>Loader de Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="182"/>
@@ -2315,7 +2315,7 @@ Advertencia: Este recurso está vinculado de forma rígida a otra ubicación. Si
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation>Intente comprobar o actualizar todos los paquetes de datos seleccionados (todos los paquetes de datos si no hay ninguno seleccionado)</translation>
+        <translation>Intente comprobar o actualizar todos los data packs seleccionados (todos los data packs si no hay ninguno seleccionado)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
@@ -4298,7 +4298,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>Selecciona la instancia a la que deseas importar este paquete de recursos.</translation>
+        <translation>Selecciona la instancia a la que deseas importar este resource pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
@@ -7902,12 +7902,12 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>Cat Packs</source>
-        <translation>Paquetes de Gatos</translation>
+        <translation>Dibujos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation>Abra el paquete de gatos en un explorador de archivos.</translation>
+        <translation>Abrir la carpeta de dibujos en un explorador de archivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
@@ -8800,12 +8800,12 @@ Esto puede ser permanente y eliminará la instancia por completo.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack Information</source>
-        <translation>Información del paquete</translation>
+        <translation>Información del modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack Name:</source>
-        <translation>Nombre del paquete:</translation>
+        <translation>Nombre del modpack:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
@@ -8893,7 +8893,7 @@ Solo puede actualizarse mediante un archivo con formato %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
         <source>Update Pack</source>
-        <translation>Actualizar paquete</translation>
+        <translation>Actualizar modpack</translation>
     </message>
     <message>
         <source>Update pack</source>
@@ -8922,7 +8922,7 @@ Solo puede actualizarse mediante un archivo con formato %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="324"/>
         <source>The instance updated to pack version %1 successfully.</source>
-        <translation>La instancia se actualizó exitosamente a la versión del paquete %1.</translation>
+        <translation>La instancia se actualizó exitosamente a la versión del modpack %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="329"/>
@@ -8932,7 +8932,7 @@ Solo puede actualizarse mediante un archivo con formato %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="330"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation>La instancia no se actualizó a la versión %1 del paquete. Por favor, consulte los registros del iniciador para obtener más información.</translation>
+        <translation>La instancia no se actualizó a la versión %1 del modpack. Por favor, consulte los registros del iniciador para obtener más información.</translation>
     </message>
 </context>
 <context>
@@ -9817,7 +9817,7 @@ Es muy probable que tengas que cambiar la ruta - consulta el sitio web del mod.<
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
         <source>Loaders</source>
-        <translation>Cargadores</translation>
+        <translation>Loaders</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
@@ -10847,7 +10847,7 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="270"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
-        <translation>Al archivo &apos;%1&apos; le falta un enlace de descarga. No es válido en el formato del paquete.</translation>
+        <translation>Al archivo &apos;%1&apos; le falta un enlace de descarga. No es válido en el formato del modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="300"/>
@@ -13627,7 +13627,7 @@ Mensaje de error: %3</translation>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data Packs</source>
         <oldsource>Data packs</oldsource>
-        <translation>Paquetes de datos</translation>
+        <translation>Data Packs</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
@@ -13637,17 +13637,17 @@ Mensaje de error: %3</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>%1 Developers</source>
-        <translation type="unfinished">%1 Desarrolladores</translation>
+        <translation>%1 Desarrolladores</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>MultiMC Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>Desarrolladores de MultiMC</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="56"/>
         <source>With special thanks to</source>
-        <translation type="unfinished"></translation>
+        <translation>Agradecimientos especiales a</translation>
     </message>
 </context>
 <context>
@@ -14156,7 +14156,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
         <source>Is the resource pack enabled?</source>
-        <translation>¿Está habilitado el paquete de recursos?</translation>
+        <translation>¿Está habilitado el resource pack?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
@@ -14193,7 +14193,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>El ID de formato del paquete de recursos, así como las versiones de Minecraft para las que se diseñó.</translation>
+        <translation>El ID de formato del resource pack, así como las versiones de Minecraft para las que se diseñó.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="112"/>
@@ -14214,12 +14214,12 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
         <source>The source provider of the resource pack.</source>
-        <translation>Proveedor de origen del paquete de recursos.</translation>
+        <translation>Proveedor de origen del resource pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="169"/>
         <source>The size of the resource pack.</source>
-        <translation>El tamaño del paquete de recursos.</translation>
+        <translation>El tamaño del resource pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
@@ -14237,12 +14237,12 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>¿Está el paquete de recursos habilitado? (Solo válido para archivos ZIP)</translation>
+        <translation>¿Está el resource pack habilitado? (Solo válido para archivos ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
         <source>The name of the resource pack.</source>
-        <translation>El nombre del paquete de recursos.</translation>
+        <translation>El nombre del resource pack.</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -14251,7 +14251,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation>La fecha y la hora en la que este paquete de recursos se modificó por última vez (o se creó).</translation>
+        <translation>La fecha y la hora en la que este resource pack se modificó por última vez (o se creó).</translation>
     </message>
 </context>
 <context>
@@ -14266,7 +14266,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>Descargar paquetes de recursos de plataformas en línea</translation>
+        <translation>Descargar resource pack de plataformas en línea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -14276,12 +14276,12 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download resource packs from online mod platforms</source>
-        <translation>Descarga paquetes de recursos de plataformas de mods en línea</translation>
+        <translation>Descarga resource packs de plataformas de mods en línea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
-        <translation>Intentar comprobar o actualizar todos los paquetes de recursos seleccionados (todos los paquetes de recursos si no hay ninguno seleccionado)</translation>
+        <translation>Intentar comprobar o actualizar todos los resource packs seleccionados (todos los resource packs si no hay ninguno seleccionado)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
@@ -14325,7 +14325,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="139"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="238"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
-        <translation>¡Las actualizaciones de los paquetes de recursos no están disponibles cuando los metadatos están desactivados!</translation>
+        <translation>¡Las actualizaciones de los resource packs no están disponibles cuando los metadatos están desactivados!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="144"/>
@@ -14337,14 +14337,14 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Actualizar los paquetes de recursos mientras el juego está en marcha puede provocar la duplicación de los paquetes y el bloqueo del juego.
+        <translation>Actualizar los resource packs mientras el juego está en marcha puede provocar la duplicación de los packs y el bloqueo del juego.
 Es posible que los archivos antiguos no se eliminen, ya que están en uso.
 ¿Estás seguro de que quieres hacerlo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="165"/>
         <source>The resource pack updater was aborted!</source>
-        <translation>¡El actualizador de paquetes de recursos fue interrumpido!</translation>
+        <translation>¡El actualizador de resource packs fue interrumpido!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
@@ -14354,12 +14354,12 @@ Es posible que los archivos antiguos no se eliminen, ya que están en uso.
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="172"/>
         <source>All resource packs are up-to-date! :)</source>
-        <translation>¡Todos los paquetes de recursos están actualizados! :)</translation>
+        <translation>¡Todos los resource packs están actualizados! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
         <source>All selected resource packs are up-to-date! :)</source>
-        <translation>¡Todos los paquetes de recursos seleccionados están actualizados! :)</translation>
+        <translation>¡Todos los resource packs seleccionados están actualizados! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
@@ -14375,13 +14375,13 @@ Es posible que los archivos antiguos no se eliminen, ya que están en uso.
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="219"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
-        <translation>Está a punto de eliminar los metadatos de %1 paquetes de recursos.
+        <translation>Está a punto de eliminar los metadatos de %1 resource packs.
 ¿Está seguro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
-        <translation>Paquetes de recursos</translation>
+        <translation>Resource Packs</translation>
     </message>
 </context>
 <context>
@@ -15182,7 +15182,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation>Paquetes de shaders</translation>
+        <translation>Shader Packs</translation>
     </message>
 </context>
 <context>
@@ -15805,13 +15805,13 @@ falta inheritsFrom</translation>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>¿Está habilitado el paquete de texturas?</translation>
+        <translation>¿Está habilitado el texture pack?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>El nombre del paquete de texturas.</translation>
+        <translation>El nombre del texture pack.</translation>
     </message>
     <message>
         <source>The version of the texture pack.</source>
@@ -15821,7 +15821,7 @@ falta inheritsFrom</translation>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>La fecha y la hora en la que este paquete de texturas se modificó por última vez (o se creó).</translation>
+        <translation>La fecha y la hora en la que este texture pack se modificó por última vez (o se creó).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
@@ -16058,7 +16058,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation>Ver carpeta de packs de gatos.</translation>
+        <translation>Ver carpeta de dibujos.</translation>
     </message>
     <message>
         <source>Refresh all</source>
