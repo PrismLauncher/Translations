@@ -1920,7 +1920,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation>Crea collegamento dell&apos;istanza</translation>
+        <translation>Crea collegamento all&apos;istanza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
@@ -8461,7 +8461,7 @@ Sei sicuro?</translation>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation>Crea collegamento dell&apos;istanza</translation>
+        <translation>Crea collegamento all&apos;istanza</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
