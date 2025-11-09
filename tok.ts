@@ -1887,7 +1887,7 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="135"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>mi ken ala open e lipu Zip pi poki namako</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="184"/>
