@@ -1716,17 +1716,17 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="140"/>
         <source>Downloading one update file.</source>
-        <translation type="unfinished"></translation>
+        <translation>mi kama jo e lipu wan pi nanpa sin.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="144"/>
         <source>Downloading %1 update files.</source>
-        <translation type="unfinished"></translation>
+        <translation>mi kama jo e lipu %1 pi nanpa sin.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="159"/>
         <source>Failed to download update files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ni li pakala: kama jo pi lipu ni pi nanpa sin: %1</translation>
     </message>
 </context>
 <context>
