@@ -1706,7 +1706,7 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="121"/>
         <source>Processing file lists - figuring out how to install the update...</source>
-        <translation>kama lawa pi lipu ale la - kama jo pi nanpa sin la mi kama sona e nasin...</translation>
+        <translation>kama sona pi ilo lipu la - kama jo pi nanpa sin la mi kama sona e nasin...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="129"/>
@@ -1726,7 +1726,7 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="159"/>
         <source>Failed to download update files: %1</source>
-        <translation>ni li pakala: kama jo pi lipu ni pi nanpa sin: %1</translation>
+        <translation>ni li pali ala: kama jo pi lipu ni pi nanpa sin: %1</translation>
     </message>
 </context>
 <context>
@@ -1887,7 +1887,7 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="135"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>mi ken ala open e lipu Zip pi poki namako</translation>
+        <translation>mi ken ala open e lipu Zip pi poki namako.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="184"/>
