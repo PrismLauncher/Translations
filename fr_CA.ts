@@ -9003,7 +9003,8 @@ Please update %1!</source>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="473"/>
         <source>Could not understand pack index:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de comprendre l&apos;index du pack :
+</translation>
     </message>
 </context>
 <context>
@@ -9011,22 +9012,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="276"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Actuel)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="289"/>
         <source>Fetching changelogs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Récupération des journaux de modifications...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="369"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisir le fichier de mise à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="369"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Pack Modrinth</translation>
+        <translation>Pack Modrinth</translation>
     </message>
 </context>
 <context>
@@ -9034,32 +9035,32 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="58"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Recherche de fichiers...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="79"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de chercher les fichiers</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="95"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Recherche des hachages du fichier...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="156"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Recherche de la version pour les hachages...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="192"/>
         <source>Failed to parse versions response: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;analyse des versions réponse : %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajout des fichiers...</translation>
     </message>
 </context>
 <context>
@@ -9439,42 +9440,42 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
         <source>&amp;Find</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Trouver</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="55"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Descendre tout en bas</translation>
+        <translation>Descendre tout en bas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="58"/>
         <source>&amp;Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="101"/>
         <source>Delete the selected log</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer le log sélectionné</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
         <source>&amp;Delete Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Supprimer le sélectionné</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="111"/>
         <source>Delete all the logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer tous les logs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="114"/>
         <source>Delete &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer &amp;tout</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="125"/>
         <source>Keep updating</source>
-        <translation type="unfinished">Continuer de mettre à jour</translation>
+        <translation>Continuer de mettre à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="135"/>
@@ -9484,7 +9485,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="145"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Lignes de couleur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="168"/>
@@ -9499,27 +9500,27 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="178"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Uploader le log dans le service de copie configuré dans les préférences</translation>
+        <translation>Uploader le log dans le service de copie configuré dans les préférences</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="181"/>
         <source>&amp;Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Uploader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="188"/>
         <source>Reload the contents of the log from the disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Recharger les contenus du journal à partir du disque</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="191"/>
         <source>&amp;Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Recharger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
         <source>Search</source>
-        <translation type="unfinished">Rechercher</translation>
+        <translation>Rechercher</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -9612,12 +9613,12 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="314"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Ne peut pas afficher cette historique car l&apos;historique a passé %1 lignes.</translation>
+        <translation>Impossible d&apos;afficher ce journal car le journal a surpassé %1 lignes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="336"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier (%1) a rencontré une erreur lors de la lecture de : %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="446"/>
@@ -9663,12 +9664,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="47"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="48"/>
@@ -9746,21 +9747,25 @@ Message d&apos;erreur : %3</translation>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="51"/>
         <source>Running Post-Launch command: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécution de la commande post-départ : %1</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="60"/>
         <source>Post-Launch command failed with code %1.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>La commande post-départ à échoué avec le code %1
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="76"/>
         <source>Post-Launch command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>La commande post-départ a été exécutée avec succès.
+
+</translation>
     </message>
 </context>
 <context>
@@ -9768,21 +9773,25 @@ Message d&apos;erreur : %3</translation>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="51"/>
         <source>Running Pre-Launch command: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécution de la commande pré-lancement : %1</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="59"/>
         <source>Pre-Launch command failed with code %1.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>La commande de pré-lancement à échoué avec le code %1.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="75"/>
         <source>Pre-Launch command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>La commande de pré-lancement a été exécutée avec succès.
+
+</translation>
     </message>
 </context>
 <context>
@@ -9790,68 +9799,72 @@ Message d&apos;erreur : %3</translation>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="94"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Recherche de mises à jour...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="144"/>
         <source>Update Check Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>La vérification de mises à jour à échoué</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="124"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du départ après 5 secondes
+Raison : %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>La mise à jour a écoué à se fermer après 60 secondes
+Raison : %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
         <source>No Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune mise à jour disponible</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
         <source>You are running the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous exécutez la dernière version.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
         <source>Update Check Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur de la vérification de mise à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="182"/>
         <source>There was an error running the update check.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il y a eu une erreur lors de l&apos;exécution de la vérification de mise à jour.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="209"/>
         <source>Unknown Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur de mise à jour inconnue</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="210"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Le programme de mise à jour a quitté avec une condition inconnue.
+Code de sortie : %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
         <source>StdOut: %1
 StdErr: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>StdOut: %1
+StdErr: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
         <source>There are no new updates available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il n&apos;y a aucune nouvelle mise à jour disponible.</translation>
     </message>
 </context>
 <context>
@@ -9859,103 +9872,103 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser un chemin différent comme racine d&apos;application (utiliser &apos;.&apos; pour le chemin actuel).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>répertoire</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="107"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser cette version comme la version installée du launcher. (fourni parce que stdout ne peut pas être capturé de manière fiable sur windows)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="108"/>
         <source>installed launcher version</source>
-        <translation type="unfinished"></translation>
+        <translation>version installée du launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="109"/>
         <source>version name</source>
-        <translation type="unfinished"></translation>
+        <translation>nom de la version</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="110"/>
         <source>Update from the specified repo.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour à partir du répertoire spécifié.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="110"/>
         <source>github repo url</source>
-        <translation type="unfinished"></translation>
+        <translation>URL du répertoire GitHub</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="112"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechercher seulement si une mise à jour est nécessaire. Statut de sortie 100 si true, 0 si false (ou pas 0 s&apos;il y a eu une erreur).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="113"/>
         <source>Allow updating to pre-release releases</source>
-        <translation type="unfinished"></translation>
+        <translation>Autoriser la mise à jour vers des releases pre-releases</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="114"/>
         <source>Force an update, even if one is not needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Forcer une mise à jour, même si une n&apos;est pas nécessaire.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="115"/>
         <source>List available releases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lister les releases disponibles.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="116"/>
         <source>Log debug to console.</source>
-        <translation type="unfinished"></translation>
+        <translation>Consigner les informations de débogage dans la console.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="117"/>
         <source>Select the version to install with a GUI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner la version à installer avec une GUI.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="118"/>
         <source>Allow the updater to downgrade to previous versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autoriser le programme de mise à jour à rétrograder vers une version précédente.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="129"/>
         <source>MacOS Not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas supporté sur MacOS</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="129"/>
         <source>The updater does not support installations on MacOS</source>
-        <translation type="unfinished"></translation>
+        <translation>Le programme de mise à jour ne supporte pas les installations sur MacOS</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="136"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="149"/>
         <source>Unsupported Installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Installation non prise en charge</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="137"/>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Le programme de mise à jour exécute une AppImage mal configurée ? (La variable d&apos;environnement $APPIMAGE est manquante)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="149"/>
         <source>The updater can not find the main executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le programme de mise à jour ne peut pas trouver le fichier exécutable principal.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="266"/>
         <source>The launcher data folder is not writable!</source>
-        <translation type="unfinished"></translation>
+        <translation>Le dossier de données du launcher n&apos;est pas accessible pour écriture !</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="267"/>
@@ -9965,119 +9978,126 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le programme de mise à jour n&apos;a pas pu créer une fichier de journal - le dossier de données n&apos;est pas accessible pour l&apos;écriture.
+
+Assurez-vous que vous avez des permissions en écriture dans le dossier de données.
+(%1)
+
+Le programme de mise à jour ne peut pas continuer tant que vous ne fixez pas ce problème.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="477"/>
         <source>Updating flatpack not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>La mise à jour de flatpack n&apos;est pas supportée</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="477"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les actions à part de vérifier si une mise à jour est disponible ne sont pas supportée lors de l&apos;exécution de la version flatpack de Prism Launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="534"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="987"/>
         <source>Reading manifest from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lecture du manifest à partir de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="546"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Les manifest est vide, tentative de deviner le contenu du répertoire de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="552"/>
         <source>Installing the following to %1 :
  %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Installation du suivant à %1 :
+ %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="556"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="563"/>
         <source>Installing from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Installation à partir de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="568"/>
         <source>Installing %1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Installation de %1 à partir de %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="572"/>
         <source>Failed copy %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la copie de %1 vers %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="587"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1062"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier n&apos;existe pas, on ignore : %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="600"/>
         <source>There were errors installing the update.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il y a eu des erreur lors de l&apos;installation de la mise à jour.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="604"/>
         <source>Update succeed.</source>
-        <translation type="unfinished"></translation>
+        <translation>La mise à jour a réussi.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="765"/>
         <source>No Valid Release Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas d&apos;assets de release valide</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Le release Github %1 n&apos;a pas d&apos;assets valide pour cette plateforme : %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"/>
         <source>%1 portable: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 portable: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>oui</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>non</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="776"/>
         <source>No version selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune version sélectionnée.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="776"/>
         <source>No version was selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune version n&apos;a été sélectionnée.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="783"/>
         <source>Failed to Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du téléchargement</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="783"/>
         <source>Failed to download the selected asset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du téléchargement de l&apos;asset sélectionné.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="885"/>
         <source>Update already in progress
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour déjà en progrès
+</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="887"/>
@@ -10093,138 +10113,151 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette installation a un fichier de verrouillage de mise à jour présent à : %1
+
+Horodatage : %2
+Mise à jour à partir de la version %3 vers %4
+Chemin d&apos;installation cible : %5
+Chemin de données : %6
+Ceci veut probablement dire qu&apos;une tentative de mise à jour précédente à écoué. Veuillez vous assurer que votre installation est en état de fonctionner avant de procéder.
+Vérifiez le journal du programme de mise à jour de Prism Launcher à : 
+%7
+pour des détails au sujet de la dernière tentative de mise à jour.
+
+Pour écraser ce verrouillage et procéder avec la mise à jour quand même, sélectionnez &quot;Ignorer&quot; ci-dessous.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="917"/>
         <source>Update Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour abordée</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="917"/>
         <source>The update attempt was aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>La tentative de mise à jour à été abortée</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="925"/>
         <source>Updating from %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour à partir de %1 vers %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="928"/>
         <source>Updating portable install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour de l&apos;installation portable à %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="931"/>
         <source>Running installer file at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécution du fichier de l&apos;installeur à %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"/>
         <source>Process start result: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Résultat du démarrage du processus : %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="947"/>
         <source>Backing up install</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegarde de l&apos;installation actuelle</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="968"/>
         <source>Starting new updater at &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrage du nouveau programme de mise à jour à &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="970"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du lancement de &apos;%1&apos; %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
         <source>Backing up:
   %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegarde de :
+  %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1030"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1037"/>
         <source>Backing up install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegarde de l&apos;installation à %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1042"/>
         <source>Backing up and then removing %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegarde et ensuite suppression de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1046"/>
         <source>Failed to backup %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la sauvegarde de %1 à %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1049"/>
         <source>Failed to remove %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la suppression de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1084"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Les suivants ont été extrait à &quot;%1&quot; :
+  %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1086"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1088"/>
         <source>Failed to extract %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;extraction de %1 à %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1095"/>
         <source>Running: `%1 %2`</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécution de : `%1 %2`</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Échec du lancement du processus enfant &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1101"/>
         <source>Failed extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;extraction de l&apos;archive</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1108"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le processus enfant &quot;%1 %2&quot; à échoué.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1110"/>
         <source>Failed to extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;extraction de l&apos;archive</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1115"/>
         <source>Unknown archive format for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Format d&apos;archive inconnu pour %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1130"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1134"/>
         <source>Failed to Check Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la vérification de la version</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1130"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du lancement du processus pour lire la version.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1134"/>
         <source>Child launcher process failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le processus de lancement enfant a échoué.</translation>
     </message>
 </context>
 <context>
@@ -10232,28 +10265,28 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="14"/>
         <source>Select an Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner un compte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"/>
         <source>Select a profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner un profil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
         <source>Use as default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser par défaut ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
         <source>Use as default for this instance only?</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser par défaut pour cette instance seulement ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="40"/>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="42"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="49"/>
@@ -10367,7 +10400,7 @@ Statut HTTP : %2</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="85"/>
         <source>%1 [installed]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [installé]</translation>
     </message>
 </context>
 <context>
@@ -10395,7 +10428,7 @@ Statut HTTP : %2</translation>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
         <source>Use s&amp;ystem settings</source>
         <oldsource>Use S&amp;ystem Settings</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser les paramètres s&amp;ystèmes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
@@ -10511,119 +10544,119 @@ Statut HTTP : %2</translation>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;&apos;uid&apos; du composant contient des caractères illégaux ! Ceci peut causer des problèmes de sécurité.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="191"/>
         <source>Version file has both &apos;+libraries&apos; and &apos;libraries&apos;. This is no longer supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier de version contient à la fois &apos;+librairies&apos; et &apos;librairies&apos;. Ceci n&apos;est plus supporté.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="236"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;URL pour le jar principal n&apos;a pas pu être déterminée - Mojang à enlevé le serveur que nous utilisons comme solution de secours.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="269"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier de version contient l&apos;élément non supporté &apos;tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="272"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier de version contient l&apos;élément non supporté &apos;-libraries&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="275"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier de version contient l&apos;élément non supporté &apos;-tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="278"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier de version contient l&apos;élément non supporté &apos;-minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="281"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier de version contient l&apos;élément non supporté &apos;+minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="312"/>
         <source>Assets for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Assets pour %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le patch n&apos;est pas encore chargé.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="361"/>
         <source>No profile (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de profil (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="371"/>
         <source>&lt;Offline&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Hors ligne&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation type="unfinished"></translation>
+        <translation>La valeur &apos;minimumLauncherVersion&apos; de cette version (%1) est plus haute que supportée par %3 (%2). Ça pourrait ne pas marcher comme il faut !</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="299"/>
         <source>Library %1 name is broken and cannot be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nom de la librairie %1 est brisé et ne peut pas être procédé.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier de composants %1 n&apos;existe pas. Ceci ne devrait jamais arriver.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;ouverture de %1 pour la lecture : %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;analyser %1 comme json : %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
         <source>Invalid component file version, expected %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichier de version de composant invalide, attendu %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;analyse de %1 : mauvais format de fichier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="377"/>
         <source>The specified file either doesn&apos;t exist or is not a proper executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier spécifié n&apos;existe pas ou n&apos;est pas un fichier exécutable valide.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="381"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier binaire Java spécifié n&apos;a pas démarré proprement.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="391"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier binaire Java spécifié a retourné des résultats inattendus :&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Test de Java réussi !&lt;br /&gt;Plateforme reportée : %1&lt;br /&gt;Version Java reportée : %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="91"/>
@@ -10631,43 +10664,43 @@ Statut HTTP : %2</translation>
         <location filename="src/launcher/JavaCommon.cpp" line="107"/>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
         <source>Java test failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Test de Java échoué</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
         <source>Java test success</source>
-        <translation type="unfinished"></translation>
+        <translation>Test de Java réussi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="65"/>
         <source>Minecraft Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveur Minecraft</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Site Internet</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Développeurs de %1</translation>
     </message>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation type="unfinished"></translation>
+        <translation>Avec des remerciements à</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (en utilisation)</translation>
+        <translation>%1 (en utilisation)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="98"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer l&apos;upload</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="99"/>
@@ -10675,12 +10708,15 @@ Statut HTTP : %2</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous êtes sur le point d&apos;uploader &quot;%1&quot; vers %2.
+Vous devriez doublement vérifier pour des informations personnelles.
+
+Êtes-vous certains ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="111"/>
         <source>Confirm Truncation</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer la troncature</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="112"/>
@@ -10690,135 +10726,140 @@ The launcher can keep the first %3 and last %4 lines, trimming the middle.
 If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
 
 Proceed with truncation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Le journal a %1 lignes, excédant la limite de mclo.gs de %2.
+Le launcher peut garder les premières %3 et les dernières %4 lignes, effaçant de milieu.
+
+Si vous choissisez &apos;Non&apos;, mclo.gs va seulement garder les premières %2 lignes, enlevant des informations potentiellement importantes comme les informations sur le crash à la fin.
+
+Procéder avec l&apos;effacement ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
         <source>Failed to upload logs!</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;upload des logs !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
         <source>Logs upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Upload des logs annulé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>La tâche à été terminée par l&apos;utilisateur.</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;upload a échoué</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
         <source>Upload finished</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;upload est terminé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="159"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le &lt;a href=&quot;%1&quot;&gt;lien vers le log uploadé&lt;/a&gt; à été placé dans votre presse-papiers.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>Clair</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="81"/>
         <source>Windows Vista</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Vista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="83"/>
         <source>Windows 9x</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
         <source>Windows 11</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 11</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Système</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="96"/>
         <source>Widget style trying to look like your win32 theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Style du widget essayant de ressembler à votre thème win32</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="98"/>
         <source>Windows 9x inspired widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Style de widget inspiré Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="100"/>
         <source>WinUI 3 inspired Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Style de Qt widget inspiré WinUI 3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="102"/>
         <source>The default Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Style de Qt widget par défaut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="104"/>
         <source>Your current system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Votre thème système actuel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="47"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombre</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="34"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1min %2s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1h %2min</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="39"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1j %2h %3min</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="76"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>jours</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="81"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="86"/>
         <source>m</source>
-        <translation type="unfinished"></translation>
+        <translation>m</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="91"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="96"/>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>ms</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="48"/>
@@ -10828,61 +10869,64 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Vous avez essayé de manuellement paramétrer une option de mémoire JVM (utilisant &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; or &quot;-Xms&quot;).
+Il y a des boîtes dédiées pour ceux-ci dans les paramètres (onglet Java, dans le groupe Mémoire en haut).
+Ce message sera affiché jusqu&apos;à ce que vous les enleviez des arguments JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="53"/>
         <location filename="src/launcher/JavaCommon.cpp" line="62"/>
         <source>JVM arguments warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertissement d&apos;arguments JVM</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="58"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous avez essayé de passer l&apos;argument de la versions Java requise dans la JVM (utilisant &quot;-versions:xxx&quot;). Ceci n&apos;est pas sécuritaire et ne sera pas autorisé.
+Ce message sera affiché jusqu&apos;à ce que vous enleviez ceci des arguments JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="71"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Test Java réussi !&lt;br /&gt;Plateforme reportée : %1&lt;br /&gt;Version Java reportée : %2&lt;br /&gt;Vendeur Java reporté : %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <source>&lt;br /&gt;Warnings:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br /&gt;Avertissements :&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Le binaire Java spécifié n&apos;a pas fonctionné avec les arguments que vous avez fourni :&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Le binaire Java n&apos;a pas fonctionné.&lt;br /&gt;Vous devriez appuyer sur &apos;Détecter&apos;, ou paramétrer le chemin vers le Java exécutable.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Le binaire Java spécifié n&apos;a pas fonctionné.&lt;br /&gt;Vous devriez utiliser la fonction d&apos;auto-détection, ou paramétrer le chemin vers le Java exécutable.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">La librairie Java checker n&apos;a pas pu être trouvée. Veuillez vérifier votre installation.</translation>
+        <translation>La librairie Java checker n&apos;a pas pu être trouvée. Veuillez vérifier votre installation.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="58"/>
         <source>No author(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas d&apos;auteur(s)</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
         <source>Change instance name</source>
-        <translation type="unfinished"></translation>
+        <translation>Changer le nom de l&apos;instance</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="13"/>
@@ -10890,12 +10934,15 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nom de l&apos;instance semble inclure l&apos;ancienne version. Voudriez-vous le mettre à jour ?
+
+Ancien nom : %1
+Nouveau nom : %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Un modpack similaire a été trouvé !</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="32"/>
