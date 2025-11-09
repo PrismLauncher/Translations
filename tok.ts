@@ -1706,7 +1706,7 @@ o alasa sin.</translation>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="121"/>
         <source>Processing file lists - figuring out how to install the update...</source>
-        <translation type="unfinished"></translation>
+        <translation>kama lawa pi lipu ale la - kama jo pi nanpa sin la mi kama sona e nasin...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="129"/>
