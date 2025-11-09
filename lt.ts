@@ -8842,13 +8842,16 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Įspėjimas: šis išteklius yra susietas simboline nuoroda iš kitos vietos. Redaguojant jį, bus pakeistas ir originalas.
+Kanoninis kelias: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="127"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Įspėjimas: šis išteklius yra susietas kitoje vietoje naudojant kietąją nuorodą. Redaguojant jį, bus pakeistas ir originalas.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
@@ -9161,7 +9164,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="238"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">„%1“ yra naujausias! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="71"/>
@@ -12313,13 +12316,16 @@ The author likely blocked third-party launchers.</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Įspėjimas: šis išteklius yra susietas simboline nuoroda iš kitos vietos. Redaguojant jį, bus pakeistas ir originalas.
+Kanoninis kelias: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="511"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Įspėjimas: šis išteklius yra susietas kitoje vietoje naudojant kietąją nuorodą. Redaguojant jį, bus pakeistas ir originalas.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
@@ -12440,13 +12446,16 @@ Are you sure you want to do this?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Įspėjimas: šis išteklius yra susietas simboline nuoroda iš kitos vietos. Redaguojant jį, bus pakeistas ir originalas.
+Kanoninis kelias: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="119"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Įspėjimas: šis išteklius yra susietas kitoje vietoje naudojant kietąją nuorodą. Redaguojant jį, bus pakeistas ir originalas.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
@@ -12501,7 +12510,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Atsisiųsti paketus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
@@ -12577,7 +12586,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">„%1“ yra naujausias! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="172"/>
@@ -13244,7 +13253,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Atsisiųsti paketus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
@@ -13320,7 +13329,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="166"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">„%1“ yra naujausias! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"/>
@@ -13912,13 +13921,16 @@ inheritsFrom is missing</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Įspėjimas: šis išteklius yra susietas simboline nuoroda iš kitos vietos. Redaguojant jį, bus pakeistas ir originalas.
+Kanoninis kelias: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="90"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Įspėjimas: šis išteklius yra susietas kitoje vietoje naudojant kietąją nuorodą. Redaguojant jį, bus pakeistas ir originalas.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
@@ -13959,7 +13971,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Atsisiųsti paketus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
@@ -14040,7 +14052,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="174"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">„%1“ yra naujausias! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="177"/>

@@ -3400,12 +3400,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="447"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (Actuel)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="511"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisir le fichier de mise à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="511"/>
@@ -3418,22 +3418,22 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="50"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Recherche de fichiers...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="71"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Impossible de chercher les fichiers</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="85"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Recherche des hachages du fichier...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="167"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Recherche de la version pour les hachages...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="218"/>
@@ -3449,7 +3449,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="318"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ajout des fichiers...</translation>
     </message>
 </context>
 <context>
@@ -5497,7 +5497,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">h</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
@@ -5667,7 +5667,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">s</translation>
     </message>
     <message>
         <source>Number of manual retries</source>
@@ -6173,7 +6173,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="67"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lignes de couleur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="90"/>
@@ -8792,7 +8792,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Recherche de mises à jour...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
@@ -11429,7 +11429,7 @@ Message d&apos;erreur : %3</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>%1 Developers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Développeurs de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
@@ -12219,7 +12219,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="122"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Recherche de mises à jour...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="168"/>
@@ -12462,7 +12462,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="461"/>
         <source>Upload finished</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L&apos;upload est terminé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="393"/>
