@@ -13508,17 +13508,17 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>%1 Developers</source>
-        <translation type="unfinished">%1 개발자</translation>
+        <translation>%1 개발자</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>MultiMC Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>MultiMC 개발자</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="56"/>
         <source>With special thanks to</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 사람들에게 고마움을 표하며</translation>
     </message>
 </context>
 <context>
