@@ -279,7 +279,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="823"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Виявлено заблоковані моди</translation>
+        <translation>Виявлено забльоковані моди</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
@@ -949,7 +949,7 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished">Ця інсталяція має файл блокування оновлення за адресою: %1
+        <translation>Ця інсталяція має файл бльокування оновлення за адресою: %1
 
 Мітка часу: %2
 Оновлення з версії %3 до %4
@@ -6395,7 +6395,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="374"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>Коли увімкнено, на додачу до теки завантаження, її підтеки також буть включені при пошуку ресурсів (наприклад, при пошуку заблокованих модів на CurseForge).</translation>
+        <translation>Коли ввімкнено, на додачу до теки завантаження, її підтеки також буть включені при пошуку ресурсів (наприклад, при пошуку забльокованих модів на CurseForge).</translation>
     </message>
     <message>
         <source>Check downloads folder recursively</source>
@@ -7571,7 +7571,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation>Відкрити блоґ розробки, щоби прочитати більше новин про %1.</translation>
+        <translation>Відкрити бльоґ розробки, щоби прочитати більше новин про %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
@@ -8298,7 +8298,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="981"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>Збірка, мод, чи ресурс %1 заблоковано для третіх-сторон! Будь-ласка завантажте його вручну.</translation>
+        <translation>Збірка, мод, чи ресурс %1 забльоковано для третіх сторон! Будь-ласка завантажте його вручну.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1015"/>
@@ -13725,7 +13725,7 @@ Please update %1!</source>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
         <translation>Немає доступних версій для &apos;%1&apos;.
-Автор, ймовірно, заблокував сторонні лаунчери.</translation>
+Автор, ймовірно, заблиокував сторонні запускачі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="540"/>
