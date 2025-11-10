@@ -4860,7 +4860,7 @@ Please make sure that the maximum memory value is lower.</source>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">Вы выбралі 32-разрадную версію Java.
+        <translation>Вы выбралі 32-разрадную версію Java.
 Гэтая ўстаноўка не падтрымлівае больш за 2048 Мбайт аператыўнай памяці.
 Пераканайцеся, што максімальнае значэнне памяці меншае.</translation>
     </message>
@@ -4920,7 +4920,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="unfinished">Спампаваць Java</translation>
+        <translation>Спампаваць Java</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
@@ -5119,11 +5119,11 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">Аўтаматычная загрузка Mojang Java</translation>
+        <translation>пампаванне Mojang</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="unfinished">Аўтавызначэнне версіі Java</translation>
+        <translation>Аўтавызначэнне версіі Java</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
@@ -13764,7 +13764,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation type="unfinished">папку</translation>
+        <translation>папку</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
