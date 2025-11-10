@@ -1806,7 +1806,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
         <source>Cancel</source>
-        <translation>Адхіліць</translation>
+        <translation>Скасаваць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
@@ -2878,7 +2878,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="166"/>
         <source>Try to check or update all selected resources (all resources if none are selected).</source>
-        <translation>Паспрабуйце праверыць або абнавіць усе выбраныя рэсурсы (усе рэсурсы, калі ніводны не выбраны)</translation>
+        <translation>Паспрабуйце праверыць або абнавіць усе абраныя рэсурсы (усе рэсурсы, калі ніводны не абраны)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
