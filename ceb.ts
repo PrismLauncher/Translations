@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Pagtimaan: basin nga gusto nimo mailisdan o malimpyo ang Sukaranang URL human mailisdi ang matang sa serbisyo sa pag-paste.</translation>
+        <translation>Pagtimaan: basin nga gusto nimo mailisdan kun malimpyo ang Sukaranang URL human mailisdi ang matang sa serbisyo sa pag-paste.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
@@ -44,7 +44,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>Mahimo nimong matakda kini sa lahing magsisilbi kung nakabati ka og suliran sa pagkarganug og mga kabtangan.</translation>
+        <translation>Mahimo nimong matakda kini sa lahing magsisilbi kon nakabati ka og suliran sa pagkarganug og mga kabtangan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -84,7 +84,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Pahibalo: Dili na nimo kinahanglan i-set kini kung mugana na ang pag-login gamit ang Microsoft Authenthication.</translation>
+        <translation>Pahibalo: Dili na kinahanglanong matakada nimo kini kon mugana na ang pag-login gamit ang Microsoft Authenthication.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -114,7 +114,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pahibalo: I-set lang kini kung gusto nimo maka-acess sa pribadong data&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pahibalo: Takdaon lamang kini kon gusto nimo makaagi sa pribadong lawsayod&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
@@ -147,7 +147,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Pwede nimo kini i-set ngadto sa third-party metadata server aron magamit ang patched libraries o ubang mga hack.</translation>
+        <translation>Mahimo nimo kini matakda ngadto sa ikatulong-bangaw nga magsisilbi sa han-ayng lawsayod aron magamit ang mga patched library kun ubang mga hack.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -165,7 +165,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Pahibalo: Dili na nimo kinahanglan i-set kini kung nagtrabaho na ang CurseForge.</translation>
+        <translation>Pahibalo: Dili na nimo kinahanglan matakda kini kon mugana na ang CurseForge.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -437,7 +437,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>Matang sa akawnt (MSA o Diskonekta)</translation>
+        <translation>Matang sa akawnt (MSA kun Binugto)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="343"/>
@@ -559,7 +559,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Kinahanglan nimo magdugang og Microsoft account nga nag-iya og Minecraft ayha ka makadugang og bugtong nga akawnt.&lt;br&gt;&lt;br&gt;Pagduol alang sa paggabay sa Microsoft kung nawala ang imong akawnt.</translation>
+        <translation>Kinahanglan nimo magdugang og Microsoft account nga nag-iya og Minecraft ayha ka makadugang og bugtong nga akawnt.&lt;br&gt;&lt;br&gt;Pagduol alang sa paggabay sa Microsoft kon nawala ang imong akawnt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -1671,7 +1671,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation>Pagtimaan: kung nabalhin ang laktoranan human sa iyang paghimo, dili kini mauban sa pagpanas sa pananglitan.</translation>
+        <translation>Pagtimaan: kon nabalhin ang laktoranan human sa iyang pagkahimo, dili kini mauban sa pagpanas sa pananglitan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
@@ -1775,7 +1775,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Modagan ang ayha-malansad nga sugo ayha malansad ang pananglitan ug ang human-matak-op nga sugo sa paghumag motak-op kini.&lt;/p&gt;&lt;p&gt;Modagan kining duha sulod sa limbasan sa pagbuhat sa tiglansad nga adunayng mga pakapin nga bili sa kalikopan:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Ngalan sa pananglitan&lt;/li&gt;&lt;li&gt;$INST_ID - ID sa pananglitan (ngalan sa iyang limbasan)&lt;/li&gt;&lt;li&gt;$INST_DIR - tinod-anong dalan sa pananglitan&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - tinod-anong dalan sa Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Ginamit nga Java binary sa paglansad&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - mga inusarang badlisang sugong lantugi nga gamit sa paglansad (abiso: dili mogana kung adunay lakip nga mga espasyo ang mga lantugi)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Mahimo nga malansad sulod sa pakapin nga pamutos nga programa gamit ang pamutos nga sugo (sama sa &apos;optirun&apos; sa Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Modagan ang ayha-malansad nga sugo ayha malansad ang pananglitan ug ang human-matak-op nga sugo sa paghumag motak-op kini.&lt;/p&gt;&lt;p&gt;Modagan kining duha sulod sa limbasan sa pagbuhat sa tiglansad nga adunayng mga pakapin nga bili sa kalikopan:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Ngalan sa pananglitan&lt;/li&gt;&lt;li&gt;$INST_ID - ID sa pananglitan (ngalan sa iyang limbasan)&lt;/li&gt;&lt;li&gt;$INST_DIR - tinod-anong dalan sa pananglitan&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - tinod-anong dalan sa Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Ginamit nga Java binary sa paglansad&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - mga inusarang badlisang sugong lantugi nga gamit sa paglansad (abiso: dili mogana kon adunay lakip nga mga espasyo ang mga lantugi)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Mahimo nga malansad sulod sa pakapin nga pamutos nga programa gamit ang pamutos nga sugo (sama sa &apos;optirun&apos; sa Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2127,7 +2127,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>Nagsusi kung naa bay han-ayng lawsayod ang mga kausaban...</translation>
+        <translation>Nagsusi kon naa bay han-ayng lawsayod ang mga kausaban...</translation>
     </message>
 </context>
 <context>
@@ -3002,7 +3002,7 @@ Palihug sa pagsulay pag-usab.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Pagtimaan: kung wala ang imong FTB nga mga pananglitan sa sinugdanang dapit, pagpili gamit ang tuplokanan tapad sa pagpangita.</translation>
+        <translation>Pagtimaan: kon wala ang imong FTB nga mga pananglitan sa sinugdanang dapit, pagpili gamit ang tuplokanan tapad sa pagpangita.</translation>
     </message>
 </context>
 <context>
@@ -3546,7 +3546,7 @@ Palihug sa pagsulay pag-usab.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation>- mga giambit nga pananglitan sa Prism Launcher, PolyMC, o MultiMC (ZIP)</translation>
+        <translation>- mga giambit nga pananglitan sa Prism Launcher, PolyMC, kun MultiMC (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -3868,7 +3868,7 @@ Palihug sa pagsulay pag-usab.</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Kung gipagana, dili susihon sa tiglansad kung mobagay ang pananglitan sa piniling hubad sa Java.</translation>
+        <translation>Kon gipagana, dili susihon sa tiglansad kon mobagay ang pananglitan sa piniling hubad sa Java.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
@@ -4488,7 +4488,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Kung gipagana, dili susihon sa tiglansad kung mobagay ang pananglitan sa piniling hubad sa Java.</translation>
+        <translation>Kon gipagana, dili susihon sa tiglansad kon mobagay ang pananglitan sa piniling hubad sa Java.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
@@ -4589,7 +4589,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Wala ka mopili og hubad sa Java o nipili sa wala mogana.
+        <translation>Wala ka mopili og hubad sa Java kun nipili sa wala mogana.
 Dili masugdan sa %1 ang Minecraft.
 Gusto nimo ipadayon nga walay moganang hubad sa Java?
 
@@ -4858,7 +4858,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Wala ka mopili og hubad sa Java o nipili sa wala mogana.
+        <translation>Wala ka mopili og hubad sa Java kun nipili sa wala mogana.
 Dili masugdan sa %1 ang Minecraft.
 Gusto nimo ipadayon nga walay moganang hubad sa Java?
 
@@ -5533,7 +5533,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation>Pagtipig sa kasayoran sa hubad nga gihatag sa mga tighatag sa kausaban (sama sa Modrinth o CurseForge) alang sa mga kausaban.</translation>
+        <translation>Pagtipig sa kasayoran sa hubad nga gihatag sa mga tighatag sa kausaban (sama sa Modrinth kun CurseForge) alang sa mga kausaban.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
@@ -9088,7 +9088,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>Dili magamit sa dulang LAN o mga paaging-bugtong nga magsisilbi ang mga ngalan sa tiggamit nga molapas sa 16 ka titik.</translation>
+        <translation>Dili magamit sa dulang LAN kun mga paaging-bugtong nga magsisilbi ang mga ngalan sa tiggamit nga molapas sa 16 ka titik.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
@@ -10544,7 +10544,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation>Nagsulay ka sa mano-manong pagtakda sa kapilian sa memorya sa JVM (gamit ang &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; o &quot;-Xms&quot;).
+        <translation>Nagsulay ka sa mano-manong pagtakda sa kapilian sa memorya sa JVM (gamit ang &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; kun &quot;-Xms&quot;).
 Anaay mga halarang butnganan ani sulod sa mga himutangan (Kawil sa Java, sa ibabaw sulod sa pundok sa Memorya).
 Mopakita kining pasayod hangtod nga matangtang nimo sila sa mga lantugi sa JVM.</translation>
     </message>
@@ -13396,7 +13396,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation>Pag-adto sa mga himutangan sa Java sa pananglitan aron malisdan ang hubad sa Java nimo o mahunong ang pagsulay sa pagkabagay sa Java kung nahibalo ka sa imong gibuhat.</translation>
+        <translation>Pag-adto sa mga himutangan sa Java sa pananglitan aron malisdan ang hubad sa Java nimo kun mahunong ang pagsulay sa pagkabagay sa Java kon nahibalo ka sa imong gibuhat.</translation>
     </message>
 </context>
 <context>
@@ -13718,7 +13718,7 @@ Are you sure?</source>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation>Dili makarganug ang Minecraft o mapasibo ang mga pananglitan gawas kung aduna kay bisag usa ka akawnt nga gidugang.
+        <translation>Dili makarganug ang Minecraft kun mapasibo ang mga pananglitan gawas kon aduna kay bisag usa ka akawnt nga gidugang.
 Palihug pagdugang og Microsoft nga akawnt.</translation>
     </message>
     <message>
@@ -14108,7 +14108,7 @@ Canonical Path: %1</source>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="336"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation>Wala kay MCEdit nga naandom o nablihin tuod to.
+        <translation>Wala kay MCEdit nga naandam kun basin nabalhin to.
 Mahimong maandom ni nimo sulod sa tiningob nga mga himutangan.</translation>
     </message>
     <message>
