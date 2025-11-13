@@ -44,12 +44,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">यदि आपको एसेट्स डाउनलोड करने में समस्या हो रही है तो आप इसे किसी अन्य सर्वर पर सेट कर सकते हैं।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>&amp;API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;API कुंजियाँ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="205"/>
@@ -70,7 +70,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="318"/>
         <source>&amp;CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="373"/>
