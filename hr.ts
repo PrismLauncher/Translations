@@ -39,12 +39,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Server imovine</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mozete ovo postaviti na drugi server ako imate problema sa preuzimanjem datoteka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -778,7 +778,7 @@ Molim te ažuriraj i svoj operacijski sustav i %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished">Pogledaj cat pack folder.</translation>
+        <translation>Pogledaj cat pack folder.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
@@ -790,7 +790,7 @@ Molim te ažuriraj i svoj operacijski sustav i %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogledaj widget teme mapu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
@@ -1067,7 +1067,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished">Dohvaćanje datoteka sredstava od %1...</translation>
+        <translation>Dohvaćanje datoteka imovine od %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1284,12 +1284,12 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished">Nije pronađena kompatibilna Java verzija. Koristit će se default verzija.</translation>
+        <translation>Nije pronađena kompatibilna Java verzija. Koristit će se zadana verzija.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished">Vaš sustav (%1-%2) nije kompatibilan s automatskom Java instalacijom. Koristit će se default Java putanja.</translation>
+        <translation>Vaš sistem (%1-%2) nije kompatibilan s automatskom Java instalacijom. Koristit će se zadana Java putanja.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
