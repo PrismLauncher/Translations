@@ -8000,12 +8000,12 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1637"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har nå to muligheter: &lt;br/&gt; - Endre instans mappen i instillingene dine &lt;br/&gt; - flytt installasjonen av %1 til en annen mappe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Det har oppstått et problem: &lt;br/&gt; - Programmet vil sannsynligvis bli slettet uten advarsel av operativsystemet &lt;br/&gt; - lukk programmet nå og lagre det i en ekte plass, ikke midlertidig mappe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
@@ -8188,7 +8188,7 @@ Den kan bare oppdateres med en fil i %1-formatet
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="333"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instansen klarte ikke oppdatere til pakke versjon %1. Vennligst sjekk konsoll loggen for mer informasjon.</translation>
     </message>
 </context>
 <context>
@@ -8453,7 +8453,7 @@ Den kan bare oppdateres med en fil i %1-formatet
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Registrer spilletid brukt på instanser</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -8462,7 +8462,7 @@ Den kan bare oppdateres med en fil i %1-formatet
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Programmet vil automatisk åpne opp når spillet krasjer eller lukkes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
@@ -8477,7 +8477,7 @@ Den kan bare oppdateres med en fil i %1-formatet
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Forlat startprogrammet etter spill-vinduet lukkes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
