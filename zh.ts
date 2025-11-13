@@ -7436,7 +7436,7 @@ Reason:
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="199"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="204"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>打开 %1 或扫描二维码，如有必要，输入上方代码。</translation>
     </message>

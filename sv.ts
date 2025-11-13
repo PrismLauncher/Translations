@@ -7370,7 +7370,7 @@ Anledning:
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="199"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="204"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>Öppna %1 eller skanna QR:en och ange koden ovan om det behövs.</translation>
     </message>

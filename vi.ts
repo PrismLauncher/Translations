@@ -7232,7 +7232,7 @@ Lý do:
         <translation>Huỷ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="199"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="204"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>Mở %1 hoặc quét mã QR và nhập code tại trên nếu cần thiết.</translation>
     </message>

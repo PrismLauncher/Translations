@@ -7086,7 +7086,7 @@ Motiu:
         <translation type="unfinished">Cancel·lar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="199"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="204"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>Obre %1 o escaneja el QR i introdueix el codi si escau.</translation>
     </message>
