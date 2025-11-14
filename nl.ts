@@ -4285,7 +4285,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="140"/>
         <source>Report issues to: </source>
-        <translation>Reporteer problemen naar: </translation>
+        <translation>Rapporteer problemen naar: </translation>
     </message>
 </context>
 <context>
@@ -7874,7 +7874,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation>Reporteer een Bug of Stel een Functie voor</translation>
+        <translation>Een bug rapporteren of een functie voorstellen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="627"/>
