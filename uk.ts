@@ -3441,7 +3441,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="63"/>
         <source>Select FTBApp instances directory</source>
-        <translation>Виберіть шлях установлення збірок FTBApp</translation>
+        <translation>Виберіть шлях встановлених збірок FTBApp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
@@ -3487,7 +3487,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="256"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Розбір відповіди Ядра (API) від КерсФордж (CurseForge) для ‘%1’…</translation>
+        <translation>Обробка відповіді Ядра (API) від КерсФордж (CurseForge) для ‘%1’…</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -3514,7 +3514,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Розбір відповіди Ядра (API) від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
+        <translation>Виконується обробка відповіді Ядра (API) від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="100"/>
@@ -3529,7 +3529,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="180"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Розбір відповіди Ядра (API) від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
+        <translation>Виконується обробка відповіді Ядра (API) від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="184"/>
@@ -3644,12 +3644,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="397"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation>Таємничі кінцеві точки видалені з версії Minecraft під час імпортування пакунку.</translation>
+        <translation>Вилучено таємничі крапки в кінці версії Minecraft під час імпортування пакунка.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation>Рекомендована пам&apos;ять пакунку модифікацій перевищує 90% вашої системної оперативної пам&apos;яти — зменшуючи її з %1 МіБ до %2 МіБ!</translation>
+        <translation>Рекомендована пам&apos;ять збірки модів перевищує 90% системної оперативної пам&apos;яти (ОЗП) — її буде зменшено з %1 МіБ до %2 МіБ!</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -3665,7 +3665,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="546"/>
         <source>Blocked mods found</source>
-        <translation>Знайдено забльоковані моди</translation>
+        <translation>Виявлено заблоковані моди</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="547"/>
@@ -3686,12 +3686,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="613"/>
         <source>Copying Blocked Mods...</source>
-        <translation>Копіювання Забльокованих Модів...</translation>
+        <translation>Копіювання заблокованих модів...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="628"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>Копіювання Забльокованих Модів (%1 з %2 виконано)</translation>
+        <translation>Копіювання заблокованих модів (%1 з %2 виконано)</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -3720,7 +3720,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="410"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Хей!&lt;/h1&gt;&lt;h4&gt;Схоже, що твій ID Пакунку пустий. Це сталося через помилку в старших версіях запускача.&lt;br/&gt;Нажаль, ми не можемо зробити правильні запити до Ядра (API) без цієї інформації.&lt;br/&gt;&lt;br/&gt;Тож, щоби ця функція працювала правильно, треба перезавантажити збірку з убудованого завантажувача.&lt;br/&gt;&lt;br/&gt;Але не хвилюйтеся, вас попросять оновити цю збірку, тому ви не втратите її!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Привіт!&lt;/h1&gt;&lt;h4&gt;Схоже, що ID вашого Пакунка пустий. Це сталося через помилку в старших версіях запускача.&lt;br/&gt;Нажаль, ми не можемо зробити правильні запити до Ядра (API) без цієї інформації.&lt;br/&gt;&lt;br/&gt;Тож, щоби ця функція працювала правильно, треба перезавантажити збірку з вбудованого завантажувача.&lt;br/&gt;&lt;br/&gt;Але не хвилюйтеся, вас попросять оновити цю збірку, тому ви не втратите її!!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="450"/>
@@ -3852,7 +3852,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Примітка: КерсФордж (CurseForge) дозволяє творцям бльокувати доступ до сторонніх інструментів, таких як Prism Launcher. Таким чином, вам може знадобитися вручну завантажити деякі моди, щоби мати можливість установити збірку.</translation>
+        <translation>Примітка: КерсФордж (CurseForge) дозволяє авторам блокувати доступ стороннім інструментам, як-от Prism Launcher. Тому, можливо, вам доведеться вручну завантажити деякі моди, щоб мати можливість встановити модпак.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -4068,12 +4068,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="12"/>
         <source>Getting skin.</source>
-        <translation>Отримання скину.</translation>
+        <translation>Отримання скіну.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="35"/>
         <source>Got skin</source>
-        <translation>Скин успішно отримано</translation>
+        <translation>Скін успішно отримано</translation>
     </message>
 </context>
 <context>
@@ -4219,12 +4219,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>Збірка %1 забльокована для третіх осіб! Будь ласка, завантажте її вручну.</translation>
+        <translation>бірка %1 заблокована для сторонніх застосунків! Будь ласка, завантажте її вручну.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation>Цей покликання не є дійсним пакунком модифікацій!</translation>
+        <translation>Це посилання не є дійсною збіркою модів!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
@@ -4257,17 +4257,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation>Виберіть збірку, в котру ви хочете імортувати</translation>
+        <translation>Виберіть збірку для імпорту</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>Виберіть збірку в котру ви хочете імпортувати цей пакунок ресурсів.</translation>
+        <translation>Виберіть збірку, в яку ви хочете імпортувати цей пакунок ресурсів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation>Виберіть збірку в котру ви хочете імпортувати цей %1.</translation>
+        <translation>Виберіть збірку, в яку ви хочете імпортувати цей %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
@@ -4593,12 +4593,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/InstancePageProvider.h" line="48"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation>Инші звіти</translation>
+        <translation>Інші журнали</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="52"/>
         <source>Edit Instance (%1)</source>
-        <translation>Змінити збірку (%1)</translation>
+        <translation>Редагувати збірку (%1)</translation>
     </message>
 </context>
 <context>
