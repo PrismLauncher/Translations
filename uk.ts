@@ -7,13 +7,13 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Служба Pastebin</translation>
+        <translation type="unfinished">&amp;Сервіс Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Служба Вставлення й Уведення</translation>
+        <translation type="unfinished">Сервіс Вставки &amp;Тип</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
@@ -39,12 +39,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation>Сервер Активів</translation>
+        <translation type="unfinished">Сервер Об&apos;єктів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>Ви можете встановити це на инший сервер, якщо у вас виникли проблєми з завантаженням ресурсів.</translation>
+        <translation type="unfinished">Ви можете призначити інший сервер, якщо маєте проблеми із завантаженням ресурсів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -84,7 +84,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Примітка: скорше за все, вам не потрібно змінювати це, якщо вхід до облікового запису Microsoft вже працює.</translation>
+        <translation type="unfinished">Примітка: Ймовірно, вам не потрібно це встановлювати, якщо вхід за допомогою автентифікації Microsoft вже працює.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -137,7 +137,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished">Введіть спеціяльний Користувацький Агент тут. Рядкова змінна $ЗАПУСКАЧ_ВЕР ($LAUNCHER_VER) буде замінена версією запускача.</translation>
+        <translation type="unfinished">Введіть власний Користувацький Агент тут. Спеціальний рядок $ЗАПУСКАЧ_ВЕР ($LAUNCHER_VER) буде замінено версією запускача.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -279,7 +279,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="823"/>
         <source>Blocked mods found</source>
-        <translation>Виявлено забльоковані моди</translation>
+        <translation>Виявлено заблоковані моди</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
@@ -594,7 +594,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>&amp;Нема Усталеного</translation>
+        <translation>&amp;Немає Усталеного</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
@@ -905,7 +905,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="263"/>
         <source>[INFO] A harmless message...</source>
-        <translation>[Інформація] Нешкідливе повідомлення ...</translation>
+        <translation>[Інформація] Нешкідливе повідомлення...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
@@ -1047,7 +1047,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1951"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>Старі дані були знайдені у %1, проте у вас уже є дані у %2. На жаль, вам потрібно провести перенесення даних. Нагадати вам про перенесення коли ви запуститите %2 наступного разу?</translation>
+        <translation type="unfinished">Знайдено старі дані з %1, проте у вас вже є наявні дані для %2. На жаль, вам потрібно провести перенесення даних. Нагадати вам про перенесення коли ви запуститите %2 наступного разу?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1955"/>
@@ -1237,7 +1237,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Попередження: робота над цим ще триває. Якщо у вас виникли проблєми з імпортованою збіркою модів, це може бути хибою.</translation>
+        <translation type="unfinished">Попередження: Робота над цим ще триває. Якщо у вас виникнуть проблеми з імпортованим модпаком, це може бути помилка.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
@@ -1376,12 +1376,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation>Ваша система (%1-%2) не сумісна з автоматичним встановленням Джава (Java). Використовуватимемо штандартний шлях до Джава (Java).</translation>
+        <translation>Ваша система (%1-%2) не сумісна з автоматичним встановленням Джава (Java). Буде використано усталений шлях до Джава (Java).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation>Ваша мета-інформація застаріла або не містить інформації, необхідної для визначення того, яку інсталяцію Джава (Java) слід використовувати. Використовуємо штандартний шлях до Джави (Java).</translation>
+        <translation>Ваша метаінформація застаріла або не містить інформації, необхідної для визначення того, яку інсталяцію Джава (Java) слід використовувати. Буде використано усталений шлях до Джава (Java).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
@@ -1391,7 +1391,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation>Жодної сумісної версії Джава (Java) не знайдено (двійковий файл не існує). Використовуватимемемо усталену версію.</translation>
+        <translation>Жодної сумісної версії Джава (Java) не знайдено (двійковий файл не існує). Буде використано усталену версію.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
@@ -1401,7 +1401,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
         <source>Install Java</source>
-        <translation>Установити Джава (Java)</translation>
+        <translation>Встановити Джава (Java)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
@@ -1430,7 +1430,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation>Ми додали функцію автоматичного завантаження правильної версії Джава (Java) для кожної версії Minecraft (це можна змінити в налаштуваннях Java). Хочете ввімкнути чи вимкнути цю функцію?</translation>
+        <translation>Ми додали функцію автоматичного завантаження потрібної версії Джава (Java) для кожної версії Minecraft (це можна змінити у Налаштуваннях Java). Чи бажаєте ви ввімкнути чи вимкнути цю функцію?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -1491,12 +1491,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Виконується автоматична перевірка загальної теки з модами та усталеної теки завантажень, на наявність завантажених модів. Якщо їх знайдемо, то вони будуть скопійовані до збірки.&lt;/p&gt;&lt;p&gt;Також можна перетягнути завантажені моди в це діяльоґове вікно або вказати иншу теку для перевірки.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Натисніть кнопку «Відкрити Відсутні», щоб одкрити всі покликання для завантаження в бравзерові. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Виконується автоматична перевірка загальної теки з модами та усталеної теки завантажень, на наявність завантажених модів. Якщо їх знайдемо, то вони будуть скопійовані до збірки.&lt;/p&gt;&lt;p&gt;Також можна перетягнути завантажені моди в це діалогове вікно або вказати іншу теку для перевірки.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Натисніть кнопку «Відкрити Відсутні», щоб відкрити всі посилання для завантаження у браузері. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
         <source>Blocked Mods</source>
-        <translation>Забльоковані Моди</translation>
+        <translation>Заблоковані Моди</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
@@ -1516,7 +1516,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Виберіть теку, в котру ви завантажили моди</translation>
+        <translation>Оберіть теку, в яку ви завантажили моди</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
@@ -1588,7 +1588,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>Намагатися використовувати инші джерела, якщо обране не працюватиме</translation>
+        <translation>Намагатися використовувати інші джерела, якщо обране не працюватиме</translation>
     </message>
 </context>
 <context>
@@ -1667,7 +1667,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
         <source>Please wait...</source>
-        <translation>Будь ласка, зачекайте ...</translation>
+        <translation>Будь ласка, зачекайте...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
@@ -1710,7 +1710,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Вимкнення цієї опції збереже завантажувач модів (наприклад, Fabric, Quilt і т.д.), але видалить теку модів та їхні конфіґурації.</translation>
+        <translation>Вимкнення цієї функції збереже завантажувач модів (наприклад: Fabric, Quilt, тощо), але очистить теку модів та їхні конфігураційні файли.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -1745,17 +1745,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation>Використовувати символьні чи жорсткі посилання замість копіювання файлів.</translation>
+        <translation>Використовувати символьні або жорсткі посилання замість копіювання файлів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation>Налаштування символічних та жорстких посилань</translation>
+        <translation>Налаштування символьних і жорстких посилань</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
         <source>Links are supported on most filesystems except FAT</source>
-        <translation>Покликання підтримуються більшістю файловими системами, окрім FAT</translation>
+        <translation>Покликання підтримуються більшістю файлових систем, окрім FAT</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
@@ -1770,7 +1770,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation>Якщо вибрано &quot;копіювати збереження&quot;, дані збережень світу буде скопійовано, а не зв&apos;язано, а отже, вони не будуть спільними для ріжних збірок.</translation>
+        <translation>Якщо вибрано «копіювати збереження», дані збережень світу буде скопійовано, а не зв&apos;язано, тож вони не будуть спільними для різних збірок.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
@@ -1801,12 +1801,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
         <source>CoW (Copy-on-Write) Options</source>
-        <translation>Налаштування CoW (Copy-on-Write)</translation>
+        <translation>Налаштування CoW (Копіювання-на-записі)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation>Файли, клоновані завдяки рефланкам, не займають місце, поки вони не будуть змінені.</translation>
+        <translation>Файли, клоновані за допомогою посилань-клонів (reflinks), не займають додаткового місця, доки їх не буде змінено.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
@@ -1816,7 +1816,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation>Ваша файлова система та/або ОС не підтримує рефланки</translation>
+        <translation>Ваша файлова система та/або ОС не підтримує посилання-клони (reflinks)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
@@ -1841,7 +1841,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation>Скопіюйте знятки</translation>
+        <translation>Копіювати знімки екрана</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
@@ -1851,17 +1851,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
         <source>Reflinks are supported on %1</source>
-        <translation>Рефланки підтримуються на %1</translation>
+        <translation>Посилання-клони (Reflinks) підтримуються на %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="98"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation>Рефланки не підтримуються на %1</translation>
+        <translation>Посилання-клони (Reflinks) не підтримуються на %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation>На Windows для створення символьних посилань потрібні права адміністратора.</translation>
+        <translation>У Windows для створення символьних посилань можуть знадобитися права адміністратора.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
@@ -1939,7 +1939,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation>Виберіть ціль для приєднання при запуску</translation>
+        <translation>Виберіть ціль для приєднання під час запуску</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
@@ -1965,7 +1965,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation>Вам потрібно буде видалити їх уручну в такому випадку.</translation>
+        <translation>Якщо це станеться, вам потрібно буде видалити їх власноруч.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="85"/>
@@ -1980,7 +1980,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="90"/>
         <source>Other...</source>
-        <translation>Инше...</translation>
+        <translation>Інше...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="96"/>
@@ -2053,7 +2053,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>P&amp;ost-exit Command</source>
-        <translation>Команда по Виходу</translation>
+        <translation>Команда після виходу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
@@ -2064,7 +2064,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Команда перед запуском виконується перед запуском збірки, а по завершенню процесу гри виконується команда після виходу. &lt;/p&gt;&lt;p&gt;Обидві команди виконуватимуться в робочій теці запускача з додатковими змінними середовища:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Назва збірки&lt;/li&gt;&lt;li&gt;$INST_ID - ID збірки (назва її катальоґу)&lt;/li&gt;&lt;li&gt;$INST_DIR - абсолютний шлях збірки&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - абсолютний шлях Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - проґрама джава (java), використовувана при запускові&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - арґументи командного рядка, використовувані при запускові&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Команда обгортки дозволяє запускати Джава (Java), використовуючи зовнішню програму-обгортку (наприклад &apos;optirun&apos; на Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Команда перед запуском виконується перед запуском збірки, а по завершенню процесу гри виконується команда після виходу. &lt;/p&gt;&lt;p&gt;Обидві команди виконуватимуться в робочій теці запускача з додатковими змінними середовища:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Назва збірки&lt;/li&gt;&lt;li&gt;$INST_ID - ID збірки (назва її катальогу)&lt;/li&gt;&lt;li&gt;$INST_DIR - абсолютний шлях збірки&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - абсолютний шлях Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - програма джава (java), використовувана при запускові&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - аргументи командного рядка, використовувані при запускові&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Команда обгортки дозволяє запускати Джава (Java), використовуючи зовнішню програму-обгортку (наприклад &apos;optirun&apos; на Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2246,7 +2246,7 @@ Some versions of Minecraft may not launch.
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Увага: Цей ресурс символічно пов&apos;язаний із иншого місця. Його редагування також змінить ориґінал.
+Попередження: Цей ресурс символічно пов&apos;язаний з іншого розташування. Його редагування також змінить оригінал.
 Канонічний шлях: 1%</translation>
     </message>
     <message>
@@ -2254,7 +2254,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Увага: Цей ресурс тісно повʼязаний із иншим ресурсом. Його редагування також змінить ориґінал.</translation>
+Увага: Цей ресурс тісно повʼязаний із іншим ресурсом. Його редагування також змінить оригінал.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
@@ -2282,12 +2282,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation>Завантажити пакунки даних з онляйн плятформ модів</translation>
+        <translation>Завантажити пакунки даних з онлайн-платформ модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation>Попробуй перевірити чи оновлені всі вибрані пакунки даних (всі пакунки даних якщо ніякий не вибрано)</translation>
+        <translation>Спробувати перевірити або оновити всі вибрані пакунки даних (або всі пакунки даних, якщо жодного не вибрано)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
@@ -2444,7 +2444,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
         <source>Checking if resources have metadata...</source>
-        <translation>Перевірка наявности метаданих у ресурсів...</translation>
+        <translation>Перевіряння на наявність метаданих у ресурсах...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
@@ -2466,7 +2466,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="393"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="461"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Розбір відповіди Ядра (API) від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
+        <translation>Розбір відповіді Ядра (API) від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -2491,7 +2491,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation>&amp;Змінні оточення</translation>
+        <translation>&amp;Змінні середовища</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2511,7 +2511,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation>Підпорядкування та Загальні Налаштування</translation>
+        <translation>Підпорядкування &amp;Загальні Налаштування</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
@@ -2646,7 +2646,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="20"/>
         <source>&amp;Description</source>
-        <translation>Опис</translation>
+        <translation>&amp;Опис</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
@@ -2656,7 +2656,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
         <source>&amp;Version:</source>
-        <translation>%Версія:</translation>
+        <translation>&amp;Версія:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"/>
@@ -2690,7 +2690,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
         <source> MiB</source>
-        <translation> MiB</translation>
+        <translation> ·MiB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
@@ -2753,7 +2753,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="164"/>
         <source>CurseForge pack</source>
-        <translation>збірка КерсФордж (CurseForge)</translation>
+        <translation>Збірка КерсФордж (CurseForge)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="191"/>
@@ -2821,7 +2821,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
         <source>Template</source>
-        <translation>Шабльон</translation>
+        <translation>Шаблон</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
@@ -2831,7 +2831,7 @@ Are you sure?</source>
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation>Цей текст підтримує наступні шабльони:
+        <translation>Цей текст підтримує наступні шаблони:
 {name}     - Назва моду
 {mod_id}   - ID моду
 {url}      - Покликання моду
@@ -2943,7 +2943,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation>Увімкнути вибраний елємент</translation>
+        <translation>Увімкнути вибраний елемент</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
@@ -2954,7 +2954,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="117"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation>Увімкнути всі вибрані елєменти.</translation>
+        <translation>Увімкнути всі вибрані елементи.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="59"/>
@@ -2974,12 +2974,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="106"/>
         <source>Remove all selected items.</source>
-        <translation>Видалити всі вибрані елєменти.</translation>
+        <translation>Видалити всі вибрані елементи.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
         <source>Disable all selected items.</source>
-        <translation>Вимкнути всі вибрані елєменти.</translation>
+        <translation>Вимкнути всі вибрані елементи.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2989,7 +2989,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation>Відкрити теку &apos;config&apos; в файловому менеджері системи.</translation>
+        <translation>Відкрити теку конфігурацій у системному файловому менеджері.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
@@ -2999,7 +2999,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
         <source>Open the folder in the system file manager.</source>
-        <translation>Відкрити теку в системнім переглядачеві файлів.</translation>
+        <translation>Відкрити теку у системному файловому менеджері.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
@@ -3009,7 +3009,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="155"/>
         <source>Download resources from online mod platforms.</source>
-        <translation>Завантажити ресурси з онляйн платформ модів.</translation>
+        <translation>Завантажити ресурси з онлайн-платформ модів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="166"/>
@@ -3063,7 +3063,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Check for &amp;Updates</source>
-        <translation>Перевірити на &amp;оновлення</translation>
+        <translation>Перевірити &amp;оновлення</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
@@ -3084,7 +3084,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation>Вимкнути вибраний елємент</translation>
+        <translation>Вимкнути вибраний елемент</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
