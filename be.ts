@@ -980,10 +980,10 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished">Ваш каталог / tmp ў дадзены момант падлучаны з уключаным сцягам &apos;noexec&apos;.
+        <translation>Ваша распалажэнне /tmp у цяперашні час змантавана з уключаным сцягам ‘noexec’.
 Некаторыя версіі Minecraft могуць не запускацца.
 
-Вы можаце вырашыць гэтую праблему, перамантаваць / tmp як &quot;exec&quot; або усталяваўшы аргумент java. io. tmpdir JVM ў каталог, даступны для запісу, у файлавай сістэме, дзе ўсталяваны сцяг &quot;exec&quot; (напрыклад, /home/user/.local/tmp).
+Вы можаце вырашыць гэту праблему, перамантаваўшы /tmp са сцягам ‘exec’ ці ўсталяваўшы аргумент JVM java.io.tmpdir у распалажэнне, куды ідзе запіс, ў файлавай сістэме, дзе ўсталяваны сцяг ‘exec’ (напрыклад, /home/user/.local/tmp)
 </translation>
     </message>
     <message>
@@ -2453,7 +2453,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="90"/>
         <source>Cancel</source>
-        <translation type="unfinished">Адхіліць</translation>
+        <translation>Скасаваць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
