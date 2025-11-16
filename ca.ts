@@ -725,17 +725,17 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
         <translation type="vanished">Has d&apos;afegir un compte de Microsoft o Mojang que posseeix Minecraft abans de poder utilitzar un compte fora de línia. &lt;br&gt;&lt;br&gt;Si has perdut el compte, contacta el suport de Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>Introdueix el nom que desitges pel teu compte fora de línia.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
         <source>Remove account?</source>
         <translation>Vols eliminar el compte?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
         <source>Do you really want to delete this account?</source>
         <translation>Confirmes que vols esborrar aquest compte?</translation>
     </message>
@@ -926,17 +926,17 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="700"/>
+        <location filename="src/launcher/Application.cpp" line="697"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>No es pot mostrar aquest registre, ja que sobrepassa les %1 línies.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="906"/>
+        <location filename="src/launcher/Application.cpp" line="903"/>
         <source>Settings</source>
         <translation>Opcions</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1052"/>
+        <location filename="src/launcher/Application.cpp" line="1049"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -963,12 +963,12 @@ Per obtenir detalls sobre l&apos;últim intent d&apos;actualització.
 Per esborrar aquest bloqueig i procedir, selecciona &quot;Ignora&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1069"/>
+        <location filename="src/launcher/Application.cpp" line="1066"/>
         <source>Update In Progress</source>
         <translation>Actualització en curs</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1093"/>
+        <location filename="src/launcher/Application.cpp" line="1090"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -983,12 +983,12 @@ Dona una ullada al registre d&apos;actualitzador de Prism Launcher a:·
 Per a obtenir més informació sobre l&apos;últim intent d&apos;actualització.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1101"/>
+        <location filename="src/launcher/Application.cpp" line="1098"/>
         <source>Update Failed</source>
         <translation>Actualització fallida</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1125"/>
+        <location filename="src/launcher/Application.cpp" line="1122"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1009,12 +1009,12 @@ Dona una ullada al registre d&apos;actualitzador de Prism Launcher a:·
 per a obtenir els detalls d&apos;aquest.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1133"/>
+        <location filename="src/launcher/Application.cpp" line="1130"/>
         <source>Update Succeeded</source>
         <translation>Actualitzat amb èxit</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1165"/>
+        <location filename="src/launcher/Application.cpp" line="1162"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1027,32 +1027,32 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1171"/>
+        <location filename="src/launcher/Application.cpp" line="1168"/>
         <source>Incompatible system configuration</source>
         <translation>Configuració del sistema no compatible</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1542"/>
+        <location filename="src/launcher/Application.cpp" line="1539"/>
         <source>Aborted</source>
         <translation>Avortat</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1951"/>
+        <location filename="src/launcher/Application.cpp" line="1948"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>S&apos;ha trobat dades antigues del %1, però ja existeixen dades pel %2. Malauradament, l&apos;haureu de migrar pel vostre compte. Voldries ser recordat de la migració de les teves dades el pròxim cop que iniciïs %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1955"/>
+        <location filename="src/launcher/Application.cpp" line="1952"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Sembla que ja utilitzaves %1 anteriorment. Voleu migrar les dades a la nova ubicació %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1961"/>
+        <location filename="src/launcher/Application.cpp" line="1958"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Sembla que ja has utilitzat %1 a %2 anteriorment. Vols migrar les dades a la nova ubicació %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2007"/>
+        <location filename="src/launcher/Application.cpp" line="2004"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migració fallida! Motiu: %1</translation>
     </message>
@@ -1507,6 +1507,44 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <translation>No s&apos;ha pogut trobar la llibreria de comprovació de Java. Si us plau, revisa la teva instal·lació.</translation>
+    </message>
+</context>
+<context>
+    <name>ChooseOfflineNameDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
+        <source>Choose Offline Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
+        <source>Message label placeholder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
+        <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
+        <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
+        <source>Allow invalid usernames</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancel·lar</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
+        <source>OK</source>
+        <translation type="unfinished">D&apos;acord</translation>
     </message>
 </context>
 <context>
@@ -5430,17 +5468,17 @@ La instal·lació no accepta més de 2048 MiB de RAM.
 Si us plau, assegura&apos;t que la memòria màxima és inferior.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="295"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="296"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>La memòria màxima assignada supera la memòria màxima del sistema.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="298"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="299"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
         <translation>La memòria màxima assignada s&apos;acosta a la memòria màxima del sistema.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
         <translation>La memòria màxima assignada és inferior a la memòria mínima reservada.</translation>
     </message>
@@ -5639,48 +5677,48 @@ Podràs canviar la versió de Java més tard a la configuració.
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="70"/>
+        <location filename="src/launcher/LaunchController.cpp" line="71"/>
         <source>No instance specified!</source>
         <translation>No n&apos;hi ha una instància especificada!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="75"/>
+        <location filename="src/launcher/LaunchController.cpp" line="76"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
         <translation>S&apos;han especificat arguments invàlids de Java. Soluciona això abans de tot.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="92"/>
+        <location filename="src/launcher/LaunchController.cpp" line="93"/>
         <source>No Accounts</source>
         <translation>Sense Comptes</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="93"/>
+        <location filename="src/launcher/LaunchController.cpp" line="94"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation type="unfinished">Per poder jugar Minecraft, necessites almenys un compte de Mojang o Microsoft. Vols obrir el gestor de comptes per afegir-la?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="119"/>
+        <location filename="src/launcher/LaunchController.cpp" line="120"/>
         <source>Which account would you like to use?</source>
         <translation>Quin compte voldries utilitzar?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="192"/>
+        <location filename="src/launcher/LaunchController.cpp" line="198"/>
         <source>No account selected for launch.</source>
         <translation>No s&apos;ha seleccionat cap compte per al llançament.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="316"/>
+        <location filename="src/launcher/LaunchController.cpp" line="322"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
         <translation>La identificació del client del llançador ha canviat. Si us plau, elimina &apos;%1&apos; i prova de nou.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="326"/>
+        <location filename="src/launcher/LaunchController.cpp" line="332"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>Ja no existeix &apos;%1&apos; als servidors. En el cas que sigui a causa d&apos;una migració, si us plau afegeix el nou compte al qual l&apos;hagis migrat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="343"/>
+        <location filename="src/launcher/LaunchController.cpp" line="349"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation>&apos;%1&apos; ha expirat i s&apos;ha de tornar a autenticar. Vols tornar a autenticar el compte?</translation>
     </message>
@@ -5689,42 +5727,42 @@ Podràs canviar la versió de Java més tard a la configuració.
         <translation type="vanished">Actualment no has iniciat sessió amb el teu compte. Per favor, ingressa la teua clau d&apos;accés per tornar a iniciar sessió.&lt;br /&gt;&lt;br /&gt; Acò pot ser degut a un canvi en la clau d&apos;accés.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="209"/>
+        <location filename="src/launcher/LaunchController.cpp" line="215"/>
         <source>Continue launch?</source>
         <translation>Continuar llançament?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="210"/>
+        <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>No s&apos;ha pogut llançar després de %1 intents. Vols continuar intentant-ho?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="160"/>
+        <location filename="src/launcher/LaunchController.cpp" line="163"/>
         <source>Player name</source>
         <translation>Nom del jugador</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="153"/>
+        <location filename="src/launcher/LaunchController.cpp" line="154"/>
         <source>Choose your offline mode player name.</source>
         <translation>Tria el teu nom de jugador per a la partida fora de línia.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="155"/>
+        <location filename="src/launcher/LaunchController.cpp" line="156"/>
         <source>Choose your demo mode player name.</source>
         <translation>Escriu el teu nom pel mode demostració.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="278"/>
+        <location filename="src/launcher/LaunchController.cpp" line="284"/>
         <source>Received undetermined session status during login.</source>
         <translation>S&apos;ha rebut un estat de sessió indeterminat durant l&apos;inici de sessió.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="137"/>
+        <location filename="src/launcher/LaunchController.cpp" line="138"/>
         <source>Play demo?</source>
         <translation>Jugar a la demo?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="139"/>
+        <location filename="src/launcher/LaunchController.cpp" line="140"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -5735,17 +5773,17 @@ Necessites comprar el joc abans per jugar-lo.
 Vols jugar la demo?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="142"/>
+        <location filename="src/launcher/LaunchController.cpp" line="143"/>
         <source>Play Demo</source>
         <translation>Jugar la demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="143"/>
+        <location filename="src/launcher/LaunchController.cpp" line="144"/>
         <source>Cancel</source>
         <translation>Cancel·lar</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="245"/>
+        <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Llançament cancel·lat - el compte no posseeix Minecraft.</translation>
     </message>
@@ -5758,7 +5796,7 @@ Vols jugar la demo?</translation>
         <translation>El compte ha expirat i és necessari tornar a iniciar sessió manualment.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="342"/>
+        <location filename="src/launcher/LaunchController.cpp" line="348"/>
         <source>Account refresh failed</source>
         <translation>Error en recarregar el compte</translation>
     </message>
@@ -5767,7 +5805,7 @@ Vols jugar la demo?</translation>
         <translation>La identificació client del llançador ha canviat. Si us plau, elimina el compte i torna a afegir-ho.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="319"/>
+        <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>Client identification changed</source>
         <translation>La identificació del client ha canviat</translation>
     </message>
@@ -5776,44 +5814,44 @@ Vols jugar la demo?</translation>
         <translation>El compte ja no existeix als servidors. Potser ha sigut migrada, en aquest cas afegeix el nou compte al qual has migrat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="329"/>
+        <location filename="src/launcher/LaunchController.cpp" line="335"/>
         <source>Account gone</source>
         <translation>Compte eliminat</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="336"/>
+        <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>Failed to launch.</source>
         <translation>Error en iniciar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="367"/>
+        <location filename="src/launcher/LaunchController.cpp" line="373"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>El compte ha expirat i s&apos;ha de tornar a autenticar</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="377"/>
-        <location filename="src/launcher/LaunchController.cpp" line="434"/>
+        <location filename="src/launcher/LaunchController.cpp" line="383"/>
+        <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>Error!</source>
         <translation>Error!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="377"/>
-        <location filename="src/launcher/LaunchController.cpp" line="378"/>
+        <location filename="src/launcher/LaunchController.cpp" line="383"/>
+        <location filename="src/launcher/LaunchController.cpp" line="384"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>No s&apos;ha pogut carregar el perfil de la instància.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="384"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>No s&apos;ha pogut instancialitzar un llançador.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="434"/>
+        <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Ha fallat la comprovació de l&apos;analitzador a %1: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="447"/>
+        <location filename="src/launcher/LaunchController.cpp" line="453"/>
         <source>&amp;Launch</source>
         <translation type="unfinished">&amp;Llençar</translation>
     </message>
@@ -5822,7 +5860,7 @@ Vols jugar la demo?</translation>
         <translation type="vanished">No es pot iniciar el gestor de perfils:%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="441"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5831,7 +5869,7 @@ Vols jugar la demo?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="445"/>
+        <location filename="src/launcher/LaunchController.cpp" line="451"/>
         <source>Waiting.</source>
         <translation>Esperant.</translation>
     </message>
@@ -5840,28 +5878,28 @@ Vols jugar la demo?</translation>
         <translation type="vanished">Iniciar</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="459"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>No es pot iniciar l&apos;analitzador: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="454"/>
+        <location filename="src/launcher/LaunchController.cpp" line="460"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="299"/>
-        <location filename="src/launcher/LaunchController.cpp" line="481"/>
+        <location filename="src/launcher/LaunchController.cpp" line="305"/>
+        <location filename="src/launcher/LaunchController.cpp" line="487"/>
         <source>Abort</source>
         <translation>Cancel·lar</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="494"/>
+        <location filename="src/launcher/LaunchController.cpp" line="500"/>
         <source>Kill Minecraft?</source>
         <translation>¿Forçar tancament de Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="495"/>
+        <location filename="src/launcher/LaunchController.cpp" line="501"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Això pot causar que l&apos;instància es corrompi i només ha de ser utilitzat si Minecraft deixa de respondre per alguna raó</translation>
     </message>
@@ -10629,32 +10667,26 @@ Si us plau, actualitza %1!</translation>
 <context>
     <name>OfflineLoginDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="20"/>
         <source>Add Account</source>
         <translation>Afegeix un compte</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
         <translation>Nom d&apos;usuari/ària</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
         <translation>Noms d&apos;usuari més llargs que 16 caràcters no es poden utilitzar per jocs LAN o servidors en mode &quot;fora de línia&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
         <source>Allow long usernames</source>
         <translation>Permetre noms d&apos;usuari llargs</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="12"/>
         <source>Cancel</source>
         <translation type="unfinished">Cancel·lar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="13"/>
         <source>OK</source>
         <translation type="unfinished">D&apos;acord</translation>
     </message>
@@ -10825,14 +10857,14 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="308"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation type="unfinished">No es pot mostrar aquest registre, ja que sobrepassa les %1 línies.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="403"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="444"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="438"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -10851,17 +10883,17 @@ Si us plau, actualitza %1!</translation>
         <translation>L&apos;arxiu (%1) no es pot llegir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="336"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="330"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
         <translation>El fitxer (%1) ha trobat un error en llegir: %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="388"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="382"/>
         <source>Confirm Deletion</source>
         <translation type="unfinished">Confirmar eliminació</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="389"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="383"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -10872,17 +10904,17 @@ L&apos;acció pot ser permanent i desapareixerà de la carpeta de registres.
 Vols continuar?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="414"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="408"/>
         <source>Confirm Cleanup</source>
         <translation>Confirmar neteja</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="416"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>De debò vols esborrar tots els registres?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="413"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>De debò vols esborrar tots aquests fitxers?
@@ -10893,7 +10925,7 @@ Vols continuar?</translation>
         <translation type="vanished">Segur que vols eliminar %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="403"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="397"/>
         <source>Unable to delete %1: %2</source>
         <translation>No s&apos;ha pogut eliminar %1: %2</translation>
     </message>
@@ -10912,12 +10944,12 @@ Vols continuar?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="446"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="440"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>No s&apos;han pogut eliminar alguns arxius!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="449"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="443"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>No s&apos;han pogut eliminar alguns arxius:
@@ -12340,22 +12372,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="obsolete">Personalitzat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="308"/>
         <source>Background Cat (from MultiMC)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="312"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="309"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="313"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="310"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="314"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13704,12 +13736,12 @@ Are you sure?</source>
         <translation type="unfinished">Requerit per: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="465"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="466"/>
         <source>Required by:</source>
         <translation type="unfinished">Requerit per:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="479"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="478"/>
         <source>Changelog of the latest version</source>
         <translation type="unfinished">Registre de canvis de la versió anterior</translation>
     </message>
@@ -13751,47 +13783,47 @@ Are you sure?</source>
         <translation>Nom de l&apos;arxiu: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="76"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="73"/>
         <source>This download will be placed in: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="83"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="79"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="87"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="83"/>
         <source>Provider: %1</source>
         <translation type="unfinished">Proveïdor: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="95"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="89"/>
         <source>Required by: %1</source>
         <translation type="unfinished">Requerit per: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="97"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="92"/>
         <source>Required by:</source>
         <translation type="unfinished">Requerit per:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="104"/>
         <source>Version Type: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="139"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="129"/>
         <source>Confirm %1 selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="141"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="131"/>
         <source>You&apos;re about to download the following %1:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="132"/>
         <source>Only %1 with a check will be downloaded!</source>
         <translation type="unfinished"></translation>
     </message>

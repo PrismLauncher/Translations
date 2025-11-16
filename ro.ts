@@ -725,17 +725,17 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
         <translation type="vanished">Trebuie să adăugați un cont de Microsoft sau de Mojang care deține Minecraft înainte de a putea adăuga un cont offline.&lt;br&gt;&lt;br&gt;Dacă v-ați pierdut contul, puteți contacta echipa de suport Microsoft pentru asistență.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>Vă rugăm să introduceți numele de utilizator dorit pentru a adăuga un cont offline.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
         <source>Remove account?</source>
         <translation>Ștergi contul?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
         <source>Do you really want to delete this account?</source>
         <translation>Chiar dorești să ștergi contul?</translation>
     </message>
@@ -926,17 +926,17 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="700"/>
+        <location filename="src/launcher/Application.cpp" line="697"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>Nu se poate afișa acest log deoarece a întrecut limita cu %1 de linii.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="906"/>
+        <location filename="src/launcher/Application.cpp" line="903"/>
         <source>Settings</source>
         <translation>Setări</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1052"/>
+        <location filename="src/launcher/Application.cpp" line="1049"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -963,12 +963,12 @@ pentru detalii despre ultima încercare de actualizare.
 Pentru a șterge acest lock și a continua apasa &quot;Ignoră&quot; mai jos.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1069"/>
+        <location filename="src/launcher/Application.cpp" line="1066"/>
         <source>Update In Progress</source>
         <translation>Se actualizează</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1093"/>
+        <location filename="src/launcher/Application.cpp" line="1090"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -983,12 +983,12 @@ Verificați log-ul actualizatorului Prism Launcher la:
 pentru detalii despre ultima încercare de actualizare.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1101"/>
+        <location filename="src/launcher/Application.cpp" line="1098"/>
         <source>Update Failed</source>
         <translation>Actualizarea a Eșuat</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1125"/>
+        <location filename="src/launcher/Application.cpp" line="1122"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1009,12 +1009,12 @@ Verificați log-ul actualizatorului Prism Launcher la:
 pentru detalii.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1133"/>
+        <location filename="src/launcher/Application.cpp" line="1130"/>
         <source>Update Succeeded</source>
         <translation>Actualizarea a Reușit</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1165"/>
+        <location filename="src/launcher/Application.cpp" line="1162"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1035,32 +1035,32 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1171"/>
+        <location filename="src/launcher/Application.cpp" line="1168"/>
         <source>Incompatible system configuration</source>
         <translation>Configurație sistem incompatibilă</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1542"/>
+        <location filename="src/launcher/Application.cpp" line="1539"/>
         <source>Aborted</source>
         <translation>Anulat</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1951"/>
+        <location filename="src/launcher/Application.cpp" line="1948"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Date vechi din %1 au fost găsite, doar că există deja date pentru %2. Din păcate va trebui să migrați datele manual. Doriți să vi se aducă aminte de migrația în așteptare următoarea dată când porniți %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1955"/>
+        <location filename="src/launcher/Application.cpp" line="1952"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Se pare că ați folosit deja %1. Doriți să vă migrați datele în locatia nouă %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1961"/>
+        <location filename="src/launcher/Application.cpp" line="1958"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Se pare că ați folosit deja %1 pe %2 înainte. Doriți să vă migrați datele în noua locație a lui %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2007"/>
+        <location filename="src/launcher/Application.cpp" line="2004"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrarea a eșuat! Motiv: %1</translation>
     </message>
@@ -1519,6 +1519,44 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <translation>Biblioteca de verificare Java nu a putut fi găsita. Va rugam verificați instalația.</translation>
+    </message>
+</context>
+<context>
+    <name>ChooseOfflineNameDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
+        <source>Choose Offline Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
+        <source>Message label placeholder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
+        <source>Username</source>
+        <translation type="unfinished">Nume Utilizator</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
+        <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
+        <source>Allow invalid usernames</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Anulează</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
     </message>
 </context>
 <context>
@@ -5556,17 +5594,17 @@ Versiunea această nu poate rula cu mai mult de 2048MiB de RAM.
 Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="295"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="296"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Memoria dumneavoastră maximă este mai mare decât memoria maximă disponibilă în sistem.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="298"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="299"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
         <translation>Alocarea maximă de memorie este aproape de capacitatea totală a memoriei sistemului.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
         <translation>Alocarea maximă de memorie este mai mică decât alocarea minimă de memorie.</translation>
     </message>
@@ -5765,48 +5803,48 @@ Puteți schimba versiunea de Java din setări ulterior.
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="70"/>
+        <location filename="src/launcher/LaunchController.cpp" line="71"/>
         <source>No instance specified!</source>
         <translation>Nicio instanță specificată!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="75"/>
+        <location filename="src/launcher/LaunchController.cpp" line="76"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
         <translation>S-au specificat argumente Java nevalide. Vă rugăm să remediați mai întâi aceasta.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="92"/>
+        <location filename="src/launcher/LaunchController.cpp" line="93"/>
         <source>No Accounts</source>
         <translation>Niciun cont</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="93"/>
+        <location filename="src/launcher/LaunchController.cpp" line="94"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation>Pentru a juca Minecraft, trebuie să aveți cel puțin un cont Microsoft conectat care deține Minecraft. Doriți să deschideți managerul de conturi pentru a adăuga un cont?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="119"/>
+        <location filename="src/launcher/LaunchController.cpp" line="120"/>
         <source>Which account would you like to use?</source>
         <translation>Ce cont doriți să utilizați?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="192"/>
+        <location filename="src/launcher/LaunchController.cpp" line="198"/>
         <source>No account selected for launch.</source>
         <translation>Niciun cont nu a fost selectat pentru pornire.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="316"/>
+        <location filename="src/launcher/LaunchController.cpp" line="322"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
         <translation>Identificarea clientului launcher-ului s-a schimbat. Vă rugăm să eliminați &apos;%1&apos; și să încercați din nou.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="326"/>
+        <location filename="src/launcher/LaunchController.cpp" line="332"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>&apos;%1&apos; nu mai există pe servere. Este posibil să fi fost migrat; în acest caz, vă rugăm să adăugați noul cont la care ați migrat acest cont.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="343"/>
+        <location filename="src/launcher/LaunchController.cpp" line="349"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation>&apos;%1&apos; a expirat și trebuie reautentificat. Doriți să reautentificați acest cont?</translation>
     </message>
@@ -5815,42 +5853,42 @@ Puteți schimba versiunea de Java din setări ulterior.
         <translation type="vanished">Contul tău nu este logat. Te rugăm să introduci parola din nou pentru a te autentifica. &lt;br /&gt; &lt;br /&gt; Acest lucru ar putea fi cauzat de o schimbare a parolei.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="209"/>
+        <location filename="src/launcher/LaunchController.cpp" line="215"/>
         <source>Continue launch?</source>
         <translation>Continuă lansarea?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="210"/>
+        <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Se pare că nu s-a putut lansa după %1 încercări. Doriți să continuați încercările?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="160"/>
+        <location filename="src/launcher/LaunchController.cpp" line="163"/>
         <source>Player name</source>
         <translation>Numele jucătorului</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="153"/>
+        <location filename="src/launcher/LaunchController.cpp" line="154"/>
         <source>Choose your offline mode player name.</source>
         <translation>Alegeți-vă numele de jucător pentru modul offline.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="155"/>
+        <location filename="src/launcher/LaunchController.cpp" line="156"/>
         <source>Choose your demo mode player name.</source>
         <translation>Alegeți numele jucătorului pentru modul demo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="278"/>
+        <location filename="src/launcher/LaunchController.cpp" line="284"/>
         <source>Received undetermined session status during login.</source>
         <translation>S-a primit o stare nedeterminată a sesiunii în timpul autentificării.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="137"/>
+        <location filename="src/launcher/LaunchController.cpp" line="138"/>
         <source>Play demo?</source>
         <translation>Doriți să jucați demo-ul?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="139"/>
+        <location filename="src/launcher/LaunchController.cpp" line="140"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -5861,17 +5899,17 @@ Trebuie să achiziționați jocul înainte de a-l juca.
 Doriți să jucați demo-ul?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="142"/>
+        <location filename="src/launcher/LaunchController.cpp" line="143"/>
         <source>Play Demo</source>
         <translation>Joacă demo-ul</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="143"/>
+        <location filename="src/launcher/LaunchController.cpp" line="144"/>
         <source>Cancel</source>
         <translation>Anulează</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="245"/>
+        <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Lansare anulată - contul nu deține Minecraft.</translation>
     </message>
@@ -5884,7 +5922,7 @@ Doriți să jucați demo-ul?</translation>
         <translation>Contul a expirat; trebuie să vă conectați manual din nou.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="342"/>
+        <location filename="src/launcher/LaunchController.cpp" line="348"/>
         <source>Account refresh failed</source>
         <translation>Reîmprospătarea contului nu a reușit</translation>
     </message>
@@ -5893,7 +5931,7 @@ Doriți să jucați demo-ul?</translation>
         <translation>Identificatorul clientului folosit de launcher s-a schimbat. Vă rugăm să eliminați acest cont și să-l adăugați din nou.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="319"/>
+        <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>Client identification changed</source>
         <translation>Identificatorul clientului s-a schimbat</translation>
     </message>
@@ -5902,44 +5940,44 @@ Doriți să jucați demo-ul?</translation>
         <translation>Contul nu mai există pe server. În cazul în care a fost migrat, vă rugăm să-l adaugați din nou.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="329"/>
+        <location filename="src/launcher/LaunchController.cpp" line="335"/>
         <source>Account gone</source>
         <translation>Contul a dispărut</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="336"/>
+        <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>Failed to launch.</source>
         <translation>Lansare eșuată.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="367"/>
+        <location filename="src/launcher/LaunchController.cpp" line="373"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>Contul a expirat și trebuie reautentificat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="377"/>
-        <location filename="src/launcher/LaunchController.cpp" line="434"/>
+        <location filename="src/launcher/LaunchController.cpp" line="383"/>
+        <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>Error!</source>
         <translation>Eroare!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="377"/>
-        <location filename="src/launcher/LaunchController.cpp" line="378"/>
+        <location filename="src/launcher/LaunchController.cpp" line="383"/>
+        <location filename="src/launcher/LaunchController.cpp" line="384"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Nu s-a putut încărca profilul instanței.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="384"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Nu s-a putut instanția launcherul.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="434"/>
+        <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Verificarea profilelor pentru %1 a eșuat: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="447"/>
+        <location filename="src/launcher/LaunchController.cpp" line="453"/>
         <source>&amp;Launch</source>
         <translation>&amp;Lansează</translation>
     </message>
@@ -5948,7 +5986,7 @@ Doriți să jucați demo-ul?</translation>
         <translation type="vanished">Nu s-a putut porni profiler-ul: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="441"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5957,7 +5995,7 @@ Doriți să jucați demo-ul?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="445"/>
+        <location filename="src/launcher/LaunchController.cpp" line="451"/>
         <source>Waiting.</source>
         <translation>În aşteptare.</translation>
     </message>
@@ -5966,28 +6004,28 @@ Doriți să jucați demo-ul?</translation>
         <translation type="vanished">Pornește</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="459"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Profilatorul nu a putut porni: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="454"/>
+        <location filename="src/launcher/LaunchController.cpp" line="460"/>
         <source>Error</source>
         <translation>Eroare</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="299"/>
-        <location filename="src/launcher/LaunchController.cpp" line="481"/>
+        <location filename="src/launcher/LaunchController.cpp" line="305"/>
+        <location filename="src/launcher/LaunchController.cpp" line="487"/>
         <source>Abort</source>
         <translation>Renunță</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="494"/>
+        <location filename="src/launcher/LaunchController.cpp" line="500"/>
         <source>Kill Minecraft?</source>
         <translation>Închideți Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="495"/>
+        <location filename="src/launcher/LaunchController.cpp" line="501"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Acest lucru poate cauza coruperea instanței și ar trebui folosit numai dacă Minecraft a înghețat din anumite motive</translation>
     </message>
@@ -10469,32 +10507,26 @@ Te rugăm actualizează %1!</translation>
 <context>
     <name>OfflineLoginDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="20"/>
         <source>Add Account</source>
         <translation>Adaugă cont</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
         <translation>Nume Utilizator</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
         <translation>Numele utilizatorului mai lung de 16 caractere nu poate fi folosit pentru jocuri în LAN sau servere pe modul offline.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
         <source>Allow long usernames</source>
         <translation>Permite nume de utilizator lungi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="12"/>
         <source>Cancel</source>
         <translation type="unfinished">Anulează</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="13"/>
         <source>OK</source>
         <translation type="unfinished">OK</translation>
     </message>
@@ -10665,8 +10697,8 @@ Te rugăm actualizează %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="403"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="444"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="438"/>
         <source>Error</source>
         <translation>Eroare</translation>
     </message>
@@ -10685,12 +10717,12 @@ Te rugăm actualizează %1!</translation>
         <translation>Fișierul (%1) nu se poate citi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="388"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="382"/>
         <source>Confirm Deletion</source>
         <translation>Confirmă Ștergerea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="389"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="383"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -10701,45 +10733,45 @@ Acest lucru este permanent și va fi dispărut din dosarul de jurnale.
 Ești sigur(ă)?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="414"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="408"/>
         <source>Confirm Cleanup</source>
         <translation>Confirmează Curățarea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="416"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>Ești sigur(ă) că dorești să ștergi toate fișierele de jurnal?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="413"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>Ești sigur(ă) că dorești să ștergi toate aceste fișiere?
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="403"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="397"/>
         <source>Unable to delete %1: %2</source>
         <translation>Nu s-a putut șterge %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="308"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation type="unfinished">Nu se poate afișa acest log deoarece a întrecut limita cu %1 de linii.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="336"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="330"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="446"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="440"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>Nu s-au putut șterge unele fișiere!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="449"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="443"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>Nu s-au putut șterge unele fișiere:
@@ -12118,22 +12150,22 @@ NOTIȚĂ: Asigură-te că ai făcut o copie de rezervă a datelor instanțelor i
         <translation type="obsolete">Legacy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="308"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>Pisică de fundal (de la MultiMC)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="312"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="309"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11 (desenat de Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="313"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="310"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11 (versiunea plată, desenat de Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="314"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie (desenat de SympathyTea)</translation>
     </message>
@@ -13481,12 +13513,12 @@ Are you sure?</source>
         <translation type="unfinished">Cerut de: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="465"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="466"/>
         <source>Required by:</source>
         <translation type="unfinished">Cerut de:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="479"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="478"/>
         <source>Changelog of the latest version</source>
         <translation type="unfinished">Jurnalul de modificări al celei mai noi versiuni</translation>
     </message>
@@ -13520,47 +13552,47 @@ Are you sure?</source>
         <translation>Numele fișierului: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="76"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="73"/>
         <source>This download will be placed in: %1</source>
         <translation>Această descărcare va fi pusă în: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="83"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="79"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
         <translation>Acest fișier va fi descărcat într-o locație de dosar diferită de cea implicită, posibil deoarece este solicitat de loader-ul lui.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="87"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="83"/>
         <source>Provider: %1</source>
         <translation>Furnizor: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="95"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="89"/>
         <source>Required by: %1</source>
         <translation>Cerut de: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="97"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="92"/>
         <source>Required by:</source>
         <translation>Cerut de:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="104"/>
         <source>Version Type: %1</source>
         <translation>Tip Versiune: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="139"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="129"/>
         <source>Confirm %1 selection</source>
         <translation>Confirmă %1 selecție</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="141"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="131"/>
         <source>You&apos;re about to download the following %1:</source>
         <translation>Ești pe cale să descarci următoarele %1:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="132"/>
         <source>Only %1 with a check will be downloaded!</source>
         <translation>Doar %1 cu o bifă vor fi descărcate!</translation>
     </message>

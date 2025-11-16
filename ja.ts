@@ -717,17 +717,17 @@ OSと%1をアップデートしてください。</translation>
         <translation type="vanished">オフラインのアカウントを追加する前に、Minecraftを所有しているMicrosoftまたはMojangのアカウントを追加する必要があります。&lt;br&gt;&lt;br&gt;アカウントを紛失した場合は、Microsoftに連絡してサポートを受けることができます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>オフラインのアカウントを追加するには、ご希望のユーザー名を入力してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
         <source>Remove account?</source>
         <translation>アカウントを削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
         <source>Do you really want to delete this account?</source>
         <translation>本当にこのアカウントを削除しますか？</translation>
     </message>
@@ -918,17 +918,17 @@ OSと%1をアップデートしてください。</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="700"/>
+        <location filename="src/launcher/Application.cpp" line="697"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>ログの長さが %1 行を超えたため、このログを表示できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="906"/>
+        <location filename="src/launcher/Application.cpp" line="903"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1052"/>
+        <location filename="src/launcher/Application.cpp" line="1049"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -955,12 +955,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 このロックファイルを上書きしてアップデートを続行する場合は、以下の「無視」を選択してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1069"/>
+        <location filename="src/launcher/Application.cpp" line="1066"/>
         <source>Update In Progress</source>
         <translation>アップデート中</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1093"/>
+        <location filename="src/launcher/Application.cpp" line="1090"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -975,12 +975,12 @@ for details on the last update attempt.</source>
 のログを確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1101"/>
+        <location filename="src/launcher/Application.cpp" line="1098"/>
         <source>Update Failed</source>
         <translation>アップデート失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1125"/>
+        <location filename="src/launcher/Application.cpp" line="1122"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1001,12 +1001,12 @@ for details.</oldsource>
 のログを確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1133"/>
+        <location filename="src/launcher/Application.cpp" line="1130"/>
         <source>Update Succeeded</source>
         <translation>アップデート成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1165"/>
+        <location filename="src/launcher/Application.cpp" line="1162"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1027,32 +1027,32 @@ Minecraft のバージョンによっては起動しない場合があります�
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1171"/>
+        <location filename="src/launcher/Application.cpp" line="1168"/>
         <source>Incompatible system configuration</source>
         <translation>システム構成に互換性がありません</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1542"/>
+        <location filename="src/launcher/Application.cpp" line="1539"/>
         <source>Aborted</source>
         <translation>中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1951"/>
+        <location filename="src/launcher/Application.cpp" line="1948"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 からの古いデータが見つかりましたが、%2 用のデータが既に存在しています。手動で移行する必要があります。次回 %2 を起動する際に保留中のデータ移行について通知しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1955"/>
+        <location filename="src/launcher/Application.cpp" line="1952"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>あなたは以前 %1 を使用していたようです。データを %2 の新しい場所に移行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1961"/>
+        <location filename="src/launcher/Application.cpp" line="1958"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>あなたは以前 %2 に %1 を使用していたようです。データを %3 の新しい場所に移行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2007"/>
+        <location filename="src/launcher/Application.cpp" line="2004"/>
         <source>Migration failed! Reason: %1</source>
         <translation>次の理由で移行に失敗しました：%1</translation>
     </message>
@@ -1540,6 +1540,44 @@ Minecraft のバージョンによっては起動しない場合があります�
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <translation>Java checkerライブラリが見つかりませんでした。設定を確認してください。</translation>
+    </message>
+</context>
+<context>
+    <name>ChooseOfflineNameDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
+        <source>Choose Offline Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
+        <source>Message label placeholder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
+        <source>Username</source>
+        <translation type="unfinished">ユーザー名</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
+        <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
+        <source>Allow invalid usernames</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
     </message>
 </context>
 <context>
@@ -5522,17 +5560,17 @@ Please make sure that the maximum memory value is lower.</source>
 最大メモリ割り当て量が2048MiBより低いことを確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="295"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="296"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>最大メモリ割り当て量がシステムメモリ容量を超えています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="298"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="299"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
         <translation>最大メモリ割り当て量が、システムのメモリ容量に近いです。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
         <translation>最大メモリ割りて量が、最小メモリ割り当て量を下回っています。</translation>
     </message>
@@ -5731,48 +5769,48 @@ Javaのバージョンは後で設定で変更できます。
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="70"/>
+        <location filename="src/launcher/LaunchController.cpp" line="71"/>
         <source>No instance specified!</source>
         <translation>起動構成が指定されていません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="75"/>
+        <location filename="src/launcher/LaunchController.cpp" line="76"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
         <translation>無効なJava引数が指定されました。修正してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="92"/>
+        <location filename="src/launcher/LaunchController.cpp" line="93"/>
         <source>No Accounts</source>
         <translation>アカウントがありません</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="93"/>
+        <location filename="src/launcher/LaunchController.cpp" line="94"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation>Minecraftをプレイするためには、MicrosoftまたはMojangのアカウントにログインする必要があります。Mojangアカウントはオフラインで使用することができます。アカウントマネージャーを開いてアカウントを追加しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="119"/>
+        <location filename="src/launcher/LaunchController.cpp" line="120"/>
         <source>Which account would you like to use?</source>
         <translation>どのアカウントを利用しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="192"/>
+        <location filename="src/launcher/LaunchController.cpp" line="198"/>
         <source>No account selected for launch.</source>
         <translation>起動用のアカウントが選択されていません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="316"/>
+        <location filename="src/launcher/LaunchController.cpp" line="322"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
         <translation>ランチャーのクライアントIDが変更されました。&apos;%1&apos;を削除して再試行してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="326"/>
+        <location filename="src/launcher/LaunchController.cpp" line="332"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>&apos;%1&apos;はサーバー上に存在しません。移行された可能性があります。その場合は、移行先の新しいアカウントを追加してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="343"/>
+        <location filename="src/launcher/LaunchController.cpp" line="349"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation>&apos;%1&apos;は有効期限が切れているため再認証が必要です。このアカウントを再認証しますか？</translation>
     </message>
@@ -5781,42 +5819,42 @@ Javaのバージョンは後で設定で変更できます。
         <translation type="vanished">アカウントにログインしていません。パスワードを入力してログインし直してください。&lt;br /&gt; &lt;br /&gt;これはパスワードの変更などで発生します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="209"/>
+        <location filename="src/launcher/LaunchController.cpp" line="215"/>
         <source>Continue launch?</source>
         <translation>起動を続行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="210"/>
+        <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>%1 回試行しましたが、起動できませんでした。試行を続行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="160"/>
+        <location filename="src/launcher/LaunchController.cpp" line="163"/>
         <source>Player name</source>
         <translation>プレイヤー名</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="153"/>
+        <location filename="src/launcher/LaunchController.cpp" line="154"/>
         <source>Choose your offline mode player name.</source>
         <translation>オフラインモードでのプレイヤー名を入力してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="155"/>
+        <location filename="src/launcher/LaunchController.cpp" line="156"/>
         <source>Choose your demo mode player name.</source>
         <translation>デモモードでのプレイヤー名を入力してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="278"/>
+        <location filename="src/launcher/LaunchController.cpp" line="284"/>
         <source>Received undetermined session status during login.</source>
         <translation>ログイン中に不明のセッションステータスを受信しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="137"/>
+        <location filename="src/launcher/LaunchController.cpp" line="138"/>
         <source>Play demo?</source>
         <translation>デモ版をプレイしますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="139"/>
+        <location filename="src/launcher/LaunchController.cpp" line="140"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -5827,17 +5865,17 @@ Do you want to play the demo?</source>
 デモ版をプレイしますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="142"/>
+        <location filename="src/launcher/LaunchController.cpp" line="143"/>
         <source>Play Demo</source>
         <translation>デモ版をプレイ</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="143"/>
+        <location filename="src/launcher/LaunchController.cpp" line="144"/>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="245"/>
+        <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>起動が中止されました - アカウントがMinecraftを所有していません。</translation>
     </message>
@@ -5850,7 +5888,7 @@ Do you want to play the demo?</source>
         <translation>アカウントの有効期限が切れたため、手動でログインし直す必要があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="342"/>
+        <location filename="src/launcher/LaunchController.cpp" line="348"/>
         <source>Account refresh failed</source>
         <translation>アカウントの更新に失敗</translation>
     </message>
@@ -5859,7 +5897,7 @@ Do you want to play the demo?</source>
         <translation>ランチャーのクライアント認証が変更されました。このアカウントを削除し、追加しなおしてください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="319"/>
+        <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>Client identification changed</source>
         <translation>クライアント認証が変更されました</translation>
     </message>
@@ -5868,12 +5906,12 @@ Do you want to play the demo?</source>
         <translation>このアカウントはもうサーバーに存在しません。 移行された可能性があります。この場合、移行したアカウントを追加してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="329"/>
+        <location filename="src/launcher/LaunchController.cpp" line="335"/>
         <source>Account gone</source>
         <translation>アカウントが削除されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="336"/>
+        <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>Failed to launch.</source>
         <translation>起動に失敗しました。</translation>
     </message>
@@ -5886,34 +5924,34 @@ Do you want to play the demo?</source>
         <translation type="vanished">アカウントの有効期限が切れており，再ログインにも失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="367"/>
+        <location filename="src/launcher/LaunchController.cpp" line="373"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>アカウントの有効期限が切れたため、再認証が必要です</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="377"/>
-        <location filename="src/launcher/LaunchController.cpp" line="434"/>
+        <location filename="src/launcher/LaunchController.cpp" line="383"/>
+        <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>Error!</source>
         <translation>エラー！</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="377"/>
-        <location filename="src/launcher/LaunchController.cpp" line="378"/>
+        <location filename="src/launcher/LaunchController.cpp" line="383"/>
+        <location filename="src/launcher/LaunchController.cpp" line="384"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>起動構成のプロファイルをロードできませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="384"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>ランチャーを起動構成にできませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="434"/>
+        <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>%1 のプロファイラチェックが失敗しました：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="447"/>
+        <location filename="src/launcher/LaunchController.cpp" line="453"/>
         <source>&amp;Launch</source>
         <translation>起動(&amp;L)</translation>
     </message>
@@ -5922,7 +5960,7 @@ Do you want to play the demo?</source>
         <translation type="vanished">プロファイラを開始できませんでした: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="441"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5931,7 +5969,7 @@ Do you want to play the demo?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="445"/>
+        <location filename="src/launcher/LaunchController.cpp" line="451"/>
         <source>Waiting.</source>
         <translation>待機中。</translation>
     </message>
@@ -5940,28 +5978,28 @@ Do you want to play the demo?</source>
         <translation type="vanished">起動</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="459"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>プロファイラを開始できませんでした：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="454"/>
+        <location filename="src/launcher/LaunchController.cpp" line="460"/>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="299"/>
-        <location filename="src/launcher/LaunchController.cpp" line="481"/>
+        <location filename="src/launcher/LaunchController.cpp" line="305"/>
+        <location filename="src/launcher/LaunchController.cpp" line="487"/>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="494"/>
+        <location filename="src/launcher/LaunchController.cpp" line="500"/>
         <source>Kill Minecraft?</source>
         <translation>Minecraftを強制終了しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="495"/>
+        <location filename="src/launcher/LaunchController.cpp" line="501"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>これは起動構成の破損を引き起こす可能性があるので、Minecraftがフリーズした場合にのみ使用してください</translation>
     </message>
@@ -10756,32 +10794,26 @@ Please update %1!</source>
 <context>
     <name>OfflineLoginDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="20"/>
         <source>Add Account</source>
         <translation>アカウントを追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
         <translation>ユーザー名</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
         <translation>16 文字を超えるユーザー名は、LAN ゲームやオフラインモードのサーバーでは使用できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
         <source>Allow long usernames</source>
         <translation>長いユーザー名を許可する</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="12"/>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="13"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -10952,14 +10984,14 @@ Please update %1!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="308"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>ログの長さが %1 行を超えたため、このログを表示できません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="403"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="444"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="438"/>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
@@ -10978,17 +11010,17 @@ Please update %1!</source>
         <translation>ファイル %1 は読み取れません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="336"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="330"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
         <translation>ファイル (%1) の読み取り中にエラーが発生しました: %2。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="388"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="382"/>
         <source>Confirm Deletion</source>
         <translation>削除の確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="389"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="383"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -10999,17 +11031,17 @@ Are you sure?</source>
 本当に削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="414"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="408"/>
         <source>Confirm Cleanup</source>
         <translation>クリーンアップの確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="416"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>本当にすべてのログファイルを削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="413"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>本当に以下のファイルをすべて削除しますか？
@@ -11020,7 +11052,7 @@ Are you sure?</source>
         <translation type="vanished">本当に %1を削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="403"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="397"/>
         <source>Unable to delete %1: %2</source>
         <translation>%1 を削除できません：%2</translation>
     </message>
@@ -11039,12 +11071,12 @@ Are you sure?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="446"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="440"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>一部のファイルが削除できませんでした！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="449"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="443"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>ファイルを削除できませんでした：
@@ -12506,22 +12538,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">カスタム</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="308"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>背景猫 (MultiMCより)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="312"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="309"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11 (Ashtaka作)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="313"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="310"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11（フラット版、Ashtaka作）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="314"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie (SympathyTea作)</translation>
     </message>
@@ -13893,12 +13925,12 @@ Are you sure?</source>
         <translation>依存元：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="465"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="466"/>
         <source>Required by:</source>
         <translation>依存元：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="479"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="478"/>
         <source>Changelog of the latest version</source>
         <translation>最新バージョンの更新履歴</translation>
     </message>
@@ -13932,47 +13964,47 @@ Are you sure?</source>
         <translation>ファイル名：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="76"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="73"/>
         <source>This download will be placed in: %1</source>
         <translation>このダウンロードは次の場所に置かれます：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="83"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="79"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
         <translation>このファイルは、おそらくローダーを必要とするため、通常とは異なるフォルダーの場所にダウンロードされます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="87"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="83"/>
         <source>Provider: %1</source>
         <translation>提供元：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="95"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="89"/>
         <source>Required by: %1</source>
         <translation>依存元：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="97"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="92"/>
         <source>Required by:</source>
         <translation>依存元：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="104"/>
         <source>Version Type: %1</source>
         <translation>バージョンタイプ：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="139"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="129"/>
         <source>Confirm %1 selection</source>
         <translation>%1の選択を確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="141"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="131"/>
         <source>You&apos;re about to download the following %1:</source>
         <translation>以下の%1をダウンロードしようとしています：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="132"/>
         <source>Only %1 with a check will be downloaded!</source>
         <translation>チェックが入った%1のみがダウンロードされます！</translation>
     </message>

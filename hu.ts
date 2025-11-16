@@ -729,17 +729,17 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <translation type="vanished">Az offline fiók használatához hozzá kell adod egy Minecraft-ot birtokló Microsoft- vagy Mojang-fiókot.&lt;br&gt;&lt;br&gt;Ha elvesztette fiókját, segítségért forduljon a Microsofthoz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>Add meg a kívánt felhasználónevet az offline fiókhoz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
         <source>Remove account?</source>
         <translation>Eltávolítod a fiókot?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
         <source>Do you really want to delete this account?</source>
         <translation>Biztosan szeretnéd törölni ezt a fiókot?</translation>
     </message>
@@ -930,17 +930,17 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="700"/>
+        <location filename="src/launcher/Application.cpp" line="697"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>Nem lehet megjeleníteni ezt a naplót, mivel a hossza meghaladta a(z) %1 sort.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="906"/>
+        <location filename="src/launcher/Application.cpp" line="903"/>
         <source>Settings</source>
         <translation>Beállítások</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1052"/>
+        <location filename="src/launcher/Application.cpp" line="1049"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -967,12 +967,12 @@ a legutóbbi frissítési kísérlet részleteiért.
 A zárolás törléséhez és a folytatáshoz válaszd az alábbi &quot;Ignore&quot; (figyelmen kívül hagyás) lehetőséget.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1069"/>
+        <location filename="src/launcher/Application.cpp" line="1066"/>
         <source>Update In Progress</source>
         <translation>Frissítés folyamatban</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1093"/>
+        <location filename="src/launcher/Application.cpp" line="1090"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -987,12 +987,12 @@ Tekintsd meg a Prism Launcher frissítési naplóját itt:&#xa0;
 hogy részletes leírást kapj az utolsó frissítési próbálkozásról.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1101"/>
+        <location filename="src/launcher/Application.cpp" line="1098"/>
         <source>Update Failed</source>
         <translation>Sikertelen Frissítés</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1125"/>
+        <location filename="src/launcher/Application.cpp" line="1122"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1013,12 +1013,12 @@ Tekintsd meg a Prism Launcher frissítési naplóját itt:&#xa0;
 további részletekért.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1133"/>
+        <location filename="src/launcher/Application.cpp" line="1130"/>
         <source>Update Succeeded</source>
         <translation>Sikeres Frissítés</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1165"/>
+        <location filename="src/launcher/Application.cpp" line="1162"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1039,32 +1039,32 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1171"/>
+        <location filename="src/launcher/Application.cpp" line="1168"/>
         <source>Incompatible system configuration</source>
         <translation>Nem kompatibilis rendszerkonfiguráció</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1542"/>
+        <location filename="src/launcher/Application.cpp" line="1539"/>
         <source>Aborted</source>
         <translation>Megszakítva</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1951"/>
+        <location filename="src/launcher/Application.cpp" line="1948"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Régi adatok találhatók a(z) %1 példányból, de már vannak adatok a(z) %2 példányhoz. Sajnos neked kell migrálnod. Szeretnél emlékeztetőt kapni a függőben lévő adatmigrációról, amikor legközelebb elindítod a(z) %2 példányt?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1955"/>
+        <location filename="src/launcher/Application.cpp" line="1952"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Úgy tűnik, korábban már használtad a(z) %1. Szeretnéd áttelepíteni az adataidat a(z) %2 új helyre?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1961"/>
+        <location filename="src/launcher/Application.cpp" line="1958"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Úgy tűnik, korábban használtad a(z) %1-et %2-n. Szeretnéd áttelepíteni az adataidat a(z) %3 új helyére?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2007"/>
+        <location filename="src/launcher/Application.cpp" line="2004"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Az áttelepítés nem sikerült! Ok: %1</translation>
     </message>
@@ -1568,6 +1568,44 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <translation>Java ellenőrző könyvtár nem található. Kérlek, ellenőrizd a telepítést.</translation>
+    </message>
+</context>
+<context>
+    <name>ChooseOfflineNameDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
+        <source>Choose Offline Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
+        <source>Message label placeholder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
+        <source>Username</source>
+        <translation type="unfinished">Felhasználónév</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
+        <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
+        <source>Allow invalid usernames</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Mégsem</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
     </message>
 </context>
 <context>
@@ -5654,17 +5692,17 @@ Ez a telepítés nem támogat több mint 2048 MB RAM-ot.
 Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="295"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="296"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>A maximális memóriafoglalás meghaladja a rendszermemória kapacitását.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="298"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="299"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
         <translation>A maximális memóriafoglalás közel van a rendszermemória kapacitásához.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
         <translation>A maximális memóriafoglalás a minimális memóriafoglalás alatt van.</translation>
     </message>
@@ -5863,48 +5901,48 @@ A Java verziót később a beállítások között megváltoztathatod.
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="70"/>
+        <location filename="src/launcher/LaunchController.cpp" line="71"/>
         <source>No instance specified!</source>
         <translation>Nincs megadva példány!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="75"/>
+        <location filename="src/launcher/LaunchController.cpp" line="76"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
         <translation>Érvénytelen Java argumentumok megadva. Kérlek, először ezt javítsd ki.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="92"/>
+        <location filename="src/launcher/LaunchController.cpp" line="93"/>
         <source>No Accounts</source>
         <translation>Nincsenek fiókok</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="93"/>
+        <location filename="src/launcher/LaunchController.cpp" line="94"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation>A Minecraft-hoz legalább egy Microsoft fiókkal be kell jelentkezned. Szeretnéd megnyitni a fiókkezelőt, hogy most hozzáadj egy fiókot?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="119"/>
+        <location filename="src/launcher/LaunchController.cpp" line="120"/>
         <source>Which account would you like to use?</source>
         <translation>Melyik fiókot szeretnéd használni?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="192"/>
+        <location filename="src/launcher/LaunchController.cpp" line="198"/>
         <source>No account selected for launch.</source>
         <translation>Nincs kiválasztott fiók az indításhoz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="316"/>
+        <location filename="src/launcher/LaunchController.cpp" line="322"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
         <translation>A launcher ügyfél-azonosítója megváltozott. Távolítsd el a következőt: &quot;%1&quot;, és próbáld meg újra.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="326"/>
+        <location filename="src/launcher/LaunchController.cpp" line="332"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>&quot;%1&quot; már nem létezik a szervereken. Lehet, hogy át lett migrálva, ebben az esetben add hozzá az új fiókot, ahová átmigráltad ezt a fiókot.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="343"/>
+        <location filename="src/launcher/LaunchController.cpp" line="349"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation>&quot;%1&quot; lejárt, és újra kell hitelesíteni. Szeretnéd újra hitelesíteni ezt a fiókot?</translation>
     </message>
@@ -5913,42 +5951,42 @@ A Java verziót később a beállítások között megváltoztathatod.
         <translation type="vanished">A fiőkod nincs bejelentkezve. Írjad be a jelszavad hogy újra belépjél. &lt;br /&gt; &lt;br /&gt; Ezt lehet hogy egy jelszó váltás okozta.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="209"/>
+        <location filename="src/launcher/LaunchController.cpp" line="215"/>
         <source>Continue launch?</source>
         <translation>Folytatod az indítást?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="210"/>
+        <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Úgy tűnik, hogy %1 próbálkozás után se tudtuk elindítani. Szeretnéd folytatni a próbálkozást?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="160"/>
+        <location filename="src/launcher/LaunchController.cpp" line="163"/>
         <source>Player name</source>
         <translation>Játékos név</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="153"/>
+        <location filename="src/launcher/LaunchController.cpp" line="154"/>
         <source>Choose your offline mode player name.</source>
         <translation>Válaszd ki az offline módos játékos nevedet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="155"/>
+        <location filename="src/launcher/LaunchController.cpp" line="156"/>
         <source>Choose your demo mode player name.</source>
         <translation>Válaszd ki a demo mód játékos nevét.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="278"/>
+        <location filename="src/launcher/LaunchController.cpp" line="284"/>
         <source>Received undetermined session status during login.</source>
         <translation>A bejelentkezés során meghatározatlan munkamenet állapot érkezett be.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="137"/>
+        <location filename="src/launcher/LaunchController.cpp" line="138"/>
         <source>Play demo?</source>
         <translation>Demo indítása?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="139"/>
+        <location filename="src/launcher/LaunchController.cpp" line="140"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -5959,17 +5997,17 @@ Először meg kell vásárolnod a játékot, hogy játszhass vele.
 Szeretnél játszani a demóval?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="142"/>
+        <location filename="src/launcher/LaunchController.cpp" line="143"/>
         <source>Play Demo</source>
         <translation>Demo indítása</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="143"/>
+        <location filename="src/launcher/LaunchController.cpp" line="144"/>
         <source>Cancel</source>
         <translation>Mégsem</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="245"/>
+        <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Az indítás megszakítva – a fiók nem rendelkezik Minecrafttal.</translation>
     </message>
@@ -5982,7 +6020,7 @@ Szeretnél játszani a demóval?</translation>
         <translation>A fiók lejárt, és manuálisan újra be kell jelentkezni.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="342"/>
+        <location filename="src/launcher/LaunchController.cpp" line="348"/>
         <source>Account refresh failed</source>
         <translation>A fiók frissítése nem sikerült</translation>
     </message>
@@ -5991,7 +6029,7 @@ Szeretnél játszani a demóval?</translation>
         <translation>A launcher ügyfél-azonosítója megváltozott. Távolítsd el ezt a fiókot, és add hozzá újra.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="319"/>
+        <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>Client identification changed</source>
         <translation>Az ügyfélazonosító megváltozott</translation>
     </message>
@@ -6000,12 +6038,12 @@ Szeretnél játszani a demóval?</translation>
         <translation>A fiók már nem létezik a szervereken. Lehet, hogy át lett migrálva, ebben az esetben add hozzá az új fiókot, amelyre átmigráltad ezt a fiókot.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="329"/>
+        <location filename="src/launcher/LaunchController.cpp" line="335"/>
         <source>Account gone</source>
         <translation>A fiók eltűnt</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="336"/>
+        <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>Failed to launch.</source>
         <translation>Indítás sikertelen.</translation>
     </message>
@@ -6018,34 +6056,34 @@ Szeretnél játszani a demóval?</translation>
         <translation type="vanished">A fiók lejárt, és az újrabejelentkezési kísérlet sikertelen volt</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="367"/>
+        <location filename="src/launcher/LaunchController.cpp" line="373"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>A fiók lejárt, és újra kell hitelesíteni</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="377"/>
-        <location filename="src/launcher/LaunchController.cpp" line="434"/>
+        <location filename="src/launcher/LaunchController.cpp" line="383"/>
+        <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>Error!</source>
         <translation>Hiba!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="377"/>
-        <location filename="src/launcher/LaunchController.cpp" line="378"/>
+        <location filename="src/launcher/LaunchController.cpp" line="383"/>
+        <location filename="src/launcher/LaunchController.cpp" line="384"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Nem sikerült betölteni a példány profilt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="384"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Nem sikerült megnyitni a launchert.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="434"/>
+        <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>%1 profilellenőrzése sikertelen: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="447"/>
+        <location filename="src/launcher/LaunchController.cpp" line="453"/>
         <source>&amp;Launch</source>
         <translation>Indítás</translation>
     </message>
@@ -6054,7 +6092,7 @@ Szeretnél játszani a demóval?</translation>
         <translation type="vanished">Nem sikerült elindítani a profilert: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="441"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -6063,7 +6101,7 @@ Szeretnél játszani a demóval?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="445"/>
+        <location filename="src/launcher/LaunchController.cpp" line="451"/>
         <source>Waiting.</source>
         <translation>Várakozás.</translation>
     </message>
@@ -6072,28 +6110,28 @@ Szeretnél játszani a demóval?</translation>
         <translation type="vanished">Indítás</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="459"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Nem sikerült elindítani a profilert: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="454"/>
+        <location filename="src/launcher/LaunchController.cpp" line="460"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="299"/>
-        <location filename="src/launcher/LaunchController.cpp" line="481"/>
+        <location filename="src/launcher/LaunchController.cpp" line="305"/>
+        <location filename="src/launcher/LaunchController.cpp" line="487"/>
         <source>Abort</source>
         <translation>Megszakítás</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="494"/>
+        <location filename="src/launcher/LaunchController.cpp" line="500"/>
         <source>Kill Minecraft?</source>
         <translation>Minecraft megszakítása?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="495"/>
+        <location filename="src/launcher/LaunchController.cpp" line="501"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Ez a példány sérülését okozhatja, és csak akkor szabad használni, ha a Minecraft valamilyen okból kifolyólag lefagyott</translation>
     </message>
@@ -11258,32 +11296,26 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
 <context>
     <name>OfflineLoginDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="20"/>
         <source>Add Account</source>
         <translation>Fiók hozzáadása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
         <translation>Felhasználónév</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
         <translation>A 16 karakternél hosszabb felhasználónevek nem használhatók LAN-játékokban vagy offline módú szervereken.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
         <source>Allow long usernames</source>
         <translation>Hosszú felhasználónevek engedélyezése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="12"/>
         <source>Cancel</source>
         <translation>Mégsem</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="13"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -11454,14 +11486,14 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="308"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>Nem lehet megjeleníteni ezt a naplót, mivel a hossza meghaladta a(z) %1 sort.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="403"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="444"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="438"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
@@ -11480,17 +11512,17 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation>A fájl (%1) nem olvasható.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="336"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="330"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
         <translation>A fájl (%1) olvasásakor hiba lépett fel: %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="388"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="382"/>
         <source>Confirm Deletion</source>
         <translation>Törlés megerősítése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="389"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="383"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -11501,17 +11533,17 @@ Ez végleges lehet, és el fog tűnni a naplók mappájából.
 Biztos vagy ebben?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="414"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="408"/>
         <source>Confirm Cleanup</source>
         <translation>Tisztitás megerősítése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="416"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>Biztosan törlöd az összes naplófájlt?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="413"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>Biztosan törli ezeket a fájlokat?
@@ -11522,7 +11554,7 @@ Biztos vagy ebben?</translation>
         <translation type="vanished">Tényleg törölni szeretné a(z) %1 fájlt?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="403"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="397"/>
         <source>Unable to delete %1: %2</source>
         <translation>%1: %2 nem törölhető</translation>
     </message>
@@ -11541,12 +11573,12 @@ Biztos vagy ebben?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="446"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="440"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>Nem sikerült néhány fájlt törölni!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="449"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="443"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>Nem sikerült néhány fájlt törölni:
@@ -13038,22 +13070,22 @@ MEGJEGYZÉS: Győződj meg róla, hogy a frissítés előtt biztonsági másolat
         <translation type="vanished">Egyedi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="308"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>Háttér cica (a MultiMC-ből)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="312"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="309"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11 (rajzolta: Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="313"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="310"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11 (flat edition, rajzolta: Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="314"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie (rajzolta: SympathyTea)</translation>
     </message>
@@ -14429,12 +14461,12 @@ Biztos vagy ebben?</translation>
         <translation>Szükséges ehhez: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="465"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="466"/>
         <source>Required by:</source>
         <translation>Szükséges ehhez:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="479"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="478"/>
         <source>Changelog of the latest version</source>
         <translation>Változásnapló a legújabb verzióhoz</translation>
     </message>
@@ -14480,47 +14512,47 @@ Biztos vagy ebben?</translation>
         <translation>Fájlnév: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="76"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="73"/>
         <source>This download will be placed in: %1</source>
         <translation>Ez a letöltés ide lesz helyezve: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="83"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="79"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
         <translation>Ez a fájl az alapértelmezettől eltérő mappába lesz letöltve, valószínűleg azért, mert a (mod) betöltője ezt igényli.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="87"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="83"/>
         <source>Provider: %1</source>
         <translation>Szolgáltató: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="95"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="89"/>
         <source>Required by: %1</source>
         <translation>Szükséges ehhez: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="97"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="92"/>
         <source>Required by:</source>
         <translation>Szükséges ehhez:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="104"/>
         <source>Version Type: %1</source>
         <translation>Verziótípus: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="139"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="129"/>
         <source>Confirm %1 selection</source>
         <translation>Erősítse meg a %1 kiválasztását</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="141"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="131"/>
         <source>You&apos;re about to download the following %1:</source>
         <translation>A következő %1 letöltésére készül:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="132"/>
         <source>Only %1 with a check will be downloaded!</source>
         <translation>Csak a kipipált %1 lesznek letöltve!</translation>
     </message>

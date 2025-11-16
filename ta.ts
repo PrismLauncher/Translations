@@ -568,12 +568,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
         <translation>இணைப்பில்லாத கணக்கைச் சேர்ப்பதற்கு முன்பு Minecraft ஐக் கொண்ட நுண்மென் கணக்கை நீங்கள் சேர்க்க வேண்டும். &lt;br&gt; &lt;br&gt; உங்கள் கணக்கை இழந்துவிட்டால், ஆதரவுக்காக மைக்ரோசாப்ட் தொடர்பு கொள்ளலாம்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
         <source>Remove account?</source>
         <translation>கணக்கை அகற்றவா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
         <source>Do you really want to delete this account?</source>
         <translation>இந்த கணக்கை நீக்க விரும்புகிறீர்களா?</translation>
     </message>
@@ -594,7 +594,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
         <translation>பிழை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>உங்கள் இணைப்பில்லாத கணக்கைச் சேர்க்க நீங்கள் விரும்பிய பயனர்பெயரை உள்ளிடவும்.</translation>
     </message>
@@ -743,17 +743,17 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="700"/>
+        <location filename="src/launcher/Application.cpp" line="697"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>பதிவு நீளம் %1 வரிகளைத் தாண்டியதால் இந்த பதிவைக் காட்ட முடியாது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="906"/>
+        <location filename="src/launcher/Application.cpp" line="903"/>
         <source>Settings</source>
         <translation>அமைப்புகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1052"/>
+        <location filename="src/launcher/Application.cpp" line="1049"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -780,12 +780,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
  இந்த பூட்டை நீக்கி, கீழே உள்ள &quot;புறக்கணிக்கவும்&quot; என்பதைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1069"/>
+        <location filename="src/launcher/Application.cpp" line="1066"/>
         <source>Update In Progress</source>
         <translation>புதுப்பிப்பு செயலில் உள்ளது</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1093"/>
+        <location filename="src/launcher/Application.cpp" line="1090"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -800,12 +800,12 @@ for details on the last update attempt.</source>
  கடைசி புதுப்பிப்பு முயற்சி குறித்த விவரங்களுக்கு.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1101"/>
+        <location filename="src/launcher/Application.cpp" line="1098"/>
         <source>Update Failed</source>
         <translation>புதுப்பிப்பு தோல்வியடைந்தது</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1125"/>
+        <location filename="src/launcher/Application.cpp" line="1122"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -826,12 +826,12 @@ for details.</oldsource>
  விவரங்களுக்கு.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1133"/>
+        <location filename="src/launcher/Application.cpp" line="1130"/>
         <source>Update Succeeded</source>
         <translation>புதுப்பிப்பு செய் பெற்றது</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1165"/>
+        <location filename="src/launcher/Application.cpp" line="1162"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -844,32 +844,32 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1171"/>
+        <location filename="src/launcher/Application.cpp" line="1168"/>
         <source>Incompatible system configuration</source>
         <translation>பொருந்தாத கணினி உள்ளமைவு</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1542"/>
+        <location filename="src/launcher/Application.cpp" line="1539"/>
         <source>Aborted</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1951"/>
+        <location filename="src/launcher/Application.cpp" line="1948"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 இலிருந்து பழைய தரவு கண்டறியப்பட்டது, ஆனால் உங்களிடம் ஏற்கனவே %2 க்கு தரவு உள்ளது. துரதிர்ச்டவசமாக நீங்கள் உங்களை குடிபெயர வேண்டும். அடுத்த முறை நீங்கள் %2 ஐத் தொடங்கும்போது நிலுவையில் உள்ள தரவு இடம்பெயர்வு நினைவூட்டப்பட விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1955"/>
+        <location filename="src/launcher/Application.cpp" line="1952"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>நீங்கள் முன்பு %1 ஐப் பயன்படுத்தியது போல் தெரிகிறது. உங்கள் தரவை %2 இன் புதிய இடத்திற்கு மாற்ற விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1961"/>
+        <location filename="src/launcher/Application.cpp" line="1958"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>இதற்கு முன்பு %2 இல் %1 ஐப் பயன்படுத்தியது போல் தெரிகிறது. உங்கள் தரவை %3 இன் புதிய இடத்திற்கு மாற்ற விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2007"/>
+        <location filename="src/launcher/Application.cpp" line="2004"/>
         <source>Migration failed! Reason: %1</source>
         <translation>இடம்பெயர்வு தோல்வியடைந்தது! காரணம்: %1</translation>
     </message>
@@ -1300,6 +1300,44 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <translation>சாவா செக்கர் நூலகத்தைக் கண்டுபிடிக்க முடியவில்லை. உங்கள் நிறுவலை சரிபார்க்கவும்.</translation>
+    </message>
+</context>
+<context>
+    <name>ChooseOfflineNameDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
+        <source>Choose Offline Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
+        <source>Message label placeholder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
+        <source>Username</source>
+        <translation type="unfinished">பயனர்பெயர்</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
+        <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
+        <source>Allow invalid usernames</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
+        <source>Cancel</source>
+        <translation type="unfinished">ரத்துசெய்</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
+        <source>OK</source>
+        <translation type="unfinished">சரி</translation>
     </message>
 </context>
 <context>
@@ -4878,17 +4916,17 @@ Please make sure that the maximum memory value is lower.</source>
 அதிகபட்ச நினைவக மதிப்பு குறைவாக இருப்பதை உறுதிப்படுத்தவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="295"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="296"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு உங்கள் கணினி நினைவக திறனை மீறுகிறது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="298"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="299"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
         <translation>உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு உங்கள் கணினி நினைவக திறனுடன் நெருக்கமாக உள்ளது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
         <translation>உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு குறைந்தபட்ச நினைவக ஒதுக்கீட்டிற்குக் கீழே உள்ளது.</translation>
     </message>
@@ -5079,57 +5117,57 @@ You can change the Java version in the settings later.
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="70"/>
+        <location filename="src/launcher/LaunchController.cpp" line="71"/>
         <source>No instance specified!</source>
         <translation>எந்த நிகழ்வும் குறிப்பிடப்படவில்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="75"/>
+        <location filename="src/launcher/LaunchController.cpp" line="76"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
         <translation>தவறான சாவா வாதங்கள் குறிப்பிடப்பட்டுள்ளன. இதை முதலில் சரிசெய்யவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="92"/>
+        <location filename="src/launcher/LaunchController.cpp" line="93"/>
         <source>No Accounts</source>
         <translation>கணக்குகள் இல்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="119"/>
+        <location filename="src/launcher/LaunchController.cpp" line="120"/>
         <source>Which account would you like to use?</source>
         <translation>எந்த கணக்கைப் பயன்படுத்த விரும்புகிறீர்கள்?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="192"/>
+        <location filename="src/launcher/LaunchController.cpp" line="198"/>
         <source>No account selected for launch.</source>
         <translation>துவக்க எந்த கணக்கு தேர்ந்தெடுக்கப்படவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="160"/>
+        <location filename="src/launcher/LaunchController.cpp" line="163"/>
         <source>Player name</source>
         <translation>வீரர் பெயர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="153"/>
+        <location filename="src/launcher/LaunchController.cpp" line="154"/>
         <source>Choose your offline mode player name.</source>
         <translation>உங்கள் இணைப்பில்லாத பயன்முறை வீரர் பெயரைத் தேர்வுசெய்க.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="155"/>
+        <location filename="src/launcher/LaunchController.cpp" line="156"/>
         <source>Choose your demo mode player name.</source>
         <translation>உங்கள் டெமோ பயன்முறை பிளேயர் பெயரைத் தேர்வுசெய்க.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="278"/>
+        <location filename="src/launcher/LaunchController.cpp" line="284"/>
         <source>Received undetermined session status during login.</source>
         <translation>உள்நுழைவின் போது தீர்மானிக்கப்படாத அமர்வு நிலையைப் பெற்றது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="137"/>
+        <location filename="src/launcher/LaunchController.cpp" line="138"/>
         <source>Play demo?</source>
         <translation>டெமோ விளையாடவா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="139"/>
+        <location filename="src/launcher/LaunchController.cpp" line="140"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -5140,17 +5178,17 @@ Do you want to play the demo?</source>
  நீங்கள் டெமோ விளையாட விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="142"/>
+        <location filename="src/launcher/LaunchController.cpp" line="143"/>
         <source>Play Demo</source>
         <translation>டெமோ விளையாடுங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="143"/>
+        <location filename="src/launcher/LaunchController.cpp" line="144"/>
         <source>Cancel</source>
         <translation>ரத்துசெய்</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="245"/>
+        <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>ஏவுதல் ரத்து செய்யப்பட்டது - கணக்கில் Minecraft இல்லை.</translation>
     </message>
@@ -5159,17 +5197,17 @@ Do you want to play the demo?</source>
         <translation>ஆஃப்லைனில் விளையாடுங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="316"/>
+        <location filename="src/launcher/LaunchController.cpp" line="322"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
         <translation>துவக்கியின் கிளையன்ட் அடையாளம் மாறிவிட்டது. தயவுசெய்து &apos;%1&apos; ஐ அகற்றி மீண்டும் முயற்சிக்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="326"/>
+        <location filename="src/launcher/LaunchController.cpp" line="332"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>&apos;%1&apos; இனி சேவையகங்களில் இல்லை. இது இடம்பெயர்ந்திருக்கலாம், இந்த விசயத்தில் நீங்கள் இதை இடம்பெயர்ந்த புதிய கணக்கைச் சேர்க்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="342"/>
+        <location filename="src/launcher/LaunchController.cpp" line="348"/>
         <source>Account refresh failed</source>
         <translation>கணக்கு புதுப்பிப்பு தோல்வியடைந்தது</translation>
     </message>
@@ -5178,12 +5216,12 @@ Do you want to play the demo?</source>
         <translation>கணக்கு இனி சேவையகங்களில் இல்லை. இது இடம்பெயர்ந்திருக்கலாம், இந்த விசயத்தில் நீங்கள் இதை இடம்பெயர்ந்த புதிய கணக்கைச் சேர்க்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="329"/>
+        <location filename="src/launcher/LaunchController.cpp" line="335"/>
         <source>Account gone</source>
         <translation>கணக்கு போய்விட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="336"/>
+        <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>Failed to launch.</source>
         <translation>தொடங்கத் தவறிவிட்டது.</translation>
     </message>
@@ -5196,39 +5234,39 @@ Do you want to play the demo?</source>
         <translation type="vanished">கணக்கு காலாவதியானது மற்றும் மறு உள்நுழைவு முயற்சி தோல்வியடைந்தது</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="367"/>
+        <location filename="src/launcher/LaunchController.cpp" line="373"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>கணக்கு காலாவதியானது மற்றும் மறு ஏற்பு பெற வேண்டும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="377"/>
-        <location filename="src/launcher/LaunchController.cpp" line="434"/>
+        <location filename="src/launcher/LaunchController.cpp" line="383"/>
+        <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>Error!</source>
         <translation>பிழை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="377"/>
-        <location filename="src/launcher/LaunchController.cpp" line="378"/>
+        <location filename="src/launcher/LaunchController.cpp" line="383"/>
+        <location filename="src/launcher/LaunchController.cpp" line="384"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>நிகழ்வு சுயவிவரத்தை ஏற்ற முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="384"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>ஒரு துவக்கியை உடனடிப்படுத்த முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="434"/>
+        <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>%1 க்கான சுயவிவர சோதனை தோல்வியுற்றது: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="447"/>
+        <location filename="src/launcher/LaunchController.cpp" line="453"/>
         <source>&amp;Launch</source>
         <translation>&amp; ஏவுதல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="441"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5237,38 +5275,38 @@ Do you want to play the demo?</source>
  %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="343"/>
+        <location filename="src/launcher/LaunchController.cpp" line="349"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation>&apos;%1&apos; காலாவதியானது மற்றும் மறு ஏற்பு பெற வேண்டும். இந்த கணக்கை மீண்டும் அங்கீகரிக்க விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="445"/>
+        <location filename="src/launcher/LaunchController.cpp" line="451"/>
         <source>Waiting.</source>
         <translation>காத்திருக்கிறது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="459"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>சுயவிவரத்தைத் தொடங்க முடியவில்லை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="454"/>
+        <location filename="src/launcher/LaunchController.cpp" line="460"/>
         <source>Error</source>
         <translation>பிழை</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="299"/>
-        <location filename="src/launcher/LaunchController.cpp" line="481"/>
+        <location filename="src/launcher/LaunchController.cpp" line="305"/>
+        <location filename="src/launcher/LaunchController.cpp" line="487"/>
         <source>Abort</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="494"/>
+        <location filename="src/launcher/LaunchController.cpp" line="500"/>
         <source>Kill Minecraft?</source>
         <translation>மின்கிராஃப்டைக் கொல்லவா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="495"/>
+        <location filename="src/launcher/LaunchController.cpp" line="501"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>இது சான்று சிதைவதற்கு காரணமாக இருக்கலாம், மேலும் சில காரணங்களால் Minecraft உறைந்திருந்தால் மட்டுமே பயன்படுத்தப்பட வேண்டும்</translation>
     </message>
@@ -5277,22 +5315,22 @@ Do you want to play the demo?</source>
         <translation>துவக்கியின் கிளையன்ட் அடையாளம் மாறிவிட்டது. தயவுசெய்து இந்த கணக்கை அகற்றி மீண்டும் சேர்க்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="209"/>
+        <location filename="src/launcher/LaunchController.cpp" line="215"/>
         <source>Continue launch?</source>
         <translation>தொடங்கத் தொடரவா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="210"/>
+        <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>%1 முயற்சிகளுக்குப் பிறகு எங்களால் தொடங்க முடியவில்லை என்று தெரிகிறது. நீங்கள் தொடர்ந்து முயற்சி செய்ய விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="319"/>
+        <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>Client identification changed</source>
         <translation>வாடிக்கையாளர் அடையாளம் மாற்றப்பட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="93"/>
+        <location filename="src/launcher/LaunchController.cpp" line="94"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation>Minecraft விளையாடுவதற்கு, மின்கிராஃப்ட் உள்நுழைந்த குறைந்தபட்சம் ஒரு நுண்மென் கணக்கையாவது உங்களிடம் இருக்க வேண்டும். இப்போது ஒரு கணக்கைச் சேர்க்க கணக்கு மேலாளரைத் திறக்க விரும்புகிறீர்களா?</translation>
@@ -9295,32 +9333,26 @@ Please update %1!</source>
 <context>
     <name>OfflineLoginDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="20"/>
         <source>Add Account</source>
         <translation>கணக்கைச் சேர்க்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
         <translation>பயனர்பெயர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
         <translation>லேன் கேம்கள் அல்லது ஆஃப்லைன்-பயன் சேவையகங்களுக்கு 16 எழுத்துகளுக்கு மேல் உள்ள பயனர்பெயர்கள் பயன்படுத்த முடியாது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
         <source>Allow long usernames</source>
         <translation>நீண்ட பயனர்பெயர்களை அனுமதிக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="12"/>
         <source>Cancel</source>
         <translation>ரத்துசெய்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="13"/>
         <source>OK</source>
         <translation>சரி</translation>
     </message>
@@ -9479,8 +9511,8 @@ Please update %1!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="403"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="444"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="438"/>
         <source>Error</source>
         <translation>பிழை</translation>
     </message>
@@ -9499,12 +9531,12 @@ Please update %1!</source>
         <translation>கோப்பு (%1) படிக்க முடியாது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="388"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="382"/>
         <source>Confirm Deletion</source>
         <translation>நீக்குதலை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="389"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="383"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -9515,45 +9547,45 @@ Are you sure?</source>
  நீங்கள் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="414"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="408"/>
         <source>Confirm Cleanup</source>
         <translation>தூய்மைப்படுத்தலை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="416"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>எல்லா பதிவு கோப்புகளையும் நீக்க விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="413"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>இந்த கோப்புகள் அனைத்தையும் நீக்க விரும்புகிறீர்களா?
  %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="403"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="397"/>
         <source>Unable to delete %1: %2</source>
         <translation>%1: %2 ஐ நீக்க முடியவில்லை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="308"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>பதிவு நீளம் %1 வரிகளைத் தாண்டியதால் இந்த பதிவைக் காட்ட முடியாது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="336"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="330"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
         <translation>கோப்பு ( %1) படிக்கும்போது பிழையை எதிர்கொண்டது: %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="446"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="440"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>சில கோப்புகளை நீக்க முடியவில்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="449"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="443"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>சில கோப்புகளை நீக்க முடியவில்லை:
@@ -10890,22 +10922,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>புதிய நிகழ்வை உருவாக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="308"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>பின்னணி பூனை (மல்டிம்சியிலிருந்து)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="312"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="309"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>ரோரி ஐடி 11 (அச்டகாவால் வரையப்பட்டது)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="313"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="310"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>ரோரி ஐடி 11 (தட்டையான பதிப்பு, அச்டகாவால் வரையப்பட்டது)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="314"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="311"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>TEAWIE (அனுதாபத்தால் வரையப்பட்டது)</translation>
     </message>
@@ -12256,12 +12288,12 @@ Are you sure?</source>
         <translation>தேவை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="465"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="466"/>
         <source>Required by:</source>
         <translation>வழங்கியவர்:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="479"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="478"/>
         <source>Changelog of the latest version</source>
         <translation>அண்மைக் கால பதிப்பின் சேஞ்ச்லாக்</translation>
     </message>
@@ -12295,47 +12327,47 @@ Are you sure?</source>
         <translation>கோப்பு பெயர்: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="76"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="73"/>
         <source>This download will be placed in: %1</source>
         <translation>இந்த பதிவிறக்கம் வைக்கப்படும்: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="83"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="79"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
         <translation>இந்த கோப்பு இயல்புநிலையிலிருந்து வேறுபட்ட ஒரு கோப்புறை இருப்பிடத்திற்கு பதிவிறக்கம் செய்யப்படும், அதன் ஏற்றி தேவைப்படும் காரணமாக இருக்கலாம்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="87"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="83"/>
         <source>Provider: %1</source>
         <translation>வழங்குநர்: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="95"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="89"/>
         <source>Required by: %1</source>
         <translation>தேவை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="97"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="92"/>
         <source>Required by:</source>
         <translation>வழங்கியவர்:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="104"/>
         <source>Version Type: %1</source>
         <translation>பதிப்பு வகை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="139"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="129"/>
         <source>Confirm %1 selection</source>
         <translation>%1 தேர்வை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="141"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="131"/>
         <source>You&apos;re about to download the following %1:</source>
         <translation>பின்வரும் %1 ஐ பதிவிறக்கம் செய்ய உள்ளீர்கள்:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="132"/>
         <source>Only %1 with a check will be downloaded!</source>
         <translation>காசோலையுடன் %1 மட்டுமே பதிவிறக்கம் செய்யப்படும்!</translation>
     </message>
