@@ -4827,7 +4827,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Инше</translation>
+        <translation>Інше</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
