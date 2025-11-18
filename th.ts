@@ -14105,7 +14105,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ดูโฟลเดอร์ธีมไอคอน</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
@@ -14125,7 +14125,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ดูโฟลเดอร์แพ็คแมว</translation>
     </message>
     <message>
         <source>Refresh all</source>
