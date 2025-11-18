@@ -9957,7 +9957,7 @@ Najprawdopodobniej będziesz musiał/-a zmienić ścieżkę- sprawdź ze stroną
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Rift</source>
-        <translation>Szczelina</translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="200"/>
