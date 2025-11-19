@@ -5119,7 +5119,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
         <source>Download</source>
-        <translation type="unfinished">Stiahnuť</translation>
+        <translation>Stiahnuť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"/>
@@ -5129,7 +5129,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="115"/>
         <source>Refresh</source>
-        <translation type="unfinished">Obnoviť</translation>
+        <translation>Obnoviť</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -5196,8 +5196,8 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">Vybrali ste 32-bitovú verziu Javy.
-Táto inštalácia nepodporuje viac ako 2048MiB pamäte RAM.
+        <translation>Vybrali ste 32-bitovú verziu Javy.
+Táto inštalácia nepodporuje viac ako 2048 MiB pamäte RAM.
 Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     </message>
     <message>
@@ -5306,7 +5306,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulár</translation>
+        <translation>Formulár</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
@@ -5349,7 +5349,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">Ak je možnosť zapnutá, launcher nebude kontrolovať či je inštancia kompatibilná z vybranou verziou Javy.</translation>
+        <translation>Ak je táto možnosť zapnutá, launcher nebude kontrolovať či je inštancia kompatibilná s vybranou verziou Javy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
@@ -5459,7 +5459,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
         <source>Select a Java version</source>
-        <translation type="unfinished">Zvoľte Java verziu</translation>
+        <translation>Zvoľte verziu Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
