@@ -18,7 +18,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>&amp;URL</translation>
+        <translation>Základná &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Poznámka: Po změně typu služby budete pravděpodobně chtít změnit nebo vymazat adresu URL.</translation>
+        <translation>Poznámka: po změně typu služby pro sdílení textu pravděpodobně chcete změnit nebo vymazat základnou URL .</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
@@ -1575,7 +1575,7 @@ Některé verze Minecraftu se nemusí spustit.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation>Zástupný řetězec štítku zprávy.</translation>
+        <translation>Zástupný text štítku zprávy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
