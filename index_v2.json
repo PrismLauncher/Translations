@@ -35,12 +35,12 @@
             "untranslated" : 2373
         },
         "be" : {
-            "file" : "c79a457209b1250060b0863dde705f47e1afb9f5.class",
-            "sha1" : "c79a457209b1250060b0863dde705f47e1afb9f5",
-            "size" : 193752,
+            "file" : "3aa09a58f06af7773340f224f63888dd246b2d78.class",
+            "sha1" : "3aa09a58f06af7773340f224f63888dd246b2d78",
+            "size" : 196438,
             "translated" : 1209,
-            "fuzzy" : 218,
-            "untranslated" : 1229
+            "fuzzy" : 251,
+            "untranslated" : 1196
         },
         "bg" : {
             "file" : "1c4a08b4ea0576efba6e4ecb2ef67d5cb6154ff7.class",
@@ -262,8 +262,8 @@
             "file" : "5f98f6f5c37d078f2ce65a306522ac9d1011f46d.class",
             "sha1" : "5f98f6f5c37d078f2ce65a306522ac9d1011f46d",
             "size" : 420150,
-            "translated" : 2649,
-            "fuzzy" : 3,
+            "translated" : 2650,
+            "fuzzy" : 2,
             "untranslated" : 4
         },
         "fr_CA" : {
@@ -539,9 +539,9 @@
             "untranslated" : 1665
         },
         "pl" : {
-            "file" : "31c133d9f10b2b4a442be7444b9e4e947f1742ce.class",
-            "sha1" : "31c133d9f10b2b4a442be7444b9e4e947f1742ce",
-            "size" : 395245,
+            "file" : "e399de1fe34f3cd6f8191362a04ca7a138a4a71a.class",
+            "sha1" : "e399de1fe34f3cd6f8191362a04ca7a138a4a71a",
+            "size" : 395235,
             "translated" : 2649,
             "fuzzy" : 3,
             "untranslated" : 4
@@ -635,12 +635,12 @@
             "untranslated" : 23
         },
         "th" : {
-            "file" : "360a3cde9b8983bc011b5ee27ef46b901486e6c6.class",
-            "sha1" : "360a3cde9b8983bc011b5ee27ef46b901486e6c6",
-            "size" : 179637,
+            "file" : "893ca65ea417ec23084203f36f09c2ce6e4069aa.class",
+            "sha1" : "893ca65ea417ec23084203f36f09c2ce6e4069aa",
+            "size" : 179859,
             "translated" : 1048,
-            "fuzzy" : 320,
-            "untranslated" : 1288
+            "fuzzy" : 322,
+            "untranslated" : 1286
         },
         "tok" : {
             "file" : "ad85ce9ed571216769abb6c936c9cca16e0cf28f.class",
