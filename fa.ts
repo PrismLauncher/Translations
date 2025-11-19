@@ -7,18 +7,18 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Pastebin خدمات</translation>
+        <translation>سرویسِ pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>نوع و سرویس جایگذاری</translation>
+        <translation>نوع و سرویسِ جایگذاری</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>پایه و URL</translation>
+        <translation>URL‌ پایه</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -29,12 +29,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="340"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="383"/>
         <source>Use Default</source>
-        <translation>استفاده پیشفرض</translation>
+        <translation>استفاده از پیش‌فرض</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>توجه: ممکن است بخواهید بعد از تغییر نوع خدمات چسباندن ، URL پایه را تغییر دهید یا پاک کنید.</translation>
+        <translation>توجه: ممکن است بخواهید بعد از تغییر نوع خدماتِ چسباندن ، URL پایه را تغییر دهید یا پاک کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
@@ -49,18 +49,18 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>&amp;API Keys</source>
-        <translation>&amp; کیلید های API</translation>
+        <translation>کلید های API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="205"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation>&amp; احراز هویت مایکروسافت</translation>
+        <translation>احراز هویت مایکروسافت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Mod&amp;rinth</source>
-        <translation>مودرینس</translation>
+        <translation>ماد-رینث (Modrinth)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"/>
@@ -75,7 +75,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="373"/>
         <source>&amp;Technic</source>
-        <translation>تکنیک</translation>
+        <translation>Technic</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -84,7 +84,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>توجه: اگر لاگین مایکروسافت از پیش کار میکند شما نیازی به قرار دادن این نداشته باشید.</translation>
+        <translation>توجه: اگر ورود از طریق احراز هویت مایکروسافت از قبل کار می‌کند، معمولاً نیازی به تنظیم این نیست.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -97,7 +97,7 @@
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>&amp; APIی مادرینت</translation>
+        <translation>APIی ماد-رینث (Modrinth)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>یک شناسه سفارشی کلاینت برای احراز هویت مودرینت در اینجا وارد کنید.</translation>
+        <translation>یک توکن APIی سفارشی برای احراز هویت ماد-رینث در اینجا وارد کنید.</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -123,7 +123,7 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>اینجا یک شناسه مشتری GUID برای Technic وارد کنید.</translation>
+        <translation>یک شناسه کلاینت GUID برای Technic را اینجا وارد کنید.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -132,17 +132,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>User Agent</source>
-        <translation>ایجنت کاربر</translation>
+        <translation>عامل کاربر (User Agent)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>یک عامل کاربر سفارشی را اینجا وارد کنید. رشته خاص $LAUNCHER_VER با نسخه لانچر جایگذاری خواهد شد.</translation>
+        <translation>یک عامل کاربر(User Agent) سفارشی را اینجا وارد کنید. رشته خاص $LAUNCHER_VER با نسخهُ لانچر جایگذاری خواهد شد.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation>سرور Meta&amp;data</translation>
+        <translation>سرور متادیتا (Metadata)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
@@ -152,11 +152,11 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>می توانید این را به سرور متادیتا «شخص ثالث» تنظیم کنید تا از کتابخانه های اصلاح شده یا سایر هک ها استفاده کند.</translation>
+        <translation>می توانید این را به سرور مِتادِیتای «شخص ثالث» تنظیم کنید تا از کتابخانه های اصلاح شده یا سایر هک ها استفاده کنید.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="unfinished">یک URL دلخواه برای متا در اینجا وارد کنید.</translation>
+        <translation>یک URL دلخواه برای مِتا در اینجا وارد کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;API هسته‌ایی CurseForge</translation>
+        <translation>API هستهُ کِرس‌فورج (CurseForge)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -175,7 +175,7 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>یک کلید سفارشی API برای CurseForge اینجا وارد کنید.</translation>
+        <translation>یک کلید سفارشی API برای CurseForge را اینجا وارد کنید.</translation>
     </message>
     <message>
         <source>APIs</source>
@@ -434,7 +434,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation>MSA</translation>
+        <translation>حساب مایکروسافت</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
@@ -461,7 +461,7 @@
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>مواجه شده با خطا</translation>
+        <translation>با خطا مواجه شد</translation>
     </message>
     <message>
         <source>Expired</source>
@@ -486,7 +486,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>نوع اکانت (مایکروسافت یا آفلاین)</translation>
+        <translation>نوع حساب (مایکروسافت یا آفلاین)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -545,7 +545,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>نام کاربری Minecraft پیوند خورده با اکانت.</translation>
+        <translation>نام کاربری Minecraft با حساب پیوند خورده.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -554,7 +554,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
         <source>User name of the account.</source>
-        <translation>نام کاربر اکانت.</translation>
+        <translation>نام کاربریه حساب.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -700,7 +700,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>شما برای استفاده از قابلیت اکانت افلاین نیاز به وارد شدن با استفاده از اکانت مایکروسافت هستید درصورتی که اکانتان را از دست داده اید به پشتیبانی ماینکرفت مراجعه نمیاید.</translation>
+        <translation>شما برای استفاده از قابلیت حساب افلاین نیاز به وارد شدن با استفاده از حساب مایکروسافت هستید درصورتی که حسابتان را از دست داده اید به پشتیبانی ماینکرفت مراجعه نمیاید.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -732,12 +732,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
         <source>Remove account?</source>
-        <translation>حذف اکانت؟</translation>
+        <translation>حذف حساب؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
         <source>Do you really want to delete this account?</source>
-        <translation>آیا شما واقعا میخواید این اکانت را حذف نمایید؟</translation>
+        <translation>آیا شما واقعا میخواید این حساب را حذف نمایید؟</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -820,12 +820,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه تم های ویجت را مشاهده کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه‌ٔ تم‌های آیکن را مشاهده کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
@@ -855,7 +855,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>مقیاس سازی گربه</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
@@ -895,12 +895,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[ERROR] اووووووووووو! یک ارور ترسناک!</translation>
+        <translation>[ERROR] اووووووووووو! یک خطا وحشتناک!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
         <source>[ERROR] A spooky error!</source>
-        <translation>[ERROR] یک ارور ترسناک!</translation>
+        <translation>[ERROR] یک خطا وحشتناک!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="263"/>
@@ -915,7 +915,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[DEBUG] یک پیام مخفی اشکال ‌زدایی (debugging)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
@@ -7112,7 +7112,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
         <source>Logging in with Microsoft account.</source>
-        <translation>در حال وارد شدن با اکانت مایکروسافت.</translation>
+        <translation>در حال وارد شدن با حساب مایکروسافت.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
@@ -15958,14 +15958,14 @@ Are you sure?</source>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation>این اکانت سن پایینی دارید و به خانواده وصل نیست.
+        <translation>این حساب زیر سن قانونی است و به خانواده وصل نیست.
 
-لطفا اکانت خودتان را درست کنید با روش %1.</translation>
+لطفا با روش %1 اکانت خودتان را درست کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="137"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation>این مایکروسافت اکانت نیاز به تایید سن برای بازی کردن دارد. لطفا وارد شوید در %1 برای تایید سن خودتان.</translation>
+        <translation>این حساب مایکروسافت نیاز به تایید سن برای بازی کردن دارد. لطفا برای تایید سن خودتان به %1 وارد شوید.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="142"/>
