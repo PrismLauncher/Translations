@@ -588,13 +588,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>&amp;تنظیم پیش فرض</translation>
+        <translation>قرار دادن به عنوان پیشفرض</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>&amp;بدون پیش فرض</translation>
+        <translation>بدون پیش فرض</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
@@ -624,19 +624,19 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>&amp;افزودن مایکروسافت</translation>
+        <translation>افزودن مایکروسافت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>افزودن &amp;آفلاین</translation>
+        <translation>افزودن آفلاین</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>&amp;تازه‌سازی</translation>
+        <translation>تازه‌سازی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
@@ -830,7 +830,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation>&amp;پک گربه:</translation>
+        <translation>پک گربه:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
@@ -845,7 +845,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished">&amp;آیکن ها:</translation>
+        <translation>آیکن ها:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
@@ -920,7 +920,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[FATAL] یک خطا مهلک وحشتناک!</translation>
     </message>
 </context>
 <context>
@@ -975,11 +975,12 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation>یک تلاش برای به بروزرسانی ناموفق بود
+        <translation>یک تلاش برای به بروزرسانی شکست خورد
 
 لطفا قبل از ادامه دادن از درستی عملکرد نصب خود مطمئن شوید.
 گزارش آپدیت لانچر را برای جزئیات مربوط به آخرین آپدیت، در مسیر ذیل بررسی کنید:
-%1</translation>
+%1
+برای جزئیات روی اخرین تلاش برای اپدیت.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1098"/>
