@@ -1591,37 +1591,37 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
         <source>Choose Offline Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija un nombre sin conexión</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcador de posición de la etiqueta del mensaje.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
         <source>Username</source>
-        <translation type="unfinished">Nombre de usuario</translation>
+        <translation>Nombre de usuario</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un nombre de usuario solo es válido si tiene entre 3 y 16 caracteres, utiliza letras inglesas, números y guiones bajos. Un nombre de usuario no válido puede impedir el acceso a servidores y mundos para un solo jugador.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
         <source>Allow invalid usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir nombres de usuario no válidos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -14350,7 +14350,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="123"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="204"/>
         <source>Abort</source>
-        <translation>Cancelar</translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="139"/>
@@ -15151,7 +15151,7 @@ Esto es permanente y el servidor desaparecerá de su lista para siempre (MUCHO T
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="120"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
         <source>Abort</source>
-        <translation>Cancelar</translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"/>
@@ -15997,7 +15997,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="128"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="209"/>
         <source>Abort</source>
-        <translation>Cancelar</translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="144"/>
