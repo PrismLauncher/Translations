@@ -44,7 +44,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished">Ви можете призначити інший сервер, якщо маєте проблеми із завантаженням ресурсів.</translation>
+        <translation>Ви можете призначити інший сервер, якщо маєте проблеми із завантаженням ресурсів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -727,7 +727,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished">Будь ласка, введіть бажане ім’я користувача, щоби додати офлайновий обліковий запис.</translation>
+        <translation>Будь ласка, введіть бажане ім’я користувача, щоби додати офлайновий обліковий запис.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
@@ -949,7 +949,7 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>Ця інсталяція має файл бльокування оновлення за адресою: %1
+        <translation>Ця інсталяція має файл блокування оновлення за адресою: %1
 
 Мітка часу: %2
 Оновлення з версії %3 до %4
@@ -1020,10 +1020,10 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished">Ваша тека /tmp наразі змонтована з увімкненим прапорцем ‘noexec’.
+        <translation>Ваша тека /tmp наразі змонтована з увімкненим прапорцем ‘noexec’.
 Деякі версії Minecraft можуть не запускатися.
 
-Ви можете вирішити цю проблєму, перемонтувавши /tmp з прапорцем ‘exec’ або встановивши аргумент JVM java.io.tmpdir у записувану теку у файловій системі, де встановлено прапорець ‘exec’ (наприклад, /home/user/.local/tmp)
+Ви можете вирішити цю проблему, перемонтувавши /tmp з прапорцем ‘exec’ або встановивши аргумент JVM java.io.tmpdir у записувану теку у файловій системі, де встановлено прапорець ‘exec’ (наприклад, /home/user/.local/tmp)
 </translation>
     </message>
     <message>
@@ -2498,7 +2498,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="332"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>Перевірка відповіди Ядра (API) від Модринту (Modrinth) для &apos;%1&apos;...</translation>
+        <translation>Аналіз відповіді Ядра (API) від Модринту (Modrinth) для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="393"/>
@@ -2972,7 +2972,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation>Видалити вибраний елємент</translation>
+        <translation>Видалити вибраний елемент</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -3092,7 +3092,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="218"/>
         <source>View the homepages of all selected items.</source>
-        <translation>Переглянути головні сторінки всіх вибраних елєментів.</translation>
+        <translation>Переглянути домашні сторінки всіх вибраних елементів.</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -3835,18 +3835,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="85"/>
         <source>Finding file hashes...</source>
-        <translation>Пошук гешів файлів...</translation>
+        <translation>Пошук хешів файлів...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="167"/>
         <source>Finding versions for hashes...</source>
-        <translation>Пошук версій для гешів...</translation>
+        <translation>Пошук версій для хешів...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="218"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="281"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Розбір відповіди Ядра (API) від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
+        <translation>Розбір відповіді Ядра (API) від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="238"/>
@@ -3971,7 +3971,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="296"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Проблєми: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Проблеми: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="298"/>
@@ -4340,7 +4340,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="140"/>
         <source>Report issues to: </source>
-        <translation>Повідомити про проблєму: </translation>
+        <translation>Повідомляти про проблеми до: </translation>
     </message>
 </context>
 <context>
@@ -4715,7 +4715,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation>Арґументи Джава (Java)</translation>
+        <translation>Аргументи Джава (Java)</translation>
     </message>
     <message>
         <source>Game windows</source>
@@ -4863,7 +4863,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>Використовувати Zink, драйвер Mesa OpenGL, який реалізує OpenGL поверх Vulkan. Продуктивність може змінюватися в залежності від ситуації. Примітка: якщо відповідний драйвер Vulkan не знайдено, використовуватиметься проґрамний рендеринґ.</translation>
+        <translation>Використовувати Zink, драйвер Mesa OpenGL, який реалізує OpenGL поверх Vulkan. Продуктивність може змінюватися в залежності від ситуації. Примітка: якщо відповідний драйвер Vulkan не знайдено, використовуватиметься програмний рендеринг.</translation>
     </message>
     <message>
         <source>Use Zink</source>
@@ -4876,11 +4876,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Емулює використання старих онляйн-служб, котрі більше не працюють.&lt;/p&gt;&lt;p&gt;Поточні виправлення дозволяють: використовувати скини та онляйн режим&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Емулює використання старих онлайн-сервісів, котрі більше не працюють.&lt;/p&gt;&lt;p&gt;Поточні виправлення включають: підтримку скінів та онлайн-режиму.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Увімкнути онляйн виправлення (експериментально)</translation>
+        <translation>Увімкнути онлайн-виправлення (експериментально)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
@@ -5254,7 +5254,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation>Арґументи JVM:</translation>
+        <translation>Аргументи JVM:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
@@ -5623,7 +5623,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
         <source>Java Argumen&amp;ts</source>
-        <translation>Арґументи Джава (Java)</translation>
+        <translation>Аргументи Джава (Java)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="210"/>
@@ -5882,7 +5882,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="76"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation>Вказано недійсні арґументи Джава (Java). Будь ласка, спочатку виправте це.</translation>
+        <translation>Вказано недійсні аргументи Джава (Java). Будь ласка, спочатку виправте це.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="93"/>
@@ -5942,7 +5942,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="154"/>
         <source>Choose your offline mode player name.</source>
-        <translation>Виберіть ім‘я гравця для офляйн режиму.</translation>
+        <translation>Виберіть ім&apos;я гравця для офлайн-режиму.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="156"/>
@@ -6433,7 +6433,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="374"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>Коли ввімкнено, на додачу до теки завантаження, її підтеки також буть включені при пошуку ресурсів (наприклад, при пошуку забльокованих модів на CurseForge).</translation>
+        <translation>Коли увімкнено, на додачу до теки завантаження, її підтеки також буть включені при пошуку ресурсів (наприклад, при пошуку заблокованих модів на CurseForge).</translation>
     </message>
     <message>
         <source>Check downloads folder recursively</source>
@@ -6489,7 +6489,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation>Якщо ввімкнено, забльоковані ресурси буде переміщено, а не скопійовано.</translation>
+        <translation>Якщо увімкнено, заблоковані ресурси буде переміщено, а не скопійовано.</translation>
     </message>
     <message>
         <source>Move blocked resources</source>
@@ -6539,12 +6539,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation>Перевірити &amp;підтеки на наявність забльокованих модів</translation>
+        <translation>Перевірте &amp;підтеки на наявність заблокованих модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation>Перемістити забльоковані моди замість того, щоби копіювати їх</translation>
+        <translation>Перемістіть заблоковані моди замість того, щоб їх копіювати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
@@ -6629,7 +6629,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="101"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>Ви намагаєтеся вказати шлях до теки, яка містить у своєму шляху принаймні один символ &apos;!&apos;. Це може викликати проблєми з Джава (Java), та ваші збірки (ймовірно) не запустяться!</translation>
+        <translation>Ви намагаєтеся вказати теку збірки, шлях до якої містить принаймні один символ &apos;!&apos;. Відомо, що це спричиняє проблеми з Джава (Java), та ваші збірки (ймовірно) не запустяться!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="106"/>
@@ -6646,10 +6646,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation>Ви намагаєтеся вказати теку збірки, яка була тимчасово надана через Flatpak.
-Відомо, що це викликає проблєми. По перезапуску запускач може зламатися, бо він більше не матиме доступу до цього шляху.
+        <translation>Ви намагаєтеся вказати теку збірки, доступ до якої було надано тимчасово через Flatpak.
+Відомо, що це спричиняє проблеми. Після перезапуску лаунчер може не працювати, оскільки він більше не матиме доступу до цієї теки.
 
-Рекомендується надати %1 доступ до нього через Flatseal.</translation>
+Рекомендовано надати %1 доступ до неї через Flatseal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="122"/>
@@ -7609,7 +7609,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation>Відкрити бльоґ розробки, щоби прочитати більше новин про %1.</translation>
+        <translation>Відкрити блог розробки, щоб прочитати більше новин про %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
@@ -8336,7 +8336,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="981"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>Збірка, мод, чи ресурс %1 забльоковано для третіх сторон! Будь-ласка завантажте його вручну.</translation>
+        <translation>Збірка, мод, чи ресурс %1 заблоковано для третіх-сторін! Будь ласка завантажте її вручну.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1015"/>
@@ -8542,7 +8542,7 @@ Please create a new instance before attempting to install this resource again.</
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>Деякі збірки та ярлики не вдалося відновити.
-Перевірте ваш кошик, щоб одновити їх уручну.</translation>
+Будь ласка, перевірте свій кошик, щоб відновити їх вручну.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
@@ -8590,7 +8590,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation>Зробити Проґраму Збірки</translation>
+        <translation>Зробити програму Збірки</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
@@ -8620,12 +8620,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1636"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation>Ваша тека збірки містить &quot;!&quot; і це, як відомо, викликає проблєми з Java!</translation>
+        <translation>Ваша тека збірки містить символ &apos;!&apos;, і відомо, що це спричиняє проблеми з Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1637"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>У вас є два варіянта: &lt;br/&gt; - змінити теку збірки в налаштуваннях &lt;br/&gt; - перемістити цю інсталяцію %1 до иншої теки</translation>
+        <translation>У вас є два варіанти: &lt;br/&gt; - змінити теку збірки в налаштуваннях &lt;br/&gt; - перемістити цю інсталяцію %1 до іншої теки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
@@ -9027,11 +9027,11 @@ This can be updated only using a file in %1 format
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Емулює використання старих онляйн-служб, котрі більше не працюють.&lt;/p&gt;&lt;p&gt;Поточні виправлення дозволяють: використовувати скини та онляйн режим&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Емулює використання старих онлайн-сервісів, котрі більше не працюють.&lt;/p&gt;&lt;p&gt;Поточні виправлення включають: підтримку скінів та онлайн-режиму.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Увімкнути онляйн виправлення (експериментально)</translation>
+        <translation>Увімкнути онлайн-виправлення (експериментально)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
@@ -9085,7 +9085,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Використовувати Zink, драйвер Mesa OpenGL, який дозволяє OpenGL працювати поверх Vulkan. Продуктивність може змінюватися залежно від ситуації. Примітка: Якщо відповідний драйвер Vulkan не знайдено, використовуватиметься проґрамний рендеринґ.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Використовувати Zink, драйвер Mesa OpenGL, який дозволяє OpenGL працювати поверх Vulkan. Продуктивність може змінюватися залежно від ситуації. Примітка: Якщо відповідний драйвер Vulkan не знайдено, використовуватиметься програмний рендеринг.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
@@ -9349,12 +9349,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="600"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Емулює використання старих онляйн-служб, котрі більше не працюють.&lt;/p&gt;&lt;p&gt;Поточні виправлення дозволяють: використовувати скини та онляйн режим.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Емулює використання старих онлайн-сервісів, котрі більше не працюють.&lt;/p&gt;&lt;p&gt;Поточні виправлення включають: підтримку скінів та онлайн-режиму.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="603"/>
         <source>Enable online fixes (experimental)</source>
-        <translation>Увімкнути онляйн-виправлення (експериментально)</translation>
+        <translation>Увімкнути онлайн-виправлення (експериментально)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="616"/>
@@ -9539,7 +9539,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="743"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>Використовувати Zink, драйвер Mesa OpenGL, який реалізує OpenGL поверх Vulkan. Продуктивність може змінюватися в залежності від ситуації. Примітка: якщо відповідний драйвер Vulkan не знайдено, використовуватиметься проґрамний рендеринґ.</translation>
+        <translation>Використовувати Zink, драйвер Mesa OpenGL, який реалізує OpenGL поверх Vulkan. Продуктивність може змінюватися в залежності від ситуації. Примітка: якщо відповідний драйвер Vulkan не знайдено, використовуватиметься програмний рендеринг.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="746"/>
@@ -9847,7 +9847,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Увага: Цей ресурс символічно пов&apos;язаний із иншим ресурсом. Його редагування також змінить ориґінал.
+Увага: Цей ресурс символічно пов&apos;язаний з іншим ресурсом. Його редагування також змінитиь оригінал.
 Канонічний шлях: %1</translation>
     </message>
     <message>
@@ -9855,7 +9855,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Увага: Цей ресурс тісно повʼязаний із иншим ресурсом. Його редагування також змінить ориґінал.</translation>
+Увага: Цей ресурс тісно повʼязаний з іншим ресурсом. Його редагування також змінить оригінал.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
@@ -10595,7 +10595,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="113"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation>Обробка відповіди Ядра (API) від Модринту (Modrinth)...</translation>
+        <translation>Обробка відповіді Ядра (API) від Модринту (Modrinth)...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="179"/>
@@ -11477,7 +11477,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Other logs</source>
-        <translation>Инші звіти</translation>
+        <translation>Інші звіти</translation>
     </message>
 </context>
 <context>
@@ -11543,7 +11543,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>Помилка: %1 повернув неправильне тіло відповіди</translation>
+        <translation>Помилка: %1 повернув пошкоджене тіло відповіді</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
@@ -11722,12 +11722,12 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation>Використовуйте власний шлях як корінь проґрами (використовуйте &apos;.&apos; для поточного катальоґу).</translation>
+        <translation>Використовувати власний шлях як кореневий каталог застосунку (використовуйте &apos;.&apos; для поточної теки).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
         <source>directory</source>
-        <translation>катальоґ</translation>
+        <translation>катальог</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="107"/>
@@ -11891,7 +11891,7 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="587"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1062"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
-        <translation>Файл не існує, іґнорування: %1</translation>
+        <translation>Файл не існує, ігнорується: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="600"/>
@@ -11971,7 +11971,7 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation>Ця інсталяція має файл бльокування оновлень за адресою: %1
+        <translation>Ця інсталяція має файл блокування оновлень за адресою: %1
 
 Мітка часу: %2
 Оновлення з версії %3 до %4
@@ -11980,9 +11980,9 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
 Це, ймовірно, означає, що попередня спроба оновлення була невдалою. Будь ласка, переконайтеся, що ваша інсталяція в робочому стані, перш ніж продовжити.
 Перевірте звіт оновлення Prism Launcher за адресою: 
 %7
-щоби побачити подробиці послідньої спроби оновлення.
+щоб побачити подробиці попередньої спроби оновлення.
 
-Щоби підпорядкувати це бльокування та продовжити, натисніть &quot;Іґнорувати&quot; нижче.</translation>
+Щоб скасувати це блокування та все одно продовжити оновлення, виберіть «Ігнорувати» нижче.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="917"/>
@@ -12542,7 +12542,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation>Тестування Джава (Java) успішно! &lt;br /&gt; Повідомлено про плятформу:%1 &lt;br /&gt; Повідомлено про версію Джава (Java):%2 &lt;br /&gt;</translation>
+        <translation>Тестування Джава (Java) успішно! &lt;br /&gt; Повідомлено про платформу:%1 &lt;br /&gt; Повідомлено про версію Джава (Java):%2 &lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
@@ -12625,27 +12625,27 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="269"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
-        <translation>Версійний файл містить непідтримуваний елємент «tweakers&apos;</translation>
+        <translation>Файл версії містить непідтримуваний елемент &apos;tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="272"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
-        <translation>Версійний файл містить непідтримуваний елємент &apos;-libraries&apos;</translation>
+        <translation>Файл версії містить непідтримуваний елемент &apos;-libraries&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="275"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
-        <translation>Версійний файл містить непідтримуваний елємент «-tweakers&apos;</translation>
+        <translation>Файл версії містить непідтримуваний елемент &apos;-tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="278"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
-        <translation>Версійний файл містить непідтримуваний елємент &apos;-minecraftArguments&apos;</translation>
+        <translation>Файл версії містить непідтримуваний елемент &apos;-minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="281"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
-        <translation>Версійний файл містить непідтримуваний елємент &apos;+minecraftArguments&apos;</translation>
+        <translation>Файл версії містить непідтримуваний елемент &apos;+minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="312"/>
@@ -12768,27 +12768,27 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation>Ви намагалися вручну встановити JVM параметри пам&apos;яти (використовуючи &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; або &quot;-Xms&quot;).
-У верхній частині сторінки иснують виділені поля для них (вкладка Java, у групі пам&apos;яті вгорі).
-Це повідомлення буде показано, поки ви не видалите їх з арґументів JVM.</translation>
+        <translation>Ви спробували вручну встановити опцію пам&apos;яті JVM (за допомогою &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; або &quot;-Xms&quot;).
+Для цих налаштувань є спеціальні поля у параметрах (вкладка «Java», група «Пам&apos;ять» угорі).
+Це повідомлення відображатиметься, доки ви не видалите ці опції з аргументів JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="53"/>
         <location filename="src/launcher/JavaCommon.cpp" line="62"/>
         <source>JVM arguments warning</source>
-        <translation>Попередження про JVM арґументи</translation>
+        <translation>Попередження щодо аргументів JVM</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="58"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation>Ви намагалися передати необхідний арґумент версії Джава (Java) до JVM (за допомогою &quot;-version:xxx&quot;). Це небезпечно і не буде дозволено.
-Це повідомлення відображатиметься, доки ви не видалите це з аргументів JVM.</translation>
+        <translation>Ви спробували передати обов&apos;язковий аргумент версії Джава (Java) до JVM (використовуючи &quot;-version:xxx&quot;). Це небезпечно та буде заборонено.
+Це повідомлення відображатиметься, доки ви не видалите цей аргумент з параметрів JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="71"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation>Тестування Джава (Java) пройшло успішно! &lt;br /&gt; Повідомлено про плятформу: %1 &lt;br /&gt; Повідомлено про версію Джава (Java): %2 &lt;br /&gt; Повідомлено про постачальника Джава (Java): %3 &lt;br /&gt;</translation>
+        <translation>Тестування Джава (Java) пройшло успішно! &lt;br /&gt; Повідомлено про платформу: %1 &lt;br /&gt; Повідомлено про версію Джава (Java): %2 &lt;br /&gt; Повідомлено про постачальника Джава (Java): %3 &lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
@@ -12799,7 +12799,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation>Зазначений двійковий файл Джава (Java) не запрацював з наданими вами арґументами:&lt;br /&gt;</translation>
+        <translation>Вказаний бінарний файл Джава (Java) не спрацював із наданими вами аргументами:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
@@ -13071,7 +13071,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="64"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation>пакункова проґрама MKLINK для Windows для використання з prismlauncher</translation>
+        <translation>пакетна програма MKLINK для Windows, що використовуватиметься з Prism Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="163"/>
@@ -13197,7 +13197,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"/>
         <source>New instance root (%1) already exists. &lt;br /&gt;Only the metadata will be renamed.</source>
-        <translation>Новий кореневий катальоґ збірки (%1) вже існує. &lt;br /&gt;Буде перейменовано лише метадані.</translation>
+        <translation>Новий кореневий каталог збірки (%1) вже існує. &lt;br /&gt;Буде перейменовано лише метадані.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
@@ -13228,7 +13228,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation>Сталася помилка під час виконання наступної операції перейменування:&lt;br/&gt; - Старий кореневий катальоґ збірки: %1&lt;br/&gt; - Новий кореневий катальоґ збірки: %2&lt;br/&gt; Будуть перейменовані лише метадані.</translation>
+        <translation>Виникла помилка під час виконання операції перейменування::&lt;br/&gt; - - Старий кореневий каталог збірки: %1&lt;br/&gt; - Новий кореневий каталог збірки: %2&lt;br/&gt; Перейменовано лише метадані.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
@@ -13249,21 +13249,21 @@ Do you wish to proceed?</source>
 
 &lt;br/&gt; %1
 
-&lt;br/&gt; %2 Це може пошкодити иншу збірку.
+&lt;br/&gt; %2 Це може пошкодити іншу збірку.
 
 &lt;br/&gt; Бажаєте продовжити?</numerusform>
             <numerusform>Наступні збірки можуть посилатися на файли в цій збірці:
 
 &lt;br/&gt; %1
 
-&lt;br/&gt; %2 Це може пошкодити инші збірки.
+&lt;br/&gt; %2 Це може пошкодити інші збірки.
 
 &lt;br/&gt; Бажаєте продовжити?</numerusform>
             <numerusform>Наступні збірки можуть посилатися на файли в цій збірці:
 
 &lt;br/&gt; %1
 
-&lt;br/&gt; %2 Це може пошкодити инші збірки.
+&lt;br/&gt; %2 Це може пошкодити інші збірки.
 
 &lt;br/&gt; Бажаєте продовжити?</numerusform>
         </translation>
@@ -13341,7 +13341,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
         <source>Not supported on your platform!</source>
-        <translation>Не підтримується на вашій плятформі!</translation>
+        <translation>Не підтримується на вашій платформі!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
@@ -13366,7 +13366,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="202"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation>Не вдалося створити теку збірок у теці проґрам!</translation>
+        <translation>Не вдалося створити теку зі збірками у теці застосунків!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="211"/>
@@ -13403,7 +13403,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>Помилка: %1 повернув неправильне тіло відповіди</translation>
+        <translation>Помилка: %1 повернув пошкоджене тіло відповіді</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
@@ -13756,7 +13756,7 @@ Please update %1!</source>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
         <translation>Немає доступних версій для &apos;%1&apos;.
-Автор, ймовірно, заблиокував сторонні запускачі.</translation>
+Ймовірно, автор заблокував сторонні запускачі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="540"/>
@@ -13862,7 +13862,7 @@ The author likely blocked third-party launchers.</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Увага: Цей ресурс символічно зв&apos;язаний з іншим ресурсом. Його редагування може змінити ориґінал.
+Увага: Цей ресурс символічно зв&apos;язаний з іншим ресурсом. Його редагування може змінити оригінал.
 Канонічний шлях: %1</translation>
     </message>
     <message>
@@ -13870,7 +13870,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Увага: Цей ресурс жорстко повʼязаний з іншим ресурсом. Його редагування також змінить ориґінал.</translation>
+Увага: Цей ресурс має жорстке посилання на інше місце. Його редагування також змінить оригінал.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
@@ -14002,7 +14002,7 @@ Are you sure you want to do this?</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Увага: Цей ресурс символічно пов&apos;язаний із иншим ресурсом. Його редагування також змінить ориґінал.
+Увага: Цей ресурс символічно пов&apos;язаний з іншим ресурсом. Його редагування також змінить оригінал.
 Канонічний шлях: %1</translation>
     </message>
     <message>
@@ -14010,7 +14010,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Увага: Цей ресурс тісно повʼязаний із иншим ресурсом. Його редагування також змінить ориґінал.</translation>
+Увага: Цей ресурс тісно повʼязаний з іншим ресурсом. Його редагування також змінить оригінал.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
@@ -14067,7 +14067,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>Завантажити пакунки ресурсів з онляйн-плятформ</translation>
+        <translation>Завантажити пакунки ресурсів з онлайн-платформ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -14077,7 +14077,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download resource packs from online mod platforms</source>
-        <translation>Завантажити пакунки ресурсів з онляйн-плятформ модів</translation>
+        <translation>Завантажити пакунки ресурсів з онлайн-платформ для модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
@@ -14501,7 +14501,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="68"/>
         <source>Screenshots</source>
-        <translation>Знятки</translation>
+        <translation>Знімки екрана</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="311"/>
@@ -14530,8 +14530,8 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Ви збираєтесь вивантажити %1 знятка(-ів) до %2.
-Будь ласка, перевірте їх на наявність особистої даних.
+        <translation>Ви збираєтеся завантажити %1 знімків екрана на %2.
+Варто двічі перевірити наявність особистої інформації.
 
 Ви впевнені?</translation>
     </message>
@@ -14573,7 +14573,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="446"/>
         <source>Screenshots upload aborted</source>
-        <translation>Завантаження знятків перервано</translation>
+        <translation>Завантаження знімків екрана перервано</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
@@ -14597,8 +14597,8 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>Ви намагаєтесь видалити &quot;%1&quot; знятків.
-Цю дію неможливо скасувати й вони зникнуть з теки.
+        <translation>Ви збираєтеся видалити %1 знімків екрана.
+Ця дія може бути незворотною, і вони зникнуть із теки.
 
 Ви впевнені?</translation>
     </message>
@@ -14727,7 +14727,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="293"/>
         <source>Online</source>
-        <translation>Онляйн</translation>
+        <translation>Онлайн</translation>
     </message>
     <message>
         <source>Latency</source>
@@ -14868,7 +14868,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation>Завантажити шейдери з онляйн-плятформ</translation>
+        <translation>Завантажити шейдери з онлайн-платформ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -14878,7 +14878,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
         <source>Download shader packs from online mod platforms</source>
-        <translation>Завантажити пакунки шейдерів з онляйн-плятформ</translation>
+        <translation>Завантажити пакунки шейдерів з онлайн-платформ для модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
@@ -15660,7 +15660,7 @@ inheritsFrom відсутній</translation>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Увага: Цей ресурс символічно пов&apos;язаний з иншим ресурсом. Його редагування також змінить ориґінал.
+Увага: Цей ресурс символічно пов&apos;язаний з іншим ресурсом. Його редагування також змінить оригінал.
 Канонічний шлях: %1</translation>
     </message>
     <message>
@@ -15668,7 +15668,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Увага: Цей ресурс жорстко повʼязаний з иншим ресурсом. Його редагування також змінить ориґінал.</translation>
+Увага: Цей ресурс тісно повʼязаний з іншим ресурсом. Його редагування також змінить оригінал.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
@@ -15709,7 +15709,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation>Завантажити пакунки текстур з онляйн-плятформ</translation>
+        <translation>Завантажити пакунки текстур з онлайн-платформ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
@@ -15719,7 +15719,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
         <source>Download texture packs from online mod platforms</source>
-        <translation>Завантажити пакунки текстур з онляйн-плятформ модів</translation>
+        <translation>Завантажити пакунки текстур з онлайн-платформ для модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="59"/>
@@ -16853,26 +16853,26 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation>Цей світ символічно пов&apos;язаний із иншим світом.</translation>
+        <translation>Цей світ символічно пов&apos;язаний з іншим світом.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="206"/>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
-Цей світ тісно пов&apos;язаний із иншим світом.</translation>
+Цей світ тісно пов&apos;язаний з іншим світом.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="221"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>Увага: Цей світ символічно пов&apos;язаний із иншим світом. Його редагування також змінить ориґінал.
+        <translation>Увага: Цей світ символічно пов&apos;язаний з іншим світом. Його редагування також змінить оригінал.
 Канонічний шлях: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="226"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>Увага: Цей світ тісно пов&apos;язаний із иншими. Його редагування також змінить ориґінал.</translation>
+        <translation>Увага: Цей світ тісно пов&apos;язаний з іншими. Його редагування також змінить оригінал.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="263"/>
@@ -17169,7 +17169,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="87"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation>Сервер змінив геш користувача авторизації %1 у відповіді. Щось не так.</translation>
+        <translation>Сервер змінив хеш користувача авторизації %1 у відповіді. Щось не так.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
@@ -17184,7 +17184,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="112"/>
         <source>XErr element is missing from %1 authorization error response.</source>
-        <translation>Елємент XErr відсутній у відповіді про помилку авторизації %1.</translation>
+        <translation>Елемент XErr відсутній у відповіді про помилку авторизації від %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
@@ -17194,7 +17194,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>Xbox Live недоступний у вашій країні. Вас забльоковано.</translation>
+        <translation>XBox Live недоступний у вашій країні. Ваш доступ заблоковано.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -17213,12 +17213,12 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="142"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation>Для цього облікового запису Microsoft вичерпано ліміт ігрового часу. Цей обліковий запис Microsoft забльоковано для входу.</translation>
+        <translation>Цей обліковий запис Microsoft вичерпав свій ліміт ігрового часу. Цьому обліковому запису Microsoft заблоковано вхід.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="146"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation>Цей обліковий запис Microsoft було забльоковано Xbox за порушення одного або кількох Правил Спільноти Xbox і він не може бути використаний.</translation>
+        <translation>Цей обліковий запис Microsoft було заблоковано сервісом Xbox за порушення одного чи кількох Стандартів спільноти Xbox. Він не може бути використаний.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="152"/>
