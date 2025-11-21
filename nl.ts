@@ -5815,7 +5815,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation>Gebruik systeem locaties</translation>
+        <translation>Taal van systeem gebruiken</translation>
     </message>
 </context>
 <context>
