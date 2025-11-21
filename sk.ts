@@ -7370,17 +7370,17 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;xport..</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
         <source>Dele&amp;te</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť(&amp;te)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="435"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovať(&amp;Y)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
