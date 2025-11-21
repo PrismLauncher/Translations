@@ -7375,12 +7375,12 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
         <source>Dele&amp;te</source>
-        <translation>Odstrániť(&amp;te)</translation>
+        <translation>Odstrán&amp;iť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="435"/>
         <source>Cop&amp;y...</source>
-        <translation>Kopírovať(&amp;Y)...</translation>
+        <translation>Kopírov&amp;ať...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -7405,7 +7405,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridať inštanciu...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
@@ -7416,17 +7416,17 @@ Dôvod:
         <location filename="src/launcher/ui/MainWindow.ui" line="316"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nastavenia...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zrušiť posledné odstránenie inštancie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="660"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vymazať medzipamäť metadát</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="663"/>
@@ -7441,7 +7441,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="624"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Priestor Matrix</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
@@ -7461,17 +7461,17 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Inštancie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="534"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvoriť priečinok inštancií v prehliadači súborov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Koreňový priečinok launcheru</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
@@ -7481,22 +7481,22 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
         <source>&amp;Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skiny</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="567"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvoriť priečinok skinov v prehliadači súborov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>Instance Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikony inštancií</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="578"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvoriť priečinok s ikonami inštancií v prehliadači súborov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
@@ -7516,12 +7516,12 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="635"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub&amp;reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="646"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;O programe %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
@@ -11751,27 +11751,27 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="269"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
-        <translation>Súbor verzie  obsahuje nepodporovaný element &apos;tweakers&apos;</translation>
+        <translation>Súbor verzie obsahuje nepodporovaný element &apos;tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="272"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
-        <translation>Súbor verzie  obsahuje nepodporovaný element &apos;-libraries&apos;</translation>
+        <translation>Súbor verzie obsahuje nepodporovaný element &apos;-libraries&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="275"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
-        <translation>Súbor verzie  obsahuje nepodporovaný element &apos;-tweakers&apos;</translation>
+        <translation>Súbor verzie obsahuje nepodporovaný element &apos;-tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="278"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
-        <translation>Súbor verzie  obsahuje nepodporovaný element &apos;-minecraftArguments&apos;</translation>
+        <translation>Súbor verzie obsahuje nepodporovaný element &apos;-minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="281"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
-        <translation>Súbor verzie  obsahuje nepodporovaný element &apos;+minecraftArguments&apos;</translation>
+        <translation>Súbor verzie obsahuje nepodporovaný element &apos;+minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="312"/>
@@ -11874,7 +11874,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished">Pokúšate sa manuálne nastaviť voľby nastavení pamäte JVM (použitím &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
+        <translation>Pokúšate sa manuálne nastaviť voľby nastavení pamäte JVM (použitím &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; or &quot;-Xms&quot;).
 Na tieto nastavenia sú určené špeciálne polia (záložka Java, v skupine Pamäť na vrchu).
 Táto správa bude zobrazovaná pokiaľ tieto nastavenia nevymažete z JVM argumentov.</translation>
     </message>
