@@ -7589,22 +7589,22 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Spravovať účty...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="275"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzamknúť lištu nástrojov</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Motívy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Súbor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
@@ -7624,42 +7624,42 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
         <source>Kill the running instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukončiť spustenú inštanciu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="452"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovať vybranú inštanciu do podporovaných formátov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
         <source>Prism Launcher (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="468"/>
         <source>Modrinth (mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="476"/>
         <source>CurseForge (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="517"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavrieť &amp;okno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="520"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavrieť aktuálne okno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvoriť koreňový priečinok launcheru v prehliadači súborov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
@@ -7685,7 +7685,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvoriť %1 wiki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
@@ -7715,7 +7715,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zmeniť skupinu...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="380"/>
@@ -7739,7 +7739,7 @@ Dôvod:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvoriť odkaz na pracovnej ploche na spustenie vybranej inštancie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
@@ -7970,7 +7970,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1050"/>
         <source>No instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Žiadna inštancia!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1051"/>
@@ -7981,18 +7981,18 @@ Please create a new instance before attempting to install this resource again.</
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1165"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Názov skupiny</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1165"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1187"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadajte nový názov skupiny.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť skupinu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1207"/>
@@ -8003,7 +8003,8 @@ Please create a new instance before attempting to install this resource again.</
         <location filename="src/launcher/ui/MainWindow.cpp" line="1208"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niektoré inštancie a skratky nebolo možné obnoviť.
+Prosím skontrolujte svoj kôš a obnovte ich ručne.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1306"/>
@@ -8035,7 +8036,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1354"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa pridať %1 do PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
@@ -8044,7 +8045,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Existujú prepojené inštancie</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -8062,27 +8063,27 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvoriť skratku inštancie</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebolo možné nájsť plochu?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher je v priečinku, z ktorého bol extrahovaný a preto nemôže vytvárať skratky.</translation>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvoriť aplikáciu z inštancie</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa vytvoriť ikonu pre aplikáciu.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Položky na ploche</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
@@ -8098,7 +8099,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher je spustený ako zle nakonfigurovaný AppImage? (Chýba premenná prostredia $APPIMAGE)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -8108,12 +8109,12 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ste si istý, že chcete odstrániť skupinu „%1“?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1187"/>
         <source>Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Premenovať skupinu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
@@ -8128,7 +8129,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
         <source>Group already exists. :/</source>
-        <translation type="unfinished"></translation>
+        <translation>Skupina už existuje. :/</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
@@ -8160,20 +8161,20 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstraňuje sa</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa vytvoriť ikonu pre skratku.</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie je podporované na vašej platforme!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
         <source>Rename Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Premenovať inštanciu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1636"/>
