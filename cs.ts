@@ -13,7 +13,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>&amp;Typ služby Pastebin</translation>
+        <translation>&amp;Typ služby pro sdílení textu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Poznámka: po změně typu služby pro sdílení textu pravděpodobně chcete změnit nebo vymazat základnou URL .</translation>
+        <translation>Poznámka: po změně typu služby pro sdílení textu pravděpodobně chcete změnit nebo vymazat základnou URL.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
