@@ -1552,7 +1552,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation type="unfinished">Zástupný text štítku správy.</translation>
+        <translation>Zástupný text štítku správy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
@@ -1572,7 +1572,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
