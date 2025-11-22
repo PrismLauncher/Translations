@@ -1601,12 +1601,12 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
         <source>Username</source>
-        <translation type="unfinished">Nazwa użytkownika</translation>
+        <translation>Nazwa użytkownika</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation type="unfinished">Nazwa użytkownika jest tylko poprawna gdy jej długość wynosi od 3 do 16 liter, używa Angielskich liter i &quot;_&quot;, Niepoprawna nazwa użytkownika może uniemożliwić dołączenie serweró i światów singleplayer.</translation>
+        <translation>Nazwa użytkownika jest poprawna tylko wtedy, gdy ma od 3 do 16 znaków i składa się z angielskich liter, cyfr oraz podkreśleń. Nieprawidłowa nazwa może uniemożliwić dołączenie do serwerów i światów w trybie jednoosobowym.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
@@ -1621,7 +1621,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -4447,7 +4447,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="107"/>
         <source>Ok</source>
-        <translation>OK</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
@@ -17086,7 +17086,7 @@ Dodaj swoje konto Mojang lub konto Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>Ok</source>
-        <translation>OK</translation>
+        <translation>Okej</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
