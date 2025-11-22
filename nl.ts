@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Pastebin Dienst</translation>
+        <translation>&amp;Pastebin-dienst</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -21,12 +21,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Plak Dienst &amp;Type</translation>
+        <translation>Type plakdienst</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>Basis &amp;URL</translation>
+        <translation>Basis-URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -42,12 +42,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Let op: waarschijnlijk wilt u de basis-URL veranderen of leeg maken nadat u de plak dienst type hebt veranderd.</translation>
+        <translation>Opmerking: je wilt waarschijnlijk de basis-URL wijzigen of wissen nadat je het type plakdienst hebt gewijzigd.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation>Onderdelen Server</translation>
+        <translation>Onderdelen server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
@@ -57,13 +57,13 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>&amp;API Keys</source>
-        <translation>&amp;API Sleutels</translation>
+        <translation>&amp;API-sleutels</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="205"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation>&amp;Microsoft Authenticatie</translation>
+        <translation>&amp;Microsoft-authenticatie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -73,7 +73,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"/>
         <source>Use None</source>
-        <translation>Gebruik Geen</translation>
+        <translation>Geen gebruiken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="318"/>
@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>API Sleutels</translation>
+        <translation>API-sleutels</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -834,7 +834,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation>Kattenpakket</translation>
+        <translation>Kattenpakket:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
@@ -879,7 +879,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
-        <translation>Doorzichtigheid kat</translation>
+        <translation>Dekking van kat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
@@ -989,7 +989,7 @@ voor details over de laatste bijwerkpoging.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1098"/>
         <source>Update Failed</source>
-        <translation>Bijwerken Mislukt</translation>
+        <translation>Bijwerken mislukt</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1122"/>
@@ -1015,7 +1015,7 @@ voor details.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1130"/>
         <source>Update Succeeded</source>
-        <translation>Bijwerken Gelukt</translation>
+        <translation>Bijwerken gelukt</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1162"/>
@@ -1442,13 +1442,13 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="175"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
@@ -1543,7 +1543,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Berichtlabel-placeholder.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
@@ -1558,17 +1558,17 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
         <source>Allow invalid usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeldige gebruikersnamen toestaan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
@@ -1844,7 +1844,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation>Kopieer resourcepakketten</translation>
+        <translation>Bronpakketten kopiëren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
@@ -1884,12 +1884,12 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
@@ -2398,7 +2398,7 @@ Weet je zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
         <source>Confirm Removal</source>
-        <translation>Bevestig Verwijdering</translation>
+        <translation>Verwijderen bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="204"/>
@@ -2572,7 +2572,7 @@ Weet u dat zeker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="148"/>
@@ -2750,7 +2750,7 @@ Weet u dat zeker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="123"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
@@ -3139,12 +3139,12 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="255"/>
         <source>Confirm Removal</source>
-        <translation>Verwijdering Bevestigen</translation>
+        <translation>Verwijderen bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="269"/>
         <source>Confirm Delete</source>
-        <translation>Verwijdering Bevestigen</translation>
+        <translation>Verwijderen bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="270"/>
@@ -3209,7 +3209,7 @@ Weet u zeker dat je dit wilt doen?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="206"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="266"/>
         <source>Check</source>
-        <translation>Controleer</translation>
+        <translation>Controleren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
@@ -3272,7 +3272,7 @@ Weet u zeker dat je dit wilt doen?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
@@ -3282,7 +3282,7 @@ Weet u zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="130"/>
         <source>VisualVM Executable</source>
-        <translation>VisualVM Executable</translation>
+        <translation>VisualVM uitvoerbaar bestand</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
@@ -4150,12 +4150,12 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="87"/>
@@ -4287,12 +4287,12 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
@@ -4353,7 +4353,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="101"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;Ververs</translation>
+        <translation>Vernieuwen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="107"/>
@@ -4363,7 +4363,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
@@ -5097,17 +5097,17 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;Refresh</translation>
+        <translation>Vernieuwen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="214"/>
         <source>Download</source>
-        <translation>Download</translation>
+        <translation>Downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="215"/>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="279"/>
@@ -5268,17 +5268,17 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
         <source>Download</source>
-        <translation>Download</translation>
+        <translation>Downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"/>
         <source>Remove</source>
-        <translation>Verwijder</translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="115"/>
         <source>Refresh</source>
-        <translation>Ververs</translation>
+        <translation>Vernieuwen</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -5368,7 +5368,7 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>Confirm Deletion</source>
-        <translation>Bevestig Verwijdering</translation>
+        <translation>Verwijderen bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="113"/>
@@ -5400,7 +5400,7 @@ U kunt later de Java-versie wijzigen in de instellingen.
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Download Java</translation>
+        <translation>Java downloaden</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
@@ -5528,7 +5528,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation>Java &amp;Executable</translation>
+        <translation>Java uitvoerbaar bestand</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
@@ -5582,7 +5582,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
         <source>Java Argumen&amp;ts</source>
-        <translation>Java Argumen&amp;ts</translation>
+        <translation>Java-argumenten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="210"/>
@@ -5679,7 +5679,7 @@ Kies één van de volgende, of blader naar een uitvoerbaar Java-bestand.</transl
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation>Download Java</translation>
+        <translation>Java downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
@@ -6117,7 +6117,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     </message>
     <message>
         <source>Update Settings</source>
-        <translation>Instellingen bijwerken</translation>
+        <translation>Instellingen voor updates</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -6471,11 +6471,11 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>Stel de kat&apos;s opaciteit in. 0% is volledig transparant en 100% is compleet ondoorzichtig.</translation>
+        <translation>De dekking van de kat instellen. 0% is volledig transparant en 100% is volledig dekkend.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Opaciteit</translation>
+        <translation>Dekking</translation>
     </message>
     <message>
         <source>%</source>
@@ -6524,7 +6524,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
-        <translation>Detecteer, installeer en update mod benodigdheden automatisch</translation>
+        <translation>Mod-afhankelijkheden automatisch detecteren, installeren en bijwerken.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="417"/>
@@ -6906,7 +6906,7 @@ Wilt u deze nu verwijderen?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="364"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation>Weet u zeker dat u pack %1 wilt verwijderen?</translation>
+        <translation>Weet je zeker dat je pakket %1 wilt verwijderen?</translation>
     </message>
 </context>
 <context>
@@ -7339,7 +7339,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="76"/>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="204"/>
@@ -8315,7 +8315,7 @@ Gelieve uw Mojang- of Microsoftaccount toe te voegen.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1411"/>
         <source>Confirm Deletion</source>
-        <translation>Verwijdering Bevestigen</translation>
+        <translation>Verwijderen bevestigen</translation>
     </message>
     <message>
         <source>There are linked instances</source>
@@ -8723,7 +8723,7 @@ Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="332"/>
         <source>Update Failed</source>
-        <translation>Bijwerken Mislukt</translation>
+        <translation>Bijwerken mislukt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="333"/>
@@ -9244,7 +9244,7 @@ Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="616"/>
         <source>&amp;Native Libraries</source>
-        <translation>&amp;Native Libraries</translation>
+        <translation>Ingebouwde bibliotheken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="681"/>
@@ -9473,7 +9473,7 @@ Je gaat hoogst waarschijnlijk het pad moeten veranderen - kijk hiervoor naar de 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="136"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">GameMode van Feral Interactive kon niet gevonden worden op uw systeem.</translation>
+        <translation>GameMode van Feral Interactive kon niet worden gevonden op je systeem.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="141"/>
@@ -9484,7 +9484,7 @@ Je gaat hoogst waarschijnlijk het pad moeten veranderen - kijk hiervoor naar de 
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="209"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="216"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">Pad naar %1 bibliotheek bestand</translation>
+        <translation>Pad naar %1 bibliotheekbestand</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="548"/>
@@ -9564,7 +9564,7 @@ Je gaat hoogst waarschijnlijk het pad moeten veranderen - kijk hiervoor naar de 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished">Formulier</translation>
+        <translation>Formulier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
@@ -9604,7 +9604,7 @@ Je gaat hoogst waarschijnlijk het pad moeten veranderen - kijk hiervoor naar de 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
@@ -9619,7 +9619,7 @@ Je gaat hoogst waarschijnlijk het pad moeten veranderen - kijk hiervoor naar de 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Oude Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
@@ -9992,7 +9992,7 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="129"/>
         <source>Confirm Delete</source>
-        <translation>Verwijdering Bevestigen</translation>
+        <translation>Verwijderen bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="130"/>
@@ -10085,7 +10085,7 @@ Weet je zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="287"/>
         <source>Confirm Removal</source>
-        <translation>Bevestig Verwijdering</translation>
+        <translation>Verwijderen bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="288"/>
@@ -10103,7 +10103,7 @@ Weet u dat zeker?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="71"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="162"/>
         <source>Download Mods</source>
-        <translation>Download Mods</translation>
+        <translation>Mods downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="100"/>
@@ -10499,7 +10499,7 @@ Gelieve %1 bij te werken!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="220"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Geen geldige versie gevonden voor deze bron. Het is waarschijnlijk niet beschikbaar voor de huidige spelversie.</translation>
+        <translation>Geen geldige versie gevonden voor deze bron. Ze is waarschijnlijk niet beschikbaar voor de huidige spelversie.</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -10587,7 +10587,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="270"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
-        <translation type="unfinished">Het bestand &apos;%1&apos; mist een download koppeling. Dit is ongeldig in de (pack format).</translation>
+        <translation>Het bestand &apos;%1&apos; ontbreekt een downloadkoppeling. Dit is ongeldig in het pakketformaat.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="300"/>
@@ -10733,7 +10733,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished">Filter opties</translation>
+        <translation>Filter-opties</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
@@ -10955,7 +10955,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
@@ -10984,7 +10984,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="112"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="118"/>
@@ -11109,7 +11109,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
@@ -11153,7 +11153,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="48"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
@@ -11170,7 +11170,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="55"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Scroll helemaal naar beneden</translation>
+        <translation>Helemaal naar beneden scrollen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="58"/>
@@ -11195,17 +11195,17 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="114"/>
         <source>Delete &amp;All</source>
-        <translation>Verwijder &amp;Alle</translation>
+        <translation>Alles verwijderen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="125"/>
         <source>Keep updating</source>
-        <translation type="unfinished">Blijven bijwerken</translation>
+        <translation>Blijven bijwerken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="135"/>
         <source>Wrap lines</source>
-        <translation type="unfinished">Regelomslag</translation>
+        <translation>Tekstomloop</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="145"/>
@@ -11225,7 +11225,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="178"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Upload het logbestand naar de paste service ingesteld in instellingen</translation>
+        <translation>Upload het logbestand naar de plakdienst die in de instellingen geconfigureerd is</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="181"/>
@@ -11279,7 +11279,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="308"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Kan de log niet tonen omdat de lengte %1 lijnen heeft overschreden.</translation>
+        <translation>Kan de log niet weergeven omdat de lengte %1 lijnen heeft overschreden.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -11310,7 +11310,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="382"/>
         <source>Confirm Deletion</source>
-        <translation>Verwijdering Bevestigen</translation>
+        <translation>Verwijderen bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="383"/>
@@ -11407,7 +11407,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="47"/>
@@ -11979,7 +11979,7 @@ Selecteer hieronder &quot;Negeren&quot; om deze vergrendeling te overschrijven e
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation type="unfinished">Kindproces &quot;%1 %2&quot; kon niet worden gestart.</translation>
+        <translation>Kindproces &quot;%1 %2&quot; kon niet worden gestart.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1101"/>
@@ -12063,7 +12063,7 @@ Selecteer hieronder &quot;Negeren&quot; om deze vergrendeling te overschrijven e
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="76"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
@@ -12090,7 +12090,7 @@ Kies uw naam zorgvuldig:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="75"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
@@ -12194,7 +12194,7 @@ HTTP Status: %2</translation>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
         <source>Use s&amp;ystem settings</source>
         <oldsource>Use S&amp;ystem Settings</oldsource>
-        <translation type="unfinished">Gebruik Systeeminstellingen</translation>
+        <translation>Systeeminstellingen gebruiken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
@@ -12277,7 +12277,7 @@ HTTP Status: %2</translation>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="96"/>
         <source>Widget style trying to look like your win32 theme</source>
-        <translation type="unfinished">Widget stijl die op je win32 thema probeert te lijken</translation>
+        <translation>Widgetstijl die op je win32 thema probeert te lijken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="98"/>
@@ -12287,12 +12287,12 @@ HTTP Status: %2</translation>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="100"/>
         <source>WinUI 3 inspired Qt widget style</source>
-        <translation type="unfinished">Qt widget stijl geïnspireerd door WinUI3</translation>
+        <translation>Qt widgetstijl geïnspireerd door WinUI 3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="102"/>
         <source>The default Qt widget style</source>
-        <translation type="unfinished">De standaard Qt widget stijl</translation>
+        <translation>De standaard Qt widgetstijl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="104"/>
@@ -12374,12 +12374,12 @@ The launcher can keep the first %3 and last %4 lines, trimming the middle.
 If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
 
 Proceed with truncation?</source>
-        <translation type="unfinished">Het logboek heeft %1 regels, waarmee het de limiet van %2 op mclo.gs overschrijd.
-De launcher kan de eerste %3 en laatste %4 regels behouden, waarbij het midden word weggelaten.
+        <translation>Het logboek bevat %1 regels, wat meer is dan de limiet van mclo.gs van %2.
+Het opstartprogramma kan de eerste %3 en laatste %4 regels behouden en het midden weglaten.
 
-Als je &apos;Nee&apos; kiest, zal mclo.gs alleen de eerste %2 regels behouden, wat mogelijk nuttige informatie zoals crashes aan het eind weglaat.
+Als je ‘Nee’ kiest, behoudt mclo.gs alleen de eerste %2 regels en worden mogelijk nuttige gegevens, zoals crashes aan het einde, weggelaten.
 
-Doorgaan met Inkorting?</translation>
+Doorgaan met inkorten?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
@@ -12976,7 +12976,7 @@ N.B. Zorg dat u een back-up hebt gemaakt van uw belangrijke instantie-data voord
         <location filename="src/launcher/MMCZip.cpp" line="344"/>
         <location filename="src/launcher/MMCZip.cpp" line="355"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Kon de rechten van %1 niet herstellen</translation>
+        <translation>Kon de rechten van %1 niet herstellen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -13027,55 +13027,55 @@ N.B. Zorg dat u een back-up hebt gemaakt van uw belangrijke instantie-data voord
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="267"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Afgevinkt</translation>
+        <translation>Afgevinkt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="269"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="271"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Gereed</translation>
+        <translation>Klaar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="273"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Bezig</translation>
+        <translation>Bezig</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="275"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Mislukt</translation>
+        <translation>Met fouten</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="277"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Verlopen</translation>
+        <translation>Verlopen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="279"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Uitgeschakeld</translation>
+        <translation>Uitgeschakeld</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="281"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Verdwenen</translation>
+        <translation>Verdwenen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="283"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Onbekend</translation>
+        <translation>Onbekend</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
@@ -13122,7 +13122,7 @@ Nieuwe naam: %2</translation>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
         <source>There are linked instances</source>
-        <translation type="unfinished">Er zijn verwezen instanties</translation>
+        <translation>Er zijn gekoppelde instanties</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="113"/>
@@ -13194,12 +13194,12 @@ Wenst u door te gaan?</numerusform>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="243"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Snelkoppeling maken</translation>
+        <translation>Snelkoppeling maken</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished">De launcher staat in de map waaruit hij is uitgepakt, daarom kan hij geen snelkoppelingen maken.</translation>
+        <translation>De launcher staat in de map waaruit hij is uitgepakt. Daarom kan hij geen snelkoppelingen maken.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
@@ -13210,7 +13210,7 @@ Wenst u door te gaan?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished">Wordt dit programma uitgevoerd als een niet juist ingestelde AppImage? ($APPIMAGE omgevingsvariabele is niet aanwezig)</translation>
+        <translation>Wordt dit programma uitgevoerd als een niet juist ingestelde AppImage? ($APPIMAGE omgevingsvariabele is niet aanwezig)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
@@ -13223,7 +13223,7 @@ Wenst u door te gaan?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished">Niet ondersteund op uw platform!</translation>
+        <translation>Niet ondersteund op uw platform!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
@@ -13233,7 +13233,7 @@ Wenst u door te gaan?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished">Het bureaublad is niet gevonden?!</translation>
+        <translation>Het bureaublad is niet gevonden?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="181"/>
@@ -13258,7 +13258,7 @@ Wenst u door te gaan?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="235"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished">Bureaubladinvoer</translation>
+        <translation>Bureaubladinvoer</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="244"/>
@@ -13268,12 +13268,12 @@ Wenst u door te gaan?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
         <source>Network error: %1</source>
-        <translation type="unfinished">Netwerkfout: %1</translation>
+        <translation>Netwerkfout: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished">Fout: %1 geeft onverwachtte statuscode %2 %3</translation>
+        <translation>Fout: %1 heeft onverwachte statuscode %2 %3 gegeven</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="131"/>
@@ -13285,7 +13285,7 @@ Wenst u door te gaan?</numerusform>
         <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished">Fout: %1 heeft een ongeldig antwoord gegeven</translation>
+        <translation>Fout: %1 heeft een onjuist gevormde antwoordtekst teruggestuurd</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
@@ -13295,7 +13295,7 @@ Wenst u door te gaan?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished">Fout: %1 heeft de volgende fout terug gegeven: %2</translation>
+        <translation>Fout: %1 heeft een fout gegeven: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
@@ -13306,7 +13306,7 @@ Wenst u door te gaan?</numerusform>
         <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">Fout: %1 heeft de volgende foutcode terug gegeven: %2
+        <translation>Fout: %1 heeft de volgende foutcode terug gegeven: %2
 Foutmelding: %3</translation>
     </message>
     <message>
@@ -13318,7 +13318,7 @@ Foutmelding: %3</translation>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data Packs</source>
         <oldsource>Data packs</oldsource>
-        <translation type="unfinished">Datapacks</translation>
+        <translation>Gegevenspakketten</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
@@ -13328,17 +13328,17 @@ Foutmelding: %3</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>%1 Developers</source>
-        <translation type="unfinished">%1 Ontwikkelaars</translation>
+        <translation>%1 ontwikkelaars</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>MultiMC Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>MultiMC-ontwikkelaars</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="56"/>
         <source>With special thanks to</source>
-        <translation type="unfinished"></translation>
+        <translation>Speciale dank aan</translation>
     </message>
 </context>
 <context>
@@ -13346,7 +13346,7 @@ Foutmelding: %3</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="95"/>
         <source>Unknown</source>
-        <translation type="unfinished">Onbekend</translation>
+        <translation>Onbekend</translation>
     </message>
 </context>
 <context>
@@ -13370,7 +13370,7 @@ Foutmelding: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation type="unfinished">data pakket</translation>
+        <translation>gegevenspakket</translation>
     </message>
 </context>
 <context>
@@ -13383,7 +13383,7 @@ Foutmelding: %3</translation>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="unfinished">Wijzig %1-versie</translation>
+        <translation>Versie van %1 wijzigen</translation>
     </message>
 </context>
 <context>
@@ -13466,7 +13466,7 @@ Weet u zeker dat u dit venster wil afsluiten?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
         <source>Change %1 version</source>
-        <translation type="unfinished">Wijzig %1-versie</translation>
+        <translation>Versie van %1 wijzigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
@@ -13477,7 +13477,7 @@ Weet u zeker dat u dit venster wil afsluiten?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="62"/>
         <source>Download %1</source>
-        <translation>Download %1</translation>
+        <translation>%1 downloaden</translation>
     </message>
 </context>
 <context>
@@ -13639,7 +13639,7 @@ Gelieve %1 bij te werken!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="432"/>
         <source>No versions available</source>
-        <translation type="unfinished">Geen versies beschikbaar</translation>
+        <translation>Geen versies beschikbaar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="433"/>
@@ -13656,17 +13656,17 @@ De auteur heeft waarschijnlijk derdepartijlaunchers geblokeerd.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="541"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished">Ctrl+Enter</translation>
+        <translation>Ctrl+Enter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="547"/>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="566"/>
         <source>The resource was not found</source>
-        <translation type="unfinished">De bron is niet gevonden</translation>
+        <translation>De bron is niet gevonden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
@@ -13780,12 +13780,12 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Size</source>
-        <translation type="unfinished">Grootte</translation>
+        <translation>Grootte</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Provider</source>
-        <translation type="unfinished">Dienst</translation>
+        <translation>Dienst</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -13867,12 +13867,12 @@ Weet je zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Size</source>
-        <translation type="unfinished">Grootte</translation>
+        <translation>Grootte</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Provider</source>
-        <translation type="unfinished">Dienst</translation>
+        <translation>Dienst</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="78"/>
@@ -13953,7 +13953,7 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Paketten downloaden</translation>
+        <translation>Pakketten downloaden</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
@@ -13962,7 +13962,7 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Download Packs</translation>
+        <translation>Pakketten downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
@@ -13977,7 +13977,7 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished">Versie van een mod aanpassen.</translation>
+        <translation>De versie van een mod aanpassen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
@@ -14021,7 +14021,7 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="144"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Update bevestigen</translation>
+        <translation>Update bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="145"/>
@@ -14040,7 +14040,7 @@ Weet je zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; is up-to-date! :)</translation>
+        <translation>&apos;%1&apos; is bijgewerkt! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="172"/>
@@ -14055,12 +14055,12 @@ Weet je zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
         <source>Update checker</source>
-        <translation type="unfinished">Update verifieerder</translation>
+        <translation>Updatecontrole</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="218"/>
         <source>Confirm Removal</source>
-        <translation>Bevestig Verwijdering</translation>
+        <translation>Verwijderen bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="219"/>
@@ -14072,7 +14072,7 @@ Weet je het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Bronpakketten</translation>
     </message>
 </context>
 <context>
@@ -14112,12 +14112,12 @@ Weet je het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="73"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished">Modnaam: %1&lt;br&gt;Bestandsnaam: %2&lt;br&gt;Reden: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Modnaam: %1&lt;br&gt;Bestandsnaam: %2&lt;br&gt;Reden: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="76"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished">Genereren van metadata is mislukt</translation>
+        <translation>Genereren van metadata is mislukt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="77"/>
@@ -14127,7 +14127,7 @@ Weet je het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="90"/>
         <source>Checking for updates</source>
-        <translation type="unfinished">Controleren op updates</translation>
+        <translation>Controleren op updates</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="110"/>
@@ -14142,40 +14142,40 @@ Weet je het zeker?</translation>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="115"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="206"/>
         <source>Warnings</source>
-        <translation type="unfinished">Waarschuwingen</translation>
+        <translation>Waarschuwingen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="121"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="211"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="371"/>
         <source>Abort</source>
-        <translation type="unfinished">Afbreken</translation>
+        <translation>Afbreken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="122"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Controleren op updates...</translation>
+        <translation>Controleren op updates...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="168"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished">Modnaam: %1</translation>
+        <translation>Modnaam: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="170"/>
         <source>Reason: %1</source>
-        <translation type="unfinished">Reden: %1</translation>
+        <translation>Reden: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished">Mogelijke oplossing: De laatste versie handmatig downloaden:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Mogelijke oplossing: de laatste versie handmatig downloaden:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="178"/>
         <source>Failed to check for updates</source>
-        <translation type="unfinished">Kon niet op updates controleren</translation>
+        <translation>Kon niet op updates controleren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="179"/>
@@ -14185,17 +14185,17 @@ Weet je het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="212"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Controleren op afhankelijkheden...</translation>
+        <translation>Controleren op afhankelijkheden...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="232"/>
         <source>Not installed</source>
-        <translation type="unfinished">Niet geïnstalleerd</translation>
+        <translation>Niet geïnstalleerd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="268"/>
         <source>Looking for metadata</source>
-        <translation type="unfinished">Metadata aan het ophalen</translation>
+        <translation>Zoeken naar metadata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="313"/>
@@ -14205,53 +14205,53 @@ Weet je het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="372"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished">Metadata aan het genereren...</translation>
+        <translation>Metadata genereren...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="425"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished">Kon geen geldige versie vinden bij de geselecteerde mod-dienst(en)</translation>
+        <translation>Kon geen geldige versie vinden bij de geselecteerde mod-dienst(en)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="436"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">Mod is uitgeschakeld omdat deze misschien al is geïnstalleerd.</translation>
+        <translation>Mod is uitgeschakeld omdat deze misschien al is geïnstalleerd.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="443"/>
         <source>Provider: %1</source>
-        <translation type="unfinished">Aanbieder: %1</translation>
+        <translation>Aanbieder: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="447"/>
         <source>Old version: %1</source>
-        <translation type="unfinished">Oude versie: %1</translation>
+        <translation>Oude versie: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="451"/>
         <source>New version: %1</source>
-        <translation type="unfinished">Nieuwe versie: %1</translation>
+        <translation>Nieuwe versie: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="456"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished">Type nieuwe versie: %1</translation>
+        <translation>Type nieuwe versie: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="463"/>
         <source>Required by: %1</source>
-        <translation type="unfinished">Vereist door: %1</translation>
+        <translation>Vereist door: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="466"/>
         <source>Required by:</source>
-        <translation type="unfinished">Vereist door:</translation>
+        <translation>Vereist door:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="478"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished">Wijzigingslijst van de laatste versie</translation>
+        <translation>Wijzigingslijst van de laatste versie</translation>
     </message>
 </context>
 <context>
@@ -14276,18 +14276,18 @@ Weet je het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="24"/>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="25"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="64"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">Mod is uitgeschakeld omdat deze misschien al is geïnstalleerd.</translation>
+        <translation>Mod is uitgeschakeld omdat deze misschien al is geïnstalleerd.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="68"/>
@@ -14522,12 +14522,12 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="13"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="14"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
@@ -14582,12 +14582,12 @@ Momenteel geïnstalleerde versie: %1</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="61"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
@@ -14617,7 +14617,7 @@ Momenteel geïnstalleerde versie: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="293"/>
         <source>Online</source>
-        <translation type="unfinished">Online</translation>
+        <translation>Online</translation>
     </message>
     <message>
         <source>Latency</source>
@@ -14689,7 +14689,7 @@ Momenteel geïnstalleerde versie: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="182"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Vernieuwen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
@@ -14704,7 +14704,7 @@ Momenteel geïnstalleerde versie: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="737"/>
         <source>Confirm Removal</source>
-        <translation>Bevestig Verwijdering</translation>
+        <translation>Verwijderen bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="738"/>
@@ -14763,22 +14763,22 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Download Packs</translation>
+        <translation>Pakketten downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
         <source>Download shader packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Shaderpakketten downloaden van online mod-platforms</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Proberen om alle geselecteerde shaderpakketten te controleren of bij te werken (alle shaderpakkettenals er geen zijn geselecteerd)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
         <source>Change a shader pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versie van een shaderpakket wijzigen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="96"/>
@@ -14817,60 +14817,63 @@ Weet u het zeker?</translation>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="235"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Updates voor shaderpakketten zijn niet beschikbaar wanneer metadata uitgeschakeld is!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="141"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Update bevestigen</translation>
+        <translation>Update bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="142"/>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Het bijwerken van shaderpakketten terwijl het spel actief is, kan leiden tot duplicatie van de pakketten en het vastlopen van het spel.
+De oude bestanden worden mogelijk niet verwijderd omdat ze in gebruik zijn.
+Weet je zeker dat je dit wilt doen?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="162"/>
         <source>The shader pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>De update van het shaderpakket is afgebroken!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="166"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; is up-to-date! :)</translation>
+        <translation>&apos;%1&apos; is bijgewerkt! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"/>
         <source>All shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle shaderpakketten zijn bijgewerkt! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
         <source>All selected shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle geselecteerde shaderpakketten zijn bijgewerkt! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
         <source>Update checker</source>
-        <translation type="unfinished">Update verifieerder</translation>
+        <translation>Updatecontrole</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="215"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="216"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Je staat op het punt om de metadata voor %1 shaderpakketten te verwijderen.
+Weet je het zeker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Shaderpakketten</translation>
     </message>
 </context>
 <context>
@@ -14886,32 +14889,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="294"/>
         <source>Path is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pad is leeg.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="297"/>
         <source>File doesn&apos;t exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand bestaat niet.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="299"/>
         <source>Not a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Is geen bestand.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="301"/>
         <source>File is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand kan niet worden gelezen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="303"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation type="unfinished">Skin afbeeldingen moeten 64x64 of 64x32 pixel PNG bestanden zijn.</translation>
+        <translation>Skin-afbeeldingen moeten 64x64 of 64x32 pixel PNG-bestanden zijn.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="307"/>
         <source>Unable to copy file</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan bestand niet kopiëren</translation>
     </message>
 </context>
 <context>
@@ -14921,117 +14924,117 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="275"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="289"/>
         <source>Skin Upload</source>
-        <translation type="unfinished">Skin uploaden</translation>
+        <translation>Skin uploaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="33"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="39"/>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassiek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="49"/>
         <source>Slim</source>
-        <translation type="unfinished"></translation>
+        <translation>Slank</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <source>Cape</source>
-        <translation type="unfinished">Cape</translation>
+        <translation>Cape</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
         <source>Preview Elytra</source>
-        <translation type="unfinished"></translation>
+        <translation>Elytra-voorbeeld</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Map openen</translation>
+        <translation>Map openen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="117"/>
         <source>Reset Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Skin herstellen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="131"/>
         <source>Import URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL importeren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="138"/>
         <source>Import user</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruiker importeren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="145"/>
         <source>Import File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand importeren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">Skin verwijderen</translation>
+        <translation>Skin verwijderen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
         <source>Deletes selected skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijdert de geselecteerde skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
         <source>Del</source>
-        <translation type="unfinished"></translation>
+        <translation>Del</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="178"/>
         <source>&amp;Rename Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam skin wijzigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
         <source>Rename selected skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam van geselecteerde skin wijzigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="184"/>
         <source>F2</source>
-        <translation type="unfinished"></translation>
+        <translation>F2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="103"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="104"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="154"/>
         <source>Select Skin Texture</source>
-        <translation type="unfinished">Skin-textuur kiezen</translation>
+        <translation>Skin-textuur kiezen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="160"/>
         <source>Selected file is not a valid skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Geselecteerd bestand is geen geldige skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="188"/>
         <source>No Cape</source>
-        <translation type="unfinished">Geen cape</translation>
+        <translation>Geen cape</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="195"/>
         <source>Download capes</source>
-        <translation type="unfinished"></translation>
+        <translation>Capes downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="272"/>
@@ -15041,37 +15044,37 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="275"/>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished">Dit skinbestand bestaat niet!</translation>
+        <translation>Dit skinbestand bestaat niet!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="289"/>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished">Uploaden van de skin mislukt!</translation>
+        <translation>Uploaden van skin mislukt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="300"/>
         <source>Reset skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Skin herstellen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="304"/>
         <source>Skin Delete</source>
-        <translation type="unfinished">Skin verwijderen</translation>
+        <translation>Skin verwijderen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="304"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Kon huidige skin niet verwijderen!</translation>
+        <translation>Kon huidige skin niet verwijderen!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="313"/>
         <source>Context menu</source>
-        <translation type="unfinished">Contextmenu</translation>
+        <translation>Contextmenu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="353"/>
         <source>Delete error</source>
-        <translation>Verwijder fout</translation>
+        <translation>Fout bij verwijderen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="353"/>
@@ -15081,7 +15084,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="361"/>
         <source>Confirm Deletion</source>
-        <translation>Bevestig Verwijdering</translation>
+        <translation>Verwijderen bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="362"/>
@@ -15098,7 +15101,7 @@ Ben je zeker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="383"/>
         <source>Download skin</source>
-        <translation>Download skin</translation>
+        <translation>Skin downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="392"/>
@@ -15139,7 +15142,7 @@ Ben je zeker?</translation>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="479"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="493"/>
         <source>failed to parse get user UUID response</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan het antwoord voor het ophalen van de UUID van de gebruiker niet verwerken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="488"/>
@@ -15149,7 +15152,7 @@ Ben je zeker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="502"/>
         <source>failed to parse get user profile response</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan het antwoord voor het ophalen van het gebruikersprofiel niet verwerken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="519"/>
@@ -15264,14 +15267,14 @@ Ben je zeker?</translation>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation type="unfinished">Taak afgebroken.</translation>
+        <translation>Taak afgebroken.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="44"/>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished">Instantie-update is mislukt omdat: %1
+        <translation>Instantie-update is mislukt omdat: %1
 
 </translation>
     </message>
@@ -15511,12 +15514,12 @@ inheritsFrom ontbreekt</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Size</source>
-        <translation type="unfinished">Grootte</translation>
+        <translation>Grootte</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Provider</source>
-        <translation type="unfinished">Dienst</translation>
+        <translation>Dienst</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="83"/>
@@ -15578,7 +15581,7 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download Packs</source>
-        <translation>Download Packs</translation>
+        <translation>Pakketten downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
@@ -15642,7 +15645,7 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="149"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Update bevestigen</translation>
+        <translation>Update bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="150"/>
@@ -15661,7 +15664,7 @@ Weet je zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="174"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; is up-to-date! :)</translation>
+        <translation>&apos;%1&apos; is bijgewerkt! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="177"/>
@@ -15676,12 +15679,12 @@ Weet je zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
         <source>Update checker</source>
-        <translation type="unfinished">Update verifieerder</translation>
+        <translation>Updatecontrole</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="223"/>
         <source>Confirm Removal</source>
-        <translation>Bevestig Verwijdering</translation>
+        <translation>Verwijderen bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="224"/>
@@ -15719,7 +15722,7 @@ Bent u zeker?</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation>K%at</translation>
+        <translation>Kat</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
@@ -15727,7 +15730,7 @@ Bent u zeker?</translation>
     </message>
     <message>
         <source>Refresh all</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles vernieuwen</translation>
     </message>
 </context>
 <context>
@@ -15755,7 +15758,7 @@ Bent u zeker?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished">Voorkomen</translation>
+        <translation>Uiterlijk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
@@ -16190,7 +16193,7 @@ Wissel alstublieft naar een van de volgende Javaversies voor deze instantie:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="48"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoeken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="108"/>
@@ -16346,7 +16349,7 @@ Wissel alstublieft naar een van de volgende Javaversies voor deze instantie:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
         <source>Confirm Removal</source>
-        <translation>Bevestig Verwijdering</translation>
+        <translation>Verwijderen bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="281"/>
@@ -16646,7 +16649,7 @@ Voeg uw Mojang of Minecraft-account toe.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>Ok</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
@@ -16694,7 +16697,7 @@ Voeg uw Mojang of Minecraft-account toe.</translation>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="8"/>
         <source>Launcher Logs</source>
-        <translation>Launcher Logs</translation>
+        <translation>Launcher-logboeken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="12"/>
@@ -16804,7 +16807,7 @@ Canoniek Pad: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
         <source>Join</source>
-        <translation type="unfinished">Deelnemen</translation>
+        <translation>Lid worden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
@@ -16823,7 +16826,7 @@ Canoniek Pad: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="118"/>
         <source>Delete</source>
-        <translation>Verwijder</translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="123"/>
@@ -16955,7 +16958,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="195"/>
         <source>Confirm Deletion</source>
-        <translation>Bevestig Verwijdering</translation>
+        <translation>Verwijderen bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="196"/>
@@ -17085,7 +17088,7 @@ Stel uw account in volgens %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="152"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation type="unfinished">Dit Microsoftaccount is momenteel beperkt en uw voogd heeft u geen toestemming gegeven om online te spelen. Log in bij %1 en vraag uw voogd om toelating.</translation>
+        <translation>Dit Microsoft-account is momenteel beperkt en je voogd heeft je geen toestemming gegeven om online te spelen. Log in op %1 en vraag je voogd om je machtigingen te wijzigen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="159"/>
