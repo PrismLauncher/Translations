@@ -911,12 +911,12 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
         <translation>Nepavyksta parodyti šio žurnalo, nes jo ilgis viršijo %1 eilučių.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="903"/>
+        <location filename="src/launcher/Application.cpp" line="913"/>
         <source>Settings</source>
         <translation>Nustatymai</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1049"/>
+        <location filename="src/launcher/Application.cpp" line="1074"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -943,12 +943,12 @@ Norėdami gauti daugiau informacijos apie paskutinį bandymą atnaujinti.
 Norėdami ištrinti šį užraktą ir tęsti, toliau pasirinkite „Ignoruoti“.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1066"/>
+        <location filename="src/launcher/Application.cpp" line="1091"/>
         <source>Update In Progress</source>
         <translation>Vykdomas atnaujinimas</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1090"/>
+        <location filename="src/launcher/Application.cpp" line="1115"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -963,12 +963,12 @@ Patikrinkite Prism Launcher atnaujinimo žurnalą adresu:
 Norėdami gauti daugiau informacijos apie paskutinį bandymą atnaujinti.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1098"/>
+        <location filename="src/launcher/Application.cpp" line="1123"/>
         <source>Update Failed</source>
         <translation>Atnaujinimas nepavyko</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1122"/>
+        <location filename="src/launcher/Application.cpp" line="1147"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -989,12 +989,12 @@ Patikrinkite Prism Launcher atnaujinimo žurnalą adresu:
 dėl detalių.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1130"/>
+        <location filename="src/launcher/Application.cpp" line="1155"/>
         <source>Update Succeeded</source>
         <translation>Atnaujinimas pavyko</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1162"/>
+        <location filename="src/launcher/Application.cpp" line="1187"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1015,32 +1015,32 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1168"/>
+        <location filename="src/launcher/Application.cpp" line="1193"/>
         <source>Incompatible system configuration</source>
         <translation>Nesuderinama sistemos konfigūracija</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1539"/>
+        <location filename="src/launcher/Application.cpp" line="1564"/>
         <source>Aborted</source>
         <translation>Nutraukta</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1948"/>
+        <location filename="src/launcher/Application.cpp" line="1973"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Rasti seni duomenys iš %1, bet jūs jau turite %2 duomenis. Deja, teks pačiam persikelti. Ar norite, kad kitą kartą paleisdami %2 jums primintų apie laukiantį duomenų perkėlimą?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1952"/>
+        <location filename="src/launcher/Application.cpp" line="1977"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Panašu, kad anksčiau naudojote %1. Ar norite perkelti savo duomenis į naują vietą %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1958"/>
+        <location filename="src/launcher/Application.cpp" line="1983"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Panašu, kad anksčiau naudojote %1 %2. Ar norite perkelti savo duomenis į naują vietą %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2004"/>
+        <location filename="src/launcher/Application.cpp" line="2029"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Perkėlimas nepavyko! Priežastis: %1</translation>
     </message>

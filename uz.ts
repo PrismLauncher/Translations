@@ -794,12 +794,12 @@ Agar bu yerda yangi bo&apos;lsangiz, Microsoft Akkauntingizni bog&apos;lash uchu
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="903"/>
+        <location filename="src/launcher/Application.cpp" line="913"/>
         <source>Settings</source>
         <translation>Sozlamalar</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1049"/>
+        <location filename="src/launcher/Application.cpp" line="1074"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -826,12 +826,12 @@ So&apos;nggi yangilanish urinishning tafsilotlari uchun Prism Launcher yangilovc
 Ushbu qulf-faylni o&apos;chirish va davom etish uchun quyida &quot;E&apos;tibor bermaslik&quot;ni tanlang.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1066"/>
+        <location filename="src/launcher/Application.cpp" line="1091"/>
         <source>Update In Progress</source>
         <translation>Yangilanish Davom Etmoqda</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1090"/>
+        <location filename="src/launcher/Application.cpp" line="1115"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -846,12 +846,12 @@ So&apos;nggi yangilanish urinishning tafsilotlari uchun Prism Launcher yangilovc
 %7</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1098"/>
+        <location filename="src/launcher/Application.cpp" line="1123"/>
         <source>Update Failed</source>
         <translation>Yangilanish muvaffaqiyatsiz</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1122"/>
+        <location filename="src/launcher/Application.cpp" line="1147"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -872,12 +872,12 @@ So&apos;nggi yangilanish urinishning tafsilotlari uchun Prism Launcher yangilovc
 %7</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1130"/>
+        <location filename="src/launcher/Application.cpp" line="1155"/>
         <source>Update Succeeded</source>
         <translation>Yangilanish muvaffaqiyatli</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1162"/>
+        <location filename="src/launcher/Application.cpp" line="1187"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -894,32 +894,32 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1168"/>
+        <location filename="src/launcher/Application.cpp" line="1193"/>
         <source>Incompatible system configuration</source>
         <translation>Mos kelmaydigan tizim konfiguratsiyasi</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1539"/>
+        <location filename="src/launcher/Application.cpp" line="1564"/>
         <source>Aborted</source>
         <translation>To&apos;xtatildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1948"/>
+        <location filename="src/launcher/Application.cpp" line="1973"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1952"/>
+        <location filename="src/launcher/Application.cpp" line="1977"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1958"/>
+        <location filename="src/launcher/Application.cpp" line="1983"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2004"/>
+        <location filename="src/launcher/Application.cpp" line="2029"/>
         <source>Migration failed! Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>

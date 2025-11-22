@@ -923,12 +923,12 @@ OSと%1をアップデートしてください。</translation>
         <translation>ログの長さが %1 行を超えたため、このログを表示できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="903"/>
+        <location filename="src/launcher/Application.cpp" line="913"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1049"/>
+        <location filename="src/launcher/Application.cpp" line="1074"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -955,12 +955,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 このロックファイルを上書きしてアップデートを続行する場合は、以下の「無視」を選択してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1066"/>
+        <location filename="src/launcher/Application.cpp" line="1091"/>
         <source>Update In Progress</source>
         <translation>アップデート中</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1090"/>
+        <location filename="src/launcher/Application.cpp" line="1115"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -975,12 +975,12 @@ for details on the last update attempt.</source>
 のログを確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1098"/>
+        <location filename="src/launcher/Application.cpp" line="1123"/>
         <source>Update Failed</source>
         <translation>アップデート失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1122"/>
+        <location filename="src/launcher/Application.cpp" line="1147"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1001,12 +1001,12 @@ for details.</oldsource>
 のログを確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1130"/>
+        <location filename="src/launcher/Application.cpp" line="1155"/>
         <source>Update Succeeded</source>
         <translation>アップデート成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1162"/>
+        <location filename="src/launcher/Application.cpp" line="1187"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1027,32 +1027,32 @@ Minecraft のバージョンによっては起動しない場合があります�
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1168"/>
+        <location filename="src/launcher/Application.cpp" line="1193"/>
         <source>Incompatible system configuration</source>
         <translation>システム構成に互換性がありません</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1539"/>
+        <location filename="src/launcher/Application.cpp" line="1564"/>
         <source>Aborted</source>
         <translation>中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1948"/>
+        <location filename="src/launcher/Application.cpp" line="1973"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 からの古いデータが見つかりましたが、%2 用のデータが既に存在しています。手動で移行する必要があります。次回 %2 を起動する際に保留中のデータ移行について通知しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1952"/>
+        <location filename="src/launcher/Application.cpp" line="1977"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>あなたは以前 %1 を使用していたようです。データを %2 の新しい場所に移行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1958"/>
+        <location filename="src/launcher/Application.cpp" line="1983"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>あなたは以前 %2 に %1 を使用していたようです。データを %3 の新しい場所に移行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2004"/>
+        <location filename="src/launcher/Application.cpp" line="2029"/>
         <source>Migration failed! Reason: %1</source>
         <translation>次の理由で移行に失敗しました：%1</translation>
     </message>
