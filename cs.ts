@@ -65,7 +65,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"/>
         <source>Use None</source>
-        <translation>Použít Žádné</translation>
+        <translation>Nepoužívat žádné</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="318"/>
@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>Klíče API</translation>
+        <translation>API klíče</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Zde zadejte vlastní token API pro Modrinth.</translation>
+        <translation>Zde zadejte vlastní API token pro Modrinth.</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -114,20 +114,20 @@
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>ID klienta Technic</translation>
+        <translation>klientské ID Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Upozorněnie: toto nastavte len, pokial chcete pristupovať k súkromím dátam.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Poznámka: toto nastavte pouze, pokud chcete přistupovat k soukromým datům.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Sem zadajte vlastní GUID ID klienta pre Technika.</translation>
+        <translation>Sem zadejte vlastní GUID klientské ID pro Technic.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Ďalšie nastavenie</translation>
+        <translation>Různé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
