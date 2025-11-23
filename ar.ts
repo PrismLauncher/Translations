@@ -75,7 +75,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="373"/>
         <source>&amp;Technic</source>
-        <translation>&amp;Technic</translation>
+        <translation>تيكنك</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -84,7 +84,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>ملاحظة: على الأرجح لا تحتاج إلى تعيين هذا إذا كان تسجيل الدخول عبر Microsoft Authentication يعمل.</translation>
+        <translation>ملاحظة: على الأرجح لا تحتاج إلى تعيين هذا إذا كان تسجيل الدخول عبر توثيق مايكروسوفت يعمل.</translation>
     </message>
     <message>
         <source>(Default)</source>
