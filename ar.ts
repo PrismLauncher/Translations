@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>معرف عميل Technic</translation>
+        <translation>معرف عميل تيكنك</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge Core API</translation>
+        <translation>كورسفورج كور إي بي آي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -175,11 +175,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>أدخل مفتاح API مخصص لـ&quot;كروز فورج( CurseForge)&quot; هنا.</translation>
+        <translation>أدخل مفتاح ال إي بي آي مخصص لـ&quot;كورسفورج( CurseForge)&quot; هنا.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation>APIs</translation>
+        <translation>إي بي آي</translation>
     </message>
 </context>
 <context>
@@ -199,7 +199,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="153"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>فشلت محاولة الحصول على metadata index for &apos;%1&apos; v%2</translation>
+        <translation>فشلت محاولة الحصول على الفهرس الوصفي لـ &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="143"/>
@@ -319,7 +319,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1050"/>
         <source>Failed to create pack component</source>
-        <translation>فشل انشاء pack component</translation>
+        <translation>فشل إنشاء مكون الحزمة</translation>
     </message>
 </context>
 <context>
@@ -486,7 +486,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>نوع الحساب (MSA أو غير متصل)</translation>
+        <translation>نوع الحساب (حساب مايكروسوفت أو غير متصل)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -808,7 +808,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation>عرض مجلد سمات القطعة</translation>
+        <translation>عرض مجلد سمات القطعة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
