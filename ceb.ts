@@ -7052,7 +7052,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation>Segurado kang gusto nimong mapam-as ang pundok nga &apos;%1&apos;?</translation>
+        <translation>Segurado kang gusto nimong mapan-as ang pundok nga &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1187"/>
