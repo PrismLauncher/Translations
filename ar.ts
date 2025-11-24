@@ -8278,7 +8278,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1047"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ماين كرافت 1%</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1052"/>
@@ -9671,12 +9671,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="217"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">لا يوجد إصدار صالح لهذا المصدر. من الأرجح أن لا يكون موجوداً لنسخة اللعبة \محمل المودات الحالي.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="220"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">لا يوجد إصدار صالح لهذا المصدر. من الأرجح أن لا يكون موجوداً لنسخة اللعبة الحالية.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
@@ -9689,7 +9689,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">لا يوجد إصدار صالح لهذا المود. من الأرجح أن لا يكون موجوداً لنسخة اللعبة \محمل المودات الحالي.</translation>
     </message>
 </context>
 <context>
@@ -9707,7 +9707,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="152"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">لم نستطع إيجاد ملف فهرس مناسب للنسخة القديمة وهذا قد يسبب تكرار بعض الملفات. هل تريد الاستمرار؟</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="196"/>

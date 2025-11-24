@@ -3932,7 +3932,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Íoslódáil Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
@@ -4130,7 +4130,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Deimhnigh Roghnú</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
@@ -4407,7 +4407,7 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cuimhne</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
@@ -4541,7 +4541,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Deimhnigh Roghnú</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
@@ -4579,7 +4579,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
         <source>Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Java</translation>
     </message>
 </context>
 <context>
@@ -4590,7 +4590,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Íoslódáil Java</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
@@ -4621,7 +4621,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cuimhne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -4954,7 +4954,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="52"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Teanga</translation>
     </message>
 </context>
 <context>
@@ -6556,7 +6556,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
         <source>Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="771"/>
@@ -7705,7 +7705,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
@@ -13290,7 +13290,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="391"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Teanga</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
