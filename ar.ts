@@ -1301,52 +1301,52 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation>النظام قد وجد إصدار 32-bit لJava على جهازك</translation>
+        <translation>النظام قد وجد إصدار 32 بت للجافا على جهازك.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation>لم يستطع النظام الوجود على إصدار Java متناسق، سيستخدم النظام الخيار الافتراضي.</translation>
+        <translation>لم يستطع النظام الوجود على إصدار جافا متناسق، سيستخدم النظام الخيار الافتراضي.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation>جهازك (%1-%2) لا يدعم تثبيت Java أوتوماتيكياً. سيستخدم مكان Java التلقائي.</translation>
+        <translation>جهازك (%1-%2) لا يدعم تثبيت جافا أوتوماتيكياً. سيستخدم مكان جافا التلقائي.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation>المعلومات المطلوبة قديمة أو غير موجودة لتحديد إصدار نسخة Java التي يجب إستعمالها. سيتم إستعمال طريق Java الإفتراضي.</translation>
+        <translation>المعلومات المطلوبة قديمة أو غير موجودة لتحديد إصدار نسخة جافا التي يجب إستعمالها. سيتم إستعمال طريق جافا الإفتراضي.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
         <source>Compatible Java found at: %1.</source>
-        <translation>وجد Java متناسق: 1%.</translation>
+        <translation>عثر على إصدار جافا متناسق في: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation>لم يوجد أي نسخة متناسقة مع Java. سيتم إستعمال النسخة الإفتراضية.</translation>
+        <translation>لم يوجد أي نسخة متناسقة مع جافا. سيتم إستعمال النسخة الإفتراضية.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
         <source>Could not determine Java download type!</source>
-        <translation>لم يتمكن تحديد نوع تحميل Java!</translation>
+        <translation>لم يتمكن تحديد نوع تحميل جافا!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
         <source>Install Java</source>
-        <translation>تثبيت Java</translation>
+        <translation>تثبيت جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation>لم يتم العثور على أي نسخة من Java في جهازك: %1-%2</translation>
+        <translation>لم يتم العثور على إصدار جافا مناسب لنطامك: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation>لا توجد نسخة متناسقة من Java. سيتم إستعمال النسخة الإفتراضية.</translation>
+        <translation>لم يتم العثور على إصدار جافا مناسب. سيتم إستعمال الإصدار الإفتراضي.</translation>
     </message>
 </context>
 <context>
@@ -1365,7 +1365,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation>لقد أضفنا خاصية تحميل النسخة الصحيحة لJava لكل نسخة من Minecraft (هذه الخاصية يمكن تغييرها في إعدادات Java). هل تريد تفعيل أم تعطيل هذه الخاصية؟</translation>
+        <translation>لقد أضفنا خاصية تحميل النسخة الصحيحة للجافا لكل نسخة من ماين كرافت(هذه الخاصية يمكن تغييرها في إعدادات جافا). هل تريد تفعيل أم تعطيل هذه الخاصية؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -1494,22 +1494,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
         <source>Choose Offline Name</source>
-        <translation type="unfinished"></translation>
+        <translation>إختر اسم غير متصل بالشبكة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>نائب تسمية رسالة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم مستخدم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يكون اسم المستخدم سليماً إلا إذا كان يتراوح طوله بين 3 و 16 رمزاً، ويستخدم الحروف والأعداد الانكليزية وتساطير سفلية. من الممكن ان يمنع الاسم الغير سليم من الدخول الى الخوادم و عوالم اللاعب الفردي.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
