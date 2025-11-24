@@ -8962,7 +8962,7 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
     </message>
     <message>
         <source>Update pack</source>
-        <translation>Update Pack</translation>
+        <translation>Pack aktualisieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
