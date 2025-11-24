@@ -1614,12 +1614,12 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation>Ein Benutzername ist nur dann gültig wenn er 3 bis 16 Zeichen lang ist, und nur englische Buchstaben, Zahlen und Unterstriche verwendet. Ein ungültiger Benutzername könnte das Beitreten von Servern und Einzelspieler-Welten verhindern.</translation>
+        <translation>Ein Benutzername ist nur gültig, wenn er zwischen 3 und 16 Zeichen lang ist und aus englische Buchstaben, Zahlen und Unterstrichen besteht. Ein ungültiger Benutzername kann den Beitritt zu Servern und Einzelspieler-Welten verhindern.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
         <source>Allow invalid usernames</source>
-        <translation>Ungültige Benutzernamen erlauben</translation>
+        <translation>Erlaube ungültige Benutzernamen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
@@ -7251,7 +7251,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="158"/>
         <source>Search</source>
-        <translation>Suchen</translation>
+        <translation>Suche</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -11607,7 +11607,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
         <source>Search</source>
-        <translation>Suchen</translation>
+        <translation>Suche</translation>
     </message>
     <message>
         <source>Clear the log</source>
