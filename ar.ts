@@ -1391,7 +1391,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="173"/>
         <source>All mods found</source>
-        <translation>تم العثور عل جميع المودات</translation>
+        <translation>تم العثور على جميع المودات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
@@ -1461,7 +1461,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;لقد قمت بتعيين مجلد المودات العام ومجلد التنزيلات الإفتراضيوسيتم فحصها بإستمرار بحثا عن المودات وسيتم نسخها للواجهه في حال تم العثور عليها .&lt;/p&gt;&lt;p&gt;و في حال تم تنزيل المودات في موقع غير الذي تم تعيينة تستطيع سحب وإفلات المودات في هذة المساحة أو تستطيع إظافة مجلد لمراقبة إذا لم تقد بتحميل المودات في الموقع الإفتراضي&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;لقد قمت بتعيين مجلد المودات العام ومجلد التنزيلات الإفتراضي وسيتم فحصها بإستمرار بحثا عن المودات وسيتم نسخها للواجهة في حال تم العثور عليها .&lt;/p&gt;&lt;p&gt;و في حال تم تنزيل المودات في موقع غير الذي تم تعيينه تستطيع سحب وإفلات المودات في هذه المساحة أو تستطيع إضافة مجلد لمراقبة إذا لم تقد بتحميل المودات في الموقع الإفتراضي&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
@@ -1473,7 +1473,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="55"/>
         <source>Equipping cape</source>
-        <translation>تجهيز الرأس</translation>
+        <translation>تجهيز الرداء</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="52"/>
@@ -1504,7 +1504,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
         <source>Username</source>
-        <translation>اسم مستخدم</translation>
+        <translation>اسم المستخدم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
@@ -1514,17 +1514,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
         <source>Allow invalid usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>السماح بأسماء المستخدم الغير سليمة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished">إلغاء</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>نعم</translation>
     </message>
 </context>
 <context>
@@ -1857,7 +1857,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="85"/>
         <source>Core Mods</source>
-        <translation type="unfinished">تعديلات أساسية</translation>
+        <translation>المودات الأساسية</translation>
     </message>
 </context>
 <context>
@@ -2668,7 +2668,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="163"/>
         <source>Export %1</source>
-        <translation type="unfinished">تصدير %1</translation>
+        <translation>تصدير %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="157"/>
@@ -2683,7 +2683,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="191"/>
         <source>Error</source>
-        <translation type="unfinished">خطأ</translation>
+        <translation>خطأ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="193"/>
@@ -2698,7 +2698,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="199"/>
         <source>Abort</source>
-        <translation type="unfinished">إنهاء</translation>
+        <translation>إنهاء</translation>
     </message>
 </context>
 <context>
@@ -2756,12 +2756,12 @@ Are you sure?</source>
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished">هذا النص يدعم العناصر المؤقتة:
-{name}     - Mod name
-{mod_id}   - Mod ID
-{url}      - Mod URL
-{version}  - Mod version
-{authors}  - Mod authors</translation>
+        <translation>هذا النص يدعم العناصر المؤقتة:
+{name}     - اسم المود
+{mod_id}   - رمز هوية المود
+{url}      - الموقع الإلكتروني للمود
+{version}  - نسخة المود
+{authors}  - مؤلفون المود</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -2784,7 +2784,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="119"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
         <source>URL</source>
-        <translation>URL</translation>
+        <translation>موقع الإلكتروني</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="126"/>
@@ -2810,12 +2810,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="226"/>
         <source>Copy</source>
-        <translation type="unfinished">نسخ</translation>
+        <translation>نسخ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="68"/>
         <source>Cancel</source>
-        <translation type="unfinished">إلغاء</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
@@ -2825,12 +2825,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="165"/>
         <source>Export %1</source>
-        <translation type="unfinished">تصدير %1</translation>
+        <translation>تصدير %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="166"/>
         <source>File</source>
-        <translation type="unfinished">الملف</translation>
+        <translation>الملف</translation>
     </message>
 </context>
 <context>
@@ -2842,11 +2842,11 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
         <source>Actions</source>
-        <translation type="unfinished">الإجراءات</translation>
+        <translation>الإجراءات</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;إضافة</translation>
+        <translation>&amp;إضافة</translation>
     </message>
     <message>
         <source>Add</source>
@@ -2896,23 +2896,23 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished">&amp;تفعيل</translation>
+        <translation>&amp;تفعيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished">&amp;تعطيل</translation>
+        <translation>&amp;تعطيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="117"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation>تفعيل جميع المختار</translation>
+        <translation>تفعيل كل العناصر المحددة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="59"/>
         <source>Search</source>
-        <translation type="unfinished">البحث</translation>
+        <translation>البحث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
@@ -2932,17 +2932,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
         <source>Disable all selected items.</source>
-        <translation>اقاف جميع المحدد</translation>
+        <translation>تعطيل كل العناصر المحددة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished">عرض و تعديل</translation>
+        <translation>عرض &amp;ملفات التعديل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished">افتح مجلد &apos;config&apos; باستخدام مدير ملفات النظام.</translation>
+        <translation>افتح مجلد &apos;config&apos; باستخدام مدير ملفات النظام.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
@@ -2952,7 +2952,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
         <source>Open the folder in the system file manager.</source>
-        <translation>افتح الملف الذي يوجد داخل مدير ملفات النظام</translation>
+        <translation>افتح المجلد الذي يوجد داخل مدير ملفات النظام.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
@@ -3017,13 +3017,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="132"/>
         <source>Context menu</source>
-        <translation type="unfinished">قائمة السياق</translation>
+        <translation>قائمة السياق</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="213"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished">اختر %1</translation>
+        <translation>اختر %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="243"/>
@@ -3103,7 +3103,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="191"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="251"/>
         <source>Browse</source>
-        <translation type="unfinished">تصفح</translation>
+        <translation>تصفح</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
