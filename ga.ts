@@ -2834,7 +2834,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>External Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Uirlisí Seachtrach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -2944,7 +2944,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="53"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Uirlisí</translation>
     </message>
 </context>
 <context>
