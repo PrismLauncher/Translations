@@ -1614,7 +1614,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Cabhair</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
@@ -4196,7 +4196,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Cabhair</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
@@ -6383,7 +6383,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="705"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Cabhair</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="708"/>
@@ -6612,7 +6612,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="211"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cabhair</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
@@ -6673,7 +6673,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Cabhair</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -9003,7 +9003,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="124"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Cabhair</translation>
     </message>
 </context>
 <context>
@@ -9336,7 +9336,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Other logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Logaí eile</translation>
     </message>
 </context>
 <context>
@@ -9376,7 +9376,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="48"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Cabhair</translation>
     </message>
 </context>
 <context>
@@ -9387,7 +9387,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid líonra: %1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
