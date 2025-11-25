@@ -249,7 +249,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="681"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>Не вдалося відкрити пакунок конфігурацій %1!</translation>
+        <translation>Не вдалося відкрити конфігурації збірки %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
@@ -264,7 +264,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Mod download</source>
-        <translation>Завантажити мод</translation>
+        <translation>Завантаження модів</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -284,7 +284,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Наступні файли недоступні для завантаження у сторонніх запускачах.&lt;br/&gt;Вам потрібно буде завантажити їх в ручну та додати до збірки.</translation>
+        <translation>Наступні файли недоступні для сторонніх лаунчерів.&lt;br/&gt;Вам потрібно буде завантажити їх та додати до збірки вручну.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="880"/>
@@ -304,7 +304,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="997"/>
         <source>Installing modpack</source>
-        <translation>Встановлення збірки модів</translation>
+        <translation>Встановлення збірки</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1009"/>
@@ -319,7 +319,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1050"/>
         <source>Failed to create pack component</source>
-        <translation>Не вдалося створити компонент пакунку</translation>
+        <translation>Не вдалося створити компонент збірки</translation>
     </message>
 </context>
 <context>
@@ -332,7 +332,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Неофіційний запускач, який спрощує керування Minecraft, дозволяючи мати багато збірок Minecraft одночасно.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Користувацький лаунчер, який спрощує керування Minecraft, дозволяючи керувати багатьма збірками Minecraft одночасно.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -347,12 +347,12 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation>Дата створення:</translation>
+        <translation>Дата збирання:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation>Здійснити:</translation>
+        <translation>Комміт:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
@@ -387,12 +387,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
         <source>Commit: %1</source>
-        <translation>Здійснити: %1</translation>
+        <translation>Комміт: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="106"/>
         <source>Build date: %1</source>
-        <translation>Дата збірки: %1</translation>
+        <translation>Дата збирання: %1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -418,12 +418,12 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>Не перевірено</translation>
+        <translation>Не перевірений</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Офлайн</translation>
+        <translation>Автономний</translation>
     </message>
     <message>
         <source>Online</source>
@@ -440,7 +440,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation>Офлайн</translation>
+        <translation>Автономний</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
@@ -461,7 +461,7 @@
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Помилковий</translation>
+        <translation>Містить помилки</translation>
     </message>
     <message>
         <source>Expired</source>
@@ -471,12 +471,12 @@
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>Вимкнено</translation>
+        <translation>Вимкнений</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>Втрачено</translation>
+        <translation>Втрачений</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -486,7 +486,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>Тип облікового запису (Обліковий Запис Майкрософт чи офлайн)</translation>
+        <translation>Тип облікового запису (MSA чи автономний)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -521,7 +521,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="343"/>
         <source>Username</source>
-        <translation>Ім&apos;я Користувача</translation>
+        <translation>Ім&apos;я користувача</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"/>
@@ -545,7 +545,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Ім&apos;я користувача Minecraft пов’язане з обліковим записом.</translation>
+        <translation>Ім&apos;я користувача Minecraft, пов’язане з обліковим записом.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -582,7 +582,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="105"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation>Видалити обліковий запис</translation>
+        <translation>&amp;Видалити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"/>
@@ -594,7 +594,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>&amp;Немає Усталеного</translation>
+        <translation>&amp;Прибрати усталений статус</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
@@ -613,24 +613,24 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation>&amp;Керування Скінами</translation>
+        <translation>&amp;Керування скінами</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation>Керування Скінами</translation>
+        <translation>Керування скінами</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>Додати Обліковий Запис Microsoft</translation>
+        <translation>Додати &amp;обліковий запис Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>Додати &amp;Офлайновий Обліковий Запис</translation>
+        <translation>Додати &amp;автономний обліковий запис</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
@@ -700,7 +700,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Вам потрібно додати обліковий запис Microsoft, на якому є куплений Minecraft перед додаванням офлайн облікового запису.&lt;br&gt;&lt;br&gt;Якщо ви втратили свій обліковий запис, ви можете зв&apos;язатися з Microsoft для отримання технічної підтримки.</translation>
+        <translation>Вам потрібно додати обліковий запис Microsoft, на якому є куплений Minecraft перед додаванням автономного облікового запису.&lt;br&gt;&lt;br&gt;Якщо ви втратили свій обліковий запис, ви можете звернутися до підтримки Microsoft.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -727,7 +727,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Будь ласка, введіть бажане ім’я користувача, щоби додати офлайновий обліковий запис.</translation>
+        <translation>Будь ласка, введіть бажане ім’я користувача, щоби додати автономний обліковий запис.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
@@ -792,7 +792,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="90"/>
         <source>All Versions</source>
-        <translation>Усі Версії</translation>
+        <translation>Усі версії</translation>
     </message>
 </context>
 <context>
@@ -815,7 +815,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation>Відкрити Теку</translation>
+        <translation>Відкрити теку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
@@ -830,12 +830,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation>&amp;Набір котів:</translation>
+        <translation>&amp;Набір котиків:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation>Перезавантажити Все</translation>
+        <translation>Перезавантажити все</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
@@ -8954,7 +8954,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1052"/>
         <source>, last played on %1 for %2</source>
-        <translation>, востаннє зіграно %1 за %2</translation>
+        <translation>, остання сесія була запущена %1, і тривала %2</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
