@@ -727,7 +727,7 @@ Más duine nua thú anseo, is féidir leat an cnaipe &quot;Cuir Microsoft leis&q
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[DÍFHABHTÚ] Teachtaireacht dífhabhtúcháin faoi rún...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
@@ -740,7 +740,7 @@ Más duine nua thú anseo, is féidir leat an cnaipe &quot;Cuir Microsoft leis&q
     <message>
         <location filename="src/launcher/Application.cpp" line="697"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir a thaispeáint an loga seo toisc gur sháraigh fad an loga %1 líne.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="913"/>
@@ -821,7 +821,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/Application.cpp" line="1564"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1973"/>
@@ -860,7 +860,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="42"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
@@ -1187,7 +1187,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
@@ -1300,7 +1300,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
@@ -1346,7 +1346,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="188"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
@@ -1619,7 +1619,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
@@ -1771,7 +1771,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Orduithe Oiriúnaithe</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
@@ -1819,7 +1819,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Orduithe Oiriúnaithe</translation>
     </message>
 </context>
 <context>
@@ -1937,7 +1937,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/DataMigrationTask.cpp" line="66"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="84"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
@@ -2055,7 +2055,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
@@ -2076,7 +2076,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="189"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="262"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscoir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
@@ -2189,17 +2189,17 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Athróga Timpeallachta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="110"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Luach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="50"/>
@@ -2226,7 +2226,7 @@ Are you sure?</source>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Athróga Timpeallachta</translation>
     </message>
 </context>
 <context>
@@ -2239,7 +2239,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="90"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
@@ -2265,7 +2265,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="160"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscoir</translation>
     </message>
 </context>
 <context>
@@ -2351,7 +2351,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="123"/>
@@ -2382,7 +2382,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="193"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasc tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="193"/>
@@ -2392,7 +2392,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="199"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscoir</translation>
     </message>
 </context>
 <context>
@@ -2504,7 +2504,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="68"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
@@ -2694,7 +2694,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="269"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Deimhnigh Scrios</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="270"/>
@@ -2970,7 +2970,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
@@ -3525,7 +3525,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"/>
@@ -3608,7 +3608,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscoir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"/>
@@ -3658,7 +3658,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
@@ -3716,7 +3716,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
@@ -3904,11 +3904,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuimhne</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Leithdháileadh íosta cuimhne:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
@@ -3996,11 +3996,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Orduithe oiriúnaithe</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Athróga timpeallachta</translation>
     </message>
     <message>
         <source>Workarounds</source>
@@ -4319,7 +4319,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="215"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="279"/>
@@ -4356,7 +4356,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="332"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscoir</translation>
     </message>
 </context>
 <context>
@@ -4797,25 +4797,25 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="296"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saraíonn do leithdháileadh uasta cuimhne cumas cuimhne do chórais.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="299"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá do leithdháileadh uasta cuimhne i gcóngar chumais cuimhne do chórais.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá do leithdháileadh uasta cuimhne níos lú ná an leithdháileadh íosta cuimhne.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druideann do leithdháileadh uasta cuimhne le cumas cuimhne do chórais.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá do leithdháileadh uasta cuimhne níos lú ná an t-íosluach</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
@@ -4891,17 +4891,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Leithdháileadh íosta cuimhne:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Leithdháileadh uasta cuimhne:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
+        <translation>An méid cuimhne a bhí ar fáil do Mhinecraft ar an dtosach.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
@@ -4931,17 +4931,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saraíonn do leithdháileadh uasta cuimhne cumas cuimhne do chórais.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druideann do leithdháileadh uasta cuimhne le cumas cuimhne do chórais.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="521"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá do leithdháileadh uasta cuimhne níos lú ná an t-íosluach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
@@ -4967,7 +4967,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation>Úsáid logchaighdeáin córas</translation>
+        <translation>Úsáid logchaighdeáin chórais</translation>
     </message>
 </context>
 <context>
@@ -5051,7 +5051,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="144"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
@@ -5154,7 +5154,7 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="305"/>
         <location filename="src/launcher/LaunchController.cpp" line="487"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscoir</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="500"/>
@@ -5643,7 +5643,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="122"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar mhaith leat ar aghaidh a leanúint ar aon nós?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="136"/>
@@ -5696,7 +5696,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Lainseálaí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -5865,7 +5865,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasc tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
@@ -5934,7 +5934,7 @@ You&apos;ll have to correct this problem manually.</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -6194,7 +6194,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="154"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasc tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="260"/>
@@ -6254,7 +6254,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="76"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="204"/>
@@ -6333,7 +6333,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Athraigh...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
@@ -6718,7 +6718,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="261"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Cúlspáis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="441"/>
@@ -6739,7 +6739,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Athraigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="399"/>
@@ -6818,7 +6818,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Scrios grúpa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
@@ -6857,7 +6857,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="861"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasc tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="861"/>
@@ -6869,7 +6869,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="992"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1026"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscoir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="981"/>
@@ -6906,7 +6906,7 @@ Please create a new instance before attempting to install this resource again.</
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrios grúpa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1207"/>
@@ -7254,7 +7254,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasc tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
@@ -7264,7 +7264,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="208"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscoir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="216"/>
@@ -7348,7 +7348,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="125"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="140"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscortha</translation>
     </message>
 </context>
 <context>
@@ -7434,7 +7434,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscortha</translation>
     </message>
 </context>
 <context>
@@ -7921,12 +7921,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="774"/>
         <source>Custom Commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Orduithe Oiriúnaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="784"/>
         <source>Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Athróga Timpeallachta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="68"/>
@@ -8265,7 +8265,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="129"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Deimhnigh Scrios</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="130"/>
@@ -8296,7 +8296,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="234"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="257"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="168"/>
@@ -8314,7 +8314,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="188"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="273"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscoir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="208"/>
@@ -8511,7 +8511,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscoir</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
@@ -8959,7 +8959,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="71"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="72"/>
@@ -8998,7 +8998,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="118"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="124"/>
@@ -9067,7 +9067,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="53"/>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Nótaí</translation>
     </message>
 </context>
 <context>
@@ -9098,7 +9098,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <source>OK</source>
@@ -9130,7 +9130,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="47"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="48"/>
@@ -9235,7 +9235,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrios</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
@@ -9344,7 +9344,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="354"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="578"/>
@@ -9371,7 +9371,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="47"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="48"/>
@@ -9965,7 +9965,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="75"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="76"/>
@@ -9990,7 +9990,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="75"/>
@@ -10144,7 +10144,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="56"/>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Seachfhreastalaí</translation>
     </message>
 </context>
 <context>
@@ -10921,7 +10921,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/GZip.cpp" line="207"/>
         <source>out of memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuimhne lán</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="209"/>
@@ -11199,7 +11199,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="165"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscoir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="166"/>
@@ -11267,7 +11267,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="127"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>bearta acmhainní</translation>
     </message>
 </context>
 <context>
@@ -11276,7 +11276,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="36"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>bearta acmhainní</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="38"/>
@@ -11394,7 +11394,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="547"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="566"/>
@@ -11420,7 +11420,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="163"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>bearta scáilitheora</translation>
     </message>
 </context>
 <context>
@@ -11429,7 +11429,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="36"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>bearta scáilitheora</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="38"/>
@@ -11662,7 +11662,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearta acmhainní</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -11697,7 +11697,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="165"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="188"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="103"/>
@@ -11715,7 +11715,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="123"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="204"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscoir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="139"/>
@@ -11782,7 +11782,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearta Acmhainní</translation>
     </message>
 </context>
 <context>
@@ -11855,7 +11855,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="211"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="371"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscoir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="122"/>
@@ -11965,12 +11965,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="14"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar ais</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="24"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="25"/>
@@ -12054,7 +12054,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="72"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrios</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="77"/>
@@ -12108,7 +12108,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="393"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscoir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
@@ -12176,7 +12176,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="13"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="14"/>
@@ -12217,12 +12217,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Dáta Eisithe</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="48"/>
@@ -12234,7 +12234,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="61"/>
@@ -12373,7 +12373,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
         <source>&lt; &amp;Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; &amp;Ar ais</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
@@ -12395,7 +12395,7 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearta scáilitheora</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -12430,7 +12430,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="162"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
@@ -12448,7 +12448,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="120"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscoir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"/>
@@ -12515,7 +12515,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearta Scáilitheora</translation>
     </message>
 </context>
 <context>
@@ -12523,7 +12523,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinDelete.cpp" line="49"/>
         <source>Deleting skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag scrios culaith</translation>
     </message>
 </context>
 <context>
@@ -12621,7 +12621,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Scrios Culaith</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
@@ -12651,7 +12651,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="103"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="104"/>
@@ -12844,7 +12844,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasc tobscortha.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="44"/>
@@ -13126,7 +13126,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="193"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscortha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"/>
@@ -13144,7 +13144,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="128"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="209"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobscoir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="144"/>
@@ -13423,7 +13423,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="148"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Athraigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="156"/>
@@ -13741,17 +13741,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="110"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="112"/>
         <source>Minecraft</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="114"/>
         <source>Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Brainse</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="116"/>
@@ -13761,89 +13761,89 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="118"/>
         <source>Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>Ailtireacht</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="120"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Cosán</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
         <source>Java Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
         <source>Major Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Mórleagan</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
         <source>Released</source>
-        <translation type="unfinished"></translation>
+        <translation>Eisithe</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
         <source>The name of the version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm an leagain.</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
         <source>Minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="135"/>
         <source>The version&apos;s branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Brainse an leagain</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
         <source>The version&apos;s type</source>
-        <translation type="unfinished"></translation>
+        <translation>Cineál an leagain</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
         <source>CPU Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>Ailtireacht LAP</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
         <source>Filesystem path to this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Cosán chórais chomhad go dtí an leagan seo</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>An t-ainm malairte atá ar an leagain Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mórleagan Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
         <source>Release date of this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Dáta eisithe don leagan seo</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="166"/>
         <source>%1 (installed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (suiteáilte)</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="194"/>
         <source>Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar Mhol</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="198"/>
         <source>Latest</source>
-        <translation type="unfinished"></translation>
+        <translation>Is Déanaí</translation>
     </message>
 </context>
 <context>
@@ -13856,7 +13856,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
@@ -14006,12 +14006,12 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Ceangail leis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Athainmnigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="113"/>
@@ -14021,7 +14021,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="118"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrios</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="123"/>
@@ -14036,7 +14036,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="133"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Athnuaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="138"/>
@@ -14074,7 +14074,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
         <source>Worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Domhain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="146"/>
