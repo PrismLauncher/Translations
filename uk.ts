@@ -13,12 +13,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Сервіс Вставки &amp;Тип</translation>
+        <translation>&amp;Тип сервіса вставки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>Основне Покликання (URL)</translation>
+        <translation>Основне &amp;посилання</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -29,27 +29,27 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="340"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="383"/>
         <source>Use Default</source>
-        <translation>Використовувати Усталене</translation>
+        <translation>Використовувати усталене</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Примітка: ймовірно, ви захочете змінити чи очистити покликання (URL) після зміни служби.</translation>
+        <translation>Примітка: ймовірно, ви захочете змінити чи очистити посилання після зміни служби.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
         <source>Assets Server</source>
-        <translation>Сервер Об&apos;єктів</translation>
+        <translation>Сервер ресурсів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>Ви можете призначити інший сервер, якщо маєте проблеми із завантаженням ресурсів.</translation>
+        <translation>Ви можете встановити інший сервер, якщо маєте проблеми із завантаженням ресурсів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
         <source>&amp;API Keys</source>
-        <translation>&amp;Ключі Ядер (API)</translation>
+        <translation>&amp;Ключі API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="205"/>
@@ -60,7 +60,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Mod&amp;rinth</source>
-        <translation>Пошук модів(Mod&amp;rinth)</translation>
+        <translation>Mod&amp;rinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"/>
@@ -79,12 +79,12 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>Ключі (API)</translation>
+        <translation>Ключі API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Примітка: Ймовірно, вам не потрібно це встановлювати, якщо вхід за допомогою автентифікації Microsoft вже працює.</translation>
+        <translation>Примітка: ймовірно, вам не потрібно це встановлювати, якщо вхід за допомогою автентифікації Microsoft вже працює.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -93,11 +93,11 @@
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Уведіть тут власний ідентифікатор клієнта для автентифікації Microsoft.</translation>
+        <translation>Введіть тут власний ідентифікатор клієнта для автентифікації Microsoft.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>&amp;Ядро (API) Модринт (Modrinth)</translation>
+        <translation>API &amp;Modrinth</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -106,11 +106,11 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Введіть власний токен ядра (API) для Модринту (Modrinth).</translation>
+        <translation>Введіть тут власний токен API для Modrinth.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(Нічого)</translation>
+        <translation>(Не використовувати)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
@@ -123,11 +123,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Введіть тут власний Ідентифікатор клієнта GUID для Technic.</translation>
+        <translation>Введіть тут власний GUID ідентифікатор клієнта для Technic.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Різне</translation>
+        <translation>Інші</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -137,12 +137,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Введіть власний Користувацький Агент тут. Спеціальний рядок $ЗАПУСКАЧ_ВЕР ($LAUNCHER_VER) буде замінено версією запускача.</translation>
+        <translation>Введіть тут ім&apos;я власного користувацького агента. Спеціальний рядок $LAUNCHER_VER буде замінено версією лаунчера.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation>Сервер Метаданих</translation>
+        <translation>Сервер мета&amp;даних</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
@@ -152,34 +152,34 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Ви можете встановити це на сторонній сервер метаданих, щоб використовувати виправлені бібліотеки або інші обхідні рішення.</translation>
+        <translation>Можна встановити цей параметр для стороннього сервера метаданих, щоб використовувати інші бібліотеки.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Введіть своє покликання метаданих тут.</translation>
+        <translation>Введіть тут власне посилання метаданих.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примітка: вам потрібно налаштувати це лише для доступу до приватних даних. Прочитайте &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;документацію&lt;/a&gt; для отримання додаткових відомостей.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примітка: вам потрібно налаштувати це лише для доступу до приватних даних. Прочитайте &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;документацію&lt;/a&gt; для отримання більшої інформації.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp; CurseForge (API) Ядро</translation>
+        <translation>Базовий API &amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Примітка: вам, ймовірно, не потрібно змінювати це, якщо (CurseForge) вже працює.</translation>
+        <translation>Примітка: вам, ймовірно, не потрібно змінювати це, якщо CurseForge вже працює.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Введіть власний ключ Ядра (API) КерсФордж (CurseForge) тут.</translation>
+        <translation>Введіть тут власний ключ API CurseForge.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation>Ядра (API)</translation>
+        <translation>API</translation>
     </message>
 </context>
 <context>
@@ -199,12 +199,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="153"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Не вдалося отримати локальний індекс метаданих для &apos;%1&apos; v&apos;%2&apos;</translation>
+        <translation>Не вдалося отримати локальний індекс метаданих для &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="143"/>
         <source>Unsupported installation mode</source>
-        <translation>Непідтримуваний режим інсталяції</translation>
+        <translation>Непідтримуваний режим встановлення</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="184"/>
@@ -219,12 +219,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="374"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Помилка пошуку версії для завантажувача %1</translation>
+        <translation>Не вдалося знайти версію для завантажувача %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="387"/>
         <source>No loader version set for modpack!</source>
-        <translation>Не встановлено версію завантажувача для збірки модів!</translation>
+        <translation>Для збірки не обрана версія завантажувача!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
