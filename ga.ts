@@ -3891,11 +3891,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uathaimsigh...</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Tástáil</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
@@ -3951,11 +3951,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Game windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuinneoga Cluiche</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuinneog Cluiche</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
@@ -4011,7 +4011,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Leabharlanna dhúchais</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
@@ -4047,7 +4047,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Feidhmíocht</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -4503,7 +4503,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tástáil</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -4643,12 +4643,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
         <source>Java Insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>Suiteái&amp;l Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
         <source>Auto-&amp;detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Uathaimsigh leagan Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="120"/>
@@ -4658,7 +4658,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="123"/>
         <source>Auto-download &amp;Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Uath-íoslódáil Java &amp;Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
@@ -4678,22 +4678,22 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
         <source>&amp;Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Aimsigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
         <source>&amp;Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Brabhsáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
         <source>Test S&amp;ettings</source>
-        <translation type="unfinished"></translation>
+        <translation>Tástáil Socruith&amp;e</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
         <source>Open Java &amp;Downloader</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscail Íosló&amp;dálaí Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
@@ -4703,12 +4703,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Inrit&amp;e Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">Cuimhne</translation>
+        <translation>Cuimhne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="345"/>
@@ -4737,7 +4737,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="295"/>
         <source>&amp;PermGen Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Méid &amp;PermGen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="305"/>
@@ -4747,17 +4747,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>Ma&amp;ximum Memory Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>Úsáid Uasta Cuimhne:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="322"/>
         <source>M&amp;inimum Memory Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>Úsá&amp;id Íosta Cuimhne:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
         <source>Java Argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>Argóin&amp;tí Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="210"/>
@@ -4849,7 +4849,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Java 32 giotán aimsithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
@@ -4859,12 +4859,17 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh tú suiteáil 32 giotán Java, ach leithdháil tú níos mó ná 2048MiB mar cuimhne uasta.
+Ní féidir le %1 Minecraft a thosú.
+Ar mhaith leat dul ar aghaidh?
+
+Is féidir leat an leagan Java a athrú sna socruithe tamall amach anseo.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
         <source>No Java version selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl aon leagan Java roghnaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
@@ -4879,7 +4884,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="353"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Aimsigh inrite Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
@@ -4889,7 +4894,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>An t-uasmhéid cuimhne atá cead ag Minecraft a úsáid.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
@@ -4904,32 +4909,32 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>An méid cuimhne a bhí ar fáil do Mhinecraft ar an dtosach.</translation>
+        <translation>An méid cuimhne a bhí ar fáil do Mhinecraft ón dtús.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>An méid cuihmne ar fáil chun aicmí Java lódáilte a stóráil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Brabhsáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Uath-íoslódáil Java Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
         <source>Auto-detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Uathaimsigh leagan Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Uathaimsigh Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
@@ -4949,7 +4954,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ag sárú an leithdháileadh uasta go tacaíonn suiteálacha Java 32 giotán.</translation>
     </message>
 </context>
 <context>
@@ -4983,7 +4988,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
         <source>Select the language to use in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh an teanga chun úsáid i %1</translation>
     </message>
 </context>
 <context>
@@ -5124,7 +5129,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="453"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Lainseáil</translation>
+        <translation>&amp;Lainseáil</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="447"/>
@@ -5240,7 +5245,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Update Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Socruithe Nuashonraithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -5276,7 +5281,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished">&amp;Deilbhíní:</translation>
+        <translation>De&amp;ilbhíní:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="374"/>
@@ -5304,12 +5309,12 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>De réir lainse is deireanaí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
         <source>By &amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>De réir ai&amp;nm</translation>
     </message>
     <message>
         <source>Theme</source>
@@ -5334,7 +5339,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
         <source>&amp;Downloads:</source>
-        <translation type="unfinished"></translation>
+        <translation>Íosló&amp;dálacha:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="248"/>
@@ -5394,7 +5399,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
         <source>&amp;Skins:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cultacha:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
@@ -5444,7 +5449,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Java:</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
@@ -5598,13 +5603,13 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Teorainn Stair</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stop ag logáil nuair a sceitheann loga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="468"/>
@@ -5614,7 +5619,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>&amp;Cló chonsóil</translation>
+        <translation>Cló chonsóil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -5998,7 +6003,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished">&amp;Cóipeáil</translation>
+        <translation>&amp;Cóipeáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="100"/>
@@ -6321,7 +6326,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="294"/>
         <source>Add a new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir ásc nua leis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="556"/>
@@ -6336,7 +6341,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
         <source>&amp;Edit...</source>
-        <translation>&amp;Athraigh...</translation>
+        <translation>Cuir in &amp;eagar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
@@ -6351,7 +6356,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
         <source>Dele&amp;te</source>
-        <translation>Scrio&amp;s</translation>
+        <translation>Scrios</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="694"/>
@@ -6411,27 +6416,27 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="385"/>
         <source>Change Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Athraigh Deilbhín</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="349"/>
         <source>&amp;Kill</source>
-        <translation>&amp;Maraigh</translation>
+        <translation>Maraigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="338"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Lainseáil</translation>
+        <translation>&amp;Lainseáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir Ásc L&amp;eis...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
         <source>F&amp;olders</source>
-        <translation>F&amp;illteáin</translation>
+        <translation>Fillteáin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
@@ -6447,7 +6452,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="316"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Socruithe...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
@@ -6457,7 +6462,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Á&amp;isc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="534"/>
@@ -6472,12 +6477,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Lárleasuithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
         <source>&amp;Skins</source>
-        <translation>&amp;Cultacha</translation>
+        <translation>Cultacha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="567"/>
@@ -6507,7 +6512,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="660"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Glan Taisce Meiteashonraí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="663"/>
@@ -6539,7 +6544,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Téama Deilbhín</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="749"/>
@@ -6580,42 +6585,42 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="635"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished"></translation>
+        <translation>Fo-&amp;reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="646"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>F&amp;aoi %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>N&amp;uashonraigh...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Meamhlaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bainistigh Cuntais...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>Comhad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>Amharc ar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="211"/>
         <source>&amp;Help</source>
-        <translation>&amp;Cabhair</translation>
+        <translation>Cab&amp;hair</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
@@ -6645,7 +6650,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="517"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Dún an Fhuinneog</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="520"/>
@@ -6676,7 +6681,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 &amp;Cabhair</translation>
+        <translation>%1 Cab&amp;hair</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -6711,7 +6716,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>Athraigh Grúpa...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="380"/>
@@ -6742,7 +6747,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation>&amp;Athraigh</translation>
+        <translation>Athraigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="399"/>
@@ -6783,7 +6788,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="435"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cóipeáil...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="438"/>
@@ -6815,13 +6820,13 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="558"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cruthaigh ásc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation>&amp;Scrios grúpa</translation>
+        <translation>Scrios grúpa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
@@ -7055,7 +7060,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
         <source>&amp;Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Athainmnigh g&amp;rúpa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
@@ -7359,12 +7364,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="301"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Lainseáil</translation>
+        <translation>&amp;Lainseáil</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="303"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Lainseáil As Líne</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
@@ -7389,7 +7394,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="324"/>
         <source>&amp;No Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga&amp;n Próifíleoir</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1017"/>
@@ -7454,12 +7459,12 @@ This can be updated only using a file in %1 format
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Airde Fuinneoige:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Leithead Fuinneoige:</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
@@ -7484,7 +7489,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Timréitigh leabharlainne dhúchais</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
@@ -7506,7 +7511,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Feidhmíocht</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -7658,7 +7663,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="73"/>
         <source>Game &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuinneog Cluiche</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
@@ -7713,12 +7718,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Coigeartuithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="588"/>
         <source>&amp;Legacy Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Coigeartuithe Oidhreachta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="600"/>
@@ -7733,7 +7738,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="616"/>
         <source>&amp;Native Libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Leabharla&amp;nna Dhúchais</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="681"/>
@@ -7753,22 +7758,22 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
         <source>&amp;Window Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Méid Fuinneoige:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="189"/>
         <source>×</source>
-        <translation type="unfinished"></translation>
+        <translation>×</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="196"/>
         <source>pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>picteilíní</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="222"/>
         <source>&amp;Console Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuinneog &amp;Consóil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="234"/>
@@ -7799,17 +7804,17 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
         <source>Folder Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Cosán Fillteáin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"/>
         <source>datapacks</source>
-        <translation type="unfinished"></translation>
+        <translation>pacaí sonraíochta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Brabhsáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="368"/>
@@ -7834,12 +7839,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"/>
@@ -7859,27 +7864,27 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
         <source>&amp;GLFW library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cosán leabharlainne &amp;GLFW:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="657"/>
         <source>&amp;OpenAL library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cosán leabharlainne &amp;OpenAL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="701"/>
         <source>&amp;Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Feidhmíocht</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cumasaigh Mód Cluiche Feral Interactive, mar d&apos;fhéadfadh é feidhmíocht cluichíochta a fheabhsú.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation>Cumasaigh Mód Cluiche Feral</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="723"/>
@@ -14005,7 +14010,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="98"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir le</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
