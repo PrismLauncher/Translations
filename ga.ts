@@ -1876,12 +1876,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="195"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="205"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="215"/>
@@ -2730,7 +2730,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cuir le</translation>
     </message>
     <message>
         <source>Remove selected item</source>
@@ -2787,7 +2787,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="191"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="251"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brabhsáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
@@ -3557,7 +3557,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brabhsáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
@@ -3724,12 +3724,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
@@ -3915,7 +3915,7 @@ Please try again.</source>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">An t-uasmhéid cuimhne atá cead ag Minecraft a úsáid.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
@@ -3923,7 +3923,7 @@ Please try again.</source>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">An méid cuihmne ar fáil chun aicmí Java lódáilte a stóráil.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
@@ -3931,7 +3931,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brabhsáil</translation>
     </message>
     <message>
         <source>Download Java</source>
@@ -4051,11 +4051,11 @@ Please try again.</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cumasaigh Mód Cluiche Feral Interactive, mar d&apos;fhéadfadh é feidhmíocht cluichíochta a fheabhsú.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cumasaigh Mód Cluiche Feral</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -4143,7 +4143,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aimsigh inrite Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
@@ -4414,7 +4414,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">An t-uasmhéid cuimhne atá cead ag Minecraft a úsáid.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
@@ -4436,7 +4436,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">An méid cuihmne ar fáil chun aicmí Java lódáilte a stóráil.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
@@ -4465,7 +4465,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uath-íoslódáil Java Mojang</translation>
     </message>
     <message>
         <source>Management</source>
@@ -4507,7 +4507,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brabhsáil</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
@@ -4554,7 +4554,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aimsigh inrite Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
@@ -4589,7 +4589,7 @@ Are you sure?</source>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Níl aon leagan Java roghnaithe</translation>
     </message>
     <message>
         <source>Download Java</source>
@@ -4597,7 +4597,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Java 32 giotán aimsithe</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -4606,7 +4606,12 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Roghnaigh tú suiteáil 32 giotán Java, ach leithdháil tú níos mó ná 2048MiB mar cuimhne uasta.
+Ní féidir le %1 Minecraft a thosú.
+Ar mhaith leat dul ar aghaidh?
+
+Is féidir leat an leagan Java a athrú sna socruithe tamall amach anseo.
+</translation>
     </message>
     <message>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
@@ -4620,7 +4625,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="228"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aimsigh inrite Java</translation>
     </message>
     <message>
         <source>Memory</source>
@@ -4629,7 +4634,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">An t-uasmhéid cuimhne atá cead ag Minecraft a úsáid.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
@@ -4762,15 +4767,15 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="210"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">An méid cuihmne ar fáil chun aicmí Java lódáilte a stóráil.</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brabhsáil</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uath-íoslódáil Java Mojang</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
@@ -4778,7 +4783,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uathaimsigh Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -4822,7 +4827,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tá tú ag sárú an leithdháileadh uasta go tacaíonn suiteálacha Java 32 giotán.</translation>
     </message>
 </context>
 <context>
@@ -5349,7 +5354,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="332"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="342"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brabhsáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
@@ -7472,7 +7477,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Coigeartuithe</translation>
     </message>
     <message>
         <source>Legacy settings</source>
@@ -7515,11 +7520,11 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cumasaigh Mód Cluiche Feral Interactive, mar d&apos;fhéadfadh é feidhmíocht cluichíochta a fheabhsú.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cumasaigh Mód Cluiche Feral</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -7993,12 +7998,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
@@ -12320,7 +12325,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="157"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cuir le</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="162"/>
