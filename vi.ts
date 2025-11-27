@@ -622,19 +622,19 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation>Quản lí Skin</translation>
+        <translation>CÁI CON CẶC BA CỦA NHÀ MÀY</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>&amp;Thêm tài khoản Microsoft</translation>
+        <translation>THÊM CÁI DÁI</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>Thêm tài khoản &amp;Offline</translation>
+        <translation>LỒN ĐĨ LỒN MÁ NHÀ MÀY</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
@@ -12672,31 +12672,31 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="273"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Đang hoạt động</translation>
+        <translation>Đang hoạt động</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="275"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Lỗi</translation>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="277"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Đã hết hạn</translation>
+        <translation>Đã hết hạn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="279"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Đã bị vô hiệu hóa</translation>
+        <translation>Đã bị vô hiệu hóa</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="281"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Biến mất</translation>
+        <translation>Biến mất</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="283"/>
@@ -12749,7 +12749,7 @@ Tên mới: %2</translation>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
         <source>There are linked instances</source>
-        <translation type="unfinished">Có phiên bản được liên kết</translation>
+        <translation>Có phiên bản được liên kết</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="113"/>
@@ -12819,7 +12819,7 @@ Bạn có muốn tiếp tục không?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished">Launcher nằm trong thư mục đã được giải nén, cho nên không thể tạo lối tắt cho nó.</translation>
+        <translation>Launcher nằm trong thư mục đã được giải nén, cho nên không thể tạo lối tắt cho nó.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
@@ -12830,7 +12830,7 @@ Bạn có muốn tiếp tục không?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished">Launcher đang chạy trên AppImage sai cấu hình? (thiếu biến môi trường $APPIMAGE)</translation>
+        <translation>Launcher đang chạy trên AppImage sai cấu hình? (thiếu biến môi trường $APPIMAGE)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
@@ -12838,12 +12838,12 @@ Bạn có muốn tiếp tục không?</numerusform>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished">Tạo icon cho lối tắt thất bại.</translation>
+        <translation>Tạo icon cho lối tắt thất bại.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished">Không được hỗ trợ trên nền tảng của bạn!</translation>
+        <translation>Không được hỗ trợ trên nền tảng của bạn!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
@@ -12853,7 +12853,7 @@ Bạn có muốn tiếp tục không?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished">Không thể tìm desktop?!</translation>
+        <translation>Không thể tìm desktop?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="181"/>
@@ -12878,7 +12878,7 @@ Bạn có muốn tiếp tục không?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="235"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished">Các mục ở màn hình chính</translation>
+        <translation>Các mục ở màn hình chính</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="244"/>
@@ -12888,7 +12888,7 @@ Bạn có muốn tiếp tục không?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
         <source>Network error: %1</source>
-        <translation type="unfinished">Lỗi mạng: %1</translation>
+        <translation>Lỗi mạng: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
@@ -12905,7 +12905,7 @@ Bạn có muốn tiếp tục không?</numerusform>
         <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="197"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished">Lỗi: %1 trả về một phản hồi không xác định</translation>
+        <translation>Lỗi: %1 trả về một phản hồi không xác định</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="152"/>
@@ -12915,7 +12915,7 @@ Bạn có muốn tiếp tục không?</numerusform>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished">Lỗi: %1 trả về một lỗi: %2</translation>
+        <translation>Lỗi: %1 trả về một lỗi: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
@@ -12926,7 +12926,7 @@ Bạn có muốn tiếp tục không?</numerusform>
         <location filename="src/launcher/net/PasteUpload.cpp" line="192"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">Lỗi %1 trả về mã lỗi %2
+        <translation>Lỗi %1 trả về mã lỗi %2
 Tin nhắn báo lỗi: %3</translation>
     </message>
     <message>
@@ -12948,7 +12948,7 @@ Tin nhắn báo lỗi: %3</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>%1 Developers</source>
-        <translation type="unfinished">%1 Nhà phát triển</translation>
+        <translation>%1 Nhà phát triển</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
@@ -12958,7 +12958,7 @@ Tin nhắn báo lỗi: %3</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="56"/>
         <source>With special thanks to</source>
-        <translation type="unfinished">Với lời cảm ơn đặc biệt tới</translation>
+        <translation>Với lời cảm ơn đặc biệt tới</translation>
     </message>
 </context>
 <context>
@@ -12990,7 +12990,7 @@ Tin nhắn báo lỗi: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation type="unfinished">gói dữ liệu</translation>
+        <translation>gói dữ liệu</translation>
     </message>
 </context>
 <context>
@@ -13442,7 +13442,7 @@ Bạn có chắc muốn làm điều này?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="661"/>
         <source>Override Columns Visibility</source>
-        <translation type="unfinished">Vượt quá khả năng hiển thị của cột</translation>
+        <translation>Vượt quá khả năng hiển thị của cột</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="674"/>
@@ -14193,7 +14193,7 @@ Hiện đang cài đặt phiên bản: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="293"/>
         <source>Online</source>
-        <translation type="unfinished">Trực tuyến</translation>
+        <translation>Trực tuyến</translation>
     </message>
     <message>
         <source>Latency</source>
@@ -14265,7 +14265,7 @@ Hiện đang cài đặt phiên bản: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="182"/>
         <source>Refresh</source>
-        <translation type="unfinished">Làm mới</translation>
+        <translation>Làm mới</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
@@ -15729,7 +15729,7 @@ Hãy thay đổi phiên bản Java cho bản cài đặt này với các phiên 
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="48"/>
         <source>Search</source>
-        <translation type="unfinished">Tìm kiếm</translation>
+        <translation>Tìm kiếm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="108"/>
