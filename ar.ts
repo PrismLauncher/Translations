@@ -259,7 +259,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="715"/>
         <source>Downloading mods...</source>
-        <translation>جارِ تنزيل الإضافات...</translation>
+        <translation>جاري تحميل المودات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
@@ -1509,7 +1509,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation>لا يكون اسم المستخدم سليماً إلا إذا كان يتراوح طوله بين 3 و 16 رمزاً، ويستخدم الحروف والأعداد الانكليزية وتساطير سفلية. من الممكن ان يمنع الاسم الغير سليم من الدخول الى الخوادم و عوالم اللاعب الفردي.</translation>
+        <translation>لا يكون اسم المستخدم سليماً إلا إذا كان يتراوح طوله بين 3 و 16 رمزاً، ويستخدم الحروف والأعداد الإنكليزية وتساطير سفلية. من الممكن أن يمنع الاسم الغير سليم من الدخول الى الخوادم و عوالم اللاعب الفردي.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
@@ -3919,12 +3919,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="12"/>
         <source>Getting skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>جار الحصول على مظهر اللاعب.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="35"/>
         <source>Got skin</source>
-        <translation type="unfinished"></translation>
+        <translation>تم الحصول على مظهر اللاعب</translation>
     </message>
 </context>
 <context>
@@ -3991,12 +3991,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
         <source>Cancel</source>
-        <translation type="unfinished">إلغاء</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"/>
         <source>OK</source>
-        <translation type="unfinished">موافق</translation>
+        <translation>موافق</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="87"/>
@@ -4025,29 +4025,29 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>أنواع الملفات التالية مدعومة(لكلّ من الملفات المحّلّية و مواقع الشبكة):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- حزم إضافات كورس فورج (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>- حزم إضافات مودرينث (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- النماذج المصدرة من مشغل بريسم و بولي إم سي و مولتي إم سي(ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- حزم إضافات تكنيك (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -4058,29 +4058,29 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="55"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">الاستيراد من ملف مضغوط (zip)‫</translation>
+        <translation>الاستيراد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="140"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
         <source>Error</source>
-        <translation type="unfinished">خطأ</translation>
+        <translation>خطأ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>حزمة المودات %1 محظورة للطرف الثالث. يرجى تحميله يدوياً.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يحتوي هذا الموقع على حزمة إضافات صالحة!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
         <source>Abort</source>
-        <translation type="unfinished">إنهاء</translation>
+        <translation>إنهاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"/>
@@ -4091,12 +4091,12 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished">حزمة &quot;مودرينث&quot;</translation>
+        <translation>حزمة مودرينث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
         <source>Choose modpack</source>
-        <translation>اختر حزمة إضافات (modpack)‫</translation>
+        <translation>اختر حزمة إضافات</translation>
     </message>
     <message>
         <source>Zip (*.zip)</source>
@@ -4113,12 +4113,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر النموذج الذي تريد استيراد حزمة الموارد إليه.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر النموذج الذي تريد استيراد %1 إليه.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
@@ -4128,12 +4128,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>Cancel</source>
-        <translation type="unfinished">إلغاء</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
-        <translation type="unfinished">موافق</translation>
+        <translation>موافق</translation>
     </message>
 </context>
 <context>
@@ -4162,20 +4162,20 @@ Please try again.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation>لا تتوفر حاليًا إصدارات Java في الميتا.</translation>
+        <translation>لا تتوفر حاليًا إصدارات جافا في الميتا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation>لم يتم تحميل قائمة الاصدارات الخاصة بـJava!</translation>
+        <translation>لم يتم تحميل قائمة الاصدارات الخاصة بـجافا!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>لا تتوفر حاليًا إصدارات جافا لنظام تشغيلك.</translation>
     </message>
 </context>
 <context>
@@ -4183,47 +4183,47 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="101"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;تحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="107"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>موافق</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
         <source>Cancel</source>
-        <translation type="unfinished">إلغاء</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
         <source>NeoForge</source>
-        <translation type="unfinished">نيوفورج</translation>
+        <translation>نيوفورج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
         <source>Forge</source>
-        <translation type="unfinished">فورج (Forge)</translation>
+        <translation>فورج (Forge)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
         <source>Fabric</source>
-        <translation type="unfinished">فابريك (Fabric)</translation>
+        <translation>فابريك (Fabric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
         <source>Quilt</source>
-        <translation type="unfinished">كويلت (Quilt)</translation>
+        <translation>كويلت (Quilt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="144"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">لايت لودر (LiteLoader)</translation>
+        <translation>لايت لودر (LiteLoader)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="150"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>تنصيب محمل</translation>
     </message>
 </context>
 <context>
@@ -4231,18 +4231,18 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="44"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">لا يوجد إصدار متوفر حاليا ل&quot;ماين كرافت&quot; 1%</translation>
+        <translation>لا يوجد إصدار متوفر حاليا ل&quot;ماين كرافت&quot; 1%</translation>
     </message>
 </context>
 <context>
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation>الا&amp;سم:</translation>
+        <translation>الاسم &amp;:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation>ال&amp;مجموعة:</translation>
+        <translation>المجموعة &amp;:</translation>
     </message>
 </context>
 <context>
@@ -4273,22 +4273,23 @@ Please try again.</source>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="29"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>حدث خطأ عند إنشاء نموذج جديد:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="31"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدث خطأ عند إنشاء نموذج جديد.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="44"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>جار إزالة الملفات القديمة والمتعارضة...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="60"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت محاولة إزالة الملفات القديمة والمتعارضة.</translation>
     </message>
 </context>
 <context>
@@ -4308,7 +4309,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="149"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>جار محاولة تحديد نوع النموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="186"/>
@@ -4324,7 +4325,7 @@ Please try again.</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="183"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="261"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>الأرشيف لا يحتوي على أي نوع من حزم الإضافات المدعومة.</translation>
+        <translation>الأرشيف لا يحتوي على أي نوع من حزم مودات المدعومة.</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -4417,7 +4418,7 @@ Please try again.</source>
         <location filename="src/launcher/InstancePageProvider.h" line="48"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">تقارير أخرى</translation>
+        <translation>تقارير أخرى</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="52"/>
@@ -4453,7 +4454,7 @@ Please try again.</source>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>عند تفعيله, لن يختبر المشغل توافق النموذج مع نسخة الجافا المختارة.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
@@ -4469,11 +4470,11 @@ Please try again.</source>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>الحد الأقصى للذاكرة يُسمح لماينكرافت باستخدامه.</translation>
+        <translation>الحد الأقصى للذاكرة يُسمح لماين كرافت باستخدامه.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>حجم الذاكرة التي ستستخدمها ماينكرافت عند البدء.</translation>
+        <translation>حجم الذاكرة التي ستستخدمها ماين كرافت عند البدء.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
@@ -4485,7 +4486,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">تصفح</translation>
+        <translation>تصفح</translation>
     </message>
     <message>
         <source>Download Java</source>
@@ -4493,11 +4494,11 @@ Please try again.</source>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>بيرم جين:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>ملاحظة: يتم تعيين Permgen تلقائيًا بواسطة جافا 8 والنسخ الأحدث</translation>
+        <translation>ملاحظة: يتم تعيين بيرم جين تلقائيًا بواسطة جافا 8 والنسخ الأحدث</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
@@ -4514,7 +4515,7 @@ Please try again.</source>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="unfinished">تشغيل ماينكرافت بإطار كبير؟</translation>
+        <translation>تشغيل ماين كرافت بإطار كبير</translation>
     </message>
     <message>
         <source>Window height:</source>
@@ -4531,25 +4532,25 @@ Please try again.</source>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished">إظهار لوحة التحكم (الطرفية) أثناء تشغيل اللعبة؟</translation>
+        <translation>إظهار لوحة التحكم (الطرفية) أثناء تشغيل اللعبة؟</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">إغلاق لوحة التحكم تلقائياً عند الخروج من اللعبة؟</translation>
+        <translation>إغلاق لوحة التحكم تلقائياً عند الخروج من اللعبة</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="unfinished">إظهار لوحة التحكم عند تعطل اللعبة؟</translation>
+        <translation>إظهار لوحة التحكم عند تعطل اللعبة</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق المشغل بعد تشغيل نافذة اللعبة</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق المشغل بعد إيقاف نافذة اللعبة</translation>
     </message>
     <message>
         <source>Custom commands</source>
@@ -4557,7 +4558,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation type="unfinished"></translation>
+        <translation>متغيرات البيئة</translation>
     </message>
     <message>
         <source>Workarounds</source>
@@ -4565,67 +4566,67 @@ Please try again.</source>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation>مكتبات أصيلة</translation>
+        <translation>مكتبات الأصيلة</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;مسار مكتبة جي إل إف دابليو</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation>استخدم نسخة النظام من GLFW</translation>
+        <translation>استخدم نسخة النظام منجي إل إف دابليو</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation>استخدم نسخة النظام من OpenAL</translation>
+        <translation>استخدم نسخة النظام من أوبن إي إل</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation type="unfinished"></translation>
+        <translation>عوالم اللاعب الفردي</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation type="unfinished"></translation>
+        <translation>تجاوز الحساب الإفتراضي</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished"></translation>
+        <translation>الحساب:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished">متنوعة</translation>
+        <translation>متنوعات</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;مسار مكتبة أوبن إي إل</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>الأداء</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل الجيم مود ل&quot;فيرال إنتيراكتيف&quot;,قد يزيد أداء اللعب.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation>تفعيل الجيم مود ل&quot;فيرال&quot;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل واجهة الأداء المتقدمة لمانغو هود. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation>تفعيل مانغو هود</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;استخدم وحدة معالجة الرسومات المنفصلة بدل الأساسية.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم وحدة معالجة الرسومات المنفصلة</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
