@@ -1886,17 +1886,17 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="215"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="225"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="235"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
@@ -3734,17 +3734,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="144"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="150"/>
@@ -4019,11 +4019,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Úsáid suiteáil córais GLFW</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Úsáid suiteáil córais OpenAL</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
@@ -4035,7 +4035,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cuntas:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -4113,7 +4113,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seoladh freastalaithe:</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
@@ -8008,12 +8008,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
@@ -8023,7 +8023,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
