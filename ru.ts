@@ -25,7 +25,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished">&amp;Тип сервиса отправки логов</translation>
+        <translation>&amp;Тип сервиса отправки логов</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -7367,7 +7367,7 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно добавить:</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -7403,7 +7403,7 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно просмотреть файл% 1</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
@@ -7617,7 +7617,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="294"/>
         <source>Add a new instance.</source>
-        <translation>Добавить новый экземпляр.</translation>
+        <translation>Добавить новую сборку.</translation>
     </message>
     <message>
         <source>&amp;View Instance Folder</source>
@@ -10420,12 +10420,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
         <source>Missing Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Отсутствует загрузчик модов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation type="unfinished"></translation>
+        <translation>Перед установкой модов необходимо установить совместимый загрузчик модов. Установить его сейчас?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
