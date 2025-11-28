@@ -7270,7 +7270,7 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>추가할 수 없음:</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -7306,7 +7306,7 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 %1을 파싱하지 못함</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
@@ -10186,7 +10186,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation>먼저 모드로더를 설치해야 합니다!</translation>
+        <translation>먼저 모드 로더를 설치하여야 합니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -10266,12 +10266,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
         <source>Missing Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>모드 로더 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation type="unfinished"></translation>
+        <translation>모드를 설치하기 전에 호환되는 모드 로더를 설치하여야 합니다. 설치하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
