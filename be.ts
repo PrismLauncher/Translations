@@ -127,7 +127,7 @@
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Рознае</translation>
+        <translation>Іншае</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
