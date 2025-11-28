@@ -581,7 +581,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation>Кіраванне скінамі</translation>
+        <translation>Кiраванне скiнамi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
