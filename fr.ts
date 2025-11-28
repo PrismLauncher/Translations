@@ -7323,7 +7323,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne peut pas ajouter:</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -10359,7 +10359,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
         <source>Missing Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargeur de mod manquant</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
