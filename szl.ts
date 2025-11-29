@@ -2406,7 +2406,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiyrujã ustawiyniŏ...</translation>
     </message>
 </context>
 <context>
@@ -3767,7 +3767,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;PermGen:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
@@ -3839,7 +3839,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Testuj</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -4309,7 +4309,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="153"/>
         <source>Choose your offline mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpisz swōj miano grŏcza w trybie offline.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="155"/>
@@ -4352,7 +4352,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="300"/>
         <source>Play Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Grej offline</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="312"/>
