@@ -627,13 +627,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>THÊM CÁI DÁI</translation>
+        <translation>&amp;Thêm Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>LỒN ĐĨ LỒN MÁ NHÀ MÀY</translation>
+        <translation>Thêm &amp;Ngoại tuyến</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
@@ -7122,7 +7122,7 @@ Lý do:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể thêm:</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -7158,7 +7158,7 @@ Lý do:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Không phân tính được tệp%1</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
@@ -9875,12 +9875,12 @@ Bạn có chắc không?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
         <source>Missing Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Thiếu Mod Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn cần cài đặt trình tải mod tương thích trước khi cài đặt mod. Bạn có muốn làm như vậy không?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
