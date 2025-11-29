@@ -7359,7 +7359,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;analyse du fichier %1</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
