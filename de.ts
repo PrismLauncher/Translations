@@ -7391,7 +7391,7 @@ Grund:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei %1 konnte nicht bearbeitet werden</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
@@ -10376,7 +10376,7 @@ Bist du sicher?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
         <source>Missing Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fehlender Mod-Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
