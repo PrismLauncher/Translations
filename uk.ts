@@ -849,12 +849,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation>Шрифт Консолі:</translation>
+        <translation>Шрифт консолі:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation>Масштабування Кота</translation>
+        <translation>Розмір котика</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
@@ -874,7 +874,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Cat Opacity</source>
-        <translation>Непрозорість Кота</translation>
+        <translation>Непрозорість котика</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
@@ -894,32 +894,32 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="259"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[Помилка] АаАаААаААаааААА! Страшна помилка!</translation>
+        <translation>[ERROR] УуууУУуууу! Лячна помилка!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="261"/>
         <source>[ERROR] A spooky error!</source>
-        <translation>[Помилка] Страшна помилка!</translation>
+        <translation>[ERROR] Лячна помилка!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="263"/>
         <source>[INFO] A harmless message...</source>
-        <translation>[Інформація] Нешкідливе повідомлення...</translation>
+        <translation>[INFO] Нешкідливе повідомлення...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation>[Попередження] Не таке й моторошне попередження.</translation>
+        <translation>[WARN] Не дуже лячне попередження.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="265"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation>[Налагодження] Секренте повідомлення для налагодження...</translation>
+        <translation>[DEBUG] Секретне повідомлення для налагодження...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation>[ФАТАЛЬНА ПОМИЛКА] Жахлива критична помилка!</translation>
+        <translation>[FATAL] Жахлива критична помилка!</translation>
     </message>
 </context>
 <context>
@@ -927,7 +927,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="697"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation>Неможливо відобразити цей звіт, оскільки довжина звіту перевищила %1 рядків.</translation>
+        <translation>Неможливо відобразити цей журнал, оскільки його довжина перевищила %1 рядків.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="913"/>
@@ -948,23 +948,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>Ця інсталяція має файл блокування оновлення за адресою: %1
+        <translation>Ця інсталяція має файл оновлення у %1
 
 Мітка часу: %2
 Оновлення з версії %3 до %4
-Цільовий шлях встановлення: %5
-Шлях до даних: %6
+Шлях встановлення: %5
+Шлях даних: %6
 Ймовірно, попередня спроба оновлення завершилася невдало. Будь ласка, переконайтеся, що ваша інсталяція працює належним чином, перш ніж продовжити.
-Перевірте звіт оновлень Prism Launcher за адресою: 
+Перевірте журнал оновлень Prism Launcher за адресою: 
 %7
 щоб побачити подробиці останньої спроби оновлення.
 
-Щоб видалити це блокування та продовжити, виберіть «Ігнорувати» нижче.</translation>
+Виберіть «Ігнорувати» нижче, щоб видалити цей файл оновлення та продовжити.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1091"/>
         <source>Update In Progress</source>
-        <translation>Виконується Оновлення</translation>
+        <translation>Йде оновлення</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1115"/>
@@ -977,7 +977,7 @@ for details on the last update attempt.</source>
         <translation>Спроба оновлення не вдалася
 
 Будь ласка, переконайтеся, що ваша інсталяція працює належним чином, перш ніж продовжити.
-Перевірте звіт оновлень Prism Launcher в: 
+Перевірте журнал оновлень Prism Launcher в: 
 %1
 щоб побачити подробиці останньої спроби оновлення.</translation>
     </message>
@@ -1003,14 +1003,14 @@ for details.</oldsource>
         <translation>Оновлення встановлено
 
 Зараз ви використовуєте %1 .
-Перевірте звіт оновлень Prism Launcher в: 
+Перевірте журнал оновлень Prism Launcher в: 
 %2
 щоб побачити подробиці останньої спроби оновлення.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1155"/>
         <source>Update Succeeded</source>
-        <translation>Оновлення Встановлено</translation>
+        <translation>Оновлення виконано</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1187"/>
@@ -1022,7 +1022,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>Ваша тека /tmp наразі змонтована з увімкненим прапорцем ‘noexec’.
 Деякі версії Minecraft можуть не запускатися.
 
-Ви можете вирішити цю проблему, перемонтувавши /tmp з прапорцем ‘exec’ або встановивши аргумент JVM java.io.tmpdir у записувану теку у файловій системі, де встановлено прапорець ‘exec’ (наприклад, /home/user/.local/tmp)
+Ви можете розв&apos;язати цю проблему, перемонтувавши /tmp з прапорцем ‘exec’ або встановивши аргумент JVM java.io.tmpdir у записувану теку у файловій системі, де встановлено прапорець ‘exec’ (наприклад, /home/user/.local/tmp)
 </translation>
     </message>
     <message>
@@ -1046,22 +1046,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1973"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>Знайдено старі дані з %1, проте у вас вже є наявні дані для %2. На жаль, вам потрібно провести перенесення даних. Нагадати вам про перенесення коли ви запуститите %2 наступного разу?</translation>
+        <translation>Знайдено старі дані з %1, проте у вас вже є наявні дані для %2. На жаль, вам потрібно провести перенесення даних. Нагадати вам про перенесення коли ви запустите %2 наступного разу?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1977"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation>Схоже, що ви використовували %1 раніше. Чи хочете ви перенести ваші дані до нового місця %2?</translation>
+        <translation>Схоже ви використовували %1 раніше. Чи хочете ви перенести ваші дані до %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1983"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation>Схоже ви вже використовували %1 у %2. Чи хочете ви перенести дані до нового місця %3?</translation>
+        <translation>Схоже ви вже використовували %1 у %2. Чи хочете ви перенести дані до %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="2029"/>
         <source>Migration failed! Reason: %1</source>
-        <translation>Не вдалося перенести! Причина: %1</translation>
+        <translation>Міграція не вдалася! Причина: %1</translation>
     </message>
 </context>
 <context>
@@ -1127,17 +1127,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
         <source>Mojang</source>
-        <translation>Моджанг</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation>Отримуємо файли активів з %1...</translation>
+        <translation>Отримання файлів ресурсів з %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Отримання файлів ресурсів від Моджанг (Mojang)...</translation>
+        <translation>Отримання файлів ресурсів від Mojang...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1150,7 +1150,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="101"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>Не вдалося завантажити ресурс:
+        <translation>Не вдалося завантажити ресурси:
 %1</translation>
     </message>
 </context>
@@ -1160,19 +1160,19 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>Упорядкувати за Популярністю</translation>
+        <translation>Упорядкувати за популярністю</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Упорядкувати за Назвою</translation>
+        <translation>Упорядкувати за назвою</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>Упорядкувати за Версією Гри</translation>
+        <translation>Упорядкувати за версією гри</translation>
     </message>
 </context>
 <context>
@@ -1180,7 +1180,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>Оберіть Моди Для Встановлення</translation>
+        <translation>Оберіть моди для встановлення</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -1190,12 +1190,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation>Виберіть Рекомендовані</translation>
+        <translation>Вибрати рекомендоване</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation>Використати Код Спільного Доступу</translation>
+        <translation>Використати код запрошення</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
@@ -1205,17 +1205,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
         <source>Select a share code</source>
-        <translation>Вибрати код спільного доступу</translation>
+        <translation>Вибрати код запрошення</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="344"/>
         <source>Share code:</source>
-        <translation>Код спільного доступу:</translation>
+        <translation>Код запрошення:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="354"/>
         <source>No share code specified!</source>
-        <translation>Код спільного доступу не вказано!</translation>
+        <translation>Код запрошення не вказано!</translation>
     </message>
 </context>
 <context>
@@ -1228,7 +1228,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
         <source>Warning</source>
-        <translation>Увага</translation>
+        <translation>Попередження</translation>
     </message>
 </context>
 <context>
@@ -1236,7 +1236,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Попередження: Робота над цим ще триває. Якщо у вас виникнуть проблеми з імпортованим модпаком, це може бути помилка.</translation>
+        <translation>Попередження: Даний функціонал ще у розробці. Якщо у вас виникнуть проблеми з імпортованою збіркою, це може бути помилка.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
@@ -1289,7 +1289,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation>Не вдалося завантажити списки версій!</translation>
+        <translation>Не вдалося отримати або прочитати список версій!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
@@ -1302,12 +1302,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="50"/>
         <source>Finished all authentication steps</source>
-        <translation>Виконано всі кроки автентифікації</translation>
+        <translation>Автентифікація пройшла успішно</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="55"/>
         <source>Initializing</source>
-        <translation>Ініціялізація</translation>
+        <translation>Ініціалізація</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"/>
@@ -1322,7 +1322,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
         <source>Authentication task succeeded.</source>
-        <translation>Автентифікація успішна.</translation>
+        <translation>Автентифікація виконана.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
@@ -1332,12 +1332,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation>ID клієнта змінено. Необхідно створити новий сеанс.</translation>
+        <translation>ID клієнта змінено. Необхідно створити нову сесію.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
         <source>Encountered an error during authentication.</source>
-        <translation>Трапилась помилка під час автентифікації.</translation>
+        <translation>Під час автентифікації сталася помилка.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
@@ -1347,7 +1347,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation>Не вдалося автентифікувати. Обліковий запис більше не існує.</translation>
+        <translation>Не вдалося виконати автентифікацію. Обліковий запис більше не існує.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
@@ -1357,7 +1357,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>Unknown account task state: %1</source>
-        <translation>Невідомий стан облікового запису: %1</translation>
+        <translation>Невідомий стан запиту на обліковий запис: %1</translation>
     </message>
 </context>
 <context>
@@ -1365,52 +1365,52 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation>Автоматичний механізм Джава (Java) виявив 32-розрядне встановлення Джава (Java).</translation>
+        <translation>Автоматичний механізм Java виявив 32-розрядне встановлення Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation>Не знайдено сумісної версії Джава (Java). Використовуватиметься усталена версія.</translation>
+        <translation>Не знайдено сумісної версії Java. Використовуватиметься усталена версія.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation>Ваша система (%1-%2) не сумісна з автоматичним встановленням Джава (Java). Буде використано усталений шлях до Джава (Java).</translation>
+        <translation>Ваша система (%1-%2) не сумісна з автоматичним встановленням Java. Буде використано усталений шлях до Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation>Ваша метаінформація застаріла або не містить інформації, необхідної для визначення того, яку інсталяцію Джава (Java) слід використовувати. Буде використано усталений шлях до Джава (Java).</translation>
+        <translation>Ваша метаінформація застаріла або не містить інформації, необхідної для визначення того, яку інсталяцію Java слід використовувати. Буде використано усталений шлях до Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
         <source>Compatible Java found at: %1.</source>
-        <translation>Сумісна версія Джава (Java) знайдена у: %1.</translation>
+        <translation>Сумісна версія Java знайдена у: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation>Жодної сумісної версії Джава (Java) не знайдено (двійковий файл не існує). Буде використано усталену версію.</translation>
+        <translation>Жодної сумісної версії Java не знайдено (двійковий файл не існує). Буде використано усталену версію.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
         <source>Could not determine Java download type!</source>
-        <translation>Не вдалося визначити тип завантаження Джава (Java)!</translation>
+        <translation>Не вдалося визначити тип завантаження Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
         <source>Install Java</source>
-        <translation>Встановити Джава (Java)</translation>
+        <translation>Встановити Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation>Не знайдено версій Джава (Java) для вашої операційної системи: %1-%2</translation>
+        <translation>Не знайдено версій Java для вашої операційної системи: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation>Сумісної версії Джава (Java) не знайдено. Використовується усталена версія.</translation>
+        <translation>Сумісної версії Java не знайдено. Використовується усталена версія.</translation>
     </message>
 </context>
 <context>
@@ -1429,17 +1429,17 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation>Ми додали функцію автоматичного завантаження потрібної версії Джава (Java) для кожної версії Minecraft (це можна змінити у Налаштуваннях Java). Чи бажаєте ви ввімкнути чи вимкнути цю функцію?</translation>
+        <translation>Ми додали функцію автоматичного завантаження потрібної версії Java для кожної версії Minecraft (це можна змінити у налаштуваннях Java). Чи бажаєте ви ввімкнути або вимкнути цю функцію?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation>Увімкнути Автозавантаження</translation>
+        <translation>Увімкнути автозавантаження</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation>Вимкнути Автозавантаження</translation>
+        <translation>Вимкнути автозавантаження</translation>
     </message>
 </context>
 <context>
@@ -1490,27 +1490,27 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Виконується автоматична перевірка загальної теки з модами та усталеної теки завантажень, на наявність завантажених модів. Якщо їх знайдемо, то вони будуть скопійовані до збірки.&lt;/p&gt;&lt;p&gt;Також можна перетягнути завантажені моди в це діалогове вікно або вказати іншу теку для перевірки.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Натисніть кнопку «Відкрити Відсутні», щоб відкрити всі посилання для завантаження у браузері. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Виконується автоматична перевірка загальної теки з модами та усталеної теки завантажень, на наявність завантажених модів. Якщо їх знайдемо, то вони будуть скопійовані в екземпляр.&lt;/p&gt;&lt;p&gt;Також можна перетягнути завантажені моди в це діалогове вікно або вказати іншу теку для перевірки.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Натисніть кнопку «Відкрити відсутнє», щоб відкрити всі посилання для завантаження у браузері. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
         <source>Blocked Mods</source>
-        <translation>Заблоковані Моди</translation>
+        <translation>Заблоковані моди</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
-        <translation>Відкрити Відсутнє</translation>
+        <translation>Відкрити відсутнє</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
         <source>Watched Folders</source>
-        <translation>Переглянуті Теки</translation>
+        <translation>Переглянуті теки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
         <source>Add Download Folder</source>
-        <translation>Додати Теку для Завантаження</translation>
+        <translation>Додати теку для завантаження</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
@@ -1529,7 +1529,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;.У вашій встановленій теці глобальних модів і теці для завантажень відбуваються автоматичні перевірки на нові завантаження. Якщо там буде знайдено моди, вони будуть скопійовані до збірки.&lt;/p&gt;&lt;p&gt;Також ви можете перетягнути завантажені моди до цього вікна, або ж додати теку для перевірки, якщо ви не завантажуєте моди до стандартного місця.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;У вашій встановленій теці глобальних модів і теці для завантажень відбуваються автоматичні перевірки на нові завантаження. Якщо там буде знайдено моди, вони будуть скопійовані до збірки.&lt;/p&gt;&lt;p&gt;Також ви можете перетягнути завантажені моди до цього вікна, або ж додати теку для перевірки, якщо ви не завантажуєте моди до стандартного місця.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
@@ -1546,7 +1546,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="52"/>
         <source>Removing cape</source>
-        <translation>Прибираємо плащ</translation>
+        <translation>Знімаємо плащ</translation>
     </message>
 </context>
 <context>
@@ -1554,7 +1554,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Бібліотеку перевірки Джава (Java) не знайдено. Перевірте вашу інсталяцію.</translation>
+        <translation>Бібліотеку перевірки Java не знайдено. Перевірте цілісність інсталяції.</translation>
     </message>
 </context>
 <context>
@@ -1577,7 +1577,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation>Ім&apos;я користувача є дійсним, лише якщо воно містить від 3 до 16 символів, а також складається з англійських літер, цифр та символів підкреслення. Недійсне ім&apos;я користувача може перешкоджати приєднанню до серверів та одиночних світів.</translation>
+        <translation>Ім&apos;я користувача є дійсним, лише якщо воно містить від 3 до 16 символів, а також складається з англійських літер, цифр та символів підкреслення. Недійсне ім&apos;я користувача може перешкоджати приєднанню до серверів та власних світів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
@@ -1600,7 +1600,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation>Оберіть джерело модів</translation>
+        <translation>Оберіть постачальника модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
@@ -1625,7 +1625,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>Намагатися використовувати інші джерела, якщо обране не працюватиме</translation>
+        <translation>Намагатися використовувати інших постачальників, якщо обраний не працюватиме</translation>
     </message>
 </context>
 <context>
@@ -1648,12 +1648,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="467"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>Збірка має конфліктні залежності.</translation>
+        <translation>Екземпляр має конфліктні залежності.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="473"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>Збірка має невирішені залежності під час завантаження/перевірки запуску.</translation>
+        <translation>Екземпляр має невирішені залежності під час завантаження/перевірки запуску.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
@@ -1664,7 +1664,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>Помилка задачі оновлення метаданих компоненту під час завантаження з віддаленого серверу:
+        <translation>Помилка задачі оновлення метаданих компонента під час завантаження з віддаленого сервера:
 %1</translation>
     </message>
 </context>
@@ -1673,7 +1673,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="94"/>
         <source>Failed to abort all running tasks.</source>
-        <translation>Не вдалося припинити усі активні процеси.</translation>
+        <translation>Не вдалося перервати усі активні процеси.</translation>
     </message>
     <message>
         <source>One or more subtasks failed</source>
@@ -1682,7 +1682,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
         <source>Task failed</source>
-        <translation>Завдання не вдалося</translation>
+        <translation>Не вдалося виконати задачу</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
@@ -1699,7 +1699,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>Виконання завдань %1 (виконано %2 із %3)</translation>
+        <translation>Виконання задач %1 (виконано %2 з %3)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
