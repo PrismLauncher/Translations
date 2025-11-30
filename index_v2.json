@@ -99,12 +99,12 @@
             "untranslated" : 2401
         },
         "cs" : {
-            "file" : "8421668de818f455b329317f5e6b7372d9295313.class",
-            "sha1" : "8421668de818f455b329317f5e6b7372d9295313",
-            "size" : 383654,
-            "translated" : 2656,
+            "file" : "f78c53d541518d2d773496fedcadf642b1ec859e.class",
+            "sha1" : "f78c53d541518d2d773496fedcadf642b1ec859e",
+            "size" : 384300,
+            "translated" : 2660,
             "fuzzy" : 0,
-            "untranslated" : 4
+            "untranslated" : 0
         },
         "cy" : {
             "file" : "74aeaa053758f14612a2bba327a818873fe75c96.class",
@@ -179,12 +179,12 @@
             "untranslated" : 4
         },
         "en_GB" : {
-            "file" : "0be9b3489a6ea623ef212aec42b791cc576072fd.class",
-            "sha1" : "0be9b3489a6ea623ef212aec42b791cc576072fd",
-            "size" : 374433,
-            "translated" : 2656,
+            "file" : "720fcf1146c9234709ad6e7d516870be36f213ba.class",
+            "sha1" : "720fcf1146c9234709ad6e7d516870be36f213ba",
+            "size" : 375061,
+            "translated" : 2660,
             "fuzzy" : 0,
-            "untranslated" : 4
+            "untranslated" : 0
         },
         "en_NZ" : {
             "file" : "26806623f92f9da4a58bddcd874a169b28bde0d0.class",
@@ -579,12 +579,12 @@
             "untranslated" : 0
         },
         "sk" : {
-            "file" : "25eafe5c32a5bf32c40e4fb455aa6ea9acb86674.class",
-            "sha1" : "25eafe5c32a5bf32c40e4fb455aa6ea9acb86674",
-            "size" : 267465,
-            "translated" : 1631,
-            "fuzzy" : 296,
-            "untranslated" : 733
+            "file" : "76e1e9a202d664251d9b88371dbbf3da009fe495.class",
+            "sha1" : "76e1e9a202d664251d9b88371dbbf3da009fe495",
+            "size" : 273512,
+            "translated" : 1677,
+            "fuzzy" : 285,
+            "untranslated" : 698
         },
         "sl" : {
             "file" : "851ff440f7798327e74012b1e22024b1ec2c1b07.class",
