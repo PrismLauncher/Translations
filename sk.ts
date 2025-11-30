@@ -4730,7 +4730,7 @@ Prosím skúste to znova.</translation>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="unfinished">Nastaviť server na ktorý sa pripojiť pri štarte</translation>
+        <translation>Nastaviť cieľ na ktorý sa pripojiť pri štarte</translation>
     </message>
     <message>
         <source>Server address:</source>
@@ -4902,16 +4902,16 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="36"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Sťahovanie Javy</translation>
+        <translation>Sťahujem Javu</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">Extrahovanie Javy</translation>
+        <translation>Extrahujem Javu</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Extrahovanie Javy (Priebeh sa nebude ohlasovať pre tar archívy)</translation>
+        <translation>Extrahujem Javu (Priebeh sa nebude ohlasovať pre tar archívy)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
@@ -4933,7 +4933,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">Nebolo možné zistiť typ archívu!</translation>
+        <translation>Nebolo možné zistiť typ archívu!</translation>
     </message>
 </context>
 <context>
@@ -4977,13 +4977,13 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Nepodarilo sa určiť typ sťahovania Javy!</translation>
+        <translation>Nepodarilo sa určiť typ stiahnutia Javy!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="316"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="327"/>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="332"/>
@@ -4996,7 +4996,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Sťahovanie Javy</translation>
+        <translation>Sťahujem Javu</translation>
     </message>
 </context>
 <context>
@@ -5367,7 +5367,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished">Preskočiť kontroly kompatibility s Javou</translation>
+        <translation>Preskočiť kontroly kompatibility Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
@@ -5457,7 +5457,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished">Potvrdiť výber</translation>
+        <translation>Potvrdiť výber</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="278"/>
@@ -5618,7 +5618,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished">Automaticky zistiť Javu</translation>
+        <translation>Automaticky zistiť Javu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
@@ -6988,7 +6988,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nemôžem pridať:</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -7024,7 +7024,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa analyzovať súbor %1</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
@@ -7428,12 +7428,12 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="663"/>
         <source>Clear cached metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazať metadáta z vyrovnávacej pamäte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Inštalovať do &amp;PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="624"/>
@@ -7448,12 +7448,12 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Stavový riadok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvorí odkaz na vybranom priečinku pre spustenie vybranej inštancie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
@@ -7473,7 +7473,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Central Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
@@ -7498,17 +7498,17 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Zápisy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvoriť priečinok zápisov v prieskumníku.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Discord Guild</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="635"/>
@@ -7524,33 +7524,33 @@ Dôvod:
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť zápisy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť aktuálne a predošlé zápisy spúšťača</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Widget Themes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="738"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvoriť priečinok tém widgetov v prieskumníku.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">I&amp;con Theme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="749"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvoriť priečinok tém ikon v prieskumníku.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
@@ -7565,23 +7565,23 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="771"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Otvorte priečinok Javy v prieskumníku. Dostupné iba v prípade, že sa používa vstavaný program na sťahovanie súborov Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Update...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Meow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
@@ -7611,12 +7611,12 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;View</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="211"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Help</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
@@ -7661,7 +7661,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahlásiť chybu alebo navrhnúť novú funkciu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="627"/>
@@ -7671,13 +7671,13 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="686"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Nainštalovať symlink %1 do /usr/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Help</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -7732,7 +7732,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvoriť odkaz</translation>
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
@@ -7762,7 +7762,10 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte sa vymazať &quot;%1&quot;.
+Táto akcia nenávratne vymaže celú inštanciu.
+
+Ste si istí?</translation>
     </message>
     <message>
         <source>Launch the selected instance in offline mode.</source>
@@ -7957,12 +7960,12 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="981"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento modpack, mód alebo zdroj %1 je zablokovaný kvôli tretím stranám! Prosím stiahnite si to manuálne.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1015"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiahnuť modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1050"/>
@@ -7973,7 +7976,8 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1051"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie je dostupná žiadna inštancia na vloženie tohto zdroja.
+Prosím vytvorte novú inštanciu pred pokusom nainštalovať tento zdroj znovu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1165"/>
@@ -8025,12 +8029,12 @@ Pre manuálne odstránenie medzipamäte metadát, stlačte Priečinky -&gt; Kore
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1350"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Uspešne som pridal %1 do PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1351"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 bol úspešne pridaný do PATH. Teraz to môžete spustiť z `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1354"/>
@@ -8040,7 +8044,7 @@ Pre manuálne odstránenie medzipamäte metadát, stlačte Priečinky -&gt; Kore
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Pri pokuse o pridanie %1 do PATH sa vyskytla chyba</translation>
     </message>
     <message>
         <source>There are linked instances</source>
@@ -8054,10 +8058,28 @@ Pre manuálne odstránenie medzipamäte metadát, stlačte Priečinky -&gt; Kore
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Nasledujúca inštancia môže odkazovať na súbory v tejto inštancii:
+
+%1
+
+Vymazanie môže rozbiť ostatné inštancie,
+
+Naozaj chcete pokračovať?</numerusform>
+            <numerusform>Nasledujúce inštancie môžu odkazovať na súbory v tejto inštancii:
+
+%1
+
+Vymazanie môže rozbiť ostatné inštancie,
+
+Naozaj chcete pokračovať?</numerusform>
+            <numerusform>Nasledujúce inštancie môžu odkazovať na súbory v tejto inštancii:
+
+%1
+
+Vymazanie môže rozbiť ostatné inštancie,
+
+Naozaj chcete pokračovať?</numerusform>
         </translation>
     </message>
     <message>
@@ -8086,11 +8108,11 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvoril som skratku k tejto inštancii na vašej ploche!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvoril som skratku k tejto inštancii!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
