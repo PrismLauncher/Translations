@@ -1873,7 +1873,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation>Bij gebruik van Windows heeft u mogelijk admin permissies nodig om symbolische links te kunnen creeëren.</translation>
+        <translation>Op Windows kan het zijn dat je beheerdersrechten nodig hebt om symbolische koppelingen te maken.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
@@ -1916,7 +1916,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation>Maak Instantiesnelkoppeling</translation>
+        <translation>Instantiesnelkoppeling aanmaken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
@@ -1962,12 +1962,12 @@ Sommige versies van Minecraft starten mogelijk niet op.
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"/>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"/>
         <source>Server Address:</source>
-        <translation>Server Adres:</translation>
+        <translation>Server-adres:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"/>
         <source>Server Address</source>
-        <translation>Server Adres</translation>
+        <translation>Server-adres</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
@@ -1982,7 +1982,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="85"/>
         <source>Desktop</source>
-        <translation>Desktop</translation>
+        <translation>Bureaublad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="88"/>
@@ -1997,7 +1997,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="96"/>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation>%1[%2] - Laatst Gespeeld: %3</translation>
+        <translation>%1 [%2] - Laatst gespeeld: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="112"/>
@@ -4936,7 +4936,7 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="953"/>
         <source>Could not create staging folder</source>
-        <translation>Kon geen staging-map creëren</translation>
+        <translation>Kon geen staging-map aanmaken</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="971"/>
@@ -7189,16 +7189,16 @@ Reden:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
         <source>Could not create file</source>
-        <translation>Kon het bestand niet creeëren</translation>
+        <translation>Kon bestand niet aanmaken</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon niet toevoegen:</translation>
     </message>
     <message>
         <source>Could not create:</source>
-        <translation>Kon niet creëeren:</translation>
+        <translation>Kon niet aanmaken:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -7230,7 +7230,7 @@ Reden:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwerken van bestand %1 mislukt</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
@@ -8498,15 +8498,15 @@ Weet je het zeker?</translation>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation>Creëer instantie Applicatie</translation>
+        <translation>Instantie-applicatie aanmaken</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation>Het is mislukt een icon te maken voor de Applicatie.</translation>
+        <translation>Aanmaken van pictogram voor applicatie is mislukt.</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation>Het maken van een pictogram voor de snelkoppeling is mislukt.</translation>
+        <translation>Aanmaken van pictogram voor snelkoppeling is mislukt.</translation>
     </message>
     <message>
         <source>Desktop Entries (*.desktop)</source>
@@ -8518,7 +8518,7 @@ Weet je het zeker?</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation>Er is een shortcut gemaakt naar deze instantie!</translation>
+        <translation>Snelkoppeling naar deze instantie aangemaakt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
@@ -10088,12 +10088,12 @@ Weet u dat zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
         <source>Missing Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontbrekende modloader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation type="unfinished"></translation>
+        <translation>Je moet een compatibele modloader installeren voordat je mods kunt installeren. Wil je dat doen?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
@@ -12792,7 +12792,7 @@ N.B. Zorg dat u een back-up hebt gemaakt van uw belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="39"/>
         <source>Create new instance</source>
-        <translation>Creëer nieuwe instantie</translation>
+        <translation>Nieuwe instantie aanmaken</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13227,7 +13227,7 @@ Wenst u door te gaan?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
         <source>Failed to create %1 shortcut!</source>
-        <translation>%1 snelkoppeling creëeren mislukt!</translation>
+        <translation>%1 snelkoppeling aanmaken mislukt!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
