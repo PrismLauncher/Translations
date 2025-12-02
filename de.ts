@@ -7355,7 +7355,7 @@ Grund:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>Konnte nicht hinzugefügt werden:</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -10376,12 +10376,12 @@ Bist du sicher?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
         <source>Missing Mod Loader</source>
-        <translation type="unfinished">Fehlender Mod-Loader</translation>
+        <translation>Fehlender Mod-Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du musst einen kompatiblen Mod-Loader installieren, bevor du Mods installieren kannst. Möchtest du dies tun?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
