@@ -8811,7 +8811,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="327"/>
         <source>The instance updated to pack version %1 successfully.</source>
-        <translation>Збірка оновлена до версії пакунку %1 успішно.</translation>
+        <translation>Екземпляр успішно оновлено до версії пакунка %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="332"/>
