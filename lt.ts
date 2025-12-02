@@ -1512,12 +1512,12 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Slapyvardis yra tinkamas tik kai yra sudarytas nuo 3 iki 16 simbolių, naudoja angliškas raides, skaičius ir pabraukimo simbolius. Netinkamas slapyvardis gali sutrukdyti prisijungiant į serverius ir vieno žaidėjo pasaulius.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
         <source>Allow invalid usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>Leisti netinkamus slapyvardžius</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
@@ -2254,22 +2254,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parsiūsti duomenų paketus iš internetinių modų platformų</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bandyti patikrinti arba atnaujinti visus pažymėtus duomenų paketus (visus duomenų paketus jei nei vienas nepažymėtas)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakeisti duomenų paketo versiją.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
         <source>Download Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Parsiūsti duomenų paketus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"/>
@@ -3138,12 +3138,12 @@ Ar tikrai norite tai padaryti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="44"/>
         <source>&amp;Editors</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Redaktoriai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="50"/>
         <source>&amp;Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;TekstoRedaktorius</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="65"/>
@@ -3156,7 +3156,7 @@ Ar tikrai norite tai padaryti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
         <source>Used to edit component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudojamas redaguoti komponuojančius JSON failus.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
@@ -3258,7 +3258,7 @@ Ar tikrai norite tai padaryti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
         <source>Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Teksto Redaktorius</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
@@ -3584,7 +3584,7 @@ Bandykite dar kartą.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rekomenduojama atmintis modpakui viršyja 90% jūsų sistemos RAM—sumažinama nuo %1 MiB iki %2 MiB!</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -4990,7 +4990,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Instaliacijos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
@@ -5219,12 +5219,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
         <source>&amp;Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aptikti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
         <source>&amp;Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Naršyti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
