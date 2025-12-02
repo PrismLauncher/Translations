@@ -7319,7 +7319,7 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>無法添加：</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -7355,7 +7355,7 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>無法解析檔案 %1</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
@@ -10343,12 +10343,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
         <source>Missing Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>未偵測到模組載入器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation type="unfinished"></translation>
+        <translation>在安裝模組之前，您必須先安裝相容的模組載入器。要現在安裝嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
