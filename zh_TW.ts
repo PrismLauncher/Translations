@@ -7319,7 +7319,7 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation>無法添加：</translation>
+        <translation>無法新增：</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -10343,12 +10343,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
         <source>Missing Mod Loader</source>
-        <translation>未偵測到模組載入器</translation>
+        <translation>找不到模組載入器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation>在安裝模組之前，您必須先安裝相容的模組載入器。要現在安裝嗎？</translation>
+        <translation>在安裝模組前，你需要先一個安裝相容的模組載入器。你想要現在安裝嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
