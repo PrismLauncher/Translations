@@ -1356,7 +1356,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
@@ -2276,7 +2276,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="242"/>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
@@ -2573,7 +2573,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Име:</translation>
+        <translation>&amp;Име:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
@@ -2607,7 +2607,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="135"/>
         <source>&amp;Recommended Memory:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Препоръчана памет:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
@@ -2749,7 +2749,12 @@ Are you sure?</source>
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Този текс поддържа следните заместители:
+{name}     - Име на мод
+{mod_id}   - Идентификационен номер на мод
+{url}      - URL адрес към мод
+{version}  - Версия на мод
+{authors}  - Автор на мод</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -3087,7 +3092,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="44"/>
         <source>&amp;Editors</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Редактори</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="50"/>
@@ -3122,17 +3127,17 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
         <source>&amp;Profilers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Профилатори</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Профилатори са достъпни чрез падащото меню „Стартиране“.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
         <source>J&amp;Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">J&amp;Профилатор</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
@@ -3197,17 +3202,18 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
         <source>Error while checking VisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Грешка при проверка на инсталацията на VisualVM:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Настройката на VisualVM изглежда е в ред.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
         <source>Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Текстов редактор</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
@@ -3263,7 +3269,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="53"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструменти</translation>
     </message>
 </context>
 <context>
@@ -3427,12 +3433,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="100"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не е намерена валидна версия за този ресурс. Вероятно не е наличен за текущата версия на играта / мод лоудър.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="103"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не е намерена валидна версия за този ресурс. Вероятно той не е наличен за текущата версия на играта.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="180"/>
@@ -3442,12 +3448,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="184"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ресурсът има нова актуализация, но не може да бъде изтеглен чрез CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не е инсталирано</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="121"/>
@@ -3456,7 +3462,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Приготвяне на модове за CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -3533,7 +3539,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation type="unfinished"></translation>
+        <translation>Препоръчителната памет на модпака надвишава 90% от RAM паметта на вашата система, като я намалява от %1 MiB до %2 MiB!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="469"/>
@@ -3701,7 +3707,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Опции за филтриране</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -3961,7 +3967,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Търси...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
@@ -4147,20 +4153,20 @@ Please try again.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">В момента в метаданните няма налични версии на Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Неуспешно зареждане/изтегляне на списъците с версиите на Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>В момента няма налични версии на Java за вашата операционна система.</translation>
     </message>
 </context>
 <context>
@@ -4173,7 +4179,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="107"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Добре</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
@@ -4438,7 +4444,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтегли Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
@@ -4518,7 +4524,7 @@ Please try again.</source>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Път до GLFW библиотека</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
@@ -4530,7 +4536,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Свят за единичен играч</translation>
     </message>
     <message>
         <source>Override default account</source>
@@ -4546,7 +4552,7 @@ Please try again.</source>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Път до OpenAL библиотека</translation>
     </message>
     <message>
         <source>Performance</source>
@@ -4558,7 +4564,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation>Активиране на Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -4566,11 +4572,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation>Активирай MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Използвайте дискретния GPU вместо основния GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
@@ -4578,11 +4584,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Използвай Zink, драйвер за Mesa OpenGL, който имплементира OpenGL върху Vulkan. Производителността може да варира в зависимост от ситуацията. Забележка: Ако не бъде намерен подходящ драйвер за Vulkan, ще се използва софтуерно рендиране.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Използвай Zink</translation>
     </message>
     <message>
         <source>Legacy settings</source>
@@ -4591,7 +4597,7 @@ Please try again.</source>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Емулира използването на стари онлайн услуги, които вече не функционират.&lt;/p&gt;&lt;p&gt;Текущите поправки включват: поддръжка на скинове и онлайн режим.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
@@ -4603,7 +4609,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Покажи времето, прекарано в игра на този инстанс</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
@@ -4616,7 +4622,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Адрес на сървър:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
