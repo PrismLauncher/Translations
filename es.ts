@@ -7325,7 +7325,7 @@ Motivo:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo añadir:</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -7361,7 +7361,7 @@ Motivo:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al analizar el archivo %1</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
@@ -10366,12 +10366,12 @@ Estás seguro?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
         <source>Missing Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod Loader ausente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation type="unfinished"></translation>
+        <translation>Necesitas instalar un mod loader compatible antes de instalar mods. ¿Te gustaría hacerlo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
