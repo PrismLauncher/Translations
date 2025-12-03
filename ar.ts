@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;خدمة Pastebin</translation>
+        <translation>&amp;خدمة بيست بن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
@@ -18,7 +18,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>الرابط الأساسي</translation>
+        <translation>&amp;الرابط الأساسي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>مفاتيح API</translation>
+        <translation>مفاتيح واجهة التطبيق</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -97,7 +97,7 @@
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>ال&quot;API&quot; الخاص ب&quot;مودرينث (modrinth)&quot;</translation>
+        <translation>&amp;واجهة التطبيق مودرينث</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>ادخل عنوان ال&quot;API&quot; المميز الخاص ب ‬Modrinth.</translation>
+        <translation>ادخل رمز واجهة تطبيق مميّز لمودرينث.</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -123,7 +123,7 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>ادخل رمز التعريف المميز (GUID) الخاص بخدمة Technic هنا.</translation>
+        <translation>ادخل رمز التعريف المميز الخاص بخدمة تيكنك هنا.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -137,12 +137,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>ادخل وكيل مستخدم مخصص هنا. الرمز $LAUNCHER_VER سيستبدل ب الاصدار الخاص باللانشر.</translation>
+        <translation>ادخل وكيل مستخدم مخصص هنا. الرمز $LAUNCHER_VER الخاص سيستبدل بإصدار المشغل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation>خادم جمع البيانات العامة</translation>
+        <translation>خادم جمع البيانات &amp;العامة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
@@ -152,34 +152,34 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>يمكنك وضع خادم البيانات هذا لاستعمال المكتبات التقنية او هاكات اخرى.</translation>
+        <translation>يمكنك وضع خادم البيانات هذا لاستعمال المكتبات التقنية أو ملفات اختراق أخرى.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>ادخل رابط لـ الميتا هنا.</translation>
+        <translation>ادخل رابط للمتحولات هنا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ملاحظة: تحتاج لتعيين هذا فقط للوصول إلى البيانات الخاصة. اقرأ &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;التعليمات&lt;/a&gt; لمعلومات اخرى.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ملاحظة: تحتاج لتعيين هذا فقط للوصول إلى البيانات الخاصة. اقرأ &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;التعليمات&lt;/a&gt; لمعلومات أخرى.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>كورسفورج كور إي بي آي</translation>
+        <translation>واجهة التطبيق الأساسية لكورس فورج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>ملاحظة: ربما لا تحتاج إلى تعيين هذا إذا كان &quot;كروز فورج(CurseForge)&quot; يعمل بالفعل.</translation>
+        <translation>ملاحظة: ربما لا تحتاج إلى تعيين هذا إذا كان كورس فورج يعمل بالفعل.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>أدخل مفتاح ال إي بي آي مخصص لـ&quot;كورسفورج( CurseForge)&quot; هنا.</translation>
+        <translation>أدخل مفتاح واجهة التطبيق المخصصة كورس فورج هنا.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation>إي بي آي</translation>
+        <translation>واجهات التطبيق</translation>
     </message>
 </context>
 <context>
@@ -194,7 +194,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="341"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>فشل في الحصول على فهرس البيانات الوصفية المحلية لـ %1</translation>
+        <translation>فشلت محاولة الحصول على فهرس البيانات الوصفية المحلية لـ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="151"/>
@@ -204,61 +204,61 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="141"/>
         <source>Unsupported installation mode</source>
-        <translation>وضع تسطيب غير مدعوم</translation>
+        <translation>وضع تنصيب غير مدعوم</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="182"/>
         <source>Deleting existing files...</source>
-        <translation>جاري محو الملفات الموجودة...</translation>
+        <translation>جاري حذف الملفات الموجودة...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="329"/>
         <source>Unknown mod type: %1</source>
-        <translation>نوع وضع غير معروف: %1</translation>
+        <translation>نوع إضافة غير معروف: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="372"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>فشل محاولة ايجاد اصدار ل %1 المشغل</translation>
+        <translation>فشل محاولة إيجاد إصدار للمشغل %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="385"/>
         <source>No loader version set for modpack!</source>
-        <translation>لم يتم اختيار تحديث المشغل من اجل ال modpack!</translation>
+        <translation>لم يتم اختيار نسخة المشغل من اجل حزمة الإضافات!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="516"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>طرقة تنزيل غير مدعومة او غير معروفة: %1</translation>
+        <translation>طرق تنزيل غير مدعومة أو غير معروفة: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="631"/>
         <source>Downloading configs...</source>
-        <translation>جارِ تنزيل الإعدادات...</translation>
+        <translation>جارِ تنزيل ملفات الإعدادات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="632"/>
         <source>Config download</source>
-        <translation>تنزيل الإعدادات</translation>
+        <translation>تنزيل ملفات الإعدادات</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="673"/>
         <source>Extracting configs...</source>
-        <translation>جارِ إستخراج الإعدادات...</translation>
+        <translation>جارِ استخراج ملفات الإعدادات...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation>فشل في فتح إعدادات الحزمة %1!</translation>
+        <translation>فشل في فتح ملفات الإعدادات للحزمة %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
         <source>Selecting optional mods...</source>
-        <translation>وضع مودات اختيارية...</translation>
+        <translation>جار وضع الإضافات الاختيارية...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
         <source>Downloading mods...</source>
-        <translation>جاري تحميل المودات...</translation>
+        <translation>جاري تحميل الإضافات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="709"/>
@@ -278,12 +278,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="814"/>
         <source>Blocked mods found</source>
-        <translation>تم العثور على اضافات محضورة</translation>
+        <translation>تم العثور على إضافات محظورة</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="815"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>الملفات التالية غير متاحة للتنزيل في مشغلات الطرف الثالث.&lt;br/&gt;ستحتاج إلى تنزيلها يدويًا وإضافتها إلى المثيل.</translation>
+        <translation>الملفات التالية غير متاحة للتنزيل في مشغلات الطرف الثالث.&lt;br/&gt;ستحتاج إلى تنزيلها يدويًا وإضافتها إلى النموذج.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="871"/>
@@ -331,7 +331,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;مشغل مخصص يجعل ماينكرافت سهلة بواسطة السماح لك على الحصول عدة وحدات ماينكرافت مرة واحدة.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;مشغّل مخصّص يجعل إدارة ماين كرافت أسهل بسماحك امتلاك نماذج متعدّدة لماين كرافت في آن واحد&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -455,7 +455,7 @@
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>شغال</translation>
+        <translation>مفعّل</translation>
     </message>
     <message>
         <source>Errored</source>
@@ -470,7 +470,7 @@
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>مطفئ</translation>
+        <translation>معطّل</translation>
     </message>
     <message>
         <source>Gone</source>
@@ -520,7 +520,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="343"/>
         <source>Username</source>
-        <translation>الاسم المستعار</translation>
+        <translation>الاسم المستخدم</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"/>
@@ -544,7 +544,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>اسم المستخدم لماين كرافت المربط مع الحساب.</translation>
+        <translation>اسم المستخدم لماين كرافت مربوط مع الحساب.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -660,7 +660,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>أهلا!
-اذا كنت جديدا هنا، بامكانك ضغط زر &quot;إضافة حساب مايكروسوفت&quot; لإضافة حساب مايكروسوفت الخاص بك.</translation>
+اذا كنت جديدا هنا، بإمكانك ضغط زر &quot;إضافة حساب مايكروسوفت&quot; لإضافة حساب مايكروسوفت الخاص بك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
@@ -1131,7 +1131,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>إختر &quot;المودات&quot; المراد تثبيتها.</translation>
+        <translation>اختر الإضافات المراد تثبيتها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -1174,7 +1174,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="244"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>هل انت واثق انك تريد تفعيل هذا المود؟</translation>
+        <translation>هل أنت واثق بانك تريد تفعيل هذه الإضافة؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
@@ -1390,12 +1390,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="173"/>
         <source>All mods found</source>
-        <translation>تم العثور على جميع المودات</translation>
+        <translation>تم العثور على جميع الإضافات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
         <source>Please download the missing mods.</source>
-        <translation>الرجاء تحميل المودات المفقودة.</translation>
+        <translation>يرجى تحميل الإضافات المفقودة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
@@ -1421,12 +1421,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; إذا وجد النموذج سوف يتم البحث في المجلد المظبوط لكافة المودات و مجلد التحميلات الافتراضي لنسخ المودات منهم. &lt;/p&gt;&lt;p&gt; إختياريًا, يمكنك سحب و وضع المودات المحملة في هذه القائمة أو قم بإضافة مجلد إذا لم تضيف المودات في مكان التحميل الإفتراضي. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; أنقر &apos;أرني المفقودات&apos; لتفتح كل روابط التحميل في المتصفح. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; إذا وجد النموذج سوف يتم البحث في المجلد المضبوط لكافة الإضافات و مجلد التحميلات الافتراضي لنسخ الإضافات منهم. &lt;/p&gt;&lt;p&gt; إختياريًا, يمكنك سحب و وضع الإضافات المحملة في هذه القائمة أو قم بإضافة مجلد إذا لم تضيف الإضافات في مكان التحميل الإفتراضي. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; أنقر &apos;أرني المفقودات&apos; لتفتح كل روابط التحميل في المتصفح. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
         <source>Blocked Mods</source>
-        <translation>المودات المحظورة</translation>
+        <translation>الإضافات المحظورة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
@@ -1446,7 +1446,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>حدد الموقع حيث قمت بتنزيل المودات</translation>
+        <translation>حدد الموقع حيث قمت بتنزيل الإضافات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
@@ -1460,7 +1460,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;لقد قمت بتعيين مجلد المودات العام ومجلد التنزيلات الإفتراضي وسيتم فحصها بإستمرار بحثا عن المودات وسيتم نسخها للواجهة في حال تم العثور عليها .&lt;/p&gt;&lt;p&gt;و في حال تم تنزيل المودات في موقع غير الذي تم تعيينه تستطيع سحب وإفلات المودات في هذه المساحة أو تستطيع إضافة مجلد لمراقبة إذا لم تقد بتحميل المودات في الموقع الإفتراضي&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;لقد قمت بتعيين مجلد الإضافات العام ومجلد التنزيلات الإفتراضي وسيتم فحصها بإستمرار بحثا عن الإضافات وسيتم نسخها للواجهة في حال تم العثور عليها .&lt;/p&gt;&lt;p&gt;و في حال تم تنزيل الإضافات في موقع غير الذي تم تعيينه تستطيع سحب وإفلات الإضافات في هذه المساحة أو تستطيع إضافة مجلد لمراقبة إذا لم تقد بتحميل الإضافات في الموقع الإفتراضي&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
@@ -1531,12 +1531,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation>إختر مورد المودات</translation>
+        <translation>اختر مورد الإضافات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation>تخطى هذا المود</translation>
+        <translation>تخطى هذه الإضافة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
@@ -1678,7 +1678,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>تعطيل هذا سيحافض على مشغل المودات (مثل: Fabric, Quilt, إلخ.) لاكن احذف ملف المودات وتففضيلاتها (configs).</translation>
+        <translation>تعطيل هذا سيحافظ على محمل الإضافات (مثل: فاريك, كويلت, إلخ.)لكن سيحذف الإضافات و تفضيلاتها.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -1688,7 +1688,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation>نسخ المودات</translation>
+        <translation>نسخ الإضافات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
@@ -1851,12 +1851,12 @@ Some versions of Minecraft may not launch.
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation>المودات الأساسية</translation>
+        <translation>الإضافات الأساسية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
         <source>Core Mods</source>
-        <translation>المودات الأساسية</translation>
+        <translation>الإضافات الأساسية</translation>
     </message>
 </context>
 <context>
@@ -2250,7 +2250,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation>تنزيل حزم البيانات من منصات المودات عبر الإنترنت</translation>
+        <translation>نزّل حزم البيانات من منصات الإضافات عبر الإنترنت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
@@ -2407,7 +2407,7 @@ Are you sure?</source>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>التحقق إذا كان لدى التعديلات (المودات) المعلومات المطلوبة...</translation>
+        <translation>التحقق إذا كان لدى الإضافات بيانات تعريف...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2428,7 +2428,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="332"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>تحليل رد الAPI من مودرينث لأجل &apos;%1&apos;...</translation>
+        <translation>تحليل رد واجهة تطبيق من مودرينث لأجل &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="393"/>
@@ -2642,7 +2642,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="50"/>
         <source>Export Modrinth Pack</source>
-        <translation>تصدير حزمة &quot;مودرينث&quot;</translation>
+        <translation>تصدير حزمة مودرينث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="59"/>
@@ -2672,7 +2672,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="157"/>
         <source>Modrinth pack</source>
-        <translation>حزمة &quot;مودرينث&quot;</translation>
+        <translation>حزمة مودرينث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="164"/>
@@ -2705,7 +2705,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation>تصدير الحزمة الى قائمة المودات</translation>
+        <translation>تصدير الحزمة الى قائمة الإضافات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
@@ -2756,11 +2756,11 @@ Are you sure?</source>
 {version}  - Mod version
 {authors}  - Mod authors</source>
         <translation>هذا النص يدعم العناصر المؤقتة:
-{name}     - اسم المود
-{mod_id}   - رمز هوية المود
-{url}      - الموقع الإلكتروني للمود
-{version}  - نسخة المود
-{authors}  - مؤلفون المود</translation>
+{name}     - اسم الإضافة
+{mod_id}   - رمز هوية الإضافة
+{url}      - الموقع الإلكتروني للإضافة
+{version}  - نسخة الإضافة
+{authors}  - مؤلفو الإضافة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -2804,7 +2804,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="212"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation>هذا يعتمد على المعلومات الوصفية للمودات. للتأكد من أنها متاحة, قم بإجراء تحديث على العينة. تثبيت التحديثات غير ضروري.</translation>
+        <translation>هذا يعتمد على المعلومات الوصفية للإضافات. للتأكد من أنها متاحة, قم بإجراء تحديث على العينة. تثبيت التحديثات غير ضروري.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="226"/>
@@ -2869,11 +2869,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>زيارة صفحة المود</translation>
+        <translation>زيارة صفحة الإضافة</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation>الذهاب الى الصفحة الرئيسية للمودات</translation>
+        <translation>الذهاب إلى الصفحة الرئيسية للإضافات</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
@@ -3434,7 +3434,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="100"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>لا يوجد إصدار صالح لهذا المصدر. من الأرجح أن لا يكون موجوداً لنسخة اللعبة \محمل المودات الحالي.</translation>
+        <translation>لا يوجد إصدار صالح لهذا المصدر. من الأرجح أن لا يكون موجوداً لنسخة اللعبة \محمل الإضافات الحالي.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="103"/>
@@ -3463,15 +3463,15 @@ Please try again.</source>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation>جار تجهيز المودات ل كورس فورج...</translation>
+        <translation>جار تجهيز الإضافات ل كورس فورج...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>لا يوجد إصدار صالح لهذا المود. من الأرجح أن لا يكون موجوداً لنسخة اللعبة \محمل المودات الحالي.</translation>
+        <translation>لا يوجد إصدار صالح لهذه الإضافة. من الأرجح أن لا يكون موجوداً لنسخة اللعبة \محمل الإضافات الحالي.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
-        <translation>يوجد تحديث جديد للمود, ولكن لا يمكن تحميله بإستخدام كورس فورج.</translation>
+        <translation>يوجد تحديث جديد للإضافة, ولكن لا يمكن تحميله باستخدام كورس فورج.</translation>
     </message>
 </context>
 <context>
@@ -3512,7 +3512,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="312"/>
         <source>No loader version set for modpack!</source>
-        <translation>لا يوجد محمل موضوع لحزمة المودات!</translation>
+        <translation>لا يوجد محمل موضوع لحزمة الإضافات!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="348"/>
@@ -3524,12 +3524,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="353"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>مجلد التجاوزات المحدد (%1) مفقود. ربما حزمة المودات تم استخدامها مسبقًا؟</translation>
+        <translation>مجلد التجاوزات المحدد (%1) مفقود. ربما حزمة الإضافات تم استخدامها مسبقًا؟</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="382"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>محمّل مودات مجهول في البيان: %1</translation>
+        <translation>محمّل إضافات مجهول في البيان: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="397"/>
@@ -3539,7 +3539,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation>الذاكرة الموصى بها لحزمة المودات تتخطى 90% من الذاكرة المؤقتة لنظامك—ستخفّض من %1 الى %2!</translation>
+        <translation>الذاكرة الموصى بها لحزمة الإضافات تتخطى 90% من الذاكرة المؤقتة لنظامك ستخفّض من %1 الى %2!</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -3549,13 +3549,13 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="469"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation>لا يمكن معالجة معرفات المودات:
+        <translation>لا يمكن معالجة معرفات الإضافات:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="546"/>
         <source>Blocked mods found</source>
-        <translation>تم العثور على مودات محظورة</translation>
+        <translation>تم العثور على إضافات محظورة</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="547"/>
@@ -3566,7 +3566,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="569"/>
         <source>Mod Download Flame</source>
-        <translation>تحميل مودات فليم</translation>
+        <translation>تحميل إضافات فليم</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="600"/>
@@ -3576,12 +3576,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="613"/>
         <source>Copying Blocked Mods...</source>
-        <translation>جار نسخ المودات المحظورة...</translation>
+        <translation>جار نسخ الإضافات المحظورة...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="628"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>جار نسخ المودات المحظورة(تم تحميل %1 من %2)</translation>
+        <translation>جار نسخ الإضافات المحظورة(تم تحميل %1 من %2)</translation>
     </message>
     <message>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
@@ -3598,7 +3598,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="605"/>
         <source>Downloading mods...</source>
-        <translation>جاري تحميل المودات...</translation>
+        <translation>جاري تحميل الإضافات...</translation>
     </message>
 </context>
 <context>
@@ -3606,7 +3606,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="410"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;اهلاً هنا&lt;/h1&gt;&lt;h4&gt;يبدو انّ معرف الحزمة خالي. وهذا بسبب خلل في النسخ الاقدم من المشغل &lt;br/&gt;لسوء الحظ لا يمكننا ارسال طلبات إي بي آي سليمة بدون هذه المعلومات&lt;br/&gt;&lt;br/&gt;لكي تعمل هذه الميز يجب عليك أن تحمل حزمة المودات من المحمل المدمج &lt;br/&gt;&lt;br/&gt;لا تقلق, سيطلب منك تحديث هذا النموذج لكي لا تخسره&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;أهلاً هنا&lt;/h1&gt;&lt;h4&gt;يبدو أنّ معرف الحزمة خالي. وهذا بسبب خلل في النسخ الأقدم من المشغل &lt;br/&gt;لسوء الحظ لا يمكننا إرسال طلبات إي بي آي سليمة بدون هذه المعلومات&lt;br/&gt;&lt;br/&gt;لكي تعمل هذه الميز يجب عليك أن تحمل حزمة الإضافات من المحمل المدمج &lt;br/&gt;&lt;br/&gt;لا تقلق, سيطلب منك تحديث هذا النموذج لكي لا تخسره&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="450"/>
@@ -4069,7 +4069,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>حزمة المودات %1 محظورة للطرف الثالث. يرجى تحميله يدوياً.</translation>
+        <translation>حزمة الإضافات %1 محظورة للطرف الثالث. يرجى تحميله يدوياً.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
@@ -4324,7 +4324,7 @@ Please try again.</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="177"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="255"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>الأرشيف لا يحتوي على أي نوع من حزم مودات المدعومة.</translation>
+        <translation>الأرشيف لا يحتوي على أي نوع من حزم الإضافات المدعومة.</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -8380,7 +8380,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">تفعيل الجيم مود ل&quot;فيرال&quot;</translation>
+        <translation>تفعيل الجيم مود ل&quot;فيرال&quot;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -8760,12 +8760,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل الجيم مود ل&quot;فيرال إنتيراكتيف&quot;,قد يزيد أداء اللعب.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل الجيم مود ل&quot;فيرال إنتيراكتيف&quot;,قد يزيد أداء اللعب.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">تفعيل الجيم مود ل&quot;فيرال&quot;</translation>
+        <translation>تفعيل الجيم مود ل&quot;فيرال&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="723"/>
@@ -9415,7 +9415,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished">زيارة صفحة المود</translation>
+        <translation>زيارة صفحة الإضافة</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
@@ -9673,7 +9673,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="217"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">لا يوجد إصدار صالح لهذا المصدر. من الأرجح أن لا يكون موجوداً لنسخة اللعبة \محمل المودات الحالي.</translation>
+        <translation>لا يوجد إصدار صالح لهذا المصدر. من الأرجح أن لا يكون موجوداً لنسخة اللعبة \محمل الإضافات الحالي.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="220"/>
@@ -9691,7 +9691,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">لا يوجد إصدار صالح لهذا المود. من الأرجح أن لا يكون موجوداً لنسخة اللعبة \محمل المودات الحالي.</translation>
+        <translation>لا يوجد إصدار صالح لهذه الإضافة. من الأرجح أن لا يكون موجوداً لنسخة اللعبة \محمل الإضافات الحالي.</translation>
     </message>
 </context>
 <context>
@@ -9782,7 +9782,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="372"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">حزمة &quot;مودرينث&quot;</translation>
+        <translation>حزمة &quot;مودرينث&quot;</translation>
     </message>
 </context>
 <context>
@@ -10173,7 +10173,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="14"/>
         <source>Select Optional Mods</source>
-        <translation>اختار مودز اضافية</translation>
+        <translation>اختر إضافات اختيارية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="34"/>
@@ -10188,7 +10188,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="61"/>
         <source>Unchecked mods will be disabled.</source>
-        <translation>المودات الغير محدده سيتم تعطيله</translation>
+        <translation>سيتم تعطيل الإضافات الغير محددة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="47"/>
