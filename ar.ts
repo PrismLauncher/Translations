@@ -4646,28 +4646,28 @@ Please try again.</source>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>تفعيل إصلاحات المتصلة بالشبكة (تجريبي)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation type="unfinished"></translation>
+        <translation>تجاوز إعدادات وقت اللعبة العامة</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>اظهر الوقت المبذول في لعب النموذج</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>سجّل الوقت المبذول في لعب النموذج</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>اختر وجهة للانضمام إليها عند التشغيل</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>رابط الخادم:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4676,15 +4676,15 @@ Please try again.</source>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="unfinished"></translation>
+        <translation>المسار إلى ملف المكتبة %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم العثور علي الجيم مود لفيرال انتيراكتيف في جهازك.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم العثور على مانجو هود في جهازك.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
@@ -4692,7 +4692,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>تأكيد الاختيار</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
