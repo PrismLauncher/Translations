@@ -5114,7 +5114,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تأكيد الاختيار</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
@@ -5361,7 +5361,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تأكيد الاختيار</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="278"/>
@@ -8346,7 +8346,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تفعيل إصلاحات المتصلة بالشبكة (تجريبي)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
@@ -8460,7 +8460,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">المسار إلى ملف المكتبة %1</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
@@ -8468,11 +8468,11 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">لم يتم العثور علي الجيم مود لفيرال انتيراكتيف في جهازك.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">لم يتم العثور على مانجو هود في جهازك.</translation>
     </message>
 </context>
 <context>
@@ -8614,7 +8614,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="603"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تفعيل إصلاحات المتصلة بالشبكة (تجريبي)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="616"/>
@@ -8809,7 +8809,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="442"/>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">رابط الخادم:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="774"/>
@@ -8839,18 +8839,18 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="136"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">لم يتم العثور علي الجيم مود لفيرال انتيراكتيف في جهازك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="141"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">لم يتم العثور على مانجو هود في جهازك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="209"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="216"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">المسار إلى ملف المكتبة %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="548"/>
