@@ -827,7 +827,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation>سماة:</translation>
+        <translation>سمة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
@@ -847,7 +847,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
         <source>Fit</source>
-        <translation>يوسع</translation>
+        <translation>وسع</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="363"/>
@@ -1214,7 +1214,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>لا يوجد إصدار متوفر حاليا ل&quot;ماين كرافت&quot; 1%</translation>
+        <translation>لا يوجد إصدار متوفر حاليا لماين كرافت 1%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
@@ -1229,7 +1229,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
         <source>Installing</source>
-        <translation>جاري التثبيت</translation>
+        <translation>جار التثبيت</translation>
     </message>
 </context>
 <context>
@@ -1242,12 +1242,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="55"/>
         <source>Initializing</source>
-        <translation>جاري التهيئه</translation>
+        <translation>جار التهيئة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="90"/>
         <source>Waiting...</source>
-        <translation>إنتظار...</translation>
+        <translation>انتظار...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="95"/>
@@ -1267,7 +1267,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation>تم تغيير معرف العميل (ID). يجب إنشاء جلسة جديدة.</translation>
+        <translation>تم تغيير معرف العميل. يجب إنشاء جلسة جديدة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
@@ -1277,7 +1277,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation>فشلت المصادقة. إنتهت صلاحية الجلسة.</translation>
+        <translation>فشلت المصادقة. انتهت صلاحية الجلسة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
@@ -1300,7 +1300,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation>النظام قد وجد إصدار 32 بت للجافا على جهازك.</translation>
+        <translation>آلية الجافا التلقائية قد وجدت إصدار 32 بت للجافا على جهازك.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
@@ -1789,22 +1789,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation>نسخ حزم &quot;الشيديرز&quot;</translation>
+        <translation>نسخ حزم المظلّلات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation>انسخ عمليات الحفض</translation>
+        <translation>انسخ الخوادم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation>نسخ حزم الموارد (ريسورس باك)</translation>
+        <translation>نسخ حزم الموارد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
         <source>Keep play time</source>
-        <translation>الإبقاء على مدة اللعب</translation>
+        <translation>الحفاظ على مدة اللعب</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
@@ -1819,17 +1819,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
         <source>Reflinks are supported on %1</source>
-        <translation>&quot;Reflinks&quot; مدعومة على %1</translation>
+        <translation>ريف لينك مدعوم في %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="98"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation>&quot;Reflinks&quot; ليست مدعومة على %1</translation>
+        <translation>ريف لينك ليس مدعوم في %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation>في نظام التشغيل ويندوز، قد تتطلب الإرتباطات الرمزية إذن المسؤول لإنشائها (التشغيل كمسؤول).</translation>
+        <translation>في نظام التشغيل ويندوز، قد تتطلب الارتباطات الرمزية إذن المسؤول لإنشائها (التشغيل كمسؤول).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
@@ -2032,7 +2032,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;أوامر قبل التشغيل يتم تنفيذها قبل تشغيل البرنامج و أوامر بعد الإغلاق تعمل بعد الإغلاق&lt;/p&gt;&lt;p&gt;كلاهما ستعمل في مجلد عمل المشغل مع متغيرات بيئة إضافية:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - إسم الحالة&lt;/li&gt;&lt;li&gt;$INST_ID - ID الخاص بالحالة (هو إسم المجلد)&lt;/li&gt;&lt;li&gt;$INST_DIR -المسار المطلق للحالة&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - المسار الحتمي لماين كرافت&lt;/li&gt;&lt;li&gt;$INST_JAVA -جافا باينيري المستخدمة ل launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - تعليمات سطر الأوامر المستخدمة للتشغيل (تحذير: لن يعمل بشكل صحيح إذا كان الأمر تحتوي على مسافات)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;يسمح أمر Wrapper بالتشغيل باستخدام برنامج غلاف إضافي (مثل &quot;optirun&quot; على Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;أوامر قبل التشغيل يتم تنفيذها قبل تشغيل البرنامج و أوامر بعد الإغلاق تعمل بعد الإغلاق&lt;/p&gt;&lt;p&gt;كلاهما ستعمل في مجلد عمل المشغل مع متغيرات بيئة إضافية:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - إسم الحالة&lt;/li&gt;&lt;li&gt;$INST_ID - ID الخاص بالحالة (هو اسم المجلد)&lt;/li&gt;&lt;li&gt;$INST_DIR -المسار المطلق للحالة&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - المسار الحتمي لماين كرافت&lt;/li&gt;&lt;li&gt;$INST_JAVA -جافا باينيري المستخدمة ل launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - تعليمات سطر الأوامر المستخدمة للتشغيل (تحذير: لن يعمل بشكل صحيح إذا كان الأمر تحتوي على مسافات)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;يسمح أمر Wrapper بالتشغيل باستخدام برنامج غلاف إضافي (مثل &quot;optirun&quot; على اللينكس)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2057,7 +2057,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
         <source>Snapshots</source>
-        <translation>سناب شوت</translation>
+        <translation>لقطات التجريبية</translation>
     </message>
     <message>
         <source>Old Snapshots</source>
@@ -2076,7 +2076,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="111"/>
         <source>Experiments</source>
-        <translation>النسخ التجريبية</translation>
+        <translation>المزايا التجريبية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
@@ -2087,12 +2087,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
         <source>Mod Loader</source>
-        <translation>محمل التعديل</translation>
+        <translation>محمل الإضافات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="182"/>
         <source>None</source>
-        <translation>لاشيء</translation>
+        <translation>لا شيء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="195"/>
@@ -2127,12 +2127,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="117"/>
         <source>No Minecraft version is selected.</source>
-        <translation>لم يتم تحديد نسخة ماين كرافت</translation>
+        <translation>لم يتم تحديد نسخة ماين كرافت.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="123"/>
         <source>No mod loader is selected.</source>
-        <translation>لم يتم تحديد محمل التعديل.</translation>
+        <translation>لم يتم تحديد محمل الإضافات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
@@ -2417,12 +2417,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
         <source>Requesting metadata information from %1...</source>
-        <translation>جاري طلب معلومات ال&quot;ميتا ديتا&quot; من 1%...</translation>
+        <translation>جاري طلب معلومات بيانات التعريف من 1%...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>جاري طلب معلومات ال&quot;ميتا ديتا&quot; من 1% من اجل &apos;2%&apos;...</translation>
+        <translation>جاري طلب معلومات بيانات التعرفي من 1% من اجل &apos;2%&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
@@ -2434,7 +2434,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="393"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="461"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>تحليل الرد من وسيط &quot;كورس فورج&quot; لأجل &apos;%1&apos;...</translation>
+        <translation>تحليل الرد واجهة التطبيق من كورس فورج لأجل &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -2538,7 +2538,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
         <source>Unable to export instance</source>
-        <translation>غير قادر على تصدير الحزمة</translation>
+        <translation>غير قادر على تصدير النموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
@@ -2618,7 +2618,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
         <source> MiB</source>
-        <translation> ميغا بايت</translation>
+        <translation> ميبي بايت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
@@ -2628,7 +2628,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="209"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation>&amp;وسم الملفات الغير مفعلة كإختيارية</translation>
+        <translation>&amp;وسم الملفات الغير مفعلة كاختيارية</translation>
     </message>
     <message>
         <source>Version</source>
@@ -2647,7 +2647,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="59"/>
         <source>Export CurseForge Pack</source>
-        <translation>تصدير حزمة &quot;كورسفورج&quot;</translation>
+        <translation>تصدير حزمة كورس فورج</translation>
     </message>
     <message>
         <source>&amp;Author</source>
@@ -2677,7 +2677,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="164"/>
         <source>CurseForge pack</source>
-        <translation>حزمة &quot;كورسفو‬رج&quot;</translation>
+        <translation>حزمة كورس فو‬رج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="191"/>
@@ -2692,7 +2692,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="193"/>
         <source>The task has been aborted by the user.</source>
-        <translation>المهمة قد أُلغيت عن طريق المستخدم.</translation>
+        <translation>قد أُلغيت المهمة عن طريق المستخدم.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="199"/>
@@ -2710,7 +2710,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">الإعدادات</translation>
+        <translation>الإعدادات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -2926,7 +2926,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="106"/>
         <source>Remove all selected items.</source>
-        <translation>احذف كل الاغراض المحددة.</translation>
+        <translation>احذف كل العناصر المحددة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
@@ -3030,8 +3030,8 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>أنت على وشك إزالة ٪ 1 من الاغراض.
-قد يكون هذا دائمًا وسيرحلون من الملف
+        <translation>أنت على وشك إزالة ٪ 1 من العناصر.
+قد يكون هذا دائم وسيحذفون من الملف
 
 هل أنت متأكد؟؟</translation>
     </message>
@@ -3041,8 +3041,8 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>أنت على وشك إزالة الملف &quot;%1&quot;
-قد يكون هذا دائمًا وسيختفي من الملف الأصلي
+        <translation>أنت على وشك إزالة المجلد &quot;%1&quot;
+قد يكون هذا دائم وسيحذف من المجلد الأصل
 
 هل أنت متأكد؟</translation>
     </message>
@@ -3060,7 +3060,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="270"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>إذا أزلت هذا المورد بينما اللعبة تعمل فقد تعطل لعبتك
+        <translation>إذا أزلت هذا المورد أثناء عمل اللعبة من الممكن أن تتعطل لعبتك.
 هل أنت متأكد أنك تريد فعل هذا؟</translation>
     </message>
     <message>
@@ -3070,7 +3070,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>إذا قمت بتعطيل هذا المورد بينما اللعبة تُديره قد تعطل لعبتك
+        <translation>إذا عطلت هذا المورد أثناء عمل اللعبة من الممكن أن تتعطل لعبتك.
 هل أنت متأكد أنك تريد فعل هذا؟</translation>
     </message>
     <message>
@@ -3261,7 +3261,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation>يبدو أن الملف المختار ليس بملف تنفيذي</translation>
+        <translation>يبدو أن الملف المختار ليس بملف قابل للتنفيذ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="53"/>
@@ -3361,7 +3361,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>ملاحظة: مثيل FTB الخاص بك ليس في الموقع الافتراضي, حدده بالضغط على الزر جانب البحث.</translation>
+        <translation>ملاحظة: مثيل إف تي بي الخاص بك ليس في الموقع الافتراضي, حدده بالضغط على الزر جانب البحث.</translation>
     </message>
 </context>
 <context>
@@ -3415,7 +3415,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation>جاري تجهيز المواد ل&quot;كروس فورج&quot;...</translation>
+        <translation>جاري تجهيز المواد لكورس فورج...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -3424,12 +3424,12 @@ Please try again.</source>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>جاري إستدعاء رد الإي بي آي من &quot;كورس فورج &quot; من اجل &apos;1%&apos;...</translation>
+        <translation>جار استدعاء رد واجهة التطبيق من كورس فورج ل&apos;1%&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>تحليل رد الإي بي آي من &quot;كورس فورج&quot; ل&apos;1%&apos;...</translation>
+        <translation>تحليل رد واجهة التطبيق من كورس فورج ل&apos;1%&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="100"/>
@@ -3444,12 +3444,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="180"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>تحليل الرد من وسيط &quot;كورس فورج&quot; لأجل &apos;%1&apos;...</translation>
+        <translation>تحليل رد من واجهة التطبيق من كورس فورج ل &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="184"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation>يوجد تحديث جديد للمصدر, ولكن لا يمكن تحميله بإستخدام كورس فورج.</translation>
+        <translation>يوجد تحديث جديد للمصدر, ولكن لا يمكن تحميله باستخدام كورس فورج.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
@@ -3539,7 +3539,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation>الذاكرة الموصى بها لحزمة الإضافات تتخطى 90% من الذاكرة المؤقتة لنظامك ستخفّض من %1 الى %2!</translation>
+        <translation>الذاكرة الموصى بها لحزمة الإضافات تتخطى 90% من الذاكرة المؤقتة لنظامك ستخفّض من %1 مبب الى %2 مبب!</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -3606,7 +3606,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="410"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;أهلاً هنا&lt;/h1&gt;&lt;h4&gt;يبدو أنّ معرف الحزمة خالي. وهذا بسبب خلل في النسخ الأقدم من المشغل &lt;br/&gt;لسوء الحظ لا يمكننا إرسال طلبات إي بي آي سليمة بدون هذه المعلومات&lt;br/&gt;&lt;br/&gt;لكي تعمل هذه الميز يجب عليك أن تحمل حزمة الإضافات من المحمل المدمج &lt;br/&gt;&lt;br/&gt;لا تقلق, سيطلب منك تحديث هذا النموذج لكي لا تخسره&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;أهلاً هنا&lt;/h1&gt;&lt;h4&gt;يبدو أنّ معرف الحزمة خالي. وهذا بسبب خلل في النسخ الأقدم من المشغل &lt;br/&gt;لسوء الحظ لا يمكننا إرسال طلبات واجهة تطبيق سليمة بدون هذه المعلومات&lt;br/&gt;&lt;br/&gt;لكي تعمل هذه الميز يجب عليك أن تحمل حزمة الإضافات من المحمل المدمج &lt;br/&gt;&lt;br/&gt;لا تقلق, سيطلب منك تحديث هذا النموذج لكي لا تخسره&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="450"/>
@@ -4161,14 +4161,14 @@ Please try again.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation>لا تتوفر حاليًا إصدارات جافا في الميتا.</translation>
+        <translation>لا تتوفر حاليًا إصدارات جافا في المتغيرات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation>لم يتم تحميل قائمة الاصدارات الخاصة بـجافا!</translation>
+        <translation>لم يتم تحميل قائمة الإصدارات الخاصة بجافا!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
@@ -4230,7 +4230,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="44"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>لا يوجد إصدار متوفر حاليا ل&quot;ماين كرافت&quot; 1%</translation>
+        <translation>لا يوجد إصدار متوفر حاليا لماين كرافت 1%</translation>
     </message>
 </context>
 <context>
@@ -4531,7 +4531,7 @@ Please try again.</source>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation>إظهار لوحة التحكم (الطرفية) أثناء تشغيل اللعبة؟</translation>
+        <translation>إظهار لوحة التحكم (الطرفية) أثناء تشغيل اللعبة</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
@@ -4573,7 +4573,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation>استخدم نسخة النظام منجي إل إف دابليو</translation>
+        <translation>استخدم نسخة النظام جي إل إف دابليو</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
@@ -4629,20 +4629,20 @@ Please try again.</source>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم زينك, زينك هو برنامج تشغيل ميسا أوبن جي إل , يطبّق اوبن جي إل على فولكان. من الممكن أن تعتمد الجودة على الوضع. ملاحظة: إذا لم يتم العثور على برنامج تشغيل فولكان, سيتم استخدام التصيير البرمجي.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم زينك</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات القديمة</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;يحاكي استخدام الخدمات القديمة التي لا تعمل &lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
@@ -8790,12 +8790,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="743"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم زينك, زينك هو برنامج تشغيل ميسا أوبن جي إل , يطبّق اوبن جي إل على فولكان. من الممكن أن تعتمد الجودة على الوضع. ملاحظة: إذا لم يتم العثور على برنامج تشغيل فولكان, سيتم استخدام التصيير البرمجي.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="746"/>
         <source>Use Zink</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم زينك</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -8804,7 +8804,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="380"/>
         <source>Account:</source>
-        <translation type="unfinished">الحساب:</translation>
+        <translation>الحساب:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="442"/>
