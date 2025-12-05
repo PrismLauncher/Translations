@@ -1858,7 +1858,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation>Скопіюйте пакунки шейдерів</translation>
+        <translation>Копіювати пакети шейдерів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
@@ -1868,7 +1868,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation>Скопіюйте пакунки ресурсів</translation>
+        <translation>Копіювати пакети ресурсів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
@@ -1925,7 +1925,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
         <source>Core Mods</source>
-        <translation>Основні Моди</translation>
+        <translation>Основні моди</translation>
     </message>
 </context>
 <context>
@@ -1997,7 +1997,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation>Примітка: Якщо ярлик переміщено після створення, його не буде видалено під час видалення збірки.</translation>
+        <translation>Примітка: Якщо ярлик переміщено після створення, його не буде видалено під час видалення екземпляра.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
@@ -2080,12 +2080,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation>Підпорядкування та Загальні Налаштування</translation>
+        <translation>Підпорядкування та загальні налаштування</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation>&amp;Команда перед Запуском</translation>
+        <translation>&amp;Команда перед запуском</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
@@ -2101,7 +2101,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Команда перед запуском виконується перед запуском збірки, а по завершенню процесу гри виконується команда після виходу. &lt;/p&gt;&lt;p&gt;Обидві команди виконуватимуться в робочій теці запускача з додатковими змінними середовища:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Назва збірки&lt;/li&gt;&lt;li&gt;$INST_ID - ID збірки (назва її катальогу)&lt;/li&gt;&lt;li&gt;$INST_DIR - абсолютний шлях збірки&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - абсолютний шлях Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - програма джава (java), використовувана при запускові&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - аргументи командного рядка, використовувані при запускові&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Команда обгортки дозволяє запускати Джава (Java), використовуючи зовнішню програму-обгортку (наприклад &apos;optirun&apos; на Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Команда перед запуском виконується перед запуском екземпляра, а по завершенню сесії виконується команда після виходу. &lt;/p&gt;&lt;p&gt;Обидві команди виконуватимуться в робочій теці лаунчера з додатковими змінними середовища:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Назва екземпляра&lt;/li&gt;&lt;li&gt;$INST_ID - ID екземпляра (назва його теки)&lt;/li&gt;&lt;li&gt;$INST_DIR - абсолютний шлях екземпляра&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - абсолютний шлях Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - програма Java, що використовується для запуску&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - аргументи командного рядка, що використовуються під час запуску&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Команда обгортки дозволяє запускати Java, використовуючи зовнішню програму-обгортку (наприклад &apos;optirun&apos; на Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2166,22 +2166,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="195"/>
         <source>NeoForge</source>
-        <translation>Неофордж (NeoForge)</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="205"/>
         <source>Forge</source>
-        <translation>Фордж (Forge)</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="215"/>
         <source>Fabric</source>
-        <translation>Фабрик (Fabric)</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="225"/>
         <source>Quilt</source>
-        <translation>Квилт (Quilt)</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="235"/>
@@ -2258,7 +2258,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
         <source>Pack Format</source>
-        <translation>Формат пакунку</translation>
+        <translation>Формат пакета</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="53"/>
@@ -2275,7 +2275,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="158"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>Ідентифікатор формату пакунку даних, а також версії Minecraft, для яких він був розроблений.</translation>
+        <translation>Ідентифікатор формату пакету даних, а також версії Minecraft, для яких він був розроблений.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="108"/>
@@ -2296,17 +2296,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation>Чи ввімкнено пакунок даних? (Лише для ZIP-архівів)</translation>
+        <translation>Чи ввімкнено пакет даних? (Лише для ZIP-архівів)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="155"/>
         <source>The name of the data pack.</source>
-        <translation>Назва пакунку даних.</translation>
+        <translation>Назва пакета даних.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="160"/>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation>Дата й час цього пакунку даних були востаннє змінено (або додано).</translation>
+        <translation>Дата й час цього пакета даних були востаннє змінено (або додано).</translation>
     </message>
 </context>
 <context>
@@ -2314,27 +2314,27 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation>Завантажити Пакунки</translation>
+        <translation>Завантажити пакети</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation>Завантажити пакунки даних з онлайн-платформ модів</translation>
+        <translation>Завантажити пакети даних з онлайн-платформ модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation>Спробувати перевірити або оновити всі вибрані пакунки даних (або всі пакунки даних, якщо жодного не вибрано)</translation>
+        <translation>Спробувати перевірити або оновити всі вибрані пакети даних (або всі пакети даних, якщо жодного не вибрано)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation>Зміни версію пакунку даних.</translation>
+        <translation>Зміни версію пакета даних.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
         <source>Download Data Packs</source>
-        <translation>Завантажити Пакунки Даних</translation>
+        <translation>Завантажити пакети даних</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"/>
@@ -2378,7 +2378,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation>Оновлення пакунку даних недоступно, коли метадані вимкнені!</translation>
+        <translation>Оновлення пакета даних недоступно, коли метадані вимкнені!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="129"/>
@@ -2390,14 +2390,14 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Оновлення пакунків даних під час роботи гри може викликати дублювання пакунків і збої гри.
+        <translation>Оновлення пакетів даних під час роботи гри може викликати дублювання пакетів і збої гри.
 Старі файли можуть не бути видалені, оскільки вони використовуються.
 Ви впевнені, що хочете це зробити?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"/>
         <source>The data pack updater was aborted!</source>
-        <translation>Оновлення пакунку даних перервано!</translation>
+        <translation>Оновлення пакета даних перервано!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
@@ -2407,12 +2407,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation>Всі пакунки даних тепер найновішої версії! :)</translation>
+        <translation>Всі пакети даних тепер найновішої версії! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation>Всі вибрані пакунки даних тепер найновішої версії! :)</translation>
+        <translation>Всі вибрані пакети даних тепер найновішої версії! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
@@ -2428,7 +2428,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="204"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation>Ви збираєтеся видалити метадані для %1 пакунків даних.
+        <translation>Ви збираєтеся видалити метадані для %1 пакетів даних.
 Ви впевнені?</translation>
     </message>
 </context>
@@ -2818,7 +2818,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation>Експортувати Пакунок до ModList</translation>
+        <translation>Експортувати пакет до ModList</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
@@ -3604,7 +3604,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="336"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Не вдалося зрозуміти маніфест пакунку:
+        <translation>Не вдалося зрозуміти маніфест пакета:
 </translation>
     </message>
     <message>
@@ -3681,7 +3681,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="397"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation>Вилучено таємничі крапки в кінці версії Minecraft під час імпортування пакунка.</translation>
+        <translation>Вилучено таємничі крапки в кінці версії Minecraft під час імпортування пакета.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="430"/>
@@ -3708,7 +3708,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="547"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>Наступні файли недоступні для завантаження в сторонніх запускачах.&lt;br/&gt;Вам потрібно буде завантажити їх вручну та додати до збірки.</translation>
+        <translation>Наступні файли недоступні для завантаження в сторонніх лаунчерах.&lt;br/&gt;Вам потрібно буде завантажити їх вручну та додати до екземпляра.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="569"/>
@@ -4282,7 +4282,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
         <source>Choose modpack</source>
-        <translation>Виберіть пакунок модифікацій</translation>
+        <translation>Виберіть збірку</translation>
     </message>
     <message>
         <source>Zip (*.zip)</source>
@@ -4299,7 +4299,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>Виберіть збірку, в яку ви хочете імпортувати цей пакунок ресурсів.</translation>
+        <translation>Виберіть екземпляр, в який ви хочете імпортувати цей пакет ресурсів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
@@ -4348,20 +4348,20 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation>Наразі в метаданих немає доступних версій Джава (Java).</translation>
+        <translation>Наразі в метаданих немає доступних версій Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation>Не вдалося завантажити чи інсталювати списки версій Джава (Java)!</translation>
+        <translation>Не вдалося завантажити чи інсталювати списки версій Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation>Наразі для вашої ОС немає доступних версій Джава (Java).</translation>
+        <translation>Наразі для вашої ОС немає доступних версій Java.</translation>
     </message>
 </context>
 <context>
@@ -4384,22 +4384,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
         <source>NeoForge</source>
-        <translation>НеоФордж (NeoForge)</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
         <source>Forge</source>
-        <translation>Фордж (Forge)</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
         <source>Fabric</source>
-        <translation>Фабрик (Fabric)</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
         <source>Quilt</source>
-        <translation>Квилт (Quilt)</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="144"/>
@@ -4484,13 +4484,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/InstanceImportTask.cpp" line="85"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Завантаження пакунку модифікацій:
+        <translation>Завантаження збірки:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="99"/>
         <source>Modpack download</source>
-        <translation>Завантаження пакунку модів</translation>
+        <translation>Завантаження збірки</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="144"/>
@@ -4500,12 +4500,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="180"/>
         <source>Extracting modpack</source>
-        <translation>Розпакування пакунку модифікацій</translation>
+        <translation>Розпакування збірки</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="151"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Не вдалося відкрити вибраний zip-файл пакунку модифікацій.</translation>
+        <translation>Не вдалося відкрити вибраний zip-файл збірки.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="177"/>
@@ -4650,7 +4650,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation>Інсталяція Джава (Java)</translation>
+        <translation>Встан&amp;овлення Java</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
@@ -4666,11 +4666,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Якщо ввімкнено, запускач не перевірятиме сумісність збірки з обраною версією Джава (Java).</translation>
+        <translation>Якщо ввімкнено, лаунчер не перевірятиме сумісність екземпляра з обраною версією Java.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation>Пропустити перевірку сумісности з Джава (Java)</translation>
+        <translation>Пропустити перевірку сумісности з Java</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
@@ -4690,7 +4690,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Обсяг пам&apos;яті, доступний для зберігання завантажених класів Джава (Java).</translation>
+        <translation>Обсяг пам&apos;яті, доступний для зберігання завантажених класів Java.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
@@ -4702,7 +4702,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Завантажити Джава (Java)</translation>
+        <translation>Завантажити Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
@@ -4714,7 +4714,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation>Аргументи Джава (Java)</translation>
+        <translation>Аргументи Java</translation>
     </message>
     <message>
         <source>Game windows</source>
@@ -4766,11 +4766,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation>Закривати запускач по відкриттю вікна гри</translation>
+        <translation>Закривати лаунчер по відкриттю вікна гри</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation>Виходити з запускача по закриттю вікна гри</translation>
+        <translation>Виходити з лаунчера по закриттю вікна гри</translation>
     </message>
     <message>
         <source>Custom commands</source>
@@ -4921,7 +4921,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Виберіть версію Джава (Java)</translation>
+        <translation>Виберіть версію Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
@@ -4931,13 +4931,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Ви вибрали 32-розрядну версію Джава (Java). 
-Ця інсталяція не підтримує більше 2048 МіБ оперативної пам&apos;яті. 
+        <translation>Ви вибрали 32-розрядну версію Java. 
+Ця інсталяція не підтримує понад 2048 МіБ оперативної пам&apos;яті. 
 Будь ласка, переконайтеся, що максимальне значення пам&apos;яті є меншим.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Знайти виконуваний файл Джава (Java)</translation>
+        <translation>Знайти виконуваний файл Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
@@ -5076,16 +5076,16 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="36"/>
         <source>Downloading Java</source>
-        <translation>Завантаження Джава (Java)</translation>
+        <translation>Завантаження Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation>Розпакування Джава (Java)</translation>
+        <translation>Розпакування Java</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Розпакування Джава (Java) (Поступ не відображається для архівів tar)</translation>
+        <translation>Розпакування Java (Прогрес не відображається для архівів tar)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
@@ -5130,7 +5130,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="279"/>
         <source>Mojang</source>
-        <translation>Моджанг (Mojang)</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="281"/>
@@ -5146,12 +5146,12 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="289"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="320"/>
         <source>Install Java</source>
-        <translation>Установити Джава (Java)</translation>
+        <translation>Установити Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"/>
         <source>Could not determine Java download type!</source>
-        <translation>Не вдалося визначити тип завантаження Джава (Java)!</translation>
+        <translation>Не вдалося визначити тип завантаження Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="316"/>
@@ -5170,7 +5170,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation>Завантаження Джава (Java)</translation>
+        <translation>Завантаження Java</translation>
     </message>
 </context>
 <context>
@@ -5178,17 +5178,17 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation>Перевірка шляху до виконуваного файлу Джава (Java)</translation>
+        <translation>Перевірка шляху до виконуваного файлу Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation>Пошук шляху до виконуваного файлу Джава (Java)</translation>
+        <translation>Пошук шляху до виконуваного файлу Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation>Не вдалося знайти шлях до виконуваного файлу Джава (Java)</translation>
+        <translation>Не вдалося знайти шлях до виконуваного файлу Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
@@ -5198,7 +5198,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation>Створення символьного посилання для шляху до виконуваного файлу Джава (Java)</translation>
+        <translation>Створення символьного посилання для шляху до виконуваного файлу Java</translation>
     </message>
 </context>
 <context>
@@ -5206,7 +5206,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <source>Detecting Java installations...</source>
-        <translation>Пошук установлень Джава (Java)...</translation>
+        <translation>Пошук встановлених Java...</translation>
     </message>
 </context>
 <context>
@@ -5239,11 +5239,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Обсяг пам&apos;яті, доступний для зберігання завантажених класів Джава (Java).</translation>
+        <translation>Обсяг пам&apos;яті, доступний для зберігання завантажених класів Java.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation>Середовище виконання Джава (Java)</translation>
+        <translation>Середовище виконання Java</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
@@ -5251,11 +5251,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation>Автоматично вибирає версію Джава (Java), сумісну з поточною збіркою Minecraft, на основі необхідної основної версії.</translation>
+        <translation>Автоматично вибирає версію Java, сумісну з поточним екземпляром Minecraft, на основі необхідної основної версії.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Автоматичне визначення версії Джава (Java)</translation>
+        <translation>Автоматичне визначення версії Java</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
@@ -5264,7 +5264,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation>Автоматично завантажує та вибирає версію Джава (Java), котру радить Моджанг (Mojang).</translation>
+        <translation>Автоматично завантажує та вибирає версію Java, котру радить Mojang.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
@@ -5276,7 +5276,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation>Завантажені Версії Джава (Java)</translation>
+        <translation>Завантажені версії Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5319,20 +5319,20 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>Якщо ввімкнено, запускач не пропонуватиме вибрати версію Джава (Java), якщо її не знайдено.</translation>
+        <translation>Якщо ввімкнено, лаунчер не пропонуватиме вибрати версію Java, якщо її не знайдено.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation>Пропустити &amp;Майстер Джава (Java)</translation>
+        <translation>Пропустити &amp;майстер налаштування Java</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Якщо ввімкнено, запускач не перевірятиме сумісність збірки з обраною версією Джава (Java).</translation>
+        <translation>Якщо ввімкнено, лаунчер не перевірятиме сумісність екземпляра з обраною версією Java.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>Пропустити перевірку &amp;сумісности з Джава (Java)</translation>
+        <translation>Пропустити перевірку &amp;сумісности з Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -5343,17 +5343,17 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation>Не встановлені керовані версії Джава (Java)</translation>
+        <translation>Не встановлені керовані версії Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation>Не вдалося завантажити список керованих версій Джава (Java)!</translation>
+        <translation>Не вдалося завантажити список керованих версій Java!</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Виберіть версію Джава (Java)</translation>
+        <translation>Виберіть версію Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
@@ -5363,13 +5363,13 @@ Please make sure that the maximum memory value is lower.</source>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Ви вибрали 32-розрядну версію Джава (Java).
-Ця інсталяція не підтримує більше 2048 МіБ оперативної пам&apos;яті.
+        <translation>Ви вибрали 32-розрядну версію Java.
+Ця інсталяція не підтримує понад 2048 МіБ оперативної пам&apos;яті.
 Будь ласка, переконайтеся, що максимальне значення пам&apos;яті є меншим.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Знайти виконуваний файл Джава (Java)</translation>
+        <translation>Знайти виконуваний файл Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
@@ -5392,7 +5392,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="113"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation>Ви збираєтеся видалити інсталяцію Джава (Java) з назвою &quot;%1&quot;.
+        <translation>Ви збираєтеся видалити інсталяцію Java з назвою &quot;%1&quot;.
 Ви впевнені?</translation>
     </message>
 </context>
@@ -5400,7 +5400,7 @@ Are you sure?</source>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation>Не вибрано версію Джава (Java)</translation>
+        <translation>Не вибрано версію Java</translation>
     </message>
     <message>
         <source>You didn&apos;t select a Java version or selected something that doesn&apos;t work.
@@ -5418,7 +5418,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Завантажити Джава (Java)</translation>
+        <translation>Завантажити Java</translation>
     </message>
     <message>
         <source>Automatic Java Download</source>
@@ -5434,7 +5434,7 @@ Do you want to enable Java auto-download?
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation>Виявлено 32-бітну версію Джава (Java)</translation>
+        <translation>Виявлено 32-бітну версію Java</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5443,11 +5443,11 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Ви вибрали 32-розрядну інсталяцію Джава (Java), але виділили понад 2048 МіБ як максимальний обсяг пам&apos;яті. 
+        <translation>Ви вибрали 32-розрядну інсталяцію Java, але виділили понад 2048 МіБ як максимальний обсяг пам&apos;яті. 
 %1 не зможе запустити Minecraft. 
 Продовжити? 
 
-Ви зможете змінити версію Джава (Java) в налаштуваннях пізніше.
+Ви зможете змінити версію Java в налаштуваннях пізніше.
 </translation>
     </message>
     <message>
@@ -5457,17 +5457,17 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Ви або не вибрали версію Джава (Java), або вибрали версію, яка не працює. 
+        <translation>Ви або не вибрали версію Java, або вибрали версію, яка не працює. 
 %1 не зможе запустити Minecraft. 
-Продовжити без працездатної версії Джава (Java)? 
+Продовжити без працездатної версії Java? 
 
-Ви можете змінити версію Джава (Java) в налаштуваннях пізніше.
+Ви можете змінити версію Java в налаштуваннях пізніше.
 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="228"/>
         <source>Find Java executable</source>
-        <translation>Знайти виконуваний файл Джава (Java)</translation>
+        <translation>Знайти виконуваний файл Java</translation>
     </message>
     <message>
         <source>Memory</source>
@@ -5495,7 +5495,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
         <source>Auto-&amp;detect Java version</source>
-        <translation>Автовиявлення версії Джава (Java)</translation>
+        <translation>Автовиявлення версії Java</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
@@ -5508,7 +5508,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="120"/>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
-        <translation>Автоматично завантажує та вибирає збірку Джава (Java), котру рекомендує Моджанг (Mojang).</translation>
+        <translation>Автоматично завантажує та вибирає збірку Java, котру рекомендує Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="123"/>
@@ -5518,17 +5518,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation>Якщо ввімкнено, запускач не пропонуватиме вибрати версію Джава (Java), якщо її не буде знайдено під час запуску.</translation>
+        <translation>Якщо ввімкнено, лаунчер не пропонуватиме вибрати версію Java, якщо її не буде знайдено під час запуску.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="156"/>
         <source>Skip Java setup prompt on startup</source>
-        <translation>Пропустити запит налаштування Джава (Java) під час запуску</translation>
+        <translation>Пропустити запит налаштування Java під час запуску</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Якщо ввімкнено, запускач не перевірятиме сумісність збірки з обраною версією Джава (Java).</translation>
+        <translation>Якщо ввімкнено, лаунчер не перевірятиме сумісність збірки з обраною версією Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
@@ -5548,17 +5548,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
         <source>Open Java &amp;Downloader</source>
-        <translation>Відкрити Джава (Java) та Завантажувач</translation>
+        <translation>Відкрити &amp;завантажувач Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
         <source>Skip Java compatibility checks</source>
-        <translation>Пропустити перевірку сумісности з Джава (Java)</translation>
+        <translation>Пропустити перевірку сумісности з Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation>Джава (Java) та Виконуваний Файл</translation>
+        <translation>Виконуваний &amp;файл Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
@@ -5616,12 +5616,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
         <source>Java Argumen&amp;ts</source>
-        <translation>Аргументи Джава (Java)</translation>
+        <translation>Аргум&amp;енти Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="210"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Обсяг пам&apos;яті, доступний для зберігання завантажених класів Джава (Java).</translation>
+        <translation>Обсяг пам&apos;яті, доступний для зберігання завантажених класів Java.</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -5633,16 +5633,16 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Автоматичне визначення версії Джава (Java)</translation>
+        <translation>Автоматичне визначення версії Java</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation>Автовиявлення Джава (Java)</translation>
+        <translation>Автовиявлення Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
         <source>Select a Java version</source>
-        <translation>Виберіть версію Джава (Java)</translation>
+        <translation>Виберіть версію Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
@@ -5654,8 +5654,8 @@ You can change the Java version in the settings later.
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Ви вибрали 32-розрядну версію Джава (Java).
-Ця інсталяція не підтримує більше 2048 МіБ оперативної пам&apos;яті.
+        <translation>Ви вибрали 32-розрядну версію Java.
+Ця інсталяція не підтримує понад 2048 МіБ оперативної пам&apos;яті.
 Будь ласка, переконайтеся, що максимальне значення пам&apos;яті є меншим.</translation>
     </message>
     <message>
@@ -5683,7 +5683,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>Ви перевищуєте максимальний обсяг виділеної пам&apos;яті, що підтримується 32-розрядними інсталяціями Джава (Java).</translation>
+        <translation>Ви перевищуєте максимальний обсяг виділеної пам&apos;яті, що підтримується 32-розрядними інсталяціями Java.</translation>
     </message>
 </context>
 <context>
@@ -5697,7 +5697,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation>Будь ласка, виберіть, скільки пам’яти виділити для збірок, і чи повинен Prism Launcher керувати Джава (Java) автоматично чи вручну.</translation>
+        <translation>Будь ласка, виберіть, скільки пам’яті виділити для екземплярів, і чи повинен Prism Launcher керувати Java автоматично чи вручну.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -5713,12 +5713,12 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation>Завантажити Джава (Java)</translation>
+        <translation>Завантажити Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation>Виявлено 32-бітну версію Джава (Java)</translation>
+        <translation>Виявлено 32-бітну версію Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
@@ -5728,17 +5728,17 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Ви вибрали 32-розрядну інсталяцію Джава (Java), але виділили понад 2048 МіБ як максимальний обсяг пам&apos;яті. 
+        <translation>Ви вибрали 32-розрядну інсталяцію Java, але виділили понад 2048 МіБ як максимальний обсяг пам&apos;яті. 
 %1 не зможе запустити Minecraft. 
 Бажаєте продовжити? 
  
-Ви зможете змінити версію Джава (Java) пізніше у налаштуваннях.
+Ви зможете змінити версію Java пізніше у налаштуваннях.
 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
         <source>No Java version selected</source>
-        <translation>Не вибрано версію Джава (Java)</translation>
+        <translation>Не вибрано версію Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
@@ -5748,17 +5748,17 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Ви або не вибрали версію Джава (Java), або вибрали версію, яка не працює. 
+        <translation>Ви або не вибрали версію Java, або вибрали версію, яка не працює. 
 %1 не зможе запустити Minecraft. 
-Продовжити без працездатної версії Джава (Java)? 
+Продовжити без працездатної версії Java? 
 
-Ви можете змінити версію Джава (Java) в налаштуваннях пізніше.
+Ви можете змінити версію Java в налаштуваннях пізніше.
 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="353"/>
         <source>Find Java executable</source>
-        <translation>Знайти виконуваний файл Джава (Java)</translation>
+        <translation>Знайти виконуваний файл Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
@@ -5788,7 +5788,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Обсяг пам&apos;яті, доступний для зберігання завантажених класів Джава (Java).</translation>
+        <translation>Обсяг пам&apos;яті, доступний для зберігання завантажених класів Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
@@ -5803,12 +5803,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
         <source>Auto-detect Java version</source>
-        <translation>Автовиявлення версії Джава (Java)</translation>
+        <translation>Автовиявлення версії Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
         <source>Autodetect Java</source>
-        <translation>Автовиявлення Джава (Java)</translation>
+        <translation>Автовиявлення Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
@@ -5828,7 +5828,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>Ви перевищуєте максимальний обсяг виділеної пам&apos;яті, що підтримується 32-розрядними інсталяціями Джава (Java).</translation>
+        <translation>Ви перевищуєте максимальний обсяг виділеної пам&apos;яті, що підтримується 32-розрядними інсталяціями Java.</translation>
     </message>
 </context>
 <context>
@@ -5875,7 +5875,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="76"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation>Вказано недійсні аргументи Джава (Java). Будь ласка, спочатку виправте це.</translation>
+        <translation>Вказано недійсні аргументи Java. Будь ласка, спочатку виправте це.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="93"/>
@@ -5901,7 +5901,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="322"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>Змінено ідентифікатор клієнту запускачу. Будь ласка, видаліть &quot;%1&quot; та повторіть спробу.</translation>
+        <translation>Змінено ідентифікатор клієнта лаунчера. Будь ласка, видаліть &quot;%1&quot; та повторіть спробу.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -5993,7 +5993,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>Змінено ідентифікатор клієнта запускача. Будь ласка, видаліть цей обліковий запис і додайте його знову.</translation>
+        <translation>Змінено ідентифікатор клієнта лаунчера. Будь ласка, видаліть цей обліковий запис і додайте його знову.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="325"/>
@@ -6131,7 +6131,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Accessing Mojang services.</source>
-        <translation>З&apos;єднання зі службами Моджанг (Mojang).</translation>
+        <translation>З&apos;єднання зі службами Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
@@ -6567,7 +6567,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Suggest to update an existing instance during modpack installation</source>
-        <translation>Запропонувати оновить існуючу збірку під час установлення пакунку модифікацій</translation>
+        <translation>Пропонувати оновлювати наявний екземпляр під час установлення збірки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
@@ -6622,7 +6622,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="101"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>Ви намагаєтеся вказати теку збірки, шлях до якої містить принаймні один символ &apos;!&apos;. Відомо, що це спричиняє проблеми з Джава (Java), та ваші збірки (ймовірно) не запустяться!</translation>
+        <translation>Ви намагаєтеся вказати теку екземпляра, шлях до якої містить принаймні один символ &apos;!&apos;. Відомо, що це спричиняє проблеми з Java, та ваші збірки (ймовірно) не запустяться!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="106"/>
@@ -6667,7 +6667,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"/>
         <source>Java Folder</source>
-        <translation>Тека Джава (Java)</translation>
+        <translation>Тека Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
@@ -6708,7 +6708,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Launcher</source>
-        <translation>Запускач</translation>
+        <translation>Лаунчер</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6721,12 +6721,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="76"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation>Не вдалося знайти бібліотеку запускача. Будь ласка, перевірте встановлення.</translation>
+        <translation>Не вдалося знайти бібліотеку лаунчера. Будь ласка, перевірте встановлення.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="88"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation>Не вдалося знайти бібліотеку застарілого запускача. Будь ласка, перевірте вашу інсталяцію.</translation>
+        <translation>Не вдалося знайти бібліотеку застарілого лаунчера. Будь ласка, перевірте вашу інсталяцію.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="140"/>
@@ -6812,16 +6812,16 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
         <source>Extracting modpack</source>
-        <translation>Розпакування пакунку модифікацій</translation>
+        <translation>Розпакування зібрки</translation>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation>Не вдалося відкрити файл пакунку модифікацій %1!</translation>
+        <translation>Не вдалося відкрити файл збірки %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
         <source>Installing modpack</source>
-        <translation>Встановлення пакунку модифікацій</translation>
+        <translation>Встановлення збірки</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="130"/>
@@ -7018,7 +7018,7 @@ You&apos;ll have to correct this problem manually.</source>
         <translation>Деяким артефактам, позначеним як &apos;local&apos;, бракує файлів:
 %1
 
-Вам потрібно або додати ці файли, або видалити пакунки, що їх потребують.
+Вам потрібно або додати ці файли, або видалити пакети, що їх потребують.
 Вам доведеться виправити цю помилку вручну.</translation>
     </message>
     <message>
@@ -7753,7 +7753,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
         <source>Launcher &amp;Root</source>
-        <translation>&amp;Коренева тека запускача</translation>
+        <translation>&amp;Коренева тека лаунчера</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
@@ -7835,12 +7835,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>Cat Packs</source>
-        <translation>Котопакунки</translation>
+        <translation>Пакети котиків</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation>Відкрити теку котопакунків у переглядачеві файлів.</translation>
+        <translation>Відкрити теку пакетів котиків у переглядачеві файлів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
@@ -7963,7 +7963,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation>Відкрити кореневу теку запускача у переглядачеві файлів.</translation>
+        <translation>Відкрити кореневу теку лаунчера у переглядачеві файлів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
@@ -8461,7 +8461,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation>Створити ярлик збірки</translation>
+        <translation>Створити ярлик екземпляра</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
@@ -8469,7 +8469,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>Запускач перебуває в теці, з якої він був видобутий, тому він не може створювати ярлики.</translation>
+        <translation>Лаунчер перебуває в теці, з якої він був видобутий, тому він не може створювати ярлики.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
@@ -8485,7 +8485,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>Запускач діє як неправильно налаштований AppImage? (змінна оточення $APPIMAGE відсутня)</translation>
+        <translation>Лаунчер діє як неправильно налаштований AppImage? (змінна оточення $APPIMAGE відсутня)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -8547,7 +8547,7 @@ Please check your trashbin to manually restore them.</source>
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
         <translation>Очищення кешу метаданих не вдалося!
-Щоби вручну очистити кеш метаданих, натисніть Теки -&gt; Переглянути кореневу теку запускача, а потім після закриття запускача видаліть теку з назвою &quot;meta&quot;
+Щоби вручну очистити кеш метаданих, натисніть Теки -&gt; Переглянути кореневу теку лаунчера, а потім після закриття лаунчера видаліть теку з назвою &quot;meta&quot;
 </translation>
     </message>
     <message>
@@ -8627,12 +8627,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation>Це проблема: &lt;br/&gt; - запускач, імовірно, буде видалено операційною системою без попередження. &lt;br/&gt; - закрийте запускач зараз і розпакуйте його в справжнє місце, а не в тимчасову теку</translation>
+        <translation>Це проблема: &lt;br/&gt; - лаунчер, ймовірно, буде видалено операційною системою без попередження. &lt;br/&gt; - закрийте лаунчер зараз і розпакуйте його в справжнє місце, а не в тимчасову теку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>Тека вашої збірки містить «Rar$» — це означає, що ви не розпакували архів запускача!</translation>
+        <translation>Тека вашого екземпляра містить «Rar$» — це означає, що ви не розпакували архів лаунчера!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1657"/>
@@ -8689,12 +8689,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack Information</source>
-        <translation>Інформація про пакунок</translation>
+        <translation>Інформація про збірку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack Name:</source>
-        <translation>Ім&apos;я Пакунку:</translation>
+        <translation>Ім&apos;я збірки:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
@@ -8752,7 +8752,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="153"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation>Веб-сайт: &lt;a href=%1&gt;%2&lt;/a&gt; | ID пакунка: %3 | ІD версії: %4</translation>
+        <translation>Веб-сайт: &lt;a href=%1&gt;%2&lt;/a&gt;    |    ID збірки: %3    |    ІD версії: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="196"/>
@@ -8782,7 +8782,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="216"/>
         <source>Update Pack</source>
-        <translation>Оновити пакунок</translation>
+        <translation>Оновити збірку</translation>
     </message>
     <message>
         <source>Update pack</source>
@@ -8811,7 +8811,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="327"/>
         <source>The instance updated to pack version %1 successfully.</source>
-        <translation>Екземпляр успішно оновлено до версії пакунка %1.</translation>
+        <translation>Екземпляр успішно оновлено до версії пакета %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="332"/>
@@ -8821,7 +8821,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="333"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation>Збірка не змогла оновитися до версії пакунку %1. Будь ласка, перевірте звіти запуску для докладнішої інформації.</translation>
+        <translation>Екземпляр не зміг оновитися до версії пакета %1. Будь ласка, перевірте звіти запуску для докладнішої інформації.</translation>
     </message>
 </context>
 <context>
@@ -9130,22 +9130,22 @@ This can be updated only using a file in %1 format
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Запускач автоматично відкриватиметься по аварійнім завершенні гри.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Лаунчер автоматично відкриватиметься в момент закриття чи краху гри.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>За&amp;кривати запускач по відкриттю вікна гри</translation>
+        <translation>За&amp;кривати лаунчер по відкриттю вікна гри</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Запускач вимикатиметься автоматично, коли гра закриється чи зазнає краху.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Лаунчер закриватиметься автоматично в момент закриття чи краху гри.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>Виходити з запускачу по закриттю вікна гри</translation>
+        <translation>&amp;Виходити з лаунчера по закриттю вікна гри</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -9250,7 +9250,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
-        <translation>Коли ігрове вікно закривається, вийти з запускача</translation>
+        <translation>Коли ігрове вікно закривається, вийти з лаунчера</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
@@ -9379,7 +9379,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
         <source>When the game window opens, hide the launcher</source>
-        <translation>Коли ігрове вікно відкривається, сховати запускач</translation>
+        <translation>Коли ігрове вікно відкривається, сховати лаунчер</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
@@ -9419,13 +9419,13 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="258"/>
         <source>&amp;Global Data Packs</source>
-        <translation>Загальні Пакунки Даних</translation>
+        <translation>&amp;Глобальні пакети даних</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
-        <translation>Дозволяє встановлювати пакунки даних у всіх світах, якщо встановлено відповідний мод.
+        <translation>Дозволяє встановлювати пакети даних у всіх світах, якщо встановлено відповідний мод.
 Найімовірніше, вам потрібно буде змінити шлях — будь ласка, зверніться до вебсторінки моду.</translation>
     </message>
     <message>
@@ -9436,7 +9436,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"/>
         <source>datapacks</source>
-        <translation>Пакунки даних</translation>
+        <translation>Пакети даних</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
@@ -9466,22 +9466,22 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
         <source>NeoForge</source>
-        <translation>НеоФордж (NeoForge)</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
         <source>Forge</source>
-        <translation>Фордж (Forge)</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"/>
         <source>Fabric</source>
-        <translation>Фабрик (Fabric)</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"/>
         <source>Quilt</source>
-        <translation>Квилт (Quilt)</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
@@ -9613,7 +9613,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="548"/>
         <source>Select Global Data Packs Folder</source>
-        <translation>Вибрати Загальну Теку для Пакунків Даних</translation>
+        <translation>Вибрати загальну теку для пакетів даних</translation>
     </message>
 </context>
 <context>
@@ -9703,22 +9703,22 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
         <source>NeoForge</source>
-        <translation>НеоФордж (NeoForge)</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <source>Forge</source>
-        <translation>Фордж (Forge)</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation>Фабрик (Fabric)</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation>Квилт (Quilt)</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
@@ -10704,7 +10704,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="270"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
-        <translation>У файлі &apos;%1&apos; відсутнє поклилання для завантаження. Це неприпустимо у форматі пакунку.</translation>
+        <translation>У файлі &apos;%1&apos; відсутнє посилання для завантаження. Це неприпустимо у форматі пакета.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="300"/>
@@ -10734,7 +10734,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="473"/>
         <source>Could not understand pack index:
 </source>
-        <translation>Не вдалося зрозуміти індекс пакунку:
+        <translation>Не вдалося зрозуміти індекс збірки:
 </translation>
     </message>
 </context>
@@ -11733,12 +11733,12 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="107"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation>Використовувати цю версію як версію встановленого запускачу. (надано, оскільки stdout не може бути надійно перехоплено на вікнах)</translation>
+        <translation>Використовувати цю версію як версію встановленого лаунчера. (надано, оскільки stdout не може бути надійно перехоплено на вікнах)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="108"/>
         <source>installed launcher version</source>
-        <translation>встановлена версія запускачу</translation>
+        <translation>встановлена версія лаунчера</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="109"/>
@@ -11819,7 +11819,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="266"/>
         <source>The launcher data folder is not writable!</source>
-        <translation>Тека з даними запускачу не доступна для запису!</translation>
+        <translation>Тека з даними лаунчера не доступна для запису!</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="267"/>
@@ -12279,7 +12279,7 @@ HTTP Статус: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="32"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation>Цей параметр застосовується лише до запускача. Minecraft не приймає параметри проксі-сервера.</translation>
+        <translation>Цей параметр застосовується лише до лаунчера. Minecraft не приймає параметри проксі-сервера.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
@@ -12344,7 +12344,7 @@ HTTP Статус: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="190"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>Примітка: Ім&apos;я користувача та пароля проксі-сервера зберігаються у відкритому вигляді всередині файлу конфігурації запускачу!</translation>
+        <translation>Примітка: Ім&apos;я користувача та пароля проксі-сервера зберігаються у відкритому вигляді всередині файлу конфігурації лаунчера!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="56"/>
@@ -12538,18 +12538,18 @@ Proceed with truncation?</source>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="391"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation>Зазначений файл Джава (Java) повернув неочікувані результати:&lt;br /&gt;</translation>
+        <translation>Зазначений файл Java повернув неочікувані результати:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation>Тестування Джава (Java) успішно! &lt;br /&gt; Повідомлено про платформу:%1 &lt;br /&gt; Повідомлено про версію Джава (Java):%2 &lt;br /&gt;</translation>
+        <translation>Тестування Java успішно! &lt;br /&gt; Повідомлено про платформу:%1 &lt;br /&gt; Повідомлено про версію Java:%2 &lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
         <source>Java test success</source>
-        <translation>Перевірка Джава (Java) пройшла успішно</translation>
+        <translation>Перевірка Java пройшла успішно</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="91"/>
@@ -12557,7 +12557,7 @@ Proceed with truncation?</source>
         <location filename="src/launcher/JavaCommon.cpp" line="107"/>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="410"/>
         <source>Java test failure</source>
-        <translation>Помилка тесту Джава (Java)</translation>
+        <translation>Помилка тесту Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="65"/>
@@ -12783,13 +12783,13 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/JavaCommon.cpp" line="58"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation>Ви спробували передати обов&apos;язковий аргумент версії Джава (Java) до JVM (використовуючи &quot;-version:xxx&quot;). Це небезпечно та буде заборонено.
+        <translation>Ви спробували передати обов&apos;язковий аргумент версії Java до JVM (використовуючи &quot;-version:xxx&quot;). Це небезпечно та буде заборонено.
 Це повідомлення відображатиметься, доки ви не видалите цей аргумент з параметрів JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="71"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation>Тестування Джава (Java) пройшло успішно! &lt;br /&gt; Повідомлено про платформу: %1 &lt;br /&gt; Повідомлено про версію Джава (Java): %2 &lt;br /&gt; Повідомлено про постачальника Джава (Java): %3 &lt;br /&gt;</translation>
+        <translation>Тестування Java пройшло успішно! &lt;br /&gt; Повідомлено про платформу: %1 &lt;br /&gt; Повідомлено про версію Java: %2 &lt;br /&gt; Повідомлено про постачальника Java: %3 &lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
@@ -12800,23 +12800,23 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation>Вказаний бінарний файл Джава (Java) не спрацював із наданими вами аргументами:&lt;br /&gt;</translation>
+        <translation>Вказаний бінарний файл Java не спрацював із наданими вами аргументами:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation>Вказаний бінарний файл Джава (Java) не працював.&lt;br /&gt;Вам слід натиснути «Виявити» чи встановити шлях до виконуваного файлу Джава (Java).&lt;br /&gt;</translation>
+        <translation>Вказаний бінарний файл Java не працював.&lt;br /&gt;Вам слід натиснути «Виявити» чи встановити шлях до виконуваного файлу Java.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>Вказаний двійковий файл Джава (Java) не працює. &lt;br /&gt; Вам слід скористатися функцією автоматичного виявлення або встановити шлях до виконуваного файлу Джава (Java). &lt;br /&gt;</translation>
+        <translation>Вказаний двійковий файл Java не працює. &lt;br /&gt; Вам слід скористатися функцією автоматичного виявлення або встановити шлях до виконуваного файлу Java. &lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation>Бібліотеку перевірки Джава (Java) не знайдено. Перевірте вашу інсталяцію.</translation>
+        <translation>Бібліотеку перевірки Java не знайдено. Перевірте вашу інсталяцію.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="155"/>
@@ -12980,22 +12980,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="25"/>
         <source>resource pack</source>
-        <translation>пакунок ресурсів</translation>
+        <translation>пакет ресурсів</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="26"/>
         <source>texture pack</source>
-        <translation>пакунок текстур</translation>
+        <translation>пакет текстур</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="27"/>
         <source>data pack</source>
-        <translation>пакунок даних</translation>
+        <translation>пакет даних</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"/>
         <source>shader pack</source>
-        <translation>пакунок шейдерів</translation>
+        <translation>пакет шейдерів</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="29"/>
@@ -13316,7 +13316,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>Запускач перебуває в теці, з котрої він був видобутий, тому він не може створювати ярлики.</translation>
+        <translation>Лаунчер перебуває в теці, з котрої він був видобутий, тому він не може створювати ярлики.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
@@ -13327,7 +13327,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>Запускач діє як неправильно налаштований AppImage? (змінна оточення $APPIMAGE відсутня)</translation>
+        <translation>Лаунчер діє як неправильно налаштований AppImage? (змінна оточення $APPIMAGE відсутня)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
@@ -13435,7 +13435,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data Packs</source>
         <oldsource>Data packs</oldsource>
-        <translation>Пакунки Даних</translation>
+        <translation>Пакети даних</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
@@ -13472,7 +13472,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="180"/>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>пакунки даних</translation>
+        <translation>пакети даних</translation>
     </message>
 </context>
 <context>
@@ -13481,13 +13481,13 @@ Error message: %3</source>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="37"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation>пакунки даних</translation>
+        <translation>пакети даних</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation>пакунок даних</translation>
+        <translation>пакет даних</translation>
     </message>
 </context>
 <context>
@@ -13642,7 +13642,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="127"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>пакунки ресурсів</translation>
+        <translation>пакети ресурсів</translation>
     </message>
 </context>
 <context>
@@ -13651,13 +13651,13 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="36"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation>пакунки ресурсів</translation>
+        <translation>пакети ресурсів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="38"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation>пакунок ресурсів</translation>
+        <translation>пакет ресурсів</translation>
     </message>
 </context>
 <context>
@@ -13717,7 +13717,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="272"/>
         <source>No version available for the selected pack</source>
-        <translation>Немає доступної версії для обраного пакунку</translation>
+        <translation>Немає доступної версії для обраного пакета</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="276"/>
@@ -13755,7 +13755,7 @@ Please update %1!</source>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
         <translation>Немає доступних версій для &apos;%1&apos;.
-Ймовірно, автор заблокував сторонні запускачі.</translation>
+Ймовірно, автор заблокував сторонні лаунчери.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="540"/>
@@ -13796,7 +13796,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="163"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>пакунків шейдерів</translation>
+        <translation>пакети шейдерів</translation>
     </message>
 </context>
 <context>
@@ -13805,13 +13805,13 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="36"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation>пакунки шейдерів</translation>
+        <translation>пакети шейдерів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="38"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation>пакунок шейдерів</translation>
+        <translation>пакет шейдерів</translation>
     </message>
 </context>
 <context>
@@ -13820,7 +13820,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="146"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>пакунки текстур</translation>
+        <translation>пакети текстур</translation>
     </message>
 </context>
 <context>
@@ -13829,13 +13829,13 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="38"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation>пакунки текстур</translation>
+        <translation>пакети текстур</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="40"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation>пакунок текстур</translation>
+        <translation>пакет текстур</translation>
     </message>
 </context>
 <context>
@@ -13956,7 +13956,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="158"/>
         <source>Is the resource pack enabled?</source>
-        <translation>Чи ввімкнений пакунок ресурсів?</translation>
+        <translation>Чи ввімкнений пакет ресурсів?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
@@ -13993,7 +13993,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>Ідентифікатор формату пакунку ресурсів, а також версії Minecraft, для якої він був розроблений.</translation>
+        <translation>Ідентифікатор формату пакета ресурсів, а також версії Minecraft, для якої він був розроблений.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="112"/>
@@ -14014,12 +14014,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
         <source>The source provider of the resource pack.</source>
-        <translation>Джерело пакунку ресурсів.</translation>
+        <translation>Джерело пакета ресурсів.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="169"/>
         <source>The size of the resource pack.</source>
-        <translation>Розмір пакунку ресурсів.</translation>
+        <translation>Розмір пакета ресурсів.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
@@ -14029,7 +14029,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Pack Format</source>
-        <translation>Формат Пакунку</translation>
+        <translation>Формат пакета</translation>
     </message>
     <message>
         <source>Last changed</source>
@@ -14037,12 +14037,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>Чи ввімкнено пакунок ресурсів? (Тільки для ZIP-архівів)</translation>
+        <translation>Чи ввімкнено пакет ресурсів? (Тільки для ZIP-архівів)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
         <source>The name of the resource pack.</source>
-        <translation>Назва пакунку ресурсів.</translation>
+        <translation>Назва пакета ресурсів.</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -14051,37 +14051,37 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation>Дата й час останньої зміни (чи додавання) цього пакунку ресурсів.</translation>
+        <translation>Дата й час останньої зміни (чи додавання) цього пакета ресурсів.</translation>
     </message>
 </context>
 <context>
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation>Пакунки ресурсів</translation>
+        <translation>Пакети ресурсів</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Завантажити пакунки</translation>
+        <translation>Завантажити пакети</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>Завантажити пакунки ресурсів з онлайн-платформ</translation>
+        <translation>Завантажити пакети ресурсів з онлайн-платформ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation>Завантажити Пакунки</translation>
+        <translation>Завантажити пакети</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download resource packs from online mod platforms</source>
-        <translation>Завантажити пакунки ресурсів з онлайн-платформ для модів</translation>
+        <translation>Завантажити пакети ресурсів з онлайн-платформ модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
-        <translation>Спробуйте перевірити або оновити всі вибрані пакунки ресурсів (усі пакунки ресурсів, якщо нічого не вибрано)</translation>
+        <translation>Спробуйте перевірити або оновити всі вибрані пакети ресурсів (або усі пакети ресурсів, якщо нічого не вибрано)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
@@ -14125,7 +14125,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="139"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="238"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
-        <translation>Оновлення пакунків ресурсів недоступні, коли метадані вимкнено!</translation>
+        <translation>Оновлення пакетів ресурсів недоступні, коли метадані вимкнено!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="144"/>
@@ -14137,14 +14137,14 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Оновлення пакунків ресурсів під час роботи гри може викликати дублювання пакунків і збої гри.
+        <translation>Оновлення пакетів ресурсів під час роботи гри може викликати дублювання пакетів і збої гри.
  Старі файли можуть не бути видалені, оскільки вони використовуються.
  Ви впевнені, що хочете це зробити?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="165"/>
         <source>The resource pack updater was aborted!</source>
-        <translation>Оновлення пакунку ресурсів було перервано!</translation>
+        <translation>Оновлення пакета ресурсів було перервано!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
@@ -14154,12 +14154,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="172"/>
         <source>All resource packs are up-to-date! :)</source>
-        <translation>Усі пакунки ресурсів оновлено! :)</translation>
+        <translation>Усі пакети ресурсів оновлено! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
         <source>All selected resource packs are up-to-date! :)</source>
-        <translation>Усі вибрані пакунки ресурсів оновлено! :)</translation>
+        <translation>Усі вибрані пакети ресурсів оновлено! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
@@ -14175,13 +14175,13 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="219"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
-        <translation>Ви збираєтеся видалити метадані для %1 пакунків ресурсів.
+        <translation>Ви збираєтеся видалити метадані для %1 пакетів ресурсів.
 Ви впевнені?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
-        <translation>Пакунки Ресурсів</translation>
+        <translation>Пакети ресурсів</translation>
     </message>
 </context>
 <context>
@@ -14859,7 +14859,7 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation>Пакунки шейдерів</translation>
+        <translation>Пакети шейдерів</translation>
     </message>
     <message>
         <source>Download shaders</source>
@@ -14872,22 +14872,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download Packs</source>
-        <translation>Завантажити Пакунки</translation>
+        <translation>Завантажити пакети</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
         <source>Download shader packs from online mod platforms</source>
-        <translation>Завантажити пакунки шейдерів з онлайн-платформ для модів</translation>
+        <translation>Завантажити пакети шейдерів з онлайн-платформ для модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
-        <translation>Спробуйте перевірити чи оновити всі вибрані пакунки шейдерів (усі пакунки шейдерів, якщо нічого не вибрано)</translation>
+        <translation>Спробуйте перевірити чи оновити всі вибрані пакети шейдерів (або усі пакети шейдерів, якщо нічого не вибрано)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
         <source>Change a shader pack&apos;s version.</source>
-        <translation>Змінити версію пакунку шейдерів.</translation>
+        <translation>Змінити версію пакета шейдерів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="96"/>
@@ -14926,7 +14926,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="235"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
-        <translation>Оновлення пакунків шейдерів недоступні, якщо метадані вимкнено!</translation>
+        <translation>Оновлення пакетів шейдерів недоступні, якщо метадані вимкнено!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="141"/>
@@ -14938,14 +14938,14 @@ Are you sure?</source>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Оновлення пакунків шейдерів під час роботи гри може спричинити дублювання пакунків і крах гри.
+        <translation>Оновлення пакетів шейдерів під час роботи гри може спричинити дублювання пакетів і крах гри.
 Старі файли можуть не бути видалені, оскільки вони використовуються.
 Ви впевнені, що хочете це зробити?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="162"/>
         <source>The shader pack updater was aborted!</source>
-        <translation>Оновлення пакунку шейдерів перервано!</translation>
+        <translation>Оновлення пакета шейдерів перервано!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="166"/>
@@ -14955,12 +14955,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"/>
         <source>All shader packs are up-to-date! :)</source>
-        <translation>Усі пакунки шейдерів тепер найновішої версії! :)</translation>
+        <translation>Усі пакети шейдерів тепер найновішої версії! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
         <source>All selected shader packs are up-to-date! :)</source>
-        <translation>Усі вибрані пакунки шейдерів тепер найновішої версії! :)</translation>
+        <translation>Усі вибрані пакети шейдерів тепер найновішої версії! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
@@ -14976,13 +14976,13 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="216"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation>Ви збираєтеся видалити метадані для %1 пакунків шейдерів.
+        <translation>Ви збираєтеся видалити метадані для %1 пакетів шейдерів.
 Ви впевнені?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation>Пакунки Шейдерів</translation>
+        <translation>Пакети шейдерів</translation>
     </message>
 </context>
 <context>
@@ -15417,27 +15417,27 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="44"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Завантаження пакунку модифікацій:
+        <translation>Завантаження збірки:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="49"/>
         <source>Modpack download</source>
-        <translation>Завантажити пакунки модифікацій</translation>
+        <translation>Завантаження збірки</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="64"/>
         <source>Extracting modpack</source>
-        <translation>Розпакування пакунку модифікацій</translation>
+        <translation>Розпакування збірки</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Не вдалося відкрити вибраний zip-файл пакунку модифікацій.</translation>
+        <translation>Не вдалося відкрити вибраний zip-файл збірки.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
         <source>Failed to extract modpack</source>
-        <translation>Не вдалося розпакувати пакунок модифікацій</translation>
+        <translation>Не вдалося розпакувати збірку</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="116"/>
@@ -15472,7 +15472,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="71"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="73"/>
         <source>Resolving modpack files</source>
-        <translation>Розв’язання файлів пакунку модифікацій</translation>
+        <translation>Отримання файлів збірки</translation>
     </message>
     <message>
         <source>Downloading modpack:</source>
@@ -15482,24 +15482,24 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="86"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="109"/>
         <source>Downloading modpack</source>
-        <translation>Завантаження пакунку модифікацій</translation>
+        <translation>Завантаження збірки</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Не вдалося зрозуміти маніфест пакунку:
+        <translation>Не вдалося зрозуміти маніфест пакета:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="138"/>
         <source>Extracting modpack</source>
-        <translation>Розпакування пакунку модифікацій</translation>
+        <translation>Розпакування збірки</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="181"/>
         <source>Failed to extract modpack</source>
-        <translation>Не вдалося розпакувати пакунок модифікацій</translation>
+        <translation>Не вдалося розпакувати збірку</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="202"/>
@@ -15604,13 +15604,13 @@ inheritsFrom відсутній</translation>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>Чи увімкнений пакунок текстур?</translation>
+        <translation>Чи увімкнений пакет текстур?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>Назва пакунку текстур.</translation>
+        <translation>Назва пакета текстур.</translation>
     </message>
     <message>
         <source>The version of the texture pack.</source>
@@ -15620,7 +15620,7 @@ inheritsFrom відсутній</translation>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>Дата й час останньої зміни (або додавання) цього пакунку текстур.</translation>
+        <translation>Дата й час останньої зміни (або додавання) цього пакета текстур.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
@@ -15671,12 +15671,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The source provider of the texture pack.</source>
-        <translation>Джерело пакунку ресурсів.</translation>
+        <translation>Джерело пакета текстур.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The size of the texture pack.</source>
-        <translation>Розмір пакунку текстур.</translation>
+        <translation>Розмір пакета текстур.</translation>
     </message>
     <message>
         <source>Is the resource enabled?</source>
@@ -15699,40 +15699,40 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="53"/>
         <source>Texture packs</source>
-        <translation>Пакунки текстур</translation>
+        <translation>Пакети текстур</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Завантажити пакунки</translation>
+        <translation>Завантажити пакети</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation>Завантажити пакунки текстур з онлайн-платформ</translation>
+        <translation>Завантажити пакети текстур з онлайн-платформ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download Packs</source>
-        <translation>Завантажити Пакунки</translation>
+        <translation>Завантажити пакети</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
         <source>Download texture packs from online mod platforms</source>
-        <translation>Завантажити пакунки текстур з онлайн-платформ для модів</translation>
+        <translation>Завантажити пакети текстур з онлайн-платформ для модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="59"/>
         <source>Try to check or update all selected texture packs (all texture packs if none are selected)</source>
-        <translation>Спробуйте перевірити чи оновити всі вибрані пакунки ресурсів (усі пакунки ресурсів, якщо нічого не вибрано)</translation>
+        <translation>Спробуйте перевірити чи оновити всі вибрані пакети текстур (або усі пакети текстур, якщо нічого не вибрано)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="73"/>
         <source>Change a texture pack&apos;s version.</source>
-        <translation>Змінити версію пакунку ресурсів.</translation>
+        <translation>Змінити версію пакета текстур.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="77"/>
         <source>View the homepages of all selected texture packs.</source>
-        <translation>Переглянути домашні сторінки всіх вибраних пакунків ресурсів.</translation>
+        <translation>Переглянути домашні сторінки всіх вибраних пакетів текстур.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="104"/>
@@ -15771,7 +15771,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="144"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="243"/>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
-        <translation>Оновлення пакунків ресурсів недоступні, коли метадані вимкнено!</translation>
+        <translation>Оновлення пакетів текстур недоступні, коли метадані вимкнено!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="149"/>
@@ -15783,14 +15783,14 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Оновлення пакунків ресурсів під час роботи гри може викликати дублювання пакетів і крах гри.
+        <translation>Оновлення пакетів текстур під час роботи гри може викликати дублювання пакетів і крах гри.
 Старі файли можуть не бути видалені, оскільки вони використовуються.
 Ви впевнені, що хочете це зробити?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
         <source>The texture pack updater was aborted!</source>
-        <translation>Оновлення пакунку ресурсів перервано!</translation>
+        <translation>Оновлення пакета текстур перервано!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="174"/>
@@ -15800,12 +15800,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="177"/>
         <source>All texture packs are up-to-date! :)</source>
-        <translation>Усі пакунки ресурсів тепер найновішої версії! :)</translation>
+        <translation>Усі пакети текстур тепер найновішої версії! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="179"/>
         <source>All selected texture packs are up-to-date! :)</source>
-        <translation>Усі вибрані пакунки ресурсів тепер найновішої версії! :)</translation>
+        <translation>Усі вибрані пакети текстур тепер найновішої версії! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
@@ -15821,7 +15821,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="224"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
-        <translation>Ви збираєтеся видалити метадані для %1 пакунків ресурсів.
+        <translation>Ви збираєтеся видалити метадані для %1 пакетів текстур.
 Ви впевнені?</translation>
     </message>
 </context>
@@ -16129,8 +16129,8 @@ Are you sure?</source>
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
         <translation>Максимальний обсяг виділеної пам&apos;яті перевищує підтримуване значення.
-Обрана інсталяція Джава (Java) є 32-розрядною і не підтримує понад 2048 МіБ оперативної пам&apos;яті.
-Через це збірка може не запуститися.</translation>
+Обрана інсталяція Java є 32-розрядною і не підтримує понад 2048 МіБ оперативної пам&apos;яті.
+Через це екземпляр може не запуститися.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -16141,13 +16141,13 @@ The instance may not start due to this.</source>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation>Ця збірка несумісна з версією Джава (Java) %1.
-Будь ласка, перейдіть на одну з наступних версій Джава (Java) для цієї збірки:</translation>
+        <translation>Ця збірка несумісна з версією Java %1.
+Будь ласка, перейдіть на одну з наступних версій Java для цього екземпляра:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="84"/>
         <source>Java version %1</source>
-        <translation>Версія Джава (Java) %1</translation>
+        <translation>Версія Java %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
@@ -16297,7 +16297,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="188"/>
         <source>Add Java agents.</source>
-        <translation>Додати агенти Джава (Java).</translation>
+        <translation>Додати агенти Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
@@ -16516,7 +16516,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Java agents</source>
-        <translation>Джава (Java) агенти</translation>
+        <translation>Агенти Java</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -16702,7 +16702,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
         <source>Java Name</source>
-        <translation>Ім&apos;я Джава (Java)</translation>
+        <translation>Ім&apos;я Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
@@ -16748,7 +16748,7 @@ Please add your Mojang or Minecraft account.</oldsource>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation>Альтернативна назва версії Джава (Java)</translation>
+        <translation>Альтернативна назва версії Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
@@ -16830,12 +16830,12 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="8"/>
         <source>Launcher Logs</source>
-        <translation>Звіти Запускача</translation>
+        <translation>Звіти лаунчера</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="12"/>
         <source>View Launcher Logs</source>
-        <translation>Переглянути Звіти Запускача</translation>
+        <translation>Переглянути звіти лаунчера</translation>
     </message>
 </context>
 <context>
@@ -16994,20 +16994,20 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
         <source>Data Packs</source>
-        <translation>Пакунки Даних</translation>
+        <translation>Пакети даних</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
         <source>Manage data packs inside the world.</source>
-        <translation>Керувати пакунками даних всередині світу.</translation>
+        <translation>Керувати пакетами даних всередині світу.</translation>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation>Пакунки даних</translation>
+        <translation>Пакети даних</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation>Керування пакунками даних у світі.</translation>
+        <translation>Керування пакетами даних у світі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -17107,12 +17107,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="224"/>
         <source>Manage Data Packs</source>
-        <translation>Керувати Пакунками Даних</translation>
+        <translation>Керувати пакетами даних</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="231"/>
         <source>Data packs for %1</source>
-        <translation>Пакунки даних для %1</translation>
+        <translation>Пакети даних для %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
