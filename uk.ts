@@ -2497,13 +2497,13 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="332"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>Аналіз відповіді Ядра (API) від Модринту (Modrinth) для &apos;%1&apos;...</translation>
+        <translation>Виконується обробка відповіді від API Modrinth для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="393"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="461"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Розбір відповіді Ядра (API) від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
+        <translation>Виконується обробка відповіді від API CurseForge для &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -2755,12 +2755,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="50"/>
         <source>Export Modrinth Pack</source>
-        <translation>Експорт Збірки Модринт (Modrinth)</translation>
+        <translation>Експорт збірки Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="59"/>
         <source>Export CurseForge Pack</source>
-        <translation>Експорт Збірки КерсФордж (CurseForge)</translation>
+        <translation>Експорт збірки CurseForge</translation>
     </message>
     <message>
         <source>&amp;Author</source>
@@ -2785,12 +2785,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="157"/>
         <source>Modrinth pack</source>
-        <translation>Збірка Модринт (Modrinth)</translation>
+        <translation>Збірка Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="164"/>
         <source>CurseForge pack</source>
-        <translation>Збірка КерсФордж (CurseForge)</translation>
+        <translation>Збірка CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="191"/>
@@ -3519,12 +3519,12 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="125"/>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="147"/>
         <source>Invalid data returned from the API.</source>
-        <translation>З Ядра (API) повернулись невірні данні.</translation>
+        <translation>З API повернулись невірні дані.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="256"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Обробка відповіді Ядра (API) від КерсФордж (CurseForge) для ‘%1’…</translation>
+        <translation>Обробка відповіді від API CurseForge для ‘%1’…</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -3537,7 +3537,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation>Підготовка ресурсів для КерсФордж (CurseForge)...</translation>
+        <translation>Підготовка ресурсів для CurseForge...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -3546,12 +3546,12 @@ Please try again.</source>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>Отримуємо відповідь Ядра (API) від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
+        <translation>Отримуємо відповідь від API CurseForge для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Виконується обробка відповіді Ядра (API) від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
+        <translation>Виконується обробка відповіді від API CurseForge для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="100"/>
@@ -3566,12 +3566,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="180"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Виконується обробка відповіді Ядра (API) від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
+        <translation>Виконується обробка відповіді від API CurseForge для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="184"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation>Для цього ресурсу доступна нова версія, але її неможливо завантажити за допомогою КерсФордж (CurseForge).</translation>
+        <translation>Для цього ресурсу доступна нова версія, але його неможливо завантажити за допомогою CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
@@ -3585,7 +3585,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Підготовка модів для КерсФордж (CurseForge)...</translation>
+        <translation>Підготовка модів для CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -3594,7 +3594,7 @@ Please try again.</source>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>Доступна нова версія моду, але ЇЇ не можливо завантажити через КерсФордж (CurseForge).</translation>
+        <translation>Доступна нова версія моду, але його неможливо завантажити через CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3757,7 +3757,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="410"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Привіт!&lt;/h1&gt;&lt;h4&gt;Схоже, що ID вашого Пакунка пустий. Це сталося через помилку в старших версіях запускача.&lt;br/&gt;Нажаль, ми не можемо зробити правильні запити до Ядра (API) без цієї інформації.&lt;br/&gt;&lt;br/&gt;Тож, щоби ця функція працювала правильно, треба перезавантажити збірку з вбудованого завантажувача.&lt;br/&gt;&lt;br/&gt;Але не хвилюйтеся, вас попросять оновити цю збірку, тому ви не втратите її!!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Привіт!&lt;/h1&gt;&lt;h4&gt;Схоже, що ID вашої збірки пустий. Це сталося через помилку в старіших версіях лаунчера.&lt;br/&gt;На жаль, ми не можемо зробити правильні запити до API без цієї інформації.&lt;br/&gt;&lt;br/&gt;Тож, щоби ця функція працювала правильно, треба перезавантажити збірку з вбудованого завантажувача.&lt;br/&gt;&lt;br/&gt;Але не хвилюйтеся, вас попросять оновити цю збірку, тому ви не втратите її!!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="450"/>
@@ -3772,7 +3772,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="515"/>
         <source>CurseForge pack</source>
-        <translation>Збірка КерсФордж (CurseForge)</translation>
+        <translation>Збірка CurseForge</translation>
     </message>
 </context>
 <context>
@@ -3845,12 +3845,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="219"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="282"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Розбір відповіді Ядра (API) від КерсФордж (CurseForge) для &apos;%1&apos;...</translation>
+        <translation>Виконується обробка відповіді від API CurseForge для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="239"/>
         <source>Finding project info from CurseForge...</source>
-        <translation>Знаходимо інформацію про проєкт з КерсФордж (CurseForge)...</translation>
+        <translation>Знаходимо інформацію про проєкт з CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="319"/>
@@ -3889,7 +3889,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Примітка: КерсФордж (CurseForge) дозволяє авторам блокувати доступ стороннім інструментам, як-от Prism Launcher. Тому, можливо, вам доведеться вручну завантажити деякі моди, щоб мати можливість встановити модпак.</translation>
+        <translation>Примітка: CurseForge дозволяє авторам блокувати доступ стороннім інструментам, як-от Prism Launcher. Тому, можливо, вам доведеться вручну завантажити деякі моди, щоб мати можливість встановити модпак.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -4277,7 +4277,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation>Збірка Модринт (Modrinth)</translation>
+        <translation>Збірка Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
@@ -10574,7 +10574,7 @@ Please update %1!</source>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>Версія Ядра (API) дуже стара!
+        <translation>Версія API застаріла!
 Будь ласка, поновіть %1!</translation>
     </message>
 </context>
@@ -10582,7 +10582,7 @@ Please update %1!</source>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation>Підготовка модів для Модринту (Modrinth)...</translation>
+        <translation>Підготовка модів для Modrinth...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -10591,12 +10591,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="52"/>
         <source>Preparing resources for Modrinth...</source>
-        <translation>Підготовка ресурсів для Модринту (Modrinth)...</translation>
+        <translation>Підготовка ресурсів для Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="113"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation>Обробка відповіді Ядра (API) від Модринту (Modrinth)...</translation>
+        <translation>Обробка відповіді від API Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="179"/>
@@ -10629,7 +10629,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation>Очікуємо на відповідь від Ядра (API) Модринту (Modrinth)...</translation>
+        <translation>Очікуємо на відповідь від API Modrinth...</translation>
     </message>
 </context>
 <context>
@@ -10694,7 +10694,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="246"/>
         <source>Mod Download Modrinth</source>
-        <translation>Завантаження моду з Модринту (Modrinth)</translation>
+        <translation>Завантаження моду з Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="258"/>
@@ -10758,7 +10758,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="372"/>
         <source>Modrinth pack</source>
-        <translation>Збірка Модринт (Modrinth)</translation>
+        <translation>Збірка Modrinth</translation>
     </message>
 </context>
 <context>
@@ -10931,7 +10931,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="65"/>
         <source>Modrinth</source>
-        <translation>Модринт (Modrinth)</translation>
+        <translation>Modrinth</translation>
     </message>
 </context>
 <context>
@@ -13632,7 +13632,7 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="412"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation>Версія Ядра (API) дуже стара!
+        <translation>Версія API застаріла!
 Будь ласка, оновіть %1!</translation>
     </message>
 </context>
