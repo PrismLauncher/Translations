@@ -2905,7 +2905,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ychwanegych</translation>
     </message>
     <message>
         <source>Remove selected item</source>
@@ -12620,7 +12620,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="157"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ychwanegych</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="162"/>
