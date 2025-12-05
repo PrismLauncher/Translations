@@ -1762,7 +1762,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation>Скопіювати ігрові параметри, такі як FOV, максимальна частота кадрів, тощо.</translation>
+        <translation>Скопіювати ігрові параметри, такі як FOV, максимальна частота кадрів тощо.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
@@ -1772,12 +1772,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
-        <translation>Копіювати збереження</translation>
+        <translation>Копіювати світи</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
         <source>Advanced Copy Options</source>
-        <translation>Розширене налаштування копіювання</translation>
+        <translation>Розширені налаштування копіювання</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
@@ -1792,7 +1792,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
         <source>Links are supported on most filesystems except FAT</source>
-        <translation>Покликання підтримуються більшістю файлових систем, окрім FAT</translation>
+        <translation>Посилання підтримуються більшістю файлових систем, окрім FAT</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
@@ -1807,12 +1807,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation>Якщо вибрано «копіювати збереження», дані збережень світу буде скопійовано, а не зв&apos;язано, тож вони не будуть спільними для різних збірок.</translation>
+        <translation>Якщо вибрано «копіювати світи», дані збережень світу буде скопійовано, а не зв&apos;язано, тож вони не будуть спільними для різних екземплярів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
         <source>Don&apos;t link saves</source>
-        <translation>Не пов&apos;язувати збереження</translation>
+        <translation>Не пов&apos;язувати світи</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
@@ -1843,7 +1843,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation>Файли, клоновані за допомогою посилань-клонів (reflinks), не займають додаткового місця, доки їх не буде змінено.</translation>
+        <translation>Файли, клоновані за допомогою посилань-клонів, не займають додаткового місця, доки їх не буде змінено.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
@@ -1853,7 +1853,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation>Ваша файлова система та/або ОС не підтримує посилання-клони (reflinks)</translation>
+        <translation>Ваша файлова система та/або ОС не підтримує посилання-клони</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
@@ -1888,12 +1888,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
         <source>Reflinks are supported on %1</source>
-        <translation>Посилання-клони (Reflinks) підтримуються на %1</translation>
+        <translation>Посилання-клони підтримуються на %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="98"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation>Посилання-клони (Reflinks) не підтримуються на %1</translation>
+        <translation>Посилання-клони не підтримуються на %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
@@ -1941,7 +1941,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation>Сворити Ярлик Збірки</translation>
+        <translation>Створити ярлик екземпляра</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
@@ -1961,7 +1961,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation>Використовувати обліковий запис відмінний від усталеного.</translation>
+        <translation>Використовувати обліковий запис, відмінний від усталеного.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
@@ -2042,7 +2042,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="196"/>
         <source>instance</source>
-        <translation>збірка</translation>
+        <translation>екземпляр</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="200"/>
