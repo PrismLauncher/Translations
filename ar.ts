@@ -4698,7 +4698,9 @@ Please try again.</source>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>إنك اخترت نسخة ال32 بت من الجافا
+لا تدعم هذه النسخة اكثر من 2048 ميبي بايت للذاكرة المؤقتة
+تأكد من أن احد الأقصى لاستخدام الذاكرة أقل من الحد المطلوب.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
@@ -4706,15 +4708,15 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة يتجاوز ذاكرة النظام.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة قريب من ذاكرة النظام.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة أصغر من الحد الأدنى</translation>
     </message>
 </context>
 <context>
@@ -4722,12 +4724,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="953"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت محاولة إنشاء مجلد المرحليات</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="971"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation>فشل في إيداع النموذج، حتى بعد عدة محاولات. يتم حجب العملية بسبب شيء ما.</translation>
+        <translation>فشل في إيداع النموذج، حتى بعد عدة محاولات. يتم حجب العملية بشيء ما.</translation>
     </message>
 </context>
 <context>
@@ -4735,12 +4737,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>أهلا!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="470"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>اضغط على &quot;إضافة نموذج&quot; للبدء</translation>
     </message>
 </context>
 <context>
@@ -4758,17 +4760,17 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">المشغل</translation>
+        <translation>شغّل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Kill</source>
-        <translation>ايقاف</translation>
+        <translation>إقتل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+ن</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -4786,7 +4788,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Kill the running instance</source>
-        <translation>إيقاف النموذج الحالي</translation>
+        <translation>إقتل النموذج الحالي</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -4795,7 +4797,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
         <source>Launch the instance</source>
-        <translation>تشغيل النموذج</translation>
+        <translation>شغّل النموذج</translation>
     </message>
 </context>
 <context>
@@ -4820,7 +4822,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>VisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تشغيل VisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
@@ -4833,38 +4835,38 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="36"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>جار تحميل الجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished"></translation>
+        <translation>جار استخراج الجافا</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished"></translation>
+        <translation>جار استخراج الجافا (العملية غير معلنة لأرشيفات تار)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت محاولة فتح أرشيف تار الموفر.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت محاولة استخراج أرشيف تار الموفر.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت محاولة فتح أرشيف زيب الموفر.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يعثر على أي ملف في أرشيف زيب الموفر.</translation>
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تحديد نوع الأرشيف!</translation>
     </message>
 </context>
 <context>
@@ -4872,54 +4874,54 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;حدّث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="214"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;حمّل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="215"/>
         <source>Cancel</source>
-        <translation type="unfinished">إلغاء</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="279"/>
         <source>Mojang</source>
-        <translation type="unfinished">موجانغ</translation>
+        <translation>موجانغ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="281"/>
         <source>Adoptium</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوبتيوم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="283"/>
         <source>Azul Zulu</source>
-        <translation type="unfinished"></translation>
+        <translation>أزول زولو</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="289"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="320"/>
         <source>Install Java</source>
-        <translation type="unfinished">تثبيت Java</translation>
+        <translation>تثبيت الجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">لم يتمكن تحديد نوع تحميل Java!</translation>
+        <translation>لم يتمكن تحديد نوع تحميل الجافا!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="316"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="327"/>
         <source>Error</source>
-        <translation type="unfinished">خطأ</translation>
+        <translation>خطأ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="332"/>
         <source>Abort</source>
-        <translation type="unfinished">إنهاء</translation>
+        <translation>إنهاء</translation>
     </message>
 </context>
 <context>
@@ -4927,7 +4929,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>جار تحميل الجافا</translation>
     </message>
 </context>
 <context>
@@ -4935,27 +4937,27 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>جار التحقق من مسار ثنائيات الجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>جار البحث عن مسار ثنائيات الجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم العثور على مسار ثنائيات الجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>جار جمع المجلدات إلى الوصل الرمزي</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>جار الوصل الرمزي لمسار ثنائيات جافا</translation>
     </message>
 </context>
 <context>
@@ -4974,25 +4976,25 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>الحد الأقصى للذاكرة يسمح لماينكرافت باستخدامه.</translation>
+        <translation>الحد الأقصى للذاكرة يسمح لماين كرافت باستخدامه.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="unfinished">الحد الأدنى لاستخدام الذاكرة:</translation>
+        <translation>&amp;الحد الأدنى لاستخدام الذاكرة:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="unfinished">الحد الأقصى لاستخدام الذاكرة:</translation>
+        <translation>&amp;الحد الأقصى لاستخدام الذاكرة:</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;بيرم جن:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>الذاكرة التي تستخدمها ماينكرافت عند البدء.</translation>
+        <translation>الذاكرة التي تستخدمها ماين كرافت عند البدء.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
@@ -5000,60 +5002,60 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation>Java Runtime</translation>
+        <translation>نظام تنفيذ الجافا</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>وسائط آلة جافا الافتراضية:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="unfinished"></translation>
+        <translation>يختار نسخة الجافا المتوافقة مع نموذج ماين كرافت الحالي تلقائيا, بناء على الإصدار الرئيسي المطلوب.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر نسخة الجافا تلقائيا</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="unfinished">مسار الجافا:</translation>
+        <translation>مسار الجافا:</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>يحمل ويختار نسخة الجافا المستحسنة من موجانغ تلقائيا.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل الجافا لموجانغ تلقائيا</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation type="unfinished"></translation>
+        <translation>الإدارة</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ الجافا المحملة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>التثبيتات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>التحميلات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"/>
         <source>Remove</source>
-        <translation type="unfinished">إزالة</translation>
+        <translation>إزالة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="115"/>
         <source>Refresh</source>
-        <translation type="unfinished">إنعاش</translation>
+        <translation>تحديث</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -5063,33 +5065,33 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="unfinished">الكشف‫ التلقائي...</translation>
+        <translation>&amp;الكشف‫ التلقائي...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="unfinished">اختبار</translation>
+        <translation>&amp;اختبار</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">تصفح</translation>
+        <translation>تصفح</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="unfinished"></translation>
+        <translation>عند التفعيل, لن يطالب المشغل اختيار نسخة جافا في حال عدم العثور عليها.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطى &amp;ساحر الجافا</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">عند تفعيله, لن يختبر المشغل توافق النموذج مع نسخة الجافا المختارة.</translation>
+        <translation>عند التفعيل, لن يختبر المشغل توافق النموذج مع نسخة الجافا المختارة.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;تخطى اختبارات توافق الجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -5100,13 +5102,13 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم العثور على نسخة جافا مثبتة ومدارة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تحميل قائمة نسخ جافا المدارة!</translation>
     </message>
     <message>
         <source>Select a Java version</source>
@@ -5114,55 +5116,58 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="unfinished">تأكيد الاختيار</translation>
+        <translation>تأكيد الاختيار</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>إنك اخترت نسخة ال32 بت من الجافا
+لا تدعم هذه النسخة اكثر من 2048 ميبي بايت للذاكرة المؤقتة
+تأكد من أن احد الأقصى لاستخدام الذاكرة أقل من الحد المطلوب.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>اعثر على ملف الجافا التنفيذي</translation>
+        <translation>اعثر‫ على ملف جافا التنفيذي</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة يتجاوز ذاكرة النظام.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة قريب من ذاكرة النظام.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة أصغر من الحد الأدنى</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">تأكيد الحذف</translation>
+        <translation>تأكيد الحذف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="113"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>أنت على وشك إزالة  نسخة الجافا &quot;%1&quot;.
+هل أنت متأكد؟</translation>
     </message>
 </context>
 <context>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation>لم يتم تحديد إصدار الجافا</translation>
+        <translation>لم يتم تحديد نسخة الجافا</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation type="unfinished">حمل الجافا</translation>
+        <translation>حمل الجافا</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>عثر على نسخة جافا 32 بت</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5171,7 +5176,12 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>إنك اخترت نسخة ال32 بت من الجافا, ولكنك خصصت اكثر من 2048 ميبي بايت من الذاكرة كحد أقصى.
+لن يتمكن %1 من بدء ماين كرافت.
+هل تريد الاستمرار؟
+
+يمكنك تغيير نسخة الجافا من الإعدادات لاحقا.
+</translation>
     </message>
     <message>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
@@ -5180,7 +5190,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>إنك اخترت نسخة جافا غير عملية أو أنك لم تختر أي نسخة.
+لن يتمكن %1 من بدء ماين كرافت.
+هل تريد الاستمرار بدون نسخة عملية لجافا؟
+
+يمكنك تغيير نسخة الجافا من الإعدادات لاحقا.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="228"/>
@@ -5194,7 +5209,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>الحد الأقصى للذاكرة يسمح لماينكرافت باستخدامه.</translation>
+        <translation>الحد الأقصى للذاكرة يسمح لماين كرافت باستخدامه.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
@@ -5203,17 +5218,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">شكل</translation>
+        <translation>شكل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
         <source>Java Insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>تثب&amp;يت الجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
         <source>Auto-&amp;detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر&amp; نسخة الجافا تلقائيا</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
@@ -5226,7 +5241,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="120"/>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>يحمل ويختار بنية الجافا المستحسنة من موجانغ تلقائيا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="123"/>
