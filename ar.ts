@@ -5246,72 +5246,72 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="123"/>
         <source>Auto-download &amp;Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل &amp;الجافا لموجانغ تلقائيا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>عند التفعيل, لن يطالب المشغل اختيار نسخة جافا في حال عدم العثور عليها عند البدء.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="156"/>
         <source>Skip Java setup prompt on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطى اختبار نسخة الجافا عند البدء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">عند تفعيله, لن يختبر المشغل توافق النموذج مع نسخة الجافا المختارة.</translation>
+        <translation>عند التفعيل, لن يختبر المشغل توافق النموذج مع نسخة الجافا المختارة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
         <source>&amp;Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;كشف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
         <source>&amp;Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;تصفح</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
         <source>Test S&amp;ettings</source>
-        <translation type="unfinished"></translation>
+        <translation>اختبر ال%إعدادات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
         <source>Open Java &amp;Downloader</source>
-        <translation type="unfinished"></translation>
+        <translation>افتح محمل &amp;الجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished">تخطي اختبارات توافق الجافا</translation>
+        <translation>تخطى اختبارات توافق الجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>تنفيذي ال&amp;جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">ال&amp;ذاكرة</translation>
+        <translation>ال&amp;ذاكرة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="345"/>
         <source>Memory Notice</source>
-        <translation type="unfinished"></translation>
+        <translation>تنبيه الذاكرة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
         <source>(-XX:PermSize)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-XX:PermSize)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="260"/>
         <source>(-Xmx)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xmx)</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
@@ -5320,17 +5320,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>الذاكرة التي تستخدمها ماينكرافت عند البدأ.</translation>
+        <translation>الذاكرة التي تستخدمها ماين كرافت عند البدء.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="295"/>
         <source>&amp;PermGen Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;حجم بيرم جين:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="305"/>
         <source>(-Xms)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xms)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
@@ -5358,57 +5358,57 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">تحميل الجافا لموجانغ تلقائيا</translation>
+        <translation>تحميل الجافا لموجانغ تلقائيا</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="unfinished">اختر نسخة الجافا تلقائيا</translation>
+        <translation>اختر نسخة الجافا تلقائيا</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation>كشف التلقائي للجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
         <source>Select a Java version</source>
-        <translation type="unfinished">اختر إصدار الجافا</translation>
+        <translation>اختر إصدار الجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished">تأكيد الاختيار</translation>
+        <translation>تأكيد الاختيار</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="278"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">إنك اخترت نسخة ال32 بت من الجافا
+        <translation>إنك اخترت نسخة ال32 بت من الجافا
 لا تدعم هذه النسخة اكثر من 2048 ميبي بايت للذاكرة المؤقتة
 تأكد من أن احد الأقصى لاستخدام الذاكرة أقل من الحد المطلوب.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="296"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">الحد الأقصى لاستخدام الذاكرة يتجاوز ذاكرة النظام.</translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة يتجاوز ذاكرة النظام.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="299"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة قريب من ذاكرة النظام.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة اقل من الحد الأدنى.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished">الحد الأقصى لاستخدام الذاكرة قريب من ذاكرة النظام.</translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة قريب من ذاكرة النظام.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">الحد الأقصى لاستخدام الذاكرة أصغر من الحد الأدنى</translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة أصغر من الحد الأدنى</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
