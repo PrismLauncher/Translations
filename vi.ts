@@ -5817,22 +5817,22 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
         <translation>Tài khoản nào mà bạn muốn sử dụng?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="198"/>
+        <location filename="src/launcher/LaunchController.cpp" line="205"/>
         <source>No account selected for launch.</source>
         <translation>Không có tài khoản nào được chọn để chạy.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="322"/>
+        <location filename="src/launcher/LaunchController.cpp" line="329"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
         <translation>Mã định danh máy khách của trình khởi chạy đã thay đổi. Vui lòng xóa &apos;%1&apos; và thử lại.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="332"/>
+        <location filename="src/launcher/LaunchController.cpp" line="339"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>&apos;%1&apos; không còn tồn tại trên máy chủ nữa. Có thể nó đã được di chuyển, trong trường hợp đó, vui lòng thêm tài khoản mới mà bạn đã di chuyển tài khoản này sang.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="349"/>
+        <location filename="src/launcher/LaunchController.cpp" line="356"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation>&apos;%1&quot; đã hết hạn và cần xác minh lại. Bạn có muốn xác minh lại tài khoản này không?</translation>
     </message>
@@ -5841,32 +5841,32 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
         <translation type="vanished">Tài khoản của bạn hiện giờ chưa được đăng nhập. Hãy nhập mật khẩu của bạn để đăng nhập lại. &lt;br /&gt; &lt;br /&gt; Điều này có thể gây nên bởi việc thay đổi mật khẩu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="215"/>
+        <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Continue launch?</source>
         <translation>Tiếp tục chạy ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="216"/>
+        <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Có vẻ như game không thể khởi động sau %1 lần. Bạn có muốn tiếp tục không?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="163"/>
+        <location filename="src/launcher/LaunchController.cpp" line="167"/>
         <source>Player name</source>
         <translation>Tên người chơi</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="154"/>
+        <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>Choose your offline mode player name.</source>
         <translation>Chọn tên người chơi ngoại tuyến của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="156"/>
+        <location filename="src/launcher/LaunchController.cpp" line="160"/>
         <source>Choose your demo mode player name.</source>
         <translation>Chọn tên người chơi cho chế độ demo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="284"/>
+        <location filename="src/launcher/LaunchController.cpp" line="291"/>
         <source>Received undetermined session status during login.</source>
         <translation>Đã nhận được trạng thái phiên không xác định trong khi đăng nhập.</translation>
     </message>
@@ -5897,7 +5897,7 @@ Bạn có muốn chơi bản demo không?</translation>
         <translation>Huỷ</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="251"/>
+        <location filename="src/launcher/LaunchController.cpp" line="258"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Hủy bỏ khởi động - tài khoản không sở hữu Minecraft.</translation>
     </message>
@@ -5910,7 +5910,7 @@ Bạn có muốn chơi bản demo không?</translation>
         <translation>Phiên đăng nhập tài khoản đã hết hạn và cần được đăng nhập lại thủ công.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="348"/>
+        <location filename="src/launcher/LaunchController.cpp" line="355"/>
         <source>Account refresh failed</source>
         <translation>Làm mới tài khoản thất bại</translation>
     </message>
@@ -5919,7 +5919,7 @@ Bạn có muốn chơi bản demo không?</translation>
         <translation>Phát hiện thay đổi tài khoản. Hãy gỡ tài khoản hiện tại rồi thêm lại.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="325"/>
+        <location filename="src/launcher/LaunchController.cpp" line="332"/>
         <source>Client identification changed</source>
         <translation>Đã thay đổi tài khoản</translation>
     </message>
@@ -5928,12 +5928,12 @@ Bạn có muốn chơi bản demo không?</translation>
         <translation>Tài khoản không còn tồn tại trên máy chủ. Nó có thể đã được di chuyển sang tài khoản khác, trong trường hợp đó, vui lòng thêm tài khoản mới mà bạn đã di chuyển tài khoản này vào.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="335"/>
+        <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>Account gone</source>
         <translation>Tài khoản đã biến mất</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="342"/>
+        <location filename="src/launcher/LaunchController.cpp" line="349"/>
         <source>Failed to launch.</source>
         <translation>Thất bại trong việc khởi động.</translation>
     </message>
@@ -5946,34 +5946,34 @@ Bạn có muốn chơi bản demo không?</translation>
         <translation type="vanished">Tài khoản quá hạn và đăng nhập lại không thành công</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="373"/>
+        <location filename="src/launcher/LaunchController.cpp" line="380"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>Tài khoản đã quá hạn và cần được xác thực lại</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="383"/>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Error!</source>
         <translation>Lỗi!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="383"/>
-        <location filename="src/launcher/LaunchController.cpp" line="384"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="391"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Không thể tải lên hồ sơ phiên bản.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="397"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Không thể khởi tạo trình khởi chạy.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Kiểm tra hồ sơ cho %1 thất bại: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="460"/>
         <source>&amp;Launch</source>
         <translation>&amp;Khởi Chạy</translation>
     </message>
@@ -5982,7 +5982,7 @@ Bạn có muốn chơi bản demo không?</translation>
         <translation type="vanished">Không thể khởi động profiler: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="447"/>
+        <location filename="src/launcher/LaunchController.cpp" line="454"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5991,7 +5991,7 @@ Bạn có muốn chơi bản demo không?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="451"/>
+        <location filename="src/launcher/LaunchController.cpp" line="458"/>
         <source>Waiting.</source>
         <translation>Đang chờ.</translation>
     </message>
@@ -6000,28 +6000,28 @@ Bạn có muốn chơi bản demo không?</translation>
         <translation type="vanished">Chạy</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="459"/>
+        <location filename="src/launcher/LaunchController.cpp" line="466"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Không thể khởi động profiler: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="460"/>
+        <location filename="src/launcher/LaunchController.cpp" line="467"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="305"/>
-        <location filename="src/launcher/LaunchController.cpp" line="487"/>
+        <location filename="src/launcher/LaunchController.cpp" line="312"/>
+        <location filename="src/launcher/LaunchController.cpp" line="494"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="500"/>
+        <location filename="src/launcher/LaunchController.cpp" line="507"/>
         <source>Kill Minecraft?</source>
         <translation>Tắt Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="501"/>
+        <location filename="src/launcher/LaunchController.cpp" line="508"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Điều này có thể khiến phiên bản bị hỏng và chỉ nên được sử dụng nếu Minecraft bị đứng hình vì lý do nào đó</translation>
     </message>

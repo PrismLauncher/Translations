@@ -5417,27 +5417,27 @@ You can change the Java version in the settings later.
         <translation>Які ўліковы запіс вы хаціце выкарыстоўваць?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="198"/>
+        <location filename="src/launcher/LaunchController.cpp" line="205"/>
         <source>No account selected for launch.</source>
         <translation>Не абраны ўліковы запіс для запуску.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="163"/>
+        <location filename="src/launcher/LaunchController.cpp" line="167"/>
         <source>Player name</source>
         <translation>Нік гульца</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="154"/>
+        <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>Choose your offline mode player name.</source>
         <translation>Выберыце нік гульца для па-за сеткавага рэжыму.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="156"/>
+        <location filename="src/launcher/LaunchController.cpp" line="160"/>
         <source>Choose your demo mode player name.</source>
         <translation>Выберыце ваш нік у дэмаверсіі.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="284"/>
+        <location filename="src/launcher/LaunchController.cpp" line="291"/>
         <source>Received undetermined session status during login.</source>
         <translation>Атрыманы невядомы статус падчас увахода.</translation>
     </message>
@@ -5468,7 +5468,7 @@ Do you want to play the demo?</source>
         <translation>Адхіліць</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="251"/>
+        <location filename="src/launcher/LaunchController.cpp" line="258"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Запуск скасаваны: уліковы запіс не валодае Minecraft.</translation>
     </message>
@@ -5481,7 +5481,7 @@ Do you want to play the demo?</source>
         <translation>Тэрмін дзеяння ўліковага запісу скончыўся, трэба зноў зайсці ў сістэму.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="348"/>
+        <location filename="src/launcher/LaunchController.cpp" line="355"/>
         <source>Account refresh failed</source>
         <translation>Абнаўленне ўліковага запісу не атрымалася</translation>
     </message>
@@ -5490,49 +5490,49 @@ Do you want to play the demo?</source>
         <translation>Уліковы запіс не існуе на серверах. Мабыць, яна была перанесена, у гэтым выпадку, дадайце новы ўліковы запіс на якую вы перайшлі.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="335"/>
+        <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>Account gone</source>
         <translation>Уліковы запіс знік</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="342"/>
+        <location filename="src/launcher/LaunchController.cpp" line="349"/>
         <source>Failed to launch.</source>
         <translation>Не атрымалася запусціць.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="373"/>
+        <location filename="src/launcher/LaunchController.cpp" line="380"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>Тэрмін дзеяння ўліковага запісу скончыўся і патрабуе паўторнай аўтэнтыфікацыі</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="383"/>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Error!</source>
         <translation>Памылка!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="383"/>
-        <location filename="src/launcher/LaunchController.cpp" line="384"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="391"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Не атрымалася загрузіць профіль зборкі.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="397"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Не атрымалася запусціць лаўнчар.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Праверка прафайлераў для %1 не атрымалася: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="460"/>
         <source>&amp;Launch</source>
         <translation>&amp;Запусціць</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="447"/>
+        <location filename="src/launcher/LaunchController.cpp" line="454"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5541,17 +5541,17 @@ Do you want to play the demo?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="332"/>
+        <location filename="src/launcher/LaunchController.cpp" line="339"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>&apos;%1&apos; больш не існуе на серверах. Магчыма, ён быў перанесены, у такім выпадку дадайце новы ўліковы запіс, у які вы перанеслі гэты.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="349"/>
+        <location filename="src/launcher/LaunchController.cpp" line="356"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation>Тэрмін дзеяння «%1» скончыўся і патрабуе паўторнай аўтэнтыфікацыі. Вы жадаеце паўторна аўтэнтыфікаваць гэты ўліковы запіс?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="451"/>
+        <location filename="src/launcher/LaunchController.cpp" line="458"/>
         <source>Waiting.</source>
         <translation>Чакаем.</translation>
     </message>
@@ -5560,28 +5560,28 @@ Do you want to play the demo?</source>
         <translation type="obsolete">Запусьціць</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="459"/>
+        <location filename="src/launcher/LaunchController.cpp" line="466"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Не атрымалася запусціць прафайлер: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="460"/>
+        <location filename="src/launcher/LaunchController.cpp" line="467"/>
         <source>Error</source>
         <translation>Памылка</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="305"/>
-        <location filename="src/launcher/LaunchController.cpp" line="487"/>
+        <location filename="src/launcher/LaunchController.cpp" line="312"/>
+        <location filename="src/launcher/LaunchController.cpp" line="494"/>
         <source>Abort</source>
         <translation>Спыніць</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="500"/>
+        <location filename="src/launcher/LaunchController.cpp" line="507"/>
         <source>Kill Minecraft?</source>
         <translation>Спыніць Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="501"/>
+        <location filename="src/launcher/LaunchController.cpp" line="508"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Гэта можа прывесці да парушэнняў працаздольнасці гульні. Выкарыстоўвайце толькі калі Minecraft не адказвае па якой-небудзь прычыне</translation>
     </message>
@@ -5590,22 +5590,22 @@ Do you want to play the demo?</source>
         <translation>Ідэнтыфікацыя лаўнчара змянілася. Калі ласка, выдаліце гэты ўліковы запіс і дадайце яго зноў.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="215"/>
+        <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Continue launch?</source>
         <translation>Працягнуць запуск?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="216"/>
+        <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Здаецца, не атрымалася запусціцца нават пасля %1 спроб. Паспрабаваць яшчэ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="322"/>
+        <location filename="src/launcher/LaunchController.cpp" line="329"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
         <translation>Ідэнтыфікацыя кліента праграмы запуску змянілася. Калі ласка, выдаліце &quot;%1&quot; і паўтарыце спробу.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="325"/>
+        <location filename="src/launcher/LaunchController.cpp" line="332"/>
         <source>Client identification changed</source>
         <translation>Ідэнтыфікацыя кліента зменена</translation>
     </message>

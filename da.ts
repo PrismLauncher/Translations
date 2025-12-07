@@ -5747,22 +5747,22 @@ Du kan ændre Java versionen i indstillingerne senere.
         <translation>Hvilken konto vil du gerne bruge?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="198"/>
+        <location filename="src/launcher/LaunchController.cpp" line="205"/>
         <source>No account selected for launch.</source>
         <translation>Ingen konto valgt for start.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="322"/>
+        <location filename="src/launcher/LaunchController.cpp" line="329"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
         <translation>Launcheren&apos;s klient identifikation er ændret. Fjern venligst &apos;%1&apos; og prøv igen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="332"/>
+        <location filename="src/launcher/LaunchController.cpp" line="339"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>&apos;%1&apos; findes ikke længere på serverne. Det kan være blevet migreret, i så fald skal du tilføje den nye konto, du migrerede denne til.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="349"/>
+        <location filename="src/launcher/LaunchController.cpp" line="356"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation>&apos;%1&apos; er udløbet og skal godkendes igen. Vil du gengodkende denne konto?</translation>
     </message>
@@ -5771,32 +5771,32 @@ Du kan ændre Java versionen i indstillingerne senere.
         <translation type="vanished">Din konto er ikke logget ind. Indtast venligst dit adgangskode for at logge ind igen.&lt;br/&gt;&lt;br/&gt;Dette kan skyldes, at adgangskoden er ændret.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="215"/>
+        <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Continue launch?</source>
         <translation>Vil du fortsætte start?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="216"/>
+        <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Det ser ud til at vi ikke kunne starte efter %1 forsøg. Vil du fortsætte med at prøve?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="163"/>
+        <location filename="src/launcher/LaunchController.cpp" line="167"/>
         <source>Player name</source>
         <translation>Spillernavn</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="154"/>
+        <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>Choose your offline mode player name.</source>
         <translation>Vælg et spillernavn til offline tilstand.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="156"/>
+        <location filename="src/launcher/LaunchController.cpp" line="160"/>
         <source>Choose your demo mode player name.</source>
         <translation>Vælg dit spiller navn i demotilstand.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="284"/>
+        <location filename="src/launcher/LaunchController.cpp" line="291"/>
         <source>Received undetermined session status during login.</source>
         <translation>Modtog uafklaret sessionsstatus under login.</translation>
     </message>
@@ -5827,7 +5827,7 @@ Vil du spille demoen?</translation>
         <translation>Annuller</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="251"/>
+        <location filename="src/launcher/LaunchController.cpp" line="258"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Start annulleret - kontoen ejer ikke Minecraft.</translation>
     </message>
@@ -5840,7 +5840,7 @@ Vil du spille demoen?</translation>
         <translation>Kontoen er udløbet og skal logges på manuelt igen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="348"/>
+        <location filename="src/launcher/LaunchController.cpp" line="355"/>
         <source>Account refresh failed</source>
         <translation>Kontoopdatering mislykkedes</translation>
     </message>
@@ -5849,7 +5849,7 @@ Vil du spille demoen?</translation>
         <translation>Klientidentifikation er ændret. Fjern venligst denne konto, og tilføj den igen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="325"/>
+        <location filename="src/launcher/LaunchController.cpp" line="332"/>
         <source>Client identification changed</source>
         <translation>Klient identifikation ændret</translation>
     </message>
@@ -5858,12 +5858,12 @@ Vil du spille demoen?</translation>
         <translation>Kontoen findes ikke længere på serverne. Den kan være blevet migreret, i så fald bedes du tilføje den nye konto, du har migreret denne konto til.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="335"/>
+        <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>Account gone</source>
         <translation>Kontoen er væk</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="342"/>
+        <location filename="src/launcher/LaunchController.cpp" line="349"/>
         <source>Failed to launch.</source>
         <translation>Opstart mislykkedes.</translation>
     </message>
@@ -5876,34 +5876,34 @@ Vil du spille demoen?</translation>
         <translation type="vanished">Kontoen er udløbet og forsøg på at logge på igen mislykkedes</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="373"/>
+        <location filename="src/launcher/LaunchController.cpp" line="380"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>Kontoen er udløbet og skal godkendes igen</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="383"/>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Error!</source>
         <translation>Fejl!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="383"/>
-        <location filename="src/launcher/LaunchController.cpp" line="384"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="391"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Kunne ikke hente instansprofilen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="397"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Kunne ikke instantiere en launcher.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Profil kontrol for %1 mislykkedes: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="460"/>
         <source>&amp;Launch</source>
         <translation>&amp;Start</translation>
     </message>
@@ -5912,7 +5912,7 @@ Vil du spille demoen?</translation>
         <translation type="vanished">Kunne ikke starte profilering: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="447"/>
+        <location filename="src/launcher/LaunchController.cpp" line="454"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5921,7 +5921,7 @@ Vil du spille demoen?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="451"/>
+        <location filename="src/launcher/LaunchController.cpp" line="458"/>
         <source>Waiting.</source>
         <translation>Venter.</translation>
     </message>
@@ -5930,28 +5930,28 @@ Vil du spille demoen?</translation>
         <translation type="vanished">Start</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="459"/>
+        <location filename="src/launcher/LaunchController.cpp" line="466"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Kunne ikke starte profileringen: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="460"/>
+        <location filename="src/launcher/LaunchController.cpp" line="467"/>
         <source>Error</source>
         <translation>Fejl</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="305"/>
-        <location filename="src/launcher/LaunchController.cpp" line="487"/>
+        <location filename="src/launcher/LaunchController.cpp" line="312"/>
+        <location filename="src/launcher/LaunchController.cpp" line="494"/>
         <source>Abort</source>
         <translation>Afbryd</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="500"/>
+        <location filename="src/launcher/LaunchController.cpp" line="507"/>
         <source>Kill Minecraft?</source>
         <translation>Dræb Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="501"/>
+        <location filename="src/launcher/LaunchController.cpp" line="508"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Dette kan ødelægge instansen og bør kun gøres, hvis Minecraft af en eller anden grund er frosset</translation>
     </message>

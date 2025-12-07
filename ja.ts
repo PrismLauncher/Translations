@@ -5788,22 +5788,22 @@ Javaのバージョンは後で設定で変更できます。
         <translation>どのアカウントを利用しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="198"/>
+        <location filename="src/launcher/LaunchController.cpp" line="205"/>
         <source>No account selected for launch.</source>
         <translation>起動用のアカウントが選択されていません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="322"/>
+        <location filename="src/launcher/LaunchController.cpp" line="329"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
         <translation>ランチャーのクライアントIDが変更されました。&apos;%1&apos;を削除して再試行してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="332"/>
+        <location filename="src/launcher/LaunchController.cpp" line="339"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>&apos;%1&apos;はサーバー上に存在しません。移行された可能性があります。その場合は、移行先の新しいアカウントを追加してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="349"/>
+        <location filename="src/launcher/LaunchController.cpp" line="356"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation>&apos;%1&apos;は有効期限が切れているため再認証が必要です。このアカウントを再認証しますか？</translation>
     </message>
@@ -5812,32 +5812,32 @@ Javaのバージョンは後で設定で変更できます。
         <translation type="vanished">アカウントにログインしていません。パスワードを入力してログインし直してください。&lt;br /&gt; &lt;br /&gt;これはパスワードの変更などで発生します。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="215"/>
+        <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Continue launch?</source>
         <translation>起動を続行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="216"/>
+        <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>%1 回試行しましたが、起動できませんでした。試行を続行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="163"/>
+        <location filename="src/launcher/LaunchController.cpp" line="167"/>
         <source>Player name</source>
         <translation>プレイヤー名</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="154"/>
+        <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>Choose your offline mode player name.</source>
         <translation>オフラインモードでのプレイヤー名を入力してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="156"/>
+        <location filename="src/launcher/LaunchController.cpp" line="160"/>
         <source>Choose your demo mode player name.</source>
         <translation>デモモードでのプレイヤー名を入力してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="284"/>
+        <location filename="src/launcher/LaunchController.cpp" line="291"/>
         <source>Received undetermined session status during login.</source>
         <translation>ログイン中に不明のセッションステータスを受信しました。</translation>
     </message>
@@ -5868,7 +5868,7 @@ Do you want to play the demo?</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="251"/>
+        <location filename="src/launcher/LaunchController.cpp" line="258"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>起動が中止されました - アカウントがMinecraftを所有していません。</translation>
     </message>
@@ -5881,7 +5881,7 @@ Do you want to play the demo?</source>
         <translation>アカウントの有効期限が切れたため、手動でログインし直す必要があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="348"/>
+        <location filename="src/launcher/LaunchController.cpp" line="355"/>
         <source>Account refresh failed</source>
         <translation>アカウントの更新に失敗</translation>
     </message>
@@ -5890,7 +5890,7 @@ Do you want to play the demo?</source>
         <translation>ランチャーのクライアント認証が変更されました。このアカウントを削除し、追加しなおしてください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="325"/>
+        <location filename="src/launcher/LaunchController.cpp" line="332"/>
         <source>Client identification changed</source>
         <translation>クライアント認証が変更されました</translation>
     </message>
@@ -5899,12 +5899,12 @@ Do you want to play the demo?</source>
         <translation>このアカウントはもうサーバーに存在しません。 移行された可能性があります。この場合、移行したアカウントを追加してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="335"/>
+        <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>Account gone</source>
         <translation>アカウントが削除されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="342"/>
+        <location filename="src/launcher/LaunchController.cpp" line="349"/>
         <source>Failed to launch.</source>
         <translation>起動に失敗しました。</translation>
     </message>
@@ -5917,34 +5917,34 @@ Do you want to play the demo?</source>
         <translation type="vanished">アカウントの有効期限が切れており，再ログインにも失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="373"/>
+        <location filename="src/launcher/LaunchController.cpp" line="380"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>アカウントの有効期限が切れたため、再認証が必要です</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="383"/>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Error!</source>
         <translation>エラー！</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="383"/>
-        <location filename="src/launcher/LaunchController.cpp" line="384"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="391"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>起動構成のプロファイルをロードできませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="397"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>ランチャーを起動構成にできませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>%1 のプロファイラチェックが失敗しました：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="460"/>
         <source>&amp;Launch</source>
         <translation>起動(&amp;L)</translation>
     </message>
@@ -5953,7 +5953,7 @@ Do you want to play the demo?</source>
         <translation type="vanished">プロファイラを開始できませんでした: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="447"/>
+        <location filename="src/launcher/LaunchController.cpp" line="454"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5962,7 +5962,7 @@ Do you want to play the demo?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="451"/>
+        <location filename="src/launcher/LaunchController.cpp" line="458"/>
         <source>Waiting.</source>
         <translation>待機中。</translation>
     </message>
@@ -5971,28 +5971,28 @@ Do you want to play the demo?</source>
         <translation type="vanished">起動</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="459"/>
+        <location filename="src/launcher/LaunchController.cpp" line="466"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>プロファイラを開始できませんでした：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="460"/>
+        <location filename="src/launcher/LaunchController.cpp" line="467"/>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="305"/>
-        <location filename="src/launcher/LaunchController.cpp" line="487"/>
+        <location filename="src/launcher/LaunchController.cpp" line="312"/>
+        <location filename="src/launcher/LaunchController.cpp" line="494"/>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="500"/>
+        <location filename="src/launcher/LaunchController.cpp" line="507"/>
         <source>Kill Minecraft?</source>
         <translation>Minecraftを強制終了しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="501"/>
+        <location filename="src/launcher/LaunchController.cpp" line="508"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>これは起動構成の破損を引き起こす可能性があるので、Minecraftがフリーズした場合にのみ使用してください</translation>
     </message>

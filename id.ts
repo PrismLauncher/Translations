@@ -5788,22 +5788,22 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
         <translation>Akun mana yang ingin anda gunakan?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="198"/>
+        <location filename="src/launcher/LaunchController.cpp" line="205"/>
         <source>No account selected for launch.</source>
         <translation>Tidak ada akun terpilih yang akan digunakan untuk menjalankan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="322"/>
+        <location filename="src/launcher/LaunchController.cpp" line="329"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
         <translation>Identifikasi dari peluncur klien telah berubah. Tolong hapus&apos;%1&apos; dan coba lagi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="332"/>
+        <location filename="src/launcher/LaunchController.cpp" line="339"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>&apos;%1&apos; sudah tidak ada lagi di server. Mungkin sudah dipindah, jika benar tolong tambahkan akun baru yang telah kamu pindahkan dari sini.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="349"/>
+        <location filename="src/launcher/LaunchController.cpp" line="356"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation>&apos;%1&apos; sudah kadaluarsa dan memerlukan autentikasi ulang. Apakah anda ingin mengautentikasikan ulang akun ini?</translation>
     </message>
@@ -5812,32 +5812,32 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
         <translation type="vanished">Anda saat ini belum masuk kedalam akun anda. Mohon masukkan password anda untuk masuk sekali lagi&lt;br /&gt;&lt;br /&gt; Hal ini bisa disebabkan oleh perubahan password.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="215"/>
+        <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Continue launch?</source>
         <translation>Lanjutkan peluncuran?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="216"/>
+        <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Sepertinya kita tidak dapat meluncurkan setelah %1 percobaan. Apakah Anda ingin tetap mencoba?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="163"/>
+        <location filename="src/launcher/LaunchController.cpp" line="167"/>
         <source>Player name</source>
         <translation>Nama Pemain</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="154"/>
+        <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>Choose your offline mode player name.</source>
         <translation>Pilih nama offline karakter Anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="156"/>
+        <location filename="src/launcher/LaunchController.cpp" line="160"/>
         <source>Choose your demo mode player name.</source>
         <translation>Pilih nama pemain mode demo Anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="284"/>
+        <location filename="src/launcher/LaunchController.cpp" line="291"/>
         <source>Received undetermined session status during login.</source>
         <translation>Menerima status sesi yang tidak diketahui selama proses masuk.</translation>
     </message>
@@ -5868,7 +5868,7 @@ Apakah Anda ingin memainkan demo?</translation>
         <translation>Batal</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="251"/>
+        <location filename="src/launcher/LaunchController.cpp" line="258"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Peluncuran dibatalkan - akun tidak memiliki Minecraft.</translation>
     </message>
@@ -5881,7 +5881,7 @@ Apakah Anda ingin memainkan demo?</translation>
         <translation>Sesi akun ini telah kedaluwarsa dan harus dimasukkan kembali secara manual.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="348"/>
+        <location filename="src/launcher/LaunchController.cpp" line="355"/>
         <source>Account refresh failed</source>
         <translation>Penyegaran akun gagal</translation>
     </message>
@@ -5890,7 +5890,7 @@ Apakah Anda ingin memainkan demo?</translation>
         <translation>Identifikasi klien peluncur telah berubah. Mohon hapus dan tambahkan kembali akun ini.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="325"/>
+        <location filename="src/launcher/LaunchController.cpp" line="332"/>
         <source>Client identification changed</source>
         <translation>Identifikasi klien telah berubah</translation>
     </message>
@@ -5899,12 +5899,12 @@ Apakah Anda ingin memainkan demo?</translation>
         <translation>Akun ini tidak lagi ada di server. Akun tersebut mungkin telah dimigrasikan, dalam kasus ini mohon tambahkan akun baru yang Anda migrasikan ke.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="335"/>
+        <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>Account gone</source>
         <translation>Akun hilang</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="342"/>
+        <location filename="src/launcher/LaunchController.cpp" line="349"/>
         <source>Failed to launch.</source>
         <translation>Gagal menjalankan.</translation>
     </message>
@@ -5917,34 +5917,34 @@ Apakah Anda ingin memainkan demo?</translation>
         <translation type="vanished">Akun telah kedaluwarsa dan percobaan masuk ulang gagal</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="373"/>
+        <location filename="src/launcher/LaunchController.cpp" line="380"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>Akun telah kedaluwarsa dan harus diautentikasi ulang</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="383"/>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Error!</source>
         <translation>Error!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="383"/>
-        <location filename="src/launcher/LaunchController.cpp" line="384"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="391"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Tidak dapat memuat profil instansi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="397"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Tidak dapat memulai instansi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Pengecekan pemrofil untuk %1 gagal: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="460"/>
         <source>&amp;Launch</source>
         <translation>Ja&amp;lankan</translation>
     </message>
@@ -5953,7 +5953,7 @@ Apakah Anda ingin memainkan demo?</translation>
         <translation type="vanished">Tidak dapat memulai profiler: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="447"/>
+        <location filename="src/launcher/LaunchController.cpp" line="454"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5962,7 +5962,7 @@ Apakah Anda ingin memainkan demo?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="451"/>
+        <location filename="src/launcher/LaunchController.cpp" line="458"/>
         <source>Waiting.</source>
         <translation>Menunggu.</translation>
     </message>
@@ -5971,28 +5971,28 @@ Apakah Anda ingin memainkan demo?</translation>
         <translation type="vanished">Jalankan</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="459"/>
+        <location filename="src/launcher/LaunchController.cpp" line="466"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Tidak dapat memulai profiler: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="460"/>
+        <location filename="src/launcher/LaunchController.cpp" line="467"/>
         <source>Error</source>
         <translation>Kesalahan</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="305"/>
-        <location filename="src/launcher/LaunchController.cpp" line="487"/>
+        <location filename="src/launcher/LaunchController.cpp" line="312"/>
+        <location filename="src/launcher/LaunchController.cpp" line="494"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="500"/>
+        <location filename="src/launcher/LaunchController.cpp" line="507"/>
         <source>Kill Minecraft?</source>
         <translation>Matikan Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="501"/>
+        <location filename="src/launcher/LaunchController.cpp" line="508"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Hal ini dapat menyababkan instansi menjadi rusak dan sebaiknya hanya digunakan jika Minecraft beku untuk suatu alasan</translation>
     </message>

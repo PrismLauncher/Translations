@@ -5920,22 +5920,22 @@ A Java verziót később a beállítások között megváltoztathatod.
         <translation>Melyik fiókot szeretnéd használni?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="198"/>
+        <location filename="src/launcher/LaunchController.cpp" line="205"/>
         <source>No account selected for launch.</source>
         <translation>Nincs kiválasztott fiók az indításhoz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="322"/>
+        <location filename="src/launcher/LaunchController.cpp" line="329"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
         <translation>A launcher ügyfél-azonosítója megváltozott. Távolítsd el a következőt: &quot;%1&quot;, és próbáld meg újra.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="332"/>
+        <location filename="src/launcher/LaunchController.cpp" line="339"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>&quot;%1&quot; már nem létezik a szervereken. Lehet, hogy át lett migrálva, ebben az esetben add hozzá az új fiókot, ahová átmigráltad ezt a fiókot.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="349"/>
+        <location filename="src/launcher/LaunchController.cpp" line="356"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation>&quot;%1&quot; lejárt, és újra kell hitelesíteni. Szeretnéd újra hitelesíteni ezt a fiókot?</translation>
     </message>
@@ -5944,32 +5944,32 @@ A Java verziót később a beállítások között megváltoztathatod.
         <translation type="vanished">A fiőkod nincs bejelentkezve. Írjad be a jelszavad hogy újra belépjél. &lt;br /&gt; &lt;br /&gt; Ezt lehet hogy egy jelszó váltás okozta.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="215"/>
+        <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Continue launch?</source>
         <translation>Folytatod az indítást?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="216"/>
+        <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Úgy tűnik, hogy %1 próbálkozás után se tudtuk elindítani. Szeretnéd folytatni a próbálkozást?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="163"/>
+        <location filename="src/launcher/LaunchController.cpp" line="167"/>
         <source>Player name</source>
         <translation>Játékos név</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="154"/>
+        <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>Choose your offline mode player name.</source>
         <translation>Válaszd ki az offline módos játékos nevedet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="156"/>
+        <location filename="src/launcher/LaunchController.cpp" line="160"/>
         <source>Choose your demo mode player name.</source>
         <translation>Válaszd ki a demo mód játékos nevét.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="284"/>
+        <location filename="src/launcher/LaunchController.cpp" line="291"/>
         <source>Received undetermined session status during login.</source>
         <translation>A bejelentkezés során meghatározatlan munkamenet állapot érkezett be.</translation>
     </message>
@@ -6000,7 +6000,7 @@ Szeretnél játszani a demóval?</translation>
         <translation>Mégsem</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="251"/>
+        <location filename="src/launcher/LaunchController.cpp" line="258"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Az indítás megszakítva – a fiók nem rendelkezik Minecrafttal.</translation>
     </message>
@@ -6013,7 +6013,7 @@ Szeretnél játszani a demóval?</translation>
         <translation>A fiók lejárt, és manuálisan újra be kell jelentkezni.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="348"/>
+        <location filename="src/launcher/LaunchController.cpp" line="355"/>
         <source>Account refresh failed</source>
         <translation>A fiók frissítése nem sikerült</translation>
     </message>
@@ -6022,7 +6022,7 @@ Szeretnél játszani a demóval?</translation>
         <translation>A launcher ügyfél-azonosítója megváltozott. Távolítsd el ezt a fiókot, és add hozzá újra.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="325"/>
+        <location filename="src/launcher/LaunchController.cpp" line="332"/>
         <source>Client identification changed</source>
         <translation>Az ügyfélazonosító megváltozott</translation>
     </message>
@@ -6031,12 +6031,12 @@ Szeretnél játszani a demóval?</translation>
         <translation>A fiók már nem létezik a szervereken. Lehet, hogy át lett migrálva, ebben az esetben add hozzá az új fiókot, amelyre átmigráltad ezt a fiókot.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="335"/>
+        <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>Account gone</source>
         <translation>A fiók eltűnt</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="342"/>
+        <location filename="src/launcher/LaunchController.cpp" line="349"/>
         <source>Failed to launch.</source>
         <translation>Indítás sikertelen.</translation>
     </message>
@@ -6049,34 +6049,34 @@ Szeretnél játszani a demóval?</translation>
         <translation type="vanished">A fiók lejárt, és az újrabejelentkezési kísérlet sikertelen volt</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="373"/>
+        <location filename="src/launcher/LaunchController.cpp" line="380"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>A fiók lejárt, és újra kell hitelesíteni</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="383"/>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Error!</source>
         <translation>Hiba!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="383"/>
-        <location filename="src/launcher/LaunchController.cpp" line="384"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="391"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Nem sikerült betölteni a példány profilt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="397"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Nem sikerült megnyitni a launchert.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>%1 profilellenőrzése sikertelen: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="460"/>
         <source>&amp;Launch</source>
         <translation>Indítás</translation>
     </message>
@@ -6085,7 +6085,7 @@ Szeretnél játszani a demóval?</translation>
         <translation type="vanished">Nem sikerült elindítani a profilert: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="447"/>
+        <location filename="src/launcher/LaunchController.cpp" line="454"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -6094,7 +6094,7 @@ Szeretnél játszani a demóval?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="451"/>
+        <location filename="src/launcher/LaunchController.cpp" line="458"/>
         <source>Waiting.</source>
         <translation>Várakozás.</translation>
     </message>
@@ -6103,28 +6103,28 @@ Szeretnél játszani a demóval?</translation>
         <translation type="vanished">Indítás</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="459"/>
+        <location filename="src/launcher/LaunchController.cpp" line="466"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Nem sikerült elindítani a profilert: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="460"/>
+        <location filename="src/launcher/LaunchController.cpp" line="467"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="305"/>
-        <location filename="src/launcher/LaunchController.cpp" line="487"/>
+        <location filename="src/launcher/LaunchController.cpp" line="312"/>
+        <location filename="src/launcher/LaunchController.cpp" line="494"/>
         <source>Abort</source>
         <translation>Megszakítás</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="500"/>
+        <location filename="src/launcher/LaunchController.cpp" line="507"/>
         <source>Kill Minecraft?</source>
         <translation>Minecraft megszakítása?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="501"/>
+        <location filename="src/launcher/LaunchController.cpp" line="508"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Ez a példány sérülését okozhatja, és csak akkor szabad használni, ha a Minecraft valamilyen okból kifolyólag lefagyott</translation>
     </message>

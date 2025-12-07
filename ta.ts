@@ -5130,27 +5130,27 @@ You can change the Java version in the settings later.
         <translation>எந்த கணக்கைப் பயன்படுத்த விரும்புகிறீர்கள்?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="198"/>
+        <location filename="src/launcher/LaunchController.cpp" line="205"/>
         <source>No account selected for launch.</source>
         <translation>துவக்க எந்த கணக்கு தேர்ந்தெடுக்கப்படவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="163"/>
+        <location filename="src/launcher/LaunchController.cpp" line="167"/>
         <source>Player name</source>
         <translation>வீரர் பெயர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="154"/>
+        <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>Choose your offline mode player name.</source>
         <translation>உங்கள் இணைப்பில்லாத பயன்முறை வீரர் பெயரைத் தேர்வுசெய்க.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="156"/>
+        <location filename="src/launcher/LaunchController.cpp" line="160"/>
         <source>Choose your demo mode player name.</source>
         <translation>உங்கள் டெமோ பயன்முறை பிளேயர் பெயரைத் தேர்வுசெய்க.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="284"/>
+        <location filename="src/launcher/LaunchController.cpp" line="291"/>
         <source>Received undetermined session status during login.</source>
         <translation>உள்நுழைவின் போது தீர்மானிக்கப்படாத அமர்வு நிலையைப் பெற்றது.</translation>
     </message>
@@ -5181,7 +5181,7 @@ Do you want to play the demo?</source>
         <translation>ரத்துசெய்</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="251"/>
+        <location filename="src/launcher/LaunchController.cpp" line="258"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>ஏவுதல் ரத்து செய்யப்பட்டது - கணக்கில் Minecraft இல்லை.</translation>
     </message>
@@ -5190,17 +5190,17 @@ Do you want to play the demo?</source>
         <translation>ஆஃப்லைனில் விளையாடுங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="322"/>
+        <location filename="src/launcher/LaunchController.cpp" line="329"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
         <translation>துவக்கியின் கிளையன்ட் அடையாளம் மாறிவிட்டது. தயவுசெய்து &apos;%1&apos; ஐ அகற்றி மீண்டும் முயற்சிக்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="332"/>
+        <location filename="src/launcher/LaunchController.cpp" line="339"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>&apos;%1&apos; இனி சேவையகங்களில் இல்லை. இது இடம்பெயர்ந்திருக்கலாம், இந்த விசயத்தில் நீங்கள் இதை இடம்பெயர்ந்த புதிய கணக்கைச் சேர்க்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="348"/>
+        <location filename="src/launcher/LaunchController.cpp" line="355"/>
         <source>Account refresh failed</source>
         <translation>கணக்கு புதுப்பிப்பு தோல்வியடைந்தது</translation>
     </message>
@@ -5209,12 +5209,12 @@ Do you want to play the demo?</source>
         <translation>கணக்கு இனி சேவையகங்களில் இல்லை. இது இடம்பெயர்ந்திருக்கலாம், இந்த விசயத்தில் நீங்கள் இதை இடம்பெயர்ந்த புதிய கணக்கைச் சேர்க்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="335"/>
+        <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>Account gone</source>
         <translation>கணக்கு போய்விட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="342"/>
+        <location filename="src/launcher/LaunchController.cpp" line="349"/>
         <source>Failed to launch.</source>
         <translation>தொடங்கத் தவறிவிட்டது.</translation>
     </message>
@@ -5227,39 +5227,39 @@ Do you want to play the demo?</source>
         <translation type="vanished">கணக்கு காலாவதியானது மற்றும் மறு உள்நுழைவு முயற்சி தோல்வியடைந்தது</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="373"/>
+        <location filename="src/launcher/LaunchController.cpp" line="380"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation>கணக்கு காலாவதியானது மற்றும் மறு ஏற்பு பெற வேண்டும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="383"/>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Error!</source>
         <translation>பிழை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="383"/>
-        <location filename="src/launcher/LaunchController.cpp" line="384"/>
+        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="391"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>நிகழ்வு சுயவிவரத்தை ஏற்ற முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="397"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>ஒரு துவக்கியை உடனடிப்படுத்த முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="440"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>%1 க்கான சுயவிவர சோதனை தோல்வியுற்றது: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="460"/>
         <source>&amp;Launch</source>
         <translation>&amp; ஏவுதல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="447"/>
+        <location filename="src/launcher/LaunchController.cpp" line="454"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5268,38 +5268,38 @@ Do you want to play the demo?</source>
  %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="349"/>
+        <location filename="src/launcher/LaunchController.cpp" line="356"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation>&apos;%1&apos; காலாவதியானது மற்றும் மறு ஏற்பு பெற வேண்டும். இந்த கணக்கை மீண்டும் அங்கீகரிக்க விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="451"/>
+        <location filename="src/launcher/LaunchController.cpp" line="458"/>
         <source>Waiting.</source>
         <translation>காத்திருக்கிறது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="459"/>
+        <location filename="src/launcher/LaunchController.cpp" line="466"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>சுயவிவரத்தைத் தொடங்க முடியவில்லை: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="460"/>
+        <location filename="src/launcher/LaunchController.cpp" line="467"/>
         <source>Error</source>
         <translation>பிழை</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="305"/>
-        <location filename="src/launcher/LaunchController.cpp" line="487"/>
+        <location filename="src/launcher/LaunchController.cpp" line="312"/>
+        <location filename="src/launcher/LaunchController.cpp" line="494"/>
         <source>Abort</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="500"/>
+        <location filename="src/launcher/LaunchController.cpp" line="507"/>
         <source>Kill Minecraft?</source>
         <translation>மின்கிராஃப்டைக் கொல்லவா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="501"/>
+        <location filename="src/launcher/LaunchController.cpp" line="508"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>இது சான்று சிதைவதற்கு காரணமாக இருக்கலாம், மேலும் சில காரணங்களால் Minecraft உறைந்திருந்தால் மட்டுமே பயன்படுத்தப்பட வேண்டும்</translation>
     </message>
@@ -5308,17 +5308,17 @@ Do you want to play the demo?</source>
         <translation>துவக்கியின் கிளையன்ட் அடையாளம் மாறிவிட்டது. தயவுசெய்து இந்த கணக்கை அகற்றி மீண்டும் சேர்க்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="215"/>
+        <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Continue launch?</source>
         <translation>தொடங்கத் தொடரவா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="216"/>
+        <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>%1 முயற்சிகளுக்குப் பிறகு எங்களால் தொடங்க முடியவில்லை என்று தெரிகிறது. நீங்கள் தொடர்ந்து முயற்சி செய்ய விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="325"/>
+        <location filename="src/launcher/LaunchController.cpp" line="332"/>
         <source>Client identification changed</source>
         <translation>வாடிக்கையாளர் அடையாளம் மாற்றப்பட்டது</translation>
     </message>
