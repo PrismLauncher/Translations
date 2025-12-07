@@ -4747,7 +4747,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation>Налаштування Консоли</translation>
+        <translation>Налаштування &amp;консолі</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
@@ -4762,7 +4762,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>Показувати вікно консоли, якщо гра зазнає краху</translation>
+        <translation>Показувати вікно консолі, якщо гра зазнає краху</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
@@ -4987,7 +4987,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
         <source>Console window for </source>
-        <translation>Вікно консоли для </translation>
+        <translation>Вікно консолі для </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
@@ -6576,7 +6576,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Console Settings</source>
-        <translation>Налаштування Консоли</translation>
+        <translation>Налаштування консолі</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
@@ -6591,7 +6591,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>Показувати вікно консоли, коли гра зазнає краху</translation>
+        <translation>Показувати вікно консолі, коли гра зазнає краху</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
@@ -6612,7 +6612,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>&amp;Шрифт консоли</translation>
+        <translation>&amp;Шрифт консолі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -9399,22 +9399,22 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="222"/>
         <source>&amp;Console Window</source>
-        <translation>Вікно Консоли</translation>
+        <translation>Вікно консолі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="234"/>
         <source>When the game is launched, show the console window</source>
-        <translation>Показувати вікно консоли по запуску гри</translation>
+        <translation>Показувати вікно консолі по запуску гри</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="241"/>
         <source>When the game crashes, show the console window</source>
-        <translation>Показувати вікно консоли по зазнанню краху грою</translation>
+        <translation>Показувати вікно консолі за зазнання краху грою</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="248"/>
         <source>When the game quits, hide the console window</source>
-        <translation>Показувати вікно консоли по закриттю гри</translation>
+        <translation>Показувати вікно консолі по закриттю гри</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="258"/>
