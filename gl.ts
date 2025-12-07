@@ -4586,11 +4586,11 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Pecha o launcher despois de que se abra a ventá do xogo</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sal do launcher despois de que se peche a ventá do xogo</translation>
     </message>
     <message>
         <source>Custom commands</source>
@@ -4598,7 +4598,7 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Variábeis de entorno</translation>
     </message>
     <message>
         <source>Workarounds</source>
@@ -4622,15 +4622,15 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation type="unfinished"></translation>
+        <translation>Mundo de un xogador</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobrescribir conta por defecto</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished"></translation>
+        <translation>Conta:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -4642,7 +4642,7 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendimento</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -5070,21 +5070,21 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Xestión</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versións de Java descargadas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalacións</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"/>
@@ -5113,11 +5113,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se está activado, o launcher non che pedirá que escollas unha versión de Java se non atopa ningunha.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
@@ -5125,7 +5125,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se está activado, o launcher non comprabará se unha instancia é compatíbel coa versión de java seleccionada.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
@@ -5155,7 +5155,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar selección</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
@@ -5169,15 +5169,15 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>A túa asignación máxima de memoria sobrepasa a capacidade de memoria do sistema.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>A túa asignación máxima de memoria achégase á capacidade de memoria do teu sistema.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>A túa asignación máxima de memoria é máis pequena que o valor mínimo permitido</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -6317,12 +6317,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="158"/>
         <source>Downloads Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta de descargas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"/>
         <source>Java Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorio de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
