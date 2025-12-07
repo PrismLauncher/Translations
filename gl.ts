@@ -3726,7 +3726,7 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="319"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Engadindo arquivos...</translation>
     </message>
 </context>
 <context>
@@ -5054,7 +5054,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Autodetectar versión de Java</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
@@ -6095,7 +6095,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ferramentas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
@@ -12237,7 +12237,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="112"/>
         <source>Network error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Error de rede: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="117"/>
