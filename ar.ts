@@ -1008,9 +1008,9 @@ Some versions of Minecraft may not launch.
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
         <translation>ملف &quot;/tmp&quot; الخاص بك مركب حاليا مع العلم &apos;noexec&apos; مفعل
-بعض النسخ من ماينكرافت قد لا تعمل
+بعض النسخ من ماين كرافت قد لا تعمل
 
-لتصليحها يمكنك اعادة تركيب /tmp في وضع &apos;exec&apos; او تغير اعدادات JVM الخاصة بـjava.io.tmpdir الى ملف اخر بإمكانك الكتابة فيه ومع وضعية &apos;exec&apos; معفلة (مثال: /home/user/.local/tmp)
+لتصليحها يمكنك إعادة تركيب /tmp في وضع &apos;exec&apos; أو تغير وسائط الآلة الإفتراضية للجافا الخاصة بـjava.io.tmpdir إلى ملف آخر بإمكانك الكتابة فيه ومع وضعية &apos;exec&apos; مفعلة (مثال: /home/user/.local/tmp)
 </translation>
     </message>
     <message>
@@ -2032,7 +2032,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;أوامر قبل التشغيل يتم تنفيذها قبل تشغيل البرنامج و أوامر بعد الإغلاق تعمل بعد الإغلاق&lt;/p&gt;&lt;p&gt;كلاهما ستعمل في مجلد عمل المشغل مع متغيرات بيئة إضافية:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - إسم الحالة&lt;/li&gt;&lt;li&gt;$INST_ID - ID الخاص بالحالة (هو اسم المجلد)&lt;/li&gt;&lt;li&gt;$INST_DIR -المسار المطلق للحالة&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - المسار الحتمي لماين كرافت&lt;/li&gt;&lt;li&gt;$INST_JAVA -جافا باينيري المستخدمة ل launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - تعليمات سطر الأوامر المستخدمة للتشغيل (تحذير: لن يعمل بشكل صحيح إذا كان الأمر تحتوي على مسافات)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;يسمح أمر Wrapper بالتشغيل باستخدام برنامج غلاف إضافي (مثل &quot;optirun&quot; على اللينكس)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;أوامر قبل التشغيل يتم تنفيذها قبل تشغيل البرنامج و أوامر بعد الإغلاق تعمل بعد الإغلاق&lt;/p&gt;&lt;p&gt;كلاهما ستعمل في مجلد عمل المشغل مع متغيرات بيئة إضافية:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - إسم الحالة&lt;/li&gt;&lt;li&gt;$INST_ID - ID الخاص بالحالة (هو اسم المجلد)&lt;/li&gt;&lt;li&gt;$INST_DIR -المسار المطلق للحالة&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - المسار الحتمي لماين كرافت&lt;/li&gt;&lt;li&gt;$INST_JAVA -جافا باينيري المستخدمة ل launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - تعليمات سطر الأوامر المستخدمة للتشغيل (تحذير: لن يعمل بشكل صحيح إذا كانت الوسائط تحتوي على مسافات)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;يسمح أمر Wrapper بالتشغيل باستخدام برنامج غلاف إضافي (مثل &quot;optirun&quot; على لينكس)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -4998,7 +4998,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>الذاكرة المتوفرة لتخزين كائنات جافا المحمّلة.</translation>
+        <translation>الذاكرة المتوفرة لتخزين كائنات الجافا المحمّلة.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
@@ -5335,17 +5335,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>Ma&amp;ximum Memory Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="322"/>
         <source>M&amp;inimum Memory Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأدنى لاستخدام الذاكرة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
         <source>Java Argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>مدخلا&amp;ت‫ الجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="210"/>
@@ -5412,7 +5412,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>إنك تتخطى الحد الأقصى المدعوم من قبل نسخ ال32 بت للجافا.</translation>
     </message>
 </context>
 <context>
@@ -5426,7 +5426,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>يرجى اختيار مقدار الذاكرة التي يراد تخصيصها للنماذج، وإذا كان ينبغي أن يدير مشغل بريسم جافا تلقائيا أو يدويا.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -5442,12 +5442,12 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation type="unfinished">حمل الجافا</translation>
+        <translation>حمل الجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished">عثر على نسخة جافا 32 بت</translation>
+        <translation>عثر على نسخة جافا 32 بت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
@@ -5457,7 +5457,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">إنك اخترت نسخة ال32 بت من الجافا, ولكنك خصصت اكثر من 2048 ميبي بايت من الذاكرة كحد أقصى.
+        <translation>إنك اخترت نسخة ال32 بت من الجافا, ولكنك خصصت اكثر من 2048 ميبي بايت من الذاكرة كحد أقصى.
 لن يتمكن %1 من بدء ماين كرافت.
 هل تريد الاستمرار؟
 
@@ -5467,7 +5467,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
         <source>No Java version selected</source>
-        <translation type="unfinished">لم يتم تحديد إصدار الجافا</translation>
+        <translation>لم يتم تحديد نسخة الجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
@@ -5477,7 +5477,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">إنك اخترت نسخة جافا غير عملية أو أنك لم تختر أي نسخة.
+        <translation>إنك اخترت نسخة جافا غير عملية أو أنك لم تختر أي نسخة.
 لن يتمكن %1 من بدء ماين كرافت.
 هل تريد الاستمرار بدون نسخة عملية لجافا؟
 
@@ -5487,77 +5487,77 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="353"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>اعثر‫ على ملف جافا التنفيذي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>Memory</source>
-        <translation type="unfinished">الذاكرة</translation>
+        <translation>الذاكرة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى للذاكرة يسمح لماين كرافت باستخدامه.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">الحد الأدنى لاستخدام الذاكرة:</translation>
+        <translation>الحد الأدنى لاستخدام الذاكرة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">الحد الأقصى لاستخدام الذاكرة:</translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="499"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
+        <translation>الذاكرة التي تستخدمها ماين كرافت عند البدء.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>الذاكرة المتوفرة لتخزين كائنات الجافا المحمّلة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
         <source>Browse</source>
-        <translation type="unfinished">تصفح</translation>
+        <translation>تصفح</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">تحميل الجافا لموجانغ تلقائيا</translation>
+        <translation>تحميل الجافا لموجانغ تلقائيا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
         <source>Auto-detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر نسخة الجافا تلقائيا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished">كشف التلقائي للجافا</translation>
+        <translation>كشف التلقائي للجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">الحد الأقصى لاستخدام الذاكرة يتجاوز ذاكرة النظام.</translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة يتجاوز ذاكرة النظام.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished">الحد الأقصى لاستخدام الذاكرة قريب من ذاكرة النظام.</translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة قريب من ذاكرة النظام.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="521"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">الحد الأقصى لاستخدام الذاكرة أصغر من الحد الأدنى</translation>
+        <translation>الحد الأقصى لاستخدام الذاكرة أصغر من الحد الأدنى</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>إنك تتخطى الحد الأقصى المدعوم من قبل نسخ ال32 بت للجافا.</translation>
     </message>
 </context>
 <context>
@@ -5578,7 +5578,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم لغة النظام</translation>
     </message>
 </context>
 <context>
@@ -5591,7 +5591,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
         <source>Select the language to use in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر اللغة المراد استخدامها في %1</translation>
     </message>
 </context>
 <context>
@@ -5604,28 +5604,28 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="76"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تعيين وسائط جافا غير صالحة. يرجى إصلاحها أولا.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="93"/>
         <source>No Accounts</source>
-        <translation>لا حسابات متوفرة</translation>
+        <translation>لا تتوفر حسابات</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="94"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>للعب ماين كرافت, يجب عليك أن توفر حساب مايكروسوفت مالك لماين كرافت. هل تريد أن تفتح مدير الحسابات لضيف حسابا الآن؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="120"/>
         <source>Which account would you like to use?</source>
-        <translation type="unfinished"></translation>
+        <translation>أي حساب تريد أن تستخدم؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="205"/>
         <source>No account selected for launch.</source>
-        <translation>لا يوجد حساب محدد.</translation>
+        <translation>لا يوجد حساب محدد للتشغيل.</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -5634,7 +5634,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>هل تريد متابعة التشغيل؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
