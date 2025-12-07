@@ -1214,7 +1214,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>لا يوجد إصدار متوفر حاليا لماين كرافت 1%</translation>
+        <translation>لا يوجد إصدار متوفر حاليا لماين كرافت %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
@@ -1292,7 +1292,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>Unknown account task state: %1</source>
-        <translation>حالة مهمة الحساب المجهول: 1%</translation>
+        <translation>حالة مهمة الحساب المجهول: %1</translation>
     </message>
 </context>
 <context>
@@ -2137,7 +2137,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>لا يوجد إصدارات متوفرة حاليا لماين كرافت 1%</translation>
+        <translation>لا يوجد إصدارات متوفرة حاليا لماين كرافت %1</translation>
     </message>
 </context>
 <context>
@@ -2155,7 +2155,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="54"/>
         <source>Copying %1…</source>
-        <translation>جاري نسخ 1%…</translation>
+        <translation>جاري نسخ %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="66"/>
@@ -2417,12 +2417,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
         <source>Requesting metadata information from %1...</source>
-        <translation>جاري طلب معلومات بيانات التعريف من 1%...</translation>
+        <translation>جاري طلب معلومات بيانات التعريف من %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>جاري طلب معلومات بيانات التعرفي من 1% من اجل &apos;2%&apos;...</translation>
+        <translation>جاري طلب معلومات بيانات التعريفية من %1 من اجل &apos;%2&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
@@ -3081,7 +3081,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="348"/>
         <source> (%1 installed)</source>
-        <translation> .(1% مُثبت)</translation>
+        <translation> (1% مُثبت)</translation>
     </message>
 </context>
 <context>
@@ -3370,7 +3370,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="110"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="126"/>
         <source>Minecraft %1</source>
-        <translation>ماين كرافت 1%</translation>
+        <translation>ماين كرافت %1</translation>
     </message>
 </context>
 <context>
@@ -3424,12 +3424,12 @@ Please try again.</source>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>جار استدعاء رد واجهة التطبيق من كورس فورج ل&apos;1%&apos;...</translation>
+        <translation>جار استدعاء رد واجهة التطبيق من كورس فورج ل&apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>تحليل رد واجهة التطبيق من كورس فورج ل&apos;1%&apos;...</translation>
+        <translation>تحليل رد واجهة التطبيق من كورس فورج ل&apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="100"/>
@@ -4230,7 +4230,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="44"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>لا يوجد إصدار متوفر حاليا لماين كرافت 1%</translation>
+        <translation>لا يوجد إصدار متوفر حاليا لماين كرافت %1</translation>
     </message>
 </context>
 <context>
@@ -5639,7 +5639,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>لم نتمكن من التشغيل بعد %1 محاولات. هل تريد الاستمرار بالتكرار؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="167"/>
@@ -5654,7 +5654,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="160"/>
         <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر اسم اللاعب للوضع التجريبي.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="291"/>
@@ -5664,7 +5664,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="138"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>العب الوضع التجريبي؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="140"/>
@@ -5672,36 +5672,39 @@ You can change the Java version in the settings later.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يملك هذا الحساب ماين كرافت.
+يجب عليك أن تشتري اللعبة أولا.
+
+هل تريد لعب النسخة التجريبية؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="143"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>العب الوضع التجريبي</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="144"/>
         <source>Cancel</source>
-        <translation type="unfinished">إلغاء</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="258"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم إلغاء التشغيل - الحساب لا يملك ماين كرافت.</translation>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation>اللعب دون اتصال</translation>
+        <translation>العب من دون اتصال</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="329"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تغيير تعريف العميل للمشغل. يرجى إزالة ’%1’ وإعادة المحاولة.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="339"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation>’%1’لم يعد موجودا على الخوادم. يحتمل أن تم نقله, في هذا الحال يجب عليك إضافة حساب جديد الذي نقلت هذا إليه.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="355"/>
@@ -8303,7 +8306,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1047"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">ماين كرافت 1%</translation>
+        <translation>ماين كرافت %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1052"/>
@@ -9371,7 +9374,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;1%&apos; محدث! :)</translation>
+        <translation>&apos;1%&apos; محدث! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="72"/>
@@ -12933,7 +12936,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;1%&apos; محدث! :)</translation>
+        <translation>&apos;1%&apos; محدث! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="172"/>
@@ -13678,7 +13681,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="166"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;1%&apos; محدث! :)</translation>
+        <translation>&apos;1%&apos; محدث! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"/>
@@ -14463,7 +14466,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="174"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;1%&apos; محدث! :)</translation>
+        <translation>&apos;1%&apos; محدث! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="177"/>
@@ -15856,7 +15859,7 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>XBox user authentication failed: %1</source>
-        <translation>فشلت مصادقة مستخدم XBox:1%</translation>
+        <translation>فشلت مصادقة مستخدم إكس بوكس:%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
