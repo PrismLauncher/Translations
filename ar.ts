@@ -12256,7 +12256,7 @@ Error message: %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="119"/>
         <source> for %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12390,7 +12390,7 @@ Are you sure you want to close this dialog?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="394"/>
         <source>Change %1 version</source>
         <translation type="unfinished">تغيير الإصدار %1</translation>
     </message>

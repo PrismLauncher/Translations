@@ -13438,7 +13438,7 @@ Error message: %3</source>
         <translation>Пакети даних</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="119"/>
         <source> for %1</source>
         <translation> для %1</translation>
     </message>
@@ -13581,7 +13581,7 @@ Are you sure you want to close this dialog?</source>
         <translation>Перевірка залежностей....</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="394"/>
         <source>Change %1 version</source>
         <translation>Змінити версію %1</translation>
     </message>

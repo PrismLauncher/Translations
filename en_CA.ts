@@ -12499,7 +12499,7 @@ Error message: %3</translation>
         <translation>Data Packs</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="119"/>
         <source> for %1</source>
         <translation> for %1</translation>
     </message>
@@ -12642,7 +12642,7 @@ Are you sure you want to close this dialogue?</translation>
         <translation>Checking for dependencies...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="394"/>
         <source>Change %1 version</source>
         <translation>Change %1 version</translation>
     </message>

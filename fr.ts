@@ -13651,7 +13651,7 @@ Message d&apos;erreur&#xa0;: %3</translation>
         <translation>Packs de données</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="119"/>
         <source> for %1</source>
         <translation> pour %1</translation>
     </message>
@@ -13794,7 +13794,7 @@ Are you sure you want to close this dialog?</source>
         <translation>Vérification des dépendances...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="394"/>
         <source>Change %1 version</source>
         <translation>Change %1 version</translation>
     </message>

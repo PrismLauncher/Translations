@@ -13601,7 +13601,7 @@ Chybová hláška: %3</translation>
         <translation>Datové balíčky</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="119"/>
         <source> for %1</source>
         <translation> pro %1</translation>
     </message>
@@ -13744,7 +13744,7 @@ Opravdu chcete zavřít tuto nabídku?</translation>
         <translation>Kontrola závislostí...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="394"/>
         <source>Change %1 version</source>
         <translation>Změnit verzi %1</translation>
     </message>

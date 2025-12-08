@@ -11396,7 +11396,7 @@ Error message: %3</source>
         <translation type="unfinished">தரவுப் பொதிகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="119"/>
         <source> for %1</source>
         <translation> %1 க்கு</translation>
     </message>
@@ -11531,7 +11531,7 @@ Are you sure you want to close this dialog?</source>
         <translation>சார்புகளைச் சரிபார்க்கிறது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="394"/>
         <source>Change %1 version</source>
         <translation>%1 பதிப்பை மாற்றவும்</translation>
     </message>

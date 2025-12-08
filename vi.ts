@@ -12940,7 +12940,7 @@ Tin nhắn báo lỗi: %3</translation>
         <translation>Các gói dữ liệu</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="119"/>
         <source> for %1</source>
         <translation> cho %1</translation>
     </message>
@@ -13083,7 +13083,7 @@ Bạn có chắc là muốn đóng cửa sổ này không?</translation>
         <translation>Đang kiểm tra các phần phụ thuộc...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="394"/>
         <source>Change %1 version</source>
         <translation>Thay đổi phiên bản của %1</translation>
     </message>

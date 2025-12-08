@@ -13568,7 +13568,7 @@ Hata mesajı: %3</translation>
         <translation>Veri paketleri</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="119"/>
         <source> for %1</source>
         <translation> için 1%</translation>
     </message>
@@ -13711,7 +13711,7 @@ Bu iletişim kutusunu kapatmak istediğinizden emin misiniz?</translation>
         <translation>Bağlılıklar kontrol ediliyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="394"/>
         <source>Change %1 version</source>
         <translation>%1 sürümünü değiştir</translation>
     </message>

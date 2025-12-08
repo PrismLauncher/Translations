@@ -13711,7 +13711,7 @@ Fehlermeldung: %3</translation>
         <translation>Datenpakete</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="143"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="119"/>
         <source> for %1</source>
         <translation> für %1</translation>
     </message>
@@ -13854,7 +13854,7 @@ Bist du dir sicher, dass du diesen Dialog schließen möchtest?</translation>
         <translation>Überprüfen von möglichen Abhängigkeiten...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="394"/>
         <source>Change %1 version</source>
         <translation>%1 Version ändern</translation>
     </message>
