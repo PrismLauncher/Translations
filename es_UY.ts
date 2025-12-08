@@ -10850,14 +10850,14 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="308"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="305"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation type="unfinished">No se puede mostrar este registro ya que su largo ha superado las %1 lineas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="397"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="438"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="435"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -10876,17 +10876,17 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
         <translation>El archivo (%1) no es legible.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="330"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="382"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="379"/>
         <source>Confirm Deletion</source>
         <translation>Confirmar eliminación</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="383"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="380"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -10897,17 +10897,17 @@ Esto puede ser permanente desaparecerá de la carpeta de registros.
 ¿Estas seguro?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="408"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="405"/>
         <source>Confirm Cleanup</source>
         <translation>Confirmar limpieza</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="407"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>¿Estás seguro de que quieres eliminar todos los archivos de registro?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="413"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>¿Estás seguro de que quieres eliminar estos archivos?
@@ -10918,7 +10918,7 @@ Esto puede ser permanente desaparecerá de la carpeta de registros.
         <translation type="vanished">¿Quieres borrar %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="394"/>
         <source>Unable to delete %1: %2</source>
         <translation>Imposible borrar %1: %2</translation>
     </message>
@@ -10937,12 +10937,12 @@ Esto puede ser permanente desaparecerá de la carpeta de registros.
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="440"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="437"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>¡No se pudieron eliminar algunos archivos!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="443"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="440"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>No se pudo eliminar algunos archivos:
