@@ -93,7 +93,7 @@
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>הזנה של מזהה לקוח בשביל Microsoft נעשת כאן.</translation>
+        <translation>נא למלא כאן מזהה לקוח עבור Microsoft Authentication.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
@@ -106,11 +106,11 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>הזנה של טוקן API בשביל Modrinth נעשת כאן.</translation>
+        <translation>נא למלא כאן אסימון API מותאם אישית עבור Modrinth.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(שום דבר)</translation>
+        <translation>(ללא)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
@@ -123,7 +123,7 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>הזנה של מזהה לקוח GUID בשביל Technic נעשת כאן.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -137,7 +137,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>הזנה של User Agent נעשת כאן. המחרוזת המיוחדת $LAUNCHER_VER תוחלף עם גרסת המפעיל.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -175,7 +175,7 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>הקש כאן מפתח API מותאם אישית בשביל קורספורג&apos;.</translation>
+        <translation>נא למלא כאן מַפְתח API מותאם אישיית עבור CurseForge.</translation>
     </message>
     <message>
         <source>APIs</source>
@@ -283,7 +283,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="815"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>הקבצים הבאים אינם זמינים להורדה בלאנצ&apos;רים צד שלישי.&lt;br/&gt;תצטרך להוריד אותם באופן ידני ולהוסיף אותם למופע (גרסא).</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="871"/>
@@ -726,7 +726,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>בבקשה הקש את השם משתמש ברצונך להוסיף לחשבון הלא מכוון שלך.</translation>
+        <translation>נא להקליד את שם המשתמש הרצוי לצורך הוספת החשבון הלא מקוון שלך.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
@@ -854,7 +854,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation>קנה המידה של החתול</translation>
+        <translation>גודל חתול</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
@@ -1366,7 +1366,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation>לא נמצאה שום גרסה של Java. משתמש בגרסת ברירת המחדל.</translation>
+        <translation>לא נמצאה גרסת Java תואמת. ייעשה שימוש בברירת המחדל.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
@@ -1381,7 +1381,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
         <source>Compatible Java found at: %1.</source>
-        <translation>גרסת ג&apos;אווה מתאימה נמצע ב-%1.</translation>
+        <translation>נמצאה גרסת Java תואמת בתוך: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
@@ -1391,22 +1391,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
         <source>Could not determine Java download type!</source>
-        <translation>הורדה</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
         <source>Install Java</source>
-        <translation>התקן Java</translation>
+        <translation>התקנת Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation>לא נמצאו גרסאות של ג&apos;אווה על מערכת ההפעלה שלך: %1-%2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation>לא נמצאה גרסת ג&apos;אווה תואמת. משתמש בברירת המחדל.</translation>
+        <translation>לא נמצאה גרסת Java תואמת. ייעשה שימוש בברירת המחדל.</translation>
     </message>
 </context>
 <context>
@@ -1443,7 +1443,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
         <source>Profiler aborted</source>
-        <translation>הפרופילר בוטל</translation>
+        <translation>מנהל הפרופילים ננטש</translation>
     </message>
 </context>
 <context>
@@ -1461,7 +1461,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:green&quot;&gt;&amp;#x2714;נמצא ב%1&lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt;&amp;#x2714;נמצא בתוך %1&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
@@ -1521,7 +1521,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;p&gt;&lt;body&gt;&lt;head/&gt;&lt;html&gt;תקיית המודים הגלובליים המקונפגת שלכם ותקיית ההורדות האוטומיות שלכם נסרקות באופן אוטומטי עבור מודים והם יועתקו לגרסא אם ימצאו.&lt;/p&gt;&lt;p&gt;ניתן גם לגרור מודים אל חלון זה או להוסיף תקייה שמה המערכת תחפש מודים אם לא הורדתם את המודים למקומות ברירת המחדל&lt;/html&gt;&lt;/body&gt;&lt;/p&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Watched Folders:</source>
@@ -1685,7 +1685,8 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>נכשלו משימות משנה מרובות 
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
@@ -1718,7 +1719,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation>העתק מופע</translation>
+        <translation>שכפול עותק</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
@@ -1733,52 +1734,52 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation>בחר הכול</translation>
+        <translation>לבחור הכול</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>ביטול של האופציה ישמור את טוען המודים (לדוג&apos; פאבריק, קווילט וכו&apos;) אבל ימחק את תקיית המודים ואת הגדרותן.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation>הגדרות העתק גרסא</translation>
+        <translation>אפשרויות שכפול עותק</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation>העתק mods</translation>
+        <translation>העתקת מודים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation>העתק את ההגדרות במשחק כמו FOV, Max Framerate.</translation>
+        <translation>העתקת ההגדרות במשחק כמו מרחק תצוגה, קצב FPS מרבי, וכו׳.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
-        <translation>העתק הגדרות משחק</translation>
+        <translation>העתקת אפשרויות משחק</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
-        <translation>העתק שמירות</translation>
+        <translation>העתקת שמירות</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
         <source>Advanced Copy Options</source>
-        <translation>העתק הגדרות (מתקדם)</translation>
+        <translation>אפשרויות העתקה מתקדמות</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation>השתמש בקישורים סמלים או קשים במקום להעתיק קבצים.</translation>
+        <translation>שימוש בקישורים סמליים או קשיחים במקום העתקת קבצים.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation>אפשרויות קישור סימבוליות וקשות</translation>
+        <translation>אפשרויות לקישורים סמליים וקשיחים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
@@ -1824,7 +1825,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
         <source>Use symbolic links</source>
-        <translation>השתמש בקישורים סימבוליים</translation>
+        <translation>שימוש בקישורים סמליים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
@@ -1839,7 +1840,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
         <source>Clone instead of copying</source>
-        <translation>שכפל במקום להעתיק</translation>
+        <translation>שכפול במקום העתקה</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
@@ -1854,37 +1855,37 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation>העתק שרתים</translation>
+        <translation>העתקת שרתים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation>העתק חבילות משאבים</translation>
+        <translation>העתקת חבילות משאבים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
         <source>Keep play time</source>
-        <translation>שמור זמן משחק</translation>
+        <translation>שמירת זמן משחק</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation>העתק צילומי מסך</translation>
+        <translation>העתקת צילומי מסך</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
         <source>No group</source>
-        <translation>אין קבוצה</translation>
+        <translation>לא בקבוצה</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
         <source>Reflinks are supported on %1</source>
-        <translation>reflinks נתמכים ב-%1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="98"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation>reflinks לא נתמכים ב-%1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
@@ -1899,12 +1900,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
         <source>Cancel</source>
-        <translation>בטול</translation>
+        <translation>ביטול</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation>בסדר</translation>
+        <translation>אישור</translation>
     </message>
 </context>
 <context>
@@ -3168,22 +3169,22 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="206"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="266"/>
         <source>Check</source>
-        <translation>בדוק</translation>
+        <translation>בדיקה</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
         <source>&amp;Profilers</source>
-        <translation type="unfinished"></translation>
+        <translation>מנהלי &amp;פרופילים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>ניתן לגשת למנהלי הפרופילים דרך התפריט הנפתח של ההפעלה.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
         <source>J&amp;Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>‏J&amp;Profiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
@@ -4314,17 +4315,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
         <source>Copying instance %1</source>
-        <translation>העותק %1 מועתק</translation>
+        <translation>העותק %1 משוכפל</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
         <source>Instance folder copy failed.</source>
-        <translation>העתקת תיקיית העותק נכשלה.</translation>
+        <translation>שכפול תיקיית העותק נכשלה.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>העתקת תיקיית העותק ננטשה.</translation>
+        <translation>שכפול תיקיית העותק ננטש.</translation>
     </message>
 </context>
 <context>
@@ -4513,7 +4514,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Test</source>
-        <translation>בדוק</translation>
+        <translation>בדיקה</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
@@ -4867,12 +4868,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="29"/>
         <source>Listening on port: %1</source>
-        <translation>מאזין בפורט: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation>הפרופיילר נעצר</translation>
+        <translation>מנהל הפרופילים ננטש</translation>
     </message>
 </context>
 <context>
@@ -4889,7 +4890,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation>הפרופיילר נעצר</translation>
+        <translation>מנהל הפרופילים ננטש</translation>
     </message>
 </context>
 <context>
@@ -4906,7 +4907,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">מחלץ Java (התהליך אינו מדווח עבור ארכיונים מסוג tar)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
@@ -4924,7 +4925,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">לא נמצאו קבצים בקובץ ה-zip שסופק,</translation>
+        <translation>לא נמצאו קבצים בקובץ ה־zip שסופק.</translation>
     </message>
     <message>
         <source>Could not determine archive type!</source>
@@ -4972,7 +4973,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">הורדה</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="316"/>
@@ -5127,7 +5128,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>בדוק</translation>
+        <translation>&amp;בדיקה</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -5709,7 +5710,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="144"/>
         <source>Cancel</source>
-        <translation>בטל</translation>
+        <translation>ביטול</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="258"/>
@@ -5993,7 +5994,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation type="unfinished">בדוק את תיקיית ההורדות באופן רקורסיבי</translation>
+        <translation>בדיקת תיקיית ההורדות באופן רקורסיבי</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
@@ -6070,7 +6071,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Java:</source>
-        <translation>&amp;Java:</translation>
+        <translation>&amp;‏Java:</translation>
     </message>
     <message>
         <source>Cat</source>
@@ -6211,7 +6212,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="560"/>
         <source>Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>מכסת ניסיונות חוזרים:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="567"/>
@@ -6250,7 +6251,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>מכסת &amp;היסטוריה</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -7054,7 +7055,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="294"/>
         <source>Add a new instance.</source>
-        <translation>הוסף מופע חדש.</translation>
+        <translation>הוספת עותק חדש.</translation>
     </message>
     <message>
         <source>&amp;View Instance Folder</source>
@@ -7217,7 +7218,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>הוספת עו&amp;תק...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
@@ -7660,7 +7661,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="438"/>
         <source>Copy the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>שכפול העותק הנבחר.</translation>
     </message>
     <message>
         <source> on %1</source>
@@ -8245,12 +8246,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
         <source>Profilers</source>
-        <translation type="unfinished">פרופילים</translation>
+        <translation>מנהלי פרופילים</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="324"/>
         <source>&amp;No Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ללא מנהל פרופילים</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1017"/>
@@ -10321,7 +10322,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="305"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">%1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -11143,7 +11144,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="32"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>הגדרה זו חלה על משגר המשחק בלבד. Minecraft אינו מקבל שינויים בהגדרות השרת המתווך.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
@@ -11634,7 +11635,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="95"/>
         <source>Invalid JProfiler install</source>
-        <translation type="unfinished"></translation>
+        <translation>התקנת JProfiler שגויה</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="30"/>
@@ -11708,7 +11709,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="308"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation>החתול שברקע (לקוח מ־MultiMC)</translation>
+        <translation>חתול רקע (לקוח מ־MultiMC)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="309"/>
@@ -14391,7 +14392,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>רכיבים &amp;גרפיים</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
@@ -15564,7 +15565,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="142"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>חשבון Microsoft זה הגיע למכסת זמן המשחק שלו. הכניסה עם חשבון Microsoft זה נחסמה.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="146"/>
