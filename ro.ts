@@ -7085,7 +7085,7 @@ Motiv:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adăugare eșuată pentru:</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -7162,22 +7162,22 @@ Motiv:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="129"/>
         <source>Device authorization failed: required fields missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorizarea dispozitivului a eșuat: lipsesc câmpuri obligatorii</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="154"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Sarcină anulată</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="260"/>
         <source>Device Access failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Accesul dispozitivului a eșuat: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="275"/>
         <source>Got</source>
-        <translation type="unfinished"></translation>
+        <translation>Primit</translation>
     </message>
 </context>
 <context>
@@ -7185,7 +7185,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
         <source>Add Microsoft Account</source>
-        <translation>Adăugați contul Microsoft</translation>
+        <translation>Adaugă un cont Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
@@ -7202,22 +7202,22 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
         <source>Sign in with Microsoft</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentificare cu Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="166"/>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>Sau</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="347"/>
         <source>CODE</source>
-        <translation type="unfinished"></translation>
+        <translation>COD</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="360"/>
         <source>Copy code to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiază codul în clipboard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="398"/>
@@ -7232,7 +7232,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="204"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschideți %1 sau scanați codul QR și introduceți codul de mai sus, dacă este necesar.</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -7248,11 +7248,11 @@ Motiv:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschideți %1 sau scanați codul QR și introduceți codul de mai sus.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschideți %1 și introduceți codul de mai sus.</translation>
     </message>
 </context>
 <context>
@@ -7260,7 +7260,7 @@ Motiv:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
         <source>Failed to refresh token.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizarea token-ului a eșuat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
@@ -7275,12 +7275,12 @@ Motiv:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="165"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentificarea utilizatorului Microsoft a eșuat - token-ul este gol.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
         <source>Got </source>
-        <translation>Am primit </translation>
+        <translation>A fost primit. </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -7332,7 +7332,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
         <source>Kill the running instance.</source>
-        <translation>Omoară instanța care rulează.</translation>
+        <translation>Oprește instanța care rulează.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="452"/>
