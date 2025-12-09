@@ -5709,40 +5709,40 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="355"/>
         <source>Account refresh failed</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت عملية تحديث الحساب</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="356"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>’%1’ قد انتهت صلاحيته ويجب توثيقه مرة أخرى. هل تريد توثيق الحساب؟</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تغيير تعريف العميل للمشغل. يرجى إزالة هذا الحساب وإعادة المحاولة.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
         <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تغيير تعريف العميل</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا الحساب لم يعد موجودا على الخوادم. يحتمل أن تم نقله, في هذا الحال يجب عليك إضافة حساب جديد الذي نقلت هذا إليه.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
         <source>Account gone</source>
-        <translation type="unfinished"></translation>
+        <translation>ضاع الحساب</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="349"/>
         <source>Failed to launch.</source>
-        <translation>فشل في التشغيل.</translation>
+        <translation>فشل التشغيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="380"/>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>قد انتهت صلاحية الحساب ويجب توثيقه مرة أخرى</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="390"/>
@@ -5754,7 +5754,7 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="390"/>
         <location filename="src/launcher/LaunchController.cpp" line="391"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>تعذر تحميل الملف الشخصي للنموذج.</translation>
+        <translation>تعذر تحميل ملف النموذج.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="397"/>
@@ -5764,12 +5764,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تدقيق الملف الشخصي ل%1:%2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="460"/>
         <source>&amp;Launch</source>
-        <translation>المشغل</translation>
+        <translation>شغّل</translation>
     </message>
     <message>
         <source>Couldn&apos;t start profiler: %1</source>
@@ -5780,14 +5780,14 @@ Do you want to play the demo?</source>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>تم تأخير تشغيل اللعبة حتى يتم ضغط الزر. هذا هو الوقت الأنسب لإعداد المحلل، حيث أن خادوم المحلل يعمل.
+        <translation>تم تأخير تشغيل اللعبة حتى يتم ضغط الزر. هذا هو الوقت الأنسب لإعداد المحلل، حيث أن خادم المحلل يعمل.
 
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="458"/>
         <source>Waiting.</source>
-        <translation>جار الإنتظار.</translation>
+        <translation>جار الانتظار.</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -5812,16 +5812,16 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="507"/>
         <source>Kill Minecraft?</source>
-        <translation>إيقاف ماينكرافت؟</translation>
+        <translation>قتل ماين كرافت؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="508"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation>قد تؤدي هذه العملية إلى عطب في النموذج لذا ينبغي استخدامها فقط حين تتوقف ماينكرافت عن الإستجابة</translation>
+        <translation>قد تؤدي هذه العملية إلى عطب النموذج لذا ينبغي استخدامها فقط حين تتوقف ماين كرافت عن الاستجابة</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="unfinished"></translation>
+        <translation>انتهت صلاحية الحساب ويجب تسجيل الدخول يدويا مرة أخرى.</translation>
     </message>
 </context>
 <context>
