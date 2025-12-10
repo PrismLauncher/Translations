@@ -9402,7 +9402,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="56"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">الإضافات</translation>
     </message>
     <message>
         <source>Download mods</source>
