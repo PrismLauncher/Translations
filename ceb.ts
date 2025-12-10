@@ -1522,7 +1522,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
         <source>Clone instead of copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Pag-awat hinuon sa paghulad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
@@ -2101,7 +2101,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
         <source>Checking if resources have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Gipamatuod kon ang mga kahinguhaan adunay lawsayod...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
@@ -2942,7 +2942,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Nag-awat sa mga FML library paingon sa pananglitan...</translation>
+        <translation>Gihulad ang mga FML library paingon sa pananglitan...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
@@ -2952,7 +2952,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Napakyas sa pag-awat sa Forge/FML library nga: %1.</translation>
+        <translation>Napakyas sa paghukad sa Forge/FML library nga: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="114"/>
@@ -3052,7 +3052,7 @@ Palihug sa pagsulay pag-usab.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation>Nag-andam sa mga kahinguhaan alang sa CurseForge...</translation>
+        <translation>Giandam ang mga kahinguhaan alang sa CurseForge...</translation>
     </message>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
@@ -3207,7 +3207,7 @@ Palihug sa pagsulay pag-usab.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="628"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gihulad ang Mga Gipugngang Kausaban (%1 ang natapos sa %2)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="605"/>
@@ -3748,7 +3748,7 @@ Palihug sa pagsulay pag-usab.</translation>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
         <source>Instance folder copy failed.</source>
-        <translation>Napakyas sa pag-awat sa limbasan sa pananglitan.</translation>
+        <translation>Napakyas sa paghulad sa limbasan sa pananglitan.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
@@ -5398,7 +5398,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation>Kung gipagana, ibalhin ra niini ang mga gipugngang katbangan hinuon sa pag-awat nila.</translation>
+        <translation>Kon mogana, balhinon niini ang mga gipugngang kahinguhaan hinuon sa paghulad nila.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="452"/>
@@ -5528,7 +5528,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation>Ibalhin ang mga gipugngang kausaban hinuon sa pag-awat nila.</translation>
+        <translation>Balhini ang mga gipugngang kausaban hinuon sa paghulad nila.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
@@ -5958,7 +5958,7 @@ Panabot:
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="44"/>
         <source>Updating index for resource:
 %1</source>
-        <translation>Pagpasibo sa lab-a alang sa kahinguhaan:
+        <translation>Gipasibo ang lab-a alang sa kahinguhaang:
 %1</translation>
     </message>
     <message>
@@ -5987,7 +5987,7 @@ Panabot:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="90"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Hulari ang kinatibuk-ang pagtala padulong sa pilitanan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
@@ -6782,7 +6782,7 @@ Panabot:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="438"/>
         <source>Copy the selected instance.</source>
-        <translation>Awata ang piniling pananglitan.</translation>
+        <translation>Hulari ang piniling pananglitan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
@@ -8616,7 +8616,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="52"/>
         <source>Preparing resources for Modrinth...</source>
-        <translation>Nag-andam sa mga kahinguhaan alang sa Modrinth...</translation>
+        <translation>Giandam ang mga kahinguhaan alang sa Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="113"/>
@@ -9721,7 +9721,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="572"/>
         <source>Failed copy %1 to %2</source>
-        <translation>Napakyas sa pag-awat sa %1 paadto sa %2</translation>
+        <translation>Napakyas sa paghulad sa %1 paadto sa %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="587"/>
@@ -10670,7 +10670,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"/>
         <source>shader pack</source>
-        <translation type="unfinished"></translation>
+        <translation>putos sa tigpandong</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="29"/>
@@ -11402,7 +11402,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="566"/>
         <source>The resource was not found</source>
-        <translation>Wala nakit-an ang kahinguhaan</translation>
+        <translation>Wala nakita ang kahinguhaan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
@@ -11423,7 +11423,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="163"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>mga putos sa tigpandong</translation>
     </message>
 </context>
 <context>
@@ -11432,13 +11432,13 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="36"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>mga putos sa tigpandong</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="38"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>putos sa tigpandong</translation>
     </message>
 </context>
 <context>
@@ -11476,7 +11476,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="46"/>
         <source>Downloading resource:
 %1</source>
-        <translation>Nagkarganug sa kahinguhaang:
+        <translation>Gikarganug ang kahinguhaang:
 %1</translation>
     </message>
 </context>
@@ -11808,7 +11808,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="41"/>
         <source>Confirm resources to update</source>
-        <translation type="unfinished"></translation>
+        <translation>Pamatud-i ang mga kahinguhaan ingong mapasibo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="52"/>
@@ -12400,7 +12400,7 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga putos sa tigpandong</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -12520,7 +12520,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Putos sa Tigpandong</translation>
     </message>
 </context>
 <context>
@@ -12561,7 +12561,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="307"/>
         <source>Unable to copy file</source>
-        <translation>Dili maawat ang limbas</translation>
+        <translation>Dili mahulad ang limbas</translation>
     </message>
 </context>
 <context>
@@ -14175,7 +14175,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
         <source>Enter a new name for the copy.</source>
-        <translation>Pagbutang og bag-ong ngalan alang sa pag-awat.</translation>
+        <translation>Pagbutang og bag-ong ngalan alang sa hulad.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="450"/>
