@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Pagtimaan: basin nga gusto nimo mailisdan kun malimpyo ang Sukaranang URL human mailisdi ang matang sa serbisyo sa pag-paste.</translation>
+        <translation>Pagtimaan: basin nga gusto nimo ilisan kun limpyohan ang Sukaranang URL human mailisan ang matang sa serbisyo sa pag-paste.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
@@ -2600,12 +2600,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
         <source>Change Version</source>
-        <translation>Ilisdi ang Hubad</translation>
+        <translation>Ilisan ang Hubad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="204"/>
         <source>Change a resource&apos;s version.</source>
-        <translation>Ilisdi ang hubad sa kahinguhaan.</translation>
+        <translation>Ilisan ang hubad sa kahinguhaan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="215"/>
@@ -2734,12 +2734,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="44"/>
         <source>&amp;Editors</source>
-        <translation>Mga &amp;Ilisdanan</translation>
+        <translation>Mga &amp;Usbanan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="50"/>
         <source>&amp;Text Editor</source>
-        <translation>Ilisdanan sa &amp;Pulong</translation>
+        <translation>Usbanan sa &amp;Pulong</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="65"/>
@@ -2793,7 +2793,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>Ilisdanan sa &amp;Pulong:</translation>
+        <translation>Usbanan sa &amp;Pulong:</translation>
     </message>
     <message>
         <source>External Tools</source>
@@ -2855,7 +2855,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
         <source>Text Editor</source>
-        <translation>Ilisdanan sa Pulong</translation>
+        <translation>Usbanan sa Pulong</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
@@ -2874,7 +2874,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
         <source>MCEdit Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Sulisitod sa MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="162"/>
@@ -2896,7 +2896,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation>Ilisdanan sa JSON</translation>
+        <translation>Usbanan sa JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -6330,7 +6330,7 @@ Panabot:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
         <source>&amp;Edit...</source>
-        <translation>&amp;Ilisdi...</translation>
+        <translation>&amp;Usba...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
@@ -6360,7 +6360,7 @@ Panabot:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="319"/>
         <source>Change settings.</source>
-        <translation>Ilisdi ang mga himutangan.</translation>
+        <translation>Ilisan ang mga himutangan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="605"/>
@@ -6405,7 +6405,7 @@ Panabot:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="385"/>
         <source>Change Icon</source>
-        <translation>Ilisdi ang Amoy</translation>
+        <translation>Ilisan ang Amoy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="349"/>
@@ -6680,7 +6680,7 @@ Panabot:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
         <source>Change the selected instance&apos;s icon.</source>
-        <translation>Ilisdi ang amoy sa piniling pananglitan.</translation>
+        <translation>Ilisan ang amoy sa piniling pananglitan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="363"/>
@@ -6705,7 +6705,7 @@ Panabot:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
         <source>&amp;Change Group...</source>
-        <translation>&amp;Ilisdi ang Pundok...</translation>
+        <translation>&amp;Ilisan ang Pundok...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="380"/>
@@ -6736,12 +6736,12 @@ Panabot:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation>&amp;Ilisdi</translation>
+        <translation>&amp;Usba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="399"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation>Usba ang mga gusto sa pananglitan, mga kausaban ug mga hubad.</translation>
+        <translation>Ilisan ang mga gusto sa pananglitan, mga kausaban ug mga hubad.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="424"/>
@@ -6752,7 +6752,7 @@ Panabot:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="377"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation>Ilisdi ang pundok sa piniling pananglitan.</translation>
+        <translation>Ilisan ang pundok sa piniling pananglitan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
@@ -7108,7 +7108,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1637"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>Naa kay duha ka kapilian: &lt;br/&gt; - ilisdi ang limbasan sa pananglitan sulod sa mga himutangan &lt;br/&gt; - ibalhin kining pagtaud sa %1 sa lahi nga limbasan</translation>
+        <translation>Naa kay duha ka kapilian: &lt;br/&gt; - ilisan ang limbasan sa pananglitan sulod sa mga himutangan &lt;br/&gt; - ibalhin kining pagtaud sa %1 sa lahi nga limbasan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
@@ -7212,7 +7212,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
         <source>Changelog</source>
-        <translation>Talaan sa Kausaban</translation>
+        <translation>Tala sa Pag-ilis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="186"/>
@@ -8372,7 +8372,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="100"/>
         <source>Change a mod&apos;s version.</source>
-        <translation>Ilisdan ang hubad sa kausaban.</translation>
+        <translation>Ilisan ang hubad sa kausaban.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="104"/>
@@ -8429,11 +8429,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Ilisdi ang Hubad</translation>
+        <translation>Ilisan ang Hubad</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation>Ilisdan ang hubad sa kausaban</translation>
+        <translation>Ilisan ang hubad sa kausaban</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
@@ -8587,7 +8587,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation>Talaan sa kausaban sa kinaulahiang hubad</translation>
+        <translation>Tala sa pag-ilis sa kinaulahiang hubad</translation>
     </message>
 </context>
 <context>
@@ -8734,7 +8734,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="289"/>
         <source>Fetching changelogs...</source>
-        <translation>Nagpakuha og mga talaan sa kausaban...</translation>
+        <translation>Nagpakuha og mga tala sa pag-ilis...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="369"/>
@@ -11138,7 +11138,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation>Ilisdi ang hubad nga %1</translation>
+        <translation>Ilisan ang hubad nga %1</translation>
     </message>
 </context>
 <context>
@@ -11212,7 +11212,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
         <source>Change %1 version</source>
-        <translation>Ilisdi ang hubad nga %1</translation>
+        <translation>Ilisan ang hubad nga %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
@@ -11687,7 +11687,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
         <source>Change a mod&apos;s version.</source>
-        <translation>Ilisdi ang hubad sa kausaban.</translation>
+        <translation>Ilisan ang hubad sa kausaban.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
@@ -11962,7 +11962,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="472"/>
         <source>Changelog of the latest version</source>
-        <translation>Talaan sa kausaban sa kinaulahiang hubad</translation>
+        <translation>Tala sa pag-ilis sa kinaulahiang hubad</translation>
     </message>
 </context>
 <context>
@@ -12686,7 +12686,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="272"/>
         <source>Change skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilisan ang panit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="275"/>
@@ -13396,7 +13396,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation>Pag-adto sa mga himutangan sa Java sa pananglitan aron malisdan ang hubad sa Java nimo kun mahunong ang pagsulay sa pagkabagay sa Java kon nahibalo ka sa imong gibuhat.</translation>
+        <translation>Pag-adto sa mga himutangan sa Java sa pananglitan aron mailisan ang hubad sa Java nimo kun mahunong ang pagsulay sa pagkabagay sa Java kon nahibalo ka sa imong gibuhat.</translation>
     </message>
 </context>
 <context>
@@ -13431,7 +13431,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="148"/>
         <source>Edit</source>
-        <translation>Ilisdi</translation>
+        <translation>Usba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="156"/>
@@ -13476,7 +13476,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="108"/>
         <source>Change Version</source>
-        <translation>Ilisdi ang Hubad</translation>
+        <translation>Ilisan ang Hubad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="48"/>
@@ -13700,7 +13700,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="394"/>
         <source>Change %1 version</source>
-        <translation>Ilisdi ang %1 nga hubad</translation>
+        <translation>Ilisan ang %1 nga hubad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="396"/>
@@ -14108,8 +14108,8 @@ Canonical Path: %1</source>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="336"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation>Wala kay MCEdit nga naandam kun basin nabalhin to.
-Mahimong maandom ni nimo sulod sa tiningob nga mga himutangan.</translation>
+        <translation>Wala kay MCEdit nga naandam kun basin nabalhin kato.
+Mahimong maandam ni nimo sulod sa tiningob nga mga himutangan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="342"/>
