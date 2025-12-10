@@ -1426,7 +1426,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation>Mga Kapilian sa Pag-awat sa Pananglitan</translation>
+        <translation>Mga Kapilian sa Paghulad sa Pananglitan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
@@ -1441,17 +1441,17 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
-        <translation>Awata ang mga kapilian sa dula</translation>
+        <translation>Hulari ang mga kapilian sa dula</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
-        <translation>Awata ang mga pagtipig</translation>
+        <translation>Hulari ang mga pagtipig</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
         <source>Advanced Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Kapilian sa Mauswagong Paghulad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
@@ -1512,7 +1512,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
         <source>CoW (Copy-on-Write) Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Kapilian sa Paghulad kon Mosuwat kun CoW (Copy-on-Write)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
@@ -1532,17 +1532,17 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation>Awata ang mga putos sa tigpandong</translation>
+        <translation>Hulari ang mga putos sa tigpandong</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation>Awata ang mga magsisilbi</translation>
+        <translation>Hulari ang mga magsisilbi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation>Awata ang mga putos sa kahinguhaan</translation>
+        <translation>Hulari ang mga putos sa kahinguhaan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
@@ -1552,7 +1552,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Hulari ang mga kuhang-tabil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
@@ -1894,7 +1894,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="54"/>
         <source>Copying %1…</source>
-        <translation>Nag-awat og %1…</translation>
+        <translation>Gihulad ang %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="66"/>
@@ -3019,12 +3019,12 @@ Palihug sa pagsulay pag-usab.</translation>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation>Nag-awat og mga limbas...</translation>
+        <translation>Gihulad ang mga limbas...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation>Nag-awat og mga himutangan...</translation>
+        <translation>Gihulad ang mga himutangan...</translation>
     </message>
 </context>
 <context>
@@ -3202,7 +3202,7 @@ Palihug sa pagsulay pag-usab.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="613"/>
         <source>Copying Blocked Mods...</source>
-        <translation>Nag-awat og Mga Gipugngang Kausaban...</translation>
+        <translation>Gihulad ang Mga Gipugngang Kausaban...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="628"/>
@@ -3743,7 +3743,7 @@ Palihug sa pagsulay pag-usab.</translation>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
         <source>Copying instance %1</source>
-        <translation>Nag-awat sa pananglitang %1</translation>
+        <translation>Gihulad ang pananglitang %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
@@ -11667,7 +11667,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation>Mga Putos sa Kahinguhaan</translation>
+        <translation>Mga putos sa kahinguhaan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -11787,7 +11787,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
-        <translation>Pagkarganug og Mga Putos</translation>
+        <translation>Mga Putos sa Kahinguhaan</translation>
     </message>
 </context>
 <context>
@@ -12161,19 +12161,19 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="68"/>
         <source>Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Kuhang-tabil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="87"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="90"/>
         <source>Copy Image</source>
-        <translation>Awata ang larawan</translation>
+        <translation>Hulari ang Larawan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="95"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="98"/>
         <source>Copy File(s)</source>
-        <translation>Awata ang (Mga) Limbas</translation>
+        <translation>Hulari ang (Mga) Limbas</translation>
     </message>
 </context>
 <context>
@@ -14040,7 +14040,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="128"/>
         <source>Copy Seed</source>
-        <translation>Awata ang Binhi</translation>
+        <translation>Hulari ang Binhi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="133"/>
@@ -14135,7 +14135,7 @@ It may be necessary to reinstall it.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="429"/>
         <source>Copy World</source>
-        <translation>Awata ang Kalibutan</translation>
+        <translation>Hulari ang Kalibutan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="414"/>
