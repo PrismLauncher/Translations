@@ -11642,7 +11642,7 @@ Roll back to previous version?</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="91"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ث</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="96"/>
