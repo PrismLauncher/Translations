@@ -4579,7 +4579,7 @@ You can change the Java version in the settings later.
 Dili masugdan sa %1 ang Minecraft.
 Gusto nimo ipadayon?
 
-Mahimo nimong mausab ang hubad sa Java sa mga himutangan sa pagkaunya.
+Mahimo nimong mailisan ang hubad sa Java sulod sa mga himutangan sa pagkaunya.
 </translation>
     </message>
     <message>
@@ -4593,7 +4593,7 @@ You can change the Java version in the settings later.
 Dili masugdan sa %1 ang Minecraft.
 Gusto nimo ipadayon nga walay moganang hubad sa Java?
 
-Mahimo nimong mausab ang hubad sa Java sa mga himutangan sa pagkaunya.
+Mahimo nimong mailisan ang hubad sa Java sulod sa mga himutangan sa pagkaunya.
 </translation>
     </message>
     <message>
@@ -4842,7 +4842,7 @@ You can change the Java version in the settings later.
 Dili masugdan sa %1 ang Minecraft.
 Gusto nimo ipadayon?
 
-Mahimo nimong mausab ang hubad sa Java sa mga himutangan sa pagkaunya.
+Mahimo nimong mailisan ang hubad sa Java sulod sa mga himutangan sa pagkaunya.
 </translation>
     </message>
     <message>
@@ -4862,7 +4862,7 @@ You can change the Java version in the settings later.
 Dili masugdan sa %1 ang Minecraft.
 Gusto nimo ipadayon nga walay moganang hubad sa Java?
 
-Mahimo nimong mausab ang hubad sa Java sa mga himutangan sa pagkaunya.
+Mahimo nimong mailisan ang hubad sa Java sulod sa mga himutangan sa pagkaunya.
 </translation>
     </message>
     <message>
