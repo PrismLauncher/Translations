@@ -6202,62 +6202,62 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>عند إنشاء نموذج حزمة إضافات جديد, اقترح تحديث النموذج الحالي بدلا من ذلك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Suggest to update an existing instance during modpack installation</source>
-        <translation type="unfinished"></translation>
+        <translation>اقترح تحديث النموذج الحالي عند تثبيت حزمة إضافات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
         <source>Console</source>
-        <translation type="unfinished"></translation>
+        <translation>الطرفية</translation>
     </message>
     <message>
         <source>Console Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات الطرفية</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="unfinished">إظهار لوحة التحكم (الطرفية) أثناء تشغيل اللعبة؟</translation>
+        <translation>إظهار الطرفية عند عمل اللعبة</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">إغلاق لوحة التحكم تلقائياً عند الخروج من اللعبة؟</translation>
+        <translation>إغلاق الطرفية تلقائياً عند الخروج من اللعبة</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="unfinished">إظهار لوحة التحكم عند تعطل اللعبة؟</translation>
+        <translation>إظهار الطرفية عند تعطل اللعبة</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>حد التاريخ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>توقف عن التسجيل عند فيض السجل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="468"/>
         <source> lines</source>
-        <translation type="unfinished"></translation>
+        <translation> سطر</translation>
     </message>
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>خط الطرفية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
         <source>Instance Folder</source>
-        <translation type="unfinished">مجلد النموذج</translation>
+        <translation>مجلد النموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="101"/>
