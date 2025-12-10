@@ -5920,12 +5920,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
         <source>Ask what to do</source>
-        <translation type="unfinished"></translation>
+        <translation>السؤال عن الإجراءات المطلوبة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
         <source>Never rename the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>لا تغير اسم المجلد أبدا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
@@ -5935,42 +5935,42 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>How Often?</source>
-        <translation type="unfinished"></translation>
+        <translation>بأي تكرار؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Set to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>اجعله 0 لكي يتم التأكيد فقط عند التشغيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>On Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>عند التشغيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="198"/>
         <source> hours</source>
-        <translation type="unfinished"></translation>
+        <translation> ساعة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
         <source>Every </source>
-        <translation type="unfinished"></translation>
+        <translation>كل </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
         <source>&amp;Mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;الإضافات:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished">أيقونات:</translation>
+        <translation>الأيقونات:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="452"/>
         <source>Log History &amp;Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>حد&amp; تاريخ السجل:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
@@ -5980,22 +5980,22 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="560"/>
         <source>Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>حد التكرار:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="567"/>
         <source>Concurrent Download Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>حد التحميلات المتزامنة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="577"/>
         <source>HTTP Timeout:</source>
-        <translation type="unfinished"></translation>
+        <translation>انتهاء مهلة الHTTP:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="603"/>
         <source>Concurrent Task Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>حد المهام المتزامنة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
@@ -6008,80 +6008,80 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation>اضبطه على 0 للتحقق فقط عند التشغيل</translation>
+        <translation>اجعله 0 لكي يتم التأكيد فقط عند التشغيل</translation>
     </message>
     <message>
         <source>h</source>
-        <translation>ه</translation>
+        <translation>س</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
         <source>&amp;Skins:</source>
-        <translation>اسكنات :</translation>
+        <translation>المظاهر:</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>تعطيل الاكتشاف التلقائي وتثبيت وتحديث تبعيات التعديل.</translation>
+        <translation>تعطيل الاكتشاف التلقائي وتثبيت وتحديث تبعيات الإضافات.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>متنوع</translation>
+        <translation>متنوعات</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد المهام المتزامنة</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد التحميلات المتزامنة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="56"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>واجهة المستخدم</translation>
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation type="unfinished"></translation>
+        <translation>وضع ترتيب عرض النموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;حسب آخر تشغيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
         <source>By &amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>حسب&amp; الاسم</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>النسق</translation>
     </message>
     <message>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>الإضافات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="374"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation type="unfinished"></translation>
+        <translation>عند تفعيله, سيتم البحث في المجلدات الفرعية لمجلد التنزيلات أيضا عند البحث عن الموارد (مثلا عند البحث عن الإضافات المحظورة في كورس فورج).</translation>
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>ابحث في مجلد التنزيلات بشكل مكرر</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل استخدام بيانات التعريف المزودة من قبل موفري الإضافات(مثل مودرينث و كورس فورج) للإضافات.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل استخدام بيانات التعريف للإضافات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
