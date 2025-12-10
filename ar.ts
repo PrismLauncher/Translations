@@ -6087,7 +6087,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;تنبيه&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: قد يؤدي تعطيل بيانات تعريف الإضافات لتعطيل بعض مزايا جودة التجربة مثل تحديث الإضافات!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Legacy</source>
@@ -6095,99 +6095,99 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل إدارة التلقائية لتبعيات الإضافات</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>عند إنشاء نموذج حزمة إضافات جديد, لا تقترح تحديث النماذج الحالية.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطى أوامر تحديث حزمة الإضافات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation type="unfinished"></translation>
+        <translation>الثواني الذي يجب انتظارها حتى تنتهي الطلبات</translation>
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation type="unfinished"></translation>
+        <translation>مدة مهلة طلبات الHTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>ث</translation>
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد التكرارات اليدوية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>عند تفعيله, سيتم نقل الموارد بدل نسخهم.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>&amp;Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>جافا:</translation>
     </message>
     <message>
         <source>Cat</source>
-        <translation type="unfinished"></translation>
+        <translation>قط</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين شفافية القط. 0% شفاف تماما و 100% كامد تماما.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>الشفافية</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">الأدوات</translation>
+        <translation>الأدوات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>يعد شريط القوائم أفضل للتحكم باستخدام لوحة المفاتيح.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>استبدال شريط الأدوات بشريط القوائم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>Mods and Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>الإضافات وحزم الإضافات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>ابحث في المجلدات الفرعية على الإضافات المحظورة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation type="unfinished"></translation>
+        <translation>انقل الإضافات المحظورة بدل نسخهم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>خزن معلومات الإصدار المزودة من قبل موفري الإضافات (مثل مودرينث وكورس فورج) للإضافات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
         <source>Keep track of mod metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>تعقب بيانات تعريف الإضافات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
