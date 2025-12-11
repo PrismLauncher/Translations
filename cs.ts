@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Poznámka: po změně typu služby pro sdílení textu pravděpodobně chcete změnit nebo vymazat základnou URL.</translation>
+        <translation>Poznámka: po změně typu služby pro sdílení textu pravděpodobně chcete změnit nebo vymazat základní URL.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="135"/>
@@ -7309,7 +7309,7 @@ Důvod:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation>Nemůžu přidat:</translation>
+        <translation>Nepodařilo se přidat:</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -14026,7 +14026,7 @@ Autor nejspíš zablokoval launchery třetích stran.</translation>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="99"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se přejmenovat konfiguraci shaderu z „%1“ na „%2“</translation>
     </message>
 </context>
 <context>
