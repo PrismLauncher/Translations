@@ -13483,7 +13483,7 @@ Messaggio d&apos;errore: %3</translation>
         <translation>Pacchetti Dati</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="119"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="134"/>
         <source> for %1</source>
         <translation> per %1</translation>
     </message>
@@ -13626,7 +13626,7 @@ Sei sicuro di voler chiudere questo dialogo?</translation>
         <translation>Controllo delle dipendenze...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="392"/>
         <source>Change %1 version</source>
         <translation>Cambia la versione di %1</translation>
     </message>

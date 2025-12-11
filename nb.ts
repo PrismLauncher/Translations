@@ -12252,7 +12252,7 @@ Error message: %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="119"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="134"/>
         <source> for %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12387,7 +12387,7 @@ Er du sikker på at du vil lukke denne dialogboksen?</translation>
         <translation>Kontrollerer avhengigheter …</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="392"/>
         <source>Change %1 version</source>
         <translation type="unfinished">Endre versjon %1</translation>
     </message>

@@ -11364,7 +11364,7 @@ Messaç dal erôr: %3</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="119"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="134"/>
         <source> for %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11499,7 +11499,7 @@ Sierâ pardabon chest dialic?</translation>
         <translation>Control des dipendencis...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="392"/>
         <source>Change %1 version</source>
         <translation>Cambie la version di %1</translation>
     </message>

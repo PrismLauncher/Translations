@@ -13648,7 +13648,7 @@ Error message: %3</source>
         <translation>数据包</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="119"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="134"/>
         <source> for %1</source>
         <translation> 适配版本 %1</translation>
     </message>
@@ -13791,7 +13791,7 @@ Are you sure you want to close this dialog?</source>
         <translation>正在检查前置项…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="392"/>
         <source>Change %1 version</source>
         <translation>更改 %1 版本</translation>
     </message>

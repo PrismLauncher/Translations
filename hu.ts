@@ -13537,7 +13537,7 @@ Hibaüzenet: %3</translation>
         <translation>Adatcsomagok</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="119"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="134"/>
         <source> for %1</source>
         <translation> ehhez: %1</translation>
     </message>
@@ -13680,7 +13680,7 @@ Biztosan bezárod ezt a párbeszédpanelt?</translation>
         <translation>Függőségek keresése...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="392"/>
         <source>Change %1 version</source>
         <translation>%1 verzió megváltoztatása</translation>
     </message>

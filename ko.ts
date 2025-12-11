@@ -13531,7 +13531,7 @@ Error message: %3</source>
         <translation>데이터 팩</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="119"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="134"/>
         <source> for %1</source>
         <translation> %1용</translation>
     </message>
@@ -13674,7 +13674,7 @@ Are you sure you want to close this dialog?</source>
         <translation>종속성 확인 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="392"/>
         <source>Change %1 version</source>
         <translation>%1 버전 변경</translation>
     </message>

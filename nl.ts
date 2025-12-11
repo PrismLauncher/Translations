@@ -13320,7 +13320,7 @@ Foutmelding: %3</translation>
         <translation>Gegevenspakketten</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="119"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="134"/>
         <source> for %1</source>
         <translation> voor %1</translation>
     </message>
@@ -13463,7 +13463,7 @@ Weet u zeker dat u dit venster wil afsluiten?</translation>
         <translation>Controleren op afhankelijkheden...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="392"/>
         <source>Change %1 version</source>
         <translation>Versie van %1 wijzigen</translation>
     </message>

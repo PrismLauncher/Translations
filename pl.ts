@@ -13734,7 +13734,7 @@ Wiadomość błędu: %3</translation>
         <translation>Paczki danych</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="119"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="134"/>
         <source> for %1</source>
         <translation> dla %1</translation>
     </message>
@@ -13877,7 +13877,7 @@ Czy na pewno chcesz zamknąć to okno?</translation>
         <translation>Sprawdzanie zależności...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="392"/>
         <source>Change %1 version</source>
         <translation>Zmień wersję %1</translation>
     </message>

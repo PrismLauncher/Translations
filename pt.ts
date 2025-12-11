@@ -13070,7 +13070,7 @@ Mensagem de erro: %3</translation>
         <translation type="unfinished">Pacote de dados</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="119"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="134"/>
         <source> for %1</source>
         <translation> em %1</translation>
     </message>
@@ -13213,7 +13213,7 @@ De certeza que queres fechar esta caixa de diálogo?</translation>
         <translation>A verificar por dependências...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="392"/>
         <source>Change %1 version</source>
         <translation>Alterar a versão de %1</translation>
     </message>
