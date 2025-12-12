@@ -4509,23 +4509,23 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation>Modcsomag letöltése</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="144"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="123"/>
         <source>Attempting to determine instance type</source>
         <translation>Kísérlet a példány típusának meghatározására</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="180"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <source>Extracting modpack</source>
         <translation>Modcsomag kicsomagolása</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="151"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Nem sikerült megnyitni a mellékelt modcsomag zip fájlt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="177"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="255"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="256"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Az archívum nem tartalmaz felismerhető modcsomag típust.</translation>
     </message>
@@ -4534,7 +4534,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation type="vanished">Nem sikerült kicsomagolni a modpackot</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="234"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="235"/>
         <source>Could not fix permissions for %1</source>
         <translation>Nem sikerült javítani az engedélyeket a(z) %1 példánynak</translation>
     </message>
@@ -7315,12 +7315,12 @@ Indok:
         <translation>Nem sikerült megtalálni a zip első fájlját</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="92"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
         <translation>A(z) %1 kibontása megszakadt, mert ténylegesen a(z) %2 célútvonalon kívül volt</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="98"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
         <source>Failed to extract file %1 to %2</source>
         <translation>Nem sikerült kibontani a(z) %1 fájlt a(z) %2 fájlba</translation>
     </message>

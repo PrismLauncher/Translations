@@ -4437,23 +4437,23 @@ Please try again.</source>
         <translation>Modパックのダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="144"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="123"/>
         <source>Attempting to determine instance type</source>
         <translation>起動構成の種類を判別中</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="180"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <source>Extracting modpack</source>
         <translation>Modパックを展開中</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="151"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>指定されたModパックのzipファイルを開けませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="177"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="255"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="256"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>アーカイブにはModパックが含まれていないようです。</translation>
     </message>
@@ -4462,7 +4462,7 @@ Please try again.</source>
         <translation type="vanished">Modパックの展開に失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="234"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="235"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1 の権限を修正できませんでした</translation>
     </message>
@@ -7126,12 +7126,12 @@ Reason:
         <translation>zip内の最初のファイルの検索に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="92"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
         <translation>%1 の展開は、実質的に対象パス %2 の外側であったため、キャンセルされました</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="98"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
         <source>Failed to extract file %1 to %2</source>
         <translation>ファイル %1 を %2 に展開できませんでした</translation>
     </message>

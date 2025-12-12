@@ -4454,23 +4454,23 @@ Por favor tenta de novo.</translation>
         <translation>Transferência do modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="144"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="123"/>
         <source>Attempting to determine instance type</source>
         <translation>A tentar determinar o tipo de instância</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="180"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <source>Extracting modpack</source>
         <translation>A extrair modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="151"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Não foi possível abrir o ficheiro zip do modpack fornecido.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="177"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="255"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="256"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>O ficheiro não contém um tipo de modpack reconhecível.</translation>
     </message>
@@ -4479,7 +4479,7 @@ Por favor tenta de novo.</translation>
         <translation type="vanished">Falha ao extrair modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="234"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="235"/>
         <source>Could not fix permissions for %1</source>
         <translation>Não foi possível corrigir as permissões para: %1</translation>
     </message>
@@ -7189,12 +7189,12 @@ Motivo:
         <translation>Não foi possível encontrar o primeiro ficheiro no zip</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="92"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
         <translation>A extração %1 foi cancelada, porque estava praticamente fora do caminho de destino %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="98"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
         <source>Failed to extract file %1 to %2</source>
         <translation>Não foi possível extrair o ficheiro %1 para %2</translation>
     </message>

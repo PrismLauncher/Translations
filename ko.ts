@@ -4514,23 +4514,23 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>모드 팩 다운로드</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="144"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="123"/>
         <source>Attempting to determine instance type</source>
         <translation>인스턴스 유형을 확인하려고 시도하는 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="180"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <source>Extracting modpack</source>
         <translation>모드 팩 추출 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="151"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>모드 팩 압축 파일을 열 수 없음.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="177"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="255"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="256"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>압축 파일이 인식 가능한 모드 팩을 가지고 있지 않음.</translation>
     </message>
@@ -4539,7 +4539,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">모드팩 추출 실패</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="234"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="235"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1에 대한 권한 문제를 해결하지 못함</translation>
     </message>
@@ -7313,12 +7313,12 @@ Reason:
         <translation>ZIP에서 첫 번째 파일을 찾지 못함</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="92"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
         <translation>대상 경로 %2을(를) 사실상 벗어나, %1의 압축 해제가 취소됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="98"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
         <source>Failed to extract file %1 to %2</source>
         <translation>파일을 %1에서 %2(으)로 추출하지 못함</translation>
     </message>

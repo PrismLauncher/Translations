@@ -3911,28 +3911,28 @@ Please try again.</source>
         <translation>Modpack பதிவிறக்கம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="144"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="123"/>
         <source>Attempting to determine instance type</source>
         <translation>நிகழ்வு வகையை தீர்மானிக்க முயற்சிக்கிறது</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="180"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <source>Extracting modpack</source>
         <translation>மோட்பேக்கைப் பிரித்தெடுக்கிறது</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="151"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>வழங்கப்பட்ட மோட்பேக் சிப் கோப்பைத் திறக்க முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="177"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="255"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="256"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>காப்பகத்தில் அங்கீகரிக்கப்பட்ட மோட்பேக் வகை இல்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="234"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="235"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1 க்கான அனுமதிகளை சரிசெய்ய முடியவில்லை</translation>
     </message>
@@ -6321,12 +6321,12 @@ Reason:
         <translation>ZIP இல் முதல் கோப்பைத் தேடுவதில் தோல்வி</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="92"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
         <translation>%1 ஐ பிரித்தெடுப்பது ரத்து செய்யப்பட்டது, ஏனெனில் இது இலக்கு பாதை %2 க்கு வெளியே திறம்பட இருந்தது</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="98"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
         <source>Failed to extract file %1 to %2</source>
         <translation>கோப்பை %1 முதல் %2 வரை பிரித்தெடுப்பதில் தோல்வி</translation>
     </message>
