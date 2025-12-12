@@ -13855,7 +13855,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="99"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Невдалося перейменувати конфіг шейдера з &apos;%1&apos; на &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
