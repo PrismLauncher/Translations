@@ -1223,7 +1223,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="244"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>Ви впевнені, що хочете ввімкнути цей мод?</translation>
+        <translation>Ви дійсно хочете ввімкнути цей мод?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
@@ -2108,7 +2108,7 @@ Some versions of Minecraft may not launch.
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation>Користувацькі Команди</translation>
+        <translation>Користувацькі команди</translation>
     </message>
 </context>
 <context>
@@ -2145,7 +2145,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="111"/>
         <source>Experiments</source>
-        <translation>Експерементальні</translation>
+        <translation>Експериментальні</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
@@ -2191,7 +2191,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
         <source>Custom</source>
-        <translation>Власний</translation>
+        <translation>Користувацький</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="117"/>
@@ -2219,7 +2219,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="41"/>
         <source>Failed to scan source path.</source>
-        <translation>Не вдалося знайти шлях ресурсу.</translation>
+        <translation>Не вдалося знайти вихідний шлях.</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="54"/>
@@ -2283,7 +2283,7 @@ Some versions of Minecraft may not launch.
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Попередження: Цей ресурс символічно пов&apos;язаний з іншого розташування. Його редагування також змінить оригінал.
+Попередження: Цей ресурс символічно пов&apos;язаний з іншим розташуванням. Його редагування також змінить оригінал.
 Канонічний шлях: 1%</translation>
     </message>
     <message>
@@ -2296,7 +2296,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation>Чи ввімкнено пакет даних? (Лише для ZIP-архівів)</translation>
+        <translation>Чи ввімкнено цей пакет даних? (Дійсно лише для ZIP-архівів)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="155"/>
@@ -2392,7 +2392,7 @@ The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
         <translation>Оновлення пакетів даних під час роботи гри може викликати дублювання пакетів і збої гри.
 Старі файли можуть не бути видалені, оскільки вони використовуються.
-Ви впевнені, що хочете це зробити?</translation>
+Продовжити?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"/>
@@ -2407,12 +2407,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation>Всі пакети даних тепер найновішої версії! :)</translation>
+        <translation>Всі пакети даних оновлені! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation>Всі вибрані пакети даних тепер найновішої версії! :)</translation>
+        <translation>Всі вибрані пакети даних оновлені! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
@@ -2429,7 +2429,7 @@ Are you sure you want to do this?</source>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
         <translation>Ви збираєтеся видалити метадані для %1 пакетів даних.
-Ви впевнені?</translation>
+Продовжити?</translation>
     </message>
 </context>
 <context>
@@ -3153,9 +3153,9 @@ This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
         <translation>Ви намагаєтесь видалити %1 об&apos;єктів.
-Цю дію неможливо скасувати і вони зникнуть з теки.
+Вони безповоротно зникнуть з теки.
 
-Ви впевнені?</translation>
+Продовжити?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="248"/>
@@ -3164,9 +3164,9 @@ This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
         <translation>Ви намагаєтесь видалити теку &quot;%1&quot;.
-Цю дію неможливо скасувати тека зникне з батьківської теки.
+Вона безповоротно зникне з батьківської теки.
 
-Ви впевнені?</translation>
+Продовжити?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="255"/>
@@ -3182,8 +3182,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="270"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Якщо ви видалите цей ресурс, поки гра запущена, ваша гра може вилетіти.
-Ви впевнені, що хочете це зробити?</translation>
+        <translation>Видалення ресурсів запущеної гри може призвести до її аварійного завершення.
+Продовжити?</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -3192,8 +3192,8 @@ Are you sure you want to do this?</source>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Якщо ви вимкнете цей ресурс, поки гра запущена, ваша гра може вилетіти.
-Ви впевнені, що хочете це зробити?</translation>
+        <translation>Вимкнення ресурсів запущеної гри може призвести до її аварійного завершення.
+Продовжити?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="346"/>
@@ -5393,7 +5393,7 @@ Please make sure that the maximum memory value is lower.</source>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
         <translation>Ви збираєтеся видалити інсталяцію Java з назвою &quot;%1&quot;.
-Ви впевнені?</translation>
+Продовжити?</translation>
     </message>
 </context>
 <context>
@@ -6929,7 +6929,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="364"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation>Ви дійсно бажаєте видалити мод-пак %1?</translation>
+        <translation>Ви дійсно хочете видалити збірку %1?</translation>
     </message>
 </context>
 <context>
@@ -8445,9 +8445,9 @@ This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
         <translation>Ви намагаєтесь видалити &quot;%1&quot;.
-Цю дію неможливо скасувати і призведе до цілковитого видалення збірки.
+Ця дія призведе до цілковитого і безповоротного видалення екземпляра.
 
-Ви впевнені?</translation>
+Продовжити?</translation>
     </message>
     <message>
         <source>About to delete: %1
@@ -8507,7 +8507,7 @@ Please create a new instance before attempting to install this resource again.</
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation>Ви впевнені, що хочете видалити групу «%1»?</translation>
+        <translation>Ви дійсно хочете видалити групу «%1»?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1187"/>
@@ -8576,9 +8576,9 @@ This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
         <translation>Ви збираєтеся видалити &quot;%1&quot;%2.
-Це може бути постійним і повністю видалить інстант.
+Ця дія призведе до цілковитого і безповоротного видалення екземпляра.
 
-Ви впевнені?</translation>
+Продовжити?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
@@ -10119,8 +10119,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="131"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Видалення модів під час того як гра запущена може призвести до її аварійного завершення
-Ви впевнені, що хочете це зробити?</translation>
+        <translation>Видалення модів запущеної гри може призвести до її аварійного завершення
+Ви дійсно хочете це зробити?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="166"/>
