@@ -303,7 +303,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="988"/>
         <source>Installing modpack</source>
-        <translation>Instalas modpakon</translation>
+        <translation>Instalante modifaĵaron</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1000"/>
@@ -1191,7 +1191,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Averto: Ĉi tio jam estas farata. Se vi havas problemojn pri la importita modpako, ĝi eble estas cimo.</translation>
+        <translation>Averto: Ĉi tio jam estas farata. Se vi havas problemojn pri la importita modifaĵaro, ĝi eble estas cimo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
@@ -3496,7 +3496,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="312"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Neniu ŝargilan version fiksitis por modpako!</translation>
+        <translation>Neniu ŝargila versio agordita por la modifaĵaro!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="348"/>
