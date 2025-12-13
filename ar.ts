@@ -6817,7 +6817,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">شكل</translation>
+        <translation>مصدر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
@@ -6881,12 +6881,12 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="45"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation type="unfinished"></translation>
+        <translation>استخراج الملفات الفارغة يبدو أمراً غريباً...</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تحليل الملف %1</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
