@@ -485,7 +485,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>Tipo de la konta (MSA aŭ ElReta)</translation>
+        <translation>Tipo de la konto (MSA aŭ eksterrete)</translation>
     </message>
     <message>
         <source>N/A</source>
