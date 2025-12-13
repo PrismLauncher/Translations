@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>Teknika Klienta ID</translation>
+        <translation>Technic-klienta ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -253,12 +253,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
         <source>Selecting optional mods...</source>
-        <translation>Elektas nedevigajn modojn...</translation>
+        <translation>Elektante nedevigajn modifaĵojn...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
         <source>Downloading mods...</source>
-        <translation>Elŝutas modifojn...</translation>
+        <translation>Elŝutante modifaĵojn...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="709"/>
@@ -278,7 +278,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="814"/>
         <source>Blocked mods found</source>
-        <translation>Blokitaj modoj trovitaj</translation>
+        <translation>Blokitaj modifaĵoj trovitaj</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="815"/>
@@ -293,12 +293,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="906"/>
         <source>Failed to extract mods...</source>
-        <translation>Malsukcesis ĉerpi modifojn...</translation>
+        <translation>Malsukcesis malkompaktigi modifaĵojn...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="916"/>
         <source>Extracting mods...</source>
-        <translation>Ĉerpi modifojn...</translation>
+        <translation>Malkompaktigante modifaĵojn...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="988"/>
@@ -485,7 +485,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>Tipo de la konto (MSA aŭ eksterrete)</translation>
+        <translation>Tipo de la konto (MSA aŭ eksterreta)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -640,7 +640,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
         <source>Refresh the account tokens</source>
-        <translation>Refreŝi la ĵetonojn de la konto</translation>
+        <translation>Aktualigi la ĵetonojn de la konto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -699,7 +699,7 @@ Se vi estas nova, vi povas premi la butonon &quot;Aldoni Microsoft&quot; por lig
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Vi devas aldoni Microsoft-konton, kiu posedas Minecraft, antaŭ ol vi povas aldoni senkonektan konton.&lt;br&gt; Se vi perdis vian konton vi povas kontakti Microsoft por subteno.</translation>
+        <translation>Vi devas aldoni Microsoft-konton, kiu posedas Minecraft, antaŭ ol vi povas aldoni senkonektan konton.&lt;br&gt; Se vi perdis vian konton, eblas kontakti Microsoft por subteno.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -1135,7 +1135,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>Elektu modifojn por instali</translation>
+        <translation>Elektu instalotajn modifaĵojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -1398,12 +1398,12 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="173"/>
         <source>All mods found</source>
-        <translation>Trovis ĉiujn modifojn</translation>
+        <translation>Ĉiuj modifaĵoj trovitaj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
         <source>Please download the missing mods.</source>
-        <translation>Bonvolu elŝuti la mankatajn modifojn.</translation>
+        <translation>Bonvolu elŝuti la mankantajn modifaĵojn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
@@ -1454,7 +1454,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Elekti la dosierujon, kie vi elŝutis la modifojn</translation>
+        <translation>Elektu la dosierujon, de kie vi elŝutis la modifaĵojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
@@ -1468,7 +1468,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Via agordita ĝenerala modifo-dosierujo kaj defaŭlta elŝuto-dosierujo estas aŭtomate kontrolata por la elŝutitaj modifoj kaj ilin kopios al la apero se trovita.&lt;/p&gt;&lt;p&gt;Nedevige, vi povas ŝovmeti la elŝutitajn modifojn sur ĉi tiun dialogon aŭ aldoni dosierujon por atentado se vi ne elŝutis la modifojn al defaŭlta loko.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Via agordita ĝenerala modifaĵa dosierujo kaj defaŭlta elŝuta dosierujo estas aŭtomate kontrolataj por la elŝutitaj modifaĵoj kaj estos kopiataj al la instanco, se ili estas trovataj.&lt;/p&gt;&lt;p&gt;Nedevige, eblas ŝovi kaj demeti la elŝutitajn modifaĵojn sur ĉi tiun dialogon aŭ aldoni ilin al kontrolota dosierujo, se la modifaĵoj ne estis elŝutitaj al defaŭlta loko.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
@@ -1685,7 +1685,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished">Malŝaltante tion, vi ankoraŭ konservos la mod-kargilon (ekzemple, Fabric, Quilt, ktp.), sed vi forigos la dosierujon de la modoj kaj iliajn agordojn.</translation>
+        <translation>Malŝalti ĉi tion ankoraŭ konservos la modifaĵo-ŝargilojn (ekz. Fabric, Quilt, ktp.) sed la dosierujoj kaj agordoj de modifaĵoj estos forigitaj.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -1695,7 +1695,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation type="unfinished">Kopii modojn</translation>
+        <translation>Kopii modifaĵojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
@@ -1858,7 +1858,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation type="unfinished">Bazonaj modoj</translation>
+        <translation>Bazaj modifaĵoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -2391,7 +2391,7 @@ Are you sure?</source>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="unfinished">Kontrolante ĉu la modoj havas metadatumojn...</translation>
+        <translation>Kontrolante ĉu modifaĵoj havas metadatumojn...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2788,7 +2788,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="226"/>
         <source>Copy</source>
-        <translation type="unfinished">Kopiu</translation>
+        <translation>Kopii</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="68"/>
@@ -3398,7 +3398,7 @@ Bonvolu reprovi.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="40"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation type="unfinished">Preparante modojn por CurseForge...</translation>
+        <translation>Preparante resursojn por CurseForge...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -3450,7 +3450,7 @@ Bonvolu reprovi.</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Neniu valida versio trovita por ĉi tiu modo. Ĝi verŝajne ne disponeblas por la nuna ludversio / modŝargilo.</translation>
+        <translation>Neniu valida versio trovita por ĉi tiu modifaĵo. Ĝi verŝajne ne disponeblas por la nuna ludversio / modifaĵo-ŝargilo.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
@@ -3535,7 +3535,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="546"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Blokitaj modoj trovitaj</translation>
+        <translation>Blokitaj modifaĵoj trovitaj</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="547"/>
@@ -3570,7 +3570,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="605"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Elŝutas modifojn...</translation>
+        <translation>Elŝutante modifaĵojn...</translation>
     </message>
 </context>
 <context>
@@ -4272,7 +4272,7 @@ Bonvolu reprovi.</translation>
         <location filename="src/launcher/InstancePageProvider.h" line="48"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">Aliaj logoj</translation>
+        <translation>Aliaj protokoloj</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="52"/>
@@ -5716,7 +5716,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
         <source>&amp;Mods:</source>
-        <translation>&amp;Modifoj:</translation>
+        <translation>&amp;Modifaĵoj:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
@@ -5896,7 +5896,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Mods</source>
-        <translation>Modifoj</translation>
+        <translation>Modifaĵoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
@@ -6083,7 +6083,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="147"/>
         <source>Mods Folder</source>
-        <translation>Dosierujo de modifoj</translation>
+        <translation>Modifaĵa dosierujo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="158"/>
@@ -7032,7 +7032,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
         <source>Logs</source>
-        <translation>Logoj</translation>
+        <translation>Protokoloj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
@@ -8840,7 +8840,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download mods</source>
-        <translation>Elŝuti modifojn</translation>
+        <translation>Elŝuti modifaĵojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
@@ -9056,7 +9056,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="56"/>
         <source>Mods</source>
-        <translation>Modifoj</translation>
+        <translation>Modifaĵoj</translation>
     </message>
 </context>
 <context>
@@ -9310,7 +9310,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Neniu valida versio trovita por ĉi tiu modo. Ĝi verŝajne ne disponeblas por la nuna ludversio / modŝargilo.</translation>
+        <translation>Neniu valida versio trovita por ĉi tiu modifaĵo. Ĝi verŝajne ne disponeblas por la nuna ludversio / modifaĵo-ŝargilo.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
@@ -9376,7 +9376,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="305"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Elŝutas modifojn...</translation>
+        <translation>Elŝutante modifaĵojn...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="413"/>
@@ -9400,7 +9400,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="292"/>
         <source>Fetching changelogs...</source>
-        <translation>Venigado de ŝanĝlogojn...</translation>
+        <translation>Elŝutante ŝanĝoprotokolojn...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="372"/>
@@ -9736,7 +9736,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="53"/>
         <source>Notes</source>
-        <translation>Notojn</translation>
+        <translation>Notoj</translation>
     </message>
 </context>
 <context>
@@ -10013,7 +10013,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Other logs</source>
-        <translation>Aliaj logoj</translation>
+        <translation>Aliaj protokoloj</translation>
     </message>
 </context>
 <context>
@@ -11819,7 +11819,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="107"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>modifoj</translation>
+        <translation>modifaĵojn</translation>
     </message>
     <message>
         <source>Change %1 version</source>
@@ -11832,7 +11832,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="46"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation>modifoj</translation>
+        <translation>modifaĵoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
@@ -12108,7 +12108,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="163"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>nuancilaroj</translation>
+        <translation type="unfinished">ombrigilojn</translation>
     </message>
 </context>
 <context>
@@ -12117,7 +12117,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="36"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation>nuancilaroj</translation>
+        <translation>ombrigiloj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="38"/>
@@ -13007,7 +13007,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="157"/>
         <source>Add</source>
-        <translation type="unfinished">Aldoni modifojn</translation>
+        <translation>Aldoni modifaĵojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="162"/>
@@ -13090,7 +13090,7 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation>Nuancilaroj</translation>
+        <translation>Ombrigiloj</translation>
     </message>
     <message>
         <source>Download shaders</source>
@@ -14446,7 +14446,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
         <source>Select jar mods</source>
-        <translation>Elekti JAR modifojn</translation>
+        <translation>Elekti JAR-modifaĵojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
@@ -14754,7 +14754,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="265"/>
         <source>Game Mode</source>
-        <translation>Modo de Ludo</translation>
+        <translation>Ludreĝimo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="267"/>
@@ -14809,7 +14809,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="98"/>
         <source>Add</source>
-        <translation type="unfinished">Aldoni modifojn</translation>
+        <translation>Aldoni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
