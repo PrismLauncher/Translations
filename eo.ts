@@ -659,8 +659,8 @@ Se vi estas nova ĉi tie, vi povas alklaki &quot;Aldoni&quot; por aldoni vian Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation>Bonvenon!
-Se vi estas nova, vi povas premi la butonon &quot;Aldoni Microsoft&quot; por ligi vian konton de Microsoft.</translation>
+        <translation>Bonvenon
+Se vi estas nova ĉi tie, vi povas elekti la butonon &quot;Aldoni Microsoft&quot; por ligi vian Microsoft-konton.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
@@ -736,7 +736,7 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished">Ĉu vi vere deziras forigi ĉi tiun konton?</translation>
+        <translation>Ĉu vi vere volas forigi ĉi tiun konton?</translation>
     </message>
     <message>
         <source>Skin Delete</source>
