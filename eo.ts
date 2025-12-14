@@ -84,7 +84,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Noto: Vi probable ne bezonas ŝalti ĉi tion se ensaluti tra Microsoft-Aŭtentigo jam funkcias.</translation>
+        <translation>Noto: Vi probable ne devas ŝanĝi ĉi tion se ensaluti tra Microsoft-aŭtentigo jam funkcias.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -331,7 +331,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Kutimo lanĉilo tio faciligas administranta Minecraft permesante vi havi multoblaj Minecraft okazoj samtempe.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Adaptita lanĉilo kiu plifaciligas la mastrumadon de Minecraft, permesante al vi uzi kaj administri plurajn instancojn de Minecraft samtempe.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -346,7 +346,7 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation>Dato de Versio:</translation>
+        <translation>Dato de kunmetaĵo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
@@ -391,7 +391,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="109"/>
         <source>Build date: %1</source>
-        <translation>Dato de Versio: %1</translation>
+        <translation>Dato de kunmetaĵo: %1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -807,7 +807,7 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation>Vidi dosierujon de katpakoj.</translation>
+        <translation>Malfermi dosierujon de katujoj.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
@@ -819,17 +819,17 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation>Vidi dosierujon de fenestraĵaj temoj.</translation>
+        <translation>Malfermi dosierujon de aplikaĵaj etosoj.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation>Vidi dosierujon de bildsimbolaj temoj.</translation>
+        <translation>Malfermi dosierujon de bildsimbolaj etosoj.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation>&amp;Katpako:</translation>
+        <translation>&amp;Katujo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
@@ -976,10 +976,10 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.</source>
         <translation>Provo de ĝisdatigo malsukcesis.
 
-Bonvolu certigi vian instaladon estas en funkciado antaŭ daŭrigi.
-Kontrolu la Prism Launcher ĝisdatigor-registron ĉe:&#xa0;
+Bonvolu certigi ke via instalaĵo estas funkcianta antaŭ daŭrigi.
+Kontrolu la Prism Launcher ĝisdatigo-protokolon ĉe:&#xa0;
 %1
-por pli detaloj de la antaŭa provo de ĝisdatigo.</translation>
+por pli da detaloj pri la antaŭa provo de ĝisdatigo.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1141"/>
@@ -1000,10 +1000,10 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">Ĝisdatigo sukcesis
+        <translation>Ĝisdatigo sukcesa
 
-Vi nun kuras %1.
-Kontrolu la Prism Launcher ĝisdatigor-registron ĉe:
+Vi nun uzas %1.
+Kontrolu la Prism Launcher ĝisdatigo-protokolon ĉe:
 %1
 por detaloj.</translation>
     </message>
@@ -1145,12 +1145,12 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation>Elekti Rekomendatajn</translation>
+        <translation type="unfinished">Elekti Rekomenditojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation>Uzi Havigkodon</translation>
+        <translation type="unfinished">Uzi Havigkodon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
@@ -1851,7 +1851,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished">Komprene</translation>
+        <translation>Bone</translation>
     </message>
 </context>
 <context>
@@ -2498,7 +2498,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="92"/>
         <source>OK</source>
-        <translation type="unfinished">Komprene</translation>
+        <translation>Bone</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="137"/>
@@ -2645,7 +2645,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="123"/>
         <source>OK</source>
-        <translation type="unfinished">Komprene</translation>
+        <translation>Bone</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
@@ -2842,22 +2842,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished">&amp;Ebligu</translation>
+        <translation>&amp;Ebligi</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="unfinished">Ebligu elektitan objekton</translation>
+        <translation>Ebligi elektitan objekton</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished">&amp;Malebligu</translation>
+        <translation>&amp;Malebligi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="117"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation type="unfinished">Malebligu elektitan objekton</translation>
+        <translation>Malebligi elektitajn objektojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="59"/>
@@ -2897,7 +2897,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished">Vidi &amp;dosierujo</translation>
+        <translation>Montri &amp;dosierujon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
@@ -2966,7 +2966,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished">&amp;Kontrolu por Ĝisdatigoj</translation>
+        <translation>&amp;Kontroli por ĝisdatigoj</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
@@ -3170,7 +3170,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>OK</source>
-        <translation>Komprene</translation>
+        <translation>Bone</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
@@ -3912,7 +3912,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"/>
         <source>OK</source>
-        <translation type="unfinished">Komprene</translation>
+        <translation>Bone</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="87"/>
@@ -4049,7 +4049,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
-        <translation type="unfinished">Komprene</translation>
+        <translation>Bone</translation>
     </message>
 </context>
 <context>
@@ -6486,7 +6486,7 @@ Reason:
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="246"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="68"/>
         <source>Minecraft Log</source>
-        <translation>Logo de Minecraft</translation>
+        <translation>Protokolo de Minecraft</translation>
     </message>
 </context>
 <context>
@@ -6868,7 +6868,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="259"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation type="unfinished"></translation>
+        <translation>Jen ĉarma katido! :3</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
@@ -7089,12 +7089,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Katujoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Malfermi la dosierujon de katujoj en dosieresplorilo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
@@ -9107,7 +9107,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur modifaĵoj kun kontrolmarko estos ĝisdatigitaj!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
@@ -9633,7 +9633,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation type="unfinished">Komprene</translation>
+        <translation>Bone</translation>
     </message>
 </context>
 <context>
@@ -9662,7 +9662,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="113"/>
         <source>OK</source>
-        <translation type="unfinished">Komprene</translation>
+        <translation>Bone</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="119"/>
@@ -9778,7 +9778,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Komprene</translation>
+        <translation>Bone</translation>
     </message>
 </context>
 <context>
@@ -9796,7 +9796,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="41"/>
         <source>Deselect All</source>
-        <translation type="unfinished"></translation>
+        <translation>Malelekti Ĉiujn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="61"/>
@@ -9811,7 +9811,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="48"/>
         <source>OK</source>
-        <translation type="unfinished">Komprene</translation>
+        <translation>Bone</translation>
     </message>
 </context>
 <context>
@@ -10647,7 +10647,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="76"/>
         <source>OK</source>
-        <translation type="unfinished">Komprene</translation>
+        <translation>Bone</translation>
     </message>
 </context>
 <context>
@@ -10672,7 +10672,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="75"/>
         <source>OK</source>
-        <translation type="unfinished">Komprene</translation>
+        <translation>Bone</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
@@ -11846,7 +11846,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="72"/>
         <source>Review and confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroli kaj konfirmi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="73"/>
@@ -12035,7 +12035,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="276"/>
         <source>Deselect %1 for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Malelekti %1 por elŝuto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="304"/>
@@ -12510,7 +12510,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="55"/>
         <source>Only resources with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur resursoj kun kontrolmarko estos ĝisdatigitaj!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="73"/>
@@ -12672,7 +12672,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="25"/>
         <source>OK</source>
-        <translation type="unfinished">Komprene</translation>
+        <translation>Bone</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="64"/>
@@ -12716,17 +12716,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"/>
         <source>Confirm %1 selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmi %1 elekton</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="120"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>La sekvaj %1 estos elŝutataj:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="121"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur %1 kun kontrolmarko estos elŝutitaj!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
@@ -12759,7 +12759,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="82"/>
         <source>View Folder</source>
-        <translation>Vidi dosierujo</translation>
+        <translation>Malfermi dosierujon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="87"/>
@@ -12876,7 +12876,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="14"/>
         <source>OK</source>
-        <translation type="unfinished">Komprene</translation>
+        <translation>Bone</translation>
     </message>
 </context>
 <context>
@@ -12934,7 +12934,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="61"/>
         <source>OK</source>
-        <translation type="unfinished">Komprene</translation>
+        <translation>Bone</translation>
     </message>
 </context>
 <context>
@@ -13007,7 +13007,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="157"/>
         <source>Add</source>
-        <translation>Aldoni modifaĵojn</translation>
+        <translation>Aldoni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="162"/>
@@ -13094,7 +13094,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation>Elŝuti nuancilojn</translation>
+        <translation>Elŝuti ombrigilojn</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
@@ -13351,7 +13351,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="104"/>
         <source>OK</source>
-        <translation type="unfinished">Komprene</translation>
+        <translation>Bone</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="154"/>
@@ -13959,7 +13959,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation type="unfinished">Vidi dosierujon de bildsimbolaj temoj.</translation>
+        <translation>Malfermi dosierujon de bildsimbolaj etosoj.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
@@ -13979,7 +13979,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation type="unfinished">Vidi dosierujon de katpakoj.</translation>
+        <translation>Malfermi dosierujon de katujoj.</translation>
     </message>
     <message>
         <source>Refresh all</source>
@@ -14824,7 +14824,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="113"/>
         <source>Copy</source>
-        <translation type="unfinished">Kopiu</translation>
+        <translation>Kopii</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -14853,7 +14853,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="138"/>
         <source>View Folder</source>
-        <translation>Vidi dosierujo</translation>
+        <translation>Malfermi dosierujon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="143"/>
