@@ -1411,32 +1411,32 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
         <translation>Su meta información no está actualizada o no tiene la información necesaria para determinar qué instalación de Java debe utilizarse. Utilizando la ruta Java por defecto.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="138"/>
         <source>Compatible Java found at: %1.</source>
         <translation>Java compatible encontrado en: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="155"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
         <translation>No se ha encontrado una versión de Java compatible (el archivo binario no existe). Utilización de la versión por defecto.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
         <source>Could not determine Java download type!</source>
         <translation>¡No se pudo determinar el tipo de descarga de Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="183"/>
         <source>Install Java</source>
         <translation>Instale Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
         <translation>No se han encontrado versiones de Java para su sistema operativo: %1-%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
         <source>No compatible version of Java was found. Using the default one.</source>
         <translation>No se ha encontrado una versión compatible de Java. Utilizando la predeterminada.</translation>
     </message>
@@ -5201,7 +5201,7 @@ Asegúrese de que el valor máximo de memoria es inferior.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="292"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="323"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="324"/>
         <source>Install Java</source>
         <translation>Instalar Java</translation>
     </message>
@@ -5212,12 +5212,12 @@ Asegúrese de que el valor máximo de memoria es inferior.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="319"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="330"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="331"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="336"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
@@ -12494,7 +12494,7 @@ Estado de HTTP: %2</translation>
 <context>
     <name>ProjectItemDelegate</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="85"/>
+        <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="92"/>
         <source>%1 [installed]</source>
         <translation>%1 [instalado]</translation>
     </message>
@@ -14947,17 +14947,17 @@ Versión instalada actualmente: %1</translation>
 <context>
     <name>ServersModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="285"/>
         <source>Name</source>
         <translation>Nombre</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="287"/>
         <source>Address</source>
         <translation>IP del servidor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
         <source>Online</source>
         <translation>Conectado/a</translation>
     </message>
@@ -15039,17 +15039,17 @@ Versión instalada actualmente: %1</translation>
         <translation>Servidores</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="606"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="598"/>
         <source>Context menu</source>
         <translation>Menú contextual</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="737"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="729"/>
         <source>Confirm Removal</source>
         <translation>Confirmar Eliminación</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="738"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="730"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 

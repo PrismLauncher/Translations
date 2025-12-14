@@ -1180,32 +1180,32 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>თქვენი მეტა ინფორმაცია დაძველებულია ან არ გააჩნია საჭირო ინფორმაცია იმის განსაზღვრელად, თუ რომელი Java-ის ინსტალაციის გამოყენება სჯობს.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="138"/>
         <source>Compatible Java found at: %1.</source>
         <translation>შეთავსებადი Java ნაპოვნია აქ: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="155"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
         <translation>Java-ის ვერცერთი შეთავსებადი ვერსია ვერ მოიძებნა (ბინარული ფაილი არ არსებობს). გამოიყენება ნაგულისხმევი ვერსია.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
         <source>Could not determine Java download type!</source>
         <translation>Java-ის გადმოწერის ტიპის დადგენა ვერ ხერხდება!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="183"/>
         <source>Install Java</source>
         <translation>Java-ის დაყენება</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
         <source>No compatible version of Java was found. Using the default one.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4458,7 +4458,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="292"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="323"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="324"/>
         <source>Install Java</source>
         <translation type="unfinished">Java-ის დაყენება</translation>
     </message>
@@ -4469,12 +4469,12 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="319"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="330"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="331"/>
         <source>Error</source>
         <translation type="unfinished">შეცდომა</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="336"/>
         <source>Abort</source>
         <translation type="unfinished">შეწყვეტა</translation>
     </message>
@@ -10226,7 +10226,7 @@ HTTP Status: %2</source>
 <context>
     <name>ProjectItemDelegate</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="85"/>
+        <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="92"/>
         <source>%1 [installed]</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12423,17 +12423,17 @@ Currently installed version: %1</source>
 <context>
     <name>ServersModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="285"/>
         <source>Name</source>
         <translation>სახელი</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="287"/>
         <source>Address</source>
         <translation>მისამართი</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
         <source>Online</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12515,17 +12515,17 @@ Currently installed version: %1</source>
         <translation>სერვერი</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="606"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="598"/>
         <source>Context menu</source>
         <translation>კონტექსტური მენიუ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="737"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="729"/>
         <source>Confirm Removal</source>
         <translation>წაშლის დადასტურება</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="738"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="730"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 

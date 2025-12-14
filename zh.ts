@@ -1402,32 +1402,32 @@ Some versions of Minecraft may not launch.
         <translation>现有的元数据已过期或缺失用于判断需要使用哪个 Java 的信息。将使用默认 Java 路径。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="138"/>
         <source>Compatible Java found at: %1.</source>
         <translation>在 %1 处找到了兼容的 Java。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="155"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
         <translation>找不到兼容的 Java 版本（二进制文件不存在）。将使用默认版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
         <source>Could not determine Java download type!</source>
         <translation>无法确定 Java 下载类型！</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="183"/>
         <source>Install Java</source>
         <translation>安装 Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
         <translation>在系统内找不到 Java：%1-%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
         <source>No compatible version of Java was found. Using the default one.</source>
         <translation>找不到兼容的 Java 版本。将使用默认的 Java。</translation>
     </message>
@@ -5211,7 +5211,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="292"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="323"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="324"/>
         <source>Install Java</source>
         <translation>安装 Java</translation>
     </message>
@@ -5222,12 +5222,12 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="319"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="330"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="331"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="336"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
@@ -12484,7 +12484,7 @@ HTTP 状态码：%2</translation>
 <context>
     <name>ProjectItemDelegate</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="85"/>
+        <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="92"/>
         <source>%1 [installed]</source>
         <translation>%1 [已安装]</translation>
     </message>
@@ -14935,17 +14935,17 @@ Currently installed version: %1</source>
 <context>
     <name>ServersModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="285"/>
         <source>Name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="287"/>
         <source>Address</source>
         <translation>地址</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
         <source>Online</source>
         <translation>在线</translation>
     </message>
@@ -15027,17 +15027,17 @@ Currently installed version: %1</source>
         <translation>服务器</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="606"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="598"/>
         <source>Context menu</source>
         <translation>上下文菜单</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="737"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="729"/>
         <source>Confirm Removal</source>
         <translation>确认删除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="738"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="730"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 

@@ -1350,32 +1350,32 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
         <translation>Metadatainformasjonen din er utdatert eller inneholder ikke nødvendig informasjon til å finne ut av hvilken Java-versjon som bør brukes. Bruker standard Java-mappe.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="138"/>
         <source>Compatible Java found at: %1.</source>
         <translation>Fant kompatibel Java ved: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="155"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
         <translation>Fant ingen kompatible Java-versioner (binærfilen finnes ikke). Bruker standardversjonen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
         <source>Could not determine Java download type!</source>
         <translation>Klarte ikke bestemme Java-nedlastingstype!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="183"/>
         <source>Install Java</source>
         <translation>Installer Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
         <translation>Fant ingen Java-versjoner for ditt operativsystem: %1-%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
         <source>No compatible version of Java was found. Using the default one.</source>
         <translation>Fant ingen kompatible versjoner av Java. Bruker standarden.</translation>
     </message>
@@ -4901,7 +4901,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="292"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="323"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="324"/>
         <source>Install Java</source>
         <translation>Installer Java</translation>
     </message>
@@ -4912,12 +4912,12 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="319"/>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="330"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="331"/>
         <source>Error</source>
         <translation>Feil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="335"/>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="336"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -11229,7 +11229,7 @@ HTTP Status: %2</source>
 <context>
     <name>ProjectItemDelegate</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="85"/>
+        <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="92"/>
         <source>%1 [installed]</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13460,17 +13460,17 @@ Currently installed version: %1</source>
 <context>
     <name>ServersModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="285"/>
         <source>Name</source>
         <translation>Navn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="287"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
         <source>Online</source>
         <translation>På nett</translation>
     </message>
@@ -13552,17 +13552,17 @@ Currently installed version: %1</source>
         <translation>Servere</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="606"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="598"/>
         <source>Context menu</source>
         <translation>Meny</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="737"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="729"/>
         <source>Confirm Removal</source>
         <translation>Bekreft fjerning</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="738"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="730"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
