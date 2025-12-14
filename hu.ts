@@ -13962,7 +13962,7 @@ A szerző valószínűleg blokkolta a harmadik féltől származó launchereket.
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="99"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült átnevezni a shader konfigurációt: &apos;%1&apos; -&gt; &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
