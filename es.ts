@@ -10371,7 +10371,8 @@ Estás seguro?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation>Necesitas instalar un mod loader compatible antes de instalar mods. ¿Te gustaría hacerlo?</translation>
+        <translation>Necesitas instalar un mod loader compatible antes de instalar mods.
+¿Te gustaría hacerlo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
@@ -14085,7 +14086,7 @@ El autor probablemente bloqueó los launchers de terceros.</translation>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="99"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo cambiar el nombre de la configuración del shader de &apos;%1&apos; a &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
