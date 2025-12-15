@@ -14159,7 +14159,7 @@ Autor najprawdopodobniej zablokował dostęp dla launcherów osób trzecich.</tr
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="99"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się zmienić nazwy konfiguracji shaderów z &apos;%1&apos; na &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
