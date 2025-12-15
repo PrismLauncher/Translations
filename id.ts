@@ -1921,7 +1921,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
         <source>Core Mods</source>
-        <translation>Mod-mod inti</translation>
+        <translation>Mod-mod Inti</translation>
     </message>
 </context>
 <context>
@@ -4580,7 +4580,7 @@ Coba ulang lagi.</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Jika aktif, launcher tidak akan memeriksa kecocokan sebuah instansi dengan versi Java terpilih.</translation>
+        <translation>Jika aktif, peluncur tidak akan memeriksa kecocokan sebuah instansi dengan versi Java terpilih.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
@@ -4684,7 +4684,7 @@ Coba ulang lagi.</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation>Keluar dari launcher setelah jendela permainan tertutup</translation>
+        <translation>Keluar dari peluncur setelah jendela permainan tertutup</translation>
     </message>
     <message>
         <source>Custom commands</source>
@@ -5221,7 +5221,7 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Jika aktif, launcher tidak akan memeriksa kecocokan sebuah instansi dengan versi Java terpilih.</translation>
+        <translation>Jika aktif, peluncur tidak akan memeriksa kecocokan sebuah instansi dengan versi Java terpilih.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
@@ -5412,7 +5412,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation>Jika diaktifkan, launcher tidak akan mengalihkanmu untuk memilih versi Java jika salah satunya tidak ditemukan saat memulai.</translation>
+        <translation>Jika diaktifkan, peluncur tidak akan mengalihkanmu untuk memilih versi Java jika salah satunya tidak ditemukan saat memulai.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="156"/>
@@ -5422,7 +5422,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Jika aktif, launcher tidak akan memeriksa kecocokan sebuah instansi dengan versi Java terpilih.</translation>
+        <translation>Jika aktif, peluncur tidak akan memeriksa kecocokan sebuah instansi dengan versi Java terpilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
@@ -5800,7 +5800,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="339"/>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>&apos;%1&apos; sudah tidak ada lagi di server. Mungkin sudah dipindah, jika benar tolong tambahkan akun baru yang telah kamu pindahkan dari sini.</translation>
+        <translation>&apos;%1&apos; sudah tidak ada lagi di server. Mungkin sudah dipindah, jika benar mohon tambahkan akun baru yang telah kamu pindahkan dari sini.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="356"/>
@@ -6576,7 +6576,7 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     </message>
     <message>
         <source>Launcher</source>
-        <translation>Launcher</translation>
+        <translation>Peluncur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6594,7 +6594,7 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="88"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation>Library launcher versi lama tidak dapat ditemukan. Mohon memeriksa instalasi Anda.</translation>
+        <translation>Library peluncur versi lama tidak dapat ditemukan. Mohon memeriksa instalasi Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="140"/>
@@ -7093,7 +7093,7 @@ Alasan:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak dapat menambahkan:</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -7129,7 +7129,7 @@ Alasan:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mengurai berkas %1</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
@@ -7732,7 +7732,7 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation>Buka folder root launcher di dalam file browser.</translation>
+        <translation>Buka folder root peluncur di dalam file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
@@ -8218,7 +8218,7 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>Launcher di dalam folder asal ekstraksi, maka tidak dapat dibuatkan pintasan.</translation>
+        <translation>Peluncur di dalam folder asal ekstraksi, maka tidak dapat dibuatkan pintasan.</translation>
     </message>
     <message>
         <source>Create instance Application</source>
@@ -8246,7 +8246,7 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>Launcher sedang berjalan sebagai AppImage yang salah dikonfigurasi? (Variabel environment $APPIMAGE tidak ada)</translation>
+        <translation>Peluncur sedang berjalan sebagai AppImage yang salah dikonfigurasi? (Variabel environment $APPIMAGE tidak ada)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -8308,7 +8308,7 @@ Silakan periksa trashbin kamu untuk mengembalikannya secara manual.</translation
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
         <translation>Penghapusan cache metadata Gagal!
-Untuk menghapus cache metadata secara manual, tekan Folder -&gt; Lihat Folder root Launcher, dan setelah menutup launcher hapus folder bernamakan &quot;meta&quot;
+Untuk menghapus cache metadata secara manual, tekan Folder -&gt; Lihat Folder root Peluncur, dan setelah menutup peluncur hapus folder bernamakan &quot;meta&quot;
 </translation>
     </message>
     <message>
@@ -8374,12 +8374,12 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation>Ini adalah masalah: &lt;br/&gt; - Launcher akan mungkin terhapus tanpa peringatan oleh sistem operasi &lt;br/&gt; - tutup launcher sekarang dan ekstraksikan ke dalam lokasi yang sebenarnya, bukan folder sementara</translation>
+        <translation>Ini adalah masalah: &lt;br/&gt; - Peluncur akan mungkin terhapus tanpa peringatan oleh sistem operasi &lt;br/&gt; - tutup peluncur sekarang dan ekstraksikan ke dalam lokasi yang sebenarnya, bukan folder sementara</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>Terdapat &apos;Rar$&apos; di folder Instansi Anda - yang berarti Anda belum mengekstraksi arsip launcher!</translation>
+        <translation>Terdapat &apos;Rar$&apos; di folder Instansi Anda - yang berarti Anda belum mengekstraksi arsip peluncur!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1657"/>
@@ -8561,7 +8561,7 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="333"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation>Instansi gagal diperbarui ke versi paket %1. Tolong cek log launcher untuk informasi lebih lanjut.</translation>
+        <translation>Instansi gagal diperbarui ke versi paket %1. Tolong cek log peluncur untuk informasi lebih lanjut.</translation>
     </message>
 </context>
 <context>
@@ -8858,22 +8858,22 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Launcher akan secara otomatis membuka kembali ketika permainan gagal atau keluar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Peluncur akan secara otomatis membuka kembali ketika permainan gagal atau keluar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>Tutup launcher setelah jendela permainan terbuka (&amp;C)</translation>
+        <translation>Tutup peluncur setelah jendela permainan terbuka (&amp;C)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Launcher akan secara otomatis keluar setelah permainan keluar atau gagal.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Peluncur akan secara otomatis keluar setelah permainan keluar atau gagal.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>Keluar dari launcher setelah jendela permainan tertutup (&amp;Q)</translation>
+        <translation>Keluar dari peluncur setelah jendela permainan tertutup (&amp;Q)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -8978,7 +8978,7 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
-        <translation>Saat jendela game ditutup, tutup launcher</translation>
+        <translation>Saat jendela game ditutup, tutup peluncur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
@@ -9107,7 +9107,7 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
         <source>When the game window opens, hide the launcher</source>
-        <translation>Saat jendela game dibuka, sembunyikan launcher</translation>
+        <translation>Saat jendela game dibuka, sembunyikan peluncur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
@@ -9132,7 +9132,7 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="234"/>
         <source>When the game is launched, show the console window</source>
-        <translation>Saat game dubuka, tunjukkan jendela konsol</translation>
+        <translation>Saat game dibuka, tunjukkan jendela konsol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="241"/>
@@ -9902,12 +9902,12 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
         <source>Missing Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Pemuat Mod Tidak Ada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda harus memasang pemuat mod yang cocok sebelum memasang mod. Apakah Anda ingin melakukannya?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
@@ -11293,12 +11293,12 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="107"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation>Gunakan versi ini sebagai versi launcher terinstal. (tersedia karena stdout tidak dapat ditangkap dengan baik dalam windows)</translation>
+        <translation>Gunakan versi ini sebagai versi peluncur terinstal. (tersedia karena stdout tidak dapat ditangkap dengan baik dalam windows)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="108"/>
         <source>installed launcher version</source>
-        <translation>versi launcher terinstal</translation>
+        <translation>versi peluncur terinstal</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="109"/>
@@ -11539,7 +11539,7 @@ Memperbarui dari versi %3 ke %4
 Path target instalasi: %5
 Path Data: %6
 Ini mungkin mengartikan pembaruan terakhir gagal. Mohon memastikan instalasi Anda fungsional sebelum melanjutkan.
-Periksa log pembaru launcher di 
+Periksa log pembaru peluncur di 
 %7
 untuk detail mengenai pembaruan terakhir.
 
@@ -11680,7 +11680,7 @@ Untuk menimpa lock ini dan melanjutkan pembaruan, pilih &quot;Abaikan&quot; di b
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1147"/>
         <source>Child launcher process failed.</source>
-        <translation>Proses launcher anak gagal.</translation>
+        <translation>Proses peluncur anak gagal.</translation>
     </message>
 </context>
 <context>
@@ -11835,7 +11835,7 @@ Status HTTP: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="32"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation>Pengaturan ini hanya berlaku pada launcher. Minecraft tidak menerima pengaturan proksi.</translation>
+        <translation>Pengaturan ini hanya berlaku pada peluncur. Minecraft tidak menerima pengaturan proksi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
@@ -11900,7 +11900,7 @@ Status HTTP: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="190"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>Catatan: Username dan sandi disimpan sebagai teks biasa dalam berkas pengaturan launcher!</translation>
+        <translation>Catatan: Username dan sandi disimpan sebagai teks biasa dalam berkas pengaturan peluncur!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="56"/>
@@ -12807,7 +12807,7 @@ Apakah kamu ingin lanjut?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>Launcher berada dalam folder asal ekstraksi, jadi tidak dapat dibuatkan pintasan.</translation>
+        <translation>Peluncur berada dalam folder asal ekstraksi, jadi tidak dapat dibuatkan pintasan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
@@ -12818,7 +12818,7 @@ Apakah kamu ingin lanjut?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>Launcher sedang berjalan sebagai AppImage yang salah dikonfigurasi? (Variabel environment $APPIMAGE tidak ada)</translation>
+        <translation>Peluncur sedang berjalan sebagai AppImage yang salah dikonfigurasi? (Variabel environment $APPIMAGE tidak ada)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
@@ -13254,7 +13254,7 @@ Mohon perbarui %1!</translation>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
         <translation>Tidak ada versi untuk &apos;%1&apos; yang tersedia.
-Pencipta mungkin memblokir launcher pihak ketiga.</translation>
+Pencipta mungkin memblokir peluncur pihak ketiga.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="540"/>
@@ -13354,7 +13354,7 @@ Pencipta mungkin memblokir launcher pihak ketiga.</translation>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="99"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal menamai ulang konfigurasi shader dari &apos;%1&apos; menjadi &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
