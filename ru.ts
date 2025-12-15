@@ -7403,7 +7403,7 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation>Невозможно просмотреть файл% 1</translation>
+        <translation>Не удалось разобрать файл %1</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
@@ -14183,7 +14183,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="99"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось переименовать конфигурацию шейдера с &apos;%1&apos; на &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
