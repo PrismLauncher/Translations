@@ -8958,7 +8958,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished">Skjema</translation>
+        <translation>Formular</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
@@ -9357,7 +9357,7 @@ Advarsel: Denne ressursen er hardlenket fra et annet sted. Å redigere den vil o
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">Endre versjon</translation>
+        <translation>Endre Versjon</translation>
     </message>
     <message>
         <source>Change mod version</source>
@@ -9365,7 +9365,7 @@ Advarsel: Denne ressursen er hardlenket fra et annet sted. Å redigere den vil o
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished">Besøk mod&apos;ens side</translation>
+        <translation>Besøk mod&apos;s side</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
@@ -9392,7 +9392,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="256"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="316"/>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>Please install a mod loader first!</source>
@@ -9403,7 +9403,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="237"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="260"/>
         <source>Aborted</source>
-        <translation type="unfinished">Avbrutt</translation>
+        <translation>Avbrutt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -9415,13 +9415,13 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="176"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="266"/>
         <source>Warnings</source>
-        <translation type="unfinished">Advarsler</translation>
+        <translation>Advarsler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="190"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="276"/>
         <source>Abort</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
@@ -9432,7 +9432,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="216"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Bekreft oppdatering</translation>
+        <translation>Bekreft Oppdatering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
@@ -9457,12 +9457,12 @@ Are you sure you want to do this?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="249"/>
         <source>Update checker</source>
-        <translation type="unfinished">Oppdateringssjekker</translation>
+        <translation>Oppdateringskontroll</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="290"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Bekreft Fjerning</translation>
+        <translation>Bekreft Fjerning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="291"/>
@@ -9484,7 +9484,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">«%1» er oppdatert! :)</translation>
+        <translation>&apos;%1&apos; er oppdatert! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="72"/>
@@ -9511,7 +9511,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="56"/>
         <source>Mods</source>
-        <translation type="unfinished">Mods</translation>
+        <translation>Mods</translation>
     </message>
 </context>
 <context>
@@ -9578,15 +9578,15 @@ Er du sikker?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Advarsler</translation>
+        <translation>Advarsler</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
@@ -9647,7 +9647,7 @@ Er du sikker?</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Ikke installert</translation>
+        <translation>Ikke installert</translation>
     </message>
     <message>
         <source>New version: %1</source>
@@ -9735,22 +9735,22 @@ Oppdater %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="179"/>
         <source>Not installed</source>
-        <translation type="unfinished">Ikke installert</translation>
+        <translation>Ikke installert</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="181"/>
         <source>Unknown</source>
-        <translation type="unfinished">Ukjent</translation>
+        <translation>Ukjent</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="217"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Ingen gyldig version funnet for denne ressursen. Den er sannsynligvis ikke tilgjengelig for den nåværende versjonen av spillet / mod lasteren.</translation>
+        <translation>Ingen gyldig version funnet for denne ressursen. Den er sannsynligvis ikke tilgjengelig for den nåværende versjonen av spillet / mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="220"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Ingen gyldig versjon funnet for denne ressursen. Den er sannsynligvis utilgjengelig for denne versjonen av spillet.</translation>
+        <translation>Ingen gyldig versjon funnet for denne ressursen. Den er sannsynligvis utilgjengelig for denne versjonen av spillet.</translation>
     </message>
     <message>
         <source>Preparing mods for Modrinth...</source>
@@ -9758,7 +9758,7 @@ Oppdater %1!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Ingen gyldige versjoner funnet for denne mod. Det er sannsynligvis utilgjengelig for gjeldende spillversjon / mod-laster.</translation>
+        <translation>Ingen gyldige versjoner funnet for denne mod. Det er sannsynligvis utilgjengelig for gjeldende spillversjon / mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
@@ -9771,12 +9771,12 @@ Oppdater %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="67"/>
         <source> (version %1)</source>
-        <translation type="unfinished"> (versjon %1)</translation>
+        <translation> (versjon %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="151"/>
         <source>No index file.</source>
-        <translation type="unfinished">Ingen indeksfil.</translation>
+        <translation>Ingen indeksfil.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="152"/>
@@ -11192,11 +11192,11 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="280"/>
         <source>The server responded with the following error:</source>
-        <translation>Tjeneren svarte med følgende feil.</translation>
+        <translation>Serveren svarte med følgende feil:</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation>Tjeneren svarte med følgende feil.</translation>
+        <translation>Serveren svarte med følgende feil:</translation>
     </message>
 </context>
 <context>
