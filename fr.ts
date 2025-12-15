@@ -1595,7 +1595,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation type="unfinished">Espace réservé pour l&apos;étiquette du message.</translation>
+        <translation>Espace réservé pour l&apos;étiquette du message.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
@@ -14076,7 +14076,7 @@ L&apos;auteur a certainement bloqué les lanceurs tiers.</translation>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="99"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de renommer la configuration du shader de &apos;%1&apos; à &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
