@@ -1578,37 +1578,37 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
         <source>Choose Offline Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Scegli Nome Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Etichetta del messaggio segnaposto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
         <source>Username</source>
-        <translation type="unfinished">Nome utente</translation>
+        <translation>Nome utente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un nome utente è valido solo se è di lunghezza compresa tra 3 e 16 caratteri e utilizza lettere inglesi, numeri e trattini bassi. Un nome utente non valido potrebbe impedire l&apos;accesso ai server e ai mondi in giocatore singolo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
         <source>Allow invalid usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>Consente nomi utenti non validi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annulla</translation>
+        <translation>Annullare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -7261,7 +7261,7 @@ Causa:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile aggiungere:</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -7297,7 +7297,7 @@ Causa:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Analisi del file %1 fallita</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
@@ -10233,12 +10233,12 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
         <source>Missing Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod Loader mancante</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hai bisogno di installare un mod loader compatibile prima di installare mod. Vuoi farlo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
@@ -13904,7 +13904,7 @@ L&apos;autore potrebbe aver bloccato i launcher di terze parti.</translation>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="99"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile rinominare shader config da &apos;%1&apos; a &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
