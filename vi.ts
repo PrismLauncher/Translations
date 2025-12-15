@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>Khoá API</translation>
+        <translation type="vanished">Khoá API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -92,16 +92,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation>(Mặc định)</translation>
+        <translation type="vanished">(Mặc định)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Nhập một client ID tùy chỉnh cho việc xác thực qua Microsoft ở đây.</translation>
+        <translation type="vanished">Nhập một client ID tùy chỉnh cho việc xác thực qua Microsoft ở đây.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>&amp;Modrinth API</translation>
+        <translation type="vanished">&amp;Modrinth API</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -110,15 +110,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Hãy nhập token API thủ công cho Modrinth tại đây.</translation>
+        <translation type="vanished">Hãy nhập token API thủ công cho Modrinth tại đây.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(Trống)</translation>
+        <translation type="vanished">(Trống)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>Client ID của Technic</translation>
+        <translation type="vanished">Client ID của Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -127,11 +127,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Nhập Client ID GUID cho Technic Launcher tùy chỉnh ở đây.</translation>
+        <translation type="vanished">Nhập Client ID GUID cho Technic Launcher tùy chỉnh ở đây.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Khác</translation>
+        <translation type="vanished">Khác</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -160,7 +160,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Điền một URL tùy chỉnh cho máy chủ metadata ở đây.</translation>
+        <translation type="vanished">Điền một URL tùy chỉnh cho máy chủ metadata ở đây.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge Core API</translation>
+        <translation type="vanished">&amp;CurseForge Core API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -179,11 +179,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Nhập một mã API tùy chỉnh cho CurseForge tại đây.</translation>
+        <translation type="vanished">Nhập một mã API tùy chỉnh cho CurseForge tại đây.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation>APIs</translation>
+        <translation type="vanished">APIs</translation>
     </message>
 </context>
 <context>
@@ -252,7 +252,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation>Không mở được gói config %1!</translation>
+        <translation type="vanished">Không mở được gói config %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -421,12 +421,12 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>Chưa kiểm tra</translation>
+        <translation type="vanished">Chưa kiểm tra</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Ngoại tuyến</translation>
+        <translation type="vanished">Ngoại tuyến</translation>
     </message>
     <message>
         <source>Online</source>
@@ -454,37 +454,37 @@
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation>Sẵn sàng</translation>
+        <translation type="vanished">Sẵn sàng</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>Đang hoạt động</translation>
+        <translation type="vanished">Đang hoạt động</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Lỗi</translation>
+        <translation type="vanished">Lỗi</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation>Đã hết hạn</translation>
+        <translation type="vanished">Đã hết hạn</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>Đã bị vô hiệu hóa</translation>
+        <translation type="vanished">Đã bị vô hiệu hóa</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>Biến mất</translation>
+        <translation type="vanished">Biến mất</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation>ẩn số</translation>
+        <translation type="vanished">ẩn số</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -1141,7 +1141,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Đang tải dữ liệu từ Mojang...</translation>
+        <translation type="vanished">Đang tải dữ liệu từ Mojang...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1533,11 +1533,11 @@ Một số phiên bản Minecraft có thể không khởi động.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Thư mục mods công cộng và thư mục tải xuống mặc định sẽ được kiểm tra tự đọng cho những mod đã tải xong và sẽ được sao chép vào đối tượng này nếu tìm thấy.&lt;/p&gt;&lt;p&gt;Nếu muốn, bạn có thể kéo và thả cái mod đã được tải xuống vào ô thoại này hoặc thêm một thư mục để xem nếu bạn không tải xuống những mods vào một vị trí mặc định.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Thư mục mods công cộng và thư mục tải xuống mặc định sẽ được kiểm tra tự đọng cho những mod đã tải xong và sẽ được sao chép vào đối tượng này nếu tìm thấy.&lt;/p&gt;&lt;p&gt;Nếu muốn, bạn có thể kéo và thả cái mod đã được tải xuống vào ô thoại này hoặc thêm một thư mục để xem nếu bạn không tải xuống những mods vào một vị trí mặc định.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation>Thư mục đã xem:</translation>
+        <translation type="vanished">Thư mục đã xem:</translation>
     </message>
 </context>
 <context>
@@ -1681,7 +1681,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation>Một hoặc nhiều công việc phụ đã thất bại</translation>
+        <translation type="vanished">Một hoặc nhiều công việc phụ đã thất bại</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1924,7 +1924,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation>Mod lõi</translation>
+        <translation type="vanished">Mod lõi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -2064,22 +2064,22 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation>Lệnh &amp;tùy chỉnh</translation>
+        <translation type="vanished">Lệnh &amp;tùy chỉnh</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>Lệnh sau khi thoát:</translation>
+        <translation type="vanished">Lệnh sau khi thoát:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>Lệnh trước khi khởi chạy:</translation>
+        <translation type="vanished">Lệnh trước khi khởi chạy:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>Lệnh &amp;Wrapper:</translation>
+        <translation type="vanished">Lệnh &amp;Wrapper:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2112,7 +2112,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation>Các câu lệnh tùy biến</translation>
+        <translation type="vanished">Các câu lệnh tùy biến</translation>
     </message>
 </context>
 <context>
@@ -2480,7 +2480,7 @@ Bạn có chắc không?</translation>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>Kiểm tra nếu mods có metadata...</translation>
+        <translation type="vanished">Kiểm tra nếu mods có metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2532,7 +2532,7 @@ Bạn có chắc không?</translation>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation>&amp;Biến môi trường</translation>
+        <translation type="vanished">&amp;Biến môi trường</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2569,7 +2569,7 @@ Bạn có chắc không?</translation>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation>Biến môi trường</translation>
+        <translation type="vanished">Biến môi trường</translation>
     </message>
 </context>
 <context>
@@ -2672,11 +2672,11 @@ Bạn có chắc không?</translation>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation>&amp;Tên</translation>
+        <translation type="vanished">&amp;Tên</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation>&amp;Phiên bản</translation>
+        <translation type="vanished">&amp;Phiên bản</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2724,7 +2724,7 @@ Bạn có chắc không?</translation>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation>&amp;Tác giả</translation>
+        <translation type="vanished">&amp;Tác giả</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2909,7 +2909,7 @@ Bạn có chắc không?</translation>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation>Lọc:</translation>
+        <translation type="vanished">Lọc:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2918,11 +2918,11 @@ Bạn có chắc không?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Thêm</translation>
+        <translation type="vanished">&amp;Thêm</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Thêm</translation>
+        <translation type="vanished">Thêm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -2931,7 +2931,7 @@ Bạn có chắc không?</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation>Xóa mục đã chọn</translation>
+        <translation type="vanished">Xóa mục đã chọn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -2940,7 +2940,7 @@ Bạn có chắc không?</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation>Bật mục đã chọn</translation>
+        <translation type="vanished">Bật mục đã chọn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
@@ -3055,7 +3055,7 @@ Bạn có chắc không?</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation>Tải xuống tài nguyên mới</translation>
+        <translation type="vanished">Tải xuống tài nguyên mới</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -3065,27 +3065,27 @@ Bạn có chắc không?</translation>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>Tìm hoặc cập nhật các tài nguyên đã chọn (cập nhật tất cả nếu không có tài nguyên nào được chọn)</translation>
+        <translation type="vanished">Tìm hoặc cập nhật các tài nguyên đã chọn (cập nhật tất cả nếu không có tài nguyên nào được chọn)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation>Xuất danh sách mod</translation>
+        <translation type="vanished">Xuất danh sách mod</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation>Xuất metadata của mod thành dạng văn bản</translation>
+        <translation type="vanished">Xuất metadata của mod thành dạng văn bản</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Thăm trang mod</translation>
+        <translation type="vanished">Thăm trang mod</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation>Tắt các mục đã chọn</translation>
+        <translation type="vanished">Tắt các mục đã chọn</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation>Đi đến trang chủ của mods</translation>
+        <translation type="vanished">Đi đến trang chủ của mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="132"/>
@@ -3139,12 +3139,12 @@ Bạn có chắc bạn muốn làm điều này?</translation>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation>Xác nhận tắt</translation>
+        <translation type="vanished">Xác nhận tắt</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Nếu như bạn tắt tài nguyên này khi trò chơi đang chạy nó có thể làm hỏng trò chơi của bạn.
+        <translation type="vanished">Nếu như bạn tắt tài nguyên này khi trò chơi đang chạy nó có thể làm hỏng trò chơi của bạn.
 Bạn có chắc bạn muốn làm điều này?</translation>
     </message>
     <message>
@@ -3217,16 +3217,16 @@ Bạn có chắc bạn muốn làm điều này?</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation>Trình chỉnh sửa bên ngoài (để trống cho mặc định)</translation>
+        <translation type="vanished">Trình chỉnh sửa bên ngoài (để trống cho mặc định)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>&amp;Trình chỉnh sửa văn bản:</translation>
+        <translation type="vanished">&amp;Trình chỉnh sửa văn bản:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation>Các công cụ khác</translation>
+        <translation type="vanished">Các công cụ khác</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3288,17 +3288,17 @@ Bạn có chắc bạn muốn làm điều này?</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM thực thi</translation>
+        <translation type="vanished">JVisualVM thực thi</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation>Có lỗi khi đang kiểm tra JVisualVM:
+        <translation type="vanished">Có lỗi khi đang kiểm tra JVisualVM:
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>Trình JVisualVM có vẻ đã hoạt động ổn định</translation>
+        <translation type="vanished">Trình JVisualVM có vẻ đã hoạt động ổn định</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3325,7 +3325,7 @@ Bạn có chắc bạn muốn làm điều này?</translation>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation>Công cụ chỉnh sửa JSON</translation>
+        <translation type="vanished">Công cụ chỉnh sửa JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3498,7 +3498,7 @@ Vui lòng thử lại.</translation>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>Nhận phản hồi API từ CurseForge cho &apos;% 1&apos; ...</translation>
+        <translation type="vanished">Nhận phản hồi API từ CurseForge cho &apos;% 1&apos; ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3537,16 +3537,16 @@ Vui lòng thử lại.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Đang chuẩn bị các mod cho CurseForge...</translation>
+        <translation type="vanished">Đang chuẩn bị các mod cho CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Không có phiên bản hợp lệ của mod này được tìm thấy. Nó có thể không khả dụng cho phiên bản hiện tại của trò chơi hoặc mod loader.</translation>
+        <translation type="vanished">Không có phiên bản hợp lệ của mod này được tìm thấy. Nó có thể không khả dụng cho phiên bản hiện tại của trò chơi hoặc mod loader.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>Mod có một bản cập nhật mới, nhưng nó không thể được tải bằng CurseForge.</translation>
+        <translation type="vanished">Mod có một bản cập nhật mới, nhưng nó không thể được tải bằng CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3971,11 +3971,11 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation>Mã</translation>
+        <translation type="vanished">Mã</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Giá trị</translation>
+        <translation type="vanished">Giá trị</translation>
     </message>
 </context>
 <context>
@@ -4365,11 +4365,11 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation>&amp;Tên:</translation>
+        <translation type="vanished">&amp;Tên:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation>&amp;Nhóm:</translation>
+        <translation type="vanished">&amp;Nhóm:</translation>
     </message>
 </context>
 <context>
@@ -4589,19 +4589,19 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation>Mở phần cài đặt chung</translation>
+        <translation type="vanished">Mở phần cài đặt chung</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation>Những thiết lập này sẽ ghi đè các cài đặt chung.</translation>
+        <translation type="vanished">Những thiết lập này sẽ ghi đè các cài đặt chung.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation>Cài đặt Java</translation>
+        <translation type="vanished">Cài đặt Java</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation>Tự động phát hiện...</translation>
+        <translation type="vanished">Tự động phát hiện...</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4609,72 +4609,72 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     </message>
     <message>
         <source>Test</source>
-        <translation>Kiểm tra</translation>
+        <translation type="vanished">Kiểm tra</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Nếu bật, Prism Launcher sẽ không kiểm tra nếu phiên bản này tương thích với phiên bản Java đã chọn.</translation>
+        <translation type="vanished">Nếu bật, Prism Launcher sẽ không kiểm tra nếu phiên bản này tương thích với phiên bản Java đã chọn.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation>Bỏ qua việc kiểm tra khả năng tương thích của Java</translation>
+        <translation type="vanished">Bỏ qua việc kiểm tra khả năng tương thích của Java</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation>Bộ nhớ</translation>
+        <translation type="vanished">Bộ nhớ</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>Bộ nhớ cấp phát tối thiểu:</translation>
+        <translation type="vanished">Bộ nhớ cấp phát tối thiểu:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Dung lượng bộ nhớ tối đa mà Minecraft được phép sử dụng.</translation>
+        <translation type="vanished">Dung lượng bộ nhớ tối đa mà Minecraft được phép sử dụng.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Dung lượng bộ nhớ mà Minecraft khởi động với.</translation>
+        <translation type="vanished">Dung lượng bộ nhớ mà Minecraft khởi động với.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Dung lượng bộ nhớ có sẵn để lưu trữ các lớp Java đã tải.</translation>
+        <translation type="vanished">Dung lượng bộ nhớ có sẵn để lưu trữ các lớp Java đã tải.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>Bộ nhớ cấp phát tối đa:</translation>
+        <translation type="vanished">Bộ nhớ cấp phát tối đa:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Chọn</translation>
+        <translation type="vanished">Chọn</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Tải xuống Java</translation>
+        <translation type="vanished">Tải xuống Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation>PermGen:</translation>
+        <translation type="vanished">PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>Lưu ý: Permgen được đặt tự động bởi Java 8 trở lên</translation>
+        <translation type="vanished">Lưu ý: Permgen được đặt tự động bởi Java 8 trở lên</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation>Giá &amp;trị Java</translation>
+        <translation type="vanished">Giá &amp;trị Java</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation>Cửa sổ trò chơi</translation>
+        <translation type="vanished">Cửa sổ trò chơi</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation>Chỉnh sửa cửa sổ trò chơi</translation>
+        <translation type="vanished">Chỉnh sửa cửa sổ trò chơi</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>Tối đa cửa sổ Minecraft khi khởi chạy</translation>
+        <translation type="vanished">Tối đa cửa sổ Minecraft khi khởi chạy</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
@@ -4686,156 +4686,156 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     </message>
     <message>
         <source>Window height:</source>
-        <translation>Chiều cao cửa sổ:</translation>
+        <translation type="vanished">Chiều cao cửa sổ:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation>Chiều rộng cửa sổ:</translation>
+        <translation type="vanished">Chiều rộng cửa sổ:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation>Cài đặt Conso&amp;le</translation>
+        <translation type="vanished">Cài đặt Conso&amp;le</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation>Hiện bảng điều khiển khi trò chơi đang chạy</translation>
+        <translation type="vanished">Hiện bảng điều khiển khi trò chơi đang chạy</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>Tự động đóng bảng điều khiển khi thoát trò chơi</translation>
+        <translation type="vanished">Tự động đóng bảng điều khiển khi thoát trò chơi</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>Hiển bảng điều khiển khi trò chơi gặp sự cố</translation>
+        <translation type="vanished">Hiển bảng điều khiển khi trò chơi gặp sự cố</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation>Đóng Prism Launcher sau khi mở cửa sổ trò chơi</translation>
+        <translation type="vanished">Đóng Prism Launcher sau khi mở cửa sổ trò chơi</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation>Thoát Prism Launcher sau khi đóng cửa sổ trò chơi</translation>
+        <translation type="vanished">Thoát Prism Launcher sau khi đóng cửa sổ trò chơi</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation>Các câu lệnh tùy biến</translation>
+        <translation type="vanished">Các câu lệnh tùy biến</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation>Biến môi trường</translation>
+        <translation type="vanished">Biến môi trường</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation>Cách giải quyết</translation>
+        <translation type="vanished">Cách giải quyết</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation>Thư viện gốc</translation>
+        <translation type="vanished">Thư viện gốc</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>đường dẫn thư viện &amp;GLFW</translation>
+        <translation type="vanished">đường dẫn thư viện &amp;GLFW</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation>Sử dụng hệ thống cài đặt của GLFW</translation>
+        <translation type="vanished">Sử dụng hệ thống cài đặt của GLFW</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation>Sử dụng hệ thống cài đặt của OpenAL</translation>
+        <translation type="vanished">Sử dụng hệ thống cài đặt của OpenAL</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation>Thế giới đơn</translation>
+        <translation type="vanished">Thế giới đơn</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation>Ghi đè tài khoản mặc định</translation>
+        <translation type="vanished">Ghi đè tài khoản mặc định</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Tài khoản:</translation>
+        <translation type="vanished">Tài khoản:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Khác</translation>
+        <translation type="vanished">Khác</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>đường dẫn thư viện &amp;OpenAL</translation>
+        <translation type="vanished">đường dẫn thư viện &amp;OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Hiệu suất</translation>
+        <translation type="vanished">Hiệu suất</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bật Feral Interactive&apos;s GameMode để cải thiện hiệu năng chơi game.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bật Feral Interactive&apos;s GameMode để cải thiện hiệu năng chơi game.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Kích hoạt chế độ Feral</translation>
+        <translation type="vanished">Kích hoạt chế độ Feral</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bật MangoHud, lớp phủ hiệu suất nâng cao.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bật MangoHud, lớp phủ hiệu suất nâng cao.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Kích hoạt MangoHud</translation>
+        <translation type="vanished">Kích hoạt MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sử dụng GPU rời thay vì GPU chính.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sử dụng GPU rời thay vì GPU chính.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Sử dụng GPU rời</translation>
+        <translation type="vanished">Sử dụng GPU rời</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>Sử dụng Zink, một trình điều khiển Mesa OpenGL triển khai OpenGL trên Vulkan. Hiệu năng có thể tùy theo tình huống. Chú ý: Nếu không tìm thấy trình điều khiển phù hợp, kết xuất phần mềm sẽ được sử dụng.</translation>
+        <translation type="vanished">Sử dụng Zink, một trình điều khiển Mesa OpenGL triển khai OpenGL trên Vulkan. Hiệu năng có thể tùy theo tình huống. Chú ý: Nếu không tìm thấy trình điều khiển phù hợp, kết xuất phần mềm sẽ được sử dụng.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Sử dụng Zink</translation>
+        <translation type="vanished">Sử dụng Zink</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Cài đặt cho phiên bản cũ</translation>
+        <translation type="vanished">Cài đặt cho phiên bản cũ</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Việc mô phỏng các dịch vụ trực tuyến cũ không còn hoạt động&lt;/p&gt;&lt;p&gt;Các bản hiện tại bao gồm: trang phục và chế độ hỗ trợ trực tuyến.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Việc mô phỏng các dịch vụ trực tuyến cũ không còn hoạt động&lt;/p&gt;&lt;p&gt;Các bản hiện tại bao gồm: trang phục và chế độ hỗ trợ trực tuyến.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Bật sửa lỗi online (thử nghiệm)</translation>
+        <translation type="vanished">Bật sửa lỗi online (thử nghiệm)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation>Ghi đè cài đặt thời gian trò chơi</translation>
+        <translation type="vanished">Ghi đè cài đặt thời gian trò chơi</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation>Hiển thị thời gian đã chơi của phiên bản này</translation>
+        <translation type="vanished">Hiển thị thời gian đã chơi của phiên bản này</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation>Ghi lại thời gian đã chơi của phiên bản này</translation>
+        <translation type="vanished">Ghi lại thời gian đã chơi của phiên bản này</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation>Đặt máy chủ để tham gia khi khởi chạy</translation>
+        <translation type="vanished">Đặt máy chủ để tham gia khi khởi chạy</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation>Địa chỉ máy chủ:</translation>
+        <translation type="vanished">Địa chỉ máy chủ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4844,39 +4844,39 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>Đường dẫn đến tập tin thư viện %1</translation>
+        <translation type="vanished">Đường dẫn đến tập tin thư viện %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Chế độ trò chơi Feral Interactive&apos;s không thể tìm thấy trong hệ thống của bạn.</translation>
+        <translation type="vanished">Chế độ trò chơi Feral Interactive&apos;s không thể tìm thấy trong hệ thống của bạn.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>MangoHud không tìm thấy trong hệ thống của bạn.</translation>
+        <translation type="vanished">MangoHud không tìm thấy trong hệ thống của bạn.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Chọn phiên bản Java</translation>
+        <translation type="vanished">Chọn phiên bản Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Xác nhận mục chọn</translation>
+        <translation type="vanished">Xác nhận mục chọn</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Bạn chọn phiên bản 32 bit của Java.
+        <translation type="vanished">Bạn chọn phiên bản 32 bit của Java.
 Bản cài đặt này sẽ không hỗ trợ nhiều hơn 2GB RAM.
 Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Tìm tệp thực thi Java</translation>
+        <translation type="vanished">Tìm tệp thực thi Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Dung lượng bộ nhớ tối đa bạn đặc hiện đang nhỏ hơn giá trị tối thiểu</translation>
+        <translation type="vanished">Dung lượng bộ nhớ tối đa bạn đặc hiện đang nhỏ hơn giá trị tối thiểu</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -4884,11 +4884,11 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Dung lượng bộ nhớ tối đa mà bạn đặt vượt quá dung lượng bộ nhớ hệ thống của bạn.</translation>
+        <translation type="vanished">Dung lượng bộ nhớ tối đa mà bạn đặt vượt quá dung lượng bộ nhớ hệ thống của bạn.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Dung lượng phân bố tối đa của bộ nhớ sắp bằng dung lượng bộ nhớ hệ thống.</translation>
+        <translation type="vanished">Dung lượng phân bố tối đa của bộ nhớ sắp bằng dung lượng bộ nhớ hệ thống.</translation>
     </message>
 </context>
 <context>
@@ -4993,7 +4993,7 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation>JVisualVM khởi chạy</translation>
+        <translation type="vanished">JVisualVM khởi chạy</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -5020,15 +5020,15 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Đang giải nén Java (Tiến trình không được hiển thị cho tệp nén .tar)</translation>
+        <translation type="vanished">Đang giải nén Java (Tiến trình không được hiển thị cho tệp nén .tar)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation>Không thể mở được tệp tar.</translation>
+        <translation type="vanished">Không thể mở được tệp tar.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation>Không thể giải nén tệp tar.</translation>
+        <translation type="vanished">Không thể giải nén tệp tar.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -5042,7 +5042,7 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation>Không thể xác định được loại tệp nén!</translation>
+        <translation type="vanished">Không thể xác định được loại tệp nén!</translation>
     </message>
 </context>
 <context>
@@ -5148,70 +5148,70 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation>Bộ nhớ</translation>
+        <translation type="vanished">Bộ nhớ</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Dung lượng bộ nhớ tối đa mà Minecraft được phép sử dụng.</translation>
+        <translation type="vanished">Dung lượng bộ nhớ tối đa mà Minecraft được phép sử dụng.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>&amp;Bộ nhớ cấp phát tối thiểu:</translation>
+        <translation type="vanished">&amp;Bộ nhớ cấp phát tối thiểu:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>&amp;Bộ nhớ cấp phát tối đa:</translation>
+        <translation type="vanished">&amp;Bộ nhớ cấp phát tối đa:</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation>&amp;TạoQuyềnHạn:</translation>
+        <translation type="vanished">&amp;TạoQuyềnHạn:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Dung lượng bộ nhớ mà Minecraft cần khởi động với.</translation>
+        <translation type="vanished">Dung lượng bộ nhớ mà Minecraft cần khởi động với.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Dung lượng bộ nhớ có sẵn để lưu trữ các lớp Java đã tải.</translation>
+        <translation type="vanished">Dung lượng bộ nhớ có sẵn để lưu trữ các lớp Java đã tải.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation>Runtime Java</translation>
+        <translation type="vanished">Runtime Java</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation>Đường dẫn của JVM:</translation>
+        <translation type="vanished">Đường dẫn của JVM:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation>Tự động lựa chọn phiên bản Java tương tích với phiên bản Minecraft hiện tại, dựa trên phiên bản chính cần thiết.</translation>
+        <translation type="vanished">Tự động lựa chọn phiên bản Java tương tích với phiên bản Minecraft hiện tại, dựa trên phiên bản chính cần thiết.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Tự động phát hiện phiên bản Java</translation>
+        <translation type="vanished">Tự động phát hiện phiên bản Java</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>&amp;Đường dẫn Java:</translation>
+        <translation type="vanished">&amp;Đường dẫn Java:</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation>Tự động tải về và lựa chọn phiên bản Java được đề xuất bởi Mojang.</translation>
+        <translation type="vanished">Tự động tải về và lựa chọn phiên bản Java được đề xuất bởi Mojang.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Tự động tải xuống Mojang Java</translation>
+        <translation type="vanished">Tự động tải xuống Mojang Java</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation>Quản lí</translation>
+        <translation type="vanished">Quản lí</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation>Phiên bản Java đã tải xuống</translation>
+        <translation type="vanished">Phiên bản Java đã tải xuống</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5241,33 +5241,33 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>&amp;Tự động phát hiện...</translation>
+        <translation type="vanished">&amp;Tự động phát hiện...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>&amp;Kiểm tra</translation>
+        <translation type="vanished">&amp;Kiểm tra</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Chọn</translation>
+        <translation type="vanished">Chọn</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>Nếu được kích hoạt, launcher sẽ không hỏi bạn chọn phiên bản Java nếu như không có phiên bản nào được tìm thấy.</translation>
+        <translation type="vanished">Nếu được kích hoạt, launcher sẽ không hỏi bạn chọn phiên bản Java nếu như không có phiên bản nào được tìm thấy.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation>Bỏ qua Java &amp;Trình thuật sĩ</translation>
+        <translation type="vanished">Bỏ qua Java &amp;Trình thuật sĩ</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Nếu bật, Prism Launcher sẽ không kiểm tra nếu phiên bản này tương thích với phiên bản Java đã chọn.</translation>
+        <translation type="vanished">Nếu bật, Prism Launcher sẽ không kiểm tra nếu phiên bản này tương thích với phiên bản Java đã chọn.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>&amp;Bỏ qua kiểm tra phiên bản Java thích hợp</translation>
+        <translation type="vanished">&amp;Bỏ qua kiểm tra phiên bản Java thích hợp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -5288,35 +5288,35 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Chọn phiên bản Java</translation>
+        <translation type="vanished">Chọn phiên bản Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Xác nhận mục chọn</translation>
+        <translation type="vanished">Xác nhận mục chọn</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Bạn chọn phiên bản 32 bit của Java.
+        <translation type="vanished">Bạn chọn phiên bản 32 bit của Java.
 Bản cài đặt này sẽ không hỗ trợ nhiều hơn 2GB RAM.
 Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Tìm tệp thực thi Java</translation>
+        <translation type="vanished">Tìm tệp thực thi Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Bộ nhớ tối đa mà bạn đặt vượt quá dung lượng bộ nhớ hệ thống của bạn.</translation>
+        <translation type="vanished">Bộ nhớ tối đa mà bạn đặt vượt quá dung lượng bộ nhớ hệ thống của bạn.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Dung lượng phân bố tối đa của bộ nhớ sắp bằng dung lượng bộ nhớ hệ thống.</translation>
+        <translation type="vanished">Dung lượng phân bố tối đa của bộ nhớ sắp bằng dung lượng bộ nhớ hệ thống.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Dung lượng bộ nhớ tối đa bạn đặt hiện đang nhỏ hơn giá trị tối thiểu</translation>
+        <translation type="vanished">Dung lượng bộ nhớ tối đa bạn đặt hiện đang nhỏ hơn giá trị tối thiểu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -5335,7 +5335,7 @@ Bạn có chắc không?</translation>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation>Không có phiên bản Java nào được lựa chọn</translation>
+        <translation type="vanished">Không có phiên bản Java nào được lựa chọn</translation>
     </message>
     <message>
         <source>You didn&apos;t select a Java version or selected something that doesn&apos;t work.
@@ -5353,11 +5353,11 @@ Bạn có thể thay đổi phiên bản Java ở phần cài đặt ở lần s
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Tải xuống Java</translation>
+        <translation type="vanished">Tải xuống Java</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation>Đã phát hiện Java 32-bit</translation>
+        <translation type="vanished">Đã phát hiện Java 32-bit</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5366,7 +5366,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Bạn đã chọn phiên bản cài đặt 32-bit của Java, nhưng phân bổ hơn 2GB làm bộ nhớ tối đa.
+        <translation type="vanished">Bạn đã chọn phiên bản cài đặt 32-bit của Java, nhưng phân bổ hơn 2GB làm bộ nhớ tối đa.
 %1 sẽ không thể khởi chạy Minecraft
 Bạn có muốn tiếp tục không?
 
@@ -5380,7 +5380,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Bạn đã không chọn phiên bản Java hoặc chọn cái mà không hoạt dộng.
+        <translation type="vanished">Bạn đã không chọn phiên bản Java hoặc chọn cái mà không hoạt dộng.
 %1 sẽ không thể khởi chạy Minecraft.
 Bạn có muốn tiếp tục mà không có phiên bản Java nào hoạt động?
 
@@ -5394,7 +5394,7 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     </message>
     <message>
         <source>Memory</source>
-        <translation>Bộ nhớ</translation>
+        <translation type="vanished">Bộ nhớ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -5403,7 +5403,7 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>Bộ nhớ cấp phát tối thiểu:</translation>
+        <translation type="vanished">Bộ nhớ cấp phát tối thiểu:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5509,7 +5509,7 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>Bộ nhớ cấp phát tối đa:</translation>
+        <translation type="vanished">Bộ nhớ cấp phát tối đa:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -5548,19 +5548,19 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     </message>
     <message>
         <source>Browse</source>
-        <translation>Chọn</translation>
+        <translation type="vanished">Chọn</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Tự đông tải xuống Mojang Java</translation>
+        <translation type="vanished">Tự đông tải xuống Mojang Java</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Tự động phát hiện phiên bản Java</translation>
+        <translation type="vanished">Tự động phát hiện phiên bản Java</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation>Tự động phát hiện Java</translation>
+        <translation type="vanished">Tự động phát hiện Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -5598,15 +5598,15 @@ Hãy chắc rằng cài đặt giá trị tối đa của bộ nhớ là nhỏ h
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Bộ nhớ tối đa được phân bổ bằng dung lượng bộ nhớ hệ thống.</translation>
+        <translation type="vanished">Bộ nhớ tối đa được phân bổ bằng dung lượng bộ nhớ hệ thống.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Dung lượng bộ nhớ tối đa bạn đặt hiện đang nhỏ hơn giá trị tối thiểu</translation>
+        <translation type="vanished">Dung lượng bộ nhớ tối đa bạn đặt hiện đang nhỏ hơn giá trị tối thiểu</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>Bạn đang vượt quá mức phân bổ được hỗ trợ bởi Java 32-bit.</translation>
+        <translation type="vanished">Bạn đang vượt quá mức phân bổ được hỗ trợ bởi Java 32-bit.</translation>
     </message>
 </context>
 <context>
@@ -5903,11 +5903,11 @@ Bạn có muốn chơi bản demo không?</translation>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation>Chơi ngoại tuyến</translation>
+        <translation type="vanished">Chơi ngoại tuyến</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>Phiên đăng nhập tài khoản đã hết hạn và cần được đăng nhập lại thủ công.</translation>
+        <translation type="vanished">Phiên đăng nhập tài khoản đã hết hạn và cần được đăng nhập lại thủ công.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="355"/>
@@ -5916,7 +5916,7 @@ Bạn có muốn chơi bản demo không?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>Phát hiện thay đổi tài khoản. Hãy gỡ tài khoản hiện tại rồi thêm lại.</translation>
+        <translation type="vanished">Phát hiện thay đổi tài khoản. Hãy gỡ tài khoản hiện tại rồi thêm lại.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -5925,7 +5925,7 @@ Bạn có muốn chơi bản demo không?</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>Tài khoản không còn tồn tại trên máy chủ. Nó có thể đã được di chuyển sang tài khoản khác, trong trường hợp đó, vui lòng thêm tài khoản mới mà bạn đã di chuyển tài khoản này vào.</translation>
+        <translation type="vanished">Tài khoản không còn tồn tại trên máy chủ. Nó có thể đã được di chuyển sang tài khoản khác, trong trường hợp đó, vui lòng thêm tài khoản mới mà bạn đã di chuyển tài khoản này vào.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -6070,11 +6070,11 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation>Tính năng</translation>
+        <translation type="vanished">Tính năng</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation>Cập nhật cài đặt</translation>
+        <translation type="vanished">Cập nhật cài đặt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -6216,7 +6216,7 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation>Chế độ sắp xếp chế độ xem phiên bản</translation>
+        <translation type="vanished">Chế độ sắp xếp chế độ xem phiên bản</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -6231,7 +6231,7 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     </message>
     <message>
         <source>Theme</source>
-        <translation>Giao diện</translation>
+        <translation type="vanished">Giao diện</translation>
     </message>
     <message>
         <source>&amp;Icons</source>
@@ -6255,17 +6255,17 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     </message>
     <message>
         <source>Mods</source>
-        <translation>Các bản mod</translation>
+        <translation type="vanished">Các bản mod</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>Ngừng sử dụng siêu dữ liệu lấy từ những trang cung cấp mod (như Modrinth hay CurseForge) cho các mod.</translation>
+        <translation type="vanished">Ngừng sử dụng siêu dữ liệu lấy từ những trang cung cấp mod (như Modrinth hay CurseForge) cho các mod.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation>Ngừng sử dụng siêu dữ liệu cho các mod</translation>
+        <translation type="vanished">Ngừng sử dụng siêu dữ liệu cho các mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -6297,15 +6297,15 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     </message>
     <message>
         <source>Update interval</source>
-        <translation>Khoảng thời gian cập nhật</translation>
+        <translation type="vanished">Khoảng thời gian cập nhật</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation>Đặt giá trị là 0 để chỉ kiểm tra lúc chạy</translation>
+        <translation type="vanished">Đặt giá trị là 0 để chỉ kiểm tra lúc chạy</translation>
     </message>
     <message>
         <source>h</source>
-        <translation>giờ</translation>
+        <translation type="vanished">giờ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
@@ -6319,36 +6319,36 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation>Kiểm tra đệ quy thư mục tải</translation>
+        <translation type="vanished">Kiểm tra đệ quy thư mục tải</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>Tắt quá trình tự động dò, cài, và cập nhật của những mod cần thiết.</translation>
+        <translation type="vanished">Tắt quá trình tự động dò, cài, và cập nhật của những mod cần thiết.</translation>
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation>Tắt quá trình quản lý tự động cho nhũng mod cần thiết</translation>
+        <translation type="vanished">Tắt quá trình quản lý tự động cho nhũng mod cần thiết</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>Khi tạo phiên bản modpack mới, không đề xuất cập nhật các phiên bản hiện có.</translation>
+        <translation type="vanished">Khi tạo phiên bản modpack mới, không đề xuất cập nhật các phiên bản hiện có.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation>Bỏ qua nhắc nhở cập nhật modpack</translation>
+        <translation type="vanished">Bỏ qua nhắc nhở cập nhật modpack</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Khác</translation>
+        <translation type="vanished">Khác</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation>Số lượng tác vụ tương tranh</translation>
+        <translation type="vanished">Số lượng tác vụ tương tranh</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation>Các mục đang tải xuống</translation>
+        <translation type="vanished">Các mục đang tải xuống</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -6357,7 +6357,7 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation>Thời gian chờ cho các yêu cầu HTTP</translation>
+        <translation type="vanished">Thời gian chờ cho các yêu cầu HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -6366,7 +6366,7 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation>Số lần thử lại thủ công</translation>
+        <translation type="vanished">Số lần thử lại thủ công</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
@@ -6384,23 +6384,23 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     </message>
     <message>
         <source>Cat</source>
-        <translation>Mèo</translation>
+        <translation type="vanished">Mèo</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>Chỉnh độ mờ đục cho cat. 0% là trong suốt và 100% là đầy đủ.</translation>
+        <translation type="vanished">Chỉnh độ mờ đục cho cat. 0% là trong suốt và 100% là đầy đủ.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Độ mờ</translation>
+        <translation type="vanished">Độ mờ</translation>
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="vanished">%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Công cụ</translation>
+        <translation type="vanished">Công cụ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -6465,27 +6465,27 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     </message>
     <message>
         <source>Console Settings</source>
-        <translation>Cài Đặt Console</translation>
+        <translation type="vanished">Cài Đặt Console</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>Hiện bảng console khi trò chơi &amp;đang chạy</translation>
+        <translation type="vanished">Hiện bảng console khi trò chơi &amp;đang chạy</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation>Tự động đóng bảng console khi thoát trò chơi</translation>
+        <translation type="vanished">Tự động đóng bảng console khi thoát trò chơi</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>Mở console khi game gặp phải &amp;sự cố</translation>
+        <translation type="vanished">Mở console khi game gặp phải &amp;sự cố</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation>&amp;Giới hạn lịch sử</translation>
+        <translation type="vanished">&amp;Giới hạn lịch sử</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -6501,7 +6501,7 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>&amp;Kiểu chữ console</translation>
+        <translation type="vanished">&amp;Kiểu chữ console</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -6565,23 +6565,23 @@ Bạn nên cấp %1 quyền cho nó qua Flatseal.</translation>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[Test/ERROR] OOoooOOOoooo! Một lỗi đáng sợ!</translation>
+        <translation type="vanished">[Test/ERROR] OOoooOOOoooo! Một lỗi đáng sợ!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation>[Test/ERROR] Một lỗi đáng sợ!</translation>
+        <translation type="vanished">[Test/ERROR] Một lỗi đáng sợ!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation>[Test/WARN] Một cảnh báo không đáng sợ mấy.</translation>
+        <translation type="vanished">[Test/WARN] Một cảnh báo không đáng sợ mấy.</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[Test/DEBUG] Một thông báo gỡ lỗi bí mật...</translation>
+        <translation type="vanished">[Test/DEBUG] Một thông báo gỡ lỗi bí mật...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation>[Test/FATAL] Một lỗi nghiêm trọng khủng khiếp!</translation>
+        <translation type="vanished">[Test/FATAL] Một lỗi nghiêm trọng khủng khiếp!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -6589,7 +6589,7 @@ Bạn nên cấp %1 quyền cho nó qua Flatseal.</translation>
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[Test/INFO] Một tin nhắn vô hại...</translation>
+        <translation type="vanished">[Test/INFO] Một tin nhắn vô hại...</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -6605,7 +6605,7 @@ Bạn nên cấp %1 quyền cho nó qua Flatseal.</translation>
     </message>
     <message>
         <source>Launcher</source>
-        <translation>Trình Khởi Chạy</translation>
+        <translation type="vanished">Trình Khởi Chạy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6713,7 +6713,7 @@ Bạn nên cấp %1 quyền cho nó qua Flatseal.</translation>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation>Không mở được modpack %1!</translation>
+        <translation type="vanished">Không mở được modpack %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -6937,12 +6937,12 @@ Lý do:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation>Cập nhật số liệt kê cho mod
+        <translation type="vanished">Cập nhật số liệt kê cho mod
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation>Metadata không hợp lệ</translation>
+        <translation type="vanished">Metadata không hợp lệ</translation>
     </message>
 </context>
 <context>
@@ -7014,7 +7014,7 @@ Lý do:
     </message>
     <message>
         <source>Search:</source>
-        <translation>Tìm Kiếm:</translation>
+        <translation type="vanished">Tìm Kiếm:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -7126,7 +7126,7 @@ Lý do:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation>Không tạo được:</translation>
+        <translation type="vanished">Không tạo được:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -7143,7 +7143,7 @@ Lý do:
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation>Không thể mở được tệp zip.</translation>
+        <translation type="vanished">Không thể mở được tệp zip.</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -7162,7 +7162,7 @@ Lý do:
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
-        <translation>Đã thất bại trong việc tìm tệp đầu tiên trong tệp zip</translation>
+        <translation type="vanished">Đã thất bại trong việc tìm tệp đầu tiên trong tệp zip</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
@@ -7176,7 +7176,7 @@ Lý do:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>Không thể sửa các quyền hạn cho %1</translation>
+        <translation type="vanished">Không thể sửa các quyền hạn cho %1</translation>
     </message>
 </context>
 <context>
@@ -7289,11 +7289,11 @@ Lý do:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>Mở %1 hoặc quét mã QR và nhập mã trên.</translation>
+        <translation type="vanished">Mở %1 hoặc quét mã QR và nhập mã trên.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation>Mở %1 và nhập mã trên.</translation>
+        <translation type="vanished">Mở %1 và nhập mã trên.</translation>
     </message>
 </context>
 <context>
@@ -7489,7 +7489,7 @@ Lý do:
     </message>
     <message>
         <source>More news...</source>
-        <translation>Những tin tức khác...</translation>
+        <translation type="vanished">Những tin tức khác...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7850,7 +7850,7 @@ Lý do:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>Tạo shortcut trên desktop của bạn để chạy thực thể được chọn.</translation>
+        <translation type="vanished">Tạo shortcut trên desktop của bạn để chạy thực thể được chọn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="531"/>
@@ -7916,7 +7916,7 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>Bạn chọn xóa &quot;%1&quot;.
+        <translation type="vanished">Bạn chọn xóa &quot;%1&quot;.
 Tác vụ này có thể là vĩnh viễn và sẽ xóa cái phiên bản này hoàn toàn.
 
 Bạn có chắc không?</translation>
@@ -8214,7 +8214,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation>Có phiên bản được liên kết</translation>
+        <translation type="vanished">Có phiên bản được liên kết</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -8224,7 +8224,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>Những tập tin trong phiên bản này có thể được dùng bởi các phiên bản sau:
 
 %1
@@ -8236,43 +8236,43 @@ Bạn có muốn tiếp tục?</numerusform>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation>Tạo lối tắt cho phiên bản</translation>
+        <translation type="vanished">Tạo lối tắt cho phiên bản</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation>Không thể tìm desktop?!</translation>
+        <translation type="vanished">Không thể tìm desktop?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>Launcher nằm trong thư mục đã được giải nén, cho nên không thể tạo lối tắt cho nó.</translation>
+        <translation type="vanished">Launcher nằm trong thư mục đã được giải nén, cho nên không thể tạo lối tắt cho nó.</translation>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation>Tạo ứng dụng phiên bản</translation>
+        <translation type="vanished">Tạo ứng dụng phiên bản</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation>Tạo biểu tượng cho Ứng Dụng thất bại.</translation>
+        <translation type="vanished">Tạo biểu tượng cho Ứng Dụng thất bại.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation>Các mục ở màn hình chính</translation>
+        <translation type="vanished">Các mục ở màn hình chính</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>Đã tạo lối tắt cho phiên bản này ở ngoài màn hình chính của bạn!</translation>
+        <translation type="vanished">Đã tạo lối tắt cho phiên bản này ở ngoài màn hình chính của bạn!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation>Đã tạo lối tắt đến phiên bản này!</translation>
+        <translation type="vanished">Đã tạo lối tắt đến phiên bản này!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation>Tạo lối tắt cho phiên bản thất bại!</translation>
+        <translation type="vanished">Tạo lối tắt cho phiên bản thất bại!</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>Launcher đang chạy trên AppImage sai cấu hình? (thiếu biến môi trường $APPIMAGE)</translation>
+        <translation type="vanished">Launcher đang chạy trên AppImage sai cấu hình? (thiếu biến môi trường $APPIMAGE)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -8339,7 +8339,7 @@ Bạn có chắc chắn không ?</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation>Tạo icon cho lối tắt thất bại.</translation>
+        <translation type="vanished">Tạo icon cho lối tắt thất bại.</translation>
     </message>
     <message>
         <source>Desktop Entries (*.desktop)</source>
@@ -8347,7 +8347,7 @@ Bạn có chắc chắn không ?</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation>Không được hỗ trợ trên nền tảng của bạn!</translation>
+        <translation type="vanished">Không được hỗ trợ trên nền tảng của bạn!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
@@ -8413,11 +8413,11 @@ Bạn có chắc chắn không ?</translation>
     <name>ManagedPackPage</name>
     <message>
         <source>Pack information</source>
-        <translation>Thông tin của Modpack</translation>
+        <translation type="vanished">Thông tin của Modpack</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation>Tên Modpack:</translation>
+        <translation type="vanished">Tên Modpack:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
@@ -8456,7 +8456,7 @@ Bạn có chắc chắn không ?</translation>
     </message>
     <message>
         <source>Update from file</source>
-        <translation>Cập nhật bằng tập tin</translation>
+        <translation type="vanished">Cập nhật bằng tập tin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -8519,7 +8519,7 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
     </message>
     <message>
         <source>Update pack</source>
-        <translation>Cập nhật modpack</translation>
+        <translation type="vanished">Cập nhật modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
@@ -8717,12 +8717,12 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation>Kích thước cửa sổ</translation>
+        <translation type="vanished">Kích thước cửa sổ</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation>Khởi động Minecraft ở &amp;cửa sổ tối đa</translation>
+        <translation type="vanished">Khởi động Minecraft ở &amp;cửa sổ tối đa</translation>
     </message>
     <message>
         <source>On newer versions the game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
@@ -8735,138 +8735,138 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation>&amp;Chiều cao cửa sổ:</translation>
+        <translation type="vanished">&amp;Chiều cao cửa sổ:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation>&amp;Chiều rộng cửa sổ:</translation>
+        <translation type="vanished">&amp;Chiều rộng cửa sổ:</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation>Ghi tổng cộng thời gian chơi bằng tiếng</translation>
+        <translation type="vanished">Ghi tổng cộng thời gian chơi bằng tiếng</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation>Chỉnh sửa</translation>
+        <translation type="vanished">Chỉnh sửa</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Cài đặt phiên bản cũ</translation>
+        <translation type="vanished">Cài đặt phiên bản cũ</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Việc mô phỏng các dịch vụ trực tuyến cũ đã không còn hoạt động.&lt;/p&gt;&lt;p&gt;Các mục hiện tại gồm: trang phục và hỗ trợ cho chế độ trực tuyến.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Việc mô phỏng các dịch vụ trực tuyến cũ đã không còn hoạt động.&lt;/p&gt;&lt;p&gt;Các mục hiện tại gồm: trang phục và hỗ trợ cho chế độ trực tuyến.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Bật sửa lỗi online (thử nghiệm)</translation>
+        <translation type="vanished">Bật sửa lỗi online (thử nghiệm)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation>Giải pháp thư viện gốc</translation>
+        <translation type="vanished">Giải pháp thư viện gốc</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>Sử dụng bản cài đặt &amp;GLFW của hệ thống</translation>
+        <translation type="vanished">Sử dụng bản cài đặt &amp;GLFW của hệ thống</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>Đường dẫn thư viện &amp;GLFW</translation>
+        <translation type="vanished">Đường dẫn thư viện &amp;GLFW</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>Sử dụng bản cài đặt &amp;OpenAL của hệ thống</translation>
+        <translation type="vanished">Sử dụng bản cài đặt &amp;OpenAL của hệ thống</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>Đường dẫn thư viện &amp;OpenAL</translation>
+        <translation type="vanished">Đường dẫn thư viện &amp;OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Hiệu năng</translation>
+        <translation type="vanished">Hiệu năng</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bật Feral Interactive&apos;s GameMode để có thể cải thiện hiệu năng chơi game.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bật Feral Interactive&apos;s GameMode để có thể cải thiện hiệu năng chơi game.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Bật Feral GameMode</translation>
+        <translation type="vanished">Bật Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bật lớp phủ hiệu năng nâng cao của MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bật lớp phủ hiệu năng nâng cao của MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Bật MangoHud</translation>
+        <translation type="vanished">Bật MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sử dụng GPU rời thay vì GPU chính.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sử dụng GPU rời thay vì GPU chính.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Sử dụng GPU rời</translation>
+        <translation type="vanished">Sử dụng GPU rời</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dùng Zink, một trình điều khiển của Mesa OpenGL bên cạnh Vulkan. Hiệu suất phụ thuộc vào từng hoàn cảnh. Ghi chú: Nếu không tìm thấy trình điều khiển cho Vulkan thích hợp, kết xuất phần mềm sẽ được sử dụng.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dùng Zink, một trình điều khiển của Mesa OpenGL bên cạnh Vulkan. Hiệu suất phụ thuộc vào từng hoàn cảnh. Ghi chú: Nếu không tìm thấy trình điều khiển cho Vulkan thích hợp, kết xuất phần mềm sẽ được sử dụng.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Sử dụng Zink</translation>
+        <translation type="vanished">Sử dụng Zink</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation>Thời gian trò chơi</translation>
+        <translation type="vanished">Thời gian trò chơi</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Tổng quát</translation>
+        <translation type="vanished">Tổng quát</translation>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>Hiển thị thời gian đã chơi của các phiên bản</translation>
+        <translation type="vanished">Hiển thị thời gian đã chơi của các phiên bản</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>Hiển thị thời gian đã chơi trên tất cả các bản cài đặt</translation>
+        <translation type="vanished">Hiển thị thời gian đã chơi trên tất cả các bản cài đặt</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>&amp;Ghi lại thời gian đã chơi của các bản cài đặt</translation>
+        <translation type="vanished">&amp;Ghi lại thời gian đã chơi của các bản cài đặt</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Khác</translation>
+        <translation type="vanished">Khác</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Trình khởi chạy sẽ tự mở lại nếu như trò chơi bị treo hay đóng.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Trình khởi chạy sẽ tự mở lại nếu như trò chơi bị treo hay đóng.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>&amp;Đóng trình khởi chạy sau khi cửa sổ trò chơi đã mỡ</translation>
+        <translation type="vanished">&amp;Đóng trình khởi chạy sau khi cửa sổ trò chơi đã mỡ</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Trình khởi chạy sẽ tự đóng nếu như trò chơi bị treo hay bị đóng.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Trình khởi chạy sẽ tự đóng nếu như trò chơi bị treo hay bị đóng.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>&amp;Đóng trình khởi chạy sau khi cửa sổ trò chơi đã dừng</translation>
+        <translation type="vanished">&amp;Đóng trình khởi chạy sau khi cửa sổ trò chơi đã dừng</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -8875,19 +8875,19 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>Đường dẫn đến thư viện %1</translation>
+        <translation type="vanished">Đường dẫn đến thư viện %1</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation>Tự động phát hiện đường dẫn: %1</translation>
+        <translation type="vanished">Tự động phát hiện đường dẫn: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Không thể tìm thấy Feral Interactive&apos;s GameMode trong hệ thống của bạn.</translation>
+        <translation type="vanished">Không thể tìm thấy Feral Interactive&apos;s GameMode trong hệ thống của bạn.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>Không tìm thấy MangoHud trong hệ thống của bạn.</translation>
+        <translation type="vanished">Không tìm thấy MangoHud trong hệ thống của bạn.</translation>
     </message>
 </context>
 <context>
@@ -9504,7 +9504,7 @@ Bạn có thể sẽ phải thay đổi đường dẫn - vui lòng tham khảo 
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation>Không xác định</translation>
+        <translation type="vanished">Không xác định</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -9608,7 +9608,7 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation>Đây là trang trải của mod.</translation>
+        <translation type="vanished">Đây là trang trải của mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
@@ -9692,7 +9692,7 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
     </message>
     <message>
         <source>Download mods</source>
-        <translation>Tải mod</translation>
+        <translation type="vanished">Tải mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
@@ -9710,11 +9710,11 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
     </message>
     <message>
         <source>Add file</source>
-        <translation>Thêm mod</translation>
+        <translation type="vanished">Thêm mod</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation>Thêm mod từ một thư mục trong máy</translation>
+        <translation type="vanished">Thêm mod từ một thư mục trong máy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="85"/>
@@ -9729,11 +9729,11 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation>Kiểm tra các mod cần thiết</translation>
+        <translation type="vanished">Kiểm tra các mod cần thiết</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>Tìm cập nhật mới cho các mod cần thiết của những mod được chọn (cập nhật mọi mod nếu như không chọn mod nào)</translation>
+        <translation type="vanished">Tìm cập nhật mới cho các mod cần thiết của những mod được chọn (cập nhật mọi mod nếu như không chọn mod nào)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="107"/>
@@ -9743,35 +9743,35 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation>Thăm trang của mod</translation>
+        <translation type="vanished">Thăm trang của mod</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation>Xóa siêu dữ liệu của mod</translation>
+        <translation type="vanished">Xóa siêu dữ liệu của mod</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation>Reset cập nhật metadata</translation>
+        <translation type="vanished">Reset cập nhật metadata</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Thay đổi phiên bản</translation>
+        <translation type="vanished">Thay đổi phiên bản</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation>Thay đổi phiên bản mod</translation>
+        <translation type="vanished">Thay đổi phiên bản mod</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Đến trang chủ mod</translation>
+        <translation type="vanished">Đến trang chủ mod</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation>Thăm các trang mod</translation>
+        <translation type="vanished">Thăm các trang mod</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation>Mở những trang của các mod được chọn</translation>
+        <translation type="vanished">Mở những trang của các mod được chọn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="130"/>
@@ -9795,7 +9795,7 @@ Bạn có chắc muốn tiếp tục?</translation>
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation>Xin hãy tải một mod loader trước!</translation>
+        <translation type="vanished">Xin hãy tải một mod loader trước!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -9980,92 +9980,92 @@ Bạn có chắc không?</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation>Xác nhận mods để cập nhật</translation>
+        <translation type="vanished">Xác nhận mods để cập nhật</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>Bạn đang chuẩn bị cập nhật các mod sau:</translation>
+        <translation type="vanished">Bạn đang chuẩn bị cập nhật các mod sau:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation>Chỉ có các mod được chọn mới được cập nhật!</translation>
+        <translation type="vanished">Chỉ có các mod được chọn mới được cập nhật!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>Tên mod: %1&lt;br&gt;Tên tệp tin: %2&lt;br&gt;Lí do: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="vanished">Tên mod: %1&lt;br&gt;Tên tệp tin: %2&lt;br&gt;Lí do: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation>Thất bại khi tạo metadata</translation>
+        <translation type="vanished">Thất bại khi tạo metadata</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Không thể khởi tạo metadata cho các mod sau:&lt;br&gt;Bạn có muốn tiếp tục mà không có các mod này?</translation>
+        <translation type="vanished">Không thể khởi tạo metadata cho các mod sau:&lt;br&gt;Bạn có muốn tiếp tục mà không có các mod này?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation>Kiểm tra cập nhật</translation>
+        <translation type="vanished">Kiểm tra cập nhật</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Lỗi</translation>
+        <translation type="vanished">Lỗi</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation>Cảnh báo</translation>
+        <translation type="vanished">Cảnh báo</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Hủy bỏ</translation>
+        <translation type="vanished">Hủy bỏ</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation>Đang kiểm tra cập nhật...</translation>
+        <translation type="vanished">Đang kiểm tra cập nhật...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation>Tên mod: %1</translation>
+        <translation type="vanished">Tên mod: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation>Lý do: %1</translation>
+        <translation type="vanished">Lý do: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation>Giải pháp: cập nhật phiên bản mới nhất một cách thủ công:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation type="vanished">Giải pháp: cập nhật phiên bản mới nhất một cách thủ công:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation>Kiểm tra các phần tử phụ thuộc...</translation>
+        <translation type="vanished">Kiểm tra các phần tử phụ thuộc...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>mod &apos;%1&apos; chưa có metadata. Chúng tôi cần khởi tạo nó để theo dõi các thông tin liên quan về cách cập nhật bản mod này. Để tiếp tục, vui lòng chọn một nơi cung cấp mod cho chúng tôi kiểm tra phiên bản cập nhật.</translation>
+        <translation type="vanished">mod &apos;%1&apos; chưa có metadata. Chúng tôi cần khởi tạo nó để theo dõi các thông tin liên quan về cách cập nhật bản mod này. Để tiếp tục, vui lòng chọn một nơi cung cấp mod cho chúng tôi kiểm tra phiên bản cập nhật.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>Không thể tìm thấy phiên bản thích hợp từ nơi cung cấp mod đã được chọn</translation>
+        <translation type="vanished">Không thể tìm thấy phiên bản thích hợp từ nơi cung cấp mod đã được chọn</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation>Mod đã bị vô hiệu hóa vì nó có thể đã được cài đặt trước đó.</translation>
+        <translation type="vanished">Mod đã bị vô hiệu hóa vì nó có thể đã được cài đặt trước đó.</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation>Thất bại khi kiểm tra phiên bản cập nhật</translation>
+        <translation type="vanished">Thất bại khi kiểm tra phiên bản cập nhật</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Không thể kiểm tra hay cập nhật phiên bản cho các mod sau:&lt;br&gt;Bạn có muốn tiếp tục mà không có các mod này?</translation>
+        <translation type="vanished">Không thể kiểm tra hay cập nhật phiên bản cho các mod sau:&lt;br&gt;Bạn có muốn tiếp tục mà không có các mod này?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation>Đang tìm metadata</translation>
+        <translation type="vanished">Đang tìm metadata</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation>Khởi tạo metadata...</translation>
+        <translation type="vanished">Khởi tạo metadata...</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
@@ -10073,35 +10073,35 @@ Bạn có chắc không?</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation>Nhà cung cấp: %1</translation>
+        <translation type="vanished">Nhà cung cấp: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation>Phiên bản cũ: %1</translation>
+        <translation type="vanished">Phiên bản cũ: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation>Chưa được cài đặt</translation>
+        <translation type="vanished">Chưa được cài đặt</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation>Phiên bản mới: %1</translation>
+        <translation type="vanished">Phiên bản mới: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation>Loại phiên bản mới: %1</translation>
+        <translation type="vanished">Loại phiên bản mới: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation>Yêu cầu bởi: %1</translation>
+        <translation type="vanished">Yêu cầu bởi: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation>Yêu cầu bởi:</translation>
+        <translation type="vanished">Yêu cầu bởi:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation>Nhật ký cập nhật cho phiên bản mới nhất</translation>
+        <translation type="vanished">Nhật ký cập nhật cho phiên bản mới nhất</translation>
     </message>
 </context>
 <context>
@@ -10186,7 +10186,7 @@ Vui lòng cập nhật %1!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation>Đang chuẩn bị mod cho Modrinth...</translation>
+        <translation type="vanished">Đang chuẩn bị mod cho Modrinth...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -10224,7 +10224,7 @@ Vui lòng cập nhật %1!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Không có phiên bản hợp lệ của mod này được tìm thấy. Nó có thể không khả dụng cho phiên bản hiện tại của trò chơi hoặc mod loader.</translation>
+        <translation type="vanished">Không có phiên bản hợp lệ của mod này được tìm thấy. Nó có thể không khả dụng cho phiên bản hiện tại của trò chơi hoặc mod loader.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -10741,27 +10741,27 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation>Thêm tài khoản</translation>
+        <translation type="vanished">Thêm tài khoản</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Tên người dùng</translation>
+        <translation type="vanished">Tên người dùng</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>Tên người dùng dài hơn 16 ký tự không thể sử dụng cho game chơi qua LAN hay server ngoại tuyến.</translation>
+        <translation type="vanished">Tên người dùng dài hơn 16 ký tự không thể sử dụng cho game chơi qua LAN hay server ngoại tuyến.</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation>Cho phép sử dụng usernames dài</translation>
+        <translation type="vanished">Cho phép sử dụng usernames dài</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Hủy</translation>
+        <translation type="vanished">Hủy</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
 </context>
 <context>
@@ -10812,7 +10812,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation>Tìm kiếm</translation>
+        <translation type="vanished">Tìm kiếm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -10901,31 +10901,31 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     </message>
     <message>
         <source>Clear the log</source>
-        <translation>Xoá nhật kí</translation>
+        <translation type="vanished">Xoá nhật kí</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Xoá</translation>
+        <translation type="vanished">Xoá</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation>Tải nhật ký lên dịch vụ dán code trong phần cài đặt.</translation>
+        <translation type="vanished">Tải nhật ký lên dịch vụ dán code trong phần cài đặt.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Tải lên</translation>
+        <translation type="vanished">Tải lên</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation>Dọn dẹp</translation>
+        <translation type="vanished">Dọn dẹp</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Tải lại</translation>
+        <translation type="vanished">Tải lại</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation>Tìm Kiếm:</translation>
+        <translation type="vanished">Tìm Kiếm:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
@@ -10952,7 +10952,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation>Tệp (%1) không thể đọc được.</translation>
+        <translation type="vanished">Tệp (%1) không thể đọc được.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
@@ -11029,7 +11029,7 @@ Bạn có chắc không?</translation>
     </message>
     <message>
         <source>Other logs</source>
-        <translation>Các nhật kí khác</translation>
+        <translation type="vanished">Các nhật kí khác</translation>
     </message>
 </context>
 <context>
@@ -11054,7 +11054,7 @@ Bạn có chắc không?</translation>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation>Đóng</translation>
+        <translation type="vanished">Đóng</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -11083,28 +11083,28 @@ Bạn có chắc không?</translation>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation>Đang tải lên %1</translation>
+        <translation type="vanished">Đang tải lên %1</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation>Lỗi mạng: %1</translation>
+        <translation type="vanished">Lỗi mạng: %1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation>Lỗi: %1 trả về mã lỗi %2 %3</translation>
+        <translation type="vanished">Lỗi: %1 trả về mã lỗi %2 %3</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>Lỗi: %1 trả về một phản hồi không xác định</translation>
+        <translation type="vanished">Lỗi: %1 trả về một phản hồi không xác định</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation>Lỗi: %1 trả về một lỗi: %2</translation>
+        <translation type="vanished">Lỗi: %1 trả về một lỗi: %2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation>Lỗi %1 trả về mã lỗi %2
+        <translation type="vanished">Lỗi %1 trả về mã lỗi %2
 Tin nhắn báo lỗi: %3</translation>
     </message>
 </context>
@@ -11783,7 +11783,7 @@ Trạng thái HTTP: %2</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation>Máy chủ trả về lỗi sau:</translation>
+        <translation type="vanished">Máy chủ trả về lỗi sau:</translation>
     </message>
 </context>
 <context>
@@ -11840,7 +11840,7 @@ Trạng thái HTTP: %2</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation>Mặc định</translation>
+        <translation type="vanished">Mặc định</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -11979,18 +11979,18 @@ Trạng thái HTTP: %2</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation>Website</translation>
+        <translation type="vanished">Website</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation>%1 Nhà phát triển</translation>
+        <translation type="vanished">%1 Nhà phát triển</translation>
     </message>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation>Với sự cảm ơn tới</translation>
+        <translation type="vanished">Với sự cảm ơn tới</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
@@ -12051,7 +12051,7 @@ Xác nhận cắt bớt?</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation>Tải lên thất bại</translation>
+        <translation type="vanished">Tải lên thất bại</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -12350,7 +12350,7 @@ Thông báo này sẽ tiếp tục hiển thị cho đến khi bạn gỡ bỏ n
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>Tệp binary của Java được chỉ định không hoạt động.&lt;br /&gt;Bạn nên sử dụng tính năng tự động phát hiện hoặc đặt đường dẫn đến tệp thực thi Java.&lt;br /&gt;</translation>
+        <translation type="vanished">Tệp binary của Java được chỉ định không hoạt động.&lt;br /&gt;Bạn nên sử dụng tính năng tự động phát hiện hoặc đặt đường dẫn đến tệp thực thi Java.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
@@ -12378,7 +12378,7 @@ Thông báo này sẽ tiếp tục hiển thị cho đến khi bạn gỡ bỏ n
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation>Đường dẫn đến JVisualVM không hợp lệ</translation>
+        <translation type="vanished">Đường dẫn đến JVisualVM không hợp lệ</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
@@ -12403,7 +12403,7 @@ Thông báo này sẽ tiếp tục hiển thị cho đến khi bạn gỡ bỏ n
     </message>
     <message>
         <source>No author(s)</source>
-        <translation>Không tác giả</translation>
+        <translation type="vanished">Không tác giả</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
@@ -12602,7 +12602,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>Không thể sửa quyền cho %1</translation>
+        <translation type="vanished">Không thể sửa quyền cho %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -13002,7 +13002,7 @@ Tin nhắn báo lỗi: %3</translation>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation>Thay đổi phiên bản của %1</translation>
+        <translation type="vanished">Thay đổi phiên bản của %1</translation>
     </message>
 </context>
 <context>
@@ -13424,13 +13424,11 @@ Bạn có chắc muốn làm điều này?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="564"/>
         <source>The name of the resource.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Tên của tài nguyên.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="566"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Thời gian thay đổi (hoặc được thêm vào) gần đây nhất của tài nguyên.</translation>
     </message>
     <message>
@@ -13540,7 +13538,7 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>Có phải gói tài nguyên đã được bật? (Chỉ khả dụng đối với file ZIP)</translation>
+        <translation type="vanished">Có phải gói tài nguyên đã được bật? (Chỉ khả dụng đối với file ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
@@ -13561,15 +13559,15 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation>Gói tài nguyên</translation>
+        <translation type="vanished">Gói tài nguyên</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Tải xuống các gói</translation>
+        <translation type="vanished">Tải xuống các gói</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>Tải xuống gói tài nguyên từ các nền tảng trực tuyến</translation>
+        <translation type="vanished">Tải xuống gói tài nguyên từ các nền tảng trực tuyến</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -13896,11 +13894,11 @@ Bạn có chắc?</translation>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation>File tải xuống này sẽ được đặt trong: %1</translation>
+        <translation type="vanished">File tải xuống này sẽ được đặt trong: %1</translation>
     </message>
     <message>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>File tải xuống này sẽ được đặt vào một thư mục khác so với mặc định, có thể do trình loader yêu cầu vậy.</translation>
+        <translation type="vanished">File tải xuống này sẽ được đặt vào một thư mục khác so với mặc định, có thể do trình loader yêu cầu vậy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
@@ -14199,7 +14197,7 @@ Hiện đang cài đặt phiên bản: %1</translation>
     </message>
     <message>
         <source>Latency</source>
-        <translation>Độ trễ</translation>
+        <translation type="vanished">Độ trễ</translation>
     </message>
 </context>
 <context>
@@ -14328,15 +14326,15 @@ Bạn có chắc không?</translation>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation>Gói Shader</translation>
+        <translation type="vanished">Gói Shader</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation>Tải xuống shader</translation>
+        <translation type="vanished">Tải xuống shader</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation>Tải xuống shader từ các nền tảng trực tuyến</translation>
+        <translation type="vanished">Tải xuống shader từ các nền tảng trực tuyến</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -14878,7 +14876,7 @@ Bạn có chắc?</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Không thể mở tập tin nén của modpack đã cho.</translation>
+        <translation type="vanished">Không thể mở tập tin nén của modpack đã cho.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -15049,13 +15047,11 @@ Thiếu inheritFrom</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Gói tài nguyên có được bật không?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Tên của texture pack.</translation>
     </message>
     <message>
@@ -15065,7 +15061,6 @@ Thiếu inheritFrom</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Ngày và giờ gói tài nguyên này được thay đổi (hoặc thêm vào) lần cuối.</translation>
     </message>
     <message>
@@ -15149,11 +15144,11 @@ Cảnh báo: Tài nguyên này đã được liên kết cứng ở đâu đó. 
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Tải xuống gói</translation>
+        <translation type="vanished">Tải xuống gói</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation>Tải xuống gói hình ảnh từ các nền tảng trực tuyến</translation>
+        <translation type="vanished">Tải xuống gói hình ảnh từ các nền tảng trực tuyến</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
@@ -15275,7 +15270,7 @@ Bạn có chắc?</translation>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation>&amp;Biểu tượng</translation>
+        <translation type="vanished">&amp;Biểu tượng</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
@@ -15283,54 +15278,54 @@ Bạn có chắc?</translation>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation>Xem biểu tượng của thư mục chủ đề.</translation>
+        <translation type="vanished">Xem biểu tượng của thư mục chủ đề.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation>&amp;Tiện ích</translation>
+        <translation type="vanished">&amp;Tiện ích</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation>Xem tiện ích của thư mục chủ đề.</translation>
+        <translation type="vanished">Xem tiện ích của thư mục chủ đề.</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Việc chú mèo xuất hiện ở hình nền không phải là cài đặt mặc định. Chú mèo chỉ có thể được bật thông qua nút Cat trên thanh Công Cụ.</translation>
+        <translation type="vanished">Việc chú mèo xuất hiện ở hình nền không phải là cài đặt mặc định. Chú mèo chỉ có thể được bật thông qua nút Cat trên thanh Công Cụ.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation>M&amp;èo</translation>
+        <translation type="vanished">M&amp;èo</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation>Xem thư mục chứa chú mèo.</translation>
+        <translation type="vanished">Xem thư mục chứa chú mèo.</translation>
     </message>
     <message>
         <source>Refresh all</source>
-        <translation>Làm mới tất cả</translation>
+        <translation type="vanished">Làm mới tất cả</translation>
     </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation>Trang của Trình Thuật Sĩ</translation>
+        <translation type="vanished">Trang của Trình Thuật Sĩ</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation>Chọn chủ đề bạn muốn sử dụng</translation>
+        <translation type="vanished">Chọn chủ đề bạn muốn sử dụng</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Mẹo: Việc chú mèo xuất hiện ở hình nền không phải là cài đặt mặc định. Chú mèo chỉ có thể được bật thông qua nút Cat trên thanh Công Cụ.</translation>
+        <translation type="vanished">Mẹo: Việc chú mèo xuất hiện ở hình nền không phải là cài đặt mặc định. Chú mèo chỉ có thể được bật thông qua nút Cat trên thanh Công Cụ.</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation> Xem trước:</translation>
+        <translation type="vanished"> Xem trước:</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation>Con mèo ở nền không có bất kì mục đích gì, nó chỉ để làm đẹp.</translation>
+        <translation type="vanished">Con mèo ở nền không có bất kì mục đích gì, nó chỉ để làm đẹp.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
@@ -15581,7 +15576,7 @@ Hãy thay đổi phiên bản Java cho bản cài đặt này với các phiên 
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation>Bộ lọc:</translation>
+        <translation type="vanished">Bộ lọc:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -16391,11 +16386,11 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation>Datapack</translation>
+        <translation type="vanished">Datapack</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation>Quản lí datapack trong thế giới.</translation>
+        <translation type="vanished">Quản lí datapack trong thế giới.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -16423,7 +16418,7 @@ Bạn chắc chắn muốn tiếp tục chứ?</translation>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation>Mở thư mục datapack</translation>
+        <translation type="vanished">Mở thư mục datapack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>

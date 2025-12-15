@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>API klíče</translation>
+        <translation type="vanished">API klíče</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -88,16 +88,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation>(Výchozí)</translation>
+        <translation type="vanished">(Výchozí)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Zde zadejte vlastní klientské ID pro autentifikaci účtem Microsoft.</translation>
+        <translation type="vanished">Zde zadejte vlastní klientské ID pro autentifikaci účtem Microsoft.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>&amp;Modrinth API</translation>
+        <translation type="vanished">&amp;Modrinth API</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -106,15 +106,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Zde zadejte vlastní API token pro Modrinth.</translation>
+        <translation type="vanished">Zde zadejte vlastní API token pro Modrinth.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(Žádný)</translation>
+        <translation type="vanished">(Žádný)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>klientské ID Technic</translation>
+        <translation type="vanished">klientské ID Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -123,11 +123,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Sem zadejte vlastní GUID klientské ID pro Technic.</translation>
+        <translation type="vanished">Sem zadejte vlastní GUID klientské ID pro Technic.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Různé</translation>
+        <translation type="vanished">Různé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Zadejte vlastní URL pro metadata.</translation>
+        <translation type="vanished">Zadejte vlastní URL pro metadata.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;Základní API CurseForge</translation>
+        <translation type="vanished">&amp;Základní API CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -175,11 +175,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Zadejte vlastní klíč CurseForge API.</translation>
+        <translation type="vanished">Zadejte vlastní klíč CurseForge API.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation>API</translation>
+        <translation type="vanished">API</translation>
     </message>
 </context>
 <context>
@@ -248,7 +248,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation>Nepodařilo se otevřít konfiguraci balíčku %1!</translation>
+        <translation type="vanished">Nepodařilo se otevřít konfiguraci balíčku %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -417,12 +417,12 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>Nevybráno</translation>
+        <translation type="vanished">Nevybráno</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Offline</translation>
+        <translation type="vanished">Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -450,37 +450,37 @@
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation>Připraven</translation>
+        <translation type="vanished">Připraven</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>Pracuji</translation>
+        <translation type="vanished">Pracuji</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Chyba</translation>
+        <translation type="vanished">Chyba</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation>Vypršel</translation>
+        <translation type="vanished">Vypršel</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>Deaktivován</translation>
+        <translation type="vanished">Deaktivován</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>Pryč</translation>
+        <translation type="vanished">Pryč</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation>Neznámý</translation>
+        <translation type="vanished">Neznámý</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -1136,7 +1136,7 @@ Některé verze Minecraftu se nemusí spustit.
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Stahování souborů ze serverů Mojangu...</translation>
+        <translation type="vanished">Stahování souborů ze serverů Mojangu...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1536,11 +1536,11 @@ Některé verze Minecraftu se nemusí spustit.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nakonfigurovaná globální složka modů a výchozí složka pro stahování jsou automaticky kontrolovány, zda neobsahují stažené mody, a pokud jsou nalezeny, zkopírují se do instance.&lt;/p&gt;&lt;p&gt;Volitelně můžete stažené mody přetáhnout na toto dialogové okno nebo přidat složku ke sledování, pokud jste mody nestáhli do výchozího umístění.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nakonfigurovaná globální složka modů a výchozí složka pro stahování jsou automaticky kontrolovány, zda neobsahují stažené mody, a pokud jsou nalezeny, zkopírují se do instance.&lt;/p&gt;&lt;p&gt;Volitelně můžete stažené mody přetáhnout na toto dialogové okno nebo přidat složku ke sledování, pokud jste mody nestáhli do výchozího umístění.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation>Sledované složky:</translation>
+        <translation type="vanished">Sledované složky:</translation>
     </message>
 </context>
 <context>
@@ -1684,7 +1684,7 @@ Některé verze Minecraftu se nemusí spustit.
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation>Jedna nebo více podúloh selhala</translation>
+        <translation type="vanished">Jedna nebo více podúloh selhala</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1927,7 +1927,7 @@ Některé verze Minecraftu se nemusí spustit.
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation>Vnitřní mody</translation>
+        <translation type="vanished">Vnitřní mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -2067,22 +2067,22 @@ Některé verze Minecraftu se nemusí spustit.
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation>Vlastní příkazy</translation>
+        <translation type="vanished">Vlastní příkazy</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>&amp;Příkaz po ukončení:</translation>
+        <translation type="vanished">&amp;Příkaz po ukončení:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>&amp;Příkaz před spuštěním:</translation>
+        <translation type="vanished">&amp;Příkaz před spuštěním:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>Příkaz &amp;wrapperu:</translation>
+        <translation type="vanished">Příkaz &amp;wrapperu:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2115,7 +2115,7 @@ Některé verze Minecraftu se nemusí spustit.
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation>Vlastní příkazy</translation>
+        <translation type="vanished">Vlastní příkazy</translation>
     </message>
 </context>
 <context>
@@ -2483,7 +2483,7 @@ Jste si jisti?</translation>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>Kontrola, zda mají mody metadata...</translation>
+        <translation type="vanished">Kontrola, zda mají mody metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2535,7 +2535,7 @@ Jste si jisti?</translation>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation>&amp;Proměnné prostředí</translation>
+        <translation type="vanished">&amp;Proměnné prostředí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2572,7 +2572,7 @@ Jste si jisti?</translation>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation>Proměnné prostředí</translation>
+        <translation type="vanished">Proměnné prostředí</translation>
     </message>
 </context>
 <context>
@@ -2715,11 +2715,11 @@ Jste si jisti?</translation>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation>&amp;Název</translation>
+        <translation type="vanished">&amp;Název</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation>&amp;Verze</translation>
+        <translation type="vanished">&amp;Verze</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2771,7 +2771,7 @@ Jste si jisti?</translation>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation>&amp;Autor</translation>
+        <translation type="vanished">&amp;Autor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2956,7 +2956,7 @@ Jste si jisti?</translation>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation>Filtr:</translation>
+        <translation type="vanished">Filtr:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2965,11 +2965,11 @@ Jste si jisti?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Přidat</translation>
+        <translation type="vanished">&amp;Přidat</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Přidat</translation>
+        <translation type="vanished">Přidat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -2978,7 +2978,7 @@ Jste si jisti?</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation>Odebrat vybranou položku</translation>
+        <translation type="vanished">Odebrat vybranou položku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -2987,7 +2987,7 @@ Jste si jisti?</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation>Povolit vybranou položku</translation>
+        <translation type="vanished">Povolit vybranou položku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
@@ -3102,7 +3102,7 @@ Jste si jisti?</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation>Stáhnout nový zdroj</translation>
+        <translation type="vanished">Stáhnout nový zdroj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -3112,27 +3112,27 @@ Jste si jisti?</translation>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>Pokusit se najít / aktualizovat všechny vybrané zdroje (všechny zdroje, pokud není žádný vybraný)</translation>
+        <translation type="vanished">Pokusit se najít / aktualizovat všechny vybrané zdroje (všechny zdroje, pokud není žádný vybraný)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation>Exportovat seznam modů</translation>
+        <translation type="vanished">Exportovat seznam modů</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation>Exportovat metadata modu jako text</translation>
+        <translation type="vanished">Exportovat metadata modu jako text</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Navštívit stránku modu</translation>
+        <translation type="vanished">Navštívit stránku modu</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation>Zakázat vybranou položku</translation>
+        <translation type="vanished">Zakázat vybranou položku</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation>Přejít na domovskou stránku modů</translation>
+        <translation type="vanished">Přejít na domovskou stránku modů</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -3194,12 +3194,12 @@ Opravdu to chcete udělat?</translation>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation>Potvrdit zakázání</translation>
+        <translation type="vanished">Potvrdit zakázání</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Pokud tento prostředek zakážete během hry, může dojít k pádu hry.
+        <translation type="vanished">Pokud tento prostředek zakážete během hry, může dojít k pádu hry.
 Jste si jisti, že to chcete udělat?</translation>
     </message>
     <message>
@@ -3272,16 +3272,16 @@ Jste si jisti, že to chcete udělat?</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation>Externí editory (ponechte prázdné pro výchozí nastavení systému)</translation>
+        <translation type="vanished">Externí editory (ponechte prázdné pro výchozí nastavení systému)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>&amp;Textový editor:</translation>
+        <translation type="vanished">&amp;Textový editor:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation>Externí nástroje</translation>
+        <translation type="vanished">Externí nástroje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3343,17 +3343,17 @@ Jste si jisti, že to chcete udělat?</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation>Spustitelný soubor JVisualVM</translation>
+        <translation type="vanished">Spustitelný soubor JVisualVM</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation>Chyba při kontrolování instalace JVisualVM:↵
+        <translation type="vanished">Chyba při kontrolování instalace JVisualVM:↵
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>Instalace JVisualVM se zdá být v pořádku</translation>
+        <translation type="vanished">Instalace JVisualVM se zdá být v pořádku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3380,7 +3380,7 @@ Jste si jisti, že to chcete udělat?</translation>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation>Editor JSON</translation>
+        <translation type="vanished">Editor JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3553,7 +3553,7 @@ Prosím zkus znovu.</translation>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>Získávání odpovědi API z CurseForge pro &apos;%1&apos;...</translation>
+        <translation type="vanished">Získávání odpovědi API z CurseForge pro &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3592,16 +3592,16 @@ Prosím zkus znovu.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Příprava modů pro CurseForge...</translation>
+        <translation type="vanished">Příprava modů pro CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Nebyla nalezena žádná platná verze tohoto modu. Nejspíš není dostupný na současné verzi hry / mod loaderu.</translation>
+        <translation type="vanished">Nebyla nalezena žádná platná verze tohoto modu. Nejspíš není dostupný na současné verzi hry / mod loaderu.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>Je dostupná nová aktualizace modu, ale nelze ji stáhnout přes CurseForge.</translation>
+        <translation type="vanished">Je dostupná nová aktualizace modu, ale nelze ji stáhnout přes CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -4041,11 +4041,11 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation>Klíč</translation>
+        <translation type="vanished">Klíč</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Hodnota</translation>
+        <translation type="vanished">Hodnota</translation>
     </message>
 </context>
 <context>
@@ -4450,11 +4450,11 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation>&amp;Název:</translation>
+        <translation type="vanished">&amp;Název:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation>&amp;Skupina:</translation>
+        <translation type="vanished">&amp;Skupina:</translation>
     </message>
 </context>
 <context>
@@ -4692,19 +4692,19 @@ Postupujte obezřetně!</translation>
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation>Otevřít globální nastavení</translation>
+        <translation type="vanished">Otevřít globální nastavení</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation>Tato nastavení přepíší globální nastavení.</translation>
+        <translation type="vanished">Tato nastavení přepíší globální nastavení.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation>Instalace Javy</translation>
+        <translation type="vanished">Instalace Javy</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation>Automatická detekce...</translation>
+        <translation type="vanished">Automatická detekce...</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4712,72 +4712,72 @@ Postupujte obezřetně!</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation>Otestovat</translation>
+        <translation type="vanished">Otestovat</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Pokud je tato možnost povolena, launcher nebude kontrolovat, zda je instance kompatibilní s vybranou verzí Javy.</translation>
+        <translation type="vanished">Pokud je tato možnost povolena, launcher nebude kontrolovat, zda je instance kompatibilní s vybranou verzí Javy.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation>Přeskočit kontroly kompatibility s Javou</translation>
+        <translation type="vanished">Přeskočit kontroly kompatibility s Javou</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation>Paměť</translation>
+        <translation type="vanished">Paměť</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>Minimální přidělení paměti:</translation>
+        <translation type="vanished">Minimální přidělení paměti:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Maximální výše paměti Minecraft, která dovolena používat.</translation>
+        <translation type="vanished">Maximální výše paměti Minecraft, která dovolena používat.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Velikost paměti, kterou má Minecraft k dispozici při spuštění.</translation>
+        <translation type="vanished">Velikost paměti, kterou má Minecraft k dispozici při spuštění.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Velikost paměti k dispozici pro uložení načtených Java tříd.</translation>
+        <translation type="vanished">Velikost paměti k dispozici pro uložení načtených Java tříd.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>Maximální velikost přidělené paměti:</translation>
+        <translation type="vanished">Maximální velikost přidělené paměti:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Procházet</translation>
+        <translation type="vanished">Procházet</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Stáhnout Java</translation>
+        <translation type="vanished">Stáhnout Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation>PermGen:</translation>
+        <translation type="vanished">PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>Je-li nainstalovaná Java 8 a vyšší, je permgen nastavený automaticky</translation>
+        <translation type="vanished">Je-li nainstalovaná Java 8 a vyšší, je permgen nastavený automaticky</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation>Java argumenty</translation>
+        <translation type="vanished">Java argumenty</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation>Herní okna</translation>
+        <translation type="vanished">Herní okna</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation>Herní okno</translation>
+        <translation type="vanished">Herní okno</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>Spustit Minecraft maximalizovaný</translation>
+        <translation type="vanished">Spustit Minecraft maximalizovaný</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
@@ -4789,70 +4789,70 @@ Postupujte obezřetně!</translation>
     </message>
     <message>
         <source>Window height:</source>
-        <translation>Výška okna:</translation>
+        <translation type="vanished">Výška okna:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation>Šířka okna:</translation>
+        <translation type="vanished">Šířka okna:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation>Nastavení konzole</translation>
+        <translation type="vanished">Nastavení konzole</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation>Zobrazit konzoli, zatímco hra běží</translation>
+        <translation type="vanished">Zobrazit konzoli, zatímco hra běží</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>Automaticky zavřít konzoli po ukončení hry</translation>
+        <translation type="vanished">Automaticky zavřít konzoli po ukončení hry</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>Zobrazit konzoli, když hra spadne</translation>
+        <translation type="vanished">Zobrazit konzoli, když hra spadne</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation>Zavřít launcher po otevření okna hry</translation>
+        <translation type="vanished">Zavřít launcher po otevření okna hry</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation>Zavřít launcher po zavření okna hry</translation>
+        <translation type="vanished">Zavřít launcher po zavření okna hry</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation>Vlastní příkazy</translation>
+        <translation type="vanished">Vlastní příkazy</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation>Proměnné prostředí</translation>
+        <translation type="vanished">Proměnné prostředí</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation>Náhradní řešení</translation>
+        <translation type="vanished">Náhradní řešení</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation>Nativní knihovny</translation>
+        <translation type="vanished">Nativní knihovny</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>Cesta knihovny &amp;GLFW</translation>
+        <translation type="vanished">Cesta knihovny &amp;GLFW</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation>Použít systémovou instalaci GLFW</translation>
+        <translation type="vanished">Použít systémovou instalaci GLFW</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation>Svět jednoho hráče</translation>
+        <translation type="vanished">Svět jednoho hráče</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation>Použít systémovou instalaci OpenAL</translation>
+        <translation type="vanished">Použít systémovou instalaci OpenAL</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -4868,89 +4868,89 @@ Postupujte obezřetně!</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation>Přepsat výchozí účet</translation>
+        <translation type="vanished">Přepsat výchozí účet</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Účet:</translation>
+        <translation type="vanished">Účet:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Další nastavení</translation>
+        <translation type="vanished">Další nastavení</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>Cesta knihovny &amp;OpenAL</translation>
+        <translation type="vanished">Cesta knihovny &amp;OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Výkon</translation>
+        <translation type="vanished">Výkon</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povolit GameMode od Feral Interactive pro potenciální zlepšení herního výkonu.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povolit GameMode od Feral Interactive pro potenciální zlepšení herního výkonu.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Povolit Feral GameMode</translation>
+        <translation type="vanished">Povolit Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povolit pokročilé výkonnostní překrytí MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povolit pokročilé výkonnostní překrytí MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Povolit MangoHud</translation>
+        <translation type="vanished">Povolit MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Použít diskrétní GPU místo primárního.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Použít diskrétní GPU místo primárního.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Použít diskrétní GPU</translation>
+        <translation type="vanished">Použít diskrétní GPU</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>Použít Zink, ovladač Mesa OpenGL, který implementuje OpenGL na Vulkan. Výkon se může měnit v závislosti na situaci. Poznámka: pokud nebude nalezen žádný vhodný ovladač Vulkan, bude použito softwarové vykreslování.</translation>
+        <translation type="vanished">Použít Zink, ovladač Mesa OpenGL, který implementuje OpenGL na Vulkan. Výkon se může měnit v závislosti na situaci. Poznámka: pokud nebude nalezen žádný vhodný ovladač Vulkan, bude použito softwarové vykreslování.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Použít Zink</translation>
+        <translation type="vanished">Použít Zink</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Zastaralá nastavení</translation>
+        <translation type="vanished">Zastaralá nastavení</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuluje použití starších online služeb, které již nejsou funkční.&lt;/p&gt;&lt;p&gt;Aktuální opravy obsahují: podporu skinů a režimu online.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuluje použití starších online služeb, které již nejsou funkční.&lt;/p&gt;&lt;p&gt;Aktuální opravy obsahují: podporu skinů a režimu online.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Zapnout online opravy (experimentální)</translation>
+        <translation type="vanished">Zapnout online opravy (experimentální)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation>Přepsat globální nastavení času hry</translation>
+        <translation type="vanished">Přepsat globální nastavení času hry</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation>Zobrazit čas strávený hraním této instance</translation>
+        <translation type="vanished">Zobrazit čas strávený hraním této instance</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation>Záznam času stráveného hraním této instance</translation>
+        <translation type="vanished">Záznam času stráveného hraním této instance</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation>Nastavte cíl pro připojení po spuštění</translation>
+        <translation type="vanished">Nastavte cíl pro připojení po spuštění</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation>Adresa serveru:</translation>
+        <translation type="vanished">Adresa serveru:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4959,39 +4959,39 @@ Postupujte obezřetně!</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>Cesta k souboru knihovny %1</translation>
+        <translation type="vanished">Cesta k souboru knihovny %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Ve vašem systému nebyla nalezena aplikace Feral Interactive GameMode.</translation>
+        <translation type="vanished">Ve vašem systému nebyla nalezena aplikace Feral Interactive GameMode.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>Ve vašem systému nebyla nalezena aplikace MangoHud.</translation>
+        <translation type="vanished">Ve vašem systému nebyla nalezena aplikace MangoHud.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Vyberte verzi Javy</translation>
+        <translation type="vanished">Vyberte verzi Javy</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Potvrdit výběr</translation>
+        <translation type="vanished">Potvrdit výběr</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Vybrali jste 32-bitovou verzi Javy.
+        <translation type="vanished">Vybrali jste 32-bitovou verzi Javy.
 Tato instalace nepodporuje více než 2048 MiB RAM.
 Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Najdi spustitelný soubor Javy</translation>
+        <translation type="vanished">Najdi spustitelný soubor Javy</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Vaše maximální přidělení paměti je menší než minimální hodnota</translation>
+        <translation type="vanished">Vaše maximální přidělení paměti je menší než minimální hodnota</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -4999,11 +4999,11 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Vaše maximální přidělení paměti přesahuje kapacitu systémové paměti.</translation>
+        <translation type="vanished">Vaše maximální přidělení paměti přesahuje kapacitu systémové paměti.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Vaše maximální přidělení paměti se blíží kapacitě systémové paměti.</translation>
+        <translation type="vanished">Vaše maximální přidělení paměti se blíží kapacitě systémové paměti.</translation>
     </message>
 </context>
 <context>
@@ -5108,7 +5108,7 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation>JVisualVM slpuštěn</translation>
+        <translation type="vanished">JVisualVM slpuštěn</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -5135,15 +5135,15 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Rozbalování Javy (pro archivy tar není zobrazen postup)</translation>
+        <translation type="vanished">Rozbalování Javy (pro archivy tar není zobrazen postup)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation>Nepodařilo se otevřít poskytnutý soubor tar.</translation>
+        <translation type="vanished">Nepodařilo se otevřít poskytnutý soubor tar.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation>Nepodařilo se rozbalit poskytnutý soubor tar.</translation>
+        <translation type="vanished">Nepodařilo se rozbalit poskytnutý soubor tar.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -5157,7 +5157,7 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation>Nepodařilo se zjistit typ archivu!</translation>
+        <translation type="vanished">Nepodařilo se zjistit typ archivu!</translation>
     </message>
 </context>
 <context>
@@ -5263,70 +5263,70 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation>Paměť</translation>
+        <translation type="vanished">Paměť</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Maximální výše paměti Minecraft, která dovolena používat.</translation>
+        <translation type="vanished">Maximální výše paměti Minecraft, která dovolena používat.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>&amp;Minimální přidělení paměti:</translation>
+        <translation type="vanished">&amp;Minimální přidělení paměti:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>Ma&amp;ximální přidělení paměti:</translation>
+        <translation type="vanished">Ma&amp;ximální přidělení paměti:</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation>&amp;PermGen:</translation>
+        <translation type="vanished">&amp;PermGen:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Množství paměti se kterým Minecraft začne.</translation>
+        <translation type="vanished">Množství paměti se kterým Minecraft začne.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Velikost paměti k dispozici pro uložení načtení tříd Java.</translation>
+        <translation type="vanished">Velikost paměti k dispozici pro uložení načtení tříd Java.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation>Program Java Runtime</translation>
+        <translation type="vanished">Program Java Runtime</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation>Argumenty JVM:</translation>
+        <translation type="vanished">Argumenty JVM:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation>Automaticky vybere verzi Javy, která je kompatibilní s aktuální instancí Minecraftu, podle požadované hlavní verze.</translation>
+        <translation type="vanished">Automaticky vybere verzi Javy, která je kompatibilní s aktuální instancí Minecraftu, podle požadované hlavní verze.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Automaticky rozpoznat verzi Javy</translation>
+        <translation type="vanished">Automaticky rozpoznat verzi Javy</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>Cesta k &amp;Java:</translation>
+        <translation type="vanished">Cesta k &amp;Java:</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation>Automaticky stáhne a vybere verzi Javy doporučenou společností Mojang.</translation>
+        <translation type="vanished">Automaticky stáhne a vybere verzi Javy doporučenou společností Mojang.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Automaticky stáhnout Mojang Java</translation>
+        <translation type="vanished">Automaticky stáhnout Mojang Java</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation>Správa</translation>
+        <translation type="vanished">Správa</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation>Stažené verze Javy</translation>
+        <translation type="vanished">Stažené verze Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5356,33 +5356,33 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>&amp;Automaticky detekovat…</translation>
+        <translation type="vanished">&amp;Automaticky detekovat…</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>O&amp;testovat</translation>
+        <translation type="vanished">O&amp;testovat</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Procházet</translation>
+        <translation type="vanished">Procházet</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>Pokud je tato možnost povolena, launcher vás nevyzve k výběru verze Javy, pokud není nalezena.</translation>
+        <translation type="vanished">Pokud je tato možnost povolena, launcher vás nevyzve k výběru verze Javy, pokud není nalezena.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation>Přeskočit &amp;nastavení Java</translation>
+        <translation type="vanished">Přeskočit &amp;nastavení Java</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Pokud je tato možnost povolena, launcher nebude kontrolovat, zda je instance kompatibilní s vybranou verzí Javy.</translation>
+        <translation type="vanished">Pokud je tato možnost povolena, launcher nebude kontrolovat, zda je instance kompatibilní s vybranou verzí Javy.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>Pře&amp;skočit kontrolu kompatibility Javy</translation>
+        <translation type="vanished">Pře&amp;skočit kontrolu kompatibility Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -5403,35 +5403,35 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Vyberte verzi Javy</translation>
+        <translation type="vanished">Vyberte verzi Javy</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Potvrdit volbu</translation>
+        <translation type="vanished">Potvrdit volbu</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Vybrali jste 32-bitovou verzi Javy.
+        <translation type="vanished">Vybrali jste 32-bitovou verzi Javy.
 Tato instalace nepodporuje více než 2048 MiB RAM.
 Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Najdi spustitelný soubor Javy</translation>
+        <translation type="vanished">Najdi spustitelný soubor Javy</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Vaše maximální přidělení paměti přesahuje kapacitu systémové paměti.</translation>
+        <translation type="vanished">Vaše maximální přidělení paměti přesahuje kapacitu systémové paměti.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Vaše maximální přidělení paměti se blíží kapacitě systémové paměti.</translation>
+        <translation type="vanished">Vaše maximální přidělení paměti se blíží kapacitě systémové paměti.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Vaše maximální přidělení paměti je menší než minimální hodnota</translation>
+        <translation type="vanished">Vaše maximální přidělení paměti je menší než minimální hodnota</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -5450,7 +5450,7 @@ Opravdu?</translation>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation>Žadná verze Javy není vybraná</translation>
+        <translation type="vanished">Žadná verze Javy není vybraná</translation>
     </message>
     <message>
         <source>You didn&apos;t select a Java version or selected something that doesn&apos;t work.
@@ -5468,7 +5468,7 @@ Verzi Javy můžete později změnit v nastavení.
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Stáhnout Javu</translation>
+        <translation type="vanished">Stáhnout Javu</translation>
     </message>
     <message>
         <source>Automatic Java Download</source>
@@ -5484,7 +5484,7 @@ Chcete povolit automatické stahování Javy?
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation>Zjištěna 32-bitová Java</translation>
+        <translation type="vanished">Zjištěna 32-bitová Java</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5493,7 +5493,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Vybrali jste 32-bitovou verzi Javy, ale přidělili jste více než 2048 MiB maximální paměti.
+        <translation type="vanished">Vybrali jste 32-bitovou verzi Javy, ale přidělili jste více než 2048 MiB maximální paměti.
 %1 nebude moci spustit Minecraft.
 Chcete pokračovat?
 
@@ -5507,7 +5507,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Buď jste nevybrali verzi Javy, nebo jste vybrali verzi, která nefunguje.
+        <translation type="vanished">Buď jste nevybrali verzi Javy, nebo jste vybrali verzi, která nefunguje.
 %1 nebude moci spustit Minecraft.
 Chcete pokračovat?
 
@@ -5521,7 +5521,7 @@ Verzi Javy můžete později změnit v nastavení.
     </message>
     <message>
         <source>Memory</source>
-        <translation>Paměť</translation>
+        <translation type="vanished">Paměť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -5530,7 +5530,7 @@ Verzi Javy můžete později změnit v nastavení.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>Minimální přidělení paměti:</translation>
+        <translation type="vanished">Minimální přidělení paměti:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5636,7 +5636,7 @@ Verzi Javy můžete později změnit v nastavení.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>Maximální přidělení paměti:</translation>
+        <translation type="vanished">Maximální přidělení paměti:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -5675,19 +5675,19 @@ Verzi Javy můžete později změnit v nastavení.
     </message>
     <message>
         <source>Browse</source>
-        <translation>Vybrat</translation>
+        <translation type="vanished">Vybrat</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Automaticky stáhnout Mojang Java</translation>
+        <translation type="vanished">Automaticky stáhnout Mojang Java</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Automaticky zjistit verzi Javy</translation>
+        <translation type="vanished">Automaticky zjistit verzi Javy</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation>Automaticky zjistit Javu</translation>
+        <translation type="vanished">Automaticky zjistit Javu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -5725,15 +5725,15 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Vaše maximální přidělení paměti se blíží kapacitě systémové paměti.</translation>
+        <translation type="vanished">Vaše maximální přidělení paměti se blíží kapacitě systémové paměti.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Vaše maximální přidělení paměti je menší než minimální hodnota</translation>
+        <translation type="vanished">Vaše maximální přidělení paměti je menší než minimální hodnota</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>Překračujete maximální přidělení podporované 32-bitovými instalacemi Javy.</translation>
+        <translation type="vanished">Překračujete maximální přidělení podporované 32-bitovými instalacemi Javy.</translation>
     </message>
 </context>
 <context>
@@ -6030,11 +6030,11 @@ Chcete si zahrát demo?</translation>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation>Hrát offline</translation>
+        <translation type="vanished">Hrát offline</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>Platnost přihlášení vypršela a je nutné se znovu přihlásit.</translation>
+        <translation type="vanished">Platnost přihlášení vypršela a je nutné se znovu přihlásit.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="355"/>
@@ -6043,7 +6043,7 @@ Chcete si zahrát demo?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>Identifikace klienta launcheru byla změněna. Odstraňte prosím tento účet a znova jej přidejte.</translation>
+        <translation type="vanished">Identifikace klienta launcheru byla změněna. Odstraňte prosím tento účet a znova jej přidejte.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -6052,7 +6052,7 @@ Chcete si zahrát demo?</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>Účet již na serverech neexistuje. Možná byl migrován, v tom případě prosím přidejte nový účet, do kterého jste migrovali.</translation>
+        <translation type="vanished">Účet již na serverech neexistuje. Možná byl migrován, v tom případě prosím přidejte nový účet, do kterého jste migrovali.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -6197,11 +6197,11 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation>Funkce</translation>
+        <translation type="vanished">Funkce</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation>Nastavení aktualizací</translation>
+        <translation type="vanished">Nastavení aktualizací</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -6351,7 +6351,7 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation>Způsob řazení instancí</translation>
+        <translation type="vanished">Způsob řazení instancí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -6366,7 +6366,7 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     </message>
     <message>
         <source>Theme</source>
-        <translation>Motiv</translation>
+        <translation type="vanished">Motiv</translation>
     </message>
     <message>
         <source>&amp;Icons</source>
@@ -6390,17 +6390,17 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     </message>
     <message>
         <source>Mods</source>
-        <translation>Mody</translation>
+        <translation type="vanished">Mody</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>Zakázat používání metadat poskytnutých poskytovateli modů (např. Modrinth nebo CurseForge) pro mody.</translation>
+        <translation type="vanished">Zakázat používání metadat poskytnutých poskytovateli modů (např. Modrinth nebo CurseForge) pro mody.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation>Zakázat používání metadat pro mody</translation>
+        <translation type="vanished">Zakázat používání metadat pro mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -6473,12 +6473,12 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation>Rekurzivně kontrolovat složku se staženými</translation>
+        <translation type="vanished">Rekurzivně kontrolovat složku se staženými</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>Zakázat automatickou kontrolu, instalaci a aktualizaci závislostí modů.</translation>
+        <translation type="vanished">Zakázat automatickou kontrolu, instalaci a aktualizaci závislostí modů.</translation>
     </message>
     <message>
         <source>Do not install mod dependencies</source>
@@ -6486,15 +6486,15 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     </message>
     <message>
         <source>Update interval</source>
-        <translation>Interval aktualizací</translation>
+        <translation type="vanished">Interval aktualizací</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation>Nastavte na 0 pro kontrolu pouze při spuštění</translation>
+        <translation type="vanished">Nastavte na 0 pro kontrolu pouze při spuštění</translation>
     </message>
     <message>
         <source>h</source>
-        <translation>h</translation>
+        <translation type="vanished">h</translation>
     </message>
     <message>
         <source>Rename instance folders</source>
@@ -6519,27 +6519,27 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation>Zakázat automatickou správu závislostí modů</translation>
+        <translation type="vanished">Zakázat automatickou správu závislostí modů</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>Při vytváření nové instance modpacku nenavrhovat aktualizaci existujících instancí.</translation>
+        <translation type="vanished">Při vytváření nové instance modpacku nenavrhovat aktualizaci existujících instancí.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation>Přeskočit dialog o aktualizaci modpacku</translation>
+        <translation type="vanished">Přeskočit dialog o aktualizaci modpacku</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Různé</translation>
+        <translation type="vanished">Různé</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation>Počet souběžných úloh</translation>
+        <translation type="vanished">Počet souběžných úloh</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation>Počet souběžných stahování</translation>
+        <translation type="vanished">Počet souběžných stahování</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -6548,7 +6548,7 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation>Čas vypršení pro požadavky HTTP</translation>
+        <translation type="vanished">Čas vypršení pro požadavky HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -6557,7 +6557,7 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation>Počet ručních opakování</translation>
+        <translation type="vanished">Počet ručních opakování</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
@@ -6575,23 +6575,23 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     </message>
     <message>
         <source>Cat</source>
-        <translation>Kočka</translation>
+        <translation type="vanished">Kočka</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>Nastavení průhlednosti kočky. Při 0% je plně průhledná, při 100% kompletně neprůhledná.</translation>
+        <translation type="vanished">Nastavení průhlednosti kočky. Při 0% je plně průhledná, při 100% kompletně neprůhledná.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Průhlednost</translation>
+        <translation type="vanished">Průhlednost</translation>
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="vanished">%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Nástroje</translation>
+        <translation type="vanished">Nástroje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -6656,27 +6656,27 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     </message>
     <message>
         <source>Console Settings</source>
-        <translation>Možnosti konzole</translation>
+        <translation type="vanished">Možnosti konzole</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>Zobrazit konzoli během hry</translation>
+        <translation type="vanished">Zobrazit konzoli během hry</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation>&amp;Automaticky zavřít konzoli po ukončení hry</translation>
+        <translation type="vanished">&amp;Automaticky zavřít konzoli po ukončení hry</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>Zobrazit konzoli pokud hra &amp;spadne</translation>
+        <translation type="vanished">Zobrazit konzoli pokud hra &amp;spadne</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation>Limit &amp;historie</translation>
+        <translation type="vanished">Limit &amp;historie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -6692,7 +6692,7 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>Písmo použité pro konzoli</translation>
+        <translation type="vanished">Písmo použité pro konzoli</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -6756,23 +6756,23 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[Test/CHYBA] OOoooOOOoooo! Děsivá chyba!</translation>
+        <translation type="vanished">[Test/CHYBA] OOoooOOOoooo! Děsivá chyba!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation>[Test/CHYBA] Děsivá chyba!</translation>
+        <translation type="vanished">[Test/CHYBA] Děsivá chyba!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation>[Test/VAROVÁNÍ] Ne tak děsivé varování.</translation>
+        <translation type="vanished">[Test/VAROVÁNÍ] Ne tak děsivé varování.</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[Test/LADĚNÍ] Tajná ladicí zpráva...</translation>
+        <translation type="vanished">[Test/LADĚNÍ] Tajná ladicí zpráva...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation>[Test/FATÁLNÍ] Strašlivá fatální chyba!</translation>
+        <translation type="vanished">[Test/FATÁLNÍ] Strašlivá fatální chyba!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -6780,7 +6780,7 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[Test/INFO] Neškodná zpráva...</translation>
+        <translation type="vanished">[Test/INFO] Neškodná zpráva...</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -6796,7 +6796,7 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
     </message>
     <message>
         <source>Launcher</source>
-        <translation>Launcher</translation>
+        <translation type="vanished">Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6904,7 +6904,7 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation>Nepodařilo se otevřít soubor modpacku %1!</translation>
+        <translation type="vanished">Nepodařilo se otevřít soubor modpacku %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -7124,12 +7124,12 @@ Důvod:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation>Aktualizuji index pro mod:
+        <translation type="vanished">Aktualizuji index pro mod:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation>Neplatná metadata</translation>
+        <translation type="vanished">Neplatná metadata</translation>
     </message>
 </context>
 <context>
@@ -7201,7 +7201,7 @@ Důvod:
     </message>
     <message>
         <source>Search:</source>
-        <translation>Hledat:</translation>
+        <translation type="vanished">Hledat:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -7313,7 +7313,7 @@ Důvod:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation>Nepodařilo se vytvořit:</translation>
+        <translation type="vanished">Nepodařilo se vytvořit:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -7330,7 +7330,7 @@ Důvod:
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation>Nepodařilo se otevřít poskytnutý soubor zip.</translation>
+        <translation type="vanished">Nepodařilo se otevřít poskytnutý soubor zip.</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -7349,7 +7349,7 @@ Důvod:
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
-        <translation>Nepodařilo se najít první soubor v souboru zip</translation>
+        <translation type="vanished">Nepodařilo se najít první soubor v souboru zip</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
@@ -7363,7 +7363,7 @@ Důvod:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>Nepodařilo se opravit oprávnění pro %1</translation>
+        <translation type="vanished">Nepodařilo se opravit oprávnění pro %1</translation>
     </message>
 </context>
 <context>
@@ -7476,11 +7476,11 @@ Důvod:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>Otevřete %1 nebo naskenujte QR kód a zadejte kód výše.</translation>
+        <translation type="vanished">Otevřete %1 nebo naskenujte QR kód a zadejte kód výše.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation>Otevřete %1 a zadejte kód výše.</translation>
+        <translation type="vanished">Otevřete %1 a zadejte kód výše.</translation>
     </message>
 </context>
 <context>
@@ -7679,7 +7679,7 @@ Důvod:
     </message>
     <message>
         <source>More news...</source>
-        <translation>Další novinky...</translation>
+        <translation type="vanished">Další novinky...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7723,7 +7723,7 @@ Důvod:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>Vytvoří na ploše zástupce pro spuštění vybrané instance.</translation>
+        <translation type="vanished">Vytvoří na ploše zástupce pro spuštění vybrané instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -8479,7 +8479,7 @@ Přidjete prosím svůj účet Microsoft.</translation>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation>Existují propojené instance</translation>
+        <translation type="vanished">Existují propojené instance</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -8489,7 +8489,7 @@ Přidjete prosím svůj účet Microsoft.</translation>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>Následující instance může odkazovat na soubory v této instanci:
 
 %1
@@ -8526,7 +8526,7 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>Chystáte se odstranit „%1“.
+        <translation type="vanished">Chystáte se odstranit „%1“.
 Tato akce může být trvalá a kompletně odstraní instanci.
 
 Jste si jisti?</translation>
@@ -8543,31 +8543,31 @@ Jste si jisti?</translation>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation>Vytvořit zástupce instance</translation>
+        <translation type="vanished">Vytvořit zástupce instance</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation>Nepodařilo se nalézt plochu?!</translation>
+        <translation type="vanished">Nepodařilo se nalézt plochu?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>Launcher je ve složce, ze které byl rozbalen, a proto nemůže vytvářet zástupce.</translation>
+        <translation type="vanished">Launcher je ve složce, ze které byl rozbalen, a proto nemůže vytvářet zástupce.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation>Položky na ploše</translation>
+        <translation type="vanished">Položky na ploše</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>Na ploše byl vytvořen zástupce této instance!</translation>
+        <translation type="vanished">Na ploše byl vytvořen zástupce této instance!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation>Nepodařilo se vytvořit zástupce instance!</translation>
+        <translation type="vanished">Nepodařilo se vytvořit zástupce instance!</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>Launcher je spuštěn jako špatně nakonfigurovaný AppImage? (chybí proměnná prostředí $APPIMAGE)</translation>
+        <translation type="vanished">Launcher je spuštěn jako špatně nakonfigurovaný AppImage? (chybí proměnná prostředí $APPIMAGE)</translation>
     </message>
     <message>
         <source>Quilt is currently not supported by CurseForge modpacks.</source>
@@ -8677,15 +8677,15 @@ Opravdu?</translation>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation>Vytvořit aplikaci z instance</translation>
+        <translation type="vanished">Vytvořit aplikaci z instance</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation>Nepodařilo se vytvořit ikonu aplikace.</translation>
+        <translation type="vanished">Nepodařilo se vytvořit ikonu aplikace.</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation>Nepodařilo se vytvořit ikonu zástupce.</translation>
+        <translation type="vanished">Nepodařilo se vytvořit ikonu zástupce.</translation>
     </message>
     <message>
         <source>Desktop Entries (*.desktop)</source>
@@ -8693,11 +8693,11 @@ Opravdu?</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation>Není podporováno na vaší platformě!</translation>
+        <translation type="vanished">Není podporováno na vaší platformě!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation>Zástupce této instnace úspěšně vytvořen!</translation>
+        <translation type="vanished">Zástupce této instnace úspěšně vytvořen!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
@@ -8770,11 +8770,11 @@ Opravdu?</translation>
     <name>ManagedPackPage</name>
     <message>
         <source>Pack information</source>
-        <translation>Info o modpacku</translation>
+        <translation type="vanished">Info o modpacku</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation>Název modpacku:</translation>
+        <translation type="vanished">Název modpacku:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
@@ -8813,7 +8813,7 @@ Opravdu?</translation>
     </message>
     <message>
         <source>Update from file</source>
-        <translation>Aktualizovat ze souboru</translation>
+        <translation type="vanished">Aktualizovat ze souboru</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -8876,7 +8876,7 @@ Lze jej aktualizovat pouze pomocí souboru ve formátu %1
     </message>
     <message>
         <source>Update pack</source>
-        <translation>Aktualizovat</translation>
+        <translation type="vanished">Aktualizovat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
@@ -9074,26 +9074,26 @@ Lze jej aktualizovat pouze pomocí souboru ve formátu %1
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation>Velikost okna</translation>
+        <translation type="vanished">Velikost okna</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation>Spustit Minecraft &amp;maximalizovaný</translation>
+        <translation type="vanished">Spustit Minecraft &amp;maximalizovaný</translation>
     </message>
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation>Výška okna:</translation>
+        <translation type="vanished">Výška okna:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation>Šířka okna:</translation>
+        <translation type="vanished">Šířka okna:</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation>Vylepšení</translation>
+        <translation type="vanished">Vylepšení</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -9109,82 +9109,82 @@ Lze jej aktualizovat pouze pomocí souboru ve formátu %1
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Zastaralá nastavení</translation>
+        <translation type="vanished">Zastaralá nastavení</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuluje použití starších online služeb, které již nejsou funkční.&lt;/p&gt;&lt;p&gt;Aktuální opravy obsahují: podporu skinů a režimu online.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuluje použití starších online služeb, které již nejsou funkční.&lt;/p&gt;&lt;p&gt;Aktuální opravy obsahují: podporu skinů a režimu online.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Povolit online opravy (experimentální)</translation>
+        <translation type="vanished">Povolit online opravy (experimentální)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation>Náhradní řešení nativních knihoven</translation>
+        <translation type="vanished">Náhradní řešení nativních knihoven</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>Použít systémovou instalaci &amp;GLFW</translation>
+        <translation type="vanished">Použít systémovou instalaci &amp;GLFW</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>Cesta knihovny &amp;GLFW</translation>
+        <translation type="vanished">Cesta knihovny &amp;GLFW</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>Použít systémovou instalaci &amp;OpenAL</translation>
+        <translation type="vanished">Použít systémovou instalaci &amp;OpenAL</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>Cesta knihovny &amp;OpenAL</translation>
+        <translation type="vanished">Cesta knihovny &amp;OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Výkon</translation>
+        <translation type="vanished">Výkon</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povolit GameMode od Feral Interactive pro potenciální zlepšení herního výkonu.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povolit GameMode od Feral Interactive pro potenciální zlepšení herního výkonu.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Povolit Feral GameMode</translation>
+        <translation type="vanished">Povolit Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povolit pokročilé výkonnostní překrytí MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povolit pokročilé výkonnostní překrytí MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Povolit MangoHud</translation>
+        <translation type="vanished">Povolit MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Použít diskrétní GPU místo primárního.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Použít diskrétní GPU místo primárního.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Použít diskrétní GPU</translation>
+        <translation type="vanished">Použít diskrétní GPU</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Použít Zink, ovladač Mesa OpenGL, který implementuje OpenGL na Vulkan. Výkon se může měnit v závislosti na situaci. Poznámka: pokud nebude nalezen žádný vhodný ovladač Vulkan, bude použito softwarové vykreslování.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Použít Zink, ovladač Mesa OpenGL, který implementuje OpenGL na Vulkan. Výkon se může měnit v závislosti na situaci. Poznámka: pokud nebude nalezen žádný vhodný ovladač Vulkan, bude použito softwarové vykreslování.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Použít Zink</translation>
+        <translation type="vanished">Použít Zink</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation>Čas hry</translation>
+        <translation type="vanished">Čas hry</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Obecné</translation>
+        <translation type="vanished">Obecné</translation>
     </message>
     <message>
         <source>On newer versions the game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
@@ -9197,45 +9197,45 @@ Lze jej aktualizovat pouze pomocí souboru ve formátu %1
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>Zobrazit čas strávený hraním instancí</translation>
+        <translation type="vanished">Zobrazit čas strávený hraním instancí</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>Zobrazit čas strávený hraním všech instancí</translation>
+        <translation type="vanished">Zobrazit čas strávený hraním všech instancí</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>Zaznamenávat čas strávený hraním instancí</translation>
+        <translation type="vanished">Zaznamenávat čas strávený hraním instancí</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation>Zobrazit čas strávený hraním v hodinách</translation>
+        <translation type="vanished">Zobrazit čas strávený hraním v hodinách</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Další nastavení</translation>
+        <translation type="vanished">Další nastavení</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Launcher se automaticky znovu otevře po spadnutí nebo ukončení hry.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Launcher se automaticky znovu otevře po spadnutí nebo ukončení hry.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>&amp;Zavřít okno launcheru po zapnutí hry</translation>
+        <translation type="vanished">&amp;Zavřít okno launcheru po zapnutí hry</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Launcher se automaticky zavře po spadnutí nebo ukončení hry.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Launcher se automaticky zavře po spadnutí nebo ukončení hry.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>&amp;Ukončit launcher po vypnutí hry</translation>
+        <translation type="vanished">&amp;Ukončit launcher po vypnutí hry</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -9244,19 +9244,19 @@ Lze jej aktualizovat pouze pomocí souboru ve formátu %1
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>Cesta k souboru knihovny %1</translation>
+        <translation type="vanished">Cesta k souboru knihovny %1</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation>Automaticky detekovaná cesta: %1</translation>
+        <translation type="vanished">Automaticky detekovaná cesta: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Ve vašem systému nebyla nalezena aplikace Feral Interactive GameMode.</translation>
+        <translation type="vanished">Ve vašem systému nebyla nalezena aplikace Feral Interactive GameMode.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>Ve vašem systému nebyla nalezena aplikace MangoHud.</translation>
+        <translation type="vanished">Ve vašem systému nebyla nalezena aplikace MangoHud.</translation>
     </message>
 </context>
 <context>
@@ -9934,7 +9934,7 @@ Nejspíše budete muset změnit cestu – pro více informací viz web modifikac
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation>Neznámý</translation>
+        <translation type="vanished">Neznámý</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -10042,7 +10042,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation>Odkud byl mod stažen.</translation>
+        <translation type="vanished">Odkud byl mod stažen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
@@ -10126,7 +10126,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     </message>
     <message>
         <source>Download mods</source>
-        <translation>Stáhnout mody</translation>
+        <translation type="vanished">Stáhnout mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
@@ -10152,11 +10152,11 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     </message>
     <message>
         <source>Add file</source>
-        <translation>Přidat soubor</translation>
+        <translation type="vanished">Přidat soubor</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation>Přidat místní stažený soubor</translation>
+        <translation type="vanished">Přidat místní stažený soubor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="85"/>
@@ -10171,11 +10171,11 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation>Ověřit závislosti</translation>
+        <translation type="vanished">Ověřit závislosti</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>Pokusit se aktualizovat a zkontrolovat chybějící závislosti všech vybraných modů (všech modů, pokud není vybraný žádný)</translation>
+        <translation type="vanished">Pokusit se aktualizovat a zkontrolovat chybějící závislosti všech vybraných modů (všech modů, pokud není vybraný žádný)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="107"/>
@@ -10185,35 +10185,35 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation>Přejít na domovskou stránku modu</translation>
+        <translation type="vanished">Přejít na domovskou stránku modu</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation>Odstranit metadata modu</translation>
+        <translation type="vanished">Odstranit metadata modu</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation>Resetovat metadata aktualizace</translation>
+        <translation type="vanished">Resetovat metadata aktualizace</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Změnit verzi</translation>
+        <translation type="vanished">Změnit verzi</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation>Změnit verzi modu</translation>
+        <translation type="vanished">Změnit verzi modu</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Navštívit stránku modu</translation>
+        <translation type="vanished">Navštívit stránku modu</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation>Navštívit stránky modů</translation>
+        <translation type="vanished">Navštívit stránky modů</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation>Přejít na stránky vybraných modů</translation>
+        <translation type="vanished">Přejít na stránky vybraných modů</translation>
     </message>
     <message>
         <source>Remove mods&apos; metadata</source>
@@ -10229,7 +10229,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation>Nejdříve nainstalujte mod loader!</translation>
+        <translation type="vanished">Nejdříve nainstalujte mod loader!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -10477,76 +10477,76 @@ Aktualizujte prosím %1!</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation>Potvrdit mody k aktualizaci</translation>
+        <translation type="vanished">Potvrdit mody k aktualizaci</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>Chystáte se aktualizovat následující mody:</translation>
+        <translation type="vanished">Chystáte se aktualizovat následující mody:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation>Budou aktualizovány pouze zaškrtnuté mody!</translation>
+        <translation type="vanished">Budou aktualizovány pouze zaškrtnuté mody!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>Název modu: %1&lt;br&gt;Název souboru: %2&lt;br&gt;Důvod: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="vanished">Název modu: %1&lt;br&gt;Název souboru: %2&lt;br&gt;Důvod: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation>Generace metadat selhala</translation>
+        <translation type="vanished">Generace metadat selhala</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Nepodařilo se vygenerovat metadata následujících modů:&lt;br&gt;Přejete si pokračovat bez těchto modů?</translation>
+        <translation type="vanished">Nepodařilo se vygenerovat metadata následujících modů:&lt;br&gt;Přejete si pokračovat bez těchto modů?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation>Kontrola aktualizací</translation>
+        <translation type="vanished">Kontrola aktualizací</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Chyba</translation>
+        <translation type="vanished">Chyba</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation>Varování</translation>
+        <translation type="vanished">Varování</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Přerušit</translation>
+        <translation type="vanished">Přerušit</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation>Kontrola aktualizací...</translation>
+        <translation type="vanished">Kontrola aktualizací...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation>Název modu: %1</translation>
+        <translation type="vanished">Název modu: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation>Důvod: %1</translation>
+        <translation type="vanished">Důvod: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation>Možné řešení: ruční získání nejnovější verze:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation type="vanished">Možné řešení: ruční získání nejnovější verze:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation>Kontrola závislostí...</translation>
+        <translation type="vanished">Kontrola závislostí...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>Mod &apos;%1&apos; zatím nemá metadata. Musíme je vygenerovat, abychom mohli sledovat relevantní informace o tom, jak tento mod aktualizovat. Za tímto účelem prosím vyberte poskytovatele modů, kterého můžeme použít ke kontrole aktualizací tohoto modu.</translation>
+        <translation type="vanished">Mod &apos;%1&apos; zatím nemá metadata. Musíme je vygenerovat, abychom mohli sledovat relevantní informace o tom, jak tento mod aktualizovat. Za tímto účelem prosím vyberte poskytovatele modů, kterého můžeme použít ke kontrole aktualizací tohoto modu.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>Nepodařilo se najít platnou verzi u vybraných poskytovatelů modů</translation>
+        <translation type="vanished">Nepodařilo se najít platnou verzi u vybraných poskytovatelů modů</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation>Mod byl zakázán, jelikož je již nejspíše nainstalován.</translation>
+        <translation type="vanished">Mod byl zakázán, jelikož je již nejspíše nainstalován.</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
@@ -10562,15 +10562,15 @@ Aktualizujte prosím %1!</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation>Nepodařilo se zkontrolovat aktualizace</translation>
+        <translation type="vanished">Nepodařilo se zkontrolovat aktualizace</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Nepodařilo se zkontrolovat nebo získat aktualizace následujících modů:&lt;br&gt;Přejete si pokračovat bez těchto modů?</translation>
+        <translation type="vanished">Nepodařilo se zkontrolovat nebo získat aktualizace následujících modů:&lt;br&gt;Přejete si pokračovat bez těchto modů?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation>Hledání metadat</translation>
+        <translation type="vanished">Hledání metadat</translation>
     </message>
     <message>
         <source>This mod (%1) does not have a metadata yet. We need to create one in order to keep relevant information on how to update this mod. To do this, please select a mod provider from which we can search for updates for %1.</source>
@@ -10578,7 +10578,7 @@ Aktualizujte prosím %1!</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation>Generování metadat...</translation>
+        <translation type="vanished">Generování metadat...</translation>
     </message>
     <message>
         <source>Didn&apos;t find a valid version on the selected mod provider(s)</source>
@@ -10586,35 +10586,35 @@ Aktualizujte prosím %1!</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation>Poskytovatel: %1</translation>
+        <translation type="vanished">Poskytovatel: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation>Stará verze: %1</translation>
+        <translation type="vanished">Stará verze: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation>Nenainstalováno</translation>
+        <translation type="vanished">Nenainstalováno</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation>Nová verze: %1</translation>
+        <translation type="vanished">Nová verze: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation>Nový typ verze: %1</translation>
+        <translation type="vanished">Nový typ verze: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation>Vyžaduje: %1</translation>
+        <translation type="vanished">Vyžaduje: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation>Vyžaduje:</translation>
+        <translation type="vanished">Vyžaduje:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation>Seznam změn nejnovější verze</translation>
+        <translation type="vanished">Seznam změn nejnovější verze</translation>
     </message>
 </context>
 <context>
@@ -10727,7 +10727,7 @@ Aktualizujte prosím %1!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation>Příprava modů pro Modrinth...</translation>
+        <translation type="vanished">Příprava modů pro Modrinth...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -10765,7 +10765,7 @@ Aktualizujte prosím %1!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Nebyla nalezena žádná platná verze tohoto modu. Nejspíš není dostupný na současné verzi hry / mod loaderu.</translation>
+        <translation type="vanished">Nebyla nalezena žádná platná verze tohoto modu. Nejspíš není dostupný na současné verzi hry / mod loaderu.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -11354,27 +11354,27 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation>Přidat účet</translation>
+        <translation type="vanished">Přidat účet</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Uživatelské jméno</translation>
+        <translation type="vanished">Uživatelské jméno</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>Jména delší než 16 znaků nelze použít pro LAN hry a pro servery v režimu offline.</translation>
+        <translation type="vanished">Jména delší než 16 znaků nelze použít pro LAN hry a pro servery v režimu offline.</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation>Povolit dlouhá jména</translation>
+        <translation type="vanished">Povolit dlouhá jména</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Zrušit</translation>
+        <translation type="vanished">Zrušit</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
 </context>
 <context>
@@ -11425,7 +11425,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation>Najít</translation>
+        <translation type="vanished">Najít</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -11514,31 +11514,31 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     </message>
     <message>
         <source>Clear the log</source>
-        <translation>Smazat log</translation>
+        <translation type="vanished">Smazat log</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Odstranit</translation>
+        <translation type="vanished">Odstranit</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation>Nahrát log na službu zvolenou v nastavení.</translation>
+        <translation type="vanished">Nahrát log na službu zvolenou v nastavení.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Nahrát</translation>
+        <translation type="vanished">Nahrát</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation>Vymazat</translation>
+        <translation type="vanished">Vymazat</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Obnovit</translation>
+        <translation type="vanished">Obnovit</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation>Hledat:</translation>
+        <translation type="vanished">Hledat:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
@@ -11565,7 +11565,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation>Soubor (%1) není možné přečíst.</translation>
+        <translation type="vanished">Soubor (%1) není možné přečíst.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
@@ -11642,7 +11642,7 @@ Jste si jisti?</translation>
     </message>
     <message>
         <source>Other logs</source>
-        <translation>Další protokoly</translation>
+        <translation type="vanished">Další protokoly</translation>
     </message>
 </context>
 <context>
@@ -11667,7 +11667,7 @@ Jste si jisti?</translation>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation>Zavřít</translation>
+        <translation type="vanished">Zavřít</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -11696,28 +11696,28 @@ Jste si jisti?</translation>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation>Nahrávám na %1</translation>
+        <translation type="vanished">Nahrávám na %1</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation>Chyba sítě: %1</translation>
+        <translation type="vanished">Chyba sítě: %1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation>Chyba: %1 vrátil neočekávaný kód stavu %2 %3</translation>
+        <translation type="vanished">Chyba: %1 vrátil neočekávaný kód stavu %2 %3</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>Chyba: %1 vrátil nesprávně formulované tělo odpovědi</translation>
+        <translation type="vanished">Chyba: %1 vrátil nesprávně formulované tělo odpovědi</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation>Chyba: %1 vrátil chybu: %2</translation>
+        <translation type="vanished">Chyba: %1 vrátil chybu: %2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation>Chyba: %1 vrátil kód chyby: %2
+        <translation type="vanished">Chyba: %1 vrátil kód chyby: %2
 Chybová hláška: %3</translation>
     </message>
 </context>
@@ -12396,7 +12396,7 @@ Stav HTTP: %2</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation>Server vrátil tuto chybu:</translation>
+        <translation type="vanished">Server vrátil tuto chybu:</translation>
     </message>
 </context>
 <context>
@@ -12457,7 +12457,7 @@ Stav HTTP: %2</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation>&amp;Výchozí</translation>
+        <translation type="vanished">&amp;Výchozí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -12596,13 +12596,13 @@ Stav HTTP: %2</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation>Webová stránka</translation>
+        <translation type="vanished">Webová stránka</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation>Vývojáři %1</translation>
+        <translation type="vanished">Vývojáři %1</translation>
     </message>
     <message>
         <source>%1 Contributors</source>
@@ -12613,7 +12613,7 @@ Stav HTTP: %2</translation>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation>S poděkováním</translation>
+        <translation type="vanished">S poděkováním</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
@@ -12674,7 +12674,7 @@ Pokračovat se zkrácením?</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation>Nahrávání selhalo</translation>
+        <translation type="vanished">Nahrávání selhalo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -12973,7 +12973,7 @@ Tato zpráva se bude zobrazovat, dokud ji z argumentů JVM neodstraníte.</trans
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>Zadaný binární soubor Java nefungoval.&lt;br /&gt;Měl byste použít funkci automatické detekce, nebo nastavit cestu ke spustitelnému souboru Java.&lt;br /&gt;</translation>
+        <translation type="vanished">Zadaný binární soubor Java nefungoval.&lt;br /&gt;Měl byste použít funkci automatické detekce, nebo nastavit cestu ke spustitelnému souboru Java.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
@@ -13001,7 +13001,7 @@ Tato zpráva se bude zobrazovat, dokud ji z argumentů JVM neodstraníte.</trans
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation>Neplatná cesta k JVisualVM</translation>
+        <translation type="vanished">Neplatná cesta k JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
@@ -13026,7 +13026,7 @@ Tato zpráva se bude zobrazovat, dokud ji z argumentů JVM neodstraníte.</trans
     </message>
     <message>
         <source>No author(s)</source>
-        <translation>Žádný autor</translation>
+        <translation type="vanished">Žádný autor</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
@@ -13249,7 +13249,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>Nepodařilo se opravit oprávnění pro %1</translation>
+        <translation type="vanished">Nepodařilo se opravit oprávnění pro %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -13663,7 +13663,7 @@ Chybová hláška: %3</translation>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation>Změnit verzi %1</translation>
+        <translation type="vanished">Změnit verzi %1</translation>
     </message>
 </context>
 <context>
@@ -14097,13 +14097,11 @@ Opravdu to chcete udělat?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="564"/>
         <source>The name of the resource.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Název zdroje.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="566"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Datum a čas poslední změny (nebo přidání) tohoto zdroje.</translation>
     </message>
     <message>
@@ -14213,7 +14211,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>Je balíček zdrojů povolen? (Platí pouze pro soubory ZIP)</translation>
+        <translation type="vanished">Je balíček zdrojů povolen? (Platí pouze pro soubory ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
@@ -14234,15 +14232,15 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation>Balíčky modifikací</translation>
+        <translation type="vanished">Balíčky modifikací</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Stáhnout balíčky</translation>
+        <translation type="vanished">Stáhnout balíčky</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>Stáhnout balíčky modifikací z online platforem</translation>
+        <translation type="vanished">Stáhnout balíčky modifikací z online platforem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -14581,11 +14579,11 @@ Jste si jisti?</translation>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation>Tento soubor ke stažení bude umístěn do: %1</translation>
+        <translation type="vanished">Tento soubor ke stažení bude umístěn do: %1</translation>
     </message>
     <message>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>Tento soubor bude stažen do jiného než výchozího umístění složky, pravděpodobně proto, že to vyžaduje jeho zavaděč.</translation>
+        <translation type="vanished">Tento soubor bude stažen do jiného než výchozího umístění složky, pravděpodobně proto, že to vyžaduje jeho zavaděč.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
@@ -14904,7 +14902,7 @@ Aktuálně nainstalovaná verze: %1</translation>
     </message>
     <message>
         <source>Latency</source>
-        <translation>Latence</translation>
+        <translation type="vanished">Latence</translation>
     </message>
 </context>
 <context>
@@ -15033,15 +15031,15 @@ Jste si jisti?</translation>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation>Balíčky shaderů</translation>
+        <translation type="vanished">Balíčky shaderů</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation>Stáhnout shadery</translation>
+        <translation type="vanished">Stáhnout shadery</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation>Stáhnout shadery z online platforem</translation>
+        <translation type="vanished">Stáhnout shadery z online platforem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -15606,7 +15604,7 @@ Jste si jisti?</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Nebylo možné otevřít poskytnutý archiv modpacku.</translation>
+        <translation type="vanished">Nebylo možné otevřít poskytnutý archiv modpacku.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -15777,13 +15775,11 @@ chybí inheritsFrom</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Je balíček textur povolen?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Název balíčku textur.</translation>
     </message>
     <message>
@@ -15793,7 +15789,6 @@ chybí inheritsFrom</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Datum a čas, kdy byl tento balíček textur naposledy změněn (nebo přidán).</translation>
     </message>
     <message>
@@ -15877,11 +15872,11 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Stáhnout balíčky</translation>
+        <translation type="vanished">Stáhnout balíčky</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation>Stáhnout balíčky textur z online platforem</translation>
+        <translation type="vanished">Stáhnout balíčky textur z online platforem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
@@ -16003,7 +15998,7 @@ Jste si jisti?</translation>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation>&amp;Ikony</translation>
+        <translation type="vanished">&amp;Ikony</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
@@ -16011,54 +16006,54 @@ Jste si jisti?</translation>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation>Zobrazit složku témat ikon.</translation>
+        <translation type="vanished">Zobrazit složku témat ikon.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation>&amp;Widgety</translation>
+        <translation type="vanished">&amp;Widgety</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation>Zobrazit složku témat widgetů.</translation>
+        <translation type="vanished">Zobrazit složku témat widgetů.</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Kočka se zobrazuje na pozadí a není zobrazena ve výchozím nastavení. Zviditelní se pouze po stisknutí tlačítka Kočka v panelu nástrojů.</translation>
+        <translation type="vanished">Kočka se zobrazuje na pozadí a není zobrazena ve výchozím nastavení. Zviditelní se pouze po stisknutí tlačítka Kočka v panelu nástrojů.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation>&amp;Kočka</translation>
+        <translation type="vanished">&amp;Kočka</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation>Zobrazit složku balíčků kočiček.</translation>
+        <translation type="vanished">Zobrazit složku balíčků kočiček.</translation>
     </message>
     <message>
         <source>Refresh all</source>
-        <translation>Obnovit vše</translation>
+        <translation type="vanished">Obnovit vše</translation>
     </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation>Stránka průvodce</translation>
+        <translation type="vanished">Stránka průvodce</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation>Vyberte motiv, který chcete použít</translation>
+        <translation type="vanished">Vyberte motiv, který chcete použít</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Nápověda: kočka se zobrazuje na pozadí a není zobrazena ve výchozím nastavení. Zviditelní se pouze po stisknutí tlačítka Kočka v panelu nástrojů.</translation>
+        <translation type="vanished">Nápověda: kočka se zobrazuje na pozadí a není zobrazena ve výchozím nastavení. Zviditelní se pouze po stisknutí tlačítka Kočka v panelu nástrojů.</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation> Náhled:</translation>
+        <translation type="vanished"> Náhled:</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation>Kočka se zobrazuje na pozadí a nemá žádný účel, je čistě vizuální.</translation>
+        <translation type="vanished">Kočka se zobrazuje na pozadí a nemá žádný účel, je čistě vizuální.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
@@ -16337,7 +16332,7 @@ Prosím vyberte jednu z následujících verzí Javy pro tuto instanci:</transla
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation>Filtr:</translation>
+        <translation type="vanished">Filtr:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -17171,11 +17166,11 @@ Opravdová cesta: %1</translation>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation>Balíčky dat</translation>
+        <translation type="vanished">Balíčky dat</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation>Spravovat balíčky dat světa.</translation>
+        <translation type="vanished">Spravovat balíčky dat světa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -17203,7 +17198,7 @@ Přejete si pokračovat?</translation>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation>Otevřít složku s datapacky světa</translation>
+        <translation type="vanished">Otevřít složku s datapacky světa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>

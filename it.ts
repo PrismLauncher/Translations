@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>Chiavi API</translation>
+        <translation type="vanished">Chiavi API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -96,16 +96,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation>(Predefinito)</translation>
+        <translation type="vanished">(Predefinito)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Inserisci qui un client ID personalizzato per l&apos;autenticazione di Microsoft.</translation>
+        <translation type="vanished">Inserisci qui un client ID personalizzato per l&apos;autenticazione di Microsoft.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>API di &amp;Modrinth</translation>
+        <translation type="vanished">API di &amp;Modrinth</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -114,15 +114,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Inserisci un token API di Modrinth personalizzato qui.</translation>
+        <translation type="vanished">Inserisci un token API di Modrinth personalizzato qui.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(Nessuno)</translation>
+        <translation type="vanished">(Nessuno)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>ID del Client Technic</translation>
+        <translation type="vanished">ID del Client Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -131,11 +131,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Inserisci un GUID client ID personalizzato per Technic.</translation>
+        <translation type="vanished">Inserisci un GUID client ID personalizzato per Technic.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Varie</translation>
+        <translation type="vanished">Varie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -164,7 +164,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Inserisci un URL personalizzato per i metadati qui.</translation>
+        <translation type="vanished">Inserisci un URL personalizzato per i metadati qui.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -173,7 +173,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge Core API</translation>
+        <translation type="vanished">&amp;CurseForge Core API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -183,11 +183,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Inserisci una chiave API personalizzata per CurseForge qui.</translation>
+        <translation type="vanished">Inserisci una chiave API personalizzata per CurseForge qui.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation>API</translation>
+        <translation type="vanished">API</translation>
     </message>
 </context>
 <context>
@@ -256,7 +256,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation>Impossibile aprire i file di configurazione del modpack %1!</translation>
+        <translation type="vanished">Impossibile aprire i file di configurazione del modpack %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -425,12 +425,12 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>Non verificato</translation>
+        <translation type="vanished">Non verificato</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Offline</translation>
+        <translation type="vanished">Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -458,37 +458,37 @@
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation>Pronto</translation>
+        <translation type="vanished">Pronto</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>Elaborazione</translation>
+        <translation type="vanished">Elaborazione</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Errore</translation>
+        <translation type="vanished">Errore</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation>Scaduto</translation>
+        <translation type="vanished">Scaduto</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>Disabilitato</translation>
+        <translation type="vanished">Disabilitato</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>Migrato</translation>
+        <translation type="vanished">Migrato</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation>Sconosciuto</translation>
+        <translation type="vanished">Sconosciuto</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -1153,7 +1153,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Ottenimento dei file di risorse da Mojang...</translation>
+        <translation type="vanished">Ottenimento dei file di risorse da Mojang...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1545,11 +1545,11 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Le tua cartelle configurata delle mods globali e download predefiniti sono automaticamente controllati per le mods scaricate e saranno copiate nell&apos;instanza se trovati.&lt;/p&gt;&lt;p&gt;Opzionalmente, potresti trascinare le mod scaricate su questo testo o aggiungere una cartella da controllare se non hai scaricato le mod in una location default.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Le tua cartelle configurata delle mods globali e download predefiniti sono automaticamente controllati per le mods scaricate e saranno copiate nell&apos;instanza se trovati.&lt;/p&gt;&lt;p&gt;Opzionalmente, potresti trascinare le mod scaricate su questo testo o aggiungere una cartella da controllare se non hai scaricato le mod in una location default.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation>Cartelle Controllate:</translation>
+        <translation type="vanished">Cartelle Controllate:</translation>
     </message>
 </context>
 <context>
@@ -1693,7 +1693,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation>Una o più sottoattività sono fallite</translation>
+        <translation type="vanished">Una o più sottoattività sono fallite</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1936,7 +1936,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation>Mod principali</translation>
+        <translation type="vanished">Mod principali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -2076,22 +2076,22 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation>Comandi Personalizzati</translation>
+        <translation type="vanished">Comandi Personalizzati</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>Comando di post-uscita:</translation>
+        <translation type="vanished">Comando di post-uscita:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>Comando di pre-avvio:</translation>
+        <translation type="vanished">Comando di pre-avvio:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>Comando del wrapper:</translation>
+        <translation type="vanished">Comando del wrapper:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2124,7 +2124,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation>Comandi Personalizzati</translation>
+        <translation type="vanished">Comandi Personalizzati</translation>
     </message>
 </context>
 <context>
@@ -2492,7 +2492,7 @@ Sei sicuro/a?</translation>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>Controllando se le mod hanno i metadati...</translation>
+        <translation type="vanished">Controllando se le mod hanno i metadati...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
@@ -2544,7 +2544,7 @@ Sei sicuro/a?</translation>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation>&amp;Variabili Ambientali</translation>
+        <translation type="vanished">&amp;Variabili Ambientali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2581,7 +2581,7 @@ Sei sicuro/a?</translation>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation>Variabili Ambientali</translation>
+        <translation type="vanished">Variabili Ambientali</translation>
     </message>
 </context>
 <context>
@@ -2724,11 +2724,11 @@ Sei sicuro/a?</translation>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation>&amp;Nome</translation>
+        <translation type="vanished">&amp;Nome</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation>&amp;Versione</translation>
+        <translation type="vanished">&amp;Versione</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2780,7 +2780,7 @@ Sei sicuro/a?</translation>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation>&amp;Autore</translation>
+        <translation type="vanished">&amp;Autore</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2965,7 +2965,7 @@ Sei sicuro/a?</translation>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation>Filtro:</translation>
+        <translation type="vanished">Filtro:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2974,11 +2974,11 @@ Sei sicuro/a?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Aggiungi</translation>
+        <translation type="vanished">&amp;Aggiungi</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Aggiungi</translation>
+        <translation type="vanished">Aggiungi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -2987,7 +2987,7 @@ Sei sicuro/a?</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation>Rimuovi l&apos;elemento selezionato</translation>
+        <translation type="vanished">Rimuovi l&apos;elemento selezionato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -2996,7 +2996,7 @@ Sei sicuro/a?</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation>Abilita l&apos;elemento selezionato</translation>
+        <translation type="vanished">Abilita l&apos;elemento selezionato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
@@ -3111,7 +3111,7 @@ Sei sicuro/a?</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation>Scarica una nuova risorsa</translation>
+        <translation type="vanished">Scarica una nuova risorsa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -3121,27 +3121,27 @@ Sei sicuro/a?</translation>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>Prova a controllare o aggiornare tutte le risorse selezionate (o tutte le risorse se nessuna è selezionata)</translation>
+        <translation type="vanished">Prova a controllare o aggiornare tutte le risorse selezionate (o tutte le risorse se nessuna è selezionata)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation>Esporta lista mod</translation>
+        <translation type="vanished">Esporta lista mod</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation>Esporta metadati mod in testo</translation>
+        <translation type="vanished">Esporta metadati mod in testo</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Visita il sito della mod</translation>
+        <translation type="vanished">Visita il sito della mod</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation>Disabilita elemento selezionato</translation>
+        <translation type="vanished">Disabilita elemento selezionato</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation>Vai alla pagina home delle mod</translation>
+        <translation type="vanished">Vai alla pagina home delle mod</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -3203,12 +3203,12 @@ Sei sicuro di volerlo fare?</translation>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation>Conferma disattivazione</translation>
+        <translation type="vanished">Conferma disattivazione</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Se disabiliti questa risorsa mentre il gioco è in esecuzione, il gioco potrebbe crashare.
+        <translation type="vanished">Se disabiliti questa risorsa mentre il gioco è in esecuzione, il gioco potrebbe crashare.
 Sei sicuro di volerlo fare?</translation>
     </message>
     <message>
@@ -3281,16 +3281,16 @@ Sei sicuro di volerlo fare?</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation>Editor esterni (lasciare vuoto per i parametri di default)</translation>
+        <translation type="vanished">Editor esterni (lasciare vuoto per i parametri di default)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>Editor di Testo:</translation>
+        <translation type="vanished">Editor di Testo:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation>Strumenti esterni</translation>
+        <translation type="vanished">Strumenti esterni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -3352,17 +3352,17 @@ Sei sicuro di volerlo fare?</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation>Eseguibile di JVisualVM</translation>
+        <translation type="vanished">Eseguibile di JVisualVM</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation>Errore durante la verifica dell&apos;installazione di JVisualVM:
+        <translation type="vanished">Errore durante la verifica dell&apos;installazione di JVisualVM:
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>JVisualVM sembra essere configurato correttamente</translation>
+        <translation type="vanished">JVisualVM sembra essere configurato correttamente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3389,7 +3389,7 @@ Sei sicuro di volerlo fare?</translation>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation>Editor di file JSON</translation>
+        <translation type="vanished">Editor di file JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3562,7 +3562,7 @@ Per favore, prova di nuovo.</translation>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>In attesa di risposta API da CurseForge per &apos;%1&apos;...</translation>
+        <translation type="vanished">In attesa di risposta API da CurseForge per &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3601,16 +3601,16 @@ Per favore, prova di nuovo.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Preparando le mod per CurseForge...</translation>
+        <translation type="vanished">Preparando le mod per CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Nessuna versione valida trovata per questa mod. Probabilmente non è disponibile per la versione del gioco / mod loader corrente.</translation>
+        <translation type="vanished">Nessuna versione valida trovata per questa mod. Probabilmente non è disponibile per la versione del gioco / mod loader corrente.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>Una versione aggiornata della mod è disponibile, ma non è scaricabile usando CurseForge.</translation>
+        <translation type="vanished">Una versione aggiornata della mod è disponibile, ma non è scaricabile usando CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -4047,11 +4047,11 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation>Chiave</translation>
+        <translation type="vanished">Chiave</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Valore</translation>
+        <translation type="vanished">Valore</translation>
     </message>
 </context>
 <context>
@@ -4456,11 +4456,11 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation>Nome:</translation>
+        <translation type="vanished">Nome:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation>Gruppo:</translation>
+        <translation type="vanished">Gruppo:</translation>
     </message>
 </context>
 <context>
@@ -4684,19 +4684,19 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation>Apri impostazioni globali</translation>
+        <translation type="vanished">Apri impostazioni globali</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation>Queste impostazioni sovrascrivono le impostazioni globali.</translation>
+        <translation type="vanished">Queste impostazioni sovrascrivono le impostazioni globali.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation>Insta&amp;llazione Java</translation>
+        <translation type="vanished">Insta&amp;llazione Java</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation>Rilevamento automatico...</translation>
+        <translation type="vanished">Rilevamento automatico...</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4704,72 +4704,72 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     </message>
     <message>
         <source>Test</source>
-        <translation>Verifica</translation>
+        <translation type="vanished">Verifica</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Se abilitato, il launcher non verificherà se un&apos;istanza è compatibile con la versione Java selezionata.</translation>
+        <translation type="vanished">Se abilitato, il launcher non verificherà se un&apos;istanza è compatibile con la versione Java selezionata.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation>Salta i controlli di compatibilità Java</translation>
+        <translation type="vanished">Salta i controlli di compatibilità Java</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation>&amp;Memoria</translation>
+        <translation type="vanished">&amp;Memoria</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>Allocazione minima di memoria:</translation>
+        <translation type="vanished">Allocazione minima di memoria:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>La quantità massima di memoria che Minecraft può usare.</translation>
+        <translation type="vanished">La quantità massima di memoria che Minecraft può usare.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>La quantità di memoria con cui avviare Minecraft.</translation>
+        <translation type="vanished">La quantità di memoria con cui avviare Minecraft.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>La quantità di memoria disponibile per memorizzare le classi di Java.</translation>
+        <translation type="vanished">La quantità di memoria disponibile per memorizzare le classi di Java.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>Allocazione massima di memoria:</translation>
+        <translation type="vanished">Allocazione massima di memoria:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Sfoglia</translation>
+        <translation type="vanished">Sfoglia</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Scarica Java</translation>
+        <translation type="vanished">Scarica Java</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation>PermGen:</translation>
+        <translation type="vanished">PermGen:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>Nota: Permgen viene impostato automaticamente da Java 8 e superiore</translation>
+        <translation type="vanished">Nota: Permgen viene impostato automaticamente da Java 8 e superiore</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation>Argomen&amp;ti Java</translation>
+        <translation type="vanished">Argomen&amp;ti Java</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation>Finestre di gioco</translation>
+        <translation type="vanished">Finestre di gioco</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation>Finestra di Gioco</translation>
+        <translation type="vanished">Finestra di Gioco</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>Avvia Minecraft alla risoluzione più alta</translation>
+        <translation type="vanished">Avvia Minecraft alla risoluzione più alta</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
@@ -4781,156 +4781,156 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     </message>
     <message>
         <source>Window height:</source>
-        <translation>Altezza finestra:</translation>
+        <translation type="vanished">Altezza finestra:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation>Larghezza finestra:</translation>
+        <translation type="vanished">Larghezza finestra:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation>Impostazioni della Conso&amp;le</translation>
+        <translation type="vanished">Impostazioni della Conso&amp;le</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation>Mostra la console mentre il gioco è in esecuzione</translation>
+        <translation type="vanished">Mostra la console mentre il gioco è in esecuzione</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>Chiudi automaticamente la console all&apos;uscita dal gioco</translation>
+        <translation type="vanished">Chiudi automaticamente la console all&apos;uscita dal gioco</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>Mostra la console quando il gioco si blocca</translation>
+        <translation type="vanished">Mostra la console quando il gioco si blocca</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation>Chiudi il launcher dopo l&apos;apertura della finestra di gioco</translation>
+        <translation type="vanished">Chiudi il launcher dopo l&apos;apertura della finestra di gioco</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation>Esci dal launcher dopo la chiusura della finestra di gioco</translation>
+        <translation type="vanished">Esci dal launcher dopo la chiusura della finestra di gioco</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation>Comandi Personalizzati</translation>
+        <translation type="vanished">Comandi Personalizzati</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation>Variabili ambientali</translation>
+        <translation type="vanished">Variabili ambientali</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation>Soluzioni alternative</translation>
+        <translation type="vanished">Soluzioni alternative</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation>Librerie native</translation>
+        <translation type="vanished">Librerie native</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>&amp;Percorso libreria GLFW</translation>
+        <translation type="vanished">&amp;Percorso libreria GLFW</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation>Usa l&apos;installazione di sistema di GLFW</translation>
+        <translation type="vanished">Usa l&apos;installazione di sistema di GLFW</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation>Usa l&apos;installazione di sistema di OpenAL</translation>
+        <translation type="vanished">Usa l&apos;installazione di sistema di OpenAL</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation>Mondo a giocatore singolo</translation>
+        <translation type="vanished">Mondo a giocatore singolo</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation>Sovrascrivi account predefinito</translation>
+        <translation type="vanished">Sovrascrivi account predefinito</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Account:</translation>
+        <translation type="vanished">Account:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Varie</translation>
+        <translation type="vanished">Varie</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>&amp;Percorso libreria OpenAL</translation>
+        <translation type="vanished">&amp;Percorso libreria OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Prestazioni</translation>
+        <translation type="vanished">Prestazioni</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Abilita la GameMode di Feral Interactive, per la possibilità di aumentare le prestazioni di gioco.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Abilita la GameMode di Feral Interactive, per la possibilità di aumentare le prestazioni di gioco.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Abilita la GameMode di Feral</translation>
+        <translation type="vanished">Abilita la GameMode di Feral</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Abilita l&apos;overlay delle prestazioni avanzate di MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Abilita l&apos;overlay delle prestazioni avanzate di MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Abilita MangoHud</translation>
+        <translation type="vanished">Abilita MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Usa la GPU discreta al posto della GPU primaria.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Usa la GPU discreta al posto della GPU primaria.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Usa la GPU dedicata</translation>
+        <translation type="vanished">Usa la GPU dedicata</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>Usa Zink, un driver Mesa OpenGL che implementa OpenGL sopra Vulkan. Le performance potrebbero variare in base alla situazione. Nota: Se non è presente un driver Vulkan valido, verrà utilizzato il rendering software.</translation>
+        <translation type="vanished">Usa Zink, un driver Mesa OpenGL che implementa OpenGL sopra Vulkan. Le performance potrebbero variare in base alla situazione. Nota: Se non è presente un driver Vulkan valido, verrà utilizzato il rendering software.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Usa Zink</translation>
+        <translation type="vanished">Usa Zink</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Impostazioni legacy</translation>
+        <translation type="vanished">Impostazioni legacy</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emula l&apos;uso di vecchi servizi online che non sono più funzionanti.&lt;/p&gt;&lt;p&gt;Le soluzioni attuali includono: skin e supporto della modalità online.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emula l&apos;uso di vecchi servizi online che non sono più funzionanti.&lt;/p&gt;&lt;p&gt;Le soluzioni attuali includono: skin e supporto della modalità online.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Abilita correzioni online (sperimentale)</translation>
+        <translation type="vanished">Abilita correzioni online (sperimentale)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation>Sovrascrivi le impostazioni globali del tempo di gioco</translation>
+        <translation type="vanished">Sovrascrivi le impostazioni globali del tempo di gioco</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation>Mostra il tempo trascorso giocando quest&apos;istanza</translation>
+        <translation type="vanished">Mostra il tempo trascorso giocando quest&apos;istanza</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation>Registra il tempo trascorso giocando quest&apos;istanza</translation>
+        <translation type="vanished">Registra il tempo trascorso giocando quest&apos;istanza</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation>Imposta un server a cui unirsi all&apos;avvio</translation>
+        <translation type="vanished">Imposta un server a cui unirsi all&apos;avvio</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation>Indirizzo server:</translation>
+        <translation type="vanished">Indirizzo server:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4939,39 +4939,39 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>Percorso del file della libreria %1</translation>
+        <translation type="vanished">Percorso del file della libreria %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Feral Interactive&apos;s GameMode non è stato trovato nel sistema.</translation>
+        <translation type="vanished">Feral Interactive&apos;s GameMode non è stato trovato nel sistema.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>MangoHud non è stato trovato nel sistema.</translation>
+        <translation type="vanished">MangoHud non è stato trovato nel sistema.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Seleziona una versione di Java</translation>
+        <translation type="vanished">Seleziona una versione di Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Conferma Selezione</translation>
+        <translation type="vanished">Conferma Selezione</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Hai selezionato una versione di Java a 32 bit.
+        <translation type="vanished">Hai selezionato una versione di Java a 32 bit.
 Questa installazione non supporta più du 2048MiB di RAM.
 Per favore assicurati che il valore della memoria massima sia minore.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Trova l&apos;eseguibile di Java</translation>
+        <translation type="vanished">Trova l&apos;eseguibile di Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>La tua memoria massima allocata è minore del valore minimo</translation>
+        <translation type="vanished">La tua memoria massima allocata è minore del valore minimo</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -4979,11 +4979,11 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>La tua allocazione massima di memoria supera la capacità di memoria del tuo sistema.</translation>
+        <translation type="vanished">La tua allocazione massima di memoria supera la capacità di memoria del tuo sistema.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>La tua massima allocazione è vicina alla capacità massima della memoria del tuo sistema.</translation>
+        <translation type="vanished">La tua massima allocazione è vicina alla capacità massima della memoria del tuo sistema.</translation>
     </message>
 </context>
 <context>
@@ -5088,7 +5088,7 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation>JVisualVM avviato</translation>
+        <translation type="vanished">JVisualVM avviato</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -5115,15 +5115,15 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Estraendo Java (Il progresso non è visibile per gli archivi tar)</translation>
+        <translation type="vanished">Estraendo Java (Il progresso non è visibile per gli archivi tar)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation>Impossibile aprire il file tar fornito.</translation>
+        <translation type="vanished">Impossibile aprire il file tar fornito.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation>Impossibile estrarre il file tar fornito.</translation>
+        <translation type="vanished">Impossibile estrarre il file tar fornito.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -5137,7 +5137,7 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation>Impossibile determinare il tipo di archivio!</translation>
+        <translation type="vanished">Impossibile determinare il tipo di archivio!</translation>
     </message>
 </context>
 <context>
@@ -5243,70 +5243,70 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation>Memoria</translation>
+        <translation type="vanished">Memoria</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>La quantità massima di memoria che Minecraft può usare.</translation>
+        <translation type="vanished">La quantità massima di memoria che Minecraft può usare.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>Allocazione minima di memoria:</translation>
+        <translation type="vanished">Allocazione minima di memoria:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>Allocazione massima di memoria:</translation>
+        <translation type="vanished">Allocazione massima di memoria:</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation>&amp;PermGen:</translation>
+        <translation type="vanished">&amp;PermGen:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>La quantità di memoria usata con cui avviare Minecraft.</translation>
+        <translation type="vanished">La quantità di memoria usata con cui avviare Minecraft.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>La quantità di memoria disponibile per memorizzare le classi di Java.</translation>
+        <translation type="vanished">La quantità di memoria disponibile per memorizzare le classi di Java.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation>Runtime Java</translation>
+        <translation type="vanished">Runtime Java</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation>Parametri JVM:</translation>
+        <translation type="vanished">Parametri JVM:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation>Seleziona automaticamente la versione di Jaba compatibile con l&apos;instanza corrente di Minecraft, in base alla versione principale richiesta.</translation>
+        <translation type="vanished">Seleziona automaticamente la versione di Jaba compatibile con l&apos;instanza corrente di Minecraft, in base alla versione principale richiesta.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Auto-individua la versione di Java</translation>
+        <translation type="vanished">Auto-individua la versione di Java</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>Percorso di Java:</translation>
+        <translation type="vanished">Percorso di Java:</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation>Scarica e seleziona automaticamente la versione di Java consigliata da Mojang.</translation>
+        <translation type="vanished">Scarica e seleziona automaticamente la versione di Java consigliata da Mojang.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Scarica automaticamente Java da Mojang</translation>
+        <translation type="vanished">Scarica automaticamente Java da Mojang</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation>Gestione</translation>
+        <translation type="vanished">Gestione</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation>Versioni di Java scaricate</translation>
+        <translation type="vanished">Versioni di Java scaricate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5336,33 +5336,33 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>Auto-riconoscimento...</translation>
+        <translation type="vanished">Auto-riconoscimento...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>Verifica</translation>
+        <translation type="vanished">Verifica</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Sfoglia</translation>
+        <translation type="vanished">Sfoglia</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>Se abilitato, il launcher non ti chiederà di scegliere una versione Java se non ne viene trovata una.</translation>
+        <translation type="vanished">Se abilitato, il launcher non ti chiederà di scegliere una versione Java se non ne viene trovata una.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation>Salta Java e procedura guidata</translation>
+        <translation type="vanished">Salta Java e procedura guidata</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Se abilitato, il launcher non verificherà se un&apos;istanza è compatibile con la versione Java selezionata.</translation>
+        <translation type="vanished">Se abilitato, il launcher non verificherà se un&apos;istanza è compatibile con la versione Java selezionata.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>Salta i controlli di compatibilità Java</translation>
+        <translation type="vanished">Salta i controlli di compatibilità Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -5383,35 +5383,35 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>Seleziona una versione di Java</translation>
+        <translation type="vanished">Seleziona una versione di Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>Conferma Selezione</translation>
+        <translation type="vanished">Conferma Selezione</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>Hai selezionato una versione a 32 bit di Java.
+        <translation type="vanished">Hai selezionato una versione a 32 bit di Java.
 Questa installazione non supporta più di 2048MiB di RAM.
 Per favore assicurati che il valore massimo di memoria sia minore.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>Trova l&apos;eseguibile di Java</translation>
+        <translation type="vanished">Trova l&apos;eseguibile di Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>La tua massima allocazione supera la capacità della memoria del tuo sistema.</translation>
+        <translation type="vanished">La tua massima allocazione supera la capacità della memoria del tuo sistema.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>La tua massima allocazione di memoria si avvicina alla capacità di memoria del tuo sistema.</translation>
+        <translation type="vanished">La tua massima allocazione di memoria si avvicina alla capacità di memoria del tuo sistema.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>La tua memoria massima allocata è minore del valore minimo</translation>
+        <translation type="vanished">La tua memoria massima allocata è minore del valore minimo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -5430,7 +5430,7 @@ Sei sicuro?</translation>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation>Nessuna versione di Java selezionata</translation>
+        <translation type="vanished">Nessuna versione di Java selezionata</translation>
     </message>
     <message>
         <source>You didn&apos;t select a Java version or selected something that doesn&apos;t work.
@@ -5448,11 +5448,11 @@ Puoi cambiare la versione di Java nelle impostazioni più avanti.
     </message>
     <message>
         <source>Download Java</source>
-        <translation>Scarica Java</translation>
+        <translation type="vanished">Scarica Java</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation>Rilevata Java a 32 bit</translation>
+        <translation type="vanished">Rilevata Java a 32 bit</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5461,7 +5461,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Hai selezionato un&apos; installazione di Java a 32 bit, ma hai allocato più di 2048MiB come memoria massima.
+        <translation type="vanished">Hai selezionato un&apos; installazione di Java a 32 bit, ma hai allocato più di 2048MiB come memoria massima.
 %1 non sarà in grado di avviare Minecraft.
 Vuoi continuare?
 
@@ -5475,7 +5475,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Non hai selezionato una versione di Java o ne hai selezionato una che non funziona.
+        <translation type="vanished">Non hai selezionato una versione di Java o ne hai selezionato una che non funziona.
 %1 non sarà in grado di avviare Minecraft.
 Sei sicuro di procedere senza una versione di Java funzionante?
 
@@ -5489,7 +5489,7 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
     </message>
     <message>
         <source>Memory</source>
-        <translation>Memoria</translation>
+        <translation type="vanished">Memoria</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -5498,7 +5498,7 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>Allocazione minima di memoria:</translation>
+        <translation type="vanished">Allocazione minima di memoria:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -5604,7 +5604,7 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>Allocazione massima di memoria:</translation>
+        <translation type="vanished">Allocazione massima di memoria:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -5643,19 +5643,19 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
     </message>
     <message>
         <source>Browse</source>
-        <translation>Sfoglia</translation>
+        <translation type="vanished">Sfoglia</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>Scarica automaticamente Java da Mojang</translation>
+        <translation type="vanished">Scarica automaticamente Java da Mojang</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>Auto-individua la versione di Java</translation>
+        <translation type="vanished">Auto-individua la versione di Java</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation>Auto-individua Java</translation>
+        <translation type="vanished">Auto-individua Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -5693,15 +5693,15 @@ Assicurati che il valore massimo di memoria sia abbassato.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>La tua massima allocazione è vicina alla massima capacità di memoria del tuo sistema.</translation>
+        <translation type="vanished">La tua massima allocazione è vicina alla massima capacità di memoria del tuo sistema.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>La tua memoria massima allocata è minore del valore minimo</translation>
+        <translation type="vanished">La tua memoria massima allocata è minore del valore minimo</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>Stai superando l&apos;allocazione massima supportata dalle installazioni di Java a 32 bit.</translation>
+        <translation type="vanished">Stai superando l&apos;allocazione massima supportata dalle installazioni di Java a 32 bit.</translation>
     </message>
 </context>
 <context>
@@ -5998,11 +5998,11 @@ Vuoi giocare alla demo?</translation>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation>Avvia Offline</translation>
+        <translation type="vanished">Avvia Offline</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>L&apos;account è scaduto e deve essere rieseguito l&apos;accesso manualmente.</translation>
+        <translation type="vanished">L&apos;account è scaduto e deve essere rieseguito l&apos;accesso manualmente.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="355"/>
@@ -6011,7 +6011,7 @@ Vuoi giocare alla demo?</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>L&apos;identificazione del client del launcher è cambiata. Rimuovi questo account e aggiungilo di nuovo.</translation>
+        <translation type="vanished">L&apos;identificazione del client del launcher è cambiata. Rimuovi questo account e aggiungilo di nuovo.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="332"/>
@@ -6020,7 +6020,7 @@ Vuoi giocare alla demo?</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>L&apos;account non esiste più sui server. Potrebbe essere stato migrato, in questo caso si prega di aggiungere il nuovo account a cui è stato migrato.</translation>
+        <translation type="vanished">L&apos;account non esiste più sui server. Potrebbe essere stato migrato, in questo caso si prega di aggiungere il nuovo account a cui è stato migrato.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -6165,11 +6165,11 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation>Funzionalità</translation>
+        <translation type="vanished">Funzionalità</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation>Aggiorna Impostazioni</translation>
+        <translation type="vanished">Aggiorna Impostazioni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -6319,7 +6319,7 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation>Modalità organizzazione istanze</translation>
+        <translation type="vanished">Modalità organizzazione istanze</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -6334,7 +6334,7 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     </message>
     <message>
         <source>Theme</source>
-        <translation>Tema</translation>
+        <translation type="vanished">Tema</translation>
     </message>
     <message>
         <source>&amp;Icons</source>
@@ -6358,17 +6358,17 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     </message>
     <message>
         <source>Mods</source>
-        <translation>Mod</translation>
+        <translation type="vanished">Mod</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>Disabilita l&apos;utilizzo dei metadati forniti dai provider di mod (come Modrinth o CurseForge) per le mod.</translation>
+        <translation type="vanished">Disabilita l&apos;utilizzo dei metadati forniti dai provider di mod (come Modrinth o CurseForge) per le mod.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation>Disabilita l&apos;uso di metadati per le mod</translation>
+        <translation type="vanished">Disabilita l&apos;uso di metadati per le mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -6436,15 +6436,15 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     </message>
     <message>
         <source>Update interval</source>
-        <translation>Aggiorna intervallo</translation>
+        <translation type="vanished">Aggiorna intervallo</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation>Imposta a 0 per controllare solo all&apos;avvio</translation>
+        <translation type="vanished">Imposta a 0 per controllare solo all&apos;avvio</translation>
     </message>
     <message>
         <source>h</source>
-        <translation>h</translation>
+        <translation type="vanished">h</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
@@ -6458,36 +6458,36 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation>Controlla la cartella download ricorsivamente</translation>
+        <translation type="vanished">Controlla la cartella download ricorsivamente</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>Disabilita la rilevazione, installazione e aggiornamento automatico delle dipendenze delle mod.</translation>
+        <translation type="vanished">Disabilita la rilevazione, installazione e aggiornamento automatico delle dipendenze delle mod.</translation>
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation>Disabilita la gestione automatica delle dipendenze delle mod</translation>
+        <translation type="vanished">Disabilita la gestione automatica delle dipendenze delle mod</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>Quando si crea una nuova istanza di modpack, non suggerire di aggiornare le istanze esistenti.</translation>
+        <translation type="vanished">Quando si crea una nuova istanza di modpack, non suggerire di aggiornare le istanze esistenti.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation>Salta la richiesta di aggiornamento del modpack</translation>
+        <translation type="vanished">Salta la richiesta di aggiornamento del modpack</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Varie</translation>
+        <translation type="vanished">Varie</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation>Numero di attività contemporanee</translation>
+        <translation type="vanished">Numero di attività contemporanee</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation>Numero di download contemporanei</translation>
+        <translation type="vanished">Numero di download contemporanei</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -6496,7 +6496,7 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation>Timeout per le richieste HTTP</translation>
+        <translation type="vanished">Timeout per le richieste HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -6505,7 +6505,7 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation>Numero di tentativi manuali</translation>
+        <translation type="vanished">Numero di tentativi manuali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="384"/>
@@ -6523,23 +6523,23 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     </message>
     <message>
         <source>Cat</source>
-        <translation>Gatto</translation>
+        <translation type="vanished">Gatto</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>Imposta l&apos;opacità del gatto. 0% è completamente trasparente e 100% è completamente opaco.</translation>
+        <translation type="vanished">Imposta l&apos;opacità del gatto. 0% è completamente trasparente e 100% è completamente opaco.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Opacità</translation>
+        <translation type="vanished">Opacità</translation>
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="vanished">%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Strumenti</translation>
+        <translation type="vanished">Strumenti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -6604,27 +6604,27 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     </message>
     <message>
         <source>Console Settings</source>
-        <translation>Impostazioni della Console</translation>
+        <translation type="vanished">Impostazioni della Console</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>Mostra la console mentre il gioco è in esecuzione</translation>
+        <translation type="vanished">Mostra la console mentre il gioco è in esecuzione</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation>Chiudere automaticamente la console all&apos;uscita dal gioco</translation>
+        <translation type="vanished">Chiudere automaticamente la console all&apos;uscita dal gioco</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>Mostra la console quando il gioco si arresta in modo anomalo</translation>
+        <translation type="vanished">Mostra la console quando il gioco si arresta in modo anomalo</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation>Limite cronologia</translation>
+        <translation type="vanished">Limite cronologia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -6640,7 +6640,7 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>Font della console</translation>
+        <translation type="vanished">Font della console</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -6704,23 +6704,23 @@ Concedere l&apos;accesso a %1 con Flatseal è raccomandato.</translation>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[Test/ERROR] OOoooOOOoooo! Un errore spaventoso!</translation>
+        <translation type="vanished">[Test/ERROR] OOoooOOOoooo! Un errore spaventoso!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation>[Test/ERROR] Un errore spaventoso!</translation>
+        <translation type="vanished">[Test/ERROR] Un errore spaventoso!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation>[Test/WARN] Un avviso non così spaventoso.</translation>
+        <translation type="vanished">[Test/WARN] Un avviso non così spaventoso.</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[Test/DEBUG] Un messaggio segreto di debug...</translation>
+        <translation type="vanished">[Test/DEBUG] Un messaggio segreto di debug...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation>[Test/FATAL] Un errore fatale terrificante!</translation>
+        <translation type="vanished">[Test/FATAL] Un errore fatale terrificante!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -6728,7 +6728,7 @@ Concedere l&apos;accesso a %1 con Flatseal è raccomandato.</translation>
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[Test/INFO] Un messaggio innocuo...</translation>
+        <translation type="vanished">[Test/INFO] Un messaggio innocuo...</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -6744,7 +6744,7 @@ Concedere l&apos;accesso a %1 con Flatseal è raccomandato.</translation>
     </message>
     <message>
         <source>Launcher</source>
-        <translation>Launcher</translation>
+        <translation type="vanished">Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -6852,7 +6852,7 @@ Concedere l&apos;accesso a %1 con Flatseal è raccomandato.</translation>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation>Impossibile aprire il file modpack %1!</translation>
+        <translation type="vanished">Impossibile aprire il file modpack %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -7076,12 +7076,12 @@ Causa:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation>Aggiornamento index per mod:
+        <translation type="vanished">Aggiornamento index per mod:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation>Metadati non validi</translation>
+        <translation type="vanished">Metadati non validi</translation>
     </message>
 </context>
 <context>
@@ -7153,7 +7153,7 @@ Causa:
     </message>
     <message>
         <source>Search:</source>
-        <translation>Cerca:</translation>
+        <translation type="vanished">Cerca:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -7265,7 +7265,7 @@ Causa:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation>Impossibile creare:</translation>
+        <translation type="vanished">Impossibile creare:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -7282,7 +7282,7 @@ Causa:
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation>Impossibile aprire il file zip fornito.</translation>
+        <translation type="vanished">Impossibile aprire il file zip fornito.</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -7301,7 +7301,7 @@ Causa:
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
-        <translation>Ricerca fallita del primo file nello zip</translation>
+        <translation type="vanished">Ricerca fallita del primo file nello zip</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
@@ -7315,7 +7315,7 @@ Causa:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>Impossibile risolvere i permessi di %1</translation>
+        <translation type="vanished">Impossibile risolvere i permessi di %1</translation>
     </message>
 </context>
 <context>
@@ -7428,11 +7428,11 @@ Causa:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>Apri %1 o scansiona il codice QR e inserisci il codice sopra.</translation>
+        <translation type="vanished">Apri %1 o scansiona il codice QR e inserisci il codice sopra.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation>Apri %1 e inserisci il codice sopra.</translation>
+        <translation type="vanished">Apri %1 e inserisci il codice sopra.</translation>
     </message>
 </context>
 <context>
@@ -7631,7 +7631,7 @@ Causa:
     </message>
     <message>
         <source>More news...</source>
-        <translation>Altre notizie...</translation>
+        <translation type="vanished">Altre notizie...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7675,7 +7675,7 @@ Causa:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>Crea un collegamento sul tuo desktop per lanciare l&apos;istanza selezionata.</translation>
+        <translation type="vanished">Crea un collegamento sul tuo desktop per lanciare l&apos;istanza selezionata.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -8442,14 +8442,14 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>Stai per eliminare: &quot;%1&quot;
+        <translation type="vanished">Stai per eliminare: &quot;%1&quot;
 Questo eliminerà permanentemente la tua istanza.
 
 Sei sicuro?</translation>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation>Ci sono istanze collegate</translation>
+        <translation type="vanished">Ci sono istanze collegate</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -8459,7 +8459,7 @@ Sei sicuro?</translation>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>La seguente istanza potrebbe fare riferimento ai file in questa istanza:
 
 %1
@@ -8496,31 +8496,31 @@ Sei sicuro?</translation>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation>Crea collegamento all&apos;istanza</translation>
+        <translation type="vanished">Crea collegamento all&apos;istanza</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation>Impossibile trovare un desktop?!</translation>
+        <translation type="vanished">Impossibile trovare un desktop?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>Il launcher è nella cartella da cui è stato estratto, quindi non è possibile creare collegamenti.</translation>
+        <translation type="vanished">Il launcher è nella cartella da cui è stato estratto, quindi non è possibile creare collegamenti.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation>Elementi Desktop</translation>
+        <translation type="vanished">Elementi Desktop</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>Creato un collegamento di questa istanza sul tuo desktop!</translation>
+        <translation type="vanished">Creato un collegamento di questa istanza sul tuo desktop!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation>Impossibile creare un collegamento!</translation>
+        <translation type="vanished">Impossibile creare un collegamento!</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>Il launcher sta avviando una AppImage mal configurata? (La variabile di sistema $APPIMAGE è mancante)</translation>
+        <translation type="vanished">Il launcher sta avviando una AppImage mal configurata? (La variabile di sistema $APPIMAGE è mancante)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -8621,15 +8621,15 @@ Sei sicuro/a?</translation>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation>Crea istanza Applicazione</translation>
+        <translation type="vanished">Crea istanza Applicazione</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation>Impossibile creare l&apos;icona per l&apos;applicazione.</translation>
+        <translation type="vanished">Impossibile creare l&apos;icona per l&apos;applicazione.</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation>Impossibile creare un icona per il collegamento.</translation>
+        <translation type="vanished">Impossibile creare un icona per il collegamento.</translation>
     </message>
     <message>
         <source>Desktop Entries (*.desktop)</source>
@@ -8637,11 +8637,11 @@ Sei sicuro/a?</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation>Non supportato sulla tua piattaforma!</translation>
+        <translation type="vanished">Non supportato sulla tua piattaforma!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation>Creato un collegamento a questa istanza!</translation>
+        <translation type="vanished">Creato un collegamento a questa istanza!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
@@ -8718,11 +8718,11 @@ Sei sicuro/a?</translation>
     <name>ManagedPackPage</name>
     <message>
         <source>Pack information</source>
-        <translation>Informazioni pacchetto</translation>
+        <translation type="vanished">Informazioni pacchetto</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation>Nome del pacchetto:</translation>
+        <translation type="vanished">Nome del pacchetto:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
@@ -8761,7 +8761,7 @@ Sei sicuro/a?</translation>
     </message>
     <message>
         <source>Update from file</source>
-        <translation>Aggiorna da file</translation>
+        <translation type="vanished">Aggiorna da file</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -8824,7 +8824,7 @@ Può essere aggiornato solo tramite file in formato %1
     </message>
     <message>
         <source>Update pack</source>
-        <translation>Aggiorna pacchetto</translation>
+        <translation type="vanished">Aggiorna pacchetto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
@@ -9022,12 +9022,12 @@ Può essere aggiornato solo tramite file in formato %1
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation>Dimensione della Finestra</translation>
+        <translation type="vanished">Dimensione della Finestra</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation>Avvia Minecraft alla risoluzione massima</translation>
+        <translation type="vanished">Avvia Minecraft alla risoluzione massima</translation>
     </message>
     <message>
         <source>On newer versions the game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
@@ -9040,138 +9040,138 @@ Può essere aggiornato solo tramite file in formato %1
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation>Altezza finestra:</translation>
+        <translation type="vanished">Altezza finestra:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation>Larghezza finestra:</translation>
+        <translation type="vanished">Larghezza finestra:</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation>Mostra il tempo trascorso a giocare in ore</translation>
+        <translation type="vanished">Mostra il tempo trascorso a giocare in ore</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation>Modifiche</translation>
+        <translation type="vanished">Modifiche</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>Impostazioni legacy</translation>
+        <translation type="vanished">Impostazioni legacy</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emula l&apos;uso di vecchi servizi online che non sono più funzionanti.&lt;/p&gt;&lt;p&gt;Le soluzioni attuali includono: skin e supporto della modalità online.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emula l&apos;uso di vecchi servizi online che non sono più funzionanti.&lt;/p&gt;&lt;p&gt;Le soluzioni attuali includono: skin e supporto della modalità online.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>Abilita correzioni online (sperimentale)</translation>
+        <translation type="vanished">Abilita correzioni online (sperimentale)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation>Soluzioni alternative per le librerie native</translation>
+        <translation type="vanished">Soluzioni alternative per le librerie native</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>Usa l&apos;installazione di sistema di GLFW</translation>
+        <translation type="vanished">Usa l&apos;installazione di sistema di GLFW</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>&amp;Percorso libreria GLFW</translation>
+        <translation type="vanished">&amp;Percorso libreria GLFW</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>Usa l&apos;installazione di sistema di OpenAL</translation>
+        <translation type="vanished">Usa l&apos;installazione di sistema di OpenAL</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>&amp;Percorso libreria OpenAL</translation>
+        <translation type="vanished">&amp;Percorso libreria OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>Prestazioni</translation>
+        <translation type="vanished">Prestazioni</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Abilita la GameMode di Feral Interactive, per la possibilità di aumentare le prestazioni di gioco.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Abilita la GameMode di Feral Interactive, per la possibilità di aumentare le prestazioni di gioco.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>Abilita la GameMode di Feral</translation>
+        <translation type="vanished">Abilita la GameMode di Feral</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Abilita l&apos;overlay delle prestazioni avanzate di MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Abilita l&apos;overlay delle prestazioni avanzate di MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>Abilita MangoHud</translation>
+        <translation type="vanished">Abilita MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Usa la GPU discreta al posto della GPU primaria.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Usa la GPU discreta al posto della GPU primaria.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>Usa la GPU dedicata</translation>
+        <translation type="vanished">Usa la GPU dedicata</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Usa Zink, un driver Mesa OpenGL che implementa OpenGL sopra Vulkan. Le performance potrebbero variare in base alla situazione. Nota: Se non è presente un driver Vulkan valido, verrà utilizzato il rendering software.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Usa Zink, un driver Mesa OpenGL che implementa OpenGL sopra Vulkan. Le performance potrebbero variare in base alla situazione. Nota: Se non è presente un driver Vulkan valido, verrà utilizzato il rendering software.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>Usa Zink</translation>
+        <translation type="vanished">Usa Zink</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation>Tempo di gioco</translation>
+        <translation type="vanished">Tempo di gioco</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Generale</translation>
+        <translation type="vanished">Generale</translation>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>Mostra il tempo trascorso giocando ad un&apos;istanza</translation>
+        <translation type="vanished">Mostra il tempo trascorso giocando ad un&apos;istanza</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>Mostra il tempo trascorso giocando a tutte le istanze</translation>
+        <translation type="vanished">Mostra il tempo trascorso giocando a tutte le istanze</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>Registra il tempo trascorso giocando ad un&apos;istanza</translation>
+        <translation type="vanished">Registra il tempo trascorso giocando ad un&apos;istanza</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Varie</translation>
+        <translation type="vanished">Varie</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Il launcher si riaprirà automaticamente all&apos;uscita dal gioco o in caso di arresto anomalo.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Il launcher si riaprirà automaticamente all&apos;uscita dal gioco o in caso di arresto anomalo.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>&amp;Chiudi il launcher dopo l&apos;apertura della finestra di gioco</translation>
+        <translation type="vanished">&amp;Chiudi il launcher dopo l&apos;apertura della finestra di gioco</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Il launcher si chiuderà automaticamente all&apos;uscita dal gioco o in caso di arresto anomalo.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Il launcher si chiuderà automaticamente all&apos;uscita dal gioco o in caso di arresto anomalo.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>Chiudi il launcher dopo la chiusura della finestra di gioco</translation>
+        <translation type="vanished">Chiudi il launcher dopo la chiusura della finestra di gioco</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -9180,19 +9180,19 @@ Può essere aggiornato solo tramite file in formato %1
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>Percorso al file della libreria %1</translation>
+        <translation type="vanished">Percorso al file della libreria %1</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation>Percorso rilevato automaticamente: %1</translation>
+        <translation type="vanished">Percorso rilevato automaticamente: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Feral Interactive&apos;s GameMode non è stato trovato nel sistema.</translation>
+        <translation type="vanished">Feral Interactive&apos;s GameMode non è stato trovato nel sistema.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>MangoHud non è stato trovato nel sistema.</translation>
+        <translation type="vanished">MangoHud non è stato trovato nel sistema.</translation>
     </message>
 </context>
 <context>
@@ -9862,7 +9862,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation>Sconosciuto</translation>
+        <translation type="vanished">Sconosciuto</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="121"/>
@@ -9966,7 +9966,7 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation>Da dove la mod è stata scaricata.</translation>
+        <translation type="vanished">Da dove la mod è stata scaricata.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
@@ -10050,7 +10050,7 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
     </message>
     <message>
         <source>Download mods</source>
-        <translation>Scarica mod</translation>
+        <translation type="vanished">Scarica mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
@@ -10076,11 +10076,11 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
     </message>
     <message>
         <source>Add file</source>
-        <translation>Aggiungi file</translation>
+        <translation type="vanished">Aggiungi file</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation>Aggiungi un file locale</translation>
+        <translation type="vanished">Aggiungi un file locale</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="85"/>
@@ -10095,11 +10095,11 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation>Verifica dipendenze</translation>
+        <translation type="vanished">Verifica dipendenze</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>Prova ad aggiornare e controllare per dipendenze mancanti per tutte le mod selezionate (tutte le mod se nessuna è selezionata)</translation>
+        <translation type="vanished">Prova ad aggiornare e controllare per dipendenze mancanti per tutte le mod selezionate (tutte le mod se nessuna è selezionata)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="107"/>
@@ -10109,35 +10109,35 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation>Vai alla pagina iniziale del mod</translation>
+        <translation type="vanished">Vai alla pagina iniziale del mod</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation>Rimuovi metadati della mod</translation>
+        <translation type="vanished">Rimuovi metadati della mod</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation>Ripristina metadata degli aggiornamenti</translation>
+        <translation type="vanished">Ripristina metadata degli aggiornamenti</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Cambia Versione</translation>
+        <translation type="vanished">Cambia Versione</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation>Modifica versione della mod</translation>
+        <translation type="vanished">Modifica versione della mod</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>Visita il sito della mod</translation>
+        <translation type="vanished">Visita il sito della mod</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation>Visita le pagine delle mods</translation>
+        <translation type="vanished">Visita le pagine delle mods</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation>Visita le pagine delle mods selezionate</translation>
+        <translation type="vanished">Visita le pagine delle mods selezionate</translation>
     </message>
     <message>
         <source>Remove mods&apos; metadata</source>
@@ -10153,7 +10153,7 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation>Si prega di installare innanzitutto un mod loader!</translation>
+        <translation type="vanished">Si prega di installare innanzitutto un mod loader!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -10397,92 +10397,92 @@ Aggiorna %1!</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation>Confermare le mod da aggiornare</translation>
+        <translation type="vanished">Confermare le mod da aggiornare</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>Stai per aggiornare le seguenti mod:</translation>
+        <translation type="vanished">Stai per aggiornare le seguenti mod:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation>Solo le mod selezionate saranno aggiornate!</translation>
+        <translation type="vanished">Solo le mod selezionate saranno aggiornate!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>Nome mod: %1&lt;br&gt;Nome file: %2&lt;br&gt;Motivo: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="vanished">Nome mod: %1&lt;br&gt;Nome file: %2&lt;br&gt;Motivo: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation>Generazione fallita dei metadati</translation>
+        <translation type="vanished">Generazione fallita dei metadati</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Non è stato possibile generare i metadati per le seguenti mod:&lt;br&gt;Vuoi procedere senza queste mod?</translation>
+        <translation type="vanished">Non è stato possibile generare i metadati per le seguenti mod:&lt;br&gt;Vuoi procedere senza queste mod?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation>Controllo degli aggiornamenti</translation>
+        <translation type="vanished">Controllo degli aggiornamenti</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Errore</translation>
+        <translation type="vanished">Errore</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation>Avvisi</translation>
+        <translation type="vanished">Avvisi</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Interrompi</translation>
+        <translation type="vanished">Interrompi</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation>Controllo aggiornamenti...</translation>
+        <translation type="vanished">Controllo aggiornamenti...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation>Nome mod: %1</translation>
+        <translation type="vanished">Nome mod: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation>Motivo: %1</translation>
+        <translation type="vanished">Motivo: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation>Soluzione possibile: Ottieni l&apos;ultima versione manualmente:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation type="vanished">Soluzione possibile: Ottieni l&apos;ultima versione manualmente:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation>Controllo delle dipendenze...</translation>
+        <translation type="vanished">Controllo delle dipendenze...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>La mod &apos;%1&apos; non ha ancora metadati. Abbiamo bisogno di generarli per tenere traccia delle informazioni rilevanti su come aggiornare questa mod. Per farlo, seleziona un provider di mod che possiamo usare per controllare gli aggiornamenti di questa mod.</translation>
+        <translation type="vanished">La mod &apos;%1&apos; non ha ancora metadati. Abbiamo bisogno di generarli per tenere traccia delle informazioni rilevanti su come aggiornare questa mod. Per farlo, seleziona un provider di mod che possiamo usare per controllare gli aggiornamenti di questa mod.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>Non è stato possibile trovare una versione valida sui mod provider selezionati</translation>
+        <translation type="vanished">Non è stato possibile trovare una versione valida sui mod provider selezionati</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation>La mod è stata disabilitata poichè potrebbe essere già installata.</translation>
+        <translation type="vanished">La mod è stata disabilitata poichè potrebbe essere già installata.</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation>Controllo aggioramenti fallito</translation>
+        <translation type="vanished">Controllo aggioramenti fallito</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Non è stato possibile controllare o scaricare le seguenti mod per gli aggiornamenti:&lt;br&gt;Vuoi procedere senza queste mod?</translation>
+        <translation type="vanished">Non è stato possibile controllare o scaricare le seguenti mod per gli aggiornamenti:&lt;br&gt;Vuoi procedere senza queste mod?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation>Cercando i metadati</translation>
+        <translation type="vanished">Cercando i metadati</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation>Generando metadati...</translation>
+        <translation type="vanished">Generando metadati...</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
@@ -10490,35 +10490,35 @@ Aggiorna %1!</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation>Fornitore: %1</translation>
+        <translation type="vanished">Fornitore: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation>Vecchia versione: %1</translation>
+        <translation type="vanished">Vecchia versione: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation>Non installato</translation>
+        <translation type="vanished">Non installato</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation>Nuova versione: %1</translation>
+        <translation type="vanished">Nuova versione: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation>Nuovo tipo di versione: %1</translation>
+        <translation type="vanished">Nuovo tipo di versione: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation>Richiesto da: %1</translation>
+        <translation type="vanished">Richiesto da: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation>Richiesto da:</translation>
+        <translation type="vanished">Richiesto da:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation>Changelog dell&apos;ultima versione</translation>
+        <translation type="vanished">Changelog dell&apos;ultima versione</translation>
     </message>
 </context>
 <context>
@@ -10623,7 +10623,7 @@ Aggiorna %1!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation>Sto preparando le mods per Modrinth...</translation>
+        <translation type="vanished">Sto preparando le mods per Modrinth...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -10661,7 +10661,7 @@ Aggiorna %1!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Nessuna versione valida trovata per questa mod. Probabilmente non è disponibile per la versione del gioco / mod loader corrente.</translation>
+        <translation type="vanished">Nessuna versione valida trovata per questa mod. Probabilmente non è disponibile per la versione del gioco / mod loader corrente.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -11243,27 +11243,27 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation>Aggiungi account</translation>
+        <translation type="vanished">Aggiungi account</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Nome utente</translation>
+        <translation type="vanished">Nome utente</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>Username più lunghi di 16 caratteri non possono essere utilizzati in partite LAN e server in modalità offline.</translation>
+        <translation type="vanished">Username più lunghi di 16 caratteri non possono essere utilizzati in partite LAN e server in modalità offline.</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation>Consenti username lunghi</translation>
+        <translation type="vanished">Consenti username lunghi</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annulla</translation>
+        <translation type="vanished">Annulla</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
 </context>
 <context>
@@ -11314,7 +11314,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation>Trova</translation>
+        <translation type="vanished">Trova</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -11403,31 +11403,31 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     </message>
     <message>
         <source>Clear the log</source>
-        <translation>Pulisci il log</translation>
+        <translation type="vanished">Pulisci il log</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Elimina</translation>
+        <translation type="vanished">Elimina</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation>Carica il log sul servizio di paste configurato nelle impostazioni.</translation>
+        <translation type="vanished">Carica il log sul servizio di paste configurato nelle impostazioni.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Carica</translation>
+        <translation type="vanished">Carica</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation>Pulisci</translation>
+        <translation type="vanished">Pulisci</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Ricarica</translation>
+        <translation type="vanished">Ricarica</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation>Cerca:</translation>
+        <translation type="vanished">Cerca:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
@@ -11454,7 +11454,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation>Impossibile leggere il file %1.</translation>
+        <translation type="vanished">Impossibile leggere il file %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
@@ -11531,7 +11531,7 @@ Sei sicuro?</translation>
     </message>
     <message>
         <source>Other logs</source>
-        <translation>Altri log</translation>
+        <translation type="vanished">Altri log</translation>
     </message>
 </context>
 <context>
@@ -11556,7 +11556,7 @@ Sei sicuro?</translation>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation>Chiudi</translation>
+        <translation type="vanished">Chiudi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -11585,28 +11585,28 @@ Sei sicuro?</translation>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation>Caricando su %1</translation>
+        <translation type="vanished">Caricando su %1</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation>Errore di rete: %1</translation>
+        <translation type="vanished">Errore di rete: %1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation>Errore: %1 ha restituito il codice di stato imprevisto %2 %3</translation>
+        <translation type="vanished">Errore: %1 ha restituito il codice di stato imprevisto %2 %3</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>Errore: %1 ha restituito un corpo di risposta malformato</translation>
+        <translation type="vanished">Errore: %1 ha restituito un corpo di risposta malformato</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation>Errore. %1 ha restituito un errore: %2</translation>
+        <translation type="vanished">Errore. %1 ha restituito un errore: %2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation>Errore. %1 ha restituito un codice errore: %2
+        <translation type="vanished">Errore. %1 ha restituito un codice errore: %2
 Messaggio d&apos;errore: %3</translation>
     </message>
 </context>
@@ -12285,7 +12285,7 @@ Stato HTTP: %2</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation>Il server ha riportato il seguente errore:</translation>
+        <translation type="vanished">Il server ha riportato il seguente errore:</translation>
     </message>
 </context>
 <context>
@@ -12346,7 +12346,7 @@ Stato HTTP: %2</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation>&amp;Predefinito</translation>
+        <translation type="vanished">&amp;Predefinito</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -12485,13 +12485,13 @@ Stato HTTP: %2</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation>Sito web</translation>
+        <translation type="vanished">Sito web</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation>Sviluppatori di %1</translation>
+        <translation type="vanished">Sviluppatori di %1</translation>
     </message>
     <message>
         <source>%1 Contributors</source>
@@ -12502,7 +12502,7 @@ Stato HTTP: %2</translation>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation>Con l&apos;aiuto di</translation>
+        <translation type="vanished">Con l&apos;aiuto di</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
@@ -12563,7 +12563,7 @@ Procedere con il troncamento?</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation>Caricamento fallito</translation>
+        <translation type="vanished">Caricamento fallito</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -12862,7 +12862,7 @@ Questo messaggio verrà visualizzato finché non rimuoverai tale parametro da qu
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>Il binario Java specificato non funziona.&lt;br /&gt; Dovresti usare la funzione di auto-riconoscimento, o impostare il percorso per l&apos;eseguibile Java.&lt;br /&gt;</translation>
+        <translation type="vanished">Il binario Java specificato non funziona.&lt;br /&gt; Dovresti usare la funzione di auto-riconoscimento, o impostare il percorso per l&apos;eseguibile Java.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
@@ -12890,7 +12890,7 @@ Questo messaggio verrà visualizzato finché non rimuoverai tale parametro da qu
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation>Percorso invalido per JVisualVM</translation>
+        <translation type="vanished">Percorso invalido per JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
@@ -12915,7 +12915,7 @@ Questo messaggio verrà visualizzato finché non rimuoverai tale parametro da qu
     </message>
     <message>
         <source>No author(s)</source>
-        <translation>Nessun autore(i)</translation>
+        <translation type="vanished">Nessun autore(i)</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
@@ -13138,7 +13138,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>Impossibile risolvere i permessi di %1</translation>
+        <translation type="vanished">Impossibile risolvere i permessi di %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -13545,7 +13545,7 @@ Messaggio d&apos;errore: %3</translation>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation>Cambia la versione di %1</translation>
+        <translation type="vanished">Cambia la versione di %1</translation>
     </message>
 </context>
 <context>
@@ -13975,13 +13975,11 @@ Sei sicuro di volerlo fare?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="564"/>
         <source>The name of the resource.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Il nome della risorsa.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="566"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>La data e l&apos;ora in cui questa risorsa è stata modificata (o aggiunta).</translation>
     </message>
     <message>
@@ -14091,7 +14089,7 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>Il pacchetto di risorse è abilitato? (valido solo per ZIP)</translation>
+        <translation type="vanished">Il pacchetto di risorse è abilitato? (valido solo per ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
@@ -14112,15 +14110,15 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation>Resource Pack</translation>
+        <translation type="vanished">Resource Pack</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Scarica pacchetti</translation>
+        <translation type="vanished">Scarica pacchetti</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>Scarica pacchetti risorse dalla piattaforma online</translation>
+        <translation type="vanished">Scarica pacchetti risorse dalla piattaforma online</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -14459,11 +14457,11 @@ Sei sicuro/a?</translation>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation>Questo download sarà messo in: %1</translation>
+        <translation type="vanished">Questo download sarà messo in: %1</translation>
     </message>
     <message>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>Questo file sarà scaricato in una cartella diversa dalla predefinita, probabilmente perchè il suo loader necessita ciò.</translation>
+        <translation type="vanished">Questo file sarà scaricato in una cartella diversa dalla predefinita, probabilmente perchè il suo loader necessita ciò.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
@@ -14782,7 +14780,7 @@ Versione attualmente installata: %1</translation>
     </message>
     <message>
         <source>Latency</source>
-        <translation>Latenza</translation>
+        <translation type="vanished">Latenza</translation>
     </message>
 </context>
 <context>
@@ -14911,15 +14909,15 @@ Sei sicuro?</translation>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation>Pacchetti shader</translation>
+        <translation type="vanished">Pacchetti shader</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation>Scarica shaders</translation>
+        <translation type="vanished">Scarica shaders</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation>Scarica shaders per altre piattaforme</translation>
+        <translation type="vanished">Scarica shaders per altre piattaforme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -15484,7 +15482,7 @@ Sei sicuro?</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Impossibile aprire il file modpack fornito.</translation>
+        <translation type="vanished">Impossibile aprire il file modpack fornito.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -15655,13 +15653,11 @@ inheritsFrom mancante</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Il pacchetto di texture è attivato?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Il nome del pacchetto di texture.</translation>
     </message>
     <message>
@@ -15671,7 +15667,6 @@ inheritsFrom mancante</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>La data e l&apos;ora dell&apos;ultima modifica (o creazione) di questo pacchetto di texture.</translation>
     </message>
     <message>
@@ -15755,11 +15750,11 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Scarica pacchetti</translation>
+        <translation type="vanished">Scarica pacchetti</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation>Scarica pacchetti texture da altre piattaforme</translation>
+        <translation type="vanished">Scarica pacchetti texture da altre piattaforme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
@@ -15881,7 +15876,7 @@ Sei sicuro/a?</translation>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation>&amp;Icone</translation>
+        <translation type="vanished">&amp;Icone</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
@@ -15889,54 +15884,54 @@ Sei sicuro/a?</translation>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation>Visualizza la cartella dei temi delle icone.</translation>
+        <translation type="vanished">Visualizza la cartella dei temi delle icone.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation>&amp;Widgets</translation>
+        <translation type="vanished">&amp;Widgets</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation>Visualizza la cartella dei temi dei widget.</translation>
+        <translation type="vanished">Visualizza la cartella dei temi dei widget.</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Il gatto appare nello sfondo e non è mostrato da predefinito, è solo visibile quando si preme il pulsante Gatto nella barra degli strumenti.</translation>
+        <translation type="vanished">Il gatto appare nello sfondo e non è mostrato da predefinito, è solo visibile quando si preme il pulsante Gatto nella barra degli strumenti.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation>G&amp;atto</translation>
+        <translation type="vanished">G&amp;atto</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation>Visualizza la cartella dei pacchetti di gatti.</translation>
+        <translation type="vanished">Visualizza la cartella dei pacchetti di gatti.</translation>
     </message>
     <message>
         <source>Refresh all</source>
-        <translation>Aggiorna tutto</translation>
+        <translation type="vanished">Aggiorna tutto</translation>
     </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation>WizardPage</translation>
+        <translation type="vanished">WizardPage</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation>Seleziona il Tema che vorresti usare</translation>
+        <translation type="vanished">Seleziona il Tema che vorresti usare</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Indizio: Il gatto appare nello sfondo e non è mostrato da predefinito. È solo mostrato quando si preme il pulsante Gatto nella barra degli strumenti.</translation>
+        <translation type="vanished">Indizio: Il gatto appare nello sfondo e non è mostrato da predefinito. È solo mostrato quando si preme il pulsante Gatto nella barra degli strumenti.</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation> Anteprima:</translation>
+        <translation type="vanished"> Anteprima:</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation>Il gatto appare nello sfondo e non ha un utilizzo, è solamente estetico.</translation>
+        <translation type="vanished">Il gatto appare nello sfondo e non ha un utilizzo, è solamente estetico.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
@@ -16219,7 +16214,7 @@ Si prega di selezionare per questa istanza una versione fra le seguenti:</transl
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation>Filtro:</translation>
+        <translation type="vanished">Filtro:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -17053,11 +17048,11 @@ Percorso canonico: %1</translation>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation>Datapack</translation>
+        <translation type="vanished">Datapack</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation>Gestisci i datapack del mondo.</translation>
+        <translation type="vanished">Gestisci i datapack del mondo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -17085,7 +17080,7 @@ Vuoi continuare?</translation>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation>Apri cartella Datapacks del mondo</translation>
+        <translation type="vanished">Apri cartella Datapacks del mondo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>

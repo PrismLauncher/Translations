@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation>பநிஇ விசைகள்</translation>
+        <translation type="vanished">பநிஇ விசைகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
@@ -88,16 +88,16 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation>(இயல்புநிலை)</translation>
+        <translation type="vanished">(இயல்புநிலை)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>நுண்மென் அங்கீகாரத்திற்காக தனிப்பயன் கிளையன்ட் ஐடியை இங்கே உள்ளிடவும்.</translation>
+        <translation type="vanished">நுண்மென் அங்கீகாரத்திற்காக தனிப்பயன் கிளையன்ட் ஐடியை இங்கே உள்ளிடவும்.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation>&amp; மிதமான பநிஇ</translation>
+        <translation type="vanished">&amp; மிதமான பநிஇ</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -106,15 +106,15 @@
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>மோட்ரின்ட்டுக்கு தனிப்பயன் பநிஇ கிள்ளாக்கை இங்கே உள்ளிடவும்.</translation>
+        <translation type="vanished">மோட்ரின்ட்டுக்கு தனிப்பயன் பநிஇ கிள்ளாக்கை இங்கே உள்ளிடவும்.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(எதுவுமில்லை)</translation>
+        <translation type="vanished">(எதுவுமில்லை)</translation>
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>தொழில்நுட்ப கிளையன்ட் ஐடி</translation>
+        <translation type="vanished">தொழில்நுட்ப கிளையன்ட் ஐடி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -123,11 +123,11 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>தொழில்நுட்பத்திற்கான தனிப்பயன் கை வாங்கி ஐடியை இங்கே உள்ளிடவும்.</translation>
+        <translation type="vanished">தொழில்நுட்பத்திற்கான தனிப்பயன் கை வாங்கி ஐடியை இங்கே உள்ளிடவும்.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>மற்றவை</translation>
+        <translation type="vanished">மற்றவை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>மெட்டாவுக்கு தனிப்பயன் முகவரி ஐ இங்கே உள்ளிடவும்.</translation>
+        <translation type="vanished">மெட்டாவுக்கு தனிப்பயன் முகவரி ஐ இங்கே உள்ளிடவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp; CURSEFORGE வயிரம் பநிஇ</translation>
+        <translation type="vanished">&amp; CURSEFORGE வயிரம் பநிஇ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="347"/>
@@ -175,11 +175,11 @@
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Curseforge க்கு தனிப்பயன் பநிஇ விசையை இங்கே உள்ளிடவும்.</translation>
+        <translation type="vanished">Curseforge க்கு தனிப்பயன் பநிஇ விசையை இங்கே உள்ளிடவும்.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation>பநிஇ கள்</translation>
+        <translation type="vanished">பநிஇ கள்</translation>
     </message>
 </context>
 <context>
@@ -248,7 +248,7 @@
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation>பேக் உள்ளமைவுகளைத் திறக்கத் தவறிவிட்டது %1!</translation>
+        <translation type="vanished">பேக் உள்ளமைவுகளைத் திறக்கத் தவறிவிட்டது %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
@@ -401,42 +401,42 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>தேர்வு செய்யப்படாதது</translation>
+        <translation type="vanished">தேர்வு செய்யப்படாதது</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>இணையமில்லாமல்</translation>
+        <translation type="vanished">இணையமில்லாமல்</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation>ஆயத்தம்</translation>
+        <translation type="vanished">ஆயத்தம்</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>வேலை</translation>
+        <translation type="vanished">வேலை</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>பிழை</translation>
+        <translation type="vanished">பிழை</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation>காலாவதியான</translation>
+        <translation type="vanished">காலாவதியான</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>சென்றது</translation>
+        <translation type="vanished">சென்றது</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation>தெரியவில்லை</translation>
+        <translation type="vanished">தெரியவில்லை</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -499,7 +499,7 @@
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>முடக்கப்பட்டது</translation>
+        <translation type="vanished">முடக்கப்பட்டது</translation>
     </message>
 </context>
 <context>
@@ -909,7 +909,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation>சொத்து கோப்புகளை மோசாங்கிலிருந்து பெறுவது ...</translation>
+        <translation type="vanished">சொத்து கோப்புகளை மோசாங்கிலிருந்து பெறுவது ...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
@@ -1273,11 +1273,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; உங்கள் கட்டமைக்கப்பட்ட உலகளாவிய மோட்ச் கோப்புறை மற்றும் இயல்புநிலை பதிவிறக்கங்கள் கோப்புறை தானாகவே பதிவிறக்கம் செய்யப்பட்ட மோட்களுக்கு சரிபார்க்கப்படும், மேலும் அவை கிடைத்தால் அவை உதாரணத்திற்கு நகலெடுக்கப்படும். பதிவிறக்கம் செய்யப்பட்ட மோட்சை இந்த உரையாடலில் இழுத்து விடலாம் அல்லது இயல்புநிலை இடத்திற்கு நீங்கள் மோட்சைப் பதிவிறக்கவில்லை என்றால் பார்க்க ஒரு கோப்புறையைச் சேர்க்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; உங்கள் கட்டமைக்கப்பட்ட உலகளாவிய மோட்ச் கோப்புறை மற்றும் இயல்புநிலை பதிவிறக்கங்கள் கோப்புறை தானாகவே பதிவிறக்கம் செய்யப்பட்ட மோட்களுக்கு சரிபார்க்கப்படும், மேலும் அவை கிடைத்தால் அவை உதாரணத்திற்கு நகலெடுக்கப்படும். பதிவிறக்கம் செய்யப்பட்ட மோட்சை இந்த உரையாடலில் இழுத்து விடலாம் அல்லது இயல்புநிலை இடத்திற்கு நீங்கள் மோட்சைப் பதிவிறக்கவில்லை என்றால் பார்க்க ஒரு கோப்புறையைச் சேர்க்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation>பார்த்த கோப்புறைகள்:</translation>
+        <translation type="vanished">பார்த்த கோப்புறைகள்:</translation>
     </message>
 </context>
 <context>
@@ -1421,7 +1421,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>One or more subtasks failed</source>
-        <translation>ஒன்று அல்லது அதற்கு மேற்பட்ட துணைப்பிரிவுகள் தோல்வியடைந்தன</translation>
+        <translation type="vanished">ஒன்று அல்லது அதற்கு மேற்பட்ட துணைப்பிரிவுகள் தோல்வியடைந்தன</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1664,7 +1664,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation>கோர் மோட்ச்</translation>
+        <translation type="vanished">கோர் மோட்ச்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -1804,22 +1804,22 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation>&amp; தனிப்பயன் கட்டளைகள்</translation>
+        <translation type="vanished">&amp; தனிப்பயன் கட்டளைகள்</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>பி &amp; ஆச்ட்-எக்சிட் கட்டளை:</translation>
+        <translation type="vanished">பி &amp; ஆச்ட்-எக்சிட் கட்டளை:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>&amp; முன் வெளியீட்டு கட்டளை:</translation>
+        <translation type="vanished">&amp; முன் வெளியீட்டு கட்டளை:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>&amp; ரேப்பர் கட்டளை:</translation>
+        <translation type="vanished">&amp; ரேப்பர் கட்டளை:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -1852,7 +1852,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation>தனிப்பயன் கட்டளைகள்</translation>
+        <translation type="vanished">தனிப்பயன் கட்டளைகள்</translation>
     </message>
 </context>
 <context>
@@ -2226,7 +2226,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>மோட்சுக்கு மேனிலை தரவு இருக்கிறதா என்று சோதித்துப் பார்க்கிறார் ...</translation>
+        <translation type="vanished">மோட்சுக்கு மேனிலை தரவு இருக்கிறதா என்று சோதித்துப் பார்க்கிறார் ...</translation>
     </message>
 </context>
 <context>
@@ -2251,7 +2251,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
-        <translation>சுற்றுச்சூழல் மாறிகள்</translation>
+        <translation type="vanished">சுற்றுச்சூழல் மாறிகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
@@ -2288,7 +2288,7 @@ Are you sure?</source>
     <name>EnvironmentVariablesPage</name>
     <message>
         <source>Environment Variables</source>
-        <translation>சுற்றுச்சூழல் மாறிகள்</translation>
+        <translation type="vanished">சுற்றுச்சூழல் மாறிகள்</translation>
     </message>
 </context>
 <context>
@@ -2360,11 +2360,11 @@ Are you sure?</source>
     <message>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation>&amp; பெயர்</translation>
+        <translation type="vanished">&amp; பெயர்</translation>
     </message>
     <message>
         <source>&amp;Version</source>
-        <translation>&amp; பதிப்பு</translation>
+        <translation type="vanished">&amp; பதிப்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
@@ -2408,7 +2408,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation>&amp; ஆசிரியர்</translation>
+        <translation type="vanished">&amp; ஆசிரியர்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2593,7 +2593,7 @@ Are you sure?</source>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation>வடிகட்டி:</translation>
+        <translation type="vanished">வடிகட்டி:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
@@ -2778,12 +2778,12 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation>முடக்கு உறுதிப்படுத்தவும்</translation>
+        <translation type="vanished">முடக்கு உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>விளையாட்டு இயங்கும்போது இந்த வளத்தை நீங்கள் முடக்கினால், அது உங்கள் விளையாட்டை செயலிழக்கச் செய்யலாம்.
+        <translation type="vanished">விளையாட்டு இயங்கும்போது இந்த வளத்தை நீங்கள் முடக்கினால், அது உங்கள் விளையாட்டை செயலிழக்கச் செய்யலாம்.
  இதை நீங்கள் செய்ய விரும்புகிறீர்களா?</translation>
     </message>
     <message>
@@ -2798,47 +2798,47 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp; சேர்</translation>
+        <translation type="vanished">&amp; சேர்</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>கூட்டு</translation>
+        <translation type="vanished">கூட்டு</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation>தேர்ந்தெடுக்கப்பட்ட உருப்படியை அகற்று</translation>
+        <translation type="vanished">தேர்ந்தெடுக்கப்பட்ட உருப்படியை அகற்று</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation>தேர்ந்தெடுக்கப்பட்ட உருப்படியை இயக்கவும்</translation>
+        <translation type="vanished">தேர்ந்தெடுக்கப்பட்ட உருப்படியை இயக்கவும்</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation>தேர்ந்தெடுக்கப்பட்ட உருப்படியை முடக்கு</translation>
+        <translation type="vanished">தேர்ந்தெடுக்கப்பட்ட உருப்படியை முடக்கு</translation>
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation>புதிய ஆதாரத்தைப் பதிவிறக்கவும்</translation>
+        <translation type="vanished">புதிய ஆதாரத்தைப் பதிவிறக்கவும்</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>மோட் பக்கத்தைப் பார்வையிடவும்</translation>
+        <translation type="vanished">மோட் பக்கத்தைப் பார்வையிடவும்</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation>மோட்ச் முகப்பு பக்கத்திற்குச் செல்லுங்கள்</translation>
+        <translation type="vanished">மோட்ச் முகப்பு பக்கத்திற்குச் செல்லுங்கள்</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
-        <translation>தேர்ந்தெடுக்கப்பட்ட அனைத்து வளங்களையும் சரிபார்க்க அல்லது புதுப்பிக்க முயற்சிக்கவும் (எதுவும் தேர்ந்தெடுக்கப்படவில்லை என்றால் அனைத்து வளங்களும்)</translation>
+        <translation type="vanished">தேர்ந்தெடுக்கப்பட்ட அனைத்து வளங்களையும் சரிபார்க்க அல்லது புதுப்பிக்க முயற்சிக்கவும் (எதுவும் தேர்ந்தெடுக்கப்படவில்லை என்றால் அனைத்து வளங்களும்)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation>ஏற்றுமதி மோட்லிச்ட்</translation>
+        <translation type="vanished">ஏற்றுமதி மோட்லிச்ட்</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation>மோடின் மெட்டாடேட்டாவை உரைக்கு ஏற்றுமதி செய்யுங்கள்</translation>
+        <translation type="vanished">மோடின் மெட்டாடேட்டாவை உரைக்கு ஏற்றுமதி செய்யுங்கள்</translation>
     </message>
 </context>
 <context>
@@ -2900,16 +2900,16 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation>வெளிப்புற ஆசிரியர்கள் (கணினி இயல்புநிலைக்கு காலியாக விடவும்)</translation>
+        <translation type="vanished">வெளிப்புற ஆசிரியர்கள் (கணினி இயல்புநிலைக்கு காலியாக விடவும்)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>உரை ஆசிரியர்:</translation>
+        <translation type="vanished">உரை ஆசிரியர்:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation>வெளிப்புற கருவிகள்</translation>
+        <translation type="vanished">வெளிப்புற கருவிகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
@@ -2971,17 +2971,17 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation>JVisualvm இயங்கக்கூடியது</translation>
+        <translation type="vanished">JVisualvm இயங்கக்கூடியது</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation>JVisualvm நிறுவலைச் சரிபார்க்கும்போது பிழை:
+        <translation type="vanished">JVisualvm நிறுவலைச் சரிபார்க்கும்போது பிழை:
  %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>JVisualvm அமைப்பு சரியாக இருப்பதாக தெரிகிறது</translation>
+        <translation type="vanished">JVisualvm அமைப்பு சரியாக இருப்பதாக தெரிகிறது</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
@@ -3008,7 +3008,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation>சாதொபொகு ஆசிரியர்</translation>
+        <translation type="vanished">சாதொபொகு ஆசிரியர்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3169,7 +3169,7 @@ Please try again.</source>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>&apos;%1&apos; க்கு Curseforge இலிருந்து பநிஇ பதிலைப் பெறுதல் ...</translation>
+        <translation type="vanished">&apos;%1&apos; க்கு Curseforge இலிருந்து பநிஇ பதிலைப் பெறுதல் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
@@ -3208,15 +3208,15 @@ Please try again.</source>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Curseforge க்கு மோட்சைத் தயாரித்தல் ...</translation>
+        <translation type="vanished">Curseforge க்கு மோட்சைத் தயாரித்தல் ...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>இந்த மோடுக்கு செல்லுபடியாகும் பதிப்பு எதுவும் கிடைக்கவில்லை. தற்போதைய விளையாட்டு பதிப்பு / மோட் ஏற்றிக்கு இது கிடைக்கவில்லை.</translation>
+        <translation type="vanished">இந்த மோடுக்கு செல்லுபடியாகும் பதிப்பு எதுவும் கிடைக்கவில்லை. தற்போதைய விளையாட்டு பதிப்பு / மோட் ஏற்றிக்கு இது கிடைக்கவில்லை.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
-        <translation>மோட் ஒரு புதிய புதுப்பிப்பைக் கொண்டுள்ளது, ஆனால் Curseforge ஐப் பயன்படுத்தி பதிவிறக்கம் செய்ய முடியாது.</translation>
+        <translation type="vanished">மோட் ஒரு புதிய புதுப்பிப்பைக் கொண்டுள்ளது, ஆனால் Curseforge ஐப் பயன்படுத்தி பதிவிறக்கம் செய்ய முடியாது.</translation>
     </message>
 </context>
 <context>
@@ -3502,11 +3502,11 @@ Please try again.</source>
     <name>GameOptions</name>
     <message>
         <source>Key</source>
-        <translation>விசை</translation>
+        <translation type="vanished">விசை</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>மதிப்பு</translation>
+        <translation type="vanished">மதிப்பு</translation>
     </message>
 </context>
 <context>
@@ -3846,11 +3846,11 @@ Please try again.</source>
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation>&amp; பெயர்:</translation>
+        <translation type="vanished">&amp; பெயர்:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation>&amp; குழு:</translation>
+        <translation type="vanished">&amp; குழு:</translation>
     </message>
 </context>
 <context>
@@ -3963,88 +3963,88 @@ Please try again.</source>
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation>உலகளாவிய அமைப்புகளைத் திறக்கவும்</translation>
+        <translation type="vanished">உலகளாவிய அமைப்புகளைத் திறக்கவும்</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation>இங்குள்ள அமைப்புகள் உலகளாவிய அமைப்புகளுக்கான மேலெழுதல்கள்.</translation>
+        <translation type="vanished">இங்குள்ள அமைப்புகள் உலகளாவிய அமைப்புகளுக்கான மேலெழுதல்கள்.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation>சாவா இன்ச்டா &amp; லேசன்</translation>
+        <translation type="vanished">சாவா இன்ச்டா &amp; லேசன்</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation>ஆட்டோ-கண்டறிதல் ...</translation>
+        <translation type="vanished">ஆட்டோ-கண்டறிதல் ...</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation>தேர்வு</translation>
+        <translation type="vanished">தேர்வு</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>இயக்கப்பட்டால், தேர்ந்தெடுக்கப்பட்ட சாவா பதிப்போடு ஒரு நிகழ்வு இணக்கமாக இருக்கிறதா என்று துவக்கி சரிபார்க்காது.</translation>
+        <translation type="vanished">இயக்கப்பட்டால், தேர்ந்தெடுக்கப்பட்ட சாவா பதிப்போடு ஒரு நிகழ்வு இணக்கமாக இருக்கிறதா என்று துவக்கி சரிபார்க்காது.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation>சாவா பொருந்தக்கூடிய காசோலைகளைத் தவிர்க்கவும்</translation>
+        <translation type="vanished">சாவா பொருந்தக்கூடிய காசோலைகளைத் தவிர்க்கவும்</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation>நினைவகம் &amp; மற்றும்</translation>
+        <translation type="vanished">நினைவகம் &amp; மற்றும்</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>குறைந்தபட்ச நினைவக ஒதுக்கீடு:</translation>
+        <translation type="vanished">குறைந்தபட்ச நினைவக ஒதுக்கீடு:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>மின்கிராஃப்ட் நினைவகத்தின் அதிகபட்ச அளவு பயன்படுத்த அனுமதிக்கப்படுகிறது.</translation>
+        <translation type="vanished">மின்கிராஃப்ட் நினைவகத்தின் அதிகபட்ச அளவு பயன்படுத்த அனுமதிக்கப்படுகிறது.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>மின்கிராஃப்ட் நினைவகத்தின் அளவு தொடங்கப்பட்டுள்ளது.</translation>
+        <translation type="vanished">மின்கிராஃப்ட் நினைவகத்தின் அளவு தொடங்கப்பட்டுள்ளது.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>ஏற்றப்பட்ட சாவா வகுப்புகளை சேமிக்க கிடைக்கக்கூடிய நினைவகத்தின் அளவு.</translation>
+        <translation type="vanished">ஏற்றப்பட்ட சாவா வகுப்புகளை சேமிக்க கிடைக்கக்கூடிய நினைவகத்தின் அளவு.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>அதிகபட்ச நினைவக ஒதுக்கீடு:</translation>
+        <translation type="vanished">அதிகபட்ச நினைவக ஒதுக்கீடு:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>உலாவு</translation>
+        <translation type="vanished">உலாவு</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation>சாவாவைப் பதிவிறக்கவும்</translation>
+        <translation type="vanished">சாவாவைப் பதிவிறக்கவும்</translation>
     </message>
     <message>
         <source>PermGen:</source>
-        <translation>பெர்சென்:</translation>
+        <translation type="vanished">பெர்சென்:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>குறிப்பு: பெர்ம்சென் தானாகவே சாவா 8 மற்றும் அதற்குப் பிறகு அமைக்கப்படுகிறது</translation>
+        <translation type="vanished">குறிப்பு: பெர்ம்சென் தானாகவே சாவா 8 மற்றும் அதற்குப் பிறகு அமைக்கப்படுகிறது</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation>சாவா வாதங்கள்</translation>
+        <translation type="vanished">சாவா வாதங்கள்</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation>விளையாட்டு சாளரங்கள்</translation>
+        <translation type="vanished">விளையாட்டு சாளரங்கள்</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation>விளையாட்டு சாளரம்</translation>
+        <translation type="vanished">விளையாட்டு சாளரம்</translation>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>Minecraft அதிகபட்சம் தொடங்கவும்</translation>
+        <translation type="vanished">Minecraft அதிகபட்சம் தொடங்கவும்</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
@@ -4056,200 +4056,200 @@ Please try again.</source>
     </message>
     <message>
         <source>Window height:</source>
-        <translation>சாளர உயரம்:</translation>
+        <translation type="vanished">சாளர உயரம்:</translation>
     </message>
     <message>
         <source>Window width:</source>
-        <translation>சாளர அகலம்:</translation>
+        <translation type="vanished">சாளர அகலம்:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation>கான்ச் &amp; அமைப்புகள்</translation>
+        <translation type="vanished">கான்ச் &amp; அமைப்புகள்</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation>விளையாட்டு இயங்கும்போது கன்சோலைக் காட்டு</translation>
+        <translation type="vanished">விளையாட்டு இயங்கும்போது கன்சோலைக் காட்டு</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>விளையாட்டு வெளியேறும்போது தானாக கன்சோலை மூடு</translation>
+        <translation type="vanished">விளையாட்டு வெளியேறும்போது தானாக கன்சோலை மூடு</translation>
     </message>
     <message>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>விளையாட்டு செயலிழக்கும்போது கன்சோலைக் காட்டு</translation>
+        <translation type="vanished">விளையாட்டு செயலிழக்கும்போது கன்சோலைக் காட்டு</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation>விளையாட்டு சாளரம் திறந்த பிறகு துவக்கியை மூடு</translation>
+        <translation type="vanished">விளையாட்டு சாளரம் திறந்த பிறகு துவக்கியை மூடு</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation>விளையாட்டு சாளரம் முடிந்ததும் துவக்கத்தை விட்டு வெளியேறவும்</translation>
+        <translation type="vanished">விளையாட்டு சாளரம் முடிந்ததும் துவக்கத்தை விட்டு வெளியேறவும்</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation>தனிப்பயன் கட்டளைகள்</translation>
+        <translation type="vanished">தனிப்பயன் கட்டளைகள்</translation>
     </message>
     <message>
         <source>Environment variables</source>
-        <translation>சுற்றுச்சூழல் மாறிகள்</translation>
+        <translation type="vanished">சுற்றுச்சூழல் மாறிகள்</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation>பணித்தொகுப்புகள்</translation>
+        <translation type="vanished">பணித்தொகுப்புகள்</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation>பூர்வீக நூலகங்கள்</translation>
+        <translation type="vanished">பூர்வீக நூலகங்கள்</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>&amp; GLFW நூலக பாதை</translation>
+        <translation type="vanished">&amp; GLFW நூலக பாதை</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation>GLFW இன் கணினி நிறுவலைப் பயன்படுத்தவும்</translation>
+        <translation type="vanished">GLFW இன் கணினி நிறுவலைப் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation>ஓபனலின் கணினி நிறுவலைப் பயன்படுத்தவும்</translation>
+        <translation type="vanished">ஓபனலின் கணினி நிறுவலைப் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
-        <translation>சிங்கிள் பிளேயர் உலகம்</translation>
+        <translation type="vanished">சிங்கிள் பிளேயர் உலகம்</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation>இயல்புநிலை கணக்கை மீறவும்</translation>
+        <translation type="vanished">இயல்புநிலை கணக்கை மீறவும்</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>கணக்கு:</translation>
+        <translation type="vanished">கணக்கு:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>மற்றவை</translation>
+        <translation type="vanished">மற்றவை</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>&amp; திறந்த நூலக பாதை</translation>
+        <translation type="vanished">&amp; திறந்த நூலக பாதை</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>செயல்திறன்</translation>
+        <translation type="vanished">செயல்திறன்</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; கேமிங் செயல்திறனை மேம்படுத்த, ஃபெரல் இன்டராக்டிவ் கேம்மோடை இயக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; கேமிங் செயல்திறனை மேம்படுத்த, ஃபெரல் இன்டராக்டிவ் கேம்மோடை இயக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>ஃபெரல் கேம்மோடை இயக்கவும்</translation>
+        <translation type="vanished">ஃபெரல் கேம்மோடை இயக்கவும்</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; மங்கோஊட்டின் மேம்பட்ட செயல்திறன் மேலடுக்கை இயக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; மங்கோஊட்டின் மேம்பட்ட செயல்திறன் மேலடுக்கை இயக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>மங்கோஊட்டை இயக்கவும்</translation>
+        <translation type="vanished">மங்கோஊட்டை இயக்கவும்</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; முதன்மை GPU க்கு பதிலாக தனித்துவமான GPU ஐப் பயன்படுத்தவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; முதன்மை GPU க்கு பதிலாக தனித்துவமான GPU ஐப் பயன்படுத்தவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>தனித்துவமான GPU ஐப் பயன்படுத்தவும்</translation>
+        <translation type="vanished">தனித்துவமான GPU ஐப் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>வல்கனின் மேல் ஓபன்ச்லை செயல்படுத்தும் மெசா ஓபன்சிஎல் டிரைவரான சின்க் பயன்படுத்தவும். நிலைமையைப் பொறுத்து செயல்திறன் மாறுபடலாம். குறிப்பு: பொருத்தமான வல்கன் இயக்கி எதுவும் காணப்படவில்லை என்றால், மென்பொருள் வழங்குதல் பயன்படுத்தப்படும்.</translation>
+        <translation type="vanished">வல்கனின் மேல் ஓபன்ச்லை செயல்படுத்தும் மெசா ஓபன்சிஎல் டிரைவரான சின்க் பயன்படுத்தவும். நிலைமையைப் பொறுத்து செயல்திறன் மாறுபடலாம். குறிப்பு: பொருத்தமான வல்கன் இயக்கி எதுவும் காணப்படவில்லை என்றால், மென்பொருள் வழங்குதல் பயன்படுத்தப்படும்.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>சின்க் பயன்படுத்தவும்</translation>
+        <translation type="vanished">சின்க் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>மரபு அமைப்புகள்</translation>
+        <translation type="vanished">மரபு அமைப்புகள்</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; இனி இயங்காத பழைய நிகழ்நிலை சேவைகளின் பயன்பாடுகளைப் பின்பற்றுகிறது. &lt;/p&gt; &lt;p&gt; தற்போதைய திருத்தங்கள் பின்வருமாறு: தோல் மற்றும் நிகழ்நிலை பயன்முறை உதவி. &lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; இனி இயங்காத பழைய நிகழ்நிலை சேவைகளின் பயன்பாடுகளைப் பின்பற்றுகிறது. &lt;/p&gt; &lt;p&gt; தற்போதைய திருத்தங்கள் பின்வருமாறு: தோல் மற்றும் நிகழ்நிலை பயன்முறை உதவி. &lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>நிகழ்நிலை திருத்தங்களை இயக்கவும் (சோதனை)</translation>
+        <translation type="vanished">நிகழ்நிலை திருத்தங்களை இயக்கவும் (சோதனை)</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation>உலகளாவிய விளையாட்டு நேர அமைப்புகளை மீறவும்</translation>
+        <translation type="vanished">உலகளாவிய விளையாட்டு நேர அமைப்புகளை மீறவும்</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation>இந்த நிகழ்வை விளையாடுவதற்கான நேரத்தைக் காட்டு</translation>
+        <translation type="vanished">இந்த நிகழ்வை விளையாடுவதற்கான நேரத்தைக் காட்டு</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation>இந்த நிகழ்வை விளையாடுவதற்கு பதிவு நேரம் செலவிட்டது</translation>
+        <translation type="vanished">இந்த நிகழ்வை விளையாடுவதற்கு பதிவு நேரம் செலவிட்டது</translation>
     </message>
     <message>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation>துவக்கத்தில் சேர இலக்கை அமைக்கவும்</translation>
+        <translation type="vanished">துவக்கத்தில் சேர இலக்கை அமைக்கவும்</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation>சேவையக முகவரி:</translation>
+        <translation type="vanished">சேவையக முகவரி:</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>%1 நூலகக் கோப்புக்கான பாதை</translation>
+        <translation type="vanished">%1 நூலகக் கோப்புக்கான பாதை</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>ஃபெரல் இன்டராக்டிவ் கேம்மோடை உங்கள் கணினியில் காண முடியவில்லை.</translation>
+        <translation type="vanished">ஃபெரல் இன்டராக்டிவ் கேம்மோடை உங்கள் கணினியில் காண முடியவில்லை.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>உங்கள் கணினியில் மங்கோஊட்டை கண்டுபிடிக்க முடியவில்லை.</translation>
+        <translation type="vanished">உங்கள் கணினியில் மங்கோஊட்டை கண்டுபிடிக்க முடியவில்லை.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>சாவா பதிப்பைத் தேர்ந்தெடுக்கவும்</translation>
+        <translation type="vanished">சாவா பதிப்பைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>தேர்வை உறுதிப்படுத்தவும்</translation>
+        <translation type="vanished">தேர்வை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>சாவாவின் 32 பிட் பதிப்பைத் தேர்ந்தெடுத்தீர்கள்.
+        <translation type="vanished">சாவாவின் 32 பிட் பதிப்பைத் தேர்ந்தெடுத்தீர்கள்.
  இந்த நிறுவல் ரேமின் 2048mib க்கு மேல் ஆதரிக்காது.
  அதிகபட்ச நினைவக மதிப்பு குறைவாக இருப்பதை உறுதிப்படுத்தவும்.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>சாவா இயங்கக்கூடியதைக் கண்டறியவும்</translation>
+        <translation type="vanished">சாவா இயங்கக்கூடியதைக் கண்டறியவும்</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு உங்கள் கணினி நினைவக திறனை மீறுகிறது.</translation>
+        <translation type="vanished">உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு உங்கள் கணினி நினைவக திறனை மீறுகிறது.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு உங்கள் கணினி நினைவக திறனை அணுகும்.</translation>
+        <translation type="vanished">உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு உங்கள் கணினி நினைவக திறனை அணுகும்.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு குறைந்தபட்ச மதிப்பை விட சிறியது</translation>
+        <translation type="vanished">உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு குறைந்தபட்ச மதிப்பை விட சிறியது</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="54"/>
@@ -4343,7 +4343,7 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation>JVisualvm தொடங்கியது</translation>
+        <translation type="vanished">JVisualvm தொடங்கியது</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -4370,15 +4370,15 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>சாவாவைப் பிரித்தெடுப்பது (தார் காப்பகங்களுக்கு முன்னேற்றம் தெரிவிக்கப்படவில்லை)</translation>
+        <translation type="vanished">சாவாவைப் பிரித்தெடுப்பது (தார் காப்பகங்களுக்கு முன்னேற்றம் தெரிவிக்கப்படவில்லை)</translation>
     </message>
     <message>
         <source>Unable to open supplied tar file.</source>
-        <translation>வழங்கப்பட்ட தார் கோப்பைத் திறக்க முடியவில்லை.</translation>
+        <translation type="vanished">வழங்கப்பட்ட தார் கோப்பைத் திறக்க முடியவில்லை.</translation>
     </message>
     <message>
         <source>Unable to extract supplied tar file.</source>
-        <translation>வழங்கப்பட்ட தார் கோப்பை பிரித்தெடுக்க முடியவில்லை.</translation>
+        <translation type="vanished">வழங்கப்பட்ட தார் கோப்பை பிரித்தெடுக்க முடியவில்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
@@ -4392,7 +4392,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Could not determine archive type!</source>
-        <translation>காப்பக வகையை தீர்மானிக்க முடியவில்லை!</translation>
+        <translation type="vanished">காப்பக வகையை தீர்மானிக்க முடியவில்லை!</translation>
     </message>
 </context>
 <context>
@@ -4498,70 +4498,70 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation>நினைவகம்</translation>
+        <translation type="vanished">நினைவகம்</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>மின்கிராஃப்ட் நினைவகத்தின் அதிகபட்ச அளவு பயன்படுத்த அனுமதிக்கப்படுகிறது.</translation>
+        <translation type="vanished">மின்கிராஃப்ட் நினைவகத்தின் அதிகபட்ச அளவு பயன்படுத்த அனுமதிக்கப்படுகிறது.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>&amp; குறைந்தபட்ச நினைவக ஒதுக்கீடு:</translation>
+        <translation type="vanished">&amp; குறைந்தபட்ச நினைவக ஒதுக்கீடு:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>மா &amp; சிமோ நினைவக ஒதுக்கீடு:</translation>
+        <translation type="vanished">மா &amp; சிமோ நினைவக ஒதுக்கீடு:</translation>
     </message>
     <message>
         <source>&amp;PermGen:</source>
-        <translation>&amp; பெர்சென்:</translation>
+        <translation type="vanished">&amp; பெர்சென்:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>மின்கிராஃப்ட் நினைவகத்தின் அளவு தொடங்கப்பட்டுள்ளது.</translation>
+        <translation type="vanished">மின்கிராஃப்ட் நினைவகத்தின் அளவு தொடங்கப்பட்டுள்ளது.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>ஏற்றப்பட்ட சாவா வகுப்புகளை சேமிக்க கிடைக்கக்கூடிய நினைவகத்தின் அளவு.</translation>
+        <translation type="vanished">ஏற்றப்பட்ட சாவா வகுப்புகளை சேமிக்க கிடைக்கக்கூடிய நினைவகத்தின் அளவு.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation>சாவா இயக்க நேரம்</translation>
+        <translation type="vanished">சாவா இயக்க நேரம்</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation>சே.வி.எம் வாதங்கள்:</translation>
+        <translation type="vanished">சே.வி.எம் வாதங்கள்:</translation>
     </message>
     <message>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation>தேவையான முக்கிய பதிப்பின் அடிப்படையில் தற்போதைய Minecraft நிகழ்வுடன் இணக்கமான சாவா பதிப்பை தானாகவே தேர்ந்தெடுக்கிறது.</translation>
+        <translation type="vanished">தேவையான முக்கிய பதிப்பின் அடிப்படையில் தற்போதைய Minecraft நிகழ்வுடன் இணக்கமான சாவா பதிப்பை தானாகவே தேர்ந்தெடுக்கிறது.</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>தன்னியக்க சாவா பதிப்பு</translation>
+        <translation type="vanished">தன்னியக்க சாவா பதிப்பு</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>&amp; சாவா பாதை:</translation>
+        <translation type="vanished">&amp; சாவா பாதை:</translation>
     </message>
     <message>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation>மோசாங் பரிந்துரைத்த சாவா பதிப்பை தானாகவே பதிவிறக்கம் செய்து தேர்ந்தெடுக்கிறது.</translation>
+        <translation type="vanished">மோசாங் பரிந்துரைத்த சாவா பதிப்பை தானாகவே பதிவிறக்கம் செய்து தேர்ந்தெடுக்கிறது.</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>ஆட்டோ-டவுன்லோட் மோசாங் சாவா</translation>
+        <translation type="vanished">ஆட்டோ-டவுன்லோட் மோசாங் சாவா</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation>மேலாண்மை</translation>
+        <translation type="vanished">மேலாண்மை</translation>
     </message>
     <message>
         <source>Downloaded Java Versions</source>
-        <translation>பதிவிறக்கம் செய்யப்பட்ட சாவா பதிப்புகள்</translation>
+        <translation type="vanished">பதிவிறக்கம் செய்யப்பட்ட சாவா பதிப்புகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -4586,33 +4586,33 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>&amp; தானாக கண்டறிதல் ...</translation>
+        <translation type="vanished">&amp; தானாக கண்டறிதல் ...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>&amp; சோதனை</translation>
+        <translation type="vanished">&amp; சோதனை</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>உலாவு</translation>
+        <translation type="vanished">உலாவு</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>இயக்கப்பட்டிருந்தால், ஒன்று கண்டுபிடிக்கப்படாவிட்டால் சாவா பதிப்பைத் தேர்வுசெய்ய துவக்கி உங்களைத் தூண்டாது.</translation>
+        <translation type="vanished">இயக்கப்பட்டிருந்தால், ஒன்று கண்டுபிடிக்கப்படாவிட்டால் சாவா பதிப்பைத் தேர்வுசெய்ய துவக்கி உங்களைத் தூண்டாது.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation>சாவா &amp; வழிகாட்டி தவிர்க்கவும்</translation>
+        <translation type="vanished">சாவா &amp; வழிகாட்டி தவிர்க்கவும்</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>இயக்கப்பட்டால், தேர்ந்தெடுக்கப்பட்ட சாவா பதிப்போடு ஒரு நிகழ்வு இணக்கமாக இருக்கிறதா என்று துவக்கி சரிபார்க்காது.</translation>
+        <translation type="vanished">இயக்கப்பட்டால், தேர்ந்தெடுக்கப்பட்ட சாவா பதிப்போடு ஒரு நிகழ்வு இணக்கமாக இருக்கிறதா என்று துவக்கி சரிபார்க்காது.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>&amp; சாவா பொருந்தக்கூடிய காசோலைகளைத் தவிர்க்கவும்</translation>
+        <translation type="vanished">&amp; சாவா பொருந்தக்கூடிய காசோலைகளைத் தவிர்க்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
@@ -4628,35 +4628,35 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation>சாவா பதிப்பைத் தேர்ந்தெடுக்கவும்</translation>
+        <translation type="vanished">சாவா பதிப்பைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation>தேர்வை உறுதிப்படுத்தவும்</translation>
+        <translation type="vanished">தேர்வை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>சாவாவின் 32 பிட் பதிப்பைத் தேர்ந்தெடுத்தீர்கள்.
+        <translation type="vanished">சாவாவின் 32 பிட் பதிப்பைத் தேர்ந்தெடுத்தீர்கள்.
  இந்த நிறுவல் ரேமின் 2048mib க்கு மேல் ஆதரிக்காது.
  அதிகபட்ச நினைவக மதிப்பு குறைவாக இருப்பதை உறுதிப்படுத்தவும்.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation>சாவா இயங்கக்கூடியதைக் கண்டறியவும்</translation>
+        <translation type="vanished">சாவா இயங்கக்கூடியதைக் கண்டறியவும்</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு உங்கள் கணினி நினைவக திறனை மீறுகிறது.</translation>
+        <translation type="vanished">உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு உங்கள் கணினி நினைவக திறனை மீறுகிறது.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு உங்கள் கணினி நினைவக திறனை அணுகும்.</translation>
+        <translation type="vanished">உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு உங்கள் கணினி நினைவக திறனை அணுகும்.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு குறைந்தபட்ச மதிப்பை விட சிறியது</translation>
+        <translation type="vanished">உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு குறைந்தபட்ச மதிப்பை விட சிறியது</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -4680,15 +4680,15 @@ Are you sure?</source>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation>சாவா பதிப்பு எதுவும் தேர்ந்தெடுக்கப்படவில்லை</translation>
+        <translation type="vanished">சாவா பதிப்பு எதுவும் தேர்ந்தெடுக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>Download Java</source>
-        <translation>சாவாவைப் பதிவிறக்கவும்</translation>
+        <translation type="vanished">சாவாவைப் பதிவிறக்கவும்</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation>32-பிட் சாவா கண்டறியப்பட்டது</translation>
+        <translation type="vanished">32-பிட் சாவா கண்டறியப்பட்டது</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -4697,7 +4697,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>நீங்கள் சாவாவின் 32 பிட் நிறுவலைத் தேர்ந்தெடுத்தீர்கள், ஆனால் 2048MIB ஐ விட அதிகமாக அதிகபட்ச நினைவகமாக ஒதுக்கப்பட்டீர்கள்.
+        <translation type="vanished">நீங்கள் சாவாவின் 32 பிட் நிறுவலைத் தேர்ந்தெடுத்தீர்கள், ஆனால் 2048MIB ஐ விட அதிகமாக அதிகபட்ச நினைவகமாக ஒதுக்கப்பட்டீர்கள்.
  %1 மின்கிராஃப்ட் தொடங்க முடியாது.
  நீங்கள் தொடர விரும்புகிறீர்களா?
 
@@ -4711,7 +4711,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>நீங்கள் சாவா பதிப்பைத் தேர்ந்தெடுக்கவில்லை அல்லது வேலை செய்யாத ஒன்றைத் தேர்ந்தெடுக்கவில்லை.
+        <translation type="vanished">நீங்கள் சாவா பதிப்பைத் தேர்ந்தெடுக்கவில்லை அல்லது வேலை செய்யாத ஒன்றைத் தேர்ந்தெடுக்கவில்லை.
  %1 மின்கிராஃப்ட் தொடங்க முடியாது.
  சாவாவின் செயல்பாட்டு பதிப்பு இல்லாமல் தொடர விரும்புகிறீர்களா?
 
@@ -4725,7 +4725,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Memory</source>
-        <translation>நினைவகம்</translation>
+        <translation type="vanished">நினைவகம்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="238"/>
@@ -4734,7 +4734,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation>குறைந்தபட்ச நினைவக ஒதுக்கீடு:</translation>
+        <translation type="vanished">குறைந்தபட்ச நினைவக ஒதுக்கீடு:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
@@ -4836,7 +4836,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation>அதிகபட்ச நினைவக ஒதுக்கீடு:</translation>
+        <translation type="vanished">அதிகபட்ச நினைவக ஒதுக்கீடு:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="273"/>
@@ -4875,19 +4875,19 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Browse</source>
-        <translation>உலாவு</translation>
+        <translation type="vanished">உலாவு</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation>ஆட்டோ-டவுன்லோட் மோசாங் சாவா</translation>
+        <translation type="vanished">ஆட்டோ-டவுன்லோட் மோசாங் சாவா</translation>
     </message>
     <message>
         <source>Autodetect Java version</source>
-        <translation>தன்னியக்க சாவா பதிப்பு</translation>
+        <translation type="vanished">தன்னியக்க சாவா பதிப்பு</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation>தன்னியக்க சாவா</translation>
+        <translation type="vanished">தன்னியக்க சாவா</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="268"/>
@@ -4925,15 +4925,15 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு உங்கள் கணினி நினைவக திறனை அணுகும்.</translation>
+        <translation type="vanished">உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு உங்கள் கணினி நினைவக திறனை அணுகும்.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு குறைந்தபட்ச மதிப்பை விட சிறியது</translation>
+        <translation type="vanished">உங்கள் அதிகபட்ச நினைவக ஒதுக்கீடு குறைந்தபட்ச மதிப்பை விட சிறியது</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>சாவாவின் 32-பிட் நிறுவல்களால் ஆதரிக்கப்படும் அதிகபட்ச ஒதுக்கீட்டை நீங்கள் மீறுகிறீர்கள்.</translation>
+        <translation type="vanished">சாவாவின் 32-பிட் நிறுவல்களால் ஆதரிக்கப்படும் அதிகபட்ச ஒதுக்கீட்டை நீங்கள் மீறுகிறீர்கள்.</translation>
     </message>
 </context>
 <context>
@@ -5187,7 +5187,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation>ஆஃப்லைனில் விளையாடுங்கள்</translation>
+        <translation type="vanished">ஆஃப்லைனில் விளையாடுங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="329"/>
@@ -5206,7 +5206,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>கணக்கு இனி சேவையகங்களில் இல்லை. இது இடம்பெயர்ந்திருக்கலாம், இந்த விசயத்தில் நீங்கள் இதை இடம்பெயர்ந்த புதிய கணக்கைச் சேர்க்கவும்.</translation>
+        <translation type="vanished">கணக்கு இனி சேவையகங்களில் இல்லை. இது இடம்பெயர்ந்திருக்கலாம், இந்த விசயத்தில் நீங்கள் இதை இடம்பெயர்ந்த புதிய கணக்கைச் சேர்க்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="342"/>
@@ -5305,7 +5305,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>துவக்கியின் கிளையன்ட் அடையாளம் மாறிவிட்டது. தயவுசெய்து இந்த கணக்கை அகற்றி மீண்டும் சேர்க்கவும்.</translation>
+        <translation type="vanished">துவக்கியின் கிளையன்ட் அடையாளம் மாறிவிட்டது. தயவுசெய்து இந்த கணக்கை அகற்றி மீண்டும் சேர்க்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
@@ -5330,7 +5330,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>கணக்கு காலாவதியானது மற்றும் கைமுறையாக மீண்டும் உள்நுழைய வேண்டும்.</translation>
+        <translation type="vanished">கணக்கு காலாவதியானது மற்றும் கைமுறையாக மீண்டும் உள்நுழைய வேண்டும்.</translation>
     </message>
 </context>
 <context>
@@ -5371,11 +5371,11 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation>நற்பொருத்தங்கள்</translation>
+        <translation type="vanished">நற்பொருத்தங்கள்</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation>அமைப்புகளை புதுப்பிக்கவும்</translation>
+        <translation type="vanished">அமைப்புகளை புதுப்பிக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
@@ -5420,11 +5420,11 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation>பதிவிறக்கங்கள் கோப்புறையை மீண்டும் மீண்டும் சரிபார்க்கவும்</translation>
+        <translation type="vanished">பதிவிறக்கங்கள் கோப்புறையை மீண்டும் மீண்டும் சரிபார்க்கவும்</translation>
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
-        <translation>தானியங்கி மோட் சார்பு நிர்வாகத்தை முடக்கு</translation>
+        <translation type="vanished">தானியங்கி மோட் சார்பு நிர்வாகத்தை முடக்கு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="56"/>
@@ -5433,7 +5433,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation>உதாரணமாக பார்வை வரிசையாக்க பயன்முறை</translation>
+        <translation type="vanished">உதாரணமாக பார்வை வரிசையாக்க பயன்முறை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -5448,23 +5448,23 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Theme</source>
-        <translation>கருப்பொருள்</translation>
+        <translation type="vanished">கருப்பொருள்</translation>
     </message>
     <message>
         <source>Mods</source>
-        <translation>மோட்ச்</translation>
+        <translation type="vanished">மோட்ச்</translation>
     </message>
     <message>
         <source>Update interval</source>
-        <translation>இடைவெளி புதுப்பிக்கவும்</translation>
+        <translation type="vanished">இடைவெளி புதுப்பிக்கவும்</translation>
     </message>
     <message>
         <source>Set it to 0 to only check on launch</source>
-        <translation>துவக்கத்தை மட்டுமே சரிபார்க்க 0 ஆக அமைக்கவும்</translation>
+        <translation type="vanished">துவக்கத்தை மட்டுமே சரிபார்க்க 0 ஆக அமைக்கவும்</translation>
     </message>
     <message>
         <source>h</source>
-        <translation>ம</translation>
+        <translation type="vanished">ம</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
@@ -5596,12 +5596,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>மோட்சுக்கு மோட் வழங்குநர்கள் (மோட்ரின்த் அல்லது சக்ச்போர்ச் போன்றவை) வழங்கிய மெட்டாடேட்டாவைப் பயன்படுத்தி முடக்கு.</translation>
+        <translation type="vanished">மோட்சுக்கு மோட் வழங்குநர்கள் (மோட்ரின்த் அல்லது சக்ச்போர்ச் போன்றவை) வழங்கிய மெட்டாடேட்டாவைப் பயன்படுத்தி முடக்கு.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation>மோட்களுக்கு மெட்டாடேட்டாவைப் பயன்படுத்தி முடக்கு</translation>
+        <translation type="vanished">மோட்களுக்கு மெட்டாடேட்டாவைப் பயன்படுத்தி முடக்கு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -5612,27 +5612,27 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>மோட் சார்புகளை தானியங்கி கண்டறிதல், நிறுவுதல் மற்றும் புதுப்பித்தல் ஆகியவற்றை முடக்கு.</translation>
+        <translation type="vanished">மோட் சார்புகளை தானியங்கி கண்டறிதல், நிறுவுதல் மற்றும் புதுப்பித்தல் ஆகியவற்றை முடக்கு.</translation>
     </message>
     <message>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>புதிய மோட்பேக் நிகழ்வை உருவாக்கும்போது, அதற்கு பதிலாக இருக்கும் நிகழ்வுகளைப் புதுப்பிக்க பரிந்துரைக்க வேண்டாம்.</translation>
+        <translation type="vanished">புதிய மோட்பேக் நிகழ்வை உருவாக்கும்போது, அதற்கு பதிலாக இருக்கும் நிகழ்வுகளைப் புதுப்பிக்க பரிந்துரைக்க வேண்டாம்.</translation>
     </message>
     <message>
         <source>Skip modpack update prompt</source>
-        <translation>மோட்பேக் புதுப்பிப்பு வரியில் தவிர்க்கவும்</translation>
+        <translation type="vanished">மோட்பேக் புதுப்பிப்பு வரியில் தவிர்க்கவும்</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>மற்றவை</translation>
+        <translation type="vanished">மற்றவை</translation>
     </message>
     <message>
         <source>Number of concurrent tasks</source>
-        <translation>ஒரே நேரத்தில் பணிகளின் எண்ணிக்கை</translation>
+        <translation type="vanished">ஒரே நேரத்தில் பணிகளின் எண்ணிக்கை</translation>
     </message>
     <message>
         <source>Number of concurrent downloads</source>
-        <translation>ஒரே நேரத்தில் பதிவிறக்கங்களின் எண்ணிக்கை</translation>
+        <translation type="vanished">ஒரே நேரத்தில் பதிவிறக்கங்களின் எண்ணிக்கை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="574"/>
@@ -5641,7 +5641,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
-        <translation>HTTP கோரிக்கைகளுக்கான நேரம் முடிந்தது</translation>
+        <translation type="vanished">HTTP கோரிக்கைகளுக்கான நேரம் முடிந்தது</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="553"/>
@@ -5650,27 +5650,27 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Number of manual retries</source>
-        <translation>கையேடு முயற்சிகளின் எண்ணிக்கை</translation>
+        <translation type="vanished">கையேடு முயற்சிகளின் எண்ணிக்கை</translation>
     </message>
     <message>
         <source>Cat</source>
-        <translation>பூனை</translation>
+        <translation type="vanished">பூனை</translation>
     </message>
     <message>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>பூனையின் ஒளிபுகாநிலையை அமைக்கவும். 0% முழுமையாக வெளிப்படையானது மற்றும் 100% முழுமையாக ஒளிபுகா.</translation>
+        <translation type="vanished">பூனையின் ஒளிபுகாநிலையை அமைக்கவும். 0% முழுமையாக வெளிப்படையானது மற்றும் 100% முழுமையாக ஒளிபுகா.</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>ஒளிபுகாநிலை</translation>
+        <translation type="vanished">ஒளிபுகாநிலை</translation>
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="vanished">%</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>கருவிகள்</translation>
+        <translation type="vanished">கருவிகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
@@ -5725,27 +5725,27 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Console Settings</source>
-        <translation>கன்சோல் அமைப்புகள்</translation>
+        <translation type="vanished">கன்சோல் அமைப்புகள்</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>விளையாட்டு இயங்கும்போது கன்சோலைக் காட்டு</translation>
+        <translation type="vanished">விளையாட்டு இயங்கும்போது கன்சோலைக் காட்டு</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation>விளையாட்டு வெளியேறும்போது தானாக கன்சோலை மூடு</translation>
+        <translation type="vanished">விளையாட்டு வெளியேறும்போது தானாக கன்சோலை மூடு</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>விளையாட்டு செயலிழக்கும்போது கன்சோலைக் காட்டு</translation>
+        <translation type="vanished">விளையாட்டு செயலிழக்கும்போது கன்சோலைக் காட்டு</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation>&amp; வரலாற்று வரம்பு</translation>
+        <translation type="vanished">&amp; வரலாற்று வரம்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
@@ -5761,7 +5761,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>கன்சோல் &amp; எழுத்துரு</translation>
+        <translation type="vanished">கன்சோல் &amp; எழுத்துரு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
@@ -5825,31 +5825,31 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[சோதனை/பிழை] oooooooooooo! ஒரு பயமுறுத்தும் பிழை!</translation>
+        <translation type="vanished">[சோதனை/பிழை] oooooooooooo! ஒரு பயமுறுத்தும் பிழை!</translation>
     </message>
     <message>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation>[சோதனை/பிழை] ஒரு பயமுறுத்தும் பிழை!</translation>
+        <translation type="vanished">[சோதனை/பிழை] ஒரு பயமுறுத்தும் பிழை!</translation>
     </message>
     <message>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation>[சோதனை/எச்சரிக்கை] அவ்வளவு பயமுறுத்தும் எச்சரிக்கை இல்லை.</translation>
+        <translation type="vanished">[சோதனை/எச்சரிக்கை] அவ்வளவு பயமுறுத்தும் எச்சரிக்கை இல்லை.</translation>
     </message>
     <message>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[சோதனை/பிழைத்திருத்தம்] ஒரு ரகசிய பிழைத்திருத்த செய்தி ...</translation>
+        <translation type="vanished">[சோதனை/பிழைத்திருத்தம்] ஒரு ரகசிய பிழைத்திருத்த செய்தி ...</translation>
     </message>
     <message>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation>[சோதனை/அபாயகரமான] ஒரு திகிலூட்டும் அபாயகரமான பிழை!</translation>
+        <translation type="vanished">[சோதனை/அபாயகரமான] ஒரு திகிலூட்டும் அபாயகரமான பிழை!</translation>
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[சோதனை/தகவல்] பாதிப்பில்லாத செய்தி ...</translation>
+        <translation type="vanished">[சோதனை/தகவல்] பாதிப்பில்லாத செய்தி ...</translation>
     </message>
     <message>
         <source>Launcher</source>
-        <translation>துவக்கி</translation>
+        <translation type="vanished">துவக்கி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -5953,7 +5953,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation>மோட்பேக் கோப்பு %1 ஐ திறக்கத் தவறிவிட்டது!</translation>
+        <translation type="vanished">மோட்பேக் கோப்பு %1 ஐ திறக்கத் தவறிவிட்டது!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -6108,12 +6108,12 @@ Reason:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation>மோட் க்கான குறியீட்டைப் புதுப்பித்தல்:
+        <translation type="vanished">மோட் க்கான குறியீட்டைப் புதுப்பித்தல்:
  %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation>தவறான மேனிலை தரவு</translation>
+        <translation type="vanished">தவறான மேனிலை தரவு</translation>
     </message>
 </context>
 <context>
@@ -6185,7 +6185,7 @@ Reason:
     </message>
     <message>
         <source>Search:</source>
-        <translation>தேடல்:</translation>
+        <translation type="vanished">தேடல்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
@@ -6282,7 +6282,7 @@ Reason:
     </message>
     <message>
         <source>Could not create:</source>
-        <translation>உருவாக்க முடியவில்லை:</translation>
+        <translation type="vanished">உருவாக்க முடியவில்லை:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
@@ -6299,7 +6299,7 @@ Reason:
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation>வழங்கப்பட்ட சிப் கோப்பைத் திறக்க முடியவில்லை.</translation>
+        <translation type="vanished">வழங்கப்பட்ட சிப் கோப்பைத் திறக்க முடியவில்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
@@ -6318,7 +6318,7 @@ Reason:
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
-        <translation>ZIP இல் முதல் கோப்பைத் தேடுவதில் தோல்வி</translation>
+        <translation type="vanished">ZIP இல் முதல் கோப்பைத் தேடுவதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
@@ -6332,7 +6332,7 @@ Reason:
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>%1 க்கான அனுமதிகளை சரிசெய்ய முடியவில்லை</translation>
+        <translation type="vanished">%1 க்கான அனுமதிகளை சரிசெய்ய முடியவில்லை</translation>
     </message>
 </context>
 <context>
@@ -6429,11 +6429,11 @@ Reason:
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>%1 ஐத் திறந்து அல்லது QR ஐ ச்கேன் செய்து மேலே உள்ள குறியீட்டை உள்ளிடவும்.</translation>
+        <translation type="vanished">%1 ஐத் திறந்து அல்லது QR ஐ ச்கேன் செய்து மேலே உள்ள குறியீட்டை உள்ளிடவும்.</translation>
     </message>
     <message>
         <source>Open %1 and enter the above code.</source>
-        <translation>%1 ஐத் திறந்து மேலே உள்ள குறியீட்டை உள்ளிடவும்.</translation>
+        <translation type="vanished">%1 ஐத் திறந்து மேலே உள்ள குறியீட்டை உள்ளிடவும்.</translation>
     </message>
 </context>
 <context>
@@ -6960,7 +6960,7 @@ Reason:
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>தேர்ந்தெடுக்கப்பட்ட நிகழ்வைத் தொடங்க உங்கள் டெச்க்டாப்பில் குறுக்குவழியை உருவாக்குகிறது.</translation>
+        <translation type="vanished">தேர்ந்தெடுக்கப்பட்ட நிகழ்வைத் தொடங்க உங்கள் டெச்க்டாப்பில் குறுக்குவழியை உருவாக்குகிறது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="379"/>
@@ -7158,14 +7158,14 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>நீங்கள் &quot;%1&quot; ஐ நீக்க உள்ளீர்கள்.
+        <translation type="vanished">நீங்கள் &quot;%1&quot; ஐ நீக்க உள்ளீர்கள்.
  இது நிரந்தரமாக இருக்கலாம் மற்றும் உதாரணத்தை முற்றிலுமாக நீக்கும்.
 
  நீங்கள் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation>இணைக்கப்பட்ட நிகழ்வுகள் உள்ளன</translation>
+        <translation type="vanished">இணைக்கப்பட்ட நிகழ்வுகள் உள்ளன</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -7175,7 +7175,7 @@ Are you sure?</oldsource>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>பின்வரும் நிகழ்வு இந்த நிகழ்வில் கோப்புகளைக் குறிப்பிடலாம்:
 
  %1
@@ -7194,43 +7194,43 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation>நிகழ்வு குறுக்குவழியை உருவாக்கவும்</translation>
+        <translation type="vanished">நிகழ்வு குறுக்குவழியை உருவாக்கவும்</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation>டெச்க்டாப்பைக் கண்டுபிடிக்க முடியவில்லையா?!</translation>
+        <translation type="vanished">டெச்க்டாப்பைக் கண்டுபிடிக்க முடியவில்லையா?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>துவக்கி அது பிரித்தெடுக்கப்பட்ட கோப்புறையில் உள்ளது, எனவே இது குறுக்குவழிகளை உருவாக்க முடியாது.</translation>
+        <translation type="vanished">துவக்கி அது பிரித்தெடுக்கப்பட்ட கோப்புறையில் உள்ளது, எனவே இது குறுக்குவழிகளை உருவாக்க முடியாது.</translation>
     </message>
     <message>
         <source>Create instance Application</source>
-        <translation>நிகழ்வு பயன்பாட்டை உருவாக்கவும்</translation>
+        <translation type="vanished">நிகழ்வு பயன்பாட்டை உருவாக்கவும்</translation>
     </message>
     <message>
         <source>Failed to create icon for Application.</source>
-        <translation>பயன்பாட்டிற்கான ஐகானை உருவாக்குவதில் தோல்வி.</translation>
+        <translation type="vanished">பயன்பாட்டிற்கான ஐகானை உருவாக்குவதில் தோல்வி.</translation>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation>டெச்க்டாப் உள்ளீடுகள்</translation>
+        <translation type="vanished">டெச்க்டாப் உள்ளீடுகள்</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>உங்கள் டெச்க்டாப்பில் இந்த நிகழ்வுக்கு குறுக்குவழியை உருவாக்கியது!</translation>
+        <translation type="vanished">உங்கள் டெச்க்டாப்பில் இந்த நிகழ்வுக்கு குறுக்குவழியை உருவாக்கியது!</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance!</source>
-        <translation>இந்த நிகழ்வுக்கு ஒரு குறுக்குவழியை உருவாக்கியது!</translation>
+        <translation type="vanished">இந்த நிகழ்வுக்கு ஒரு குறுக்குவழியை உருவாக்கியது!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation>நிகழ்வு குறுக்குவழியை உருவாக்குவதில் தோல்வி!</translation>
+        <translation type="vanished">நிகழ்வு குறுக்குவழியை உருவாக்குவதில் தோல்வி!</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>துவக்கி தவறாக கட்டமைக்கப்பட்ட பயன்பாடாக இயங்குகிறதா? ($ அபிமேச் சூழல் மாறி இல்லை)</translation>
+        <translation type="vanished">துவக்கி தவறாக கட்டமைக்கப்பட்ட பயன்பாடாக இயங்குகிறதா? ($ அபிமேச் சூழல் மாறி இல்லை)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -7280,11 +7280,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation>குறுக்குவழிக்கு ஐகானை உருவாக்குவதில் தோல்வி.</translation>
+        <translation type="vanished">குறுக்குவழிக்கு ஐகானை உருவாக்குவதில் தோல்வி.</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation>உங்கள் மேடையில் ஆதரிக்கப்படவில்லை!</translation>
+        <translation type="vanished">உங்கள் மேடையில் ஆதரிக்கப்படவில்லை!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
@@ -7328,7 +7328,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>More news...</source>
-        <translation>மேலும் செய்தி ...</translation>
+        <translation type="vanished">மேலும் செய்தி ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -7355,11 +7355,11 @@ Are you sure?</source>
     <name>ManagedPackPage</name>
     <message>
         <source>Pack information</source>
-        <translation>தகவல்களை பொதி செய்யுங்கள்</translation>
+        <translation type="vanished">தகவல்களை பொதி செய்யுங்கள்</translation>
     </message>
     <message>
         <source>Pack name:</source>
-        <translation>பேக் பெயர்:</translation>
+        <translation type="vanished">பேக் பெயர்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
@@ -7398,7 +7398,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Update from file</source>
-        <translation>கோப்பிலிருந்து புதுப்பிக்கவும்</translation>
+        <translation type="vanished">கோப்பிலிருந்து புதுப்பிக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -7461,7 +7461,7 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Update pack</source>
-        <translation>புதுப்பிப்பு பேக்</translation>
+        <translation type="vanished">புதுப்பிப்பு பேக்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
@@ -7629,12 +7629,12 @@ This can be updated only using a file in %1 format
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation>விண்டர் அளவு</translation>
+        <translation type="vanished">விண்டர் அளவு</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation>Minecraft &amp; அதிகபட்சம் தொடங்கவும்</translation>
+        <translation type="vanished">Minecraft &amp; அதிகபட்சம் தொடங்கவும்</translation>
     </message>
     <message>
         <source>On newer versions the game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
@@ -7647,124 +7647,124 @@ This can be updated only using a file in %1 format
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation>சாளரம் &amp; உயரம்:</translation>
+        <translation type="vanished">சாளரம் &amp; உயரம்:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation>சாளரம் &amp; அகலம்:</translation>
+        <translation type="vanished">சாளரம் &amp; அகலம்:</translation>
     </message>
     <message>
         <source>Show time spent playing in hours</source>
-        <translation>மணிநேரத்தில் விளையாடுவதற்கு நேரத்தைக் காட்டு</translation>
+        <translation type="vanished">மணிநேரத்தில் விளையாடுவதற்கு நேரத்தைக் காட்டு</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation>மாற்றங்கள்</translation>
+        <translation type="vanished">மாற்றங்கள்</translation>
     </message>
     <message>
         <source>Legacy settings</source>
-        <translation>மரபு அமைப்புகள்</translation>
+        <translation type="vanished">மரபு அமைப்புகள்</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; இனி இயங்காத பழைய நிகழ்நிலை சேவைகளின் பயன்பாடுகளைப் பின்பற்றுகிறது. &lt;/p&gt; &lt;p&gt; தற்போதைய திருத்தங்கள் பின்வருமாறு: தோல் மற்றும் நிகழ்நிலை பயன்முறை உதவி. &lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; இனி இயங்காத பழைய நிகழ்நிலை சேவைகளின் பயன்பாடுகளைப் பின்பற்றுகிறது. &lt;/p&gt; &lt;p&gt; தற்போதைய திருத்தங்கள் பின்வருமாறு: தோல் மற்றும் நிகழ்நிலை பயன்முறை உதவி. &lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation>நிகழ்நிலை திருத்தங்களை இயக்கவும் (சோதனை)</translation>
+        <translation type="vanished">நிகழ்நிலை திருத்தங்களை இயக்கவும் (சோதனை)</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation>சொந்த நூலகப் பணிகள்</translation>
+        <translation type="vanished">சொந்த நூலகப் பணிகள்</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>&amp; Glfw இன் கணினி நிறுவலைப் பயன்படுத்தவும்</translation>
+        <translation type="vanished">&amp; Glfw இன் கணினி நிறுவலைப் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
-        <translation>&amp; GLFW நூலக பாதை</translation>
+        <translation type="vanished">&amp; GLFW நூலக பாதை</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>&amp; Openal இன் கணினி நிறுவலைப் பயன்படுத்தவும்</translation>
+        <translation type="vanished">&amp; Openal இன் கணினி நிறுவலைப் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
-        <translation>&amp; திறந்த நூலக பாதை</translation>
+        <translation type="vanished">&amp; திறந்த நூலக பாதை</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation>செயல்திறன்</translation>
+        <translation type="vanished">செயல்திறன்</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; கேமிங் செயல்திறனை மேம்படுத்த, ஃபெரல் இன்டராக்டிவ் கேம்மோடை இயக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; கேமிங் செயல்திறனை மேம்படுத்த, ஃபெரல் இன்டராக்டிவ் கேம்மோடை இயக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation>ஃபெரல் கேம்மோடை இயக்கவும்</translation>
+        <translation type="vanished">ஃபெரல் கேம்மோடை இயக்கவும்</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; மங்கோஊட்டின் மேம்பட்ட செயல்திறன் மேலடுக்கை இயக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; மங்கோஊட்டின் மேம்பட்ட செயல்திறன் மேலடுக்கை இயக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation>மங்கோஊட்டை இயக்கவும்</translation>
+        <translation type="vanished">மங்கோஊட்டை இயக்கவும்</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; முதன்மை GPU க்கு பதிலாக தனித்துவமான GPU ஐப் பயன்படுத்தவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; முதன்மை GPU க்கு பதிலாக தனித்துவமான GPU ஐப் பயன்படுத்தவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation>தனித்துவமான GPU ஐப் பயன்படுத்தவும்</translation>
+        <translation type="vanished">தனித்துவமான GPU ஐப் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; வல்கனின் மேல் ஓபன்ச்லை செயல்படுத்தும் மெசா ஓபன்சிஎல் இயக்கி சின்க் பயன்படுத்தவும். நிலைமையைப் பொறுத்து செயல்திறன் மாறுபடலாம். குறிப்பு: பொருத்தமான வல்கன் டிரைவர் எதுவும் காணப்படவில்லை என்றால், மென்பொருள் வழங்குதல் பயன்படுத்தப்படும். &lt;/P&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; வல்கனின் மேல் ஓபன்ச்லை செயல்படுத்தும் மெசா ஓபன்சிஎல் இயக்கி சின்க் பயன்படுத்தவும். நிலைமையைப் பொறுத்து செயல்திறன் மாறுபடலாம். குறிப்பு: பொருத்தமான வல்கன் டிரைவர் எதுவும் காணப்படவில்லை என்றால், மென்பொருள் வழங்குதல் பயன்படுத்தப்படும். &lt;/P&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation>சின்க் பயன்படுத்தவும்</translation>
+        <translation type="vanished">சின்க் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation>விளையாட்டு நேரம்</translation>
+        <translation type="vanished">விளையாட்டு நேரம்</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>பொது</translation>
+        <translation type="vanished">பொது</translation>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>செலவழித்த நேரத்தைக் காட்டு மற்றும் நிகழ்வுகளை விளையாடுங்கள்</translation>
+        <translation type="vanished">செலவழித்த நேரத்தைக் காட்டு மற்றும் நிகழ்வுகளை விளையாடுங்கள்</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>எல்லா நிகழ்வுகளிலும் விளையாடுவதற்கான நேரத்தைக் காட்டு</translation>
+        <translation type="vanished">எல்லா நிகழ்வுகளிலும் விளையாடுவதற்கான நேரத்தைக் காட்டு</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>&amp; பதிவு நேரம் விளையாடியது</translation>
+        <translation type="vanished">&amp; பதிவு நேரம் விளையாடியது</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; விளையாட்டு வெளியே அல்லது செயலிழந்த பிறகு துவக்கி தானாகவே வெளியேறும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; விளையாட்டு வெளியே அல்லது செயலிழந்த பிறகு துவக்கி தானாகவே வெளியேறும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>விளையாட்டு சாளரம் முடிந்ததும் துவக்கத்தை விட்டு வெளியேறவும்</translation>
+        <translation type="vanished">விளையாட்டு சாளரம் முடிந்ததும் துவக்கத்தை விட்டு வெளியேறவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
@@ -7773,33 +7773,33 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>மற்றவை</translation>
+        <translation type="vanished">மற்றவை</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; விளையாட்டு செயலிழக்கும்போது அல்லது வெளியேறும்போது துவக்கி தானாகவே மீண்டும் திறக்கப்படும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; விளையாட்டு செயலிழக்கும்போது அல்லது வெளியேறும்போது துவக்கி தானாகவே மீண்டும் திறக்கப்படும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>விளையாட்டு சாளரம் திறந்த பிறகு துவக்கத்தை மூடு</translation>
+        <translation type="vanished">விளையாட்டு சாளரம் திறந்த பிறகு துவக்கத்தை மூடு</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation>%1 நூலகக் கோப்புக்கான பாதை</translation>
+        <translation type="vanished">%1 நூலகக் கோப்புக்கான பாதை</translation>
     </message>
     <message>
         <source>Auto detected path: %1</source>
-        <translation>ஆட்டோ கண்டறியப்பட்ட பாதை: %1</translation>
+        <translation type="vanished">ஆட்டோ கண்டறியப்பட்ட பாதை: %1</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>ஃபெரல் இன்டராக்டிவ் கேம்மோடை உங்கள் கணினியில் காண முடியவில்லை.</translation>
+        <translation type="vanished">ஃபெரல் இன்டராக்டிவ் கேம்மோடை உங்கள் கணினியில் காண முடியவில்லை.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation>உங்கள் கணினியில் மங்கோஊட்டை கண்டுபிடிக்க முடியவில்லை.</translation>
+        <translation type="vanished">உங்கள் கணினியில் மங்கோஊட்டை கண்டுபிடிக்க முடியவில்லை.</translation>
     </message>
 </context>
 <context>
@@ -8476,11 +8476,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation>தெரியவில்லை</translation>
+        <translation type="vanished">தெரியவில்லை</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation>மோட் எங்கிருந்து பதிவிறக்கம் செய்யப்பட்டது.</translation>
+        <translation type="vanished">மோட் எங்கிருந்து பதிவிறக்கம் செய்யப்பட்டது.</translation>
     </message>
 </context>
 <context>
@@ -8524,7 +8524,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation>முதலில் மோட் ஏற்றி நிறுவவும்!</translation>
+        <translation type="vanished">முதலில் மோட் ஏற்றி நிறுவவும்!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -8650,55 +8650,55 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download mods</source>
-        <translation>மோட்சைப் பதிவிறக்கவும்</translation>
+        <translation type="vanished">மோட்சைப் பதிவிறக்கவும்</translation>
     </message>
     <message>
         <source>Add file</source>
-        <translation>கோப்பைச் சேர்க்கவும்</translation>
+        <translation type="vanished">கோப்பைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation>உள்நாட்டில் பதிவிறக்கம் செய்யப்பட்ட கோப்பைச் சேர்க்கவும்</translation>
+        <translation type="vanished">உள்நாட்டில் பதிவிறக்கம் செய்யப்பட்ட கோப்பைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation>சார்புகளை சரிபார்க்கவும்</translation>
+        <translation type="vanished">சார்புகளை சரிபார்க்கவும்</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>தேர்ந்தெடுக்கப்பட்ட அனைத்து மோட்சையும் புதுப்பிக்கவும் சரிபார்க்கவும் முயற்சிக்கவும் (எதுவும் தேர்ந்தெடுக்கப்படாவிட்டால் அனைத்து மோட்களும்)</translation>
+        <translation type="vanished">தேர்ந்தெடுக்கப்பட்ட அனைத்து மோட்சையும் புதுப்பிக்கவும் சரிபார்க்கவும் முயற்சிக்கவும் (எதுவும் தேர்ந்தெடுக்கப்படாவிட்டால் அனைத்து மோட்களும்)</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation>புதுப்பிப்பு மெட்டாடேட்டாவை மீட்டமைக்கவும்</translation>
+        <translation type="vanished">புதுப்பிப்பு மெட்டாடேட்டாவை மீட்டமைக்கவும்</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation>மோடின் மெட்டாடேட்டாவை அகற்று</translation>
+        <translation type="vanished">மோடின் மெட்டாடேட்டாவை அகற்று</translation>
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation>மோடின் முகப்பு பக்கத்திற்குச் செல்லுங்கள்</translation>
+        <translation type="vanished">மோடின் முகப்பு பக்கத்திற்குச் செல்லுங்கள்</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>பதிப்பை மாற்றவும்</translation>
+        <translation type="vanished">பதிப்பை மாற்றவும்</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation>மோட் பதிப்பை மாற்றவும்</translation>
+        <translation type="vanished">மோட் பதிப்பை மாற்றவும்</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation>மோட் பக்கத்தைப் பார்வையிடவும்</translation>
+        <translation type="vanished">மோட் பக்கத்தைப் பார்வையிடவும்</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation>மோட்சின் பக்கங்களைப் பார்வையிடவும்</translation>
+        <translation type="vanished">மோட்சின் பக்கங்களைப் பார்வையிடவும்</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation>தேர்ந்தெடுக்கப்பட்ட மோட்சின் பக்கங்களுக்குச் செல்லுங்கள்</translation>
+        <translation type="vanished">தேர்ந்தெடுக்கப்பட்ட மோட்சின் பக்கங்களுக்குச் செல்லுங்கள்</translation>
     </message>
 </context>
 <context>
@@ -8723,124 +8723,124 @@ Are you sure?</source>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation>புதுப்பிக்க மோட்சை உறுதிப்படுத்தவும்</translation>
+        <translation type="vanished">புதுப்பிக்க மோட்சை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>பின்வரும் மோட்சைப் புதுப்பிக்கப் போகிறீர்கள்:</translation>
+        <translation type="vanished">பின்வரும் மோட்சைப் புதுப்பிக்கப் போகிறீர்கள்:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation>காசோலை கொண்ட மோட்ச் மட்டுமே புதுப்பிக்கப்படும்!</translation>
+        <translation type="vanished">காசோலை கொண்ட மோட்ச் மட்டுமே புதுப்பிக்கப்படும்!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>மோட் பெயர்: %1 &lt;br&gt; கோப்பு பெயர்: %2 &lt;br&gt; காரணம்: %3 &lt;br&gt; &lt;br&gt;</translation>
+        <translation type="vanished">மோட் பெயர்: %1 &lt;br&gt; கோப்பு பெயர்: %2 &lt;br&gt; காரணம்: %3 &lt;br&gt; &lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation>மேனிலை தரவு தலைமுறை தோல்வியடைந்தது</translation>
+        <translation type="vanished">மேனிலை தரவு தலைமுறை தோல்வியடைந்தது</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>பின்வரும் மோட்களுக்கு மெட்டாடேட்டாவை உருவாக்க முடியவில்லை: &lt;br&gt; அந்த மோட்ச் இல்லாமல் தொடர விரும்புகிறீர்களா?</translation>
+        <translation type="vanished">பின்வரும் மோட்களுக்கு மெட்டாடேட்டாவை உருவாக்க முடியவில்லை: &lt;br&gt; அந்த மோட்ச் இல்லாமல் தொடர விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation>புதுப்பிப்புகளைச் சரிபார்க்கிறது</translation>
+        <translation type="vanished">புதுப்பிப்புகளைச் சரிபார்க்கிறது</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>பிழை</translation>
+        <translation type="vanished">பிழை</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation>எச்சரிக்கைகள்</translation>
+        <translation type="vanished">எச்சரிக்கைகள்</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>கருக்கலைப்பு</translation>
+        <translation type="vanished">கருக்கலைப்பு</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation>புதுப்பிப்புகளைச் சரிபார்க்கிறது ...</translation>
+        <translation type="vanished">புதுப்பிப்புகளைச் சரிபார்க்கிறது ...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation>மோட் பெயர்: %1</translation>
+        <translation type="vanished">மோட் பெயர்: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation>காரணம்: %1</translation>
+        <translation type="vanished">காரணம்: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation>சாத்தியமான தீர்வு: அண்மைக் கால பதிப்பை கைமுறையாகப் பெறுதல்: &lt;br&gt;%1 &lt;br&gt;</translation>
+        <translation type="vanished">சாத்தியமான தீர்வு: அண்மைக் கால பதிப்பை கைமுறையாகப் பெறுதல்: &lt;br&gt;%1 &lt;br&gt;</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation>புதுப்பிப்புகளை சரிபார்க்கத் தவறிவிட்டது</translation>
+        <translation type="vanished">புதுப்பிப்புகளை சரிபார்க்கத் தவறிவிட்டது</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>புதுப்பிப்புகளுக்கு பின்வரும் மோட்களை சரிபார்க்கவோ பெறவோ முடியவில்லை: &lt;br&gt; அந்த மோட்ச் இல்லாமல் தொடர விரும்புகிறீர்களா?</translation>
+        <translation type="vanished">புதுப்பிப்புகளுக்கு பின்வரும் மோட்களை சரிபார்க்கவோ பெறவோ முடியவில்லை: &lt;br&gt; அந்த மோட்ச் இல்லாமல் தொடர விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation>சார்புகளைச் சரிபார்க்கிறது ...</translation>
+        <translation type="vanished">சார்புகளைச் சரிபார்க்கிறது ...</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation>மெட்டாடேட்டாவைத் தேடுகிறது</translation>
+        <translation type="vanished">மெட்டாடேட்டாவைத் தேடுகிறது</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>மோட் &apos;%1&apos; இன்னும் மேனிலை தரவு இல்லை. இந்த மோட் எவ்வாறு புதுப்பிப்பது என்பது குறித்த பொருத்தமான தகவல்களைக் கண்காணிக்க நாங்கள் அதை உருவாக்க வேண்டும். இதைச் செய்ய, தயவுசெய்து இந்த மோடிற்கான புதுப்பிப்புகளைச் சரிபார்க்க நாங்கள் பயன்படுத்தக்கூடிய மோட் வழங்குநரைத் தேர்ந்தெடுக்கவும்.</translation>
+        <translation type="vanished">மோட் &apos;%1&apos; இன்னும் மேனிலை தரவு இல்லை. இந்த மோட் எவ்வாறு புதுப்பிப்பது என்பது குறித்த பொருத்தமான தகவல்களைக் கண்காணிக்க நாங்கள் அதை உருவாக்க வேண்டும். இதைச் செய்ய, தயவுசெய்து இந்த மோடிற்கான புதுப்பிப்புகளைச் சரிபார்க்க நாங்கள் பயன்படுத்தக்கூடிய மோட் வழங்குநரைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation>மெட்டாடேட்டாவை உருவாக்குதல் ...</translation>
+        <translation type="vanished">மெட்டாடேட்டாவை உருவாக்குதல் ...</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>தேர்ந்தெடுக்கப்பட்ட மோட் வழங்குநர் (கள்) இல் செல்லுபடியாகும் பதிப்பைக் கண்டுபிடிக்க முடியவில்லை</translation>
+        <translation type="vanished">தேர்ந்தெடுக்கப்பட்ட மோட் வழங்குநர் (கள்) இல் செல்லுபடியாகும் பதிப்பைக் கண்டுபிடிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation>மோட் ஏற்கனவே நிறுவப்பட்டிருப்பதால் முடக்கப்பட்டது.</translation>
+        <translation type="vanished">மோட் ஏற்கனவே நிறுவப்பட்டிருப்பதால் முடக்கப்பட்டது.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation>வழங்குநர்: %1</translation>
+        <translation type="vanished">வழங்குநர்: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation>பழைய பதிப்பு: %1</translation>
+        <translation type="vanished">பழைய பதிப்பு: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation>நிறுவப்படவில்லை</translation>
+        <translation type="vanished">நிறுவப்படவில்லை</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation>புதிய பதிப்பு: %1</translation>
+        <translation type="vanished">புதிய பதிப்பு: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation>புதிய பதிப்பு வகை: %1</translation>
+        <translation type="vanished">புதிய பதிப்பு வகை: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation>தேவை: %1</translation>
+        <translation type="vanished">தேவை: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation>வழங்கியவர்:</translation>
+        <translation type="vanished">வழங்கியவர்:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation>அண்மைக் கால பதிப்பின் சேஞ்ச்லாக்</translation>
+        <translation type="vanished">அண்மைக் கால பதிப்பின் சேஞ்ச்லாக்</translation>
     </message>
 </context>
 <context>
@@ -8904,11 +8904,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation>மோட்ரின்ட்டுக்கு மோட்சைத் தயாரித்தல் ...</translation>
+        <translation type="vanished">மோட்ரின்ட்டுக்கு மோட்சைத் தயாரித்தல் ...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>இந்த மோடுக்கு செல்லுபடியாகும் பதிப்பு எதுவும் கிடைக்கவில்லை. தற்போதைய விளையாட்டு பதிப்பு / மோட் ஏற்றிக்கு இது கிடைக்கவில்லை.</translation>
+        <translation type="vanished">இந்த மோடுக்கு செல்லுபடியாகும் பதிப்பு எதுவும் கிடைக்கவில்லை. தற்போதைய விளையாட்டு பதிப்பு / மோட் ஏற்றிக்கு இது கிடைக்கவில்லை.</translation>
     </message>
 </context>
 <context>
@@ -9335,27 +9335,27 @@ Please update %1!</source>
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation>கணக்கைச் சேர்க்கவும்</translation>
+        <translation type="vanished">கணக்கைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>பயனர்பெயர்</translation>
+        <translation type="vanished">பயனர்பெயர்</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>லேன் கேம்கள் அல்லது ஆஃப்லைன்-பயன் சேவையகங்களுக்கு 16 எழுத்துகளுக்கு மேல் உள்ள பயனர்பெயர்கள் பயன்படுத்த முடியாது.</translation>
+        <translation type="vanished">லேன் கேம்கள் அல்லது ஆஃப்லைன்-பயன் சேவையகங்களுக்கு 16 எழுத்துகளுக்கு மேல் உள்ள பயனர்பெயர்கள் பயன்படுத்த முடியாது.</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation>நீண்ட பயனர்பெயர்களை அனுமதிக்கவும்</translation>
+        <translation type="vanished">நீண்ட பயனர்பெயர்களை அனுமதிக்கவும்</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ரத்துசெய்</translation>
+        <translation type="vanished">ரத்துசெய்</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>சரி</translation>
+        <translation type="vanished">சரி</translation>
     </message>
 </context>
 <context>
@@ -9395,7 +9395,7 @@ Please update %1!</source>
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation>கண்டுபிடி</translation>
+        <translation type="vanished">கண்டுபிடி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -9484,31 +9484,31 @@ Please update %1!</source>
     </message>
     <message>
         <source>Clear the log</source>
-        <translation>பதிவை அழிக்கவும்</translation>
+        <translation type="vanished">பதிவை அழிக்கவும்</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>நீக்கு</translation>
+        <translation type="vanished">நீக்கு</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation>விருப்பங்களில் கட்டமைக்கப்பட்ட பேச்ட் சேவையில் பதிவைப் பதிவேற்றவும்.</translation>
+        <translation type="vanished">விருப்பங்களில் கட்டமைக்கப்பட்ட பேச்ட் சேவையில் பதிவைப் பதிவேற்றவும்.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>பதிவேற்றும்</translation>
+        <translation type="vanished">பதிவேற்றும்</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation>தூய்மையான</translation>
+        <translation type="vanished">தூய்மையான</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>ஏற்றவும்</translation>
+        <translation type="vanished">ஏற்றவும்</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation>தேடல்:</translation>
+        <translation type="vanished">தேடல்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
@@ -9529,7 +9529,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation>கோப்பு (%1) படிக்க முடியாது.</translation>
+        <translation type="vanished">கோப்பு (%1) படிக்க முடியாது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="379"/>
@@ -9594,7 +9594,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Other logs</source>
-        <translation>பிற பதிவுகள்</translation>
+        <translation type="vanished">பிற பதிவுகள்</translation>
     </message>
 </context>
 <context>
@@ -9619,7 +9619,7 @@ Are you sure?</source>
     <name>PageDialog</name>
     <message>
         <source>Close</source>
-        <translation>மூடு</translation>
+        <translation type="vanished">மூடு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
@@ -9641,28 +9641,28 @@ Are you sure?</source>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation>%1 க்கு பதிவேற்றுகிறது</translation>
+        <translation type="vanished">%1 க்கு பதிவேற்றுகிறது</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation>பிணைய பிழை: %1</translation>
+        <translation type="vanished">பிணைய பிழை: %1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation>பிழை: %1 எதிர்பாராத நிலைக் குறியீடு %2 %3 திரும்பியது</translation>
+        <translation type="vanished">பிழை: %1 எதிர்பாராத நிலைக் குறியீடு %2 %3 திரும்பியது</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>பிழை: %1 ஒரு தவறான மறுமொழி உடலை வழங்கியது</translation>
+        <translation type="vanished">பிழை: %1 ஒரு தவறான மறுமொழி உடலை வழங்கியது</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation>பிழை: %1 ஒரு பிழையை அளித்தது: %2</translation>
+        <translation type="vanished">பிழை: %1 ஒரு பிழையை அளித்தது: %2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation>பிழை: %1 பிழைக் குறியீட்டைத் திருப்பியது: %2
+        <translation type="vanished">பிழை: %1 பிழைக் குறியீட்டைத் திருப்பியது: %2
  பிழை செய்தி: %3</translation>
     </message>
 </context>
@@ -10329,7 +10329,7 @@ HTTP நிலை: %2</translation>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation>சேவையகம் பின்வரும் பிழையை வழங்கியது:</translation>
+        <translation type="vanished">சேவையகம் பின்வரும் பிழையை வழங்கியது:</translation>
     </message>
 </context>
 <context>
@@ -10382,7 +10382,7 @@ HTTP நிலை: %2</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation>&amp; இயல்புநிலை</translation>
+        <translation type="vanished">&amp; இயல்புநிலை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -10484,7 +10484,7 @@ HTTP நிலை: %2</translation>
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation>JVisualvm க்கு தவறான பாதை</translation>
+        <translation type="vanished">JVisualvm க்கு தவறான பாதை</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="78"/>
@@ -10639,18 +10639,18 @@ HTTP நிலை: %2</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation>வலைத்தளம்</translation>
+        <translation type="vanished">வலைத்தளம்</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation>%1 உருவாக்குபவர்கள்</translation>
+        <translation type="vanished">%1 உருவாக்குபவர்கள்</translation>
     </message>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation>நன்றி</translation>
+        <translation type="vanished">நன்றி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="140"/>
@@ -10711,7 +10711,7 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation>பதிவேற்றம் தோல்வியடைந்தது</translation>
+        <translation type="vanished">பதிவேற்றம் தோல்வியடைந்தது</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
@@ -10870,7 +10870,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>குறிப்பிட்ட சாவா பைனரி வேலை செய்யவில்லை. &lt;Br /&gt; நீங்கள் தானாக கண்டறியும் அம்சத்தைப் பயன்படுத்த வேண்டும், அல்லது சாவா இயங்கக்கூடிய பாதையை அமைக்க வேண்டும். &lt;br /&gt;</translation>
+        <translation type="vanished">குறிப்பிட்ட சாவா பைனரி வேலை செய்யவில்லை. &lt;Br /&gt; நீங்கள் தானாக கண்டறியும் அம்சத்தைப் பயன்படுத்த வேண்டும், அல்லது சாவா இயங்கக்கூடிய பாதையை அமைக்க வேண்டும். &lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
@@ -10880,7 +10880,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     </message>
     <message>
         <source>No author(s)</source>
-        <translation>எழுத்தாளர் (கள்) இல்லை</translation>
+        <translation type="vanished">எழுத்தாளர் (கள்) இல்லை</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
@@ -11051,7 +11051,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation>%1 க்கான அனுமதிகளை சரிசெய்ய முடியவில்லை</translation>
+        <translation type="vanished">%1 க்கான அனுமதிகளை சரிசெய்ய முடியவில்லை</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -11458,7 +11458,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation>%1 பதிப்பை மாற்றவும்</translation>
+        <translation type="vanished">%1 பதிப்பை மாற்றவும்</translation>
     </message>
 </context>
 <context>
@@ -11872,13 +11872,11 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="564"/>
         <source>The name of the resource.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>வளத்தின் பெயர்.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="566"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>இந்த சான்று கடைசியாக மாற்றப்பட்டது (அல்லது சேர்க்கப்பட்டது).</translation>
     </message>
     <message>
@@ -11994,14 +11992,14 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>வள பேக் இயக்கப்பட்டதா? (சிப்சுக்கு மட்டுமே செல்லுபடியாகும்)</translation>
+        <translation type="vanished">வள பேக் இயக்கப்பட்டதா? (சிப்சுக்கு மட்டுமே செல்லுபடியாகும்)</translation>
     </message>
 </context>
 <context>
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation>வள பொதிகள்</translation>
+        <translation type="vanished">வள பொதிகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -12115,11 +12113,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download packs</source>
-        <translation>பொதிகளைப் பதிவிறக்கவும்</translation>
+        <translation type="vanished">பொதிகளைப் பதிவிறக்கவும்</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>நிகழ்நிலை தளங்களிலிருந்து வள பொதிகளைப் பதிவிறக்கவும்</translation>
+        <translation type="vanished">நிகழ்நிலை தளங்களிலிருந்து வள பொதிகளைப் பதிவிறக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
@@ -12332,11 +12330,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation>இந்த பதிவிறக்கம் வைக்கப்படும்: %1</translation>
+        <translation type="vanished">இந்த பதிவிறக்கம் வைக்கப்படும்: %1</translation>
     </message>
     <message>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>இந்த கோப்பு இயல்புநிலையிலிருந்து வேறுபட்ட ஒரு கோப்புறை இருப்பிடத்திற்கு பதிவிறக்கம் செய்யப்படும், அதன் ஏற்றி தேவைப்படும் காரணமாக இருக்கலாம்.</translation>
+        <translation type="vanished">இந்த கோப்பு இயல்புநிலையிலிருந்து வேறுபட்ட ஒரு கோப்புறை இருப்பிடத்திற்கு பதிவிறக்கம் செய்யப்படும், அதன் ஏற்றி தேவைப்படும் காரணமாக இருக்கலாம்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
@@ -12623,7 +12621,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Latency</source>
-        <translation>சுணக்கம்</translation>
+        <translation type="vanished">சுணக்கம்</translation>
     </message>
 </context>
 <context>
@@ -12752,7 +12750,7 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation>சேடர் பொதிகள்</translation>
+        <translation type="vanished">சேடர் பொதிகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -12866,11 +12864,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation>சேடர்களைப் பதிவிறக்கவும்</translation>
+        <translation type="vanished">சேடர்களைப் பதிவிறக்கவும்</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation>நிகழ்நிலை தளங்களிலிருந்து சேடர்களை பதிவிறக்கவும்</translation>
+        <translation type="vanished">நிகழ்நிலை தளங்களிலிருந்து சேடர்களை பதிவிறக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
@@ -13239,7 +13237,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>வழங்கப்பட்ட மோட்பேக் சிப் கோப்பைத் திறக்க முடியவில்லை.</translation>
+        <translation type="vanished">வழங்கப்பட்ட மோட்பேக் சிப் கோப்பைத் திறக்க முடியவில்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -13424,19 +13422,16 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
         <source>Is the texture pack enabled?</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>அமைப்பு பேக் இயக்கப்பட்டதா?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
         <source>The name of the texture pack.</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>அமைப்பு பேக்கின் பெயர்.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>இந்த அமைப்பு பேக் கடைசியாக மாற்றப்பட்டது (அல்லது சேர்க்கப்பட்டது).</translation>
     </message>
     <message>
@@ -13574,69 +13569,69 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download packs</source>
-        <translation>பொதிகளைப் பதிவிறக்கவும்</translation>
+        <translation type="vanished">பொதிகளைப் பதிவிறக்கவும்</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation>நிகழ்நிலை தளங்களிலிருந்து அமைப்பு பொதிகளைப் பதிவிறக்கவும்</translation>
+        <translation type="vanished">நிகழ்நிலை தளங்களிலிருந்து அமைப்பு பொதிகளைப் பதிவிறக்கவும்</translation>
     </message>
 </context>
 <context>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation>&amp; சின்னங்கள்</translation>
+        <translation type="vanished">&amp; சின்னங்கள்</translation>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation>படவுரு தீம்கள் கோப்புறையைக் காண்க.</translation>
+        <translation type="vanished">படவுரு தீம்கள் கோப்புறையைக் காண்க.</translation>
     </message>
     <message>
         <source>&amp;Widgets</source>
-        <translation>&amp; விட்செட்டுகள்</translation>
+        <translation type="vanished">&amp; விட்செட்டுகள்</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation>விட்செட் தீம்கள் கோப்புறையைக் காண்க.</translation>
+        <translation type="vanished">விட்செட் தீம்கள் கோப்புறையைக் காண்க.</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>பூனை பின்னணியில் தோன்றும் மற்றும் இயல்பாகவே காட்டப்படவில்லை. கருவிப்பட்டியில் பூனை பொத்தானை அழுத்தும்போது மட்டுமே இது தெரியும்.</translation>
+        <translation type="vanished">பூனை பின்னணியில் தோன்றும் மற்றும் இயல்பாகவே காட்டப்படவில்லை. கருவிப்பட்டியில் பூனை பொத்தானை அழுத்தும்போது மட்டுமே இது தெரியும்.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation>சி &amp; அட்</translation>
+        <translation type="vanished">சி &amp; அட்</translation>
     </message>
     <message>
         <source>View cat packs folder.</source>
-        <translation>பூனை பொதிகள் கோப்புறையைக் காண்க.</translation>
+        <translation type="vanished">பூனை பொதிகள் கோப்புறையைக் காண்க.</translation>
     </message>
     <message>
         <source>Refresh all</source>
-        <translation>அனைத்தையும் புதுப்பிக்கவும்</translation>
+        <translation type="vanished">அனைத்தையும் புதுப்பிக்கவும்</translation>
     </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation>வழிகாட்டி பக்கம்</translation>
+        <translation type="vanished">வழிகாட்டி பக்கம்</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation>நீங்கள் பயன்படுத்த விரும்பும் கருப்பொருளைத் தேர்ந்தெடுக்கவும்</translation>
+        <translation type="vanished">நீங்கள் பயன்படுத்த விரும்பும் கருப்பொருளைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>குறிப்பு: பூனை பின்னணியில் தோன்றும் மற்றும் இயல்பாகவே காட்டப்படவில்லை. கருவிப்பட்டியில் பூனை பொத்தானை அழுத்தும்போது மட்டுமே இது தெரியும்.</translation>
+        <translation type="vanished">குறிப்பு: பூனை பின்னணியில் தோன்றும் மற்றும் இயல்பாகவே காட்டப்படவில்லை. கருவிப்பட்டியில் பூனை பொத்தானை அழுத்தும்போது மட்டுமே இது தெரியும்.</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation> முன்னோட்டம்:</translation>
+        <translation type="vanished"> முன்னோட்டம்:</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation>பூனை பின்னணியில் தோன்றுகிறது மற்றும் ஒரு நோக்கத்திற்கு பணி செய்யாது, அது முற்றிலும் காட்சி.</translation>
+        <translation type="vanished">பூனை பின்னணியில் தோன்றுகிறது மற்றும் ஒரு நோக்கத்திற்கு பணி செய்யாது, அது முற்றிலும் காட்சி.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
@@ -13781,7 +13776,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation>வடிகட்டி:</translation>
+        <translation type="vanished">வடிகட்டி:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
@@ -14453,11 +14448,11 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation>டேட்டாபேக்குகள்</translation>
+        <translation type="vanished">டேட்டாபேக்குகள்</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation>உலகிற்குள் டேட்டாபேக்குகளை நிர்வகிக்கவும்.</translation>
+        <translation type="vanished">உலகிற்குள் டேட்டாபேக்குகளை நிர்வகிக்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
@@ -14471,7 +14466,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation>திறந்த உலக தரவுத்தளங்கள் கோப்புறை</translation>
+        <translation type="vanished">திறந்த உலக தரவுத்தளங்கள் கோப்புறை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>
