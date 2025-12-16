@@ -84,7 +84,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Pahibalo: Dili na kinahanglanong matakada nimo kini kon mugana na ang pag-login gamit ang Microsoft Authenthication.</translation>
+        <translation>Pahibalo: Dili na nimo kinahanglanong matakada kini kon mugana na ang pag-login gamit ang Microsoft Authenthication.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -93,7 +93,7 @@
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Ibutang dinhi ang custom client ID para sa Microsoft Authenthication.</translation>
+        <translation>Ibutang dinhi ang pinatuyong ID sa kilyente alang sa Microsoft Authenthication.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
@@ -109,7 +109,7 @@
     </message>
     <message>
         <source>Technic Client ID</source>
-        <translation>Ang Technic Client ID</translation>
+        <translation>Technic Client ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
@@ -118,7 +118,7 @@
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Diri ibutang ang custom GUID client ID para sa Technic.</translation>
+        <translation>Ibutang dinhi ang pinatuyong ID sa GUID client alang sa Technic.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -151,7 +151,7 @@
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Ibutang dinhi ang custom URL para sa meta.</translation>
+        <translation>Ibutang dinhi ang pinatuyong URL alang sa meta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
@@ -183,13 +183,13 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="121"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Wala masabti ang pack manifest.
+        <translation>Wala masabti ang padayag sa putos.
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="343"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Napakyas sa pakuha sa local metadata index para sa %1</translation>
+        <translation>Napakyas sa pagkuha sa lokal nga lab-a sa han-ayng lawsayod alang sa %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="153"/>
@@ -2101,7 +2101,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
         <source>Checking if resources have metadata...</source>
-        <translation>Gipamatuod kon ang mga kahinguhaan adunay lawsayod...</translation>
+        <translation>Gipamatuod kon ang mga kahinguhaan adunay han-ayng lawsayod...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
