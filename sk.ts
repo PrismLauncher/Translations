@@ -60,7 +60,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Mod&amp;rinth</source>
-        <translation>Modrinth</translation>
+        <translation>Mod%rinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="282"/>
@@ -84,7 +84,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="231"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Poznámka: pravdepodobne nepotrebujete toto nastavovať, pokiaľ prihlasovanie cez Microsoft funguje.</translation>
+        <translation>Poznámka: pravdepodobne toto nepotrebujete nastaviť, pokiaľ prihlasovanie cez Microsoft funguje.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -4484,7 +4484,7 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/InstancePageProvider.h" line="48"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation>Iné logy</translation>
+        <translation>Iné záznamy</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="52"/>
@@ -7473,7 +7473,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
         <source>&amp;Central Mods</source>
-        <translation>&amp;Central Mods</translation>
+        <translation>&amp;Centrálne módy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
@@ -7498,12 +7498,12 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
         <source>Logs</source>
-        <translation>Zápisy</translation>
+        <translation>Záznamy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation>Otvoriť priečinok zápisov v prieskumníku.</translation>
+        <translation>Otvoriť priečinok záznamov v prehliadači súborov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
@@ -7524,13 +7524,13 @@ Dôvod:
         <location filename="src/launcher/ui/MainWindow.ui" line="672"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
-        <translation>Zobraziť zápisy</translation>
+        <translation>Prezerať záznamy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="675"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
-        <translation>Zobraziť aktuálne a predošlé zápisy spúšťača</translation>
+        <translation>Prezrieť aktuálne a predošlé záznamy launcheru</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
@@ -7550,7 +7550,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="749"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation>Otvoriť priečinok tém ikon v prieskumníku.</translation>
+        <translation>Otvoriť priečinok motívov ikon v prehliadači súborov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
@@ -7581,7 +7581,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
         <source>&amp;Meow</source>
-        <translation>&amp;Meow</translation>
+        <translation>&amp;Mňau</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
@@ -7960,7 +7960,7 @@ Ste si istí?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="981"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>Tento modpack, mód alebo zdroj %1 je zablokovaný kvôli tretím stranám! Prosím stiahnite si to manuálne.</translation>
+        <translation>Modpack, mód alebo zdroj %1 je zablokovaný pre tretie strany! Prosím stiahnite si ho manuálne.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1015"/>
@@ -7976,8 +7976,8 @@ Ste si istí?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1051"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
-        <translation>Nie je dostupná žiadna inštancia na vloženie tohto zdroja.
-Prosím vytvorte novú inštanciu pred pokusom nainštalovať tento zdroj znovu.</translation>
+        <translation>Neexistuje žiadna dostupná inštancia, ku ktorej by sa dal zdroj pridať.
+Prosím vytvorte novú inštanciu pred opätovným pokusom o inštaláciu tohto zdroja.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1165"/>
@@ -8015,7 +8015,7 @@ Prosím skontrolujte svoj kôš a obnovte ich ručne.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1307"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation>Táto Inštancia neni upravovatelná. Môže byť poškodená, nesprávna alebo stará. Skontrolujte logy pre detaily.</translation>
+        <translation>Táto Inštancia nie je upraviteľná. Môže byť poškodená, nesprávna alebo stará. Skontrolujte záznamy pre detaily.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
@@ -8029,12 +8029,12 @@ Pre manuálne odstránenie medzipamäte metadát, stlačte Priečinky -&gt; Kore
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1350"/>
         <source>Successfully added %1 to PATH</source>
-        <translation>Uspešne som pridal %1 do PATH</translation>
+        <translation>%1 úspešne pridaný do PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1351"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation>%1 bol úspešne pridaný do PATH. Teraz to môžete spustiť z `%2`.</translation>
+        <translation>%1 bol úspešne pridaný do Vašej PATH. Teraz ho môžete spustiť zadaním `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1354"/>
@@ -8044,7 +8044,7 @@ Pre manuálne odstránenie medzipamäte metadát, stlačte Priečinky -&gt; Kore
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation>Pri pokuse o pridanie %1 do PATH sa vyskytla chyba</translation>
+        <translation>Nastala chyba pri pridávaní %1 do PATH</translation>
     </message>
     <message>
         <source>There are linked instances</source>
@@ -8821,7 +8821,7 @@ Môže byť aktualizovaný iba pomocou súboru vo formáte %1
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
         <source>Show the &amp;total time played across instances</source>
-        <translation>Zobraziť celkový čas strávený hraním naprieč inštanciami</translation>
+        <translation>Zobraziť &amp;celkový čas strávený hraním naprieč inštanciami</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="358"/>
@@ -9041,27 +9041,27 @@ Je pravdepodobné, že budete musieť zmeniť jeho cestu - prosím obráťte sa 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="726"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Povoliť MangoHud</translation>
+        <translation>Povoliť MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="733"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Použiť diskrétnu GPU namiesto primárnej GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Použiť diskrétnu GPU namiesto primárnej GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="736"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Použiť diskrétnu GPU</translation>
+        <translation>Použiť diskrétnu GPU</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="743"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished">Použiť Zink, Mesa OpenGL ovládač ktorý implementuje OpenGL API cez Vulkan. Výkon sa môže meniť podľa situácie. Poznámka: Ak sa nenájdu žiadne vhodné Vulkan ovládače, bude použité softwarové vykresľovanie.</translation>
+        <translation>Použiť Zink, Mesa OpenGL ovládač, ktorý implementuje OpenGL cez Vulkan. Výkon sa môže meniť podľa situácie. Poznámka: Ak sa nenájdu žiadne vhodné Vulkan ovládače, bude použité softvérové vykresľovanie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="746"/>
         <source>Use Zink</source>
-        <translation type="unfinished">Použi Zink</translation>
+        <translation>Použiť Zink</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -9070,12 +9070,12 @@ Je pravdepodobné, že budete musieť zmeniť jeho cestu - prosím obráťte sa 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="380"/>
         <source>Account:</source>
-        <translation type="unfinished">Účet:</translation>
+        <translation>Účet:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="442"/>
         <source>Server address:</source>
-        <translation type="unfinished">Adresa servera:</translation>
+        <translation>Adresa serveru:</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
@@ -9084,12 +9084,12 @@ Je pravdepodobné, že budete musieť zmeniť jeho cestu - prosím obráťte sa 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="774"/>
         <source>Custom Commands</source>
-        <translation type="unfinished">Vlastné príkazy</translation>
+        <translation>Vlastné príkazy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="784"/>
         <source>Environment Variables</source>
-        <translation type="unfinished">Premenné prostredia</translation>
+        <translation>Premenné prostredia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="68"/>
@@ -9109,18 +9109,18 @@ Je pravdepodobné, že budete musieť zmeniť jeho cestu - prosím obráťte sa 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="136"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">Vo Vašom systéme nebol nájdený Feral Interactive&apos;s GameMode.</translation>
+        <translation>Vo Vašom systéme nebol nájdený Feral Interactive&apos;s GameMode.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="141"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">MangoHud nebol nájdený vo Vašom systéme.</translation>
+        <translation>Vo Vašom systéme nebol nájdený MangoHud.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="209"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="216"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">Cesta k súboru knižnice %1</translation>
+        <translation>Cesta k súboru knižnice %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="548"/>
@@ -9145,12 +9145,12 @@ Je pravdepodobné, že budete musieť zmeniť jeho cestu - prosím obráťte sa 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategórie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Loadery</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
@@ -9175,7 +9175,7 @@ Je pravdepodobné, že budete musieť zmeniť jeho cestu - prosím obráťte sa 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
         <source>Show More</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť viac</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
@@ -9185,82 +9185,82 @@ Je pravdepodobné, že budete musieť zmeniť jeho cestu - prosím obráťte sa 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
         <source>Babric</source>
-        <translation type="unfinished"></translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="166"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished"></translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Legacy Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
         <source>Ornithe</source>
-        <translation type="unfinished"></translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Rift</source>
-        <translation type="unfinished"></translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="200"/>
         <source>Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="212"/>
         <source>Show all versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukázať všetky verzie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
         <source>Environments</source>
-        <translation type="unfinished"></translation>
+        <translation>Prostredia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="240"/>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Klient</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="247"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="257"/>
         <source>Hide installed items</source>
-        <translation type="unfinished"></translation>
+        <translation>Skryť nainštalované položky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="264"/>
         <source>Open source only</source>
-        <translation type="unfinished"></translation>
+        <translation>Iba open source</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="271"/>
         <source>Release type</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ vydania</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="277"/>
         <source>Release</source>
-        <translation type="unfinished"></translation>
+        <translation>Vydanie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="284"/>
         <source>Beta</source>
-        <translation type="unfinished"></translation>
+        <translation>Beta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="291"/>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation>Alfa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="298"/>
@@ -9323,7 +9323,7 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Poskytovateľ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
@@ -9333,37 +9333,37 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Image</source>
-        <translation type="unfinished">Fotka</translation>
+        <translation>Obrázok</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Posledne upravené</translation>
+        <translation>Naposledy upravené</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Veľkosť</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Strana</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Loadery</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Release Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ vydania</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Minecraft Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft verzie</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="177"/>
@@ -9388,32 +9388,32 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="185"/>
         <source>The source provider of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdrojový poskytovateľ módu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
         <source>On what environment the mod is running.</source>
-        <translation type="unfinished"></translation>
+        <translation>V akom prostredí mód beží.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="189"/>
         <source>The mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="191"/>
         <source>The supported minecraft versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podporované Minecraft verzie.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="193"/>
         <source>The release type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ vydania.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="195"/>
         <source>The size of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veľkosť módu.</translation>
     </message>
 </context>
 <context>
@@ -9474,7 +9474,7 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
         <source>Download mods from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiahnuť módy z online mód platforiem</translation>
     </message>
     <message>
         <source>Context menu</source>
@@ -9488,19 +9488,19 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="85"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Skontrolovať aktualizácie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="79"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Pokúsiť sa nájsť / aktualizovať všetky vybrané módy (všetky módy, ak nie je žiaden vybraný)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="107"/>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Exportovať metadáta módu do textového súboru.</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
@@ -9517,13 +9517,14 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="130"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished">Potvrdiť zmazanie</translation>
+        <translation>Potvrdiť odstránenie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="131"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ak odstránite mód počas chodu hry, môže dôjsť k pádu hry.
+Ste si istí, že to chcete spraviť?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="166"/>
@@ -9544,13 +9545,13 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="260"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Sťahovanie prerušené používateľom.</translation>
+        <translation>Sťahovanie zastavené používateľom.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="176"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="266"/>
         <source>Warnings</source>
-        <translation type="unfinished">Upozornenia</translation>
+        <translation>Upozornenia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="190"/>
@@ -9562,12 +9563,12 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="316"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizácie módov sú nedostupné, ak sú zakázané metadáta!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="216"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Potvrdiť Aktualizáciu</translation>
+        <translation>Potvrdiť aktualizáciu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
@@ -9577,7 +9578,9 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovanie módov počas chodu hry môže spôsobiť duplikáciu módov a pád hry.
+Staré súbory nemusia byť odstránené, pretože sa používajú.
+Ste si istí, že to chcete spraviť?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="237"/>
@@ -9587,65 +9590,66 @@ Are you sure you want to do this?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="246"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Všetky vybrané módy sú aktuálne! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="249"/>
         <source>Update checker</source>
-        <translation type="unfinished">Kontrola aktualizácií</translation>
+        <translation>Kontrola aktualizácií</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="290"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potvrdiť odstránenie</translation>
+        <translation>Potvrdiť odstránenie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="291"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte sa odstrániť metadáta pre %1 módov.
+Ste si istí?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
         <source>Missing Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Chýbajúci loader módov</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pred inštaláciou módov musíte nainštalovať kompatibilný loader módov. Chcete tak spraviť?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">„%1“ je aktuálny! :)</translation>
+        <translation>„%1“ je aktuálny! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="72"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="164"/>
         <source>Download Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiahnuť módy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="101"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmeniť verziu módu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="105"/>
         <source>View the homepages of all selected mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť domovské stránky všetkých vybraných módov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Všetky módy sú aktuálne! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="56"/>
         <source>Mods</source>
-        <translation type="unfinished">Módy</translation>
+        <translation>Módy</translation>
     </message>
 </context>
 <context>
@@ -9741,19 +9745,20 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="324"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="327"/>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="324"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastala chyba v sieti. Nebolo možné načítať balíčky módov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="331"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>API verzia je moc stará!
+Prosím aktualizujte %1!</translation>
     </message>
 </context>
 <context>
@@ -9765,12 +9770,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="52"/>
         <source>Preparing resources for Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Príprava zdrojov pre Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="113"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Spracovávanie API odpovede z Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="179"/>
@@ -9799,7 +9804,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Čakanie na API odpoveď z Modrinth...</translation>
     </message>
 </context>
 <context>
@@ -9830,22 +9835,23 @@ Please update %1!</source>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="209"/>
         <source>Could not rename the client overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nebolo možné premenovať priečinok prepisov klienta:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="246"/>
         <source>Mod Download Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiahnutie módov Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="258"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeden zo súborov má cestu, ktorá vedie do ľubovoľného umiestnenia (%1). Toto je bezpečnostné riziko a nie je to povolené.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="270"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Súbor „%1“ nemá odkaz na stiahnutie. Toto je vo formáte balíčku neplatné.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="300"/>
@@ -9861,13 +9867,14 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="413"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL adresa pre stiahnutie %1 nie je správne formátovaná</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="473"/>
         <source>Could not understand pack index:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nebolo možné pochopiť index balíčku:
+</translation>
     </message>
 </context>
 <context>
@@ -9880,7 +9887,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="292"/>
         <source>Fetching changelogs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Získavanie záznamu zmien...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="372"/>
@@ -9925,7 +9932,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="193"/>
         <source>Failed to parse versions response: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebolo možné spracovať odpoveď verzií: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="202"/>
@@ -9947,7 +9954,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyhľadávať a filtrovať...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -9962,12 +9969,12 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Triediť podľa relevancie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="86"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished"></translation>
+        <translation>Triediť podľa sledujúcich</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="88"/>
@@ -9984,12 +9991,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="264"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Tento projekt bol archivovaný. Nebude dostávať žiadne aktualizácie, pokiaľ sa autor nerozhodne archiváciu zrušiť.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="269"/>
         <source>Donate information: </source>
-        <translation type="unfinished"></translation>
+        <translation>Informácie o darovaní: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="282"/>
@@ -10014,13 +10021,13 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="292"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="87"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Triediť podľa najnovších</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="85"/>
@@ -10035,7 +10042,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="65"/>
         <source>Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth</translation>
     </message>
 </context>
 <context>
@@ -10043,12 +10050,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="49"/>
         <source>All attempts have failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Všetky pokusy zlyhali!</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="60"/>
         <source>Attempting task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokus o úlohu %1 z %2</translation>
     </message>
 </context>
 <context>
@@ -10056,30 +10063,30 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="65"/>
         <source>Requesting %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Žiadanie o %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="142"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="146"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>neznáme</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="148"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>0 B/s</translation>
     </message>
 </context>
 <context>
@@ -10183,7 +10190,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="14"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Novinky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
@@ -10194,12 +10201,12 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="52"/>
         <source>Hide article list</source>
-        <translation type="unfinished"></translation>
+        <translation>Skryť zoznam článkov</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="50"/>
         <source>Show article list</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť zoznam článkov</translation>
     </message>
 </context>
 <context>
@@ -10222,7 +10229,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="101"/>
         <source>Nilmods</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilmods</translation>
     </message>
 </context>
 <context>
@@ -10280,22 +10287,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="14"/>
         <source>Select Optional Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrať voliteľné módy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="34"/>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrať všetko</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="41"/>
         <source>Deselect All</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrušiť výber všetkého</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="61"/>
         <source>Unchecked mods will be disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevybrané módy budú zakázané.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="47"/>
@@ -10317,7 +10324,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
         <source>&amp;Find</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nájsť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="55"/>
@@ -10327,27 +10334,27 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="58"/>
         <source>&amp;Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Koniec</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="101"/>
         <source>Delete the selected log</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazať vybraný záznam</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
         <source>&amp;Delete Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vymazať vybrané</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="111"/>
         <source>Delete all the logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazať všetky záznamy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="114"/>
         <source>Delete &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazať &amp;všetko</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="125"/>
@@ -10367,7 +10374,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="168"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>Kopírovať celý log do clipboardu</translation>
+        <translation>Kopírovať celý záznam do schránky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="171"/>
@@ -10382,17 +10389,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="181"/>
         <source>&amp;Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nahrať</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="188"/>
         <source>Reload the contents of the log from the disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Znovu načítať obsah záznamu z disku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="191"/>
         <source>&amp;Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Načítať znova</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
@@ -10458,7 +10465,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Súbor (%1) narazil na chybu pri čítaní: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="379"/>
@@ -10471,23 +10478,27 @@ Please update %1!</source>
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte sa odstrániť „%1“.
+Toto môže byť trvalé a zmizne z priečinku záznamov.
+
+Ste si istí?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="405"/>
         <source>Confirm Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdiť čistenie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="407"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ste si istí, že chcete odstrániť všetky súbory záznamov?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ste si istí, že chcete odstrániť všetky tieto súbory?
+%1</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -10552,12 +10563,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="46"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>%OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="47"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zrušiť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="48"/>
@@ -10587,12 +10598,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
         <source>Use new default service</source>
-        <translation type="unfinished"></translation>
+        <translation>Použiť novú predvolenú službu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
         <source>Keep previous settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponechať predošlé nastavenia</translation>
     </message>
 </context>
 <context>
