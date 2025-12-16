@@ -5618,7 +5618,7 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
         <source>Autodetect Java</source>
-        <translation>Automaticky zistiť Javu</translation>
+        <translation>Autodetekovať Javu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
