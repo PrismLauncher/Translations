@@ -9763,7 +9763,7 @@ Adakah anda pasti?</translation>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="89"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="305"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tidak dapat memaparkan log tersebut kerana panjang log melebihi % 1 baris.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="327"/>
