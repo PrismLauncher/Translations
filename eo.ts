@@ -6998,7 +6998,8 @@ Please create a new instance before attempting to install this resource again.</
         <location filename="src/launcher/ui/MainWindow.cpp" line="1208"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kelkaj instancoj kaj ligiloj ne povis esti restaŭrigitaj.
+Bonvolu kontroli vian rubujon por restaŭri ilin permane.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1306"/>
@@ -7035,47 +7036,47 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eraro okazis kiam provis aldoni %1 al PATH.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
         <source>&amp;Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomi grupon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĉu vi vere volas forigi la grupon &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1187"/>
         <source>Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomi grupon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
         <source>Cannot rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>La grupo ne povis esti renomita.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
         <source>Cannot set empty name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne eblas enigi malplenan nomon.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
         <source>Group already exists. :/</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupo jam ekzistas. :/</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
         <source>Cannot Delete Running Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne eblas forigi rulantan instancon.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>La elektita instanco estas nun rulanta kaj ne povas esti forigita. Bonvolu ĉesigi la instancon antaŭ provi forigi ĝin.</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
@@ -7091,12 +7092,15 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi estas forigonta &quot;%1&quot;%2.
+Tio povus esti konstanta kaj tute forigos la instancon.
+
+Ĉu vi certas?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>Forigante</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
@@ -7106,32 +7110,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1636"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation type="unfinished"></translation>
+        <translation>Via instanca dosierujo enhavas &quot;!&quot; kaj tio povus kaŭzi problemojn kun Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1637"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi nun havas du rimedojn: &lt;br/&gt; - ŝanĝi la instancan dosierujon en la agordoj &lt;br/&gt; - movi tiun ĉi instalaĵon de %1 al alia dosierujo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Tio estas problemo: &lt;br/&gt; - la operaciumo verŝajne forigos la lanĉilon sen averto &lt;br/&gt; - fermu la lanĉilon nun kaj maldensigi ĝin en realan lokon kaj ne en portempan dosierujon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation type="unfinished"></translation>
+        <translation>Via instanca dosierujo enhavas &apos;Rar$&apos; - tio signifas ke vi ne malkompaktigis la lanĉilan arĥivon!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1657"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Via instanca dosierujo estas en portempa dosierujo: &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1671"/>
         <source>Total playtime: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompleta ludtempo: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="853"/>
@@ -7145,7 +7149,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
         <source>Open %1 Discord guild.</source>
-        <translation type="unfinished"></translation>
+        <translation>Malfermi Discord-gildon de %1.</translation>
     </message>
 </context>
 <context>
