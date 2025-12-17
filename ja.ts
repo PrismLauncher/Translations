@@ -5565,7 +5565,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation>最大メモリ割りて量が、最小メモリ割り当て量を下回っています。</translation>
+        <translation>最大メモリ割り当て量が、最小メモリ割り当て量を下回っています。</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
