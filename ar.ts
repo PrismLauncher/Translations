@@ -7797,30 +7797,33 @@ Please create a new instance before attempting to install this resource again.</
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1207"/>
         <source>Failed to undo trashing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر التراجع عن حذف النموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1208"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن استرجاع بعض النماذج والاختصارات.
+يرجى التحقق من سلة المهملات لاسترجاعهم يدويا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1306"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>النموذج غير قابل للتعديل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1307"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>النموذج غير قابل للتعديل. من الممكن أن يكون تالفا أو غير صالح أو قديما. تحقق من السجل للمزيد من التفاصيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر مسح تخزين بيانات التعريف المؤقتة.
+لمسح تخزين بيانات التعريف المؤقتة يدويا, أضغط على المجلدات -&gt; عرض مجلد جزر المشغل, واحذف المجلد المسمى ب&quot;meta&quot; بعد إغلاق المشغل.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1350"/>
