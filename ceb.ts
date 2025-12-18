@@ -29,7 +29,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="340"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="383"/>
         <source>Use Default</source>
-        <translation>Gamita ang Sinugdanan</translation>
+        <translation>Gamita ang Sukaranan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -88,7 +88,7 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation>(Sinugdanan)</translation>
+        <translation>(Sukaranan)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
@@ -114,7 +114,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="390"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pahibalo: Takdaon lamang kini kon gusto nimo makaagi sa pribadong lawsayod&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pahibalo: Takdaon lamang kini kon gusto nimo makaagi sa pribadong kalap&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
@@ -137,7 +137,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation>Magsisilbi sa Meta&amp;data</translation>
+        <translation>Magsisilbi sa Labaw&apos;ng &amp;Kalap</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
@@ -147,7 +147,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Mahimo nimo kini matakda ngadto sa ikatulong-bangaw nga magsisilbi sa han-ayng lawsayod aron magamit ang mga patched library kun ubang mga hack.</translation>
+        <translation>Mahimo nimo kini matakda ngadto sa ikatulong-bangaw nga magsisilbi sa labaw&apos;ng kalap aron magamit ang mga patched library kun ubang mga hack.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -156,7 +156,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="289"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pagtimaan: kinahanglan lang nimo ni matakda aron maka-agi sa pribado nga lawsayod. Basahi ang &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentasyon&lt;/a&gt; alang sa dugang nga kasayoran.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pagtimaan: kinahanglan lang nimo ni matakda aron maka-agi sa pribado nga kalap. Basahi ang &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentasyon&lt;/a&gt; alang sa dugang nga kasayoran.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -189,7 +189,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="343"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Napakyas sa pagkuha sa lokal nga lab-a sa han-ayng lawsayod alang sa %1</translation>
+        <translation>Napakyas sa pagkuha sa lokal nga lab-a sa labaw&apos;ng kalap alang sa %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="153"/>
@@ -510,13 +510,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>&amp;Himuang Sinugdanan</translation>
+        <translation>&amp;Himuang Sukaranan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>&amp;Walai ang Sinugdanan</translation>
+        <translation>&amp;Walai ang Sukaranan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
@@ -1645,7 +1645,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
         <source>Override the default account</source>
-        <translation>Puliha ang sinugdanang kaakohan</translation>
+        <translation>Puliha ang sukaranang kaakohan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
@@ -1968,12 +1968,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="153"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation>Gipagana ba kining putos sa lawsayod? (Matinuod lang sa mga ZIP)</translation>
+        <translation>Gipagana ba kining putos sa kalap? (Matinuod lang sa mga ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="155"/>
         <source>The name of the data pack.</source>
-        <translation>Ang ngalan sa putos sa lawsayod.</translation>
+        <translation>Ang ngalan sa putos sa kalap.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="160"/>
@@ -1991,7 +1991,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation>Pagkarganug og mga putos sa lawsayod gikan sa gidugtong nga mga pantawan sa kausaban</translation>
+        <translation>Pagkarganug og mga putos sa kalap gikan sa gidugtong nga mga pantawan sa kausaban</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
@@ -2006,7 +2006,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
         <source>Download Data Packs</source>
-        <translation>Pagkarganug og Mga Putos sa Lawsayod</translation>
+        <translation>Pagkarganug og Mga Putos sa Kalap</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"/>
@@ -2067,7 +2067,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="150"/>
         <source>The data pack updater was aborted!</source>
-        <translation>Nahunong ang tagpasibo sa putos sa lawsayod!</translation>
+        <translation>Nahunong ang tagpasibo sa putos sa kalap!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
@@ -2077,12 +2077,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation>Napasibo ang tanang putos sa lawsayod! :)</translation>
+        <translation>Napasibo ang tanang putos sa kalap! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="159"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation>Napasibo ang tanang piniling putos sa lawsayod! :)</translation>
+        <translation>Napasibo ang tanang piniling putos sa kalap! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
@@ -2106,7 +2106,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="92"/>
         <source>Checking if resources have metadata...</source>
-        <translation>Gipamatuod kon ang mga kahinguhaan adunay han-ayng lawsayod...</translation>
+        <translation>Gipamatuod kon ang mga kahinguhaan adunay labaw&apos;ng kalap...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
@@ -2116,7 +2116,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>Naghangyo og kasayoran sa han-ayng lawsayod gikan sa %1 alang sa &apos;%2&apos;...</translation>
+        <translation>Naghangyo og kasayoran sa labaw&apos;ng kalap gikan sa %1 alang sa &apos;%2&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
@@ -2132,7 +2132,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>Nagsusi kon naa bay han-ayng lawsayod ang mga kausaban...</translation>
+        <translation>Nagsusi kon naa bay labaw&apos;ng kalap ang mga kausaban...</translation>
     </message>
 </context>
 <context>
@@ -2256,7 +2256,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"/>
         <source>&amp;Author:</source>
-        <translation>Tag&amp;sulat:</translation>
+        <translation>Tag&amp;himo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="76"/>
@@ -2314,7 +2314,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Author</source>
-        <translation>Tag&amp;sulat</translation>
+        <translation>Tag&amp;himo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="122"/>
@@ -2388,7 +2388,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>Bunayag nga pulong</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
@@ -2408,7 +2408,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Sugoranan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
@@ -2435,7 +2435,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="112"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="140"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Taghimo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="119"/>
@@ -2457,7 +2457,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="183"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Agi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="212"/>
@@ -2487,7 +2487,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="166"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Limbas</translation>
     </message>
 </context>
 <context>
@@ -2600,7 +2600,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="193"/>
         <source>Export resource&apos;s metadata to text.</source>
-        <translation>Iambit ang han-ayng lawsayod sa kahinguhaan isip pulong.</translation>
+        <translation>Iambit ang labaw&apos;ng kalap sa kahinguhaan isip pulong.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
@@ -2731,7 +2731,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation>Iambit ang han-ayng lawsayod sa kausaban isip pulong</translation>
+        <translation>Iambit ang labaw&apos;ng kalap sa kausaban isip pulong</translation>
     </message>
 </context>
 <context>
@@ -2752,7 +2752,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="191"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="251"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagsiplat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
@@ -2906,7 +2906,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Dili matinuod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3007,7 +3007,7 @@ Palihug sa pagsulay pag-usab.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Pagtimaan: kon wala ang imong FTB nga mga pananglitan sa sinugdanang dapit, pagpili gamit ang tuplokanan tapad sa pagpangita.</translation>
+        <translation>Pagtimaan: kon wala ang imong FTB nga mga pananglitan sa sukaranang dapit, pagpili gamit ang tuplokanan tapad sa pagpangita.</translation>
     </message>
 </context>
 <context>
@@ -3356,7 +3356,7 @@ Palihug sa pagsulay pag-usab.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="286"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> hinimo ni </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="292"/>
@@ -3529,7 +3529,7 @@ Palihug sa pagsulay pag-usab.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagsiplat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
@@ -3905,7 +3905,7 @@ Palihug sa pagsulay pag-usab.</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagsiplat</translation>
     </message>
     <message>
         <source>Download Java</source>
@@ -4005,7 +4005,7 @@ Palihug sa pagsulay pag-usab.</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation>Puliha ang sinugdanang kaakohan</translation>
+        <translation>Puliha ang sukaranang kaakohan</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -4481,7 +4481,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagsiplat</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
@@ -4750,7 +4750,7 @@ Mahimo nimong mailisan ang hubad sa Java sulod sa mga himutangan sa pagkaunya.
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagsiplat</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
@@ -4908,7 +4908,7 @@ Mahimo nimong mailisan ang hubad sa Java sulod sa mga himutangan sa pagkaunya.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="501"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagsiplat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
@@ -5338,7 +5338,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="332"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="342"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagsiplat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
@@ -5448,7 +5448,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation>Pagdili sa paggamit og han-ayng lawsayod alang sa mga kausaban</translation>
+        <translation>Pagdili sa paggamit og labaw&apos;ng kalap alang sa mga kausaban</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
@@ -5543,7 +5543,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
         <source>Keep track of mod metadata</source>
-        <translation>Pagbantay sa han-ayng lawsayod sa kausaban</translation>
+        <translation>Pagbantay sa labaw&apos;ng kalap sa kausaban</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
@@ -5954,7 +5954,7 @@ Panabot:
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation>Dili matinuod nga han-ayng lawsayod</translation>
+        <translation>Dili matinuod nga labaw&apos;ng kalap</translation>
     </message>
 </context>
 <context>
@@ -5969,7 +5969,7 @@ Panabot:
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="59"/>
         <source>Invalid metadata</source>
-        <translation>Dili matinuod nga han-ayng lawsayod</translation>
+        <translation>Dili matinuod nga labaw&apos;ng kalap</translation>
     </message>
 </context>
 <context>
@@ -6835,7 +6835,7 @@ Panabot:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="506"/>
         <source>No Default Account</source>
-        <translation>Walay Sinugdanang Kaakohan</translation>
+        <translation>Walay Sukaranang Kaakohan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="509"/>
@@ -7806,12 +7806,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagsiplat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="368"/>
         <source>Override &amp;Default Account</source>
-        <translation>Puliha ang &amp;Sinugdanang Kaakohan</translation>
+        <translation>Puliha ang &amp;SukaranangKaakohan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="413"/>
@@ -8260,7 +8260,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="106"/>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
-        <translation>Iambit ang han-ayng lawsayod sa kausaban isip pulong.</translation>
+        <translation>Iambit ang labaw&apos;ng kalap sa kausaban isip pulong.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="129"/>
@@ -8426,7 +8426,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation>Tangtangi ang han-ayng lawsayod sa kausaban</translation>
+        <translation>Tangtangi ang labaw&apos;ng kalap sa kausaban</translation>
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
@@ -9428,7 +9428,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
         <source>Use new default service</source>
-        <translation>Gamita ang bag-ong sinugdanang serbisyo</translation>
+        <translation>Gamita ang bag-ong sukaranang serbisyo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
@@ -9960,7 +9960,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
         <source>Use as default?</source>
-        <translation>Gamitang sinugdanan?</translation>
+        <translation>Gamita ang sukaranan?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
@@ -10101,11 +10101,11 @@ HTTP nga Kahimtang: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="51"/>
         <source>Uses your system&apos;s default proxy settings.</source>
-        <translation>Gamiton ang sinugdanang mga himutangan sa iglawas sa imong sistema.</translation>
+        <translation>Gamiton ang sukaranang mga himutangan sa iglawas sa imong sistema.</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation>Sinug&amp;danan</translation>
+        <translation>Su&amp;karanan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -10207,7 +10207,7 @@ HTTP nga Kahimtang: %2</translation>
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>Dili matinuod nga dalan sa JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="78"/>
@@ -10600,7 +10600,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="58"/>
         <source>No author(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Walay (mga) taghimo</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
@@ -10906,7 +10906,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="98"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation>Usang kasaypang nahitabo samtang gihimo ang mosunod nga kalihokan sa pag-ilis sa ngalan: &lt;br/&gt; - Daang gamot sa pananglitan: %1&lt;br/&gt; - Bag-ong gamot sa pananglitan: %2&lt;br/&gt;Ang ngalan ra sa han-ayng lawsayod ang nausab.</translation>
+        <translation>Usang kasaypang nahitabo samtang gihimo ang mosunod nga kalihokan sa pag-ilis sa ngalan: &lt;br/&gt; - Daang gamot sa pananglitan: %1&lt;br/&gt; - Bag-ong gamot sa pananglitan: %2&lt;br/&gt;Ang ngalan lamang sa labaw&apos;ng kalap ang nausab.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="112"/>
@@ -11087,7 +11087,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
         <source>Invalid path to VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>Dili matinuod nga dalan sa VisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
@@ -11371,7 +11371,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="312"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Dili mapili ang hubad nga dili matinuod :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="336"/>
@@ -12747,7 +12747,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="379"/>
         <source>Invalid url</source>
-        <translation type="unfinished"></translation>
+        <translation>Dili matinuod nga url</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="383"/>
@@ -12808,7 +12808,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="519"/>
         <source>the skin is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>kining panit dili matinuod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="521"/>
@@ -14099,7 +14099,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation>Buksi ang Limbasan sa Mga Putos sa Lawsayod sa Kalibutan</translation>
+        <translation>Buksi ang Limbasan sa Mga Putos sa Kalap sa Kalibutan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="315"/>
