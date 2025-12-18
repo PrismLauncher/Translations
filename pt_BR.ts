@@ -7345,7 +7345,7 @@ Razão:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation>Não pode adicionar:</translation>
+        <translation>Não foi possível adicionar:</translation>
     </message>
     <message>
         <source>Could not create:</source>
