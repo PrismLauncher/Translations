@@ -14136,7 +14136,7 @@ Vermutlich hat der Autor Launcher von Drittanbietern blockiert.</translation>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="99"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbenennen der Shader-Konfiguration von &apos;%1&apos; zu &apos;%2&apos; fehlgeschlagen</translation>
     </message>
 </context>
 <context>
