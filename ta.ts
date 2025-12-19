@@ -742,17 +742,17 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="715"/>
+        <location filename="src/launcher/Application.cpp" line="697"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>பதிவு நீளம் %1 வரிகளைத் தாண்டியதால் இந்த பதிவைக் காட்ட முடியாது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="931"/>
+        <location filename="src/launcher/Application.cpp" line="913"/>
         <source>Settings</source>
         <translation>அமைப்புகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1092"/>
+        <location filename="src/launcher/Application.cpp" line="1074"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -779,12 +779,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
  இந்த பூட்டை நீக்கி, கீழே உள்ள &quot;புறக்கணிக்கவும்&quot; என்பதைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1109"/>
+        <location filename="src/launcher/Application.cpp" line="1091"/>
         <source>Update In Progress</source>
         <translation>புதுப்பிப்பு செயலில் உள்ளது</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1133"/>
+        <location filename="src/launcher/Application.cpp" line="1115"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -799,12 +799,12 @@ for details on the last update attempt.</source>
  கடைசி புதுப்பிப்பு முயற்சி குறித்த விவரங்களுக்கு.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1141"/>
+        <location filename="src/launcher/Application.cpp" line="1123"/>
         <source>Update Failed</source>
         <translation>புதுப்பிப்பு தோல்வியடைந்தது</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1165"/>
+        <location filename="src/launcher/Application.cpp" line="1147"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -825,12 +825,12 @@ for details.</oldsource>
  விவரங்களுக்கு.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1173"/>
+        <location filename="src/launcher/Application.cpp" line="1155"/>
         <source>Update Succeeded</source>
         <translation>புதுப்பிப்பு செய் பெற்றது</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1205"/>
+        <location filename="src/launcher/Application.cpp" line="1187"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -843,32 +843,32 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1211"/>
+        <location filename="src/launcher/Application.cpp" line="1193"/>
         <source>Incompatible system configuration</source>
         <translation>பொருந்தாத கணினி உள்ளமைவு</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1582"/>
+        <location filename="src/launcher/Application.cpp" line="1564"/>
         <source>Aborted</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1991"/>
+        <location filename="src/launcher/Application.cpp" line="1973"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 இலிருந்து பழைய தரவு கண்டறியப்பட்டது, ஆனால் உங்களிடம் ஏற்கனவே %2 க்கு தரவு உள்ளது. துரதிர்ச்டவசமாக நீங்கள் உங்களை குடிபெயர வேண்டும். அடுத்த முறை நீங்கள் %2 ஐத் தொடங்கும்போது நிலுவையில் உள்ள தரவு இடம்பெயர்வு நினைவூட்டப்பட விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1995"/>
+        <location filename="src/launcher/Application.cpp" line="1977"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>நீங்கள் முன்பு %1 ஐப் பயன்படுத்தியது போல் தெரிகிறது. உங்கள் தரவை %2 இன் புதிய இடத்திற்கு மாற்ற விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2001"/>
+        <location filename="src/launcher/Application.cpp" line="1983"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>இதற்கு முன்பு %2 இல் %1 ஐப் பயன்படுத்தியது போல் தெரிகிறது. உங்கள் தரவை %3 இன் புதிய இடத்திற்கு மாற்ற விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2047"/>
+        <location filename="src/launcher/Application.cpp" line="2029"/>
         <source>Migration failed! Reason: %1</source>
         <translation>இடம்பெயர்வு தோல்வியடைந்தது! காரணம்: %1</translation>
     </message>
@@ -9762,67 +9762,67 @@ Error message: %3</source>
         <translation>புதுப்பிப்புகளைச் சரிபார்க்கிறது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="124"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="144"/>
         <source>Update Check Failed</source>
         <translation>புதுப்பிப்பு காசோலை தோல்வியடைந்தது</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="125"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="124"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
         <translation>5 விநாடிகளுக்குப் பிறகு தொடங்குவதில் தோல்வி
  காரணம்: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="146"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
         <translation>புதுப்பிப்பு 60 வினாடிகளை மூடத் தவறிவிட்டது
  காரணம்: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="171"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="307"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
         <source>No Update Available</source>
         <translation>புதுப்பிப்பு எதுவும் கிடைக்கவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="171"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
         <source>You are running the latest version.</source>
         <translation>நீங்கள் அண்மைக் கால பதிப்பை இயக்குகிறீர்கள்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="182"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
         <source>Update Check Error</source>
         <translation>காசோலை பிழையைப் புதுப்பிக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="183"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="182"/>
         <source>There was an error running the update check.</source>
         <translation>புதுப்பிப்பு காசோலையை இயக்கும் பிழை இருந்தது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="210"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="209"/>
         <source>Unknown Update Error</source>
         <translation>தெரியாத புதுப்பிப்பு பிழை</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="211"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="210"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
         <translation>புதுப்பிப்பு அறியப்படாத நிபந்தனையுடன் வெளியேறியது.
  வெளியேறு குறியீடு: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="213"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
         <source>StdOut: %1
 StdErr: %2</source>
         <translation>Stdout: %1
  Stderr: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="307"/>
+        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
         <source>There are no new updates available.</source>
         <translation>புதிய புதுப்பிப்புகள் எதுவும் கிடைக்கவில்லை.</translation>
     </message>
@@ -9900,38 +9900,38 @@ StdErr: %2</source>
         <translation>முந்தைய பதிப்புகளுக்கு தரமிறக்க புதுப்பிப்பாளரை அனுமதிக்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="315"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="303"/>
         <source>MacOS Not Supported</source>
         <translation>மேகோச் ஆதரிக்கப்படவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="315"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="303"/>
         <source>The updater does not support installations on MacOS</source>
         <translation>அப்டேட்டர் MACOS இல் நிறுவல்களை ஆதரிக்காது</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="322"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="335"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="310"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="323"/>
         <source>Unsupported Installation</source>
         <translation>ஆதரிக்கப்படாத நிறுவல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="323"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="311"/>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>அப்டேட்டர் தவறாக கட்டமைக்கப்பட்ட பயன்பாடாக இயங்குகிறதா? ($ அபிமேச் சூழல் மாறி இல்லை)</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="335"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="323"/>
         <source>The updater can not find the main executable.</source>
         <translation>புதுப்பிப்பாளரால் முக்கிய இயங்கக்கூடியதைக் கண்டுபிடிக்க முடியாது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="214"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="202"/>
         <source>The launcher data folder is not writable!</source>
         <translation>லாஞ்சர் தரவு கோப்புறை எழுத முடியாதது!</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="215"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="203"/>
         <source>The updater couldn&apos;t create a log file - the data folder is not writable.
 
 Make sure you have write permissions to the data folder.
@@ -9946,121 +9946,121 @@ The updater cannot continue until you fix this problem.</source>
  இந்த சிக்கலை சரிசெய்யும் வரை புதுப்பிப்பாளரால் தொடர முடியாது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="487"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="475"/>
         <source>Updating flatpack not supported</source>
         <translation>பிளாட் பேக்கைப் புதுப்பிப்பது ஆதரிக்கப்படவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="487"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="475"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
         <translation>ப்ரிசம் துவக்கத்தின் பிளாட்பாக் பதிப்பை இயக்கும் போது புதுப்பிப்பு கிடைக்குமா என்பதை சரிபார்க்க வெளியே உள்ள செயல்கள் ஆதரிக்கப்படவில்லையா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="544"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1000"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="532"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="985"/>
         <source>Reading manifest from %1</source>
         <translation>%1 இலிருந்து வெளிப்பாடு படித்தல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="556"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="544"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
         <translation>வெற்று வெளிப்படுகிறது, %1 இன் அடைவு உள்ளடக்கங்களை சிறந்த யூகத்தை உருவாக்குகிறது</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="562"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="550"/>
         <source>Installing the following to %1 :
  %2</source>
         <translation>பின்வருவனவற்றை %1 க்கு நிறுவுதல்:
  %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="566"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="573"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="554"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="561"/>
         <source>Installing from %1</source>
         <translation>%1 இலிருந்து நிறுவுகிறது</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="578"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="566"/>
         <source>Installing %1 from %2</source>
         <translation>%2 இலிருந்து %1 ஐ நிறுவுகிறது</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="582"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="570"/>
         <source>Failed copy %1 to %2</source>
         <translation>தோல்வியுற்ற நகல் %1 முதல் %2 வரை</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="597"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1075"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="585"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1060"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
         <translation>கோப்பு இல்லை, புறக்கணிக்கிறது: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="610"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="598"/>
         <source>There were errors installing the update.</source>
         <translation>புதுப்பிப்பை நிறுவும் பிழைகள் இருந்தன.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="614"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="602"/>
         <source>Update succeed.</source>
         <translation>புதுப்பிப்பு வெற்றி.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="775"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="763"/>
         <source>No Valid Release Assets</source>
         <translation>சரியான வெளியீட்டு சொத்துக்கள் இல்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="776"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="764"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
         <translation>அறிவிலிமையம் வெளியீடு %1 க்கு இந்த தளத்திற்கு சரியான சொத்துக்கள் இல்லை: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="778"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
         <source>%1 portable: %2</source>
         <translation>%1 சிறிய: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="778"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="953"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="938"/>
         <source>yes</source>
         <translation>ஆம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="778"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="953"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="938"/>
         <source>no</source>
         <translation>இல்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="786"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="774"/>
         <source>No version selected.</source>
         <translation>பதிப்பு எதுவும் தேர்ந்தெடுக்கப்படவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="786"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="774"/>
         <source>No version was selected.</source>
         <translation>பதிப்பு எதுவும் தேர்ந்தெடுக்கப்படவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="793"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="781"/>
         <source>Failed to Download</source>
         <translation>பதிவிறக்கம் செய்யத் தவறிவிட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="793"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="781"/>
         <source>Failed to download the selected asset.</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட சொத்தை பதிவிறக்குவதில் தோல்வி.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="898"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="883"/>
         <source>Update already in progress
 </source>
         <translation>ஏற்கனவே செயலில் உள்ள புதுப்பிப்பு
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="900"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="885"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -10087,135 +10087,135 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
  இந்த பூட்டை மேலெழுதவும், எப்படியும் இந்த புதுப்பிப்பைத் தொடர, கீழே உள்ள &quot;புறக்கணிக்கவும்&quot; என்பதைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="930"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="915"/>
         <source>Update Aborted</source>
         <translation>புதுப்பித்தல் கைவிடப்பட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="930"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="915"/>
         <source>The update attempt was aborted</source>
         <translation>புதுப்பிப்பு முயற்சி கைவிடப்பட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="938"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="923"/>
         <source>Updating from %1 to %2</source>
         <translation>%1 முதல் %2 வரை புதுப்பித்தல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="941"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="926"/>
         <source>Updating portable install at %1</source>
         <translation>போர்ட்டபிள் நிறுவலை %1 இல் புதுப்பித்தல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="944"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="929"/>
         <source>Running installer file at %1</source>
         <translation>நிறுவி கோப்பை %1 இல் இயக்குகிறது</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="953"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="938"/>
         <source>Process start result: %1</source>
         <translation>செயல்முறை தொடக்க முடிவு: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="960"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="945"/>
         <source>Backing up install</source>
         <translation>காப்புப் பிரதி நிறுவவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="981"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="966"/>
         <source>Starting new updater at &apos;%1&apos;</source>
         <translation>புதிய புதுப்பிப்பாளரை &apos;%1&apos; இல் தொடங்குகிறது</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="983"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="968"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
         <translation>&apos; %1&apos; %2 ஐ தொடங்குவதில் தோல்வி</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1033"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1018"/>
         <source>Backing up:
   %1</source>
         <translation>காப்புப்பிரதி:
  %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1050"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1028"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1035"/>
         <source>Backing up install at %1</source>
         <translation>%1 இல் நிறுவவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1055"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1040"/>
         <source>Backing up and then removing %1</source>
         <translation>காப்புப் பிரதி எடுக்கிறது, பின்னர் %1 ஐ நீக்குகிறது</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1059"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1044"/>
         <source>Failed to backup %1 to %2</source>
         <translation>%1 முதல் %2 வரை காப்புப்பிரதி எடுக்கத் தவறிவிட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1062"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1047"/>
         <source>Failed to remove %1</source>
         <translation>%1 ஐ அகற்றுவதில் தோல்வி</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1097"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1082"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
         <translation>பின்வருவனவற்றை &quot;%1&quot; ஆக பிரித்தெடுத்தது:
  %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1101"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1084"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1086"/>
         <source>Failed to extract %1 to %2</source>
         <translation>%1 முதல் %2 வரை பிரித்தெடுப்பதில் தோல்வி</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1108"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1093"/>
         <source>Running: `%1 %2`</source>
         <translation>இயங்கும்: ` %1 %2`</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1112"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1097"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
         <translation>குழந்தை செயல்முறை &quot; %1 %2&quot; ஐ தொடங்கத் தவறிவிட்டது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1114"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
         <source>Failed extract archive</source>
         <translation>தோல்வியுற்ற பிரித்தெடுத்தல் காப்பகம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1121"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1106"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
         <translation>குழந்தை செயல்முறை &quot; %1 %2&quot; தோல்வியடைந்தது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1123"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1108"/>
         <source>Failed to extract archive</source>
         <translation>காப்பகத்தைப் பிரித்தெடுப்பதில் தோல்வி</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1128"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1113"/>
         <source>Unknown archive format for %1</source>
         <translation>%1 க்கான அறியப்படாத காப்பக வடிவம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1143"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1147"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1128"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1132"/>
         <source>Failed to Check Version</source>
         <translation>பதிப்பைச் சரிபார்க்கத் தவறிவிட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1143"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1128"/>
         <source>Failed to launch child process to read version.</source>
         <translation>பதிப்பைப் படிக்க குழந்தை செயல்முறையைத் தொடங்கத் தவறிவிட்டது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1147"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1132"/>
         <source>Child launcher process failed.</source>
         <translation>குழந்தை துவக்கி செயல்முறை தோல்வியடைந்தது.</translation>
     </message>
