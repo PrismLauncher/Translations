@@ -11,11 +11,11 @@
             "untranslated" : 2070
         },
         "ar" : {
-            "file" : "13b1d2349314fbf6befa43060de06490563933af.class",
-            "sha1" : "13b1d2349314fbf6befa43060de06490563933af",
+            "file" : "5a69fb0723f8730f51642c54bf1d3207a1dacb93.class",
+            "sha1" : "5a69fb0723f8730f51642c54bf1d3207a1dacb93",
             "size" : 213248,
-            "translated" : 1461,
-            "fuzzy" : 211,
+            "translated" : 1466,
+            "fuzzy" : 206,
             "untranslated" : 581
         },
         "az" : {
