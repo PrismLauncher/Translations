@@ -7921,7 +7921,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1636"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation>المجلد الذي يحتوي على لعبتك به علامة &apos;!&apos; وهذا يسبب مشاكل في لغة جافا</translation>
+        <translation>يحتوي مجلد نموذجك على ’!’ و من الممكن أن يتسبب بمشاكل في الجافا!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1637"/>
