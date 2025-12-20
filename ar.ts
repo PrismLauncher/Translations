@@ -7926,27 +7926,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1637"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation type="unfinished"></translation>
+        <translation>لديك خياران: &lt;br/&gt; - إما أن تغير مجلد النموذج في الإعدادات &lt;br/&gt; - أو أن تنقل تثبيت %1 إلى مجلد آخر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation type="unfinished"></translation>
+        <translation>هذه مشكلة: &lt;br/&gt; - يمكن أن يحذف المشغل من قبل نظام التشغيل بدون إنذار &lt;br/&gt; - أغلق المشغل فورا واستخرجه إلى مجلد حقيقي غير مؤقت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>يحتوي مجلد لعبتك على &apos;Rar$&apos; هذا يعني انك لم تستخرج الأرشيف بشكل صحيح</translation>
+        <translation>يحتوي مجلد نموذجك على &apos;Rar$&apos; - هذا يعني انك لم تستخرج الأرشيف المشغل!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1657"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation>إن مجلد لعبتك مؤقتا هو: &apos;%1&apos;!</translation>
+        <translation>مجلد نموذجك في مجلد مؤقت: ’%1’!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1671"/>
         <source>Total playtime: %1</source>
-        <translation>مجمل وقت اللعب: %1</translation>
+        <translation>إجمالي وقت اللعب: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="853"/>
@@ -7960,7 +7960,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
         <source>Open %1 Discord guild.</source>
-        <translation type="unfinished"></translation>
+        <translation>افتج نقابة الديسكورد ل%1.</translation>
     </message>
     <message>
         <source>Couldn&apos;t create folder for update downloads:
@@ -7989,12 +7989,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation>معلومات المقدم:</translation>
+        <translation>معلومات الموفر:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation>تحديث الى اصدار:</translation>
+        <translation>تحديث إلى إصدار:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
@@ -8033,32 +8033,32 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="153"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation>الموقع: &lt;a href=%1&gt;%2&lt;/a&gt;    |    كود الحزمة: %3    |    كود الإصدار: %4</translation>
+        <translation>الموقع: &lt;a href=%1&gt;%2&lt;/a&gt;    |    رمز الحزمة: %3    |    رمز الإصدار: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="196"/>
         <source>Error</source>
-        <translation type="unfinished">خطأ</translation>
+        <translation>خطأ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="200"/>
         <source>Warnings</source>
-        <translation type="unfinished">تحذيرات</translation>
+        <translation>تحذيرات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>Task aborted</source>
-        <translation type="unfinished">أُلغيت المهمة</translation>
+        <translation>أُلغيت المهمة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">المهمة قد أُلغيت عن طريق المستخدم.</translation>
+        <translation>قد أُلغيت المهمة عن طريق المستخدم.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="208"/>
         <source>Abort</source>
-        <translation type="unfinished">إنهاء</translation>
+        <translation>إنهاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="216"/>
@@ -8088,12 +8088,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="327"/>
         <source>The instance updated to pack version %1 successfully.</source>
-        <translation>تم تحديث النموذج الى الى الإصدار %1 بنجاح.</translation>
+        <translation>تم تحديث النموذج إلى الإصدار %1 بنجاح.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="332"/>
         <source>Update Failed</source>
-        <translation type="unfinished">فشل التحديث</translation>
+        <translation>فشل التحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="333"/>
@@ -8106,7 +8106,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="121"/>
         <source>Loading local file</source>
-        <translation>استيراد الملفات المحلية</translation>
+        <translation>جار تحميل الملفات المحلية</translation>
     </message>
 </context>
 <context>
@@ -8114,7 +8114,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished">الاسم</translation>
+        <translation>الاسم</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
@@ -8138,7 +8138,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="125"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="140"/>
         <source>Aborted</source>
-        <translation>ملغي</translation>
+        <translation>الغيت</translation>
     </message>
 </context>
 <context>
@@ -8146,37 +8146,37 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="301"/>
         <source>&amp;Launch</source>
-        <translation>&amp;المشغل</translation>
+        <translation>&amp;الشغّل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="303"/>
         <source>Launch &amp;Offline</source>
-        <translation>تشغيل&amp; بدون اتصال</translation>
+        <translation>شغّل&amp; بدون اتصال</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
         <source>Ctrl+Shift+O</source>
-        <translation>Ctrl+Shift+O</translation>
+        <translation>Ctrl+Shift+O\خ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="305"/>
         <source>Launch &amp;Demo</source>
-        <translation>تشغيل&amp; نسخة تجريبية(ديمو)</translation>
+        <translation>شغّل&amp; نسخة تجريبية</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
         <source>Ctrl+Alt+O</source>
-        <translation>Ctrl+Alt+O</translation>
+        <translation>Ctrl+Alt+O\خ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
         <source>Profilers</source>
-        <translation type="unfinished">المحللات</translation>
+        <translation>المحللات</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="324"/>
         <source>&amp;No Profiler</source>
-        <translation>&amp;لا محللات</translation>
+        <translation>&amp;لا محلل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1011"/>
@@ -8210,7 +8210,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1069"/>
         <source>, last played on %1 for %2</source>
-        <translation>اخر وقت لعب في %1 لمدة %2</translation>
+        <translation>, آخر وقت لعب في %1 لمدة %2</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -8219,12 +8219,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1076"/>
         <source>, total played for %1</source>
-        <translation>, مجمل وقت اللعب %1</translation>
+        <translation>, إجمالي وقت اللعب %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1081"/>
         <source>, has crashed.</source>
-        <translation>, قد تحطمت.</translation>
+        <translation>, قد تهطلت.</translation>
     </message>
 </context>
 <context>
@@ -8232,7 +8232,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
-        <translation>الغيت</translation>
+        <translation>ألغيت</translation>
     </message>
 </context>
 <context>
@@ -8334,7 +8334,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
         <source>Minecraft</source>
-        <translation>ماينكرافت</translation>
+        <translation>ماين كرافت</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
@@ -8354,18 +8354,18 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="14"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation>جارٍ جلب ملف تعريف ماينكرافت.</translation>
+        <translation>جارٍ جلب ملف تعريف ماين كرافت.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="42"/>
         <source>Account has no Minecraft profile.</source>
-        <translation>الحساب لا يحتوي على حساب ماينكرافت.</translation>
+        <translation>لا يحتوي الحساب على نمط ماين كرافت.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="56"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="59"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation>فشل الحصول على ملف تعريف ماينكرافت:1%</translation>
+        <translation>تعذر الحصول على ملف تعريف ماين كرافت جافا:1%</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="65"/>
