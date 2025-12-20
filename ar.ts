@@ -7828,22 +7828,22 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1350"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>تم إضافة %1 إلى PATH بنجاح</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1351"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم إضافة %1 إلى PATH التابع لك بنجاح. يمكنك بدؤه بتشغيل ’%2’.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1354"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر إضافة %1 إلى PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>حدث خطأ عند محاولة إضافة %1 إلى PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -7853,7 +7853,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation>هل أنت متأكد من حذف هذه المجموعة &apos;1%&apos;?</translation>
+        <translation>هل أنت متأكد من حذف مجموعة ’1%’؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1187"/>
@@ -7873,28 +7873,28 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
         <source>Group already exists. :/</source>
-        <translation>المجموعة متواجدة</translation>
+        <translation>المجموعة متواجدة. :\</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
         <source>Cannot Delete Running Instance</source>
-        <translation>لا يمكن حذف النموذج</translation>
+        <translation>لا يمكن حذف النموذج الجار</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation>النموذج المختار يعمل حاليا ولا يمكن حذفه.رجاءا أوقف النموذج قبل محاولة حذفه</translation>
+        <translation>النموذج المختار يعمل حاليا ولا يمكن حذفه. يرجى إيقاف النموذج قبل محاولة حذفه.</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
         <source> and its %n registered shortcut(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform> مع عدم وجود اختصارات له</numerusform>
+            <numerusform> واختصاره المسجل</numerusform>
+            <numerusform> واختصارينه المسجلين</numerusform>
+            <numerusform> واختصاراته ال%n المسجلات</numerusform>
+            <numerusform> وال%n اختصارا مسجلا له</numerusform>
+            <numerusform> وال%n اختصار مسجل له</numerusform>
         </translation>
     </message>
     <message>
