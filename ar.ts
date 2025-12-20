@@ -386,12 +386,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="104"/>
         <source>Commit: %1</source>
-        <translation>التجهيز:1%</translation>
+        <translation>التجهيز:%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="109"/>
         <source>Build date: %1</source>
-        <translation>بيانات الإصدار:1%</translation>
+        <translation>بيانات الإصدار:%1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -991,8 +991,8 @@ for details.</oldsource>
         <translation>نجح التحديث
 
 أنت الآن تشغل %1 .
-تحقق من سجل تحديث برزم لانشر في:
-%1
+تحقق من سجل تحديث مشغل بريسم في:
+%2
 للمزيد من التفاصيل.</translation>
     </message>
     <message>
@@ -1084,7 +1084,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation>يتم الحصول على ملف الممتلكات من 1%...</translation>
+        <translation>يتم الحصول على ملف الممتلكات من %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -2322,7 +2322,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
         <translation>قد يؤدي تحديث حزم البيانات أثناء تشغيل اللعبة إلى تكرار الحزم وتعطل اللعبة.
-قد لا تحذف الملفات القديمة لأنها قيد الاستخدام.
+قد لا تُحذف الملفات القديمة لأنها قيد الاستخدام.
 هل أنت متأكد من رغبتك في القيام بذلك؟</translation>
     </message>
     <message>
@@ -2333,7 +2333,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation>&apos;1%&apos; محدث! :)</translation>
+        <translation>&apos;%1&apos; محدث! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
@@ -3076,12 +3076,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="346"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation> .( تم تحميل 1%، 2% مُحدد)</translation>
+        <translation> .( تم تحميل %1، تم تحديد %2)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="348"/>
         <source> (%1 installed)</source>
-        <translation> (1% مُثبت)</translation>
+        <translation> (تم تثبيت %1)</translation>
     </message>
 </context>
 <context>
@@ -7853,7 +7853,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation>هل أنت متأكد من حذف مجموعة ’1%’؟</translation>
+        <translation>هل أنت متأكد من حذف مجموعة ’%1’؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1187"/>
@@ -7946,7 +7946,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1671"/>
         <source>Total playtime: %1</source>
-        <translation>Translate By CMD إجمالي وقت اللعب: %1</translation>
+        <translation>إجمالي وقت اللعب: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="853"/>
@@ -8120,7 +8120,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation>تحميل البيانات الوصفية لـ %1:%2</translation>
+        <translation>تحميل البيانات التعريف لـ %1: %2</translation>
     </message>
 </context>
 <context>
@@ -8129,7 +8129,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation>تحميل البيانات الوصفية لـ %1</translation>
+        <translation>تحميل البيانات التعريف لـ %1</translation>
     </message>
 </context>
 <context>
@@ -8138,7 +8138,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="125"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="140"/>
         <source>Aborted</source>
-        <translation>الغيت</translation>
+        <translation>ألغيت</translation>
     </message>
 </context>
 <context>
@@ -8146,7 +8146,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="301"/>
         <source>&amp;Launch</source>
-        <translation>&amp;الشغّل</translation>
+        <translation>شغّل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="303"/>
@@ -8224,7 +8224,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1081"/>
         <source>, has crashed.</source>
-        <translation>, قد تهطلت.</translation>
+        <translation>, قد تعطلت.</translation>
     </message>
 </context>
 <context>
@@ -8365,7 +8365,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="56"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="59"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation>تعذر الحصول على ملف تعريف ماين كرافت جافا:1%</translation>
+        <translation>تعذر الحصول على ملف تعريف ماين كرافت جافا: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="65"/>
@@ -8498,12 +8498,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="681"/>
         <source>Use system installation of OpenAL</source>
-        <translation>استخدم نسخة النظام من OpenAL</translation>
+        <translation>استخدم نسخة النظام من أوبن إي إل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
         <source>Use system installation of GLFW</source>
-        <translation>استخدم نسخة النظام من GLFW</translation>
+        <translation>استخدم نسخة النظام من جي إل إف دابليو</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
@@ -8699,38 +8699,38 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="68"/>
         <source>Show time &amp;playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الوقت المبذول في لعب هذا النموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="69"/>
         <source>&amp;Record time playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>سجل الوقت المبذول في لعب هذا النموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="74"/>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;تنبيه&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: خيار الإطار الكبير غير مدعوم في هذا الإصدار لماين كرافت.&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="136"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">لم يتم العثور علي الجيم مود لفيرال انتيراكتيف في جهازك.</translation>
+        <translation>لم يتم العثور علي الجيم مود لفيرال انتيراكتيف في جهازك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="141"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">لم يتم العثور على مانجو هود في جهازك.</translation>
+        <translation>لم يتم العثور على مانجو هود في جهازك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="209"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="216"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">المسار إلى ملف المكتبة %1</translation>
+        <translation>المسار إلى ملف المكتبة %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="548"/>
         <source>Select Global Data Packs Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر مجلد حزم بيانات العامة</translation>
     </message>
 </context>
 <context>
@@ -8750,52 +8750,52 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>الفئات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>المحملات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
         <source>NeoForge</source>
-        <translation type="unfinished">نيوفورج</translation>
+        <translation>نيوفورج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <source>Forge</source>
-        <translation type="unfinished">فورج (Forge)</translation>
+        <translation>فورج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation type="unfinished">فابريك (Fabric)</translation>
+        <translation>فابريك</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation type="unfinished">كويلت (Quilt)</translation>
+        <translation>كويلت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
         <source>Show More</source>
-        <translation type="unfinished"></translation>
+        <translation>اظهر المزيد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">لايت لودر (LiteLoader)</translation>
+        <translation>لايت لودر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
         <source>Babric</source>
-        <translation type="unfinished"></translation>
+        <translation>بابريك</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="166"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished"></translation>
+        <translation>بي تي أي(بابريك)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"/>
@@ -8805,77 +8805,77 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
         <source>Ornithe</source>
-        <translation type="unfinished"></translation>
+        <translation>أورنيث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Rift</source>
-        <translation type="unfinished"></translation>
+        <translation>ريفت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="200"/>
         <source>Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>الإصدارات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="212"/>
         <source>Show all versions</source>
-        <translation type="unfinished"></translation>
+        <translation>اظهر جميع الإصدارات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
         <source>Environments</source>
-        <translation type="unfinished"></translation>
+        <translation>البيئات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="240"/>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>العميل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="247"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>الخادم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="257"/>
         <source>Hide installed items</source>
-        <translation type="unfinished"></translation>
+        <translation>اخف العناصر المثبتة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="264"/>
         <source>Open source only</source>
-        <translation type="unfinished"></translation>
+        <translation>افتح المصدر فقط</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="271"/>
         <source>Release type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع الإصدار</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="277"/>
         <source>Release</source>
-        <translation type="unfinished"></translation>
+        <translation>الإصدار</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="284"/>
         <source>Beta</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ تقريبية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="291"/>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ أولية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="298"/>
         <source>Unknown</source>
-        <translation type="unfinished">غير معروف</translation>
+        <translation>غير معروف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="128"/>
         <source>All Versions</source>
-        <translation type="unfinished">كل الإصدارات</translation>
+        <translation>كل الإصدارات</translation>
     </message>
 </context>
 <context>
@@ -8900,7 +8900,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 تحذير: هذا المورد مرتبط رمزيًا من مصدر آخر. تعديله سيُغيّر المصدر الأصلي أيضًا.
 المسار الأساسي: %1</translation>
     </message>
@@ -8908,7 +8908,7 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="127"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation>
 تحذير: هذا المورد مُرتبط ارتباطًا وثيقًا بمكان آخر. تعديله سيُغيّر المصدر الأصلي أيضًا.</translation>
     </message>
     <message>
@@ -8928,47 +8928,47 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>الموفر</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Enable</source>
-        <translation type="unfinished">تفعيل</translation>
+        <translation>تفعيل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Image</source>
-        <translation type="unfinished">صورة</translation>
+        <translation>صورة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Last Modified</source>
-        <translation type="unfinished">آخر تعديل</translation>
+        <translation>آخر تعديل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Size</source>
-        <translation type="unfinished">حجم</translation>
+        <translation>حجم</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Side</source>
-        <translation type="unfinished"></translation>
+        <translation>طرف</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>المحملات</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Release Type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع الإصدار</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="60"/>
         <source>Minecraft Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ ماين كرافت</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="177"/>
@@ -8988,37 +8988,37 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="183"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation>التأريخ والوقت منذ آخر تغيير على هذه الإضافة (أو تأريخ الإضافة).</translation>
+        <translation>التأريخ والوقت منذ آخر تغيير على هذه الإضافة (أو تاريخ إضافتها).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="185"/>
         <source>The source provider of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>موفر هذه الإضافة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
         <source>On what environment the mod is running.</source>
-        <translation type="unfinished"></translation>
+        <translation>البيئة التي تعمل عليها الإضافة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="189"/>
         <source>The mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>محمل الإضافة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="191"/>
         <source>The supported minecraft versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ ماين كرافت المدعومة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="193"/>
         <source>The release type.</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع الإصدار.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="195"/>
         <source>The size of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإضافة.</translation>
     </message>
 </context>
 <context>
@@ -9079,7 +9079,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
         <source>Download mods from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>نزل الإضافة من منصات الإضافات على الأنترنت</translation>
     </message>
     <message>
         <source>Context menu</source>
@@ -9093,30 +9093,31 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="85"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>تحقق من التحديثات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="79"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>حاول أن تتحقق أو أن تحدث كل الإضافات المختارة(أو كلها إذا لم يتم اختيار أيها)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="107"/>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>صدر بيانات تعريف الإضافة كنص.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="130"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished">تأكيد الحذف</translation>
+        <translation>تأكيد الحذف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="131"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>إذ أزلت الإضافات و اللعبة جارية فمن الممكن أن تتعطل لعبتك.
+هل أنت متأكد من إزالة الإضافة؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="166"/>
@@ -9124,7 +9125,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="256"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="316"/>
         <source>Error</source>
-        <translation type="unfinished">خطأ</translation>
+        <translation>خطأ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -9143,13 +9144,13 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="176"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="266"/>
         <source>Warnings</source>
-        <translation type="unfinished">تحذيرات</translation>
+        <translation>تحذيرات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="190"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="276"/>
         <source>Abort</source>
-        <translation type="unfinished">إنهاء</translation>
+        <translation>إنهاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
@@ -9211,7 +9212,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation>&apos;1%&apos; محدث! :)</translation>
+        <translation>&apos;%1&apos; محدث! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="72"/>
@@ -10309,7 +10310,7 @@ Reason: %1.</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
         <source>You are running the latest version.</source>
-        <translation>إنك تشغل احدث اصدار.</translation>
+        <translation>إنك تشغل احدث إصدار.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
@@ -12577,7 +12578,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation>&apos;1%&apos; محدث! :)</translation>
+        <translation>&apos;%1&apos; محدث! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="172"/>
@@ -13300,7 +13301,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="166"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation>&apos;1%&apos; محدث! :)</translation>
+        <translation>&apos;%1&apos; محدث! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"/>
@@ -14074,7 +14075,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="174"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation>&apos;1%&apos; محدث! :)</translation>
+        <translation>&apos;%1&apos; محدث! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="177"/>
