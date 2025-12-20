@@ -991,7 +991,7 @@ for details.</oldsource>
         <translation>نجح التحديث
 
 أنت الآن تشغل %1 .
-تحقق من سجل تحديث بريزم لانشر في:
+تحقق من سجل تحديث برزم لانشر في:
 %1
 للمزيد من التفاصيل.</translation>
     </message>
@@ -2322,7 +2322,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
         <translation>قد يؤدي تحديث حزم البيانات أثناء تشغيل اللعبة إلى تكرار الحزم وتعطل اللعبة.
-قد لا تُحذف الملفات القديمة لأنها قيد الاستخدام.
+قد لا تحذف الملفات القديمة لأنها قيد الاستخدام.
 هل أنت متأكد من رغبتك في القيام بذلك؟</translation>
     </message>
     <message>
@@ -7946,7 +7946,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1671"/>
         <source>Total playtime: %1</source>
-        <translation>إجمالي وقت اللعب: %1</translation>
+        <translation>Translate By CMD إجمالي وقت اللعب: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="853"/>
@@ -10308,7 +10308,7 @@ Reason: %1.</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
         <source>You are running the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>إنك تشغل احدث اصدار.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
