@@ -44,7 +44,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>تستطيع تغير هذا السيرفر اذا كنت تواجه مشاكل مع تحميل الممتلكات.</translation>
+        <translation>تستطيع تغير هذا السيرفر اذا كنت تواجه مشاكل مع تنزيل الممتلكات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="199"/>
@@ -219,12 +219,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="372"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>فشل محاولة إيجاد إصدار للمشغل %1</translation>
+        <translation>فشلت محاولة إيجاد إصدار للمحمل %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="385"/>
         <source>No loader version set for modpack!</source>
-        <translation>لم يتم اختيار نسخة المشغل من اجل حزمة الإضافات!</translation>
+        <translation>لم يتم اختيار نسخة المحمل من اجل حزمة الإضافات!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="516"/>
@@ -258,7 +258,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
         <source>Downloading mods...</source>
-        <translation>جاري تحميل الإضافات...</translation>
+        <translation>جاري تنزيل الإضافات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="709"/>
@@ -1330,7 +1330,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
         <source>Could not determine Java download type!</source>
-        <translation>لم يتمكن تحديد نوع تحميل جافا!</translation>
+        <translation>لم يتمكن تحديد نوع تنزيل جافا!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="183"/>
@@ -1364,17 +1364,17 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation>لقد أضفنا خاصية تحميل النسخة الصحيحة للجافا لكل نسخة من ماين كرافت(هذه الخاصية يمكن تغييرها في إعدادات جافا). هل تريد تفعيل أم تعطيل هذه الخاصية؟</translation>
+        <translation>لقد أضفنا خاصية تنزيل النسخة الصحيحة للجافا لكل نسخة من ماين كرافت(هذه الخاصية يمكن تغييرها في إعدادات جافا). هل تريد تفعيل أم تعطيل هذه الخاصية؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation>تفعيل التحميل التلقائي</translation>
+        <translation>تفعيل التنزيل التلقائي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation>تعطيل التحميل التلقائي</translation>
+        <translation>تعطيل التنزيل التلقائي</translation>
     </message>
 </context>
 <context>
@@ -1395,7 +1395,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
         <source>Please download the missing mods.</source>
-        <translation>يرجى تحميل الإضافات المفقودة.</translation>
+        <translation>يرجى تنزيل الإضافات المفقودة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
@@ -1421,7 +1421,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; إذا وجد النموذج سوف يتم البحث في المجلد المضبوط لكافة الإضافات و مجلد التحميلات الافتراضي لنسخ الإضافات منهم. &lt;/p&gt;&lt;p&gt; اختياريًا, يمكنك سحب و وضع الإضافات المحملة في هذه القائمة أو قم بإضافة مجلد إذا لم تضيف الإضافات في مكان التحميل الافتراضي. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; أنقر &apos;أرني المفقودات&apos; لتفتح كل روابط التحميل في المتصفح. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; إذا وجد النموذج سوف يتم البحث في المجلد المضبوط لكافة الإضافات و مجلد التنزيلات الافتراضي لنسخ الإضافات منهم. &lt;/p&gt;&lt;p&gt; اختياريًا, يمكنك سحب و وضع الإضافات المنزلة في هذه القائمة أو قم بإضافة مجلد إذا لم تضيف الإضافات في مكان التنزيل الافتراضي. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; أنقر &apos;أرني المفقودات&apos; لتفتح كل روابط التنزيل في المتصفح. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -1446,7 +1446,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>حدد الموقع حيث قمت بتنزيل الإضافات</translation>
+        <translation>حدد الموقع حيث قمت بتنزيل الإضافات به</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
@@ -1589,13 +1589,13 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="772"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation>‪لم يمكن تحميل بيانات التعريف %1 %2 الرجاء تغير الاصدار او اعادة المحاولة.</translation>
+        <translation>‪لم يمكن تنزيل بيانات التعريف %1 %2 الرجاء تغير الإصدار أو إعادة المحاولة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="777"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>عملية تحديث معلومات العنصر الوصفية فشلت أثناء التنزيل من الخادوم المتحكم:
+        <translation>عملية تحديث معلومات العنصر الوصفية فشلت أثناء التنزيل من الخادم المتحكم:
 %1</translation>
     </message>
 </context>
@@ -2245,7 +2245,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation>تحميل الحزم</translation>
+        <translation>تنزيل الحزم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
@@ -2265,7 +2265,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="82"/>
         <source>Download Data Packs</source>
-        <translation>تحميل حزم البيانات</translation>
+        <translation>تنزيل حزم البيانات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"/>
@@ -2289,7 +2289,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="173"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="246"/>
         <source>Download stopped by user.</source>
-        <translation>تم إيقاف التحميل بواسطة المستخدم.</translation>
+        <translation>تم إيقاف التنزيل بواسطة المستخدم.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="94"/>
@@ -2921,7 +2921,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="95"/>
         <source>Add a locally downloaded file.</source>
-        <translation>إضافة ملف مُحمل محلياً.</translation>
+        <translation>إضافة ملف مُنزّل محلياً.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="106"/>
@@ -2956,12 +2956,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
         <source>&amp;Download</source>
-        <translation>تحميل</translation>
+        <translation>تنزيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="155"/>
         <source>Download resources from online mod platforms.</source>
-        <translation>تحميل موارد من منصات الإضافات على الانترنت.</translation>
+        <translation>تنزيل موارد من منصات الإضافات على الإنترنت.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="166"/>
@@ -3287,7 +3287,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation>جار تحميل مكتبات FML...</translation>
+        <translation>جار تنزيل مكتبات FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
@@ -3449,7 +3449,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="184"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation>يوجد تحديث جديد للمصدر, ولكن لا يمكن تحميله باستخدام كورس فورج.</translation>
+        <translation>يوجد تحديث جديد للمصدر, ولكن لا يمكن تنزيله باستخدام كورس فورج.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
@@ -3507,7 +3507,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="307"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>فشل محاولة ايجاد اصدار ل المحمل %1</translation>
+        <translation>فشل محاولة إيجاد إصدار ل المحمل %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="312"/>
@@ -3566,7 +3566,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="569"/>
         <source>Mod Download Flame</source>
-        <translation>تحميل إضافات فليم</translation>
+        <translation>تنزيل إضافات فليم</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="600"/>
@@ -3598,7 +3598,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="605"/>
         <source>Downloading mods...</source>
-        <translation>جاري تحميل الإضافات...</translation>
+        <translation>جاري تنزيل الإضافات...</translation>
     </message>
 </context>
 <context>
@@ -3606,7 +3606,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="410"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;أهلاً هنا&lt;/h1&gt;&lt;h4&gt;يبدو أنّ معرف الحزمة خالي. وهذا بسبب خلل في النسخ الأقدم من المشغل &lt;br/&gt;لسوء الحظ لا يمكننا إرسال طلبات واجهة تطبيق سليمة بدون هذه المعلومات&lt;br/&gt;&lt;br/&gt;لكي تعمل هذه الميز يجب عليك أن تحمل حزمة الإضافات من المحمل المدمج &lt;br/&gt;&lt;br/&gt;لا تقلق, سيطلب منك تحديث هذا النموذج لكي لا تخسره&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;أهلاً هنا&lt;/h1&gt;&lt;h4&gt;يبدو أنّ معرف الحزمة خالي. وهذا بسبب خلل في النسخ الأقدم من المشغل &lt;br/&gt;لسوء الحظ لا يمكننا إرسال طلبات واجهة تطبيق سليمة بدون هذه المعلومات&lt;br/&gt;&lt;br/&gt;لكي تعمل هذه الميز يجب عليك أن تنزل حزمة الإضافات من المنزل المدمج &lt;br/&gt;&lt;br/&gt;لا تقلق, سيطلب منك تحديث هذا النموذج لكي لا تخسره&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="450"/>
@@ -3706,7 +3706,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>ملاحظة: يعطي كورس فورج لصانعي المحتوى الخيار لحظر أدوات الطرف الثالث مثل بريسم. لذلك يجب عليك أن تحمل بعض الحزم يدوياً.</translation>
+        <translation>ملاحظة: يعطي كورس فورج لصانعي المحتوى الخيار لحظر أدوات الطرف الثالث مثل بريسم. لذلك يجب عليك أن تنزل بعض الحزم يدوياً.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -3757,7 +3757,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation>فرز بحسب مجموع التحميلات</translation>
+        <translation>فرز بحسب مجموع التنزيلات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="198"/>
@@ -4069,7 +4069,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>حزمة الإضافات %1 محظورة للطرف الثالث. يرجى تحميله يدوياً.</translation>
+        <translation>حزمة الإضافات %1 محظورة للطرف الثالث. يرجى تنزيله يدوياً.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
@@ -4168,7 +4168,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation>لم يتم تحميل قائمة الإصدارات الخاصة بجافا!</translation>
+        <translation>لم يتم تنزيل قائمة الإصدارات الخاصة بجافا!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
@@ -4835,7 +4835,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="36"/>
         <source>Downloading Java</source>
-        <translation>جار تحميل الجافا</translation>
+        <translation>جار تنزيل الجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
@@ -4879,7 +4879,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="217"/>
         <source>Download</source>
-        <translation>&amp;حمّل</translation>
+        <translation>&amp;نزّل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="218"/>
@@ -4910,7 +4910,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="318"/>
         <source>Could not determine Java download type!</source>
-        <translation>لم يتمكن تحديد نوع تحميل الجافا!</translation>
+        <translation>لم يتمكن تحديد نوع تنزيل الجافا!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="319"/>
@@ -4929,7 +4929,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation>جار تحميل الجافا</translation>
+        <translation>جار تنزيل الجافا</translation>
     </message>
 </context>
 <context>
@@ -5045,7 +5045,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
         <source>Download</source>
-        <translation>التحميلات</translation>
+        <translation>التنزيلات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"/>
@@ -5241,12 +5241,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="120"/>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
-        <translation>يحمل ويختار بنية الجافا المستحسنة من موجانغ تلقائيا.</translation>
+        <translation>ينزل ويختار بنية الجافا المستحسنة من موجانغ تلقائيا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="123"/>
         <source>Auto-download &amp;Mojang Java</source>
-        <translation>تحميل &amp;الجافا لموجانغ تلقائيا</translation>
+        <translation>تنزيل &amp;الجافا لموجانغ تلقائيا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
@@ -5281,7 +5281,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
         <source>Open Java &amp;Downloader</source>
-        <translation>افتح محمل &amp;الجافا</translation>
+        <translation>افتح منزل &amp;الجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
@@ -5442,7 +5442,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation>حمل الجافا</translation>
+        <translation>نزل الجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
@@ -5527,7 +5527,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
         <source>Auto-download Mojang Java</source>
-        <translation>تحميل الجافا لموجانغ تلقائيا</translation>
+        <translation>تنزيل الجافا لموجانغ تلقائيا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="505"/>
@@ -5985,7 +5985,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="567"/>
         <source>Concurrent Download Limit:</source>
-        <translation>حد التحميلات المتزامنة:</translation>
+        <translation>حد التنزيلات المتزامنة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="577"/>
@@ -6000,7 +6000,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
         <source>&amp;Downloads:</source>
-        <translation>التحميلات :</translation>
+        <translation>التنزيلات :</translation>
     </message>
     <message>
         <source>Update interval</source>
@@ -6358,7 +6358,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="88"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation>تعذر العثور على مكتبات المشغل القديم. تحقق من تثبيبك.</translation>
+        <translation>تعذر العثور على مكتبات المشغل الإرثي. تحقق من تثبيبك.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="140"/>
@@ -6427,7 +6427,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation>فشل في تحميل بعض قوائم الحزم: %1</translation>
+        <translation>فشل في تنزيل بعض قوائم الحزم: %1</translation>
     </message>
 </context>
 <context>
@@ -6619,7 +6619,7 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation>جار الحصول على ملفات المكتبة المطلوبة...</translation>
+        <translation>جار تنزيل ملفات المكتبة المطلوبة...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -7393,7 +7393,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="771"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation>افتح مجلد الجافا في متصفح الملفات. ممكن فقط عند استخدام محمل الجافا المبني.</translation>
+        <translation>افتح مجلد الجافا في متصفح الملفات. ممكن فقط عند استخدام منزل الجافا المبني.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
@@ -7759,12 +7759,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="981"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>حزمة الإضافات, الإضافة أو المورد %1 محظور للطرف الثالث. يرجى تحميله يدوياً.</translation>
+        <translation>حزمة الإضافات, الإضافة أو المورد %1 محظور للطرف الثالث. يرجى تنزيله يدوياً.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1015"/>
         <source>Modpack download</source>
-        <translation>تحميل حزمة إضافات</translation>
+        <translation>تنزيل حزمة إضافات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1050"/>
@@ -8370,12 +8370,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="65"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم التعرف على رد ملف تعريف ماين كرافت جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم الحصول على ملف تعريف ماين كرافت جافا.</translation>
     </message>
 </context>
 <context>
@@ -8383,42 +8383,42 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="29"/>
         <source>Open &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>افتح الإعدادات العامة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">الإعدادات التي هنا ستتجاوز الإعدادات العامة.</translation>
+        <translation>ستتجاوز الإعدادات التي هنا الإعدادات العامة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
         <source>General</source>
-        <translation type="unfinished">عام</translation>
+        <translation>عام</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="73"/>
         <source>Game &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>نافذة اللعبة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>عند إغلاق نافذة اللعبة, أغلق المشغل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished">تشغيل ماينكرافت بإطار كبير؟</translation>
+        <translation>تشغيل ماين كرافت بإطار كبير</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا تدعم اللعبة الرئيسية إلا دقة الشاشة. لكي يتم محاكاة الإطار الكبير سيأخذ المنفذ الحالي أقرب قيمة للحجم الأقصى للعرض.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;تنبيه&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: من الممكن أن لا يكون خيار الإطار الكبير مدعوما في كل إصدارات ماين كرافت.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Window height:</source>
@@ -8431,27 +8431,27 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"/>
         <source>Game &amp;Time</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت اللعبة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الوقت المبذول في لعب النموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="344"/>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished"></translation>
+        <translation>سجّل الوقت المبذول في لعب النموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
         <source>Show the &amp;total time played across instances</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض إجمالي الوقت المبذول في لعب النماذج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="358"/>
         <source>Always show durations in &amp;hours</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الوقت في الساعات دائما</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
@@ -8468,158 +8468,159 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Java</source>
-        <translation type="unfinished">جافا</translation>
+        <translation>جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>التعديلات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="588"/>
         <source>&amp;Legacy Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>تعديلات الإرثية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="600"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;.يحاكي استخدام الخدمات القديمة التي توقفت عن العمل &lt;/p&gt;&lt;p&gt;تتضمن الإصلاحات الحالية: دعم المظاهر و الوضع المتصل بالشبكة.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;.يحاكي استخدام الخدمات القديمة التي توقفت عن العمل &lt;/p&gt;&lt;p&gt;تتضمن الإصلاحات الحالية: دعم المظاهر و الوضع المتصل بالشبكة.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="603"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished">تفعيل إصلاحات المتصلة بالشبكة (تجريبي)</translation>
+        <translation>تفعيل إصلاحات المتصلة بالشبكة (تجريبي)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="616"/>
         <source>&amp;Native Libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>المكاتب الأصلية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="681"/>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">استخدم نسخة النظام من OpenAL</translation>
+        <translation>استخدم نسخة النظام من OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">استخدم نسخة النظام من GLFW</translation>
+        <translation>استخدم نسخة النظام من GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
         <source>When the game window opens, hide the launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>عند انفتاح نافذة اللعبة, اخف المشغل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
         <source>&amp;Window Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم النافذة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="189"/>
         <source>×</source>
-        <translation type="unfinished"></translation>
+        <translation>بـ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="196"/>
         <source>pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>بكسل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="222"/>
         <source>&amp;Console Window</source>
-        <translation type="unfinished"></translation>
+        <translation>نافذة الطرفية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="234"/>
         <source>When the game is launched, show the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>عند تشغيل اللعبة, أظهر نافذة الطرفية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="241"/>
         <source>When the game crashes, show the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>عند تعطل اللعبة, أظهر نافذة الطرفية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="248"/>
         <source>When the game quits, hide the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>عند إغلاق اللعبة, أخف نافذة الطرفية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="258"/>
         <source>&amp;Global Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>حزم البيانات العامة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
-        <translation type="unfinished"></translation>
+        <translation>يسمح بتحميل حزم البيانات إلى كافة العوالم إذا وجدت إضافة داعمة لهم.
+من الممكن أ، تحتاج إلى تغيير المسار - يرجى استشارة موقع الشبكة الإضافة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
         <source>Folder Path</source>
-        <translation type="unfinished"></translation>
+        <translation>مسار المجلد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"/>
         <source>datapacks</source>
-        <translation type="unfinished"></translation>
+        <translation>حزم البيانات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
         <source>Browse</source>
-        <translation type="unfinished">تصفح</translation>
+        <translation>تصفح</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="368"/>
         <source>Override &amp;Default Account</source>
-        <translation type="unfinished"></translation>
+        <translation>تجاوز الحساب الافتراضي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="413"/>
         <source>Enable Auto-&amp;join</source>
-        <translation type="unfinished"></translation>
+        <translation>تفعيل الانضمام التلقائي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="435"/>
         <source>Singleplayer world:</source>
-        <translation type="unfinished"></translation>
+        <translation>عالم لاعب واحد:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="475"/>
         <source>Override Mod Download &amp;Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>تجاوز محملات ومنزلات الإضافات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
         <source>NeoForge</source>
-        <translation type="unfinished">نيوفورج</translation>
+        <translation>نيوفورج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
         <source>Forge</source>
-        <translation type="unfinished">فورج (Forge)</translation>
+        <translation>فورج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"/>
         <source>Fabric</source>
-        <translation type="unfinished">فابريك (Fabric)</translation>
+        <translation>فابريك</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"/>
         <source>Quilt</source>
-        <translation type="unfinished">كويلت (Quilt)</translation>
+        <translation>كويلت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">لايت لودر (LiteLoader)</translation>
+        <translation>لايت لودر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="631"/>
         <source>&amp;GLFW library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>مسار مكتبة جي إل إف دابليو:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="657"/>
@@ -8799,7 +8800,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>فابريك إرثي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
@@ -9136,7 +9137,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="260"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">تم إيقاف التحميل بواسطة المستخدم.</translation>
+        <translation>تم إيقاف التنزيل بواسطة المستخدم.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="176"/>
