@@ -7678,7 +7678,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
         <source>Total playtime: 0s</source>
-        <translation>إجمالي وقت اللعب: 0ث</translation>
+        <translation>إجمالي وقت اللعب: 0ث Translate by CMD</translation>
     </message>
     <message>
         <source>Profiles</source>
