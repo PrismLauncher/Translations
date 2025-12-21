@@ -9125,7 +9125,7 @@ Je pravdepodobné, že budete musieť zmeniť jeho cestu - prosím obráťte sa 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="548"/>
         <source>Select Global Data Packs Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrať globálny priečinok dátových balíkov</translation>
     </message>
 </context>
 <context>
@@ -10133,7 +10133,7 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Okej</translation>
     </message>
 </context>
 <context>
@@ -10162,7 +10162,7 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="113"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation type="unfinished">Okej</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="119"/>
