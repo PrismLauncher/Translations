@@ -12089,7 +12089,8 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="412"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">إصدار واجهة التطبيق قديم جدا!
+يرجى تحديث %1!</translation>
     </message>
 </context>
 <context>
