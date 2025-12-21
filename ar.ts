@@ -9237,12 +9237,12 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>كل الإضافات محدثة! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="56"/>
         <source>Mods</source>
-        <translation type="unfinished">الإضافات</translation>
+        <translation>الإضافات</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
@@ -9262,17 +9262,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="53"/>
         <source>Couldn&apos;t create the bin folder for Minecraft.jar</source>
-        <translation>تعذر إنشاء مجلد bin لملف Minecraft.jar</translation>
+        <translation>تعذر إنشاء مجلد الثنائي لملف Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="58"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
-        <translation>تعذر إزالة ملف jar فاسد: %1</translation>
+        <translation>تعذر إزالة ملف جار فاسد: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="71"/>
         <source>Failed to create the custom Minecraft jar file.</source>
-        <translation>فشل في إنشاء ملف Minecraft jar مخصص.</translation>
+        <translation>فشل في إنشاء ملف جار مخصص لماين كرافت.</translation>
     </message>
 </context>
 <context>
@@ -9360,7 +9360,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="324"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدث خطأ في الشبكة. لم نتمكن من تحميل حزم الإضافات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="331"/>
