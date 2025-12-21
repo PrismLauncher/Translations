@@ -3518,7 +3518,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="348"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation>تعذرت إعادة تسمية مجلد التجاوزات
+        <translation>تعذرت إعادة تسمية مجلد التجاوزات:
 </translation>
     </message>
     <message>
@@ -9367,7 +9367,8 @@ Are you sure?</source>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>إصدار واجهة التطبيق قديم جدا!
+يرجى تحديث %1!</translation>
     </message>
 </context>
 <context>
@@ -9379,22 +9380,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="52"/>
         <source>Preparing resources for Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>جار تجهيز الموارد لمودرينث...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="113"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>تحليل رد واجهة التطبيق من مودرينث...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="179"/>
         <source>Not installed</source>
-        <translation type="unfinished">ليس مثبت</translation>
+        <translation>ليس مثبت</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="181"/>
         <source>Unknown</source>
-        <translation type="unfinished">غير معروف</translation>
+        <translation>غير معروف</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="217"/>
@@ -9404,12 +9405,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="220"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">لا يوجد إصدار صالح لهذا المصدر. من الأرجح أن لا يكون موجوداً لنسخة اللعبة الحالية.</translation>
+        <translation>لا يوجد إصدار صالح لهذا المصدر. من الأرجح أن لا يكون موجوداً لنسخة اللعبة الحالية.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>جار انتظار رد واجهة التطبيق من مودرينث...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -9431,51 +9432,52 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="152"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">لم نستطع إيجاد ملف فهرس مناسب للنسخة القديمة وهذا قد يسبب تكرار بعض الملفات. هل تريد الاستمرار؟</translation>
+        <translation>لم نستطع إيجاد ملف فهرس مناسب للنسخة القديمة وهذا قد يسبب تكرار بعض الملفات. هل تريد الاستمرار؟</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="196"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">تعذرت إعادة تسمية مجلد &quot;overrides&quot;:
+        <translation>تعذرت إعادة تسمية مجلد التجاوزات:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="209"/>
         <source>Could not rename the client overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>تعذرت إعادة تسمية مجلد التجاوزات العميل:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="246"/>
         <source>Mod Download Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation>تنزيل الإضافات مودرينث</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="258"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>يحتوي أحد الملفات على مسار يؤدي إلى موقع تعسفي (%1). يعد هذا خطر أمني وهو غير مسموح.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="270"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
-        <translation type="unfinished"></translation>
+        <translation>يتفقد الملف ’%1’ رابط التنزيل. إنها صيغة غير صالحة.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="300"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="324"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">تم %1 من %2</translation>
+        <translation>تم %1 من %2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="305"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>جاري تنزيل الإضافات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="413"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
-        <translation type="unfinished"></translation>
+        <translation>رابط التنزيل ل%1 ليس صالح الصيغة</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="473"/>
