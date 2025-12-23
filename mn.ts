@@ -3794,7 +3794,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Java-г татаж байна</translation>
     </message>
 </context>
 <context>
@@ -3843,7 +3843,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Татах</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"/>
@@ -4456,7 +4456,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Хавтасууд</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
@@ -5873,7 +5873,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="861"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Даалгавар цуцлагдав</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="861"/>
@@ -5895,7 +5895,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1015"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модпак татах</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1050"/>
@@ -6221,7 +6221,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="332"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Шинэчилэхэд алдаа гарав</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="333"/>
@@ -7069,7 +7069,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="216"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Шинэлэлт баталгаажуулах</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
@@ -7094,7 +7094,7 @@ Are you sure you want to do this?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="249"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Шинэлэлт шалгагч</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="290"/>
@@ -7209,7 +7209,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="179"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Суулгасангүй</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="181"/>
@@ -7366,7 +7366,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="85"/>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Нийт таталттайгаар эрэмбэлэх</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="86"/>
@@ -7377,7 +7377,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="88"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сүүлд шинэчлэгдсэнээр эрэмбэлэх</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="153"/>
@@ -7434,7 +7434,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Шүүлтийн тохиргоо</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
@@ -7748,7 +7748,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="171"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Хуулах</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="178"/>
@@ -8959,7 +8959,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="91"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="96"/>
@@ -9108,18 +9108,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Онцлохоор эрэмбэлэх</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Алдартайгаар эрэмбэлэх</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сүүлд шинэчлэгдсэнээр эрэмбэлэх</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
@@ -9129,7 +9129,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
         <source>Sort by Author</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Бүтээгчээр эрэмбэлэх</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
@@ -10152,7 +10152,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="144"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Шинэлэлт баталгаажуулах</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="145"/>
@@ -10184,7 +10184,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Шинэлэлт шалгагч</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="218"/>
@@ -10213,7 +10213,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Шүүлтийн тохиргоо</translation>
     </message>
 </context>
 <context>
@@ -10314,7 +10314,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="232"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Суулгасангүй</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="268"/>
@@ -10457,7 +10457,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="67"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Байршуулах</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="72"/>
@@ -10721,7 +10721,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="162"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Устгах</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="167"/>
@@ -10859,7 +10859,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="141"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Шинэлэлт баталгаажуулах</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="142"/>
@@ -10891,7 +10891,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Шинэлэлт шалгагч</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="215"/>
@@ -11257,12 +11257,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="49"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модпак татах</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="64"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модпакийг задлаж байна</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
@@ -11303,7 +11303,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="138"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модпакийг задлаж байна</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="181"/>
@@ -11540,7 +11540,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="149"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Шинэлэлт баталгаажуулах</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="150"/>
@@ -11572,7 +11572,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Шинэлэлт шалгагч</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="223"/>
@@ -11612,7 +11612,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="391"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Хэл</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
@@ -11731,7 +11731,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="132"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Устгах</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="140"/>
@@ -11841,7 +11841,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="164"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ачаалагчийг суулгах</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="167"/>
@@ -12281,7 +12281,7 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Мэдээлэл</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="281"/>

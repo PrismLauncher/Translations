@@ -11496,7 +11496,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="31"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مجهول</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
@@ -11543,17 +11543,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">فرز حسب الشهرة</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">فرز حسب المتابعين</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">فرز حسب الأحدث</translation>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="64"/>
@@ -12170,7 +12170,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="251"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ديسكورد: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="272"/>
