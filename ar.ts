@@ -9483,7 +9483,8 @@ Please update %1!</source>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="473"/>
         <source>Could not understand pack index:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم فهم فهرس الحزمة:
+</translation>
     </message>
 </context>
 <context>
@@ -9491,22 +9492,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="278"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished">%1 (الحالي)</translation>
+        <translation>%1 (الحالي)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="292"/>
         <source>Fetching changelogs...</source>
-        <translation type="unfinished"></translation>
+        <translation>جار تحضير سجل التغيير...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="372"/>
         <source>Choose update file</source>
-        <translation type="unfinished">اختر ملف التحديث</translation>
+        <translation>اختر ملف التحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="372"/>
         <source>Modrinth pack</source>
-        <translation>حزمة &quot;مودرينث&quot;</translation>
+        <translation>حزمة مودرينث</translation>
     </message>
 </context>
 <context>
@@ -9514,22 +9515,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="59"/>
         <source>Searching for files...</source>
-        <translation type="unfinished">جاري البحث على الملفات...</translation>
+        <translation>جاري البحث على الملفات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="80"/>
         <source>Could not search for files</source>
-        <translation type="unfinished">لم يتمكن من البحث عن الملفات</translation>
+        <translation>تعذر البحث عن الملفات</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="96"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished">جاري البحث عن تجزئات الملف...</translation>
+        <translation>جاري البحث عن تجزئات الملف...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="157"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">جاري البحث عن نسخة تجزئات...</translation>
+        <translation>جاري البحث عن نسخة تجزئات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="193"/>
