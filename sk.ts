@@ -8391,7 +8391,7 @@ Môže byť aktualizovaný iba pomocou súboru vo formáte %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="332"/>
         <source>Update Failed</source>
-        <translation type="unfinished">Aktualizácia zlyhala</translation>
+        <translation>Aktualizácia umrela</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="333"/>
@@ -9328,7 +9328,7 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
         <source>Enable</source>
-        <translation type="unfinished">Povoliť</translation>
+        <translation>Povoliť pls</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="59"/>
