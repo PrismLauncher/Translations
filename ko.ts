@@ -13962,7 +13962,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="504"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="510"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -13971,7 +13971,7 @@ Canonical Path: %1</source>
 표준 경로 : %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="511"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="517"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -14007,50 +14007,50 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation type="vanished">최근 수정됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="259"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="265"/>
         <source>Confirm toggle</source>
         <translation>전환 확인</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="260"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="266"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>게임이 실행 중일 때 이 리소스를 활성화/비활성화하면 게임이 충돌할 수 있습니다.
 확실합니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="562"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="568"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>리소스의 활성화 여부입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="564"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
         <translation>리소스의 이름입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="566"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>리소스가 마지막으로 수정(또는 추가)된 날짜와 시간입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="568"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="574"/>
         <source>The source provider of the resource.</source>
         <translation>리소스의 소스 공급자입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="576"/>
         <source>The size of the resource.</source>
         <translation>리소스의 크기입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="661"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="667"/>
         <source>Override Columns Visibility</source>
         <translation>열 표시 여부 덮어쓰기</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="674"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="680"/>
         <source>Show / Hide Columns</source>
         <translation>열 보이기/숨기기</translation>
     </message>

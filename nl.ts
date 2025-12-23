@@ -13751,7 +13751,7 @@ De auteur heeft waarschijnlijk derdepartijlaunchers geblokeerd.</translation>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="504"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="510"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -13760,7 +13760,7 @@ Waarschuwing: Deze bron is al ergens anders symbolisch gelinkt. Hem bijwerken za
 Canoniek Pad: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="511"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="517"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -13796,50 +13796,50 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
         <translation type="vanished">Laatst gewijzigd</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="259"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="265"/>
         <source>Confirm toggle</source>
         <translation>Omschakelen bevestigen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="260"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="266"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Als je deze bron in- of uitschakelt terwijl het spel actief is, kan het spel crashen.
 Weet je zeker dat je dit wilt doen?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="562"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="568"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Is het gegeven ingeschakeld?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="564"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
         <translation>De naam van het gegeven.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="566"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>De datum en tijd dat dit gegeven voor het laatst is aangepast (of toegevoegd).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="568"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="574"/>
         <source>The source provider of the resource.</source>
         <translation>De bronleverancier van de hulpbron.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="576"/>
         <source>The size of the resource.</source>
         <translation>De grootte van de bron.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="661"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="667"/>
         <source>Override Columns Visibility</source>
         <translation>Kolomzichtbaarheid Overschrijden</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="674"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="680"/>
         <source>Show / Hide Columns</source>
         <translation>Kolommen weergeven/verbergen</translation>
     </message>

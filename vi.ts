@@ -13363,7 +13363,7 @@ Có thể tác giả đã chặn các trình khởi chạy của bên thứ ba (
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="504"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="510"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -13372,7 +13372,7 @@ Cảnh báo: Tài nguyên này đã được liên kết từ đâu đó. Chỉn
 Đường dẫn gốc: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="511"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="517"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -13404,50 +13404,50 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
         <translation>Bên cung cấp</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="259"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="265"/>
         <source>Confirm toggle</source>
         <translation>Xác nhận thay đổi</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="260"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="266"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Nếu bạn bật/tắt tài nguyên này trong lúc game đang chạy, nó có thể gây crash game.
 Bạn có chắc muốn làm điều này?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="562"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="568"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Có phải tài nguyên đã được bật?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="564"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
         <translation>Tên của tài nguyên.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="566"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>Thời gian thay đổi (hoặc được thêm vào) gần đây nhất của tài nguyên.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="568"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="574"/>
         <source>The source provider of the resource.</source>
         <translation>Nguồn cung cấp tài nguyên.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="576"/>
         <source>The size of the resource.</source>
         <translation>Kích cỡ của tài nguyên.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="661"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="667"/>
         <source>Override Columns Visibility</source>
         <translation>Vượt quá khả năng hiển thị của cột</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="674"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="680"/>
         <source>Show / Hide Columns</source>
         <translation>Hiện / Ẩn các cột</translation>
     </message>

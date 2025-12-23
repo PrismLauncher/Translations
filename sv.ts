@@ -13834,7 +13834,7 @@ The author likely blocked third-party launchers.</source>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="504"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="510"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -13843,7 +13843,7 @@ Varning: Denna resurs är symboliskt länkad från en annan plats. Ändringar ti
 Ursprunglig sökväg: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="511"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="517"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -13879,50 +13879,50 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
         <translation type="vanished">Senast ändrad</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="259"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="265"/>
         <source>Confirm toggle</source>
         <translation>Bekräfta växel</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="260"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="266"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Om du aktiverar/inaktiverar den här resursen medan spelet körs kan det krascha ditt spel.
 Är du säker på att du vill göra det här?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="562"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="568"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Är resursen aktiverad?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="564"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
         <source>The name of the resource.</source>
         <translation>Namnet på resursen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="566"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>Datumet och tiden när denna resurs senast ändrades (eller lades till).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="568"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="574"/>
         <source>The source provider of the resource.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="570"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="576"/>
         <source>The size of the resource.</source>
         <translation>Storleken på resursen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="661"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="667"/>
         <source>Override Columns Visibility</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="674"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="680"/>
         <source>Show / Hide Columns</source>
         <translation>Visa / Dölj Kolumner</translation>
     </message>
